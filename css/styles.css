@@ -230,6 +230,12 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 .zip-check{display:flex;align-items:center;gap:10px;border:2px solid var(--line);border-radius:12px;padding:10px 12px;font-size:14px;font-weight:600;cursor:pointer}
 .zip-check input{accent-color:var(--orange);width:17px;height:17px}
 .zip-check.on{border-color:var(--orange);background:var(--orange-soft)}
+.zip-check.custom-zip{border-style:dashed}
+.zip-add{display:flex;gap:8px;margin-top:12px}
+.zip-add input{flex:1;border:2px solid var(--line);border-radius:12px;padding:11px 14px;font-size:15px;font-family:inherit;background:#fff;min-width:0}
+.zip-add input:focus{outline:none;border-color:var(--navy)}
+.zip-x{margin-left:6px;border:none;background:none;color:var(--muted);font-size:17px;line-height:1;cursor:pointer;padding:0 2px;border-radius:6px}
+.zip-x:hover{color:#8F2323}
 .radio-row{display:flex;gap:10px;flex-wrap:wrap}
 .radio-pill{border:2px solid var(--line);border-radius:999px;padding:9px 18px;font-weight:600;font-size:14px;cursor:pointer;display:flex;gap:8px;align-items:center}
 .radio-pill input{accent-color:var(--orange)}

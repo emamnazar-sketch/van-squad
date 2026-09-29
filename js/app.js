@@ -16,6 +16,55 @@
     clearTimeout(t._tm); t._tm = setTimeout(function () { t.classList.remove('show'); }, 2600);
   }
   function zipName(z) { return D.ZIP_NAMES[z] || ('ZIP ' + z); }
+  function isValidZip(z) { return /^\d{5}$/.test(String(z || '').trim()); }
+
+  /* Service-area ZIP picker: standard grid + removable custom-ZIP chips. */
+  function zipGridHTML(selected) {
+    selected = selected || [];
+    var std = D.ALL_ZIPS.map(function (z) {
+      var on = selected.indexOf(z) >= 0;
+      return '<label class="zip-check' + (on ? ' on' : '') + '"><input type="checkbox" name="zips" value="' + z + '"' + (on ? ' checked' : '') + '> ' + z + ' · ' + h(zipName(z)) + '</label>';
+    }).join('');
+    var custom = selected.filter(function (z) { return D.ALL_ZIPS.indexOf(z) < 0; }).map(function (z) {
+      return '<label class="zip-check on custom-zip"><input type="checkbox" name="zips" value="' + h(z) + '" checked> ' + h(z) + ' <button type="button" class="zip-x" title="Remove ZIP">\u00d7</button></label>';
+    }).join('');
+    return std + custom;
+  }
+  function customZipRowHTML() {
+    return '<div class="zip-add"><input type="text" class="zip-add-input" inputmode="numeric" maxlength="5" placeholder="Add another ZIP \u2014 e.g. 95630" aria-label="Add another ZIP code">' +
+      '<button type="button" class="btn btn-outline btn-sm zip-add-btn">Add</button></div>' +
+      '<p class="hint zip-add-err" style="display:none;color:#8F2323"></p>';
+  }
+  function bindCustomZips(root) {
+    var grid = root.querySelector('.zip-grid');
+    var input = root.querySelector('.zip-add-input');
+    var btn = root.querySelector('.zip-add-btn');
+    var errEl = root.querySelector('.zip-add-err');
+    if (!grid || !input || !btn) return;
+    function showErr(m) { if (errEl) { errEl.textContent = m; errEl.style.display = m ? 'block' : 'none'; } }
+    grid.addEventListener('click', function (e) {
+      var x = e.target && e.target.closest ? e.target.closest('.zip-x') : null;
+      if (x) { e.preventDefault(); var lab = x.closest('.zip-check'); if (lab) lab.remove(); }
+    });
+    grid.addEventListener('change', function (e) {
+      var cb = e.target;
+      if (cb && cb.name === 'zips') { var lab = cb.closest('.zip-check'); if (lab) lab.classList.toggle('on', cb.checked); }
+    });
+    function addZip() {
+      var z = input.value.trim();
+      showErr('');
+      if (!isValidZip(z)) { showErr('Enter a valid 5-digit ZIP code.'); input.focus(); return; }
+      if (root.querySelector('input[name="zips"][value="' + z + '"]')) { showErr('That ZIP is already in your list.'); return; }
+      var lab = document.createElement('label');
+      lab.className = 'zip-check on custom-zip';
+      lab.innerHTML = '<input type="checkbox" name="zips" value="' + z + '" checked> ' + h(z) + ' <button type="button" class="zip-x" title="Remove ZIP">\u00d7</button>';
+      grid.appendChild(lab);
+      input.value = '';
+      toast('ZIP ' + z + ' added to your service area.');
+    }
+    btn.addEventListener('click', addZip);
+    input.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); addZip(); } });
+  }
 
   var ICONS = {
     car: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 11l1.5-4.5A2 2 0 0 1 8.4 5h7.2a2 2 0 0 1 1.9 1.5L19 11"/><rect x="3" y="11" width="18" height="6" rx="2"/><circle cx="7.5" cy="17.5" r="1.8"/><circle cx="16.5" cy="17.5" r="1.8"/></svg>',
@@ -555,11 +604,7 @@
 
   /* ---------- join / business signup ---------- */
   function viewJoin() {
-    var zipChecks = D.ALL_ZIPS.map(function (z) {
-      var on = z === '95814' ? ' on' : '';
-      var chk = z === '95814' ? ' checked' : '';
-      return '<label class="zip-check' + on + '"><input type="checkbox" name="zips" value="' + z + '"' + chk + '> ' + z + ' · ' + h(zipName(z)) + '</label>';
-    }).join('');
+    var zipChecks = zipGridHTML(['95814']);
     var catOpts = D.CATEGORIES.filter(function (c) { return c.live; }).map(function (c) {
       return '<option>' + h(c.name) + '</option>';
     }).join('');
@@ -585,7 +630,7 @@
           '<div class="f-row single"><div class="field"><label>Website (optional)</label><input name="website" placeholder="https://…"></div></div>' +
         '</div>' +
         '<div class="form-sec"><h3>Service area</h3><p>Where do you travel? Customers outside these ZIPs won’t see your listing.</p>' +
-          '<div class="zip-grid">' + zipChecks + '</div>' +
+          '<div class="zip-grid">' + zipChecks + '</div>' + customZipRowHTML() +
           '<div class="f-row" style="margin-top:14px"><div class="field"><label>Travel radius (miles)</label><input name="travelRadius" type="number" min="0" value="15"></div>' +
           '<div class="field"><label>Travel fee ($) — 0 means included</label><input name="travelFee" type="number" min="0" value="0"></div></div>' +
         '</div>' +
@@ -617,9 +662,8 @@
   }
 
   async function afterJoin() {
-    document.querySelectorAll('.zip-check input').forEach(function (cb) {
-      cb.addEventListener('change', function () { cb.closest('.zip-check').classList.toggle('on', cb.checked); });
-    });
+    var joinForm = document.getElementById('biz-signup');
+    if (joinForm) bindCustomZips(joinForm);
     var tagline = document.getElementById('su-tagline');
     var tagCount = document.getElementById('su-tagline-count');
     if (tagline && tagCount) {
@@ -949,10 +993,7 @@
       '<div class="f-row"><div class="field"><label>Business email</label><input name="email" value="' + h(active.email || '') + '"></div>' +
       '<div class="field"><label>Website</label><input name="website" value="' + h(active.website || '') + '"></div></div></div>' +
       '<div class="form-sec"><h3>Service area & pricing</h3>' +
-      '<div class="zip-grid">' + D.ALL_ZIPS.map(function (z) {
-        var on = active.zips.indexOf(z) >= 0;
-        return '<label class="zip-check' + (on ? ' on' : '') + '"><input type="checkbox" name="zips" value="' + z + '"' + (on ? ' checked' : '') + '> ' + z + ' · ' + h(zipName(z)) + '</label>';
-      }).join('') + '</div>' +
+      '<div class="zip-grid">' + zipGridHTML(active.zips) + '</div>' + customZipRowHTML() +
       '<div class="f-row" style="margin-top:14px"><div class="field"><label>Travel fee ($)</label><input name="travelFee" type="number" min="0" value="' + h(active.travelFee || 0) + '"></div>' +
       '<div class="field"><label>Travel radius (miles)</label><input name="travelRadius" type="number" min="0" value="' + h(active.travelRadius || 0) + '"></div></div></div>' +
       '<div class="form-sec"><h3>Service package</h3>' +
@@ -968,9 +1009,7 @@
       '<div class="f-row single"><div class="field"><label>Cancellation policy</label><input name="cancellation" value="' + h(l.cancellation || '') + '"></div></div></div>' +
       '<button class="btn btn-primary" type="submit">Save changes</button> ' +
       '<a class="btn btn-outline" href="#/business/' + h(active.slug || active.id) + '">View public listing</a></form>';
-    manage.querySelectorAll('.zip-check input').forEach(function (cb) {
-      cb.addEventListener('change', function () { cb.closest('.zip-check').classList.toggle('on', cb.checked); });
-    });
+    bindCustomZips(manage);
     document.getElementById('biz-edit').addEventListener('submit', async function (e) {
       e.preventDefault();
       var fd = new FormData(e.target);
@@ -1013,10 +1052,7 @@
       '</div>' +
       '<form class="form-card" id="ws-form" style="max-width:820px">' +
         '<div class="form-sec"><h3>Service area</h3><p>Tick every ZIP you travel to.</p><div class="zip-grid">' +
-        D.ALL_ZIPS.map(function (z) {
-          var on = active.zips.indexOf(z) >= 0;
-          return '<label class="zip-check' + (on ? ' on' : '') + '"><input type="checkbox" name="zips" value="' + z + '"' + (on ? ' checked' : '') + '> ' + z + ' · ' + h(zipName(z)) + '</label>';
-        }).join('') + '</div></div>' +
+        zipGridHTML(active.zips) + '</div>' + customZipRowHTML() + '</div>' +
         '<div class="form-sec"><h3>Pricing & scheduling</h3>' +
         '<div class="f-row"><div class="field"><label>Package price ($)</label><input name="price" type="number" min="0" value="' + (l.price === null || l.price === undefined ? '' : h(l.price)) + '"></div>' +
         '<div class="field"><label>Travel fee ($)</label><input name="travelFee" type="number" min="0" value="' + h(active.travelFee || 0) + '"></div></div>' +
@@ -1028,9 +1064,7 @@
         '<div class="f-row"><div class="field"><label>Earliest opening</label><input name="earliestOpening" value="' + h(active.earliestOpening || '') + '" placeholder="e.g. Wed, Sep 30"></div>' +
         '<div class="field"><label>Arrival windows (one per line)</label><textarea name="arrivalWindows" style="min-height:70px">' + h((active.arrivalWindows || []).join('\n')) + '</textarea></div></div></div>' +
         '<button class="btn btn-primary" type="submit">Save settings</button></form>';
-    body.querySelectorAll('.zip-check input').forEach(function (cb) {
-      cb.addEventListener('change', function () { cb.closest('.zip-check').classList.toggle('on', cb.checked); });
-    });
+    bindCustomZips(body);
     document.getElementById('ws-form').addEventListener('submit', async function (e) {
       e.preventDefault();
       var fd = new FormData(e.target);
