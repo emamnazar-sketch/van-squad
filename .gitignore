@@ -1,0 +1,11 @@
+# Secrets — never commit filled values; config.js ships with empty placeholders
+js/config.local.js
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+*~
+
+# Logs / caches
+npm-debug.log*
+.cache/

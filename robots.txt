@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /#/customer
+Disallow: /#/dashboard
+Disallow: /#/workspace
+Disallow: /#/book/
+
+Sitemap: https://vansquad.example/sitemap.xml

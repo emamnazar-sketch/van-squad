@@ -1,0 +1,19 @@
+# Van Squad — static single-page app (hash routing, no build step)
+[build]
+  publish = "."
+  command = ""
+
+# Security headers on everything; cache-bust only the entry HTML
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+# Hash routes (#/...) need no rewrites — the file is always /index.html
