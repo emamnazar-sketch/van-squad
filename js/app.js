@@ -238,9 +238,11 @@
     var pills = [{ name: '' , label: 'All services' }].concat(
       D.CATEGORIES.map(function (c) { return { name: c.name, label: c.name, live: c.live }; })
     ).map(function (p) {
-      var dis = p.name && p.live === false ? ' disabled' : '';
+      var soon = p.name && p.live === false;
       var on = browseState.category === p.name ? ' on' : '';
-      return '<button type="button" class="pill' + on + dis + '" data-cat="' + h(p.name) + '"' + dis + '>' + h(p.label) + '</button>';
+      return '<button type="button" class="pill' + on + (soon ? ' pill-soon' : '') + '" data-cat="' + h(p.name) + '"' +
+        (soon ? ' title="Coming soon — no businesses listed here yet"' : '') + '>' + h(p.label) +
+        (soon ? ' <span class="pill-soon-tag">Soon</span>' : '') + '</button>';
     }).join('');
     return '' +
     '<section class="explore-head"><div class="wrap">' +
@@ -284,7 +286,17 @@
     var wrap = document.getElementById('browse-cards');
     var note = document.getElementById('results-note');
     if (!res.length) {
-      wrap.innerHTML = '<div class="empty" style="grid-column:1/-1">No businesses match those filters yet. Try a different ZIP or search — and check back soon, new businesses are joining.</div>';
+      var catSoon = null;
+      for (var ci = 0; ci < D.CATEGORIES.length; ci++) {
+        if (D.CATEGORIES[ci].name === browseState.category && D.CATEGORIES[ci].live === false) { catSoon = D.CATEGORIES[ci]; break; }
+      }
+      wrap.innerHTML = '<div class="empty" style="grid-column:1/-1">' +
+        (catSoon
+          ? '<h3 style="margin-top:0">No ' + h(catSoon.name) + ' businesses yet.</h3>' +
+            '<p>We\u2019re bringing this category to ZIP ' + h(browseState.zip || '95814') + ' soon. Own a ' + h(catSoon.name.toLowerCase()) + ' business? Be the first listed.</p>' +
+            '<a class="btn btn-primary" href="#/join" style="margin-top:12px">List your business \u2192</a>'
+          : 'No businesses match those filters yet. Try a different ZIP or search \u2014 and check back soon, new businesses are joining.') +
+        '</div>';
     } else {
       wrap.innerHTML = res.map(function (b) {
         return bizCard(b, { zip: browseState.zip, compare: browseState.compareMode, compareSet: browseState.compareSet });
@@ -354,7 +366,6 @@
     });
     document.querySelectorAll('[data-cat]').forEach(function (p) {
       p.addEventListener('click', function () {
-        if (p.disabled) return;
         browseState.category = p.getAttribute('data-cat');
         document.querySelectorAll('[data-cat]').forEach(function (x) { x.classList.remove('on'); });
         p.classList.add('on');
@@ -566,7 +577,7 @@
         '<div class="form-sec"><h3>Your business</h3><p>The basics customers see first.</p>' +
           '<div class="f-row"><div class="field"><label>Business name <span class="req">*</span></label><input name="name" required placeholder="Shine On Mobile Detailing"></div>' +
           '<div class="field"><label>Category <span class="req">*</span></label><select name="category">' + catOpts + '</select></div></div>' +
-          '<div class="f-row single"><div class="field"><label>Tagline</label><input name="tagline" placeholder="A fresh start for your daily drive."><span class="hint">One short line — what makes you the go-to?</span></div></div>' +
+          '<div class="f-row single"><div class="field"><label>Tagline</label><input name="tagline" id="su-tagline" maxlength="80" placeholder="A fresh start for your daily drive."><span class="hint">One short line \u2014 what makes you the go-to? <span id="su-tagline-count" class="muted">0/80</span></span></div></div>' +
           '<div class="f-row single"><div class="field"><label>About your business <span class="req">*</span></label><textarea name="description" required placeholder="What do you do, and what is it like to book you?"></textarea></div></div>' +
           '<div class="f-row"><div class="field"><label>Phone <span class="req">*</span></label><input name="phone" required placeholder="(916) 555-0100"></div>' +
           '<div class="field"><label>Business email</label><input name="email" type="email" placeholder="hello@yourbusiness.com"></div></div>' +
@@ -608,6 +619,12 @@
     document.querySelectorAll('.zip-check input').forEach(function (cb) {
       cb.addEventListener('change', function () { cb.closest('.zip-check').classList.toggle('on', cb.checked); });
     });
+    var tagline = document.getElementById('su-tagline');
+    var tagCount = document.getElementById('su-tagline-count');
+    if (tagline && tagCount) {
+      var updTag = function () { tagCount.textContent = tagline.value.length + '/80'; };
+      tagline.addEventListener('input', updTag); updTag();
+    }
     document.querySelectorAll('.radio-pill input').forEach(function (r) {
       r.addEventListener('change', function () {
         document.querySelectorAll('.radio-pill').forEach(function (p) { p.classList.remove('on'); });
@@ -619,11 +636,24 @@
       e.preventDefault();
       var err = document.getElementById('su-err');
       err.style.display = 'none';
+      var me = null;
+      try { me = await window.VS.store.currentUser(); } catch (ign) { me = null; }
+      if (!me && window.VS.isSupabase()) {
+        err.innerHTML = 'Please <a href="#/login">log in with Google</a> first \u2014 your listing will be saved to your account.';
+        err.style.display = 'block'; err.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return;
+      }
       var fd = new FormData(form);
       var zips = [];
       form.querySelectorAll('input[name="zips"]:checked').forEach(function (c) { zips.push(c.value); });
       if (!zips.length) {
         err.textContent = 'Pick at least one ZIP code in your service area.';
+        err.style.display = 'block'; err.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return;
+      }
+      var digits = String(fd.get('phone') || '').replace(/\D/g, '');
+      if (digits.length < 7) {
+        err.textContent = 'Please enter a valid phone number with at least 7 digits.';
         err.style.display = 'block'; err.scrollIntoView({ behavior: 'smooth', block: 'center' });
         return;
       }
