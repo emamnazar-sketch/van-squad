@@ -332,3 +332,7 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
   .modal{overflow-x:auto}
   .cmp-table{min-width:560px}
 }
+
+/* Email verification banner (business dashboard) */
+.verify-banner{display:flex;align-items:center;justify-content:space-between;gap:16px;background:#FFF7E8;border:2px solid #F0B429;border-radius:14px;padding:14px 18px;margin:18px 0;flex-wrap:wrap}
+.verify-banner strong{font-size:16px}

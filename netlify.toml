@@ -3,6 +3,10 @@
   publish = "."
   command = ""
 
+# Serverless functions (email verification codes)
+[functions]
+  directory = "netlify/functions"
+
 # Security headers on everything; cache-bust only the entry HTML
 [[headers]]
   for = "/*"

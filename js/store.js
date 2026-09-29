@@ -108,6 +108,16 @@
       var s = local(); s.sessionUserId = null; saveLocal(s);
     },
 
+    async requestEmailCode() { return { sent: true, demo: true }; },
+    async verifyEmailCode(businessId) {
+      var s = local();
+      for (var i = 0; i < s.businesses.length; i++) {
+        if (s.businesses[i].id === businessId) s.businesses[i].emailVerified = true;
+      }
+      saveLocal(s);
+      return { verified: true };
+    },
+
     async updateProfile(patch) {
       var s = local();
       for (var i = 0; i < s.profiles.length; i++) {
@@ -137,7 +147,7 @@
       var slug = base, n = 2;
       while (findBusiness(s, slug)) { slug = base + '-' + (n++); }
       var biz = {
-        id: uid('biz'), slug: slug, isSample: false, ownerId: user.id,
+        id: uid('biz'), slug: slug, isSample: false, ownerId: user.id, emailVerified: false,
         name: data.name, category: data.category, tagline: data.tagline || '',
         description: data.description || '', phone: data.phone || '',
         email: data.email || '', website: data.website || '',
@@ -276,6 +286,7 @@
     if (!row) return null;
     var b = {
       id: row.id, slug: row.id, isSample: !!row.is_sample, ownerId: row.owner_id,
+      emailVerified: !!row.email_verified,
       name: row.name, category: row.category, tagline: row.tagline || '',
       description: row.description || '', phone: row.phone || '', email: row.email || '',
       website: row.website || '', zips: row.service_zips || [],
@@ -338,6 +349,41 @@
         options: { redirectTo: cfg.SITE_URL || window.location.origin + window.location.pathname } });
     },
     async logout() { (await this._sb()).auth.signOut(); },
+    async _token() {
+      var sb = await this._sb();
+      var s = await sb.auth.getSession();
+      return (s.data.session && s.data.session.access_token) || null;
+    },
+    async requestEmailCode(businessId) {
+      var t = await this._token();
+      if (!t) throw new Error('not-logged-in');
+      var r = await fetch('/.netlify/functions/request-email-code', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ businessId: businessId })
+      });
+      var j = null;
+      try { j = await r.json(); } catch (e) { j = {}; }
+      if (!r.ok) { var e1 = new Error((j && j.error) || 'send-failed'); e1.code = j && j.error; throw e1; }
+      return j || {};
+    },
+    async verifyEmailCode(businessId, code) {
+      var t = await this._token();
+      if (!t) throw new Error('not-logged-in');
+      var r = await fetch('/.netlify/functions/verify-email-code', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ businessId: businessId, code: code })
+      });
+      var j = null;
+      try { j = await r.json(); } catch (e) { j = {}; }
+      if (!r.ok) {
+        var e2 = new Error((j && j.error) || 'verify-failed');
+        e2.code = j && j.error; e2.attemptsLeft = j && j.attemptsLeft;
+        throw e2;
+      }
+      return j || {};
+    },
     async updateProfile(patch) {
       var sb = await this._sb();
       var u = (await sb.auth.getUser()).data.user;
@@ -361,13 +407,16 @@
         is_sample: false, status: 'active'
       }).select().single();
       if (biz.error) throw biz.error;
-      await sb.from('listings').insert({
+      var lst = await sb.from('listings').insert({
         business_id: biz.data.id, title: data.listingTitle || 'Standard service',
         price: data.price === '' ? null : data.price, price_type: data.priceType || 'fixed',
         duration: data.duration, includes: data.includes, before_visit: data.beforeVisit,
         cancellation_policy: data.cancellation, is_sample: false, status: 'active'
-      });
-      return this.getBusiness(biz.data.id);
+      }).select().single();
+      if (lst.error) throw lst.error;
+      // NOTE: do not re-fetch via listBusinesses here — a fresh business is
+      // email-unverified and therefore invisible to public reads by design.
+      return toBiz(Object.assign({}, biz.data, { listings: [lst.data], reviews: [] }));
     },
     async myBusinesses() {
       var sb = await this._sb();
@@ -381,6 +430,7 @@
       var sb = await this._sb();
       var db = {};
       ['name','tagline','description','phone','email','website'].forEach(function (k) { if (patch[k] !== undefined) db[k] = patch[k]; });
+      if (patch.emailVerified !== undefined) db.email_verified = !!patch.emailVerified;
       if (patch.zips !== undefined) db.service_zips = patch.zips;
       if (patch.travelFee !== undefined) db.travel_fee = patch.travelFee;
       if (patch.travelRadius !== undefined) db.travel_radius_miles = patch.travelRadius;

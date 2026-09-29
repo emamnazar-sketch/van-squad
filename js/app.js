@@ -626,7 +626,7 @@
           '<div class="f-row single"><div class="field"><label>Tagline</label><input name="tagline" id="su-tagline" maxlength="80" placeholder="A fresh start for your daily drive."><span class="hint">One short line \u2014 what makes you the go-to? <span id="su-tagline-count" class="muted">0/80</span></span></div></div>' +
           '<div class="f-row single"><div class="field"><label>About your business <span class="req">*</span></label><textarea name="description" required placeholder="What do you do, and what is it like to book you?"></textarea></div></div>' +
           '<div class="f-row"><div class="field"><label>Phone <span class="req">*</span></label><input name="phone" required placeholder="(916) 555-0100"></div>' +
-          '<div class="field"><label>Business email</label><input name="email" type="email" placeholder="hello@yourbusiness.com"></div></div>' +
+          '<div class="field"><label>Business email <span class="req">*</span></label><input name="email" type="email" required placeholder="hello@yourbusiness.com"><span class="hint">We send a verification code here — your listing goes public after you verify it.</span></div></div>' +
           '<div class="f-row single"><div class="field"><label>Website (optional)</label><input name="website" placeholder="https://…"></div></div>' +
         '</div>' +
         '<div class="form-sec"><h3>Service area</h3><p>Where do you travel? Customers outside these ZIPs won’t see your listing.</p>' +
@@ -716,12 +716,89 @@
           beforeVisit: lines(fd.get('beforeVisit')), cancellation: fd.get('cancellation')
         });
         await renderHeaderAuth();
-        toast('Your listing is live!');
-        location.hash = '#/dashboard';
+        if (biz.emailVerified) {
+          toast('Your listing is live!');
+          location.hash = '#/dashboard';
+        } else {
+          try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: biz.id, email: biz.email, name: biz.name })); } catch (e) {}
+          location.hash = '#/verify-email';
+        }
       } catch (ex) {
         err.textContent = 'Something went wrong creating your listing. Please try again.';
         err.style.display = 'block';
         btn.disabled = false; btn.textContent = 'Create my business listing →';
+      }
+    });
+  }
+
+  /* ---------- email verification ---------- */
+  function viewVerifyEmail(pv) {
+    return '<div class="wrap"><div class="article" style="padding-top:48px;max-width:560px">' +
+      '<p class="eyebrow">One last step</p><h1>Check your email.</h1>' +
+      '<p class="muted">We sent a 6-digit verification code to <strong>' + h(pv.email) + '</strong>. ' +
+      'Enter it below — your listing goes public as soon as your email is verified.</p>' +
+      '<div class="form-card"><div class="form-err" id="vf-err" style="display:none"></div>' +
+      '<div class="field"><label>Verification code</label>' +
+      '<input id="vf-code" inputmode="numeric" maxlength="6" autocomplete="one-time-code" placeholder="••••••" ' +
+      'style="font-size:24px;letter-spacing:8px;text-align:center"></div>' +
+      '<button class="btn btn-primary btn-block" id="vf-submit" style="margin-top:14px">Verify my email →</button>' +
+      '<p class="small" style="margin-top:12px;text-align:center"><span class="muted">Didn\'t get it?</span> ' +
+      '<a href="#" id="vf-resend">Resend code</a> <span id="vf-cool" class="muted"></span></p></div></div></div>';
+  }
+
+  async function afterVerifyEmail(pv) {
+    var err = document.getElementById('vf-err');
+    function showErr(m) { err.textContent = m; err.style.display = m ? 'block' : 'none'; }
+    var coolUntil = 0, coolTimer = null;
+    function cooldown(sec) {
+      coolUntil = Date.now() + sec * 1000;
+      var cool = document.getElementById('vf-cool');
+      clearInterval(coolTimer);
+      coolTimer = setInterval(function () {
+        var left = Math.ceil((coolUntil - Date.now()) / 1000);
+        if (left <= 0) { clearInterval(coolTimer); cool.textContent = ''; }
+        else { cool.textContent = '(wait ' + left + 's)'; }
+      }, 500);
+    }
+    async function send() {
+      showErr('');
+      try {
+        var r = await window.VS.store.requestEmailCode(pv.id);
+        if (r && r.alreadyVerified) { location.hash = '#/dashboard'; return; }
+        toast('Code sent to ' + pv.email);
+        cooldown(60);
+      } catch (e) {
+        showErr(e && e.code === 'cooldown' ? 'Please wait a minute before requesting a new code.'
+          : 'Could not send the code. Check your connection and try again.');
+      }
+    }
+    await send();
+    document.getElementById('vf-resend').addEventListener('click', function (e) {
+      e.preventDefault();
+      if (Date.now() < coolUntil) return;
+      send();
+    });
+    document.getElementById('vf-submit').addEventListener('click', async function () {
+      var code = document.getElementById('vf-code').value.trim();
+      showErr('');
+      if (!/^\d{6}$/.test(code)) { showErr('Enter the 6-digit code from the email.'); return; }
+      var btn = document.getElementById('vf-submit');
+      btn.disabled = true; btn.textContent = 'Verifying…';
+      try {
+        var r = await window.VS.store.verifyEmailCode(pv.id, code);
+        if (r && r.verified) {
+          try { sessionStorage.removeItem('vs_verify_biz'); } catch (e) {}
+          toast('Email verified — your listing is live!');
+          location.hash = '#/dashboard';
+        } else { throw new Error('verify-failed'); }
+      } catch (e) {
+        var m = 'That code didn\'t work. Try again.';
+        if (e && e.code === 'expired') m = 'That code expired. Tap "Resend code" for a fresh one.';
+        else if (e && e.code === 'too-many-attempts') m = 'Too many tries — tap "Resend code" for a fresh one.';
+        else if (e && e.code === 'invalid-code') m = 'Wrong code — ' + (e.attemptsLeft > 0 ? e.attemptsLeft + ' tries left.' : 'no tries left, resend for a fresh code.');
+        else if (e && e.code === 'no-code') m = 'No active code. Tap "Resend code" below.';
+        showErr(m);
+        btn.disabled = false; btn.textContent = 'Verify my email →';
       }
     });
   }
@@ -890,15 +967,22 @@
 
   /* ---------- business dashboard ---------- */
   function viewBizDash(bizList, activeId) {
+    var active = null;
+    for (var i = 0; i < bizList.length; i++) { if (bizList[i].id === activeId) active = bizList[i]; }
     var tabs = bizList.length > 1
       ? '<div class="filter-row" style="margin-top:0">' + bizList.map(function (b) {
           return '<button type="button" class="pill' + (b.id === activeId ? ' on' : '') + '" data-switch-biz="' + h(b.id) + '">' + h(b.name) + '</button>';
         }).join('') + '</div>' : '';
+    var verifyBanner = (active && !active.emailVerified)
+      ? '<div class="verify-banner"><div><strong>Verify your email to go public.</strong>' +
+        '<div class="small muted">Your listing is hidden until you confirm ' + h(active.email || 'your business email') + '.</div></div>' +
+        '<button class="btn btn-primary btn-sm" id="dash-verify-btn" type="button">Verify email</button></div>'
+      : '';
     return '<div class="wrap">' +
       '<div class="dash-head"><div><p class="eyebrow">Business dashboard</p>' +
       '<h1 style="margin:0" id="dash-biz-name"></h1></div>' +
       '<a class="btn btn-outline btn-sm" href="#/workspace">Provider workspace →</a></div>' +
-      tabs +
+      tabs + verifyBanner +
       '<div class="tabs"><button class="tab on" data-tab="inbox" type="button">Inbox</button>' +
       '<button class="tab" data-tab="manage" type="button">Manage business</button></div>' +
       '<div id="dash-inbox"></div><div id="dash-manage" style="display:none"></div>' +
@@ -907,6 +991,11 @@
 
   async function afterBizDash(bizList, active) {
     document.getElementById('dash-biz-name').textContent = active.name;
+    var dvb = document.getElementById('dash-verify-btn');
+    if (dvb) dvb.addEventListener('click', function () {
+      try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, email: active.email, name: active.name })); } catch (e) {}
+      location.hash = '#/verify-email';
+    });
     document.querySelectorAll('[data-switch-biz]').forEach(function (b) {
       b.addEventListener('click', function () {
         sessionStorage.setItem('vs_active_biz', b.getAttribute('data-switch-biz'));
@@ -1016,15 +1105,24 @@
       var zips = [];
       e.target.querySelectorAll('input[name="zips"]:checked').forEach(function (c) { zips.push(c.value); });
       var price = fd.get('price');
+      var newEmail = String(fd.get('email') || '').trim();
+      var emailChanged = newEmail && newEmail !== String(active.email || '').trim();
       await window.VS.store.updateBusiness(active.id, {
         name: fd.get('name'), tagline: fd.get('tagline'), description: fd.get('description'),
         phone: fd.get('phone'), email: fd.get('email'), website: fd.get('website'),
+        emailVerified: emailChanged ? false : undefined,
         zips: zips, travelFee: Number(fd.get('travelFee')) || 0, travelRadius: Number(fd.get('travelRadius')) || 0,
         listing: { id: l.id, title: fd.get('listingTitle'), duration: fd.get('duration'),
           price: (price === '' || price === null) ? null : Number(price),
           priceType: fd.get('priceType'), includes: lines(fd.get('includes')),
           beforeVisit: lines(fd.get('beforeVisit')), cancellation: fd.get('cancellation') }
       });
+      if (emailChanged) {
+        try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, email: newEmail, name: fd.get('name') })); } catch (e2) {}
+        toast('Email changed — please verify the new address.');
+        location.hash = '#/verify-email';
+        return;
+      }
       toast('Listing updated.');
       route(true);
     });
@@ -1174,6 +1272,14 @@
         app.innerHTML = viewGuide(D.GUIDES[seg[1]]);
       } else if (seg[0] === 'join') {
         app.innerHTML = viewJoin(); afterJoin();
+      } else if (seg[0] === 'verify-email') {
+        var vuser = await requireUser('#/verify-email');
+        if (!vuser) return;
+        var pv = null;
+        try { pv = JSON.parse(sessionStorage.getItem('vs_verify_biz') || 'null'); } catch (e) {}
+        if (!pv || !pv.id) { location.hash = '#/dashboard'; return; }
+        app.innerHTML = viewVerifyEmail(pv);
+        afterVerifyEmail(pv);
       } else if (seg[0] === 'login') {
         app.innerHTML = viewLoginPage(); afterGate('');
       } else if (seg[0] === 'book' && seg[1]) {
