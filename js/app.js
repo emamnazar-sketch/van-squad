@@ -1154,5 +1154,19 @@
   });
   window.addEventListener('hashchange', function () { route(false); });
   renderHeaderAuth();
+  /* surface OAuth failures that arrive as query params (e.g. expired state) */
+  (function () {
+    var m = /[?&]error=([^&]*)/.exec(location.search);
+    if (m) {
+      var code = /[?&]error_code=([^&]*)/.exec(location.search);
+      var expired = code && /bad_oauth_state|expired/i.test(decodeURIComponent(code[1] || ''));
+      toast(expired
+        ? 'Your sign-in expired before it finished. Please try logging in again.'
+        : 'Sign-in did not complete. Please try again.');
+      if (window.history && history.replaceState) {
+        history.replaceState(null, '', location.pathname + location.hash);
+      }
+    }
+  })();
   route(false);
 })();
