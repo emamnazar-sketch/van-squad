@@ -316,4 +316,6 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
   .zip-grid{grid-template-columns:1fr 1fr}
   .detail-hero{height:200px}
   .kv{grid-template-columns:1fr}
+  .modal{overflow-x:auto}
+  .cmp-table{min-width:560px}
 }
