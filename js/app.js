@@ -625,7 +625,7 @@
           '<div class="field"><label>Category <span class="req">*</span></label><select name="category">' + catOpts + '</select></div></div>' +
           '<div class="f-row single"><div class="field"><label>Tagline</label><input name="tagline" id="su-tagline" maxlength="80" placeholder="A fresh start for your daily drive."><span class="hint">One short line \u2014 what makes you the go-to? <span id="su-tagline-count" class="muted">0/80</span></span></div></div>' +
           '<div class="f-row single"><div class="field"><label>About your business <span class="req">*</span></label><textarea name="description" required placeholder="What do you do, and what is it like to book you?"></textarea></div></div>' +
-          '<div class="f-row"><div class="field"><label>Phone <span class="req">*</span></label><input name="phone" required placeholder="(916) 555-0100"></div>' +
+          '<div class="f-row"><div class="field"><label>Phone <span class="req">*</span></label><input name="phone" required placeholder="(916) 555-0100"><span class="hint">We text a verification code here — your listing goes public after you verify it.</span></div>' +
           '<div class="field"><label>Business email <span class="req">*</span></label><input name="email" type="email" required placeholder="hello@yourbusiness.com"><span class="hint">We send a verification code here — your listing goes public after you verify it.</span></div></div>' +
           '<div class="f-row single"><div class="field"><label>Website (optional)</label><input name="website" placeholder="https://…"></div></div>' +
         '</div>' +
@@ -720,7 +720,7 @@
           toast('Your listing is live!');
           location.hash = '#/dashboard';
         } else {
-          try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: biz.id, email: biz.email, name: biz.name })); } catch (e) {}
+          try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: biz.id, email: biz.email, phone: biz.phone, name: biz.name, phoneVerified: !!biz.phoneVerified })); } catch (e) {}
           location.hash = '#/verify-email';
         }
       } catch (ex) {
@@ -793,9 +793,18 @@
       try {
         var r = await window.VS.store.verifyEmailCode(pv.id, code);
         if (r && r.verified) {
+          var pv2 = null;
+          try { pv2 = JSON.parse(sessionStorage.getItem('vs_verify_biz') || 'null'); } catch (e) {}
+          var needPhone = !pv2 || !pv2.phoneVerified;
           try { sessionStorage.removeItem('vs_verify_biz'); sessionStorage.removeItem('vs_code_sent_' + pv.id); } catch (e) {}
-          toast('Email verified — your listing is live!');
-          location.hash = '#/dashboard';
+          if (needPhone) {
+            try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: pv.id, phone: (pv2 && pv2.phone) || '', name: pv.name, phoneVerified: false })); } catch (e2) {}
+            toast('Email verified — now verify your phone.');
+            location.hash = '#/verify-phone';
+          } else {
+            toast('Email verified — your listing is live!');
+            location.hash = '#/dashboard';
+          }
         } else { throw new Error('verify-failed'); }
       } catch (e) {
         var m = 'That code didn\'t work. Try again.';
@@ -805,6 +814,83 @@
         else if (e && e.code === 'no-code') m = 'No active code. Tap "Resend code" below.';
         showErr(m);
         btn.disabled = false; btn.textContent = 'Verify my email →';
+      }
+    });
+  }
+
+  /* ---------- phone verification ---------- */
+  function viewVerifyPhone(pv) {
+    return '<div class="wrap"><div class="article" style="padding-top:48px;max-width:560px">' +
+      '<p class="eyebrow">One last step</p><h1>Check your texts.</h1>' +
+      '<p class="muted">We texted a 6-digit verification code to <strong>' + h(pv.phone) + '</strong>. ' +
+      'Enter it below — your listing goes public as soon as your phone is verified.</p>' +
+      '<div class="form-card"><div class="form-err" id="vp-err" style="display:none"></div>' +
+      '<div class="field"><label>Verification code</label>' +
+      '<input id="vp-code" inputmode="numeric" maxlength="6" autocomplete="one-time-code" placeholder="••••••" ' +
+      'style="font-size:24px;letter-spacing:8px;text-align:center"></div>' +
+      '<button class="btn btn-primary btn-block" id="vp-submit" style="margin-top:14px">Verify my phone →</button>' +
+      '<p class="small" style="margin-top:12px;text-align:center"><span class="muted">Didn\'t get it?</span> ' +
+      '<a href="#" id="vp-resend">Resend code</a> <span id="vp-cool" class="muted"></span></p></div></div></div>';
+  }
+
+  async function afterVerifyPhone(pv) {
+    var err = document.getElementById('vp-err');
+    function showErr(m) { err.textContent = m; err.style.display = m ? 'block' : 'none'; }
+    var coolUntil = 0, coolTimer = null;
+    function cooldown(sec) {
+      coolUntil = Date.now() + sec * 1000;
+      var cool = document.getElementById('vp-cool');
+      clearInterval(coolTimer);
+      coolTimer = setInterval(function () {
+        var left = Math.ceil((coolUntil - Date.now()) / 1000);
+        if (left <= 0) { clearInterval(coolTimer); cool.textContent = ''; }
+        else { cool.textContent = '(wait ' + left + 's)'; }
+      }, 500);
+    }
+    async function send() {
+      showErr('');
+      try {
+        var r = await window.VS.store.requestPhoneCode(pv.id);
+        if (r && r.alreadyVerified) { location.hash = '#/dashboard'; return true; }
+        toast('Code sent to ' + pv.phone);
+        cooldown(60);
+        return true;
+      } catch (e) {
+        showErr(e && e.code === 'invalid-phone' ? 'That phone number looks invalid. Go back to the dashboard and fix it.'
+          : 'Could not send the code. Check your connection and try again.');
+        return false;
+      }
+    }
+    // Auto-send only once per session: re-rendering this page must not silently
+    // invalidate a code already texted (Twilio Verify replaces the pending code).
+    var sentKey = 'vs_pcode_sent_' + pv.id, wasSent = false;
+    try { wasSent = !!sessionStorage.getItem(sentKey); } catch (e) {}
+    if (!wasSent && await send()) { try { sessionStorage.setItem(sentKey, '1'); } catch (e) {} }
+    document.getElementById('vp-resend').addEventListener('click', function (e) {
+      e.preventDefault();
+      if (Date.now() < coolUntil) return;
+      send();
+    });
+    document.getElementById('vp-submit').addEventListener('click', async function () {
+      var code = document.getElementById('vp-code').value.trim();
+      showErr('');
+      if (!/^\d{6}$/.test(code)) { showErr('Enter the 6-digit code from the text.'); return; }
+      var btn = document.getElementById('vp-submit');
+      btn.disabled = true; btn.textContent = 'Verifying…';
+      try {
+        var r = await window.VS.store.verifyPhoneCode(pv.id, code);
+        if (r && r.verified) {
+          try { sessionStorage.removeItem('vs_verify_biz'); sessionStorage.removeItem('vs_pcode_sent_' + pv.id); } catch (e) {}
+          toast('Phone verified — your listing is live!');
+          location.hash = '#/dashboard';
+        } else { throw new Error('verify-failed'); }
+      } catch (e) {
+        var m = 'That code didn\'t work. Try again.';
+        if (e && e.code === 'expired') m = 'That code expired. Tap "Resend code" for a fresh one.';
+        else if (e && e.code === 'no-code') m = 'No active code. Tap "Resend code" below.';
+        else if (e && e.code === 'invalid-code') m = 'Wrong code — tap "Resend code" for a fresh one if needed.';
+        showErr(m);
+        btn.disabled = false; btn.textContent = 'Verify my phone →';
       }
     });
   }
@@ -979,11 +1065,16 @@
       ? '<div class="filter-row" style="margin-top:0">' + bizList.map(function (b) {
           return '<button type="button" class="pill' + (b.id === activeId ? ' on' : '') + '" data-switch-biz="' + h(b.id) + '">' + h(b.name) + '</button>';
         }).join('') + '</div>' : '';
-    var verifyBanner = (active && !active.emailVerified)
-      ? '<div class="verify-banner"><div><strong>Verify your email to go public.</strong>' +
+    var verifyBanner = '';
+    if (active && !active.emailVerified) {
+      verifyBanner = '<div class="verify-banner"><div><strong>Verify your email to go public.</strong>' +
         '<div class="small muted">Your listing is hidden until you confirm ' + h(active.email || 'your business email') + '.</div></div>' +
-        '<button class="btn btn-primary btn-sm" id="dash-verify-btn" type="button">Verify email</button></div>'
-      : '';
+        '<button class="btn btn-primary btn-sm" id="dash-verify-btn" type="button">Verify email</button></div>';
+    } else if (active && !active.phoneVerified) {
+      verifyBanner = '<div class="verify-banner"><div><strong>Verify your phone to go public.</strong>' +
+        '<div class="small muted">Your listing is hidden until you confirm the code we text to ' + h(active.phone || 'your business phone') + '.</div></div>' +
+        '<button class="btn btn-primary btn-sm" id="dash-verify-phone-btn" type="button">Verify phone</button></div>';
+    }
     return '<div class="wrap">' +
       '<div class="dash-head"><div><p class="eyebrow">Business dashboard</p>' +
       '<h1 style="margin:0" id="dash-biz-name"></h1></div>' +
@@ -999,8 +1090,13 @@
     document.getElementById('dash-biz-name').textContent = active.name;
     var dvb = document.getElementById('dash-verify-btn');
     if (dvb) dvb.addEventListener('click', function () {
-      try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, email: active.email, name: active.name })); } catch (e) {}
+      try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, email: active.email, phone: active.phone, name: active.name, phoneVerified: !!active.phoneVerified })); } catch (e) {}
       location.hash = '#/verify-email';
+    });
+    var dvpb = document.getElementById('dash-verify-phone-btn');
+    if (dvpb) dvpb.addEventListener('click', function () {
+      try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, phone: active.phone, name: active.name, phoneVerified: false })); } catch (e) {}
+      location.hash = '#/verify-phone';
     });
     document.querySelectorAll('[data-switch-biz]').forEach(function (b) {
       b.addEventListener('click', function () {
@@ -1113,20 +1209,31 @@
       var price = fd.get('price');
       var newEmail = String(fd.get('email') || '').trim();
       var emailChanged = newEmail && newEmail !== String(active.email || '').trim();
+      var newPhone = String(fd.get('phone') || '').trim();
+      var phoneChanged = newPhone && newPhone !== String(active.phone || '').trim();
       await window.VS.store.updateBusiness(active.id, {
         name: fd.get('name'), tagline: fd.get('tagline'), description: fd.get('description'),
         phone: fd.get('phone'), email: fd.get('email'), website: fd.get('website'),
         emailVerified: emailChanged ? false : undefined,
+        phoneVerified: phoneChanged ? false : undefined,
         zips: zips, travelFee: Number(fd.get('travelFee')) || 0, travelRadius: Number(fd.get('travelRadius')) || 0,
         listing: { id: l.id, title: fd.get('listingTitle'), duration: fd.get('duration'),
           price: (price === '' || price === null) ? null : Number(price),
           priceType: fd.get('priceType'), includes: lines(fd.get('includes')),
           beforeVisit: lines(fd.get('beforeVisit')), cancellation: fd.get('cancellation') }
       });
-      if (emailChanged) {
-        try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, email: newEmail, name: fd.get('name') })); } catch (e2) {}
-        toast('Email changed — please verify the new address.');
-        location.hash = '#/verify-email';
+      if (emailChanged || phoneChanged) {
+        try { sessionStorage.setItem('vs_verify_biz', JSON.stringify({ id: active.id, email: newEmail || active.email, phone: newPhone || active.phone, name: fd.get('name'), phoneVerified: !phoneChanged })); } catch (e2) {}
+        if (emailChanged && phoneChanged) {
+          toast('Email and phone changed — please verify both.');
+          location.hash = '#/verify-email';
+        } else if (emailChanged) {
+          toast('Email changed — please verify the new address.');
+          location.hash = '#/verify-email';
+        } else {
+          toast('Phone changed — please verify the new number.');
+          location.hash = '#/verify-phone';
+        }
         return;
       }
       toast('Listing updated.');
@@ -1286,6 +1393,14 @@
         if (!pv || !pv.id) { location.hash = '#/dashboard'; return; }
         app.innerHTML = viewVerifyEmail(pv);
         afterVerifyEmail(pv);
+      } else if (seg[0] === 'verify-phone') {
+        var puser = await requireUser('#/verify-phone');
+        if (!puser) return;
+        var ppv = null;
+        try { ppv = JSON.parse(sessionStorage.getItem('vs_verify_biz') || 'null'); } catch (e) {}
+        if (!ppv || !ppv.id) { location.hash = '#/dashboard'; return; }
+        app.innerHTML = viewVerifyPhone(ppv);
+        afterVerifyPhone(ppv);
       } else if (seg[0] === 'login') {
         app.innerHTML = viewLoginPage(); afterGate('');
       } else if (seg[0] === 'book' && seg[1]) {

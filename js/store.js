@@ -118,6 +118,15 @@
       return { verified: true };
     },
 
+    async requestPhoneCode() { return { sent: true, demo: true }; },
+    async verifyPhoneCode(businessId) {
+      var s = local();
+      for (var i = 0; i < s.businesses.length; i++) {
+        if (s.businesses[i].id === businessId) s.businesses[i].phoneVerified = true;
+      }
+      saveLocal(s);
+      return { verified: true };
+    },
     async updateProfile(patch) {
       var s = local();
       for (var i = 0; i < s.profiles.length; i++) {
@@ -287,6 +296,7 @@
     var b = {
       id: row.id, slug: row.id, isSample: !!row.is_sample, ownerId: row.owner_id,
       emailVerified: !!row.email_verified,
+      phoneVerified: !!row.phone_verified,
       name: row.name, category: row.category, tagline: row.tagline || '',
       description: row.description || '', phone: row.phone || '', email: row.email || '',
       website: row.website || '', zips: row.service_zips || [],
@@ -384,6 +394,35 @@
       }
       return j || {};
     },
+    async requestPhoneCode(businessId) {
+      var t = await this._token();
+      if (!t) throw new Error('not-logged-in');
+      var r = await fetch('/.netlify/functions/request-phone-code', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ businessId: businessId })
+      });
+      var j = null;
+      try { j = await r.json(); } catch (e) { j = {}; }
+      if (!r.ok) { var e3 = new Error((j && j.error) || 'send-failed'); e3.code = j && j.error; throw e3; }
+      return j || {};
+    },
+    async verifyPhoneCode(businessId, code) {
+      var t = await this._token();
+      if (!t) throw new Error('not-logged-in');
+      var r = await fetch('/.netlify/functions/verify-phone-code', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ businessId: businessId, code: code })
+      });
+      var j = null;
+      try { j = await r.json(); } catch (e) { j = {}; }
+      if (!r.ok) {
+        var e4 = new Error((j && j.error) || 'verify-failed'); e4.code = j && j.error;
+        throw e4;
+      }
+      return j || {};
+    },
     async updateProfile(patch) {
       var sb = await this._sb();
       var u = (await sb.auth.getUser()).data.user;
@@ -431,6 +470,7 @@
       var db = {};
       ['name','tagline','description','phone','email','website'].forEach(function (k) { if (patch[k] !== undefined) db[k] = patch[k]; });
       if (patch.emailVerified !== undefined) db.email_verified = !!patch.emailVerified;
+      if (patch.phoneVerified !== undefined) db.phone_verified = !!patch.phoneVerified;
       if (patch.zips !== undefined) db.service_zips = patch.zips;
       if (patch.travelFee !== undefined) db.travel_fee = patch.travelFee;
       if (patch.travelRadius !== undefined) db.travel_radius_miles = patch.travelRadius;
