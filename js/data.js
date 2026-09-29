@@ -10,7 +10,11 @@
     '95818': 'Land Park',
     '95843': 'Antelope',
     '95678': 'Roseville',
-    '95661': 'East Roseville'
+    '95661': 'East Roseville',
+    '95747': 'West Roseville',
+    '95677': 'Rocklin',
+    '95765': 'Rocklin',
+    '95648': 'Lincoln'
   };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
@@ -21,10 +25,12 @@
       blurb: 'Grooming and pet services at your door.' },
     { name: 'Home cleaning', icon: 'sparkle', live: true,
       blurb: 'Cleans that fit your space and schedule.' },
+    { name: 'Handyman', icon: 'wrench', live: true,
+      blurb: 'Fixes, installs and odd jobs at your door.' },
+    { name: 'Electrician', icon: 'bolt', live: true,
+      blurb: 'Wiring, lighting and panel work at your home.' },
     { name: 'Beauty & wellness', icon: 'scissors', live: false,
-      blurb: 'Coming soon to the directory.' },
-    { name: 'Home repairs', icon: 'wrench', live: true,
-      blurb: 'Electricians, plumbers and handymen at your door.' }
+      blurb: 'Coming soon to the directory.' }
   ];
 
   /* Six sample businesses, copied from the design preview. */
