@@ -5,5 +5,5 @@
 window.VS_CONFIG = {
   SUPABASE_URL: 'https://unsfsuzaybatkclfbnep.supabase.co',
   SUPABASE_ANON_KEY: 'sb_publishable_ow2uCJR8-Cwb359oQ2XNEQ_XvHaVznd',
-  SITE_URL: 'https://gentle-daifuku-63c8ed.netlify.app'
+  SITE_URL: 'https://vansquads.com'
 };

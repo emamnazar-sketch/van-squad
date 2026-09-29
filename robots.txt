@@ -5,4 +5,4 @@ Disallow: /#/dashboard
 Disallow: /#/workspace
 Disallow: /#/book/
 
-Sitemap: https://gentle-daifuku-63c8ed.netlify.app/sitemap.xml
+Sitemap: https://vansquads.com/sitemap.xml
