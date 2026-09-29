@@ -764,15 +764,21 @@
       showErr('');
       try {
         var r = await window.VS.store.requestEmailCode(pv.id);
-        if (r && r.alreadyVerified) { location.hash = '#/dashboard'; return; }
+        if (r && r.alreadyVerified) { location.hash = '#/dashboard'; return true; }
         toast('Code sent to ' + pv.email);
         cooldown(60);
+        return true;
       } catch (e) {
         showErr(e && e.code === 'cooldown' ? 'Please wait a minute before requesting a new code.'
           : 'Could not send the code. Check your connection and try again.');
+        return false;
       }
     }
-    await send();
+    // Auto-send only once per session: re-rendering this page must not silently
+    // invalidate a code the user already received by email.
+    var sentKey = 'vs_code_sent_' + pv.id, wasSent = false;
+    try { wasSent = !!sessionStorage.getItem(sentKey); } catch (e) {}
+    if (!wasSent && await send()) { try { sessionStorage.setItem(sentKey, '1'); } catch (e) {} }
     document.getElementById('vf-resend').addEventListener('click', function (e) {
       e.preventDefault();
       if (Date.now() < coolUntil) return;
@@ -787,7 +793,7 @@
       try {
         var r = await window.VS.store.verifyEmailCode(pv.id, code);
         if (r && r.verified) {
-          try { sessionStorage.removeItem('vs_verify_biz'); } catch (e) {}
+          try { sessionStorage.removeItem('vs_verify_biz'); sessionStorage.removeItem('vs_code_sent_' + pv.id); } catch (e) {}
           toast('Email verified — your listing is live!');
           location.hash = '#/dashboard';
         } else { throw new Error('verify-failed'); }
