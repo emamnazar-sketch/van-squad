@@ -43,10 +43,68 @@
 
 See §7 "Owner tap list" — Supabase project creation, SQL Editor run, Google OAuth enablement, Netlify import (his login), DNS (his registrar), final Google sign-in test.
 
-## 6. QA pass
+## 6. QA pass (2026-09-29, 47/47 checks PASS, zero console errors)
 
-_QA subagent ran 2026-09-29 — result pending; fill in here._
+- Headless Chromium harness tested all 13 routes: home, browse, business detail,
+  how-it-works, service guide, join, login, book, customer dashboard, business
+  dashboard, workspace, mobile home, mobile browse. Unknown slugs 404; login gates
+  hold on all 4 protected routes.
+- End-to-end flow verified in local demo mode: demo login → business signup →
+  listing appears in search → request sent → inbox actions (ask/quote/time/agree/
+  complete) → review posted (4.0 ★ renders).
+- Fixes applied and verified: hash-fragment review links (`#/business/<slug>#reviews`),
+  Supabase reviews retrieval, idempotent SQL policies (safe to re-run), customer
+  update policy hardened, request-photos bucket policies tightened to
+  owner-only writes under `<uid>/` paths.
+- Schema parses clean (65 statements); seed data referentially sound
+  (6 businesses, 6 listings, 1 review, 1 sample profile).
+- Fresh screenshots in `screenshots/` (01–13). One non-blocker noted: browse
+  filters are sticky when returning via `#/browse` without params (defensible UX).
 
-## 7. Owner tap list (exact)
+## 7. Owner tap list (his iPhone — exact taps, in order)
 
-_Pending QA + recon finalization — fill in here._
+Do these and nothing else is needed from you. Tell Atlas when each one is done.
+
+**Step 1 — Create the Supabase project**
+1. Open Safari → supabase.com → sign in (Google sign-in if asked).
+2. Tap **New project** → name it exactly `van-squad` → create it (wait ~1 min).
+3. In the new project, tap **⚙ Settings → API** → copy **Project URL** and
+   **anon public** key → send both to Atlas.
+
+**Step 2 — Run the database setup**
+1. In the same project, tap **SQL Editor → New query**.
+2. Paste the entire `schema.sql` file (Atlas will send you the text) → tap **Run**.
+   If your phone asks to verify it's you, approve it.
+3. Tell Atlas "schema done".
+
+**Step 3 — Turn on Google login**
+1. Supabase dashboard → **Authentication → Sign In → Google** → Enable.
+2. It needs a Google Client ID + Secret from Google Cloud:
+   - console.cloud.google.com → new project named **Van Squad** → **OAuth consent
+     screen → External** → fill app name "Van Squad" → save.
+   - **Credentials → Create Credentials → OAuth client ID → Web application** →
+     add Authorized redirect URI: `https://<your-new-ref>.supabase.co/auth/v1/callback`
+     (use the ref from Step 1) → Create → copy the Client ID and Client Secret.
+3. Paste them into the Supabase Google provider screen → Save.
+4. Same project → **Authentication → URL Configuration** → add the Netlify URL
+   (Atlas gives it to you in Step 5) to **Site URL** and **Redirect URLs** → Save.
+   *Why: without this, Google sign-in fails after the redirect.*
+
+**Step 4 — Approve the repo (only if asked)**
+- Atlas creates the GitHub repo himself. If your phone shows a **GitHub device
+  approval**, tap Approve. Otherwise no action needed.
+
+**Step 5 — Connect Netlify**
+1. Safari → app.netlify.com → sign in (use Google login; approve the "Verify
+   it's you" prompt on your phone if it appears).
+2. **Add new site → Import an existing project** → choose
+   **emamnazar-sketch/van-squad** → Deploy (leave build settings as-is).
+3. Copy the site's `*.netlify.app` URL → send to Atlas (needed for Step 3.4).
+
+**Step 6 — Final check (2 minutes)**
+- Open the live `*.netlify.app` URL on your phone → tap **Log in → Continue
+  with Google** → sign in. Tell Atlas if you land back on the site logged in.
+  (Last time this final click was never tested — this time we do it.)
+
+**Launch URL for now:** the `*.netlify.app` URL from Step 5. A custom domain
+(like vansquad.com) is a separate later decision — nothing is bought here.
