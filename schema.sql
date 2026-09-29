@@ -118,66 +118,82 @@ as $$
 $$;
 
 -- ---- profiles ----
+drop policy if exists "profiles_public_read" on public.profiles;
 create policy "profiles_public_read" on public.profiles
   for select to anon, authenticated using (true);
 
+drop policy if exists "profiles_insert_self" on public.profiles;
 create policy "profiles_insert_self" on public.profiles
   for insert to authenticated with check (id = auth.uid());
 
+drop policy if exists "profiles_update_self" on public.profiles;
 create policy "profiles_update_self" on public.profiles
   for update to authenticated using (id = auth.uid()) with check (id = auth.uid());
 
 -- ---- businesses ----
+drop policy if exists "businesses_public_read" on public.businesses;
 create policy "businesses_public_read" on public.businesses
   for select to anon, authenticated
   using (status = 'active');
 
+drop policy if exists "businesses_owner_all" on public.businesses;
 create policy "businesses_owner_all" on public.businesses
   for all to authenticated
   using (owner_id = auth.uid())
   with check (owner_id = auth.uid());
 
 -- ---- listings ----
+drop policy if exists "listings_public_read" on public.listings;
 create policy "listings_public_read" on public.listings
   for select to anon, authenticated
   using (status = 'active');
 
+drop policy if exists "listings_owner_all" on public.listings;
 create policy "listings_owner_all" on public.listings
   for all to authenticated
   using (business_id in (select public.own_business_ids()))
   with check (business_id in (select public.own_business_ids()));
 
 -- ---- requests ----
+drop policy if exists "requests_customer_insert" on public.requests;
 create policy "requests_customer_insert" on public.requests
   for insert to authenticated
   with check (customer_id = auth.uid());
 
+drop policy if exists "requests_customer_read_own" on public.requests;
 create policy "requests_customer_read_own" on public.requests
   for select to authenticated
   using (customer_id = auth.uid()
      or business_id in (select public.own_business_ids()));
 
+drop policy if exists "requests_customer_update_own" on public.requests;
 create policy "requests_customer_update_own" on public.requests
   for update to authenticated
-  using (customer_id = auth.uid());
+  using (customer_id = auth.uid())
+  with check (customer_id = auth.uid());
 
+drop policy if exists "requests_owner_update" on public.requests;
 create policy "requests_owner_update" on public.requests
   for update to authenticated
   using (business_id in (select public.own_business_ids()));
 
 -- ---- reviews ----
+drop policy if exists "reviews_public_read" on public.reviews;
 create policy "reviews_public_read" on public.reviews
   for select to anon, authenticated using (true);
 
+drop policy if exists "reviews_customer_insert" on public.reviews;
 create policy "reviews_customer_insert" on public.reviews
   for insert to authenticated
   with check (customer_id = auth.uid());
 
+drop policy if exists "reviews_customer_update_own" on public.reviews;
 create policy "reviews_customer_update_own" on public.reviews
   for update to authenticated
   using (customer_id = auth.uid())
   with check (customer_id = auth.uid());
 
+drop policy if exists "reviews_customer_delete_own" on public.reviews;
 create policy "reviews_customer_delete_own" on public.reviews
   for delete to authenticated
   using (customer_id = auth.uid());
@@ -191,23 +207,30 @@ values ('request-photos', 'request-photos', true)
 on conflict (id) do nothing;
 
 -- Public can view uploaded photos
+drop policy if exists "request_photos_public_read" on storage.objects;
 create policy "request_photos_public_read" on storage.objects
   for select to anon, authenticated
   using (bucket_id = 'request-photos');
 
--- Signed-in users can upload photos
+-- Signed-in users can upload photos only under their own folder (<uid>/<filename>)
+drop policy if exists "request_photos_upload" on storage.objects;
 create policy "request_photos_upload" on storage.objects
   for insert to authenticated
-  with check (bucket_id = 'request-photos');
+  with check (bucket_id = 'request-photos'
+    and (storage.foldername(name))[1] = auth.uid()::text);
 
--- Signed-in users can manage (replace/delete) their uploads
+-- Users can only update/delete their OWN uploads
+drop policy if exists "request_photos_update_delete" on storage.objects;
 create policy "request_photos_update_delete" on storage.objects
   for update to authenticated
-  using (bucket_id = 'request-photos');
+  using (bucket_id = 'request-photos'
+    and (storage.foldername(name))[1] = auth.uid()::text);
 
+drop policy if exists "request_photos_delete" on storage.objects;
 create policy "request_photos_delete" on storage.objects
   for delete to authenticated
-  using (bucket_id = 'request-photos');
+  using (bucket_id = 'request-photos'
+    and (storage.foldername(name))[1] = auth.uid()::text);
 
 -- ============================================================
 -- 5. Seed data (demo businesses, is_sample = true)

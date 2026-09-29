@@ -1038,6 +1038,10 @@
 
   function parseHash() {
     var raw = location.hash.replace(/^#/, '') || '/';
+    /* in-page fragment, e.g. #/business/shine#reviews -> path /business/shine, frag reviews */
+    var frag = '';
+    var fIdx = raw.indexOf('#');
+    if (fIdx >= 0) { frag = raw.slice(fIdx + 1); raw = raw.slice(0, fIdx); }
     var qIdx = raw.indexOf('?');
     var path = qIdx >= 0 ? raw.slice(0, qIdx) : raw;
     var query = {};
@@ -1047,7 +1051,7 @@
         if (kv[0]) query[decodeURIComponent(kv[0])] = decodeURIComponent(kv[1] || '');
       });
     }
-    return { path: path, query: query, raw: raw };
+    return { path: path, query: query, raw: raw, frag: frag };
   }
 
   function setNav(path) {
@@ -1134,7 +1138,14 @@
     } catch (err) {
       app.innerHTML = '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Something went wrong.</h3><p>' + h(err.message || err) + '</p><a class="btn btn-primary" href="#/">Back home</a></div></div>';
     }
-    if (!rerender) window.scrollTo(0, 0);
+    if (!rerender) {
+      if (r.frag) {
+        var fel = document.getElementById(r.frag);
+        if (fel) { fel.scrollIntoView(); } else { window.scrollTo(0, 0); }
+      } else {
+        window.scrollTo(0, 0);
+      }
+    }
   }
 
   /* ---------- boot ---------- */

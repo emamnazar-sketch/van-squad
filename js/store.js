@@ -300,7 +300,7 @@
     async _sb() { return loadSupabaseLib(); },
     async listBusinesses() {
       var sb = await this._sb();
-      var res = await sb.from('businesses').select('*, listings(*)').eq('status', 'active').order('created_at');
+      var res = await sb.from('businesses').select('*, listings(*), reviews(*)').eq('status', 'active').order('created_at');
       if (res.error) throw res.error;
       return res.data.map(toBiz);
     },
@@ -373,7 +373,7 @@
       var sb = await this._sb();
       var u = (await sb.auth.getUser()).data.user;
       if (!u) return [];
-      var res = await sb.from('businesses').select('*, listings(*)').eq('owner_id', u.id);
+      var res = await sb.from('businesses').select('*, listings(*), reviews(*)').eq('owner_id', u.id);
       if (res.error) return [];
       return res.data.map(toBiz);
     },
