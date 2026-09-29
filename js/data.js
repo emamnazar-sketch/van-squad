@@ -23,8 +23,8 @@
       blurb: 'Cleans that fit your space and schedule.' },
     { name: 'Beauty & wellness', icon: 'scissors', live: false,
       blurb: 'Coming soon to the directory.' },
-    { name: 'Home repairs', icon: 'wrench', live: false,
-      blurb: 'Coming soon to the directory.' }
+    { name: 'Home repairs', icon: 'wrench', live: true,
+      blurb: 'Electricians, plumbers and handymen at your door.' }
   ];
 
   /* Six sample businesses, copied from the design preview. */
