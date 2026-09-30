@@ -564,6 +564,186 @@
     '</div>';
   }
 
+  /* ---------- SEO for blog (title, meta description, structured data) ---------- */  function setMeta(name, content) {
+    var el = document.querySelector('meta[name="' + name + '"]');
+    if (el) el.setAttribute('content', content);
+  }
+  function setMetaProp(prop, content) {
+    var el = document.querySelector('meta[property="' + prop + '"]');
+    if (!el) {
+      el = document.createElement('meta');
+      el.setAttribute('property', prop);
+      document.head.appendChild(el);
+    }
+    el.setAttribute('content', content);
+  }
+  function setCanonical(href) {
+    var el = document.querySelector('link[rel="canonical"]');
+    if (el) el.setAttribute('href', href);
+  }
+  var HOME_SHARE = {
+    'og:type': 'website', 'og:title': 'Van Squad — Local services. At your door.',
+    'og:description': 'Find local service businesses that come to you. Compare packages, see travel costs upfront, request an appointment.',
+    'og:image': 'https://vansquads.com/og-cover.png', 'og:url': 'https://vansquads.com/',
+    'twitter:title': 'Van Squad — Local services. At your door.',
+    'twitter:description': 'Find local service businesses that come to you.',
+    'twitter:image': 'https://vansquads.com/og-cover.png', 'canonical': 'https://vansquads.com/'
+  };
+  function resetShareTags() {
+    setMetaProp('og:type', HOME_SHARE['og:type']);
+    setMetaProp('og:title', HOME_SHARE['og:title']);
+    setMetaProp('og:description', HOME_SHARE['og:description']);
+    setMetaProp('og:image', HOME_SHARE['og:image']);
+    setMetaProp('og:url', HOME_SHARE['og:url']);
+    setMeta('twitter:title', HOME_SHARE['twitter:title']);
+    setMeta('twitter:description', HOME_SHARE['twitter:description']);
+    setMeta('twitter:image', HOME_SHARE['twitter:image']);
+    var apt = document.querySelector('meta[property="article:published_time"]');
+    if (apt) apt.remove();
+    setCanonical(HOME_SHARE['canonical']);
+  }
+  function setJsonLd(id, data) {
+    var old = document.getElementById(id);
+    if (old) old.remove();
+    var s = document.createElement('script');
+    s.type = 'application/ld+json';
+    s.id = id;
+    s.textContent = JSON.stringify(data);
+    document.head.appendChild(s);
+  }
+  function clearBlogSeo() {
+    var old = document.getElementById('vs-blog-jsonld');
+    if (old) old.remove();
+    resetShareTags();
+  }
+  function blogSeo(p) {
+    var url = 'https://vansquads.com/#/blog/' + p.slug;
+    var img = p.images && p.images[0] ? 'https://vansquads.com/' + p.images[0].src : HOME_SHARE['og:image'];
+    document.title = p.title + ' — Van Squad';
+    setMeta('description', p.metaDescription);
+    setMetaProp('og:type', 'article');
+    setMetaProp('og:title', p.title + ' — Van Squad');
+    setMetaProp('og:description', p.metaDescription);
+    setMetaProp('og:image', img);
+    setMetaProp('og:url', url);
+    setMetaProp('article:published_time', p.date);
+    setMeta('twitter:title', p.title + ' — Van Squad');
+    setMeta('twitter:description', p.metaDescription);
+    setMeta('twitter:image', img);
+    setCanonical(url);
+    setJsonLd('vs-blog-jsonld', [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        'headline': p.title,
+        'description': p.metaDescription,
+        'datePublished': p.date,
+        'dateModified': p.updated || p.date,
+        'author': { '@type': 'Organization', 'name': 'Van Squad', 'url': 'https://vansquads.com/' },
+        'publisher': { '@type': 'Organization', 'name': 'Van Squad', 'url': 'https://vansquads.com/' },
+        'mainEntityOfPage': url
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        'mainEntity': p.faq.map(function (f) {
+          return { '@type': 'Question', 'name': f.q, 'acceptedAnswer': { '@type': 'Answer', 'text': f.a } };
+        })
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://vansquads.com/' },
+          { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': 'https://vansquads.com/#/blog' },
+          { '@type': 'ListItem', 'position': 3, 'name': p.title, 'item': url }
+        ]
+      }
+    ]);
+  }
+  function blogListSeo() {
+    document.title = 'Blog — Van Squad';
+    setMeta('description', 'Straight answers to real customer questions about mobile services: pricing, what to compare, and what to watch for before you book.');
+    clearBlogSeo();
+  }
+  /* ---------- blog dual CTA (customer + business owner) ---------- */
+  function postCta() {
+    return '<div class="cta-duo">' +
+      '<div class="cta-card">' +
+        '<p class="eyebrow">For customers</p>' +
+        '<h3>Services that come to you</h3>' +
+        '<p class="muted">Skip the phone tag. Enter your ZIP to see verified mobile pros near you — upfront prices, real packages, requests sent in minutes.</p>' +
+        '<form id="cta-zip-form" class="cta-zip">' +
+          '<input id="cta-zip" inputmode="numeric" maxlength="5" placeholder="Your ZIP code" aria-label="Your ZIP code">' +
+          '<button class="btn btn-primary" type="submit">Find services →</button>' +
+        '</form>' +
+        '<p class="fine" id="cta-zip-err" style="display:none;color:#B3261E">Enter a valid 5-digit ZIP code.</p>' +
+        '<p class="fine"><a href="#/login">Create a free account</a> to send requests and track appointments.</p>' +
+      '</div>' +
+      '<div class="cta-card">' +
+        '<p class="eyebrow">For business owners</p>' +
+        '<h3>Customers are searching for what you do</h3>' +
+        '<p class="muted">List your mobile business on Van Squad free. Show up by ZIP, publish your packages with upfront pricing, and get booking requests straight to your inbox. No listing fees, no commissions — you keep every dollar.</p>' +
+        '<a class="btn btn-navy" href="#/join">List your business →</a>' +
+        '<p class="fine">If you travel to your customers — a van, a car, or your own two feet — you belong here.</p>' +
+      '</div>' +
+    '</div>';
+  }
+  function bindPostCta() {
+    var form = document.getElementById('cta-zip-form');
+    if (!form) return;
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var zip = document.getElementById('cta-zip').value.trim();
+      var err = document.getElementById('cta-zip-err');
+      if (!/^\d{5}$/.test(zip)) { err.style.display = 'block'; return; }
+      err.style.display = 'none';
+      location.hash = '#/browse?zip=' + zip;
+    });
+  }
+
+  function viewBlog() {
+    var cards = window.VS_BLOG.POSTS.map(function (p) {
+      var thumb = p.images && p.images[0] ? '<img class="post-thumb" src="' + h(p.images[0].src) + '" alt="' + h(p.images[0].alt) + '" loading="lazy">' : '';
+      return '<a class="post-card" href="#/blog/' + p.slug + '">' +
+        thumb +
+        '<div class="post-meta"><span class="cat">' + h(p.category) + '</span> · ' + window.VS_BLOG.fmtDate(p.date) + '</div>' +
+        '<h2>' + h(p.title) + '</h2>' +
+        '<p>' + h(p.excerpt) + '</p>' +
+        '<span class="back" style="color:var(--orange);font-weight:700">Read →</span>' +
+      '</a>';
+    }).join('');
+    return '<div class="blog-list">' +
+      '<p class="eyebrow">Van Squad blog</p>' +
+      '<h1 style="margin-top:0">Answers, not ads.</h1>' +
+      '<p class="lede">Real questions customers ask about mobile services — pricing, what to compare, and what to watch for — answered straight.</p>' +
+      cards +
+    '</div>';
+  }
+
+  function viewPost(p) {
+    var faqHtml = p.faq.map(function (f) {
+      return '<div class="detail-sec"><h3>' + h(f.q) + '</h3><p class="muted">' + f.a + '</p></div>';
+    }).join('');
+    var body = String(p.body).replace(/\{\{img:(\d+)\}\}/g, function (m, n) {
+      var im = (p.images || [])[Number(n)];
+      if (!im) return '';
+      return '<figure class="post-figure"><img src="' + h(im.src) + '" alt="' + h(im.alt) + '" loading="lazy">' +
+        (im.caption ? '<figcaption>' + h(im.caption) + '</figcaption>' : '') + '</figure>';
+    });
+    return '<div class="article">' +
+      '<a class="back" href="#/blog">← Back to blog</a>' +
+      '<p class="eyebrow">' + h(p.category) + ' · ' + window.VS_BLOG.fmtDate(p.date) + ' · ' + h(p.readTime) + '</p>' +
+      '<h1>' + h(p.title) + '</h1>' +
+      '<div class="tldr"><strong>The short answer.</strong> ' + p.tldr + '</div>' +
+      body +
+      postCta() +
+      '<h3>Frequently asked questions</h3>' +
+      faqHtml +
+      '<div class="disclosure"><strong>Van Squad is a directory, not the service provider.</strong> Service and payment terms are arranged directly between customer and business owner.</div>' +
+    '</div>';
+  }
+
   /* ---------- login gate ---------- */
   function viewGate(next) {
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
@@ -1332,8 +1512,9 @@
 
   function setNav(path) {
     var map = { '/browse': 'browse', '/how-it-works': 'how', '/join': 'join' };
+    var key = map[path] || (path.indexOf('/blog') === 0 ? 'blog' : null);
     document.querySelectorAll('.main-nav a').forEach(function (a) {
-      a.classList.toggle('active', a.getAttribute('data-nav') === map[path]);
+      a.classList.toggle('active', a.getAttribute('data-nav') === key);
     });
   }
 
@@ -1362,6 +1543,9 @@
     var r = parseHash();
     var path = r.path;
     setNav(path);
+    document.title = 'Van Squad — Local services. At your door.';
+    setMeta('description', 'Van Squad is a directory of local mobile service businesses that travel to you — car detailing, pet grooming, home cleaning and more. If you travel to your customers, you belong here.');
+    clearBlogSeo();
     document.getElementById('mobile-nav').classList.remove('open');
     var seg = path.split('/').filter(Boolean);
 
@@ -1381,6 +1565,14 @@
         else { app.innerHTML = viewBusinessDetail(b); afterBusinessDetail(b); }
       } else if (seg[0] === 'how-it-works') {
         app.innerHTML = viewHow(); bindFaq();
+      } else if (seg[0] === 'blog') {
+        if (seg[1]) {
+          var post = window.VS_BLOG.bySlug(seg[1]);
+          if (!post) { clearBlogSeo(); app.innerHTML = '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Post not found.</h3><a class="btn btn-primary" href="#/blog">Back to blog</a></div></div>'; }
+          else { app.innerHTML = viewPost(post); blogSeo(post); bindPostCta(); }
+        } else {
+          app.innerHTML = viewBlog(); blogListSeo();
+        }
       } else if (seg[0] === 'services' && seg[1] && D.GUIDES[seg[1]]) {
         app.innerHTML = viewGuide(D.GUIDES[seg[1]]);
       } else if (seg[0] === 'join') {

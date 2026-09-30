@@ -336,3 +336,31 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 /* Email verification banner (business dashboard) */
 .verify-banner{display:flex;align-items:center;justify-content:space-between;gap:16px;background:#FFF7E8;border:2px solid #F0B429;border-radius:14px;padding:14px 18px;margin:18px 0;flex-wrap:wrap}
 .verify-banner strong{font-size:16px}
+
+/* Blog */
+.blog-list{max-width:760px;margin:0 auto;padding:56px 20px}
+.post-card{display:block;border:1px solid var(--line);border-radius:14px;padding:22px;margin:0 0 18px;text-decoration:none;color:inherit;background:#fff}
+.post-card:hover{border-color:var(--orange)}
+.post-card h2{font-size:24px;margin:6px 0 8px}
+.post-card p{color:var(--muted);margin:0 0 10px}
+.post-meta{font-size:13px;color:var(--muted)}
+.post-meta .cat{color:var(--orange);font-weight:800;text-transform:uppercase;letter-spacing:.08em;font-size:12px}
+.price-table{width:100%;border-collapse:collapse;margin:18px 0;font-size:15px}
+.price-table th,.price-table td{border:1px solid var(--line);padding:10px 12px;text-align:left;vertical-align:top}
+.price-table th{background:#FFF7E8}
+.num-list{padding-left:22px;margin:0 0 18px}
+.num-list li{margin-bottom:10px}
+.article .disclosure{margin-top:28px}
+.tldr{background:#FFF7E8;border-left:4px solid var(--orange);border-radius:0 12px 12px 0;padding:16px 18px;margin:0 0 24px;font-size:16px}
+.tldr strong{display:block;margin-bottom:4px}
+.cta-duo{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:32px 0}
+.cta-card{border:1px solid var(--line);border-radius:14px;padding:24px;background:#fff}
+.cta-card h3{margin:6px 0 10px;font-size:21px}
+.cta-card .fine{font-size:13px;color:var(--muted);margin:10px 0 0}
+.cta-zip{display:flex;gap:10px;margin:14px 0 4px}
+.cta-zip input{flex:1;min-width:0;border:1px solid var(--line);border-radius:10px;padding:11px 14px;font-size:15px}
+@media(max-width:640px){.cta-duo{grid-template-columns:1fr}.cta-zip{flex-direction:column}}
+.post-figure{margin:26px 0}
+.post-figure img{width:100%;height:auto;border-radius:12px;display:block}
+.post-figure figcaption{font-size:13.5px;color:var(--muted);margin-top:8px}
+.post-thumb{width:100%;height:190px;object-fit:cover;border-radius:10px;margin-bottom:14px;display:block}
