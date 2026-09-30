@@ -158,7 +158,7 @@
       html = '<a class="btn btn-navy btn-sm" href="' + dash + '">Hi, ' + h(user.name) + '</a>' +
              '<button class="link-btn" id="logout-btn" type="button">Log out</button>';
     } else {
-      html = '<a class="btn btn-outline btn-sm" href="#/login">Log in</a>' +
+      html = '<a class="btn btn-outline btn-sm" href="#/login">Sign in</a>' +
              '<a class="btn btn-primary btn-sm" href="#/join">List your business</a>';
     }
     el.innerHTML = html;
@@ -525,7 +525,7 @@
         route(true);
       });
     } else if (wrap) {
-      wrap.innerHTML = '<p class="small"><a class="link-btn" href="#/login">Log in</a> <span class="muted">to leave a review.</span></p>';
+      wrap.innerHTML = '<p class="small"><a class="link-btn" href="#/login">Sign in</a> <span class="muted">to leave a review.</span></p>';
     }
   }
 
@@ -749,7 +749,7 @@
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
       '<span class="logo"><svg viewBox="0 0 64 64" width="52" height="52"><rect width="64" height="64" rx="14" fill="#FF6A2B"/><circle cx="32" cy="18" r="7" fill="#fff"/><path d="M18 30 L32 50 L46 30" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>' +
-      '<h1>Log in to access Van Squads</h1>' +
+      '<h1>Sign in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +
       '<p class="fine">Van Squads uses Google to securely log you in.</p>' +
@@ -827,9 +827,9 @@
           '<div class="f-row single"><div class="field"><label>Before your visit</label><textarea name="beforeVisit" placeholder="One item per line, e.g.&#10;A safe parking space and vehicle access"></textarea><span class="hint">Anything the customer should prepare.</span></div></div>' +
           '<div class="f-row single"><div class="field"><label>Cancellation policy</label><input name="cancellation" placeholder="Please give 24 hours notice to avoid a $25 late fee."></div></div>' +
         '</div>' +
-        '<div class="form-sec"><h3>Your account</h3><p>This is how you’ll log in to manage requests.</p>' +
+        '<div class="form-sec"><h3>Your account</h3><p>This is how you’ll sign in to manage requests.</p>' +
           '<div class="f-row"><div class="field"><label>Your name <span class="req">*</span></label><input name="ownerName" required placeholder="Alex Morgan"></div>' +
-          '<div class="field"><label>Login email <span class="req">*</span></label><input name="ownerEmail" type="email" required placeholder="you@example.com"></div></div>' +
+          '<div class="field"><label>Sign-in email <span class="req">*</span></label><input name="ownerEmail" type="email" required placeholder="you@example.com"></div></div>' +
         '</div>' +
         '<button class="btn btn-primary btn-block" type="submit" id="su-submit">Create my business listing →</button>' +
         '<p class="small muted" style="margin-top:12px">No fees to list. No online payments — you arrange service and payment terms directly with each customer.</p>' +
@@ -864,7 +864,7 @@
       var me = null;
       try { me = await window.VS.store.currentUser(); } catch (ign) { me = null; }
       if (!me && window.VS.isSupabase()) {
-        err.innerHTML = 'Please <a href="#/login">log in with Google</a> first \u2014 your listing will be saved to your account.';
+        err.innerHTML = 'Please <a href="#/login">sign in with Google</a> first \u2014 your listing will be saved to your account.';
         err.style.display = 'block'; err.scrollIntoView({ behavior: 'smooth', block: 'center' });
         return;
       }
