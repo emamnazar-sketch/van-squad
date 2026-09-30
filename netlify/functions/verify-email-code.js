@@ -1,4 +1,4 @@
-/* Van Squad — check a verification code and mark the business email verified.
+/* Van Squads — check a verification code and mark the business email verified.
    POST /.netlify/functions/verify-email-code  { businessId, code }
    Auth: Bearer <supabase user JWT>. Only the business owner may call it. */
 const crypto = require('crypto');

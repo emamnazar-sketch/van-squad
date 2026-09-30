@@ -1,4 +1,4 @@
-# Van Squad Blog SOP
+# Van Squads Blog SOP
 
 Customer-question posts that rank on Google/AI search and convert both sides of the marketplace.
 
@@ -21,7 +21,7 @@ Customer-question posts that rank on Google/AI search and convert both sides of 
    - *For customers:* ZIP-code search → `#/browse?zip=XXXXX`, plus a "Create a free account" line.
    - *For business owners:* free-listing pitch → `#/join`.
 6. **FAQ section:** 5 questions + direct answers, visible on the page (required for FAQPage schema).
-7. **Disclosure:** "Van Squad is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner."
+7. **Disclosure:** "Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner."
 8. **Sources:** every price/fact claim gets its 2026 source link.
 
 ## SEO / AI-search (automatic per post)

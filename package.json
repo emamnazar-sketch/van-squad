@@ -1,1 +1,1 @@
-{"dependencies":{"@supabase/supabase-js":"^2.44.0"},"description":"Van Squad — local services directory (static site + Netlify functions)","engines":{"node":">=18"},"name":"van-squad","private":true,"version":"1.0.0"}
+{"dependencies":{"@supabase/supabase-js":"^2.44.0"},"description":"Van Squads — local services directory (static site + Netlify functions)","engines":{"node":">=18"},"name":"van-squad","private":true,"version":"1.0.0"}

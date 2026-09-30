@@ -1,4 +1,4 @@
--- Van Squad: gate public listings behind verified business contact email.
+-- Van Squads: gate public listings behind verified business contact email.
 -- Run in the Supabase SQL editor (project: van-squad).
 
 -- 1) Flag on the business row

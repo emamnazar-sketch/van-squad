@@ -1,4 +1,4 @@
-# Van Squad — Local services. At your door.
+# Van Squads — Local services. At your door.
 
 A real, working directory of mobile service businesses (car care, pet care, home
 cleaning) that travel to customers. Built as a preview of the ChatGPT design,

@@ -1,4 +1,4 @@
--- Van Squad: gate public listings behind verified business phone as well.
+-- Van Squads: gate public listings behind verified business phone as well.
 -- Run in the Supabase SQL editor (project: van-squad).
 -- Twilio Verify holds the code state; we only store the verified flag.
 

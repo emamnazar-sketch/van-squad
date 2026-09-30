@@ -67,7 +67,7 @@ Most detailers recommend a full detail every 3 months, which puts the annual cos
 
 **For customers — "Services that come to you":** "Skip the phone tag. Enter your ZIP to see verified mobile pros near you — upfront prices, real packages, requests sent in minutes." → ZIP input → #/browse?zip=XXXXX. Fine print: "Create a free account to send requests and track appointments."
 
-**For business owners — "Customers are searching for what you do":** "List your mobile business on Van Squad free. Show up by ZIP, publish your packages with upfront pricing, and get booking requests straight to your inbox. No listing fees, no commissions — you keep every dollar." → #/join. Fine print: "If you travel to your customers — a van, a car, or your own two feet — you belong here."
+**For business owners — "Customers are searching for what you do":** "List your mobile business on Van Squads free. Show up by ZIP, publish your packages with upfront pricing, and get booking requests straight to your inbox. No listing fees, no commissions — you keep every dollar." → #/join. Fine print: "If you travel to your customers — a van, a car, or your own two feet — you belong here."
 
 ## Frequently asked questions
 

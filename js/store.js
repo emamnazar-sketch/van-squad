@@ -1,4 +1,4 @@
-/* Van Squad — data layer.
+/* Van Squads — data layer.
    Two backends:
    - local: browser localStorage (works with zero setup — used for the preview build)
    - supabase: activated automatically when js/config.js has SUPABASE_URL + SUPABASE_ANON_KEY

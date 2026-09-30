@@ -1,5 +1,5 @@
 -- ============================================================
--- Van Squad — Supabase / Postgres schema
+-- Van Squads — Supabase / Postgres schema
 -- Mobile service businesses that travel to customers
 -- (car detailing, pet grooming, home cleaning)
 --

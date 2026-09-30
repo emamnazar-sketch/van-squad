@@ -1,4 +1,4 @@
-# Van Squad — static single-page app (hash routing, no build step)
+# Van Squads — static single-page app (hash routing, no build step)
 [build]
   publish = "."
   command = ""

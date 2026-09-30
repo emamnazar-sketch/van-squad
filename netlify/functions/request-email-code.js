@@ -1,4 +1,4 @@
-/* Van Squad — send a 6-digit verification code to a business's contact email.
+/* Van Squads — send a 6-digit verification code to a business's contact email.
    POST /.netlify/functions/request-email-code  { businessId }
    Auth: Bearer <supabase user JWT>. Only the business owner may call it. */
 const crypto = require('crypto');
@@ -59,14 +59,14 @@ exports.handler = async (event) => {
       method: 'POST',
       headers: { Authorization: 'Bearer ' + process.env.RESEND_API_KEY, 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        from: 'Van Squad <noreply@vansquads.com>',
+        from: 'Van Squads <noreply@vansquads.com>',
         to: [biz.email.trim()],
-        subject: 'Your Van Squad verification code',
+        subject: 'Your Van Squads verification code',
         text: 'Hi ' + (biz.name || 'there') + ',\n\n' +
-          'Your Van Squad verification code is:\n\n' + code + '\n\n' +
+          'Your Van Squads verification code is:\n\n' + code + '\n\n' +
           'Enter it on vansquads.com within 15 minutes to verify your business email. ' +
           'Your listing goes public as soon as your email is verified.\n\n' +
-          'If you did not request this, you can ignore this email.\n\n- Van Squad'
+          'If you did not request this, you can ignore this email.\n\n- Van Squads'
       })
     });
     if (!res.ok) { console.error('resend failed', await res.text()); return json(502, { error: 'send-failed' }); }

@@ -1,4 +1,4 @@
-/* Van Squad — single-page app: hash router + all views. */
+/* Van Squads — single-page app: hash router + all views. */
 (function () {
   'use strict';
   var D = window.VS_DATA;
@@ -211,7 +211,7 @@
     '<section class="section band" id="home-samples"><div class="wrap">' +
       '<p class="eyebrow">Meet your next go-to.</p>' +
       '<h2>Good help, close to home.</h2>' +
-      '<p class="lede">A look at the businesses you could discover on Van Squad.</p>' +
+      '<p class="lede">A look at the businesses you could discover on Van Squads.</p>' +
       '<div style="text-align:right"><a class="link-btn" href="#/browse">View all ↗</a></div>' +
       '<div class="list-grid" id="home-cards"><div class="empty">Loading…</div></div>' +
     '</div></section>' +
@@ -478,7 +478,7 @@
       '<div class="detail-sec"><h3>Before your visit</h3><ul class="check-list">' +
         (l.beforeVisit || []).map(function (x) { return '<li>' + h(x) + '</li>'; }).join('') + '</ul></div>' +
       (l.cancellation ? '<div class="detail-sec"><h3>Cancellation policy</h3><p class="muted">' + h(l.cancellation) + '</p></div>' : '') +
-      '<div class="disclosure"><strong>Good to know.</strong> Van Squad is a directory, not the service provider. We don’t run background checks or verify licenses — review the business’s own credentials, and agree on service and payment terms directly with them before booking.</div>' +
+      '<div class="disclosure"><strong>Good to know.</strong> Van Squads is a directory, not the service provider. We don’t run background checks or verify licenses — review the business’s own credentials, and agree on service and payment terms directly with them before booking.</div>' +
       '<div class="detail-sec" id="reviews"><h3>Customer reviews</h3>' +
         (reviews || '<p class="muted">No reviews yet — be the first after your visit.</p>') +
         '<div id="review-form-wrap" style="margin-top:18px"></div>' +
@@ -538,10 +538,10 @@
     '<section class="section"><div class="wrap">' +
       '<p class="eyebrow">How it works</p>' +
       '<h1>From search to confirmed visit.</h1>' +
-      '<p class="lede">Van Squad is a directory of businesses that travel to you. Here is how a request works, step by step.</p>' +
+      '<p class="lede">Van Squads is a directory of businesses that travel to you. Here is how a request works, step by step.</p>' +
       '<div class="steps four" style="margin-top:30px">' + steps + '</div>' +
       '<div class="disclosure" style="margin-top:34px"><strong>No online checkout.</strong> ' +
-      'Online payments are not part of Van Squad. You agree on the service and payment terms directly with the business — the request just starts the conversation.</div>' +
+      'Online payments are not part of Van Squads. You agree on the service and payment terms directly with the business — the request just starts the conversation.</div>' +
     '</div></section>' +
     '<section class="section band"><div class="wrap">' +
       '<p class="eyebrow">Service guides</p><h2>Find the right service for your job</h2>' +
@@ -582,10 +582,10 @@
     if (el) el.setAttribute('href', href);
   }
   var HOME_SHARE = {
-    'og:type': 'website', 'og:title': 'Van Squad — Local services. At your door.',
+    'og:type': 'website', 'og:title': 'Van Squads — Local services. At your door.',
     'og:description': 'Find local service businesses that come to you. Compare packages, see travel costs upfront, request an appointment.',
     'og:image': 'https://vansquads.com/og-cover.png', 'og:url': 'https://vansquads.com/',
-    'twitter:title': 'Van Squad — Local services. At your door.',
+    'twitter:title': 'Van Squads — Local services. At your door.',
     'twitter:description': 'Find local service businesses that come to you.',
     'twitter:image': 'https://vansquads.com/og-cover.png', 'canonical': 'https://vansquads.com/'
   };
@@ -619,15 +619,15 @@
   function blogSeo(p) {
     var url = 'https://vansquads.com/#/blog/' + p.slug;
     var img = p.images && p.images[0] ? 'https://vansquads.com/' + p.images[0].src : HOME_SHARE['og:image'];
-    document.title = p.title + ' — Van Squad';
+    document.title = p.title + ' — Van Squads';
     setMeta('description', p.metaDescription);
     setMetaProp('og:type', 'article');
-    setMetaProp('og:title', p.title + ' — Van Squad');
+    setMetaProp('og:title', p.title + ' — Van Squads');
     setMetaProp('og:description', p.metaDescription);
     setMetaProp('og:image', img);
     setMetaProp('og:url', url);
     setMetaProp('article:published_time', p.date);
-    setMeta('twitter:title', p.title + ' — Van Squad');
+    setMeta('twitter:title', p.title + ' — Van Squads');
     setMeta('twitter:description', p.metaDescription);
     setMeta('twitter:image', img);
     setCanonical(url);
@@ -639,8 +639,8 @@
         'description': p.metaDescription,
         'datePublished': p.date,
         'dateModified': p.updated || p.date,
-        'author': { '@type': 'Organization', 'name': 'Van Squad', 'url': 'https://vansquads.com/' },
-        'publisher': { '@type': 'Organization', 'name': 'Van Squad', 'url': 'https://vansquads.com/' },
+        'author': { '@type': 'Organization', 'name': 'Van Squads', 'url': 'https://vansquads.com/' },
+        'publisher': { '@type': 'Organization', 'name': 'Van Squads', 'url': 'https://vansquads.com/' },
         'mainEntityOfPage': url
       },
       {
@@ -662,7 +662,7 @@
     ]);
   }
   function blogListSeo() {
-    document.title = 'Blog — Van Squad';
+    document.title = 'Blog — Van Squads';
     setMeta('description', 'Straight answers to real customer questions about mobile services: pricing, what to compare, and what to watch for before you book.');
     clearBlogSeo();
   }
@@ -683,7 +683,7 @@
       '<div class="cta-card">' +
         '<p class="eyebrow">For business owners</p>' +
         '<h3>Customers are searching for what you do</h3>' +
-        '<p class="muted">List your mobile business on Van Squad free. Show up by ZIP, publish your packages with upfront pricing, and get booking requests straight to your inbox. No listing fees, no commissions — you keep every dollar.</p>' +
+        '<p class="muted">List your mobile business on Van Squads free. Show up by ZIP, publish your packages with upfront pricing, and get booking requests straight to your inbox. No listing fees, no commissions — you keep every dollar.</p>' +
         '<a class="btn btn-navy" href="#/join">List your business →</a>' +
         '<p class="fine">If you travel to your customers — a van, a car, or your own two feet — you belong here.</p>' +
       '</div>' +
@@ -714,7 +714,7 @@
       '</a>';
     }).join('');
     return '<div class="blog-list">' +
-      '<p class="eyebrow">Van Squad blog</p>' +
+      '<p class="eyebrow">Van Squads blog</p>' +
       '<h1 style="margin-top:0">Answers, not ads.</h1>' +
       '<p class="lede">Real questions customers ask about mobile services — pricing, what to compare, and what to watch for — answered straight.</p>' +
       cards +
@@ -740,7 +740,7 @@
       postCta() +
       '<h3>Frequently asked questions</h3>' +
       faqHtml +
-      '<div class="disclosure"><strong>Van Squad is a directory, not the service provider.</strong> Service and payment terms are arranged directly between customer and business owner.</div>' +
+      '<div class="disclosure"><strong>Van Squads is a directory, not the service provider.</strong> Service and payment terms are arranged directly between customer and business owner.</div>' +
     '</div>';
   }
 
@@ -749,10 +749,10 @@
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
       '<span class="logo"><svg viewBox="0 0 64 64" width="52" height="52"><rect width="64" height="64" rx="14" fill="#FF6A2B"/><circle cx="32" cy="18" r="7" fill="#fff"/><path d="M18 30 L32 50 L46 30" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>' +
-      '<h1>Log in to access Van Squad</h1>' +
+      '<h1>Log in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +
-      '<p class="fine">Van Squad uses Google to securely log you in.</p>' +
+      '<p class="fine">Van Squads uses Google to securely log you in.</p>' +
     '</div></div>';
   }
   function viewLoginPage() { return viewGate(''); }
@@ -1543,8 +1543,8 @@
     var r = parseHash();
     var path = r.path;
     setNav(path);
-    document.title = 'Van Squad — Local services. At your door.';
-    setMeta('description', 'Van Squad is a directory of local mobile service businesses that travel to you — car detailing, pet grooming, home cleaning and more. If you travel to your customers, you belong here.');
+    document.title = 'Van Squads — Local services. At your door.';
+    setMeta('description', 'Van Squads is a directory of local mobile service businesses that travel to you — car detailing, pet grooming, home cleaning and more. If you travel to your customers, you belong here.');
     clearBlogSeo();
     document.getElementById('mobile-nav').classList.remove('open');
     var seg = path.split('/').filter(Boolean);

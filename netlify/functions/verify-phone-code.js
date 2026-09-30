@@ -1,4 +1,4 @@
-/* Van Squad — check a Twilio Verify SMS code and mark the business phone verified.
+/* Van Squads — check a Twilio Verify SMS code and mark the business phone verified.
    POST /.netlify/functions/verify-phone-code  { businessId, code }
    Auth: Bearer <supabase user JWT>. Only the business owner may call it. */
 const { createClient } = require('@supabase/supabase-js');

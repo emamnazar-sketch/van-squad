@@ -1,4 +1,4 @@
-# Van Squad — GO-LIVE plan (mirrors thefamilyground.com)
+# Van Squads — GO-LIVE plan (mirrors thefamilyground.com)
 
 **Status:** Design approved by Amam 2026-09-29. Repo staged at `~/workspace/van-squad/`
 (commit on local `main`). NOTHING live yet — wiring waits on the owner steps below.
@@ -15,7 +15,7 @@
 | DNS | GoDaddy: apex A → `75.2.60.5`, www CNAME → `gorgeous-queijadas-c91823.netlify.app`. Primary domain `thefamilyground.com` in Netlify, www redirects. Let's Encrypt cert auto-provisions. |
 | Open gap (never documented) | **Supabase Auth → URL Configuration (Site URL / Redirect URLs allowlist).** Family Ground used a dynamic `redirectTo`, so both the netlify.app URL and the custom domain had to be allowlisted for Google OAuth to work. **Set this explicitly for van-squad — do not skip.** |
 
-## 2. Van Squad specifics (differs from Family Ground)
+## 2. Van Squads specifics (differs from Family Ground)
 
 - Single-file app: `index.html` + `css/` + `js/` + **hash routing** (`#/browse`, `#/business/shine`, `#/join`, `#/how-it-works`, `#/services/...`, `#/book/<id>`, `#/customer`, `#/dashboard`, `#/workspace`, `#/login`). No rewrites needed on Netlify.
 - `js/config.js` ships with **empty** `SUPABASE_URL`, `SUPABASE_ANON_KEY`, `SITE_URL`. The app auto-switches from localStorage demo mode to Supabase the moment keys are present — no code changes.
@@ -27,7 +27,7 @@
 
 ## 3. Repo staged and ready (done by Atlas, no owner action)
 
-- [x] `~/workspace/van-squad/` — git init, committed on `main` (commit "Van Squad directory site — design approved, ready to wire live")
+- [x] `~/workspace/van-squad/` — git init, committed on `main` (commit "Van Squads directory site — design approved, ready to wire live")
 - [x] `.gitignore`, `netlify.toml`, README deploy notes
 - [x] `schema.sql` — businesses, listings, requests, reviews, profiles, RLS, `request-photos` storage bucket, 6 idempotent SAMPLE businesses + 1 sample review
 - [x] App verified in local demo mode (localStorage) — signup flow, request flow, dashboards tested
@@ -80,8 +80,8 @@ Do these and nothing else is needed from you. Tell Atlas when each one is done.
 **Step 3 — Turn on Google login**
 1. Supabase dashboard → **Authentication → Sign In → Google** → Enable.
 2. It needs a Google Client ID + Secret from Google Cloud:
-   - console.cloud.google.com → new project named **Van Squad** → **OAuth consent
-     screen → External** → fill app name "Van Squad" → save.
+   - console.cloud.google.com → new project named **Van Squads** → **OAuth consent
+     screen → External** → fill app name "Van Squads" → save.
    - **Credentials → Create Credentials → OAuth client ID → Web application** →
      add Authorized redirect URI: `https://<your-new-ref>.supabase.co/auth/v1/callback`
      (use the ref from Step 1) → Create → copy the Client ID and Client Secret.

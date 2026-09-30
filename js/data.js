@@ -1,4 +1,4 @@
-/* Van Squad — seed data + static content.
+/* Van Squads — seed data + static content.
    Mirrors schema.sql seed rows. isSample listings are flagged in the UI
    and can be removed by the owner at any time. */
 (function () {
@@ -163,7 +163,7 @@
       ],
       question: 'Do I need to provide water or power?',
       answer: 'Usually not — most mobile detailers carry their own water and power. They do need a parking space they can work around safely.',
-      note: 'Sample packages on Van Squad start around $144–$149 for a full interior & exterior detail, travel included.'
+      note: 'Sample packages on Van Squads start around $144–$149 for a full interior & exterior detail, travel included.'
     },
     'mobile-pet-grooming': {
       slug: 'mobile-pet-grooming', category: 'Pet care',
@@ -177,7 +177,7 @@
       ],
       question: 'Is mobile grooming good for nervous dogs?',
       answer: 'Often yes — there is no noisy salon, no cages and no other animals. Tell the groomer about triggers when you request.',
-      note: 'Sample small-dog bath & tidy packages on Van Squad run about $105–$110, travel included.'
+      note: 'Sample small-dog bath & tidy packages on Van Squads run about $105–$110, travel included.'
     },
     'home-cleaning': {
       slug: 'home-cleaning', category: 'Home cleaning',
@@ -191,18 +191,18 @@
       ],
       question: 'Do I need to be home during the clean?',
       answer: 'Not necessarily — many customers hand over a key or code. Agree access and your priority rooms directly with the cleaner.',
-      note: 'A sample two-bedroom standard clean on Van Squad is $120, travel included.'
+      note: 'A sample two-bedroom standard clean on Van Squads is $120, travel included.'
     }
   };
 
   var FAQS = [
     {
-      q: 'What is Van Squad?',
-      a: 'Van Squad is a directory of local businesses that travel to customers. Businesses do not need to use a van — if you travel to your customers, you belong here.'
+      q: 'What is Van Squads?',
+      a: 'Van Squads is a directory of local businesses that travel to customers. Businesses do not need to use a van — if you travel to your customers, you belong here.'
     },
     {
-      q: 'Can I pay through Van Squad?',
-      a: 'No. Online payments are not part of Van Squad. Agree service and payment terms directly with the business.'
+      q: 'Can I pay through Van Squads?',
+      a: 'No. Online payments are not part of Van Squads. Agree service and payment terms directly with the business.'
     },
     {
       q: 'Is a requested time confirmed?',

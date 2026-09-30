@@ -1,4 +1,4 @@
-/* Van Squad blog — customer-question posts.
+/* Van Squads blog — customer-question posts.
    New post = add one object to POSTS (slug, title, date, category, excerpt, body).
    Body is an HTML string; keep it plain and customer-focused. */
 (function () {

@@ -1,4 +1,4 @@
-/* Van Squad — send a phone verification code via Twilio Verify (SMS).
+/* Van Squads — send a phone verification code via Twilio Verify (SMS).
    POST /.netlify/functions/request-phone-code  { businessId }
    Auth: Bearer <supabase user JWT>. Only the business owner may call it.
    Twilio Verify holds the code state; we store nothing locally. */
