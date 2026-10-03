@@ -367,7 +367,7 @@
     async requestEmailCode(businessId) {
       var t = await this._token();
       if (!t) throw new Error('not-logged-in');
-      var r = await fetch('/.netlify/functions/request-email-code', {
+      var r = await fetch('/api/request-email-code', {
         method: 'POST',
         headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
         body: JSON.stringify({ businessId: businessId })
@@ -380,7 +380,7 @@
     async verifyEmailCode(businessId, code) {
       var t = await this._token();
       if (!t) throw new Error('not-logged-in');
-      var r = await fetch('/.netlify/functions/verify-email-code', {
+      var r = await fetch('/api/verify-email-code', {
         method: 'POST',
         headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
         body: JSON.stringify({ businessId: businessId, code: code })
@@ -397,7 +397,7 @@
     async requestPhoneCode(businessId) {
       var t = await this._token();
       if (!t) throw new Error('not-logged-in');
-      var r = await fetch('/.netlify/functions/request-phone-code', {
+      var r = await fetch('/api/request-phone-code', {
         method: 'POST',
         headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
         body: JSON.stringify({ businessId: businessId })
@@ -410,7 +410,7 @@
     async verifyPhoneCode(businessId, code) {
       var t = await this._token();
       if (!t) throw new Error('not-logged-in');
-      var r = await fetch('/.netlify/functions/verify-phone-code', {
+      var r = await fetch('/api/verify-phone-code', {
         method: 'POST',
         headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
         body: JSON.stringify({ businessId: businessId, code: code })
