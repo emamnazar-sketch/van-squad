@@ -4,7 +4,9 @@ slug: deep-clean-cost-2026
 date: 2026-10-04
 category: Home cleaning
 audience: customers
-status: draft
+status: published
+live_url: https://vansquads.com/#/blog/deep-clean-cost-2026
+published: 2026-10-04
 ---
 
 # DRAFT (for Amam's review — not built)
