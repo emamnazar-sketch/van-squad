@@ -14,6 +14,7 @@
       metaDescription: 'Mobile car detailing costs $99–$350 in 2026 for most jobs. See the full price breakdown by package, what raises your quote, and 5 questions to ask before booking.',
       readTime: '4 min read',
       updated: '2026-09-29',
+      related: ['mobile-dog-grooming-cost-vs-salon', 'deep-clean-cost-2026'],
       images: [
         { src: 'images/blog/detailing-hero.jpg', alt: 'Mobile detailing van with open side door showing professional equipment, worker foam-washing a sedan in a home driveway', caption: 'A mobile detailer brings the full setup to your driveway — no drop-off needed.' },
         { src: 'images/blog/detailing-polish.jpg', alt: 'Detailer using a dual-action polisher on a car\u2019s glossy paint', caption: 'Machine polishing is what separates a real detail from a fast wash.' },
@@ -76,6 +77,7 @@
       metaDescription: 'Mobile dog grooming runs 20–30% more than a salon in 2026. Full price table by dog size, what the premium buys you, and 5 questions to ask before booking.',
       readTime: '4 min read',
       updated: '2026-10-04',
+      related: ['mobile-car-detailing-cost-2026', 'deep-clean-cost-2026'],
       images: [
         { src: 'images/blog/mobile-dog-grooming-cost-vs-salon-hero.jpg', alt: 'Mobile pet grooming van parked in a home driveway with groomer greeting a golden retriever at the open side door', caption: 'The van comes to your driveway — no drop-off, no pickup, no kennel time.' },
         { src: 'images/blog/mobile-dog-grooming-cost-vs-salon-van.jpg', alt: 'Groomer bathing a small fluffy dog in a raised tub inside a clean mobile grooming van', caption: 'One dog at a time, start to finish — that is what the premium pays for.' },
@@ -141,6 +143,7 @@
       metaDescription: 'Deep cleaning costs $260 on average in 2026 ($180–$375). Price table by home size, what drives quotes up, and 5 questions to ask before booking.',
       readTime: '4 min read',
       updated: '2026-10-04',
+      related: ['mobile-car-detailing-cost-2026', 'mobile-dog-grooming-cost-vs-salon'],
       images: [
         { src: 'images/blog/deep-clean-cost-2026-hero.jpg', alt: 'Professional cleaner deep-cleaning a bright modern kitchen stovetop with supplies nearby', caption: 'A deep clean goes after months of built-up grime — not just the visible stuff.' },
         { src: 'images/blog/deep-clean-cost-2026-detail.jpg', alt: 'Cleaner wiping a white baseboard with a microfiber cloth during detailed dusting', caption: 'Baseboards, window tracks, behind appliances — the detail work is what you are paying for.' },
@@ -193,7 +196,7 @@
         '<li><strong>What happens if I am not happy with the result?</strong> A confident cleaner has a clear re-clean policy.</li>' +
         '<li><strong>What is your cancellation policy?</strong> Deep cleans block out half a day — know the terms before you book.</li>' +
         '</ol>' +
-        '<p>Ready to compare? <a href="#/browse?cat=Home%20cleaning">Browse home cleaning pros near you</a>.</p>' +
+        '<p>Want the full picture on the service itself? Read our <a href="#/services/home-cleaning">home cleaning guide</a>.</p>' +
         '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Angi, "How Much Does It Cost to Deep Clean a House? [2026 Data]" (angi.com).</div>'
     }
   ];

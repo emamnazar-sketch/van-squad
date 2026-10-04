@@ -549,6 +549,87 @@
     '</div></section>';
   }
 
+  /* ---------- trust pages ---------- */
+  function viewAbout() {
+    return '<div class="article">' +
+      '<p class="eyebrow">About</p>' +
+      '<h1>Local services. At your door.</h1>' +
+      '<p class="lede">Van Squads is a directory of local service businesses that travel to you — mobile car detailers, pet groomers, home cleaners, handymen, and more.</p>' +
+      '<h3>Why we exist</h3>' +
+      '<p>Finding someone good who comes to you used to mean group-chat recommendations and phone tag. Van Squads puts those businesses in one place: browse by ZIP, compare packages with upfront prices, and send a booking request in minutes.</p>' +
+      '<h3>How it works</h3>' +
+      '<ul class="check-list">' +
+      '<li><strong>Customers</strong> search by ZIP, compare real packages and prices, and request an appointment. Service and payment terms are agreed directly with the business.</li>' +
+      '<li><strong>Business owners</strong> list free — no listing fees, no commissions. You keep every dollar you earn.</li>' +
+      '</ul>' +
+      '<h3>What we are not</h3>' +
+      '<p>Van Squads is a directory, not the service provider. We don\u2019t perform the work, process payments, or run background checks — we connect you with local pros and show you what to compare before you book.</p>' +
+      '<p><a class="btn btn-primary" href="#/browse">Explore services →</a> <a class="btn btn-navy" href="#/join">List your business →</a></p>' +
+    '</div>';
+  }
+  function viewContact() {
+    return '<div class="article">' +
+      '<p class="eyebrow">Contact</p>' +
+      '<h1>Get in touch.</h1>' +
+      '<p class="lede">The fastest way to reach the right place depends on who you are.</p>' +
+      '<div class="cta-duo">' +
+        '<div class="cta-card"><p class="eyebrow">For customers</p><h3>Looking for a service?</h3>' +
+        '<p class="muted">Browse pros by ZIP and send a booking request straight to the business.</p>' +
+        '<a class="btn btn-primary" href="#/browse">Find services →</a></div>' +
+        '<div class="cta-card"><p class="eyebrow">For business owners</p><h3>Want to get listed?</h3>' +
+        '<p class="muted">Listing is free — no fees, no commissions. Set up your page in minutes.</p>' +
+        '<a class="btn btn-navy" href="#/join">List your business →</a></div>' +
+      '</div>' +
+      '<p class="muted">A support email address is coming soon. Until then, business owners can reach us through the listing flow and customers through any booking request.</p>' +
+    '</div>';
+  }
+  function viewPrivacy() {
+    return '<div class="article">' +
+      '<p class="eyebrow">Privacy</p>' +
+      '<h1>Privacy policy.</h1>' +
+      '<p class="muted">Last updated: October 4, 2026.</p>' +
+      '<h3>What we collect</h3>' +
+      '<ul class="check-list">' +
+      '<li><strong>Account information</strong> — name, email, and phone number when you create an account or list a business.</li>' +
+      '<li><strong>Booking requests</strong> — the details you share when requesting a service (service type, ZIP, preferred date and time).</li>' +
+      '<li><strong>Business listings</strong> — the information owners publish on their public listing page.</li>' +
+      '</ul>' +
+      '<h3>How we use it</h3>' +
+      '<p>We use your information to operate the directory: run accounts, deliver booking requests to businesses, and keep the service working. We do not sell your personal information.</p>' +
+      '<h3>Sharing</h3>' +
+      '<p>When you send a booking request, the business you contact receives the details you provided so they can respond. We do not share your information with anyone else except as required by law.</p>' +
+      '<h3>Data storage</h3>' +
+      '<p>Account and listing data is stored securely with our hosting providers. You can ask us to delete your account and personal data at any time through the contact page.</p>' +
+      '<h3>Cookies</h3>' +
+      '<p>We use only the cookies needed for sign-in and core site functions — no advertising trackers.</p>' +
+      '<h3>Children</h3>' +
+      '<p>Van Squads is for adults arranging services. We do not knowingly collect information from children under 13.</p>' +
+      '<h3>Changes</h3>' +
+      '<p>If this policy changes, we will update the date above and post the new version here.</p>' +
+    '</div>';
+  }
+  function viewTerms() {
+    return '<div class="article">' +
+      '<p class="eyebrow">Terms</p>' +
+      '<h1>Terms of service.</h1>' +
+      '<p class="muted">Last updated: October 4, 2026.</p>' +
+      '<h3>Van Squads is a directory</h3>' +
+      '<p>Van Squads lists independent service businesses; it does not perform services, process payments, or employ the pros listed. Service quality, scheduling, and payment terms are agreed directly between you and the business.</p>' +
+      '<h3>No verification of pros</h3>' +
+      '<p>We don\u2019t run background checks or verify licenses, insurance, or credentials. Review each business\u2019s own credentials and reviews before booking.</p>' +
+      '<h3>No online payments</h3>' +
+      '<p>Van Squads does not handle payments. You agree on price and payment method directly with the business owner.</p>' +
+      '<h3>Listings</h3>' +
+      '<p>Business owners are responsible for keeping their listing information accurate — services, prices, service area, and availability. Listings that are misleading may be removed.</p>' +
+      '<h3>Acceptable use</h3>' +
+      '<p>Don\u2019t misuse the service: no spam, no fake reviews, no scraping, nothing unlawful. Accounts that abuse the platform may be removed.</p>' +
+      '<h3>Limitation of liability</h3>' +
+      '<p>To the fullest extent allowed by law, Van Squads is not liable for the actions, services, or pricing of listed businesses, or for agreements you make with them directly.</p>' +
+      '<h3>Changes</h3>' +
+      '<p>We may update these terms; continued use of the site means you accept the current version.</p>' +
+    '</div>';
+  }
+
   /* ---------- service guide article ---------- */
   function viewGuide(g) {
     return '<div class="article">' +
@@ -617,7 +698,7 @@
     resetShareTags();
   }
   function blogSeo(p) {
-    var url = 'https://vansquads.com/#/blog/' + p.slug;
+    var url = 'https://vansquads.com/blog/' + p.slug + '/';
     var img = p.images && p.images[0] ? 'https://vansquads.com/' + p.images[0].src : HOME_SHARE['og:image'];
     document.title = p.title + ' — Van Squads';
     setMeta('description', p.metaDescription);
@@ -705,7 +786,7 @@
   function viewBlog() {
     var cards = window.VS_BLOG.POSTS.map(function (p) {
       var thumb = p.images && p.images[0] ? '<img class="post-thumb" src="' + h(p.images[0].src) + '" alt="' + h(p.images[0].alt) + '" loading="lazy">' : '';
-      return '<a class="post-card" href="#/blog/' + p.slug + '">' +
+      return '<a class="post-card" href="/blog/' + p.slug + '/">' +
         thumb +
         '<div class="post-meta"><span class="cat">' + h(p.category) + '</span> · ' + window.VS_BLOG.fmtDate(p.date) + '</div>' +
         '<h2>' + h(p.title) + '</h2>' +
@@ -725,6 +806,19 @@
     var faqHtml = p.faq.map(function (f) {
       return '<div class="detail-sec"><h3>' + h(f.q) + '</h3><p class="muted">' + f.a + '</p></div>';
     }).join('');
+    var relatedHtml = '';
+    if (p.related && p.related.length) {
+      var cards = p.related.map(function (slug) {
+        var rp = window.VS_BLOG.bySlug(slug);
+        if (!rp) return '';
+        var thumb = rp.images && rp.images[0] ? '<img class="post-thumb" src="' + h(rp.images[0].src) + '" alt="' + h(rp.images[0].alt) + '" loading="lazy">' : '';
+        return '<a class="post-card" href="/blog/' + rp.slug + '/">' + thumb +
+          '<div class="post-meta"><span class="cat">' + h(rp.category) + '</span> · ' + window.VS_BLOG.fmtDate(rp.date) + '</div>' +
+          '<h2>' + h(rp.title) + '</h2><p>' + h(rp.excerpt) + '</p>' +
+          '<span class="back" style="color:var(--orange);font-weight:700">Read →</span></a>';
+      }).join('');
+      relatedHtml = '<h3>Keep reading</h3><div class="blog-list">' + cards + '</div>';
+    }
     var body = String(p.body).replace(/\{\{img:(\d+)\}\}/g, function (m, n) {
       var im = (p.images || [])[Number(n)];
       if (!im) return '';
@@ -737,6 +831,7 @@
       '<h1>' + h(p.title) + '</h1>' +
       '<div class="tldr"><strong>The short answer.</strong> ' + p.tldr + '</div>' +
       body +
+      relatedHtml +
       postCta() +
       '<h3>Frequently asked questions</h3>' +
       faqHtml +
@@ -1565,11 +1660,20 @@
         else { app.innerHTML = viewBusinessDetail(b); afterBusinessDetail(b); }
       } else if (seg[0] === 'how-it-works') {
         app.innerHTML = viewHow(); bindFaq();
+      } else if (seg[0] === 'about') {
+        app.innerHTML = viewAbout(); document.title = 'About — Van Squads';
+      } else if (seg[0] === 'contact') {
+        app.innerHTML = viewContact(); document.title = 'Contact — Van Squads';
+      } else if (seg[0] === 'privacy') {
+        app.innerHTML = viewPrivacy(); document.title = 'Privacy Policy — Van Squads';
+      } else if (seg[0] === 'terms') {
+        app.innerHTML = viewTerms(); document.title = 'Terms of Service — Van Squads';
       } else if (seg[0] === 'blog') {
         if (seg[1]) {
-          var post = window.VS_BLOG.bySlug(seg[1]);
-          if (!post) { clearBlogSeo(); app.innerHTML = '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Post not found.</h3><a class="btn btn-primary" href="#/blog">Back to blog</a></div></div>'; }
-          else { app.innerHTML = viewPost(post); blogSeo(post); bindPostCta(); }
+          // Blog posts live at real static URLs now (/blog/<slug>/) so Google
+          // and AI search can index them. Old #/blog/<slug> links redirect.
+          location.replace('/blog/' + seg[1] + '/');
+          return;
         } else {
           app.innerHTML = viewBlog(); blogListSeo();
         }

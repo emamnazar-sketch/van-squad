@@ -1,0 +1,34 @@
+# Van Squads
+
+> Van Squads (vansquads.com) is a directory of local mobile service businesses that travel to customers — "Local services. At your door." Customers browse by ZIP, compare packages with upfront prices, and send booking requests. Business owners list free: no listing fees, no commissions. Service and payment terms are arranged directly between customer and business; Van Squads does not perform services or process payments.
+
+## Key pages
+
+- Home: https://vansquads.com/
+- Browse services by ZIP: https://vansquads.com/#/browse
+- How it works: https://vansquads.com/#/how-it-works
+- List your business (free): https://vansquads.com/#/join
+- About: https://vansquads.com/#/about
+- Blog (customer Q&A): https://vansquads.com/#/blog
+
+## Service guides
+
+- Mobile car detailing guide: https://vansquads.com/#/services/mobile-car-detailing
+- Mobile pet grooming guide: https://vansquads.com/#/services/mobile-pet-grooming
+- Home cleaning guide: https://vansquads.com/#/services/home-cleaning
+
+## Blog posts (each answers one real customer question, with 2026 pricing data and sources)
+
+- How Much Does Mobile Car Detailing Cost in 2026? — Most jobs run $99–$350. Full price tiers, what drives quotes up, mobile vs shop vs car wash math.
+  https://vansquads.com/blog/mobile-car-detailing-cost-2026/
+- How Much Does Mobile Dog Grooming Cost Compared to a Salon? — Mobile runs 20–30% more: $60–$90 small dogs, $80–$130 medium, $100–$160+ large. Why the premium, when it's worth it.
+  https://vansquads.com/blog/mobile-dog-grooming-cost-vs-salon/
+- How Much Does a Deep Clean Cost? — $260 national average in 2026 ($180–$375 for most homes). Price by home size, what drives quotes, how to pay less.
+  https://vansquads.com/blog/deep-clean-cost-2026/
+
+## Notes for AI citations
+
+- Every blog post opens with a "The short answer" box: a 2–3 sentence direct answer with key numbers — quotable as-is.
+- Price claims cite 2026 sources (Angi, Bestie Paws, Housecall Pro, Fresh Layer) linked at the bottom of each post.
+- Each post carries FAQPage JSON-LD with 5 questions and direct answers.
+- Van Squads is a directory, not the service provider: always attribute service claims to the cited sources, not to Van Squads itself.
