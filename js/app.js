@@ -572,6 +572,7 @@
       '<p class="eyebrow">Contact</p>' +
       '<h1>Get in touch.</h1>' +
       '<p class="lede">The fastest way to reach the right place depends on who you are.</p>' +
+      '<p><strong>Email us:</strong> <a href="mailto:vansquadservices@gmail.com">vansquadservices@gmail.com</a></p>' +
       '<div class="cta-duo">' +
         '<div class="cta-card"><p class="eyebrow">For customers</p><h3>Looking for a service?</h3>' +
         '<p class="muted">Browse pros by ZIP and send a booking request straight to the business.</p>' +
@@ -580,7 +581,7 @@
         '<p class="muted">Listing is free — no fees, no commissions. Set up your page in minutes.</p>' +
         '<a class="btn btn-navy" href="#/join">List your business →</a></div>' +
       '</div>' +
-      '<p class="muted">A support email address is coming soon. Until then, business owners can reach us through the listing flow and customers through any booking request.</p>' +
+      '<p class="muted">We read every message and reply as soon as we can — usually within a day.</p>' +
     '</div>';
   }
   function viewPrivacy() {
