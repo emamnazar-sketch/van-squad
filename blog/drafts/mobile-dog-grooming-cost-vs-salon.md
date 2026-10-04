@@ -4,7 +4,9 @@ slug: mobile-dog-grooming-cost-vs-salon
 date: 2026-10-05
 category: Pet Grooming
 audience: customers
-status: draft
+status: published
+live_url: https://vansquads.com/#/blog/mobile-dog-grooming-cost-vs-salon
+published: 2026-10-04
 ---
 
 # DRAFT (for Amam's review — not built)
