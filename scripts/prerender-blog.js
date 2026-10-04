@@ -260,10 +260,10 @@ function renderBlogIndex() {
       '<h2>' + h(p.title) + '</h2><p>' + h(p.excerpt) + '</p>' +
       '<span class="back" style="color:var(--orange);font-weight:700">Read →</span></a>';
   }).join('');
-  const ld = {
+  const ld = [{
     '@context': 'https://schema.org', '@type': 'CollectionPage',
     'name': 'Van Squads blog', 'description': desc, 'url': url
-  };
+  }];
   return '<!DOCTYPE html>\n<html lang="en">\n<head>\n' +
     '<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>Blog — Van Squads</title>\n' +
@@ -273,6 +273,7 @@ function renderBlogIndex() {
     '<meta property="og:title" content="Blog — Van Squads">\n' +
     '<meta property="og:description" content="' + h(desc) + '">\n' +
     '<meta property="og:url" content="' + url + '">\n' +
+    '<meta name="twitter:card" content="summary">\n' +
     '<script type="application/ld+json">\n' + JSON.stringify(ld) + '\n</script>\n' +
     '<link rel="stylesheet" href="/css/styles.css">\n</head>\n<body>\n' +
     headerHtml() +
