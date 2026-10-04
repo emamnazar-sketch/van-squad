@@ -131,6 +131,70 @@
         '</ol>' +
         '<p>Want the full picture on the service itself? Read our <a href="#/services/mobile-pet-grooming">mobile pet grooming guide</a>.</p>' +
         '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Bestie Paws Hospital, "How Much Does Dog Grooming Cost?" (bestiepaws.com); The Mobile Dog, "Mobile Dog Grooming Cost 2026" (themobiledog.com).</div>'
+    },
+    {
+      slug: 'deep-clean-cost-2026',
+      title: 'How Much Does a Deep Clean Cost?',
+      date: '2026-10-04',
+      category: 'Home cleaning',
+      excerpt: 'A deep clean costs $260 on average in 2026, with most homeowners paying $180–$375. See the price table by home size, what drives your quote up, and 5 questions to ask before you book.',
+      metaDescription: 'Deep cleaning costs $260 on average in 2026 ($180–$375). Price table by home size, what drives quotes up, and 5 questions to ask before booking.',
+      readTime: '4 min read',
+      updated: '2026-10-04',
+      images: [
+        { src: 'images/blog/deep-clean-cost-2026-hero.jpg', alt: 'Professional cleaner deep-cleaning a bright modern kitchen stovetop with supplies nearby', caption: 'A deep clean goes after months of built-up grime — not just the visible stuff.' },
+        { src: 'images/blog/deep-clean-cost-2026-detail.jpg', alt: 'Cleaner wiping a white baseboard with a microfiber cloth during detailed dusting', caption: 'Baseboards, window tracks, behind appliances — the detail work is what you are paying for.' },
+        { src: 'images/blog/deep-clean-cost-2026-after.jpg', alt: 'Sparkling clean bright living room with sunlight through spotless windows after a deep clean', caption: 'Most homes need this level of reset every 3–6 months.' }
+      ],
+      tldr: 'A professional deep clean costs $260 on average in 2026, with most homeowners paying $180–$375. Cleaners charge $0.10–$0.30 per square foot or $25–$70 per hour, and home size is the biggest price driver. Decluttering first and booking recurring service are the two easiest ways to pay less.',
+      faq: [
+        { q: 'How much should I tip for a deep clean?', a: 'Tipping is customary but not required — 10–20% of the total is standard when you are pleased with the work. Check your invoice first; some companies include gratuity.' },
+        { q: 'How often should I deep clean my house?', a: 'Every 3–6 months for most homes. Homes with pets, kids, allergy sufferers, or smokers may need it monthly or even biweekly.' },
+        { q: 'What is usually not included in a deep clean?', a: 'Carpet and upholstery shampooing ($75–$200 per room), interior window washing ($3–$15 per window), and cleaning inside appliances ($10–$50 each) are typical add-ons — confirm before booking.' },
+        { q: 'Why is my quote higher than the $260 average?', a: 'The average covers standard homes in average condition. Bigger homes, heavy buildup, metro-area labor rates, and add-ons like carpet or pet treatments all push quotes above it.' },
+        { q: 'Do cleaners bring their own supplies?', a: 'Usually yes — standard products and equipment are included in the quote. Eco-friendly or specialty products can add $10–$100 per visit.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What does a deep clean cost in 2026?</h3>' +
+        '<p>Here is how pricing breaks down by home size:</p>' +
+        '<table class="price-table"><thead><tr><th>Home size</th><th>Typical 2026 price</th></tr></thead><tbody>' +
+        '<tr><td>Up to 800 sq ft (apartment/condo)</td><td>$100–$200</td></tr>' +
+        '<tr><td>800–1,500 sq ft (standard home)</td><td>$140–$320</td></tr>' +
+        '<tr><td>1,500–2,500 sq ft (large home)</td><td>$245–$575</td></tr>' +
+        '<tr><td>2,500+ sq ft (very large/estate)</td><td>$330–$900</td></tr>' +
+        '</tbody></table>' +
+        '<p>Those ranges cover a standard deep clean — the whole-home, top-to-bottom reset. Specialized deep cleans cost more: move-in/move-out runs $140–$500, allergen removal $210–$440, pet-focused treatments $190–$475, and post-construction cleanup $340–$800.</p>' +
+        '<h3>What is the difference between a deep clean and a regular clean?</h3>' +
+        '<p>A regular clean is maintenance — the visible stuff, done often. A deep clean goes after built-up grime: baseboards, behind and under appliances, light fixtures, window tracks, grout lines, and every surface that has been collecting dust for months. That is why it costs 2–3x a standard visit and takes much longer. Most homes need one every 3–6 months, with regular cleanings in between.</p>' +
+        '{{img:1}}' +
+        '<h3>What drives the price up or down?</h3>' +
+        '<ul class="check-list">' +
+        '<li><strong>Home size.</strong> The #1 factor. More square feet means more time, more product, more labor — most companies quote by square footage ($0.10–$0.30) or by room ($25–$60 per room).</li>' +
+        '<li><strong>Type of deep clean.</strong> A standard whole-home deep clean ($180–$375) costs less than post-construction ($340–$800) or allergen removal ($210–$440), which need specialty equipment and products.</li>' +
+        '<li><strong>Condition.</strong> A home that has not been deep cleaned in two years takes far longer than one done every six months. Heavy buildup, pet damage, and mold all add time — and cost.</li>' +
+        '<li><strong>Location.</strong> Major metro areas run higher; small towns and suburbs cost less. Some cleaners add travel fees outside their standard service area, and many set a $100–$150 minimum.</li>' +
+        '<li><strong>Add-ons.</strong> Carpet or upholstery cleaning ($75–$200 per room), interior windows ($3–$15 each), and inside-appliance cleaning ($10–$50 per appliance) are usually priced separately.</li>' +
+        '</ul>' +
+        '<h3>How can I pay less for a deep clean?</h3>' +
+        '<ul class="check-list">' +
+        '<li><strong>Declutter before they arrive.</strong> Every minute a cleaner spends tidying is a minute not spent deep cleaning — clear surfaces, gather laundry, and move small furniture.</li>' +
+        '<li><strong>Book recurring service.</strong> Many companies discount repeat visits 10–30%. A deep clean twice a year plus regular maintenance often costs less over time than one rescue clean.</li>' +
+        '<li><strong>Focus on what matters.</strong> Ask for high-traffic areas and problem rooms only, instead of the whole house, if budget is tight.</li>' +
+        '<li><strong>Bundle services.</strong> Carpet cleaning, window washing, or organizing booked together often comes with package pricing.</li>' +
+        '<li><strong>Compare multiple quotes.</strong> Prices vary widely between cleaners — get at least three and compare what is actually included, not just the headline number.</li>' +
+        '</ul>' +
+        '{{img:2}}' +
+        '<h3>What should I ask before booking?</h3>' +
+        '<ol class="num-list">' +
+        '<li><strong>What is included in the base price — and what counts as an add-on?</strong> Get the room-by-room checklist, not the sales pitch.</li>' +
+        '<li><strong>How do you price — square footage, hourly, or per room?</strong> Each method favors different homes; know which one you are getting.</li>' +
+        '<li><strong>Do you bring your own supplies and equipment?</strong> Standard products are usually included; confirm before you buy anything yourself.</li>' +
+        '<li><strong>What happens if I am not happy with the result?</strong> A confident cleaner has a clear re-clean policy.</li>' +
+        '<li><strong>What is your cancellation policy?</strong> Deep cleans block out half a day — know the terms before you book.</li>' +
+        '</ol>' +
+        '<p>Ready to compare? <a href="#/browse?cat=Home%20cleaning">Browse home cleaning pros near you</a>.</p>' +
+        '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Angi, "How Much Does It Cost to Deep Clean a House? [2026 Data]" (angi.com).</div>'
     }
   ];
 
