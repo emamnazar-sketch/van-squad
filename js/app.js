@@ -140,7 +140,7 @@
       { slug: null, title: 'How service requests work', p: 'From first search to confirmed visit.', how: true }
     ];
     return '<div class="guide-grid">' + cards.map(function (c) {
-      var href = c.how ? '#/how-it-works' : '#/services/' + c.slug;
+      var href = c.how ? '#/how-it-works' : '/services/' + c.slug + '/';
       return '<a class="guide-card" href="' + href + '"><h3>' + h(c.title) + '</h3><p>' +
         h(c.p) + '</p><span class="go">Read →</span></a>';
     }).join('') + '</div>';
@@ -1670,16 +1670,14 @@
       } else if (seg[0] === 'terms') {
         app.innerHTML = viewTerms(); document.title = 'Terms of Service — Van Squads';
       } else if (seg[0] === 'blog') {
-        if (seg[1]) {
-          // Blog posts live at real static URLs now (/blog/<slug>/) so Google
-          // and AI search can index them. Old #/blog/<slug> links redirect.
-          location.replace('/blog/' + seg[1] + '/');
-          return;
-        } else {
-          app.innerHTML = viewBlog(); blogListSeo();
-        }
+        // Blog lives at real static URLs now (/blog/, /blog/<slug>/) so Google
+        // and AI search can index it. Old #/blog links redirect.
+        location.replace(seg[1] ? '/blog/' + seg[1] + '/' : '/blog/');
+        return;
       } else if (seg[0] === 'services' && seg[1] && D.GUIDES[seg[1]]) {
-        app.innerHTML = viewGuide(D.GUIDES[seg[1]]);
+        // Guides live at real static URLs now (/services/<slug>/). Redirect.
+        location.replace('/services/' + seg[1] + '/');
+        return;
       } else if (seg[0] === 'join') {
         app.innerHTML = viewJoin(); afterJoin();
       } else if (seg[0] === 'verify-email') {

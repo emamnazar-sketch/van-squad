@@ -11,7 +11,9 @@ const SITE = 'https://vansquads.com';
 
 const window = {};
 eval(fs.readFileSync(path.join(ROOT, 'js/blog.js'), 'utf8'));
+eval(fs.readFileSync(path.join(ROOT, 'js/data.js'), 'utf8'));
 const POSTS = window.VS_BLOG.POSTS;
+const GUIDES = window.VS_DATA.GUIDES;
 
 function h(s) {
   return String(s)
@@ -135,7 +137,7 @@ function jsonLd(p, url, img) {
       '@type': 'BreadcrumbList',
       'itemListElement': [
         { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': SITE + '/' },
-        { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': SITE + '/#/blog' },
+        { '@type': 'ListItem', 'position': 2, 'name': 'Blog', 'item': SITE + '/blog/' },
         { '@type': 'ListItem', 'position': 3, 'name': p.title, 'item': url }
       ]
     }
@@ -168,7 +170,7 @@ function renderPost(p) {
     '</head>\n<body>\n' +
     headerHtml() +
     '\n<main class="wrap"><div class="article">' +
-    '<a class="back" href="/#/blog">← Back to blog</a>' +
+    '<a class="back" href="/blog/">← Back to blog</a>' +
     '<p class="eyebrow">' + h(p.category) + ' · ' + fmtDate(p.date) + ' · ' + h(p.readTime) + '</p>' +
     '<h1>' + h(p.title) + '</h1>' +
     '<div class="tldr"><strong>The short answer.</strong> ' + p.tldr + '</div>' +
@@ -189,3 +191,98 @@ POSTS.forEach(p => {
   fs.writeFileSync(path.join(dir, 'index.html'), renderPost(p));
   console.log('wrote blog/' + p.slug + '/index.html');
 });
+
+/* ---------- service guides ---------- */
+function renderGuide(g) {
+  const url = SITE + '/services/' + g.slug + '/';
+  const desc = g.intro;
+  const title = g.title + ' — Van Squads';
+  const body =
+    '<a class="back" href="/#/browse?cat=' + encodeURIComponent(g.category) + '">← Back to ' + h(g.category) + '</a>' +
+    '<p class="eyebrow">Service guide · ' + h(g.category) + '</p>' +
+    '<h1>' + h(g.title) + '</h1>' +
+    '<p class="lede">' + h(g.intro) + '</p>' +
+    '<h3>' + h(g.compareTitle) + '</h3>' +
+    '<ul class="check-list">' + g.compare.map(c => '<li>' + h(c) + '</li>').join('') + '</ul>' +
+    '<div class="detail-sec"><h3>' + h(g.question) + '</h3><p class="muted">' + h(g.answer) + '</p></div>' +
+    '<div class="disclosure"><strong>Typical pricing.</strong> ' + h(g.note) + '</div>' +
+    '<a class="btn btn-primary" href="/#/browse?cat=' + encodeURIComponent(g.category) + '">Explore ' + h(g.category) + ' →</a>';
+  const ld = [
+    {
+      '@context': 'https://schema.org', '@type': 'Article',
+      'headline': g.title, 'description': desc,
+      'author': { '@type': 'Organization', 'name': 'Van Squads', 'url': SITE + '/' },
+      'publisher': { '@type': 'Organization', 'name': 'Van Squads', 'url': SITE + '/' },
+      'mainEntityOfPage': url
+    },
+    {
+      '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': SITE + '/' },
+        { '@type': 'ListItem', 'position': 2, 'name': g.title, 'item': url }
+      ]
+    }
+  ];
+  return '<!DOCTYPE html>\n<html lang="en">\n<head>\n' +
+    '<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
+    '<title>' + h(title) + '</title>\n' +
+    '<meta name="description" content="' + h(desc) + '">\n' +
+    '<link rel="canonical" href="' + url + '">\n' +
+    '<meta property="og:type" content="article">\n' +
+    '<meta property="og:title" content="' + h(title) + '">\n' +
+    '<meta property="og:description" content="' + h(desc) + '">\n' +
+    '<meta property="og:url" content="' + url + '">\n' +
+    '<meta name="twitter:card" content="summary">\n' +
+    '<script type="application/ld+json">\n' + JSON.stringify(ld) + '\n</script>\n' +
+    '<link rel="stylesheet" href="/css/styles.css">\n</head>\n<body>\n' +
+    headerHtml() +
+    '\n<main class="wrap"><div class="article">' + body + '</div></main>\n' +
+    footerHtml() + '\n</body>\n</html>\n';
+}
+
+Object.keys(GUIDES).forEach(slug => {
+  const g = GUIDES[slug];
+  const dir = path.join(ROOT, 'services', g.slug);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, 'index.html'), renderGuide(g));
+  console.log('wrote services/' + g.slug + '/index.html');
+});
+
+/* ---------- blog index ---------- */
+function renderBlogIndex() {
+  const url = SITE + '/blog/';
+  const desc = 'Straight answers to real customer questions about mobile services: pricing, what to compare, and what to watch for before you book.';
+  const cards = POSTS.map(p => {
+    const thumb = p.images && p.images[0]
+      ? '<img class="post-thumb" src="/' + p.images[0].src + '" alt="' + h(p.images[0].alt) + '" loading="lazy">' : '';
+    return '<a class="post-card" href="/blog/' + p.slug + '/">' + thumb +
+      '<div class="post-meta"><span class="cat">' + h(p.category) + '</span> · ' + fmtDate(p.date) + '</div>' +
+      '<h2>' + h(p.title) + '</h2><p>' + h(p.excerpt) + '</p>' +
+      '<span class="back" style="color:var(--orange);font-weight:700">Read →</span></a>';
+  }).join('');
+  const ld = {
+    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    'name': 'Van Squads blog', 'description': desc, 'url': url
+  };
+  return '<!DOCTYPE html>\n<html lang="en">\n<head>\n' +
+    '<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
+    '<title>Blog — Van Squads</title>\n' +
+    '<meta name="description" content="' + h(desc) + '">\n' +
+    '<link rel="canonical" href="' + url + '">\n' +
+    '<meta property="og:type" content="website">\n' +
+    '<meta property="og:title" content="Blog — Van Squads">\n' +
+    '<meta property="og:description" content="' + h(desc) + '">\n' +
+    '<meta property="og:url" content="' + url + '">\n' +
+    '<script type="application/ld+json">\n' + JSON.stringify(ld) + '\n</script>\n' +
+    '<link rel="stylesheet" href="/css/styles.css">\n</head>\n<body>\n' +
+    headerHtml() +
+    '\n<main class="wrap"><div class="blog-list">' +
+    '<p class="eyebrow">Van Squads blog</p>' +
+    '<h1 style="margin-top:0">Answers, not ads.</h1>' +
+    '<p class="lede">Real questions customers ask about mobile services — pricing, what to compare, and what to watch for — answered straight.</p>' +
+    cards + '</div></main>\n' +
+    footerHtml() + '\n</body>\n</html>\n';
+}
+
+fs.writeFileSync(path.join(ROOT, 'blog', 'index.html'), renderBlogIndex());
+console.log('wrote blog/index.html');

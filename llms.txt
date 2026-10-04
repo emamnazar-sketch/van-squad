@@ -13,9 +13,9 @@
 
 ## Service guides
 
-- Mobile car detailing guide: https://vansquads.com/#/services/mobile-car-detailing
-- Mobile pet grooming guide: https://vansquads.com/#/services/mobile-pet-grooming
-- Home cleaning guide: https://vansquads.com/#/services/home-cleaning
+- Mobile car detailing guide: https://vansquads.com/services/mobile-car-detailing/
+- Mobile pet grooming guide: https://vansquads.com/services/mobile-pet-grooming/
+- Home cleaning guide: https://vansquads.com/services/home-cleaning/
 
 ## Blog posts (each answers one real customer question, with 2026 pricing data and sources)
 

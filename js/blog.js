@@ -65,7 +65,7 @@
         '<li><strong>Can I see before-and-after photos of your actual work?</strong> Not stock photos. Their work.</li>' +
         '<li><strong>What happens if I am not happy?</strong> A confident detailer has a clear answer.</li>' +
         '</ol>' +
-        '<p>Not sure what to compare? Read our <a href="#/services/mobile-car-detailing">mobile car detailing guide</a>.</p>' +
+        '<p>Not sure what to compare? Read our <a href="/services/mobile-car-detailing/">mobile car detailing guide</a>.</p>' +
         '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Fresh Layer, "2026 San Diego Mobile Detailing Prices" (fresh-layer.com); Fresh Layer, "Why Is Mobile Detailing More Expensive Than a Car Wash?" (fresh-layer.com); Apex Mobile Shine, "Mobile Detailing Cost in Honolulu (2026 Guide)" (apexmobileshine.com).</div>'
     },
     {
@@ -131,7 +131,7 @@
         '<li><strong>Can I see recent reviews or before-and-after photos?</strong> Not stock photos. Their work.</li>' +
         '<li><strong>What is your cancellation policy?</strong> Mobile groomers lose real drive time on no-shows, so know the terms up front.</li>' +
         '</ol>' +
-        '<p>Want the full picture on the service itself? Read our <a href="#/services/mobile-pet-grooming">mobile pet grooming guide</a>.</p>' +
+        '<p>Want the full picture on the service itself? Read our <a href="/services/mobile-pet-grooming/">mobile pet grooming guide</a>.</p>' +
         '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Bestie Paws Hospital, "How Much Does Dog Grooming Cost?" (bestiepaws.com); The Mobile Dog, "Mobile Dog Grooming Cost 2026" (themobiledog.com).</div>'
     },
     {
@@ -196,7 +196,7 @@
         '<li><strong>What happens if I am not happy with the result?</strong> A confident cleaner has a clear re-clean policy.</li>' +
         '<li><strong>What is your cancellation policy?</strong> Deep cleans block out half a day — know the terms before you book.</li>' +
         '</ol>' +
-        '<p>Want the full picture on the service itself? Read our <a href="#/services/home-cleaning">home cleaning guide</a>.</p>' +
+        '<p>Want the full picture on the service itself? Read our <a href="/services/home-cleaning/">home cleaning guide</a>.</p>' +
         '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Angi, "How Much Does It Cost to Deep Clean a House? [2026 Data]" (angi.com).</div>'
     }
   ];
