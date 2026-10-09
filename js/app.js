@@ -73,6 +73,7 @@
     scissors: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round"><circle cx="6" cy="6" r="2.5"/><circle cx="6" cy="18" r="2.5"/><path d="M8 7.5L20 19M8 16.5L20 5"/></svg>',
     wrench: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4.5 4.5 0 0 0-6 6L3 18l3 3 5.7-5.7a4.5 4.5 0 0 0 6-6L14 13l-2.5-2.5z"/></svg>',
     bolt: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h6l-1 8 9-12h-6z"/></svg>',
+    bike: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="17" r="3.6"/><circle cx="18" cy="17" r="3.6"/><path d="M6 17l3.2-7H14l4 7M9.2 10L11 5.5h3.5L16 10M12 17v-3.5"/></svg>',
     pin: '<svg viewBox="0 0 24 24" fill="none" stroke="#FF6A2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>',
     check: '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#1E9E6A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg>'
   };
@@ -83,7 +84,7 @@
     return ICONS[key] || ICONS.sparkle;
   }
   function catClass(cat) {
-    return cat === 'Car care' ? 'car' : cat === 'Pet care' ? 'pet' : 'home';
+    return cat === 'Car care' ? 'car' : cat === 'Pet care' ? 'pet' : cat === 'E-bike repair' ? 'bike' : 'home';
   }
   function priceLabel(l) {
     if (!l || l.priceType === 'quote' || l.price === null || l.price === undefined) return 'Quote required';
@@ -104,8 +105,10 @@
     var zip = (opts.zip || (b.zips && b.zips[0]) || '');
     return '<article class="biz-card">' +
       '<div class="biz-photo ' + catClass(b.category) + '">' +
+        (b.photo
+          ? '<img src="/' + b.photo + '" alt="' + h(b.name) + '" loading="lazy">'
+          : catIcon(b.category)) +
         (b.isSample ? '<span class="sample-badge">Sample</span>' : '') +
-        catIcon(b.category) +
       '</div>' +
       '<div class="biz-body">' +
         '<div class="biz-cat">' + h(b.category) + '</div>' +
@@ -178,7 +181,10 @@
       return '<button type="button" data-try="' + h(t) + '">' + h(t) + '</button>';
     }).join(' · ');
     var cats = D.CATEGORIES.map(function (c) {
-      var inner = '<div class="cat-ico">' + (ICONS[c.icon] || ICONS.sparkle) + '</div>' +
+      var visual = c.cover
+        ? '<img class="cat-cover" src="/' + c.cover + '" alt="' + h(c.name) + '" loading="lazy">'
+        : '<div class="cat-ico">' + (ICONS[c.icon] || ICONS.sparkle) + '</div>';
+      var inner = visual +
         '<h3>' + h(c.name) + '</h3><p>' + h(c.blurb) + '</p>' +
         (c.live ? '' : '<span class="soon">Coming soon</span>');
       return c.live
@@ -462,7 +468,9 @@
     return '' +
     '<div class="wrap"><div class="detail-hero biz-photo ' + catClass(b.category) + '" style="height:260px">' +
       (b.isSample ? '<span class="sample-badge">Sample listing</span>' : '') +
-      '<div style="transform:scale(1.6)">' + catIcon(b.category) + '</div>' +
+      (b.photo
+        ? '<img src="/' + b.photo + '" alt="' + h(b.name) + '">'
+        : '<div style="transform:scale(1.6)">' + catIcon(b.category) + '</div>') +
     '</div></div>' +
     '<div class="wrap"><div class="detail-grid"><div class="detail-main">' +
       '<p class="eyebrow">' + h(b.category) + '</p>' +

@@ -101,7 +101,10 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 .biz-photo.car{background:linear-gradient(135deg,#DCE9F5,#B9D2EA)}
 .biz-photo.pet{background:linear-gradient(135deg,#FFE9D6,#FFD3AC)}
 .biz-photo.home{background:linear-gradient(135deg,#DFF2E4,#BFE6CC)}
+.biz-photo.bike{background:linear-gradient(135deg,#E4E9EE,#C6D2DC)}
 .biz-photo svg{width:72px;height:72px;opacity:.85}
+.biz-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.cat-cover{width:100%;height:150px;object-fit:cover;border-radius:10px;margin-bottom:14px;display:block}
 .sample-badge{position:absolute;top:12px;left:12px;background:var(--navy);color:#fff;font-size:11px;font-weight:800;letter-spacing:.1em;padding:5px 11px;border-radius:999px;text-transform:uppercase}
 .biz-body{padding:20px;display:flex;flex-direction:column;gap:6px;flex:1}
 .biz-cat{font-size:11.5px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}

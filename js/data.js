@@ -29,11 +29,15 @@
       blurb: 'Fixes, installs and odd jobs at your door.' },
     { name: 'Electrician', icon: 'bolt', live: true,
       blurb: 'Wiring, lighting and panel work at your home.' },
+    { name: 'E-bike repair', icon: 'bike', live: true,
+      blurb: 'Mobile e-bike service and repair at your door.',
+      cover: 'images/categories/e-bike-repair-cover.jpg' },
     { name: 'Beauty & wellness', icon: 'scissors', live: false,
       blurb: 'Coming soon to the directory.' }
   ];
 
-  /* Six sample businesses, copied from the design preview. */
+  /* Seed businesses. isSample listings are flagged in the UI.
+     Businesses without isSample are real listings. */
   var SEED_BUSINESSES = [
     {
       id: 'seed-shine', slug: 'shine', isSample: true,
@@ -146,6 +150,26 @@
         includes: ['Customized cleaning plan', 'Your checklist, our elbow grease'],
         beforeVisit: ['Walk us through your priorities on arrival'],
         cancellation: 'Please give 24 hours notice to avoid a fee.'
+      }]
+    },
+    {
+      /* Real business — spotted on a billboard on Sunrise Blvd, Sacramento (Oct 2026).
+         Only billboard facts are listed: name, service, phone. No invented details. */
+      id: 'biz-brothers-mobile-bike-shop', slug: 'brothers-mobile-bike-shop',
+      name: 'Brothers Mobile Bike Shop', category: 'E-bike repair',
+      tagline: 'E-bike service & repair — we come to you!',
+      description: 'Mobile e-bike service and repair in Sacramento. They come to you — call (916) 234-3549 to book.',
+      phone: '(916) 234-3549', email: '', website: '',
+      photo: 'images/categories/e-bike-repair-cover.jpg',
+      zips: ['95814', '95816', '95818'],
+      travelFee: 0, travelRadius: 25, travelBuffer: 30,
+      rating: 0, reviewCount: 0,
+      listings: [{
+        id: 'biz-listing-brothers', title: 'E-bike service & repair visit',
+        price: null, priceType: 'quote', duration: 'Varies',
+        includes: ['E-bike service & repair at your location'],
+        beforeVisit: ['Have your e-bike and charger accessible'],
+        cancellation: ''
       }]
     }
   ];

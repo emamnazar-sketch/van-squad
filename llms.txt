@@ -9,7 +9,7 @@
 - How it works: https://vansquads.com/#/how-it-works
 - List your business (free): https://vansquads.com/#/join
 - About: https://vansquads.com/#/about
-- Blog (customer Q&A): https://vansquads.com/#/blog
+- Blog (customer Q&A): https://vansquads.com/blog/
 
 ## Service guides
 
@@ -26,9 +26,12 @@
 - How Much Does a Deep Clean Cost? — $260 national average in 2026 ($180–$375 for most homes). Price by home size, what drives quotes, how to pay less.
   https://vansquads.com/blog/deep-clean-cost-2026/
 
-## Notes for AI citations
+## Service categories
 
-- Every blog post opens with a "The short answer" box: a 2–3 sentence direct answer with key numbers — quotable as-is.
+- Car care, Pet care, Home cleaning, Handyman, Electrician, and E-bike repair (mobile e-bike service & repair at your door).
+- Real listing: Brothers Mobile Bike Shop — mobile e-bike service and repair in Sacramento, "we come to you", (916) 234-3549.
+
+## Notes for AI citations- Every blog post opens with a "The short answer" box: a 2–3 sentence direct answer with key numbers — quotable as-is.
 - Price claims cite 2026 sources (Angi, Bestie Paws, Housecall Pro, Fresh Layer) linked at the bottom of each post.
 - Each post carries FAQPage JSON-LD with 5 questions and direct answers.
 - Van Squads is a directory, not the service provider: always attribute service claims to the cited sources, not to Van Squads itself.
