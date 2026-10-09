@@ -86,6 +86,10 @@
   function catClass(cat) {
     return cat === 'Car care' ? 'car' : cat === 'Pet care' ? 'pet' : cat === 'E-bike repair' ? 'bike' : 'home';
   }
+  function photoSrc(p) {
+    p = String(p || '');
+    return (/^https?:\/\//i.test(p)) ? p : '/' + p.replace(/^\/+/, '');
+  }
   function priceLabel(l) {
     if (!l || l.priceType === 'quote' || l.price === null || l.price === undefined) return 'Quote required';
     var p = '$' + Number(l.price);
@@ -106,7 +110,7 @@
     return '<article class="biz-card">' +
       '<div class="biz-photo ' + catClass(b.category) + '">' +
         (b.photo
-          ? '<img src="/' + b.photo + '" alt="' + h(b.name) + '" loading="lazy">'
+          ? '<img src="' + photoSrc(b.photo) + '" alt="' + h(b.name) + '" loading="lazy">'
           : catIcon(b.category)) +
         (b.isSample ? '<span class="sample-badge">Sample</span>' : '') +
       '</div>' +
@@ -182,7 +186,7 @@
     }).join(' · ');
     var cats = D.CATEGORIES.map(function (c) {
       var visual = c.cover
-        ? '<img class="cat-cover" src="/' + c.cover + '" alt="' + h(c.name) + '" loading="lazy">'
+        ? '<img class="cat-cover" src="' + photoSrc(c.cover) + '" alt="' + h(c.name) + '" loading="lazy">'
         : '<div class="cat-ico">' + (ICONS[c.icon] || ICONS.sparkle) + '</div>';
       var inner = visual +
         '<h3>' + h(c.name) + '</h3><p>' + h(c.blurb) + '</p>' +
@@ -469,7 +473,7 @@
     '<div class="wrap"><div class="detail-hero biz-photo ' + catClass(b.category) + '" style="height:260px">' +
       (b.isSample ? '<span class="sample-badge">Sample listing</span>' : '') +
       (b.photo
-        ? '<img src="/' + b.photo + '" alt="' + h(b.name) + '">'
+        ? '<img src="' + photoSrc(b.photo) + '" alt="' + h(b.name) + '">'
         : '<div style="transform:scale(1.6)">' + catIcon(b.category) + '</div>') +
     '</div></div>' +
     '<div class="wrap"><div class="detail-grid"><div class="detail-main">' +
