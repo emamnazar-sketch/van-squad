@@ -303,6 +303,7 @@
       travelFee: Number(row.travel_fee) || 0, travelRadius: row.travel_radius_miles || 0,
       travelBuffer: row.travel_buffer_minutes || 30, earliestOpening: row.earliest_opening || '',
       arrivalWindows: row.arrival_windows || [],
+      photo: row.logo_url || '',
       rating: Number(row.avg_rating) || 0, reviewCount: row.review_count || 0,
       reviews: (row.reviews || []).map(function (r) {
         return { id: r.id, customerName: r.customer_name || 'Customer', rating: r.rating,
