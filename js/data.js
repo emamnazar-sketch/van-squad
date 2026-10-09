@@ -32,12 +32,14 @@
       blurb: 'Fixes, installs and odd jobs at your door.',
       cover: 'images/categories/handyman.jpg' },
     { name: 'Electrician', icon: 'bolt', live: true,
-      blurb: 'Wiring, lighting and panel work at your home.' },
+      blurb: 'Wiring, lighting and panel work at your home.',
+      cover: 'images/categories/electrician.jpg' },
     { name: 'E-bike repair', icon: 'bike', live: true,
       blurb: 'Mobile e-bike service and repair at your door.',
       cover: 'images/categories/e-bike-repair-cover.jpg' },
     { name: 'Beauty & wellness', icon: 'scissors', live: false,
-      blurb: 'Coming soon to the directory.' }
+      blurb: 'Coming soon to the directory.',
+      cover: 'images/categories/beauty-wellness.jpg' }
   ];
 
   /* Seed businesses. isSample listings are flagged in the UI.
