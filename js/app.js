@@ -75,7 +75,13 @@
     bolt: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h6l-1 8 9-12h-6z"/></svg>',
     bike: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="17" r="3.6"/><circle cx="18" cy="17" r="3.6"/><path d="M6 17l3.2-7H14l4 7M9.2 10L11 5.5h3.5L16 10M12 17v-3.5"/></svg>',
     pin: '<svg viewBox="0 0 24 24" fill="none" stroke="#FF6A2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>',
-    check: '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#1E9E6A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg>'
+    check: '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#1E9E6A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg>',
+    heart: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5s-8-4.9-8-11a4.6 4.6 0 0 1 8-3.1A4.6 4.6 0 0 1 20 9.5c0 6.1-8 11-8 11z"/></svg>',
+    dumbbell: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round"><path d="M7 8v8M17 8v8M4 10v4M20 10v4M7 12h10"/></svg>',
+    chip: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="7" width="10" height="10" rx="2"/><path d="M10 2v3M14 2v3M10 19v3M14 19v3M2 10h3M2 14h3M19 10h3M19 14h3"/></svg>',
+    party: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.7 5.6 6.1.8-4.5 4.2 1.1 6-5.4-2.9-5.4 2.9 1.1-6L3.2 9.4l6.1-.8z"/></svg>',
+    doc: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2h8l4 4v16H6z"/><path d="M14 2v4h4M9 12h6M9 16h6"/></svg>',
+    users: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19c.6-3 2.8-4.5 5.5-4.5s4.9 1.5 5.5 4.5"/><circle cx="16.5" cy="9" r="2.6"/><path d="M15.5 14.6c2.3.2 4 1.6 4.5 4.4"/></svg>'
   };
   function catIcon(cat) {
     var c = null;
@@ -184,16 +190,19 @@
     var tryChips = ['Car wash', 'Dog grooming', 'House cleaning'].map(function (t) {
       return '<button type="button" data-try="' + h(t) + '">' + h(t) + '</button>';
     }).join(' · ');
-    var cats = D.CATEGORIES.map(function (c) {
+    function catCard(c) {
       var visual = c.cover
         ? '<img class="cat-cover" src="' + photoSrc(c.cover) + '" alt="' + h(c.name) + '" loading="lazy">'
         : '<div class="cat-ico">' + (ICONS[c.icon] || ICONS.sparkle) + '</div>';
-      var inner = visual +
-        '<h3>' + h(c.name) + '</h3><p>' + h(c.blurb) + '</p>' +
-        (c.live ? '' : '<span class="soon">Coming soon</span>');
-      return c.live
-        ? '<a class="cat-card" href="#/browse?cat=' + encodeURIComponent(c.name) + '">' + inner + '</a>'
-        : '<div class="cat-card disabled">' + inner + '</div>';
+      return '<a class="cat-card" href="#/browse?cat=' + encodeURIComponent(c.name) + '">' +
+        visual + '<h3>' + h(c.name) + '</h3><p>' + h(c.blurb) + '</p></a>';
+    }
+    var groups = (D.SERVICE_GROUPS || []).map(function (g) {
+      var cards = g.categories.map(catCard).join('');
+      return '<div class="svc-group"><div class="svc-group-head"><h3>' + h(g.name) +
+        ' <span class="svc-count">' + g.categories.length + '</span></h3>' +
+        '<p>' + h(g.tagline) + '</p></div>' +
+        '<div class="cat-grid">' + cards + '</div></div>';
     }).join('');
     return '' +
     '<section class="hero"><div class="wrap">' +
@@ -215,7 +224,8 @@
       '<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px">' +
         '<h2 style="margin:0">Explore services</h2><a class="link-btn" href="#/browse">Explore all services ↗</a>' +
       '</div>' +
-      '<div class="cat-grid">' + cats + '</div>' +
+      '<p class="muted" style="margin:6px 0 0">' + D.CATEGORIES.length + ' mobile services across ' + (D.SERVICE_GROUPS || []).length + ' groups.</p>' +
+      groups + '</div>' +
     '</div></section>' +
 
     '<section class="section band" id="home-samples"><div class="wrap">' +
@@ -296,13 +306,10 @@
 
   function viewBrowse() {
     var pills = [{ name: '' , label: 'All services' }].concat(
-      D.CATEGORIES.map(function (c) { return { name: c.name, label: c.name, live: c.live }; })
+      D.CATEGORIES.map(function (c) { return { name: c.name, label: c.name }; })
     ).map(function (p) {
-      var soon = p.name && p.live === false;
       var on = browseState.category === p.name ? ' on' : '';
-      return '<button type="button" class="pill' + on + (soon ? ' pill-soon' : '') + '" data-cat="' + h(p.name) + '"' +
-        (soon ? ' title="Coming soon — no businesses listed here yet"' : '') + '>' + h(p.label) +
-        (soon ? ' <span class="pill-soon-tag">Soon</span>' : '') + '</button>';
+      return '<button type="button" class="pill' + on + '" data-cat="' + h(p.name) + '">' + h(p.label) + '</button>';
     }).join('');
     return '' +
     '<section class="explore-head"><div class="wrap">' +
@@ -346,16 +353,9 @@
     var wrap = document.getElementById('browse-cards');
     var note = document.getElementById('results-note');
     if (!res.length) {
-      var catSoon = null;
-      for (var ci = 0; ci < D.CATEGORIES.length; ci++) {
-        if (D.CATEGORIES[ci].name === browseState.category && D.CATEGORIES[ci].live === false) { catSoon = D.CATEGORIES[ci]; break; }
-      }
       wrap.innerHTML = '<div class="empty" style="grid-column:1/-1">' +
-        (catSoon
-          ? '<h3 style="margin-top:0">No ' + h(catSoon.name) + ' businesses yet.</h3>' +
-            '<p>We\u2019re bringing this category to ZIP ' + h(browseState.zip || '95814') + ' soon. Own a ' + h(catSoon.name.toLowerCase()) + ' business? Be the first listed.</p>' +
-            '<a class="btn btn-primary" href="#/join" style="margin-top:12px">List your business \u2192</a>'
-          : 'No businesses match those filters yet. Try a different ZIP or search \u2014 and check back soon, new businesses are joining.') +
+        '<h3 style="margin-top:0">No businesses here yet.</h3>' +
+        '<p>No businesses match those filters yet. Try a different ZIP or search \u2014 and check back soon, new businesses are joining.</p>' +
         '</div>';
     } else {
       wrap.innerHTML = res.map(function (b) {
@@ -893,7 +893,7 @@
   /* ---------- join / business signup ---------- */
   function viewJoin() {
     var zipChecks = zipGridHTML(['95814']);
-    var catOpts = D.CATEGORIES.filter(function (c) { return c.live; }).map(function (c) {
+    var catOpts = D.CATEGORIES.map(function (c) {
       return '<option>' + h(c.name) + '</option>';
     }).join('');
     return '' +
