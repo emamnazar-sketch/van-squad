@@ -295,6 +295,7 @@
     if (!row) return null;
     var b = {
       id: row.id, slug: row.id, isSample: !!row.is_sample, ownerId: row.owner_id,
+      verified: !!row.verified,
       emailVerified: !!row.email_verified,
       phoneVerified: !!row.phone_verified,
       name: row.name, category: row.category, tagline: row.tagline || '',

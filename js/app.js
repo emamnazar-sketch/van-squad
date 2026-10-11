@@ -123,6 +123,7 @@
       '<div class="biz-body">' +
         '<div class="biz-cat">' + h(b.category) + '</div>' +
         '<h3 class="biz-name"><a href="#/business/' + h(b.slug || b.id) + '">' + h(b.name) + '</a></h3>' +
+        (b.verified === false && !b.isSample ? '<div class="unclaimed-tag">Unclaimed profile · <a href="#/claim/' + h(b.slug || b.id) + '">Is this your business?</a></div>' : '') +
         starsHTML(b) +
         '<div class="biz-title">' + h(l.title || '') + '</div>' +
         (zip ? '<div class="biz-meta">Serves ZIP ' + h(zip) + '</div>' : '') +
@@ -488,6 +489,9 @@
     '<div class="wrap"><div class="detail-grid"><div class="detail-main">' +
       '<p class="eyebrow">' + h(b.category) + '</p>' +
       '<h1>' + h(b.name) + '</h1>' +
+      (b.verified === false && !b.isSample ?
+        '<div class="claim-banner"><strong>Unclaimed profile.</strong> Is this your business? ' +
+        '<a class="link-btn" href="#/claim/' + h(b.slug || b.id) + '">Claim it — it\u2019s free \u2192</a></div>' : '') +
       starsHTML(b) +
       (b.tagline ? '<p class="lede" style="margin-top:10px">“' + h(b.tagline) + '”</p>' : '') +
       '<p>' + h(b.description) + '</p>' +
@@ -587,6 +591,44 @@
       '<p>Van Squads is a directory, not the service provider. We don\u2019t perform the work, process payments, or run background checks — we connect you with local pros and show you what to compare before you book.</p>' +
       '<p><a class="btn btn-primary" href="#/browse">Explore services →</a> <a class="btn btn-navy" href="#/join">List your business →</a></p>' +
     '</div>';
+  }
+  /* ---------- claim an unclaimed business profile ---------- */
+  function viewClaim(b) {
+    if (!b) return '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Listing not found.</h3><a class="btn btn-primary" href="#/browse">Back to explore</a></div></div>';
+    return '<div class="article" style="max-width:640px">' +
+      '<p class="eyebrow">Claim your business</p>' +
+      '<h1>' + h(b.name) + '</h1>' +
+      '<p class="lede">This profile is currently unclaimed. Claim it to verify your business, receive customer requests directly, and earn the Verified badge — it\u2019s free.</p>' +
+      '<form class="form-card" id="claim-form">' +
+        '<div class="field"><label>Business name</label><input value="' + h(b.name) + '" disabled></div>' +
+        '<div class="f-row"><div class="field"><label>Your name</label><input id="cl-name" required placeholder="Jane Smith"></div>' +
+        '<div class="field"><label>Your phone</label><input id="cl-phone" required inputmode="tel" placeholder="(916) 555-0123"></div></div>' +
+        '<div class="field"><label>Your email</label><input id="cl-email" type="email" required placeholder="you@yourbusiness.com"></div>' +
+        '<div class="field"><label>Anything we should know? (optional)</label><textarea id="cl-note" rows="3" placeholder="e.g. I\u2019m the owner; our correct hours are…"></textarea></div>' +
+        '<p class="small muted">Submitting opens your email app with the claim details filled in — just hit send. We\u2019ll verify ownership (usually within a day) and hand you the keys to your profile.</p>' +
+        '<button class="btn btn-primary" type="submit">Submit claim request →</button>' +
+        '<p class="small muted" id="cl-done" style="display:none">Your email app should have opened. Prefer to write us directly? <a href="mailto:vansquadservices@gmail.com">vansquadservices@gmail.com</a></p>' +
+      '</form></div>';
+  }
+  function afterClaim(b) {
+    var form = document.getElementById('claim-form');
+    if (!form || !b) return;
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var name = document.getElementById('cl-name').value.trim();
+      var phone = document.getElementById('cl-phone').value.trim();
+      var email = document.getElementById('cl-email').value.trim();
+      var note = document.getElementById('cl-note').value.trim();
+      if (!name || !phone || !email) return;
+      var subject = 'Claim request: ' + b.name;
+      var body = 'Business: ' + b.name + ' (' + (b.id || '') + ')\n' +
+        'Category: ' + (b.category || '') + '\n' +
+        'Claimant name: ' + name + '\nPhone: ' + phone + '\nEmail: ' + email + '\n' +
+        (note ? 'Note: ' + note + '\n' : '') +
+        '\nI confirm I am authorized to claim this business profile.';
+      location.href = 'mailto:vansquadservices@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+      document.getElementById('cl-done').style.display = 'block';
+    });
   }
   function viewContact() {
     return '<div class="article">' +
@@ -1684,6 +1726,10 @@
         app.innerHTML = viewHow(); bindFaq();
       } else if (seg[0] === 'about') {
         app.innerHTML = viewAbout(); document.title = 'About — Van Squads';
+      } else if (seg[0] === 'claim' && seg[1]) {
+        var cb = await window.VS.store.getBusiness(seg[1]);
+        app.innerHTML = viewClaim(cb); document.title = 'Claim your business — Van Squads';
+        afterClaim(cb); window.scrollTo(0, 0);
       } else if (seg[0] === 'contact') {
         app.innerHTML = viewContact(); document.title = 'Contact — Van Squads';
       } else if (seg[0] === 'privacy') {
