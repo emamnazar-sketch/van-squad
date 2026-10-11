@@ -180,6 +180,7 @@
     },
     {
       /* Real business — spotted in a TikTok video by Satar Jamshid (Oct 2026).
+         Satar Jamshid is the likely owner/contact (video posted from his account).
          Only on-screen facts are listed: name, phone. No invented details. */
       id: 'biz-afg-handyman-service', slug: 'afg-handyman-service',
       name: 'AFG Handyman Service', category: 'Handyman',
