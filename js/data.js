@@ -14,7 +14,21 @@
     '95747': 'West Roseville',
     '95677': 'Rocklin',
     '95765': 'Rocklin',
-    '95648': 'Lincoln'
+    '95648': 'Lincoln',
+    '95691': 'West Sacramento',
+    '95605': 'West Sacramento',
+    '95821': 'Arden-Arcade',
+    '95825': 'Arden-Arcade',
+    '95610': 'Citrus Heights',
+    '95621': 'Citrus Heights',
+    '95670': 'Rancho Cordova',
+    '95742': 'Rancho Cordova',
+    '95630': 'Folsom',
+    '95762': 'Folsom',
+    '95624': 'Elk Grove',
+    '95757': 'Elk Grove',
+    '95758': 'Elk Grove',
+    '95662': 'Orangevale'
   };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
