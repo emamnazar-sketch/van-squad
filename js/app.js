@@ -593,42 +593,73 @@
       '<p><a class="btn btn-primary" href="#/browse">Explore services →</a> <a class="btn btn-navy" href="#/join">List your business →</a></p>' +
     '</div>';
   }
-  /* ---------- claim an unclaimed business profile ---------- */
+  /* ---------- claim an unclaimed business profile (automated phone verification) ---------- */
   function viewClaim(b) {
     if (!b) return '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Listing not found.</h3><a class="btn btn-primary" href="#/browse">Back to explore</a></div></div>';
+    if (b.verified) return '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>This business is already verified.</h3><a class="btn btn-primary" href="#/business/' + h(b.slug || b.id) + '">View listing</a></div></div>';
     return '<div class="article" style="max-width:640px">' +
       '<p class="eyebrow">Claim your business</p>' +
       '<h1>' + h(b.name) + '</h1>' +
-      '<p class="lede">Own this business? Claim your profile to get verified, receive customer requests directly, and manage your details — it\u2019s free.</p>' +
-      '<form class="form-card" id="claim-form">' +
-        '<div class="field"><label>Business name</label><input value="' + h(b.name) + '" disabled></div>' +
-        '<div class="f-row"><div class="field"><label>Your name</label><input id="cl-name" required placeholder="Jane Smith"></div>' +
-        '<div class="field"><label>Your phone</label><input id="cl-phone" required inputmode="tel" placeholder="(916) 555-0123"></div></div>' +
-        '<div class="field"><label>Your email</label><input id="cl-email" type="email" required placeholder="you@yourbusiness.com"></div>' +
-        '<div class="field"><label>Anything we should know? (optional)</label><textarea id="cl-note" rows="3" placeholder="e.g. I\u2019m the owner; our correct hours are…"></textarea></div>' +
-        '<p class="small muted">Submitting opens your email app with the claim details filled in — just hit send. We\u2019ll verify ownership (usually within a day) and hand you the keys to your profile.</p>' +
-        '<button class="btn btn-primary" type="submit">Submit claim request →</button>' +
-        '<p class="small muted" id="cl-done" style="display:none">Your email app should have opened. Prefer to write us directly? <a href="mailto:vansquadservices@gmail.com">vansquadservices@gmail.com</a></p>' +
-      '</form></div>';
+      '<p class="lede">To prove this business is yours, we\u2019ll text a 6-digit code to the business phone number on file. Only someone with access to that number can claim the profile — no paperwork, no waiting.</p>' +
+      '<div class="form-card" id="claim-step1">' +
+        '<div class="field"><label>Business phone on file</label><input value="' + h(b.phone || '') + '" disabled></div>' +
+        '<button class="btn btn-primary" id="claim-send" type="button">Text me the code →</button>' +
+        '<p class="small" id="claim-err1" style="display:none;color:#b3261e"></p>' +
+        '<p class="small muted">Number out of date? <a href="mailto:vansquadservices@gmail.com?subject=' + encodeURIComponent('Claim help: ' + b.name) + '">Contact us</a> and we\u2019ll sort it out.</p>' +
+      '</div>' +
+      '<div class="form-card" id="claim-step2" style="display:none">' +
+        '<div class="field"><label>Enter the 6-digit code</label><input id="claim-code" inputmode="numeric" maxlength="6" placeholder="••••••" autocomplete="one-time-code"></div>' +
+        '<button class="btn btn-primary" id="claim-verifybtn" type="button">Verify &amp; claim →</button>' +
+        '<p class="small"><button class="link-btn" id="claim-resend" type="button">Resend code</button></p>' +
+        '<p class="small" id="claim-err2" style="display:none;color:#b3261e"></p>' +
+      '</div>' +
+      '<div class="form-card" id="claim-done" style="display:none;text-align:center">' +
+        '<div style="font-size:44px">✓</div>' +
+        '<h2>Verified — it\u2019s yours.</h2>' +
+        '<p class="muted">Your business now shows the verified checkmark, and customer requests will come straight to you.</p>' +
+        '<a class="btn btn-navy" href="#/dashboard">Go to my dashboard →</a>' +
+      '</div></div>';
   }
   function afterClaim(b) {
-    var form = document.getElementById('claim-form');
-    if (!form || !b) return;
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      var name = document.getElementById('cl-name').value.trim();
-      var phone = document.getElementById('cl-phone').value.trim();
-      var email = document.getElementById('cl-email').value.trim();
-      var note = document.getElementById('cl-note').value.trim();
-      if (!name || !phone || !email) return;
-      var subject = 'Claim request: ' + b.name;
-      var body = 'Business: ' + b.name + ' (' + (b.id || '') + ')\n' +
-        'Category: ' + (b.category || '') + '\n' +
-        'Claimant name: ' + name + '\nPhone: ' + phone + '\nEmail: ' + email + '\n' +
-        (note ? 'Note: ' + note + '\n' : '') +
-        '\nI confirm I am authorized to claim this business profile.';
-      location.href = 'mailto:vansquadservices@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
-      document.getElementById('cl-done').style.display = 'block';
+    if (!b || b.verified) return;
+    var err1 = document.getElementById('claim-err1'), err2 = document.getElementById('claim-err2');
+    function showErr(el, msg) { el.textContent = msg; el.style.display = 'block'; }
+    async function sendCode(btn) {
+      err1.style.display = 'none';
+      btn.disabled = true; btn.textContent = 'Sending…';
+      try {
+        await window.VS.store.claimRequestCode(b.id);
+        document.getElementById('claim-step1').style.display = 'none';
+        document.getElementById('claim-step2').style.display = 'block';
+        document.getElementById('claim-code').focus();
+      } catch (e) {
+        var m = 'Couldn\u2019t send the text — please try again.';
+        if (e && e.code === 'already-claimed') m = 'This business has already been claimed.';
+        if (e && e.code === 'invalid-phone') m = 'The phone number on file looks invalid — contact us and we\u2019ll sort it out.';
+        showErr(err1, m);
+        btn.disabled = false; btn.textContent = 'Text me the code →';
+      }
+    }
+    document.getElementById('claim-send').addEventListener('click', function () { sendCode(this); });
+    document.getElementById('claim-resend').addEventListener('click', function () { sendCode(this); });
+    document.getElementById('claim-verifybtn').addEventListener('click', async function () {
+      var btn = this, code = document.getElementById('claim-code').value.trim();
+      err2.style.display = 'none';
+      if (!/^\d{4,8}$/.test(code)) { showErr(err2, 'Enter the code from the text message.'); return; }
+      btn.disabled = true; btn.textContent = 'Verifying…';
+      try {
+        await window.VS.store.claimVerifyCode(b.id, code);
+        document.getElementById('claim-step2').style.display = 'none';
+        document.getElementById('claim-done').style.display = 'block';
+        window.scrollTo(0, 0);
+      } catch (e) {
+        var m = 'Something went wrong — please try again.';
+        if (e && e.code === 'invalid-code') m = 'Wrong code — check the text and try again.';
+        if (e && e.code === 'no-code' || e && e.code === 'expired') m = 'That code expired — tap Resend code for a fresh one.';
+        if (e && e.code === 'already-claimed') m = 'This business has already been claimed.';
+        showErr(err2, m);
+        btn.disabled = false; btn.textContent = 'Verify & claim →';
+      }
     });
   }
   function viewContact() {
@@ -1728,6 +1759,8 @@
       } else if (seg[0] === 'about') {
         app.innerHTML = viewAbout(); document.title = 'About — Van Squads';
       } else if (seg[0] === 'claim' && seg[1]) {
+        var cuser = await requireUser('#/claim/' + seg[1]);
+        if (!cuser) return;
         var cb = await window.VS.store.getBusiness(seg[1]);
         app.innerHTML = viewClaim(cb); document.title = 'Claim your business — Van Squads';
         afterClaim(cb); window.scrollTo(0, 0);

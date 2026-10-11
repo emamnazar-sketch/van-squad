@@ -425,6 +425,35 @@
       }
       return j || {};
     },
+    async claimRequestCode(businessId) {
+      var t = await this._token();
+      if (!t) throw new Error('not-logged-in');
+      var r = await fetch('/api/claim-request-code', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ businessId: businessId })
+      });
+      var j = null;
+      try { j = await r.json(); } catch (e) { j = {}; }
+      if (!r.ok) { var e1 = new Error((j && j.error) || 'send-failed'); e1.code = j && j.error; throw e1; }
+      return j || {};
+    },
+    async claimVerifyCode(businessId, code) {
+      var t = await this._token();
+      if (!t) throw new Error('not-logged-in');
+      var r = await fetch('/api/claim-verify-code', {
+        method: 'POST',
+        headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ businessId: businessId, code: code })
+      });
+      var j = null;
+      try { j = await r.json(); } catch (e) { j = {}; }
+      if (!r.ok) {
+        var e2 = new Error((j && j.error) || 'verify-failed'); e2.code = j && j.error;
+        throw e2;
+      }
+      return j || {};
+    },
     async updateProfile(patch) {
       var sb = await this._sb();
       var u = (await sb.auth.getUser()).data.user;
