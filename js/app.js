@@ -122,8 +122,9 @@
       '</div>' +
       '<div class="biz-body">' +
         '<div class="biz-cat">' + h(b.category) + '</div>' +
-        '<h3 class="biz-name"><a href="#/business/' + h(b.slug || b.id) + '">' + h(b.name) + '</a></h3>' +
-        (b.verified === false && !b.isSample ? '<div class="unclaimed-tag">Unclaimed profile · <a href="#/claim/' + h(b.slug || b.id) + '">Is this your business?</a></div>' : '') +
+        '<h3 class="biz-name"><a href="#/business/' + h(b.slug || b.id) + '">' + h(b.name) + '</a>' +
+          (b.verified === true && !b.isSample ? ' <span class="verified-check" title="Verified business">✓</span>' : '') + '</h3>' +
+        (b.verified === false && !b.isSample ? '<div class="claim-tag"><a href="#/claim/' + h(b.slug || b.id) + '">Is this your business? Claim it →</a></div>' : '') +
         starsHTML(b) +
         '<div class="biz-title">' + h(l.title || '') + '</div>' +
         (zip ? '<div class="biz-meta">Serves ZIP ' + h(zip) + '</div>' : '') +
@@ -488,10 +489,10 @@
     '</div></div>' +
     '<div class="wrap"><div class="detail-grid"><div class="detail-main">' +
       '<p class="eyebrow">' + h(b.category) + '</p>' +
-      '<h1>' + h(b.name) + '</h1>' +
+      '<h1>' + h(b.name) +
+        (b.verified === true && !b.isSample ? ' <span class="verified-check big" title="Verified business">✓</span>' : '') + '</h1>' +
       (b.verified === false && !b.isSample ?
-        '<div class="claim-banner"><strong>Unclaimed profile.</strong> Is this your business? ' +
-        '<a class="link-btn" href="#/claim/' + h(b.slug || b.id) + '">Claim it — it\u2019s free \u2192</a></div>' : '') +
+        '<p class="claim-line">Is this your business? <a href="#/claim/' + h(b.slug || b.id) + '">Claim it — it\u2019s free \u2192</a></p>' : '') +
       starsHTML(b) +
       (b.tagline ? '<p class="lede" style="margin-top:10px">“' + h(b.tagline) + '”</p>' : '') +
       '<p>' + h(b.description) + '</p>' +
@@ -598,7 +599,7 @@
     return '<div class="article" style="max-width:640px">' +
       '<p class="eyebrow">Claim your business</p>' +
       '<h1>' + h(b.name) + '</h1>' +
-      '<p class="lede">This profile is currently unclaimed. Claim it to verify your business, receive customer requests directly, and earn the Verified badge — it\u2019s free.</p>' +
+      '<p class="lede">Own this business? Claim your profile to get verified, receive customer requests directly, and manage your details — it\u2019s free.</p>' +
       '<form class="form-card" id="claim-form">' +
         '<div class="field"><label>Business name</label><input value="' + h(b.name) + '" disabled></div>' +
         '<div class="f-row"><div class="field"><label>Your name</label><input id="cl-name" required placeholder="Jane Smith"></div>' +
