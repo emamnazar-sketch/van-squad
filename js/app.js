@@ -315,12 +315,14 @@
   var browseState = { q: '', zip: '95814', category: '', maxBudget: '', date: '', time: '', compareMode: false, compareSet: {} };
 
   function viewBrowse() {
-    var pills = [{ name: '' , label: 'All services' }].concat(
-      D.CATEGORIES.map(function (c) { return { name: c.name, label: c.name }; })
-    ).map(function (p) {
-      var on = browseState.category === p.name ? ' on' : '';
-      return '<button type="button" class="pill' + on + '" data-cat="' + h(p.name) + '">' + h(p.label) + '</button>';
-    }).join('');
+    var catSelect = '<label class="cat-select-label">Service <select id="b-cat" class="cat-select" aria-label="Filter by service">' +
+      '<option value="">All services</option>' +
+      (D.SERVICE_GROUPS || []).map(function (g) {
+        var opts = g.categories.map(function (c) {
+          return '<option value="' + h(c.name) + '"' + (browseState.category === c.name ? ' selected' : '') + '>' + h(c.name) + '</option>';
+        }).join('');
+        return '<optgroup label="' + h(g.name) + ' (' + g.categories.length + ')">' + opts + '</optgroup>';
+      }).join('') + '</select></label>';
     return '' +
     '<section class="explore-head"><div class="wrap">' +
       '<p class="eyebrow">Explore services</p>' +
@@ -330,7 +332,7 @@
         '<input type="text" class="zip" id="b-zip" value="' + h(browseState.zip) + '" maxlength="5" inputmode="numeric" aria-label="ZIP code">' +
         '<button class="btn btn-primary" type="submit">Search</button>' +
       '</form>' +
-      '<div class="filter-row">' + pills + '</div>' +
+      '<div class="filter-row">' + catSelect + '</div>' +
       '<div style="margin-top:10px"><button class="link-btn" id="more-filters-btn" type="button">More filters · date, time &amp; budget</button></div>' +
       '<div class="more-filters" id="more-filters">' +
         '<label>Preferred date<input type="date" id="b-date" value="' + h(browseState.date) + '"></label>' +
@@ -434,13 +436,10 @@
       browseState.zip = document.getElementById('b-zip').value.trim() || '95814';
       runBrowse();
     });
-    document.querySelectorAll('[data-cat]').forEach(function (p) {
-      p.addEventListener('click', function () {
-        browseState.category = p.getAttribute('data-cat');
-        document.querySelectorAll('[data-cat]').forEach(function (x) { x.classList.remove('on'); });
-        p.classList.add('on');
-        runBrowse();
-      });
+    var catSel = document.getElementById('b-cat');
+    if (catSel) catSel.addEventListener('change', function () {
+      browseState.category = catSel.value;
+      runBrowse();
     });
     document.getElementById('more-filters-btn').addEventListener('click', function () {
       document.getElementById('more-filters').classList.toggle('open');
