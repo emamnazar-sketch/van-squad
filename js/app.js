@@ -190,19 +190,19 @@
     var tryChips = ['Car wash', 'Dog grooming', 'House cleaning'].map(function (t) {
       return '<button type="button" data-try="' + h(t) + '">' + h(t) + '</button>';
     }).join(' · ');
-    function catCard(c) {
-      var visual = c.cover
-        ? '<img class="cat-cover" src="' + photoSrc(c.cover) + '" alt="' + h(c.name) + '" loading="lazy">'
-        : '<div class="cat-ico">' + (ICONS[c.icon] || ICONS.sparkle) + '</div>';
-      return '<a class="cat-card" href="#/browse?cat=' + encodeURIComponent(c.name) + '">' +
-        visual + '<h3>' + h(c.name) + '</h3><p>' + h(c.blurb) + '</p></a>';
-    }
     var groups = (D.SERVICE_GROUPS || []).map(function (g) {
-      var cards = g.categories.map(catCard).join('');
-      return '<div class="svc-group"><div class="svc-group-head"><h3>' + h(g.name) +
-        ' <span class="svc-count">' + g.categories.length + '</span></h3>' +
-        '<p>' + h(g.tagline) + '</p></div>' +
-        '<div class="cat-grid">' + cards + '</div></div>';
+      var items = g.categories.map(function (c) {
+        return '<li><a href="#/browse?cat=' + encodeURIComponent(c.name) + '">' + h(c.name) + '</a></li>';
+      }).join('');
+      var visual = g.cover
+        ? '<img class="cat-cover" src="' + photoSrc(g.cover) + '" alt="' + h(g.name) + '" loading="lazy">'
+        : '';
+      return '<div class="cat-card svc-group-card">' + visual +
+        '<h3>' + h(g.name) + ' <span class="svc-count">' + g.categories.length + '</span></h3>' +
+        '<p>' + h(g.tagline) + '</p>' +
+        '<button type="button" class="svc-toggle" data-svc-group="' + g.id + '" aria-expanded="false">' +
+        'View ' + g.categories.length + ' services <span class="chev">\u25be</span></button>' +
+        '<ul class="svc-drop" id="svc-drop-' + g.id + '" hidden>' + items + '</ul></div>';
     }).join('');
     return '' +
     '<section class="hero"><div class="wrap">' +
@@ -278,6 +278,16 @@
     document.querySelectorAll('[data-try]').forEach(function (b) {
       b.addEventListener('click', function () {
         location.hash = '#/browse?q=' + encodeURIComponent(b.getAttribute('data-try')) + '&zip=95814';
+      });
+    });
+    document.querySelectorAll('[data-svc-group]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var list = document.getElementById('svc-drop-' + b.getAttribute('data-svc-group'));
+        if (!list) return;
+        var open = list.hasAttribute('hidden');
+        var chev = b.querySelector('.chev');
+        if (open) { list.removeAttribute('hidden'); b.setAttribute('aria-expanded', 'true'); if (chev) chev.textContent = '\u25b4'; }
+        else { list.setAttribute('hidden', ''); b.setAttribute('aria-expanded', 'false'); if (chev) chev.textContent = '\u25be'; }
       });
     });
     bindFaq();

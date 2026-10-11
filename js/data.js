@@ -19,7 +19,7 @@
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
   var SERVICE_GROUPS = [
-    { id: 'automotive', name: 'Automotive', tagline: 'Cars, bikes, boats and RVs — serviced where they are parked.',
+    { id: 'automotive', name: 'Automotive', cover: 'images/categories/group-automotive.jpg', tagline: 'Cars, bikes, boats and RVs — serviced where they are parked.',
       categories: [
         { name: 'Mobile auto detailing', icon: 'car', blurb: 'Full interior and exterior detailing at your driveway.', cover: 'images/categories/car-care.jpg' },
         { name: 'Mobile car wash', icon: 'car', blurb: 'Waterless wash at your home or office.', cover: 'images/categories/mobile-car-wash.jpg' },
@@ -41,7 +41,7 @@
         { name: 'Mobile small-engine repair', icon: 'wrench', blurb: 'Mowers, generators and power equipment at home.', cover: 'images/categories/mobile-small-engine-repair.jpg' },
         { name: 'E-bike repair', icon: 'bike', blurb: 'Mobile e-bike service and repair at your door.', cover: 'images/categories/e-bike-repair-cover.jpg' }
       ] },
-    { id: 'home-trades', name: 'Home services & trades', tagline: 'Repairs, installs and projects — done at your home.',
+    { id: 'home-trades', name: 'Home services & trades', cover: 'images/categories/group-home-trades.jpg', tagline: 'Repairs, installs and projects — done at your home.',
       categories: [
         { name: 'Handyman', icon: 'wrench', blurb: 'Small repairs and odd jobs at your door.', cover: 'images/categories/handyman.jpg' },
         { name: 'Plumbing', icon: 'wrench', blurb: 'Repairs, installs and drain cleaning.', cover: 'images/categories/plumbing.jpg' },
@@ -91,7 +91,7 @@
         { name: 'Water softener service', icon: 'wrench', blurb: 'Softeners installed and serviced.', cover: 'images/categories/water-softener-service.jpg' },
         { name: 'Generator installation', icon: 'bolt', blurb: 'Standby generators installed and serviced.', cover: 'images/categories/generator-installation.jpg' }
       ] },
-    { id: 'cleaning', name: 'Cleaning', tagline: 'Sparkling homes and rentals, cleaned on your schedule.',
+    { id: 'cleaning', name: 'Cleaning', cover: 'images/categories/group-cleaning.jpg', tagline: 'Sparkling homes and rentals, cleaned on your schedule.',
       categories: [
         { name: 'House cleaning', icon: 'sparkle', blurb: 'Recurring home cleaning.', cover: 'images/categories/home-cleaning.jpg' },
         { name: 'Deep cleaning', icon: 'sparkle', blurb: 'Top-to-bottom one-time cleans.', cover: 'images/categories/deep-cleaning.jpg' },
@@ -107,7 +107,7 @@
         { name: 'Biohazard cleanup', icon: 'sparkle', blurb: 'Certified biohazard cleanup crews.', cover: 'images/categories/biohazard-cleanup.jpg' },
         { name: 'Commercial janitorial', icon: 'sparkle', blurb: 'On-site office cleaning.', cover: 'images/categories/commercial-janitorial.jpg' }
       ] },
-    { id: 'pet-care', name: 'Pet care', tagline: 'Grooming, sitting and vet care without the car ride.',
+    { id: 'pet-care', name: 'Pet care', cover: 'images/categories/group-pet-care.jpg', tagline: 'Grooming, sitting and vet care without the car ride.',
       categories: [
         { name: 'Mobile pet grooming', icon: 'paw', blurb: 'A salon van at your curb.', cover: 'images/categories/pet-care.jpg' },
         { name: 'In-home pet sitting', icon: 'paw', blurb: 'A sitter stays at your home.', cover: 'images/categories/in-home-pet-sitting.jpg' },
@@ -122,7 +122,7 @@
         { name: 'Mobile farrier', icon: 'paw', blurb: 'Horseshoeing at the barn.', cover: 'images/categories/mobile-farrier.jpg' },
         { name: 'Dog hiking services', icon: 'paw', blurb: 'Group trail outings for dogs.', cover: 'images/categories/dog-hiking-services.jpg' }
       ] },
-    { id: 'beauty-wellness', name: 'Beauty & wellness', tagline: 'Salon and spa treatments at your home.',
+    { id: 'beauty-wellness', name: 'Beauty & wellness', cover: 'images/categories/group-beauty-wellness.jpg', tagline: 'Salon and spa treatments at your home.',
       categories: [
         { name: 'Mobile hairstylist', icon: 'scissors', blurb: 'Cuts and color at home.', cover: 'images/categories/mobile-hairstylist.jpg' },
         { name: 'Mobile barber', icon: 'scissors', blurb: 'Clipper cuts at home or office.', cover: 'images/categories/mobile-barber.jpg' },
@@ -139,7 +139,7 @@
         { name: 'Mobile piercing', icon: 'scissors', blurb: 'Piercing services at your location.', cover: 'images/categories/mobile-piercing.jpg' },
         { name: 'Mobile sauna rental', icon: 'heart', blurb: 'Sauna trailers delivered to your driveway.', cover: 'images/categories/mobile-sauna-rental.jpg' }
       ] },
-    { id: 'health-medical', name: 'Health & medical', tagline: 'Care that comes to your door.',
+    { id: 'health-medical', name: 'Health & medical', cover: 'images/categories/group-health-medical.jpg', tagline: 'Care that comes to your door.',
       categories: [
         { name: 'In-home senior care', icon: 'users', blurb: 'Companionship and daily-living help.', cover: 'images/categories/in-home-senior-care.jpg' },
         { name: 'Home health nursing', icon: 'heart', blurb: 'Skilled nursing visits at home.', cover: 'images/categories/home-health-nursing.jpg' },
@@ -165,7 +165,7 @@
         { name: 'Mobile CPR training', icon: 'doc', blurb: 'First-aid classes at your office.', cover: 'images/categories/mobile-cpr-training.jpg' },
         { name: 'House-call physicians', icon: 'heart', blurb: 'Doctors who visit your home.', cover: 'images/categories/house-call-physicians.jpg' }
       ] },
-    { id: 'fitness-lessons', name: 'Fitness, lessons & coaching', tagline: 'Trainers, tutors and teachers at your home.',
+    { id: 'fitness-lessons', name: 'Fitness, lessons & coaching', cover: 'images/categories/group-fitness-lessons.jpg', tagline: 'Trainers, tutors and teachers at your home.',
       categories: [
         { name: 'In-home personal training', icon: 'dumbbell', blurb: 'Workouts with a trainer at home.', cover: 'images/categories/in-home-personal-training.jpg' },
         { name: 'Mobile yoga & Pilates', icon: 'dumbbell', blurb: 'Private sessions at your home.', cover: 'images/categories/mobile-yoga-pilates.jpg' },
@@ -180,7 +180,7 @@
         { name: 'Martial arts instruction', icon: 'dumbbell', blurb: 'Self-defense training at home.', cover: 'images/categories/martial-arts-instruction.jpg' },
         { name: 'Life & wellness coaching', icon: 'heart', blurb: 'Coaching sessions at home.', cover: 'images/categories/life-wellness-coaching.jpg' }
       ] },
-    { id: 'tech', name: 'Tech & electronics', tagline: 'Repairs and setup, done at your place.',
+    { id: 'tech', name: 'Tech & electronics', cover: 'images/categories/group-tech.jpg', tagline: 'Repairs and setup, done at your place.',
       categories: [
         { name: 'On-site computer repair', icon: 'chip', blurb: 'Computer fixes at your home or office.', cover: 'images/categories/on-site-computer-repair.jpg' },
         { name: 'Mobile phone repair', icon: 'chip', blurb: 'Screen and battery repair that comes to you.', cover: 'images/categories/mobile-phone-repair.jpg' },
@@ -190,7 +190,7 @@
         { name: 'Mobile data recovery', icon: 'chip', blurb: 'Data recovery at your location.', cover: 'images/categories/mobile-data-recovery.jpg' },
         { name: 'Drone photography', icon: 'chip', blurb: 'Aerial photos for real estate and events.', cover: 'images/categories/drone-photography.jpg' }
       ] },
-    { id: 'events', name: 'Events & entertainment', tagline: 'The party comes to you.',
+    { id: 'events', name: 'Events & entertainment', cover: 'images/categories/group-events.jpg', tagline: 'The party comes to you.',
       categories: [
         { name: 'Mobile DJ', icon: 'party', blurb: 'DJs with full setup at your venue.', cover: 'images/categories/mobile-dj.jpg' },
         { name: 'Photo booth rental', icon: 'party', blurb: 'Booths delivered, set up and staffed.', cover: 'images/categories/photo-booth-rental.jpg' },
@@ -216,7 +216,7 @@
         { name: 'Children\u2019s entertainers', icon: 'party', blurb: 'Magicians and characters at home.', cover: 'images/categories/childrens-entertainers.jpg' },
         { name: 'Mobile florist', icon: 'party', blurb: 'Event florals designed on-site.', cover: 'images/categories/mobile-florist.jpg' }
       ] },
-    { id: 'pro-services', name: 'Professional & personal services', tagline: 'Pros who travel to you.',
+    { id: 'pro-services', name: 'Professional & personal services', cover: 'images/categories/group-pro-services.jpg', tagline: 'Pros who travel to you.',
       categories: [
         { name: 'Mobile notary', icon: 'doc', blurb: 'Documents notarized at home or office.', cover: 'images/categories/mobile-notary.jpg' },
         { name: 'Mobile fingerprinting', icon: 'doc', blurb: 'Ink and live-scan prints on-site.', cover: 'images/categories/mobile-fingerprinting.jpg' },
@@ -237,7 +237,7 @@
         { name: 'Piano tuning', icon: 'wrench', blurb: 'Pianos tuned in your home.', cover: 'images/categories/piano-tuning.jpg' },
         { name: 'Watch & jewelry repair', icon: 'wrench', blurb: 'Repairs done at your location.', cover: 'images/categories/watch-jewelry-repair.jpg' }
       ] },
-    { id: 'family-care', name: 'Child & family care', tagline: 'Trusted help at home.',
+    { id: 'family-care', name: 'Child & family care', cover: 'images/categories/group-family-care.jpg', tagline: 'Trusted help at home.',
       categories: [
         { name: 'In-home nanny & babysitting', icon: 'users', blurb: 'Childcare at your home.', cover: 'images/categories/in-home-nanny-babysitting.jpg' },
         { name: 'Night nanny', icon: 'users', blurb: 'Overnight newborn care.', cover: 'images/categories/night-nanny.jpg' },

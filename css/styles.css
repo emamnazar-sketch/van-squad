@@ -89,10 +89,15 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 .cat-card.disabled:hover{transform:none}
 .cat-ico{width:58px;height:58px;border-radius:50%;background:var(--peach);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
 .cat-ico svg{width:30px;height:30px}
-.svc-group{margin-top:34px}
-.svc-group-head h3{margin:0 0 4px;font-size:21px}
-.svc-group-head p{margin:0 0 4px;color:var(--muted);font-size:14.5px}
 .svc-count{display:inline-block;min-width:26px;text-align:center;font-size:12.5px;font-weight:700;color:#fff;background:var(--brand);border-radius:999px;padding:2px 8px;vertical-align:middle;margin-left:6px}
+.svc-group-card{display:flex;flex-direction:column}
+.svc-toggle{margin-top:12px;align-self:flex-start;background:#fff;border:1.5px solid var(--brand);color:var(--brand);font-weight:700;font-size:14px;border-radius:999px;padding:8px 16px;cursor:pointer}
+.svc-toggle:hover{background:var(--brand);color:#fff}
+.svc-toggle .chev{margin-left:4px}
+.svc-drop{list-style:none;margin:14px 0 0;padding:14px 0 0;border-top:1px solid var(--line);columns:2;column-gap:22px}
+.svc-drop li{margin:0 0 7px;break-inside:avoid}
+.svc-drop a{color:var(--ink);text-decoration:none;font-size:14.5px}
+.svc-drop a:hover{color:var(--brand);text-decoration:underline}
 .cat-card h3{margin:0 0 6px}
 .cat-card p{margin:0;color:var(--muted);font-size:14.5px}
 .soon{display:inline-block;margin-top:10px;font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--amber);background:#FFF6E5;padding:4px 10px;border-radius:999px}
