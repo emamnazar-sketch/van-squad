@@ -177,6 +177,26 @@
         beforeVisit: ['Have your e-bike and charger accessible'],
         cancellation: ''
       }]
+    },
+    {
+      /* Real business — spotted in a TikTok video by Satar Jamshid (Oct 2026).
+         Only on-screen facts are listed: name, phone. No invented details. */
+      id: 'biz-afg-handyman-service', slug: 'afg-handyman-service',
+      name: 'AFG Handyman Service', category: 'Handyman',
+      tagline: '',
+      description: 'Handyman service in the Sacramento area. Call (916) 944-9618 to book.',
+      phone: '(916) 944-9618', email: '', website: '',
+      photo: 'images/categories/handyman.jpg',
+      zips: ['95814', '95816', '95818'],
+      travelFee: 0, travelRadius: 25, travelBuffer: 30,
+      rating: 0, reviewCount: 0,
+      listings: [{
+        id: 'biz-listing-afg', title: 'Handyman service visit',
+        price: null, priceType: 'quote', duration: 'Varies',
+        includes: ['Handyman repairs and installs at your location'],
+        beforeVisit: ['Describe the job when you call'],
+        cancellation: ''
+      }]
     }
   ];
 
