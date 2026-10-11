@@ -187,7 +187,7 @@
       description: 'Handyman service in the Sacramento area. Call (916) 944-9618 to book.',
       phone: '(916) 944-9618', email: '', website: '',
       photo: 'images/categories/handyman.jpg',
-      zips: ['95814', '95816', '95818'],
+      zips: ['95814', '95816', '95818', '95843', '95678', '95661', '95747', '95677', '95765', '95648'],
       travelFee: 0, travelRadius: 25, travelBuffer: 30,
       rating: 0, reviewCount: 0,
       listings: [{
