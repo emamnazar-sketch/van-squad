@@ -170,7 +170,7 @@ export async function onRequest({ request, env }) {
       return json(200, { sent: 'sms' });
     } catch (e) {
       console.error('notify: sms failed', e.detail || e.message);
-      return json(200, { sent: 'none', reason: 'sms-failed' });
+      return json(200, { sent: 'none', reason: 'sms-failed', detail: (e.detail ? JSON.stringify(e.detail).slice(0, 400) : String(e.message || 'unknown')) });
     }
   }
 
