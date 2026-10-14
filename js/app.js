@@ -541,6 +541,7 @@
       '</div>' +
       '<div class="match-line">' + ICONS.check + ' Serves ZIP ' + h((b.zips && b.zips[0]) || '') + '</div>' +
       (b.earliestOpening ? '<p class="small muted">Earliest opening: ' + h(b.earliestOpening) + '</p>' : '') +
+      (b.website && /^https?:\/\//i.test(b.website) ? '<a class="btn btn-outline btn-block" href="' + h(b.website) + '" target="_blank" rel="noopener" style="margin-bottom:10px">Visit their website \u2197</a>' : '') +
       '<a class="btn btn-primary btn-block" href="#/book/' + h(b.slug || b.id) + '">Send a request</a>' +
       '<p class="small muted" style="margin-top:12px">No online checkout — you’ll arrange service and payment directly with the business.</p>' +
     '</div></aside></div></div>';
@@ -960,7 +961,7 @@
   function viewGate(next) {
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
-      '<img class="gate-logo" src="/img/logo.png?v=20261014d" alt="Van Squads">' +
+      '<img class="gate-logo" src="/img/logo.png?v=20261014e" alt="Van Squads">' +
       '<h1>Sign in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +
