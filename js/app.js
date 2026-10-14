@@ -33,7 +33,7 @@
   function customZipRowHTML() {
     return '<div class="zip-add"><input type="text" class="zip-add-input" inputmode="numeric" maxlength="5" placeholder="Add another ZIP \u2014 e.g. 95630" aria-label="Add another ZIP code">' +
       '<button type="button" class="btn btn-outline btn-sm zip-add-btn">Add</button></div>' +
-      '<p class="hint zip-add-err" style="display:none;color:#8F2323"></p>';
+      '<p class="hint zip-add-err" style="display:none;color:#B3400A"></p>';
   }
   function bindCustomZips(root) {
     var grid = root.querySelector('.zip-grid');
@@ -75,7 +75,7 @@
     bolt: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L4 14h6l-1 8 9-12h-6z"/></svg>',
     bike: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="17" r="3.6"/><circle cx="18" cy="17" r="3.6"/><path d="M6 17l3.2-7H14l4 7M9.2 10L11 5.5h3.5L16 10M12 17v-3.5"/></svg>',
     pin: '<svg viewBox="0 0 24 24" fill="none" stroke="#FF6A2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>',
-    check: '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#1E9E6A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg>',
+    check: '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#1F2B3A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg>',
     heart: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5s-8-4.9-8-11a4.6 4.6 0 0 1 8-3.1A4.6 4.6 0 0 1 20 9.5c0 6.1-8 11-8 11z"/></svg>',
     dumbbell: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round"><path d="M7 8v8M17 8v8M4 10v4M20 10v4M7 12h10"/></svg>',
     chip: '<svg viewBox="0 0 24 24" fill="none" stroke="#1F2B3A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="7" width="10" height="10" rx="2"/><path d="M10 2v3M14 2v3M10 19v3M14 19v3M2 10h3M2 14h3M19 10h3M19 14h3"/></svg>',
@@ -230,12 +230,21 @@
       groups + '</div>' +
     '</div></section>' +
 
-    '<section class="section band" id="home-samples"><div class="wrap">' +
-      '<p class="eyebrow">Meet your next go-to.</p>' +
-      '<h2>Good help, close to home.</h2>' +
-      '<p class="lede">A look at the businesses you could discover on Van Squads.</p>' +
-      '<div style="text-align:right"><a class="link-btn" href="#/browse">View all ↗</a></div>' +
-      '<div class="list-grid" id="home-cards"><div class="empty">Loading…</div></div>' +
+    '<section class="section band"><div class="wrap">' +
+      '<p class="eyebrow">The Van Squads promise</p>' +
+      '<h2>No middleman fees. For anyone.</h2>' +
+      '<p class="lede">Other directories charge businesses for every customer they meet — win or lose — and that cost has to land somewhere. On Van Squads, connecting is free on both sides.</p>' +
+      '<div class="duo">' +
+        '<div class="step"><h3>FOR CUSTOMERS — FREE, ALWAYS</h3><ul class="tick-list">' +
+          '<li>Your request goes only to the business you choose. It is never sold or shared with a list of pros.</li>' +
+          '<li>The price you are quoted is the real price — no lead fee is hiding in it.</li>' +
+          '<li>No service fee is added on top. Ever.</li></ul></div>' +
+        '<div class="step"><h3>FOR BUSINESS OWNERS — FREE TOO</h3><ul class="tick-list">' +
+          '<li>Free to list. Free to receive requests. Free to respond.</li>' +
+          '<li>No commission on your work — you keep 100% of every job.</li>' +
+          '<li>No credits to buy. No bidding for leads.</li></ul></div>' +
+      '</div>' +
+      '<div class="fee-strip"><span>What a pro pays just to meet one customer: </span><strong>Thumbtack ≈ $20–$60</strong> per lead · <strong>Angi ≈ $15–$100+</strong> per lead · <strong>Bark ≈ $5–$36</strong> per introduction · <strong class="fee-zero">Van Squads: $0</strong></div>' +
     '</div></section>' +
 
     '<section class="section"><div class="wrap">' +
@@ -248,10 +257,21 @@
       '</div>' +
     '</div></section>' +
 
+    '<section class="section band"><div class="wrap">' +
+      '<p class="eyebrow">How trust works here</p>' +
+      '<h2>Real businesses, verified by their owners.</h2>' +
+      '<p class="lede">Now listing <span id="biz-count">a growing number of</span> local mobile businesses — Sacramento first, growing city by city.</p>' +
+      '<div class="steps">' +
+        '<div class="step"><div class="n">01</div><h3>THE CHECK MEANS VERIFIED</h3><p>A business earns the blue check only when its owner proves the listing is theirs, using a text code sent to the phone number on the profile. No code, no check.</p></div>' +
+        '<div class="step"><div class="n">02</div><h3>YOUR INFO STAYS YOURS</h3><p>Your request goes to the one business you picked — never sold, never blasted to five pros at once. A business that has not claimed its profile cannot see your contact details.</p></div>' +
+        '<div class="step"><div class="n">03</div><h3>HOW WE MAKE MONEY</h3><p>Listing, requests, and responses are free, and customers never pay us anything. Later, businesses will be able to choose an optional flat subscription for extra tools — never a commission, never a per-lead fee.</p></div>' +
+      '</div>' +
+    '</div></section>' +
+
     '<section><div class="wrap"><div class="cta-band">' +
       '<div><p class="eyebrow">For businesses that go the extra mile.</p>' +
       '<h2>Help nearby customers find you.</h2>' +
-      '<ul><li>A clear business profile.</li><li>One simple inbox for requests.</li></ul></div>' +
+      '<ul><li>Free to list, free to get requests, free to respond.</li><li>No commission — you keep 100% of every job.</li><li>Elsewhere, pros pay $20–$60 just to contact one customer. Here it is $0.</li><li>Sacramento founding businesses: claim your profile before your competitors do.</li></ul></div>' +
       '<div class="cta-actions"><a class="btn btn-primary" href="#/join">Join the squad ↗</a>' +
       '<a class="btn btn-outline" href="#/workspace" style="border-color:#3A4C61;color:#fff;background:transparent">Try the business account →</a></div>' +
     '</div></div></section>' +
@@ -266,7 +286,15 @@
       '<p class="eyebrow center">Before you request a service</p>' +
       '<h2 class="center">Questions, answered</h2>' +
       faqHTML() +
-    '</div></section>';
+    '</div></section>' +
+
+    '<section><div class="wrap"><div class="cta-band">' +
+      '<div><p class="eyebrow">Ready when you are.</p>' +
+      '<h2>Your next pro is already nearby.</h2>' +
+      '<p>Tell us what you need — a local business that comes to you will take it from there.</p></div>' +
+      '<div class="cta-actions"><a class="btn btn-primary" href="#/browse">Find a service ↗</a>' +
+      '<a class="btn btn-outline" href="#/join" style="border-color:#3A4C61;color:#fff;background:transparent">List your business — free</a></div>' +
+    '</div></div></section>';
   }
 
   async function afterHome() {
@@ -294,17 +322,10 @@
     });
     bindFaq();
     try {
-      var all = await window.VS.store.listBusinesses();
-      var pick = ['seed-shine', 'seed-happy-paws', 'seed-fresh-nest'].map(function (id) {
-        for (var i = 0; i < all.length; i++) if (all[i].id === id) return all[i];
-        return null;
-      }).filter(Boolean);
-      var wrap = document.getElementById('home-cards');
-      if (wrap) wrap.innerHTML = pick.map(function (b) { return bizCard(b, { zip: '95814' }); }).join('');
-    } catch (e) {
-      var w = document.getElementById('home-cards');
-      if (w) w.innerHTML = '<div class="empty">Could not load listings.</div>';
-    }
+      var allBiz = await window.VS.store.listBusinesses();
+      var countEl = document.getElementById('biz-count');
+      if (countEl && allBiz && allBiz.length) countEl.textContent = allBiz.length;
+    } catch (e) { /* count is decorative — the fallback copy stands */ }
   }
 
   function bindFaq() {
@@ -604,14 +625,14 @@
       '<div class="form-card" id="claim-step1">' +
         '<div class="field"><label>Business phone on file</label><input value="' + h(b.phone || '') + '" disabled></div>' +
         '<button class="btn btn-primary" id="claim-send" type="button">Text me the code →</button>' +
-        '<p class="small" id="claim-err1" style="display:none;color:#b3261e"></p>' +
+        '<p class="small" id="claim-err1" style="display:none;color:#B3400A"></p>' +
         '<p class="small muted">Number out of date? <a href="mailto:vansquadservices@gmail.com?subject=' + encodeURIComponent('Claim help: ' + b.name) + '">Contact us</a> and we\u2019ll sort it out.</p>' +
       '</div>' +
       '<div class="form-card" id="claim-step2" style="display:none">' +
         '<div class="field"><label>Enter the 6-digit code</label><input id="claim-code" inputmode="numeric" maxlength="6" placeholder="••••••" autocomplete="one-time-code"></div>' +
         '<button class="btn btn-primary" id="claim-verifybtn" type="button">Verify &amp; claim →</button>' +
         '<p class="small"><button class="link-btn" id="claim-resend" type="button">Resend code</button></p>' +
-        '<p class="small" id="claim-err2" style="display:none;color:#b3261e"></p>' +
+        '<p class="small" id="claim-err2" style="display:none;color:#B3400A"></p>' +
       '</div>' +
       '<div class="form-card" id="claim-done" style="display:none;text-align:center">' +
         '<div style="font-size:44px">✓</div>' +
@@ -854,7 +875,7 @@
           '<input id="cta-zip" inputmode="numeric" maxlength="5" placeholder="Your ZIP code" aria-label="Your ZIP code">' +
           '<button class="btn btn-primary" type="submit">Find services →</button>' +
         '</form>' +
-        '<p class="fine" id="cta-zip-err" style="display:none;color:#B3261E">Enter a valid 5-digit ZIP code.</p>' +
+        '<p class="fine" id="cta-zip-err" style="display:none;color:#B3400A">Enter a valid 5-digit ZIP code.</p>' +
         '<p class="fine"><a href="#/login">Create a free account</a> to send requests and track appointments.</p>' +
       '</div>' +
       '<div class="cta-card">' +
@@ -939,7 +960,7 @@
   function viewGate(next) {
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
-      '<img class="gate-logo" src="/img/logo.png?v=20261014c" alt="Van Squads">' +
+      '<img class="gate-logo" src="/img/logo.png?v=20261014d" alt="Van Squads">' +
       '<h1>Sign in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +
