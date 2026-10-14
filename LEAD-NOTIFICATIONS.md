@@ -1,6 +1,10 @@
 # Van Squads — Lead Notification Rules & Automation Plan
 
-Set by Amam, 2026-10-14. Status: awaiting his final go to build.
+Set by Amam, 2026-10-14. Status: BUILT and self-tested 2026-10-14.
+Email alerts (Flow B) are LIVE and proven end-to-end. SMS (Flow A) is
+built and wired, but live sending is blocked by the Twilio trial
+account (see "Known blocker" below) — it goes live the moment the
+account is upgraded, with no code changes.
 
 ## Hard rules (directory quality — no exceptions)
 
@@ -63,11 +67,15 @@ quality gates; as of today they are permanent platform law.)
 - Log every notification (business, request, channel, time) so caps and
   reminders can be enforced and audited.
 
-## Known blocker before live texting
-- The Twilio account is on a **trial** ($15 credit). Trial accounts can
-  only text verified numbers, so Flow A cannot text arbitrary
-  businesses until the account is upgraded (paid; needs Amam's explicit
-  approval, plus carrier A2P registration). The build can be completed
-  and tested against our own numbers first; go-live waits on that
-  decision.
-- Email (Flow B) has no such blocker once the Resend domain is verified.
+## Known blocker before live texting (diagnosed 2026-10-14)
+- The Twilio account is on a **trial** ($15 credit). Two faults were
+  found by end-to-end testing: (1) the account had NO sender phone
+  number (it was set up for Verify codes only) — FIXED in code: the
+  function now provisions a 916 Sacramento number automatically
+  (~$1.15/mo from trial credit; releasable in the console).
+  (2) HARD WALL: trial accounts may only send **predefined template
+  texts** (Twilio error 572006). Our lead alert (custom text + claim
+  link) cannot be sent from a trial account at all. The account must
+  be upgraded (payment method + ~$20 top-up, Amam's action) and then
+  A2P-registered; after that Flow A works with zero code changes.
+- Email (Flow B) had no blocker and is proven live.
