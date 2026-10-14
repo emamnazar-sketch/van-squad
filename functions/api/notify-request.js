@@ -47,14 +47,37 @@ function twilioAuth(env) {
 let cachedFromNumber = null;
 async function twilioFromNumber(env) {
   if (cachedFromNumber) return cachedFromNumber;
-  const res = await fetch('https://api.twilio.com/2010-04-01/Accounts/' + env.TWILIO_ACCOUNT_SID + '/IncomingPhoneNumbers.json?PageSize=1', {
+  const acct = 'https://api.twilio.com/2010-04-01/Accounts/' + env.TWILIO_ACCOUNT_SID;
+  const res = await fetch(acct + '/IncomingPhoneNumbers.json?PageSize=1', {
     headers: { Authorization: twilioAuth(env) }
   });
   if (!res.ok) throw new Error('twilio-numbers-' + res.status);
   const j = await res.json();
   const nums = (j && j.incoming_phone_numbers) || [];
-  if (!nums.length || !nums[0].phone_number) throw new Error('twilio-no-number');
-  cachedFromNumber = nums[0].phone_number;
+  if (nums.length && nums[0].phone_number) {
+    cachedFromNumber = nums[0].phone_number;
+    return cachedFromNumber;
+  }
+  /* No sender number exists (the account was set up for Verify codes
+     only). Provision one Sacramento (916) number from the account's
+     trial credit so lead alerts can be sent. Releasable in the Twilio
+     console at any time. */
+  const avail = await fetch(acct + '/AvailablePhoneNumbers/US/Local.json?AreaCode=916&SmsEnabled=true&PageSize=1', {
+    headers: { Authorization: twilioAuth(env) }
+  });
+  if (!avail.ok) throw new Error('twilio-avail-' + avail.status);
+  const aj = await avail.json();
+  const cand = (aj && aj.available_phone_numbers) || [];
+  if (!cand.length || !cand[0].phone_number) throw new Error('twilio-no-number-available');
+  const buy = await fetch(acct + '/IncomingPhoneNumbers.json', {
+    method: 'POST',
+    headers: { Authorization: twilioAuth(env), 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({ PhoneNumber: cand[0].phone_number }).toString()
+  });
+  if (!buy.ok) { const bj = await buy.json().catch(() => null); const err = new Error('twilio-buy-failed'); err.detail = bj; throw err; }
+  const bought = await buy.json();
+  cachedFromNumber = bought.phone_number;
+  console.log('notify: provisioned Twilio sender number', cachedFromNumber);
   return cachedFromNumber;
 }
 
