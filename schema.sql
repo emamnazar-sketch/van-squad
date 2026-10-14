@@ -107,6 +107,29 @@ alter table public.listings   enable row level security;
 alter table public.requests   enable row level security;
 alter table public.reviews    enable row level security;
 
+-- Indexes for the queries the site and the future app actually run.
+-- (Also in supabase/migration-visibility-and-indexes.sql for live DBs.)
+create index if not exists businesses_service_zips_gin
+  on public.businesses using gin (service_zips);
+create index if not exists businesses_status_idx
+  on public.businesses (status);
+create index if not exists businesses_category_idx
+  on public.businesses (category);
+create index if not exists businesses_owner_id_idx
+  on public.businesses (owner_id);
+create index if not exists listings_business_id_idx
+  on public.listings (business_id);
+create index if not exists listings_status_idx
+  on public.listings (status);
+create index if not exists requests_customer_id_idx
+  on public.requests (customer_id);
+create index if not exists requests_business_id_idx
+  on public.requests (business_id);
+create index if not exists reviews_business_id_idx
+  on public.reviews (business_id);
+create index if not exists reviews_listing_id_idx
+  on public.reviews (listing_id);
+
 -- Helper: ids of businesses owned by the current user
 create or replace function public.own_business_ids()
 returns setof uuid
