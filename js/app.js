@@ -939,7 +939,7 @@
   function viewGate(next) {
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
-      '<span class="logo"><svg viewBox="0 0 64 64" width="52" height="52"><rect width="64" height="64" rx="14" fill="#FF6A2B"/><circle cx="32" cy="18" r="7" fill="#fff"/><path d="M18 30 L32 50 L46 30" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>' +
+      '<img class="gate-logo" src="/img/logo.png?v=20261014b" alt="Van Squads">' +
       '<h1>Sign in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +

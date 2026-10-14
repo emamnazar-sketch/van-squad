@@ -1,0 +1,250 @@
+{
+ "businesses": [
+  {
+   "id": "e7d36996-6c92-4ce7-9463-bf223136b4e8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bark & Mane of Elk Grove and Rancho Cordova",
+   "category": "Mobile pet grooming",
+   "phone": "(916) 252-3583",
+   "website": "https://www.barkandmane.com/pet-groomers/elk-grove-rancho-cordova-ca/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95624",
+    "95757"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f289bb9f-1c92-4b06-a2ca-b45440ade061",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "K9 Cosmetology",
+   "category": "Mobile pet grooming",
+   "phone": "(916) 530-9993",
+   "website": "https://www.k9cosmetology.biz/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "15908b79-a5a9-4d2d-ae38-6c91acc54b6c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elk Grove Mobile Dog Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(916) 897-1081",
+   "website": "https://www.elkgrovedoggrooming.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95624",
+    "95757"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "96a9bfdb-25ba-4f74-b172-0ab574ebc384",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sacramento Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(916) 866-8995",
+   "website": "https://www.sacramentomobilepetgrooming.com/elk-grove",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "47dea715-a225-4902-a7f0-738176f209a8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Art Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(209) 554-6445",
+   "website": "https://www.artpetgrooming.com/locations/elk-grove/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95624",
+    "95757"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1da05fd6-20b9-4e4a-858a-a5a995026b4d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Alpha Grooming Pet Salon",
+   "category": "Mobile pet grooming",
+   "phone": "(650) 271-4282",
+   "website": "https://www.alphagroomingpetsalon.com/ca/elk-grove/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95624",
+    "95757"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a4c99d01-2e3c-4293-b4d5-64f16991297f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pride Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(916) 912-7255",
+   "website": "https://pridemobilepetgrooming.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c0e11d48-c99a-41c5-a3d6-6b69086a9531",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All About Fur Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(916) 452-0800",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95758",
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "a92f295a-153f-4335-bc30-9c4fdb5e7698",
+   "business_id": "e7d36996-6c92-4ce7-9463-bf223136b4e8",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8d3f5d23-e064-4790-a83a-b0e8e0f74d83",
+   "business_id": "f289bb9f-1c92-4b06-a2ca-b45440ade061",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8ae13b53-e5a7-4d26-92af-d72871a211f1",
+   "business_id": "15908b79-a5a9-4d2d-ae38-6c91acc54b6c",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2c72e651-8879-4bd2-b6a2-67e8d1e79a01",
+   "business_id": "96a9bfdb-25ba-4f74-b172-0ab574ebc384",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "eb98c3eb-7f44-406b-a154-3b69e2506706",
+   "business_id": "47dea715-a225-4902-a7f0-738176f209a8",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4bb5c39e-f66a-4fc0-ac24-cf7ea2ccb106",
+   "business_id": "1da05fd6-20b9-4e4a-858a-a5a995026b4d",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "37e7027a-7b8c-4644-b32d-01ec166e2f0f",
+   "business_id": "a4c99d01-2e3c-4293-b4d5-64f16991297f",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c90ad0c7-1dbb-4f29-b793-aa463bb1cce8",
+   "business_id": "c0e11d48-c99a-41c5-a3d6-6b69086a9531",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

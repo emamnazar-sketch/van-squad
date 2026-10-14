@@ -1,0 +1,727 @@
+{
+ "businesses": [
+  {
+   "id": "5e4d90c0-1a2b-4c3d-8e4f-9a0b1c2d3e41",
+   "name": "Faith Build Handyman",
+   "category": "Handyman",
+   "phone": "(916) 505-2481",
+   "website": "https://faithbuildhandyman.com/contact-us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6f5e81d1-2b3c-4d4e-9f5a-1b2c3d4e5f62",
+   "name": "Mr. Handyman serving Arden Arcade",
+   "category": "Handyman",
+   "phone": "(916) 571-0814",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7a6f92e2-3c4d-4e5f-1a6b-2c3d4e5f6a73",
+   "name": "Sam Russo Handyman",
+   "category": "Handyman",
+   "phone": "(916) 850-0286",
+   "website": "https://samrussohandyman.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8b7a13f3-4d5e-4f6a-2b7c-3d4e5f6a7b84",
+   "name": "Extreme Handyman Services",
+   "category": "Handyman",
+   "phone": "(916) 800-0203",
+   "website": "https://theextremehandyman.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9c8b24a4-5e6f-4a7b-3c8d-4e5f6a7b8c95",
+   "name": "Certified Handyman Service",
+   "category": "Handyman",
+   "phone": "(916) 826-0550",
+   "website": "https://certifiedhandymanservice.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ad9c35b5-6f7a-4b8c-4d9e-5f6a7b8c9da6",
+   "name": "The Right Way Home Services",
+   "category": "Handyman",
+   "phone": "(916) 330-7258",
+   "website": "https://therightwayhomeservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "be1d46c6-7a8b-4c9d-5e1f-6a7b8c9d1eb7",
+   "name": "First Class Finishes",
+   "category": "Handyman",
+   "phone": "(916) 257-4836",
+   "website": "http://www.rosevillehandymanservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95678",
+    "95661",
+    "95747"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cf2e57d7-8b9c-4d1e-6f2a-7b8c9d1e2fc8",
+   "name": "Roseville Home Services",
+   "category": "Handyman",
+   "phone": "(916) 500-4232",
+   "website": "https://rosevillehs.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95678",
+    "95661",
+    "95747"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "da3f68e8-9c1d-4e2f-7a3b-8c9d1e2f3ad9",
+   "name": "Honest Lee Handyman Services",
+   "category": "Handyman",
+   "phone": "(916) 542-1006",
+   "website": "https://honestleehandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95678",
+    "95661",
+    "95747"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "eb4a79f9-1d2e-4f3a-8b4c-9d1e2f3a4be1",
+   "name": "Ace Handyman Services Roseville Rocklin",
+   "category": "Handyman",
+   "phone": "(916) 633-2140",
+   "website": "http://www.acehandymanservices.com/offices/roseville-rocklin",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95678",
+    "95661",
+    "95747"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fc5b81a1-2e3f-4a4b-9c5d-1e2f3a4b5cf2",
+   "name": "Cleanerly",
+   "category": "House cleaning",
+   "phone": "(916) 245-0499",
+   "website": "http://www.mycleanerly.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1d6c92b2-3f4a-4b5c-1d6e-2f3a4b5c6da3",
+   "name": "Pro Quality Clean",
+   "category": "House cleaning",
+   "phone": "(530) 886-9667",
+   "website": "https://www.proqualityclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2e7d13c3-4a5b-4c6d-2e7f-3a4b5c6d1eb4",
+   "name": "Service Joy Maids",
+   "category": "House cleaning",
+   "phone": "(916) 476-2327",
+   "website": "https://servicejoymaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3f8e24d4-5b6c-4d7e-3f8a-4b5c6d1e2fc5",
+   "name": "Dany Maid House Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(916) 517-9652",
+   "website": "http://danymaid.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95843"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4a9f35e5-6c7d-4e8f-4a9b-5c6d1e2f3ad6",
+   "name": "Buzy B's Residential & Commercial Cleaning",
+   "category": "House cleaning",
+   "phone": "(916) 362-5753",
+   "website": "https://buzybscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5b1a46f6-7d8e-4f9a-5b1c-6d1e2f3a4be7",
+   "name": "America Maid Clean",
+   "category": "House cleaning",
+   "phone": "(916) 207-0773",
+   "website": "http://americamaidclean.co/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6c2b57a7-8e9f-4a1b-6c2d-7e2f3a4b5cf8",
+   "name": "Wonder Clean",
+   "category": "House cleaning",
+   "phone": "(916) 397-5655",
+   "website": "https://wonderclean-housecleaningservice.business.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7d3c68b8-9f1a-4b2c-7d3e-8f3a4b5c6da9",
+   "name": "Gifted Hands Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(916) 606-4910",
+   "website": "https://giftedhandscleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8e4d79c9-1a2b-4c3d-8e4f-9a1b5c6d1eb1",
+   "name": "Performance Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(916) 955-2197",
+   "website": "https://www.performancemobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9f5e81d1-2b3c-4d4e-9f5a-1b3c6d1e2fc2",
+   "name": "Issiah Mobile Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(916) 707-7455",
+   "website": "https://issiahmobileautodetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1a6f92e2-3c4d-4e5f-1a6b-2c4d7e2f3ad3",
+   "name": "Mobile Detailing Company",
+   "category": "Mobile auto detailing",
+   "phone": "(916) 888-9856",
+   "website": "https://mobiledetailingcompany.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95678",
+    "95661"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2b7a13f3-4d5e-4f6a-2b7c-3d5e8f3a4be4",
+   "name": "Hunters Mobile Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(916) 943-7766",
+   "website": "https://www.huntersdetailing.com/elkgrove",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3c8b24a4-5e6f-4a7b-3c8d-4e6f9a4b5cf5",
+   "name": "Vivid Auto Details",
+   "category": "Mobile auto detailing",
+   "phone": "(916) 583-8532",
+   "website": "http://vividautodetails.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4d9c35b5-6f7a-4b8c-4d9e-5a1b5c6d1eb6",
+   "name": "Prestige Mobile Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(916) 848-6614",
+   "website": "https://prestigemobilecardetail.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95843",
+    "95678"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5e1d46c6-7a8b-4c9d-5e1f-6b2c7d1e2fc7",
+   "name": "Bella Vita Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(831) 346-2221",
+   "website": "http://www.bellavitadetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "95814",
+    "95816",
+    "95818"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": true,
+   "phone_verified": true,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "a1b2c3d4-e5f6-4a7b-8c9d-1e2f3a4b5c01",
+   "business_id": "5e4d90c0-1a2b-4c3d-8e4f-9a0b1c2d3e41",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b2c3d4e5-f6a7-4b8c-9d1e-2f3a4b5c6d02",
+   "business_id": "6f5e81d1-2b3c-4d4e-9f5a-1b2c3d4e5f62",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c3d4e5f6-a7b8-4c9d-1e2f-3a4b5c6d7e03",
+   "business_id": "7a6f92e2-3c4d-4e5f-1a6b-2c3d4e5f6a73",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d4e5f6a7-b8c9-4d1e-2f3a-4b5c6d7e8f04",
+   "business_id": "8b7a13f3-4d5e-4f6a-2b7c-3d4e5f6a7b84",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e5f6a7b8-c9d1-4e2f-3a4b-5c6d7e8f9a05",
+   "business_id": "9c8b24a4-5e6f-4a7b-3c8d-4e5f6a7b8c95",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f6a7b8c9-d1e2-4f3a-4b5c-6d7e8f9a1b06",
+   "business_id": "ad9c35b5-6f7a-4b8c-4d9e-5f6a7b8c9da6",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a7b8c9d1-e2f3-4a4b-5c6d-7e8f9a1b2c07",
+   "business_id": "be1d46c6-7a8b-4c9d-5e1f-6a7b8c9d1eb7",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b8c9d1e2-f3a4-4b5c-6d7e-8f9a1b2c3d08",
+   "business_id": "cf2e57d7-8b9c-4d1e-6f2a-7b8c9d1e2fc8",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c9d1e2f3-a4b5-4c6d-7e8f-9a1b2c3d4e09",
+   "business_id": "da3f68e8-9c1d-4e2f-7a3b-8c9d1e2f3ad9",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d1e2f3a4-b5c6-4d7e-8f9a-1b2c3d4e5f10",
+   "business_id": "eb4a79f9-1d2e-4f3a-8b4c-9d1e2f3a4be1",
+   "title": "Handyman repairs and installs at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e2f3a4b5-c6d7-4e8f-9a1b-2c3d4e5f6a11",
+   "business_id": "fc5b81a1-2e3f-4a4b-9c5d-1e2f3a4b5cf2",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f3a4b5c6-d7e8-4f9a-1b2c-3d4e5f6a7b12",
+   "business_id": "1d6c92b2-3f4a-4b5c-1d6e-2f3a4b5c6da3",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a4b5c6d7-e8f9-4a1b-2c3d-4e5f6a7b8c13",
+   "business_id": "2e7d13c3-4a5b-4c6d-2e7f-3a4b5c6d1eb4",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b5c6d7e8-f9a1-4b2c-3d4e-5f6a7b8c9d14",
+   "business_id": "3f8e24d4-5b6c-4d7e-3f8a-4b5c6d1e2fc5",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c6d7e8f9-a1b2-4c3d-4e5f-6a7b8c9d1e15",
+   "business_id": "4a9f35e5-6c7d-4e8f-4a9b-5c6d1e2f3ad6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d7e8f9a1-b2c3-4d4e-5f6a-7b8c9d1e2f16",
+   "business_id": "5b1a46f6-7d8e-4f9a-5b1c-6d1e2f3a4be7",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e8f9a1b2-c3d4-4e5f-6a7b-8c9d1e2f3a17",
+   "business_id": "6c2b57a7-8e9f-4a1b-6c2d-7e2f3a4b5cf8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f9a1b2c3-d4e5-4f6a-7b8c-9d1e2f3a4b18",
+   "business_id": "7d3c68b8-9f1a-4b2c-7d3e-8f3a4b5c6da9",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a1b2c3d4-e5f6-4a7b-8c9d-2e3f4a5b6c19",
+   "business_id": "8e4d79c9-1a2b-4c3d-8e4f-9a1b5c6d1eb1",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b2c3d4e5-f6a7-4b8c-9d1e-3f4a5b6c7d20",
+   "business_id": "9f5e81d1-2b3c-4d4e-9f5a-1b3c6d1e2fc2",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c3d4e5f6-a7b8-4c9d-1e2f-4a5b6c7d8e21",
+   "business_id": "1a6f92e2-3c4d-4e5f-1a6b-2c4d7e2f3ad3",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d4e5f6a7-b8c9-4d1e-2f3a-5b6c7d8e9f22",
+   "business_id": "2b7a13f3-4d5e-4f6a-2b7c-3d5e8f3a4be4",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e5f6a7b8-c9d1-4e2f-3a4b-6c7d8e9f1a23",
+   "business_id": "3c8b24a4-5e6f-4a7b-3c8d-4e6f9a4b5cf5",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f6a7b8c9-d1e2-4f3a-4b5c-7d8e9f1a2b24",
+   "business_id": "4d9c35b5-6f7a-4b8c-4d9e-5a1b5c6d1eb6",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a7b8c9d1-e2f3-4a4b-5c6d-8e9f1a2b3c25",
+   "business_id": "5e1d46c6-7a8b-4c9d-5e1f-6b2c7d1e2fc7",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
