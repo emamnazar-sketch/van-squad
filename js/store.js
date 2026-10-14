@@ -550,7 +550,23 @@
         photo_urls: urls, status: 'pending'
       }).select().single();
       if (res.error) throw res.error;
+      this.notifyRequest(res.data && res.data.id);
       return res.data;
+    },
+    /* Fire-and-forget: ask the server to notify the business about the new
+       request (Twilio SMS for unclaimed profiles, email for claimed ones).
+       Never blocks or breaks the booking flow — all failures are swallowed. */
+    async notifyRequest(requestId) {
+      try {
+        if (!requestId) return;
+        var t = await this._token();
+        if (!t) return;
+        await fetch('/api/notify-request', {
+          method: 'POST',
+          headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
+          body: JSON.stringify({ request_id: requestId })
+        });
+      } catch (e) { /* notification is best-effort */ }
     },
     async myRequests() {
       var sb = await this._sb();
