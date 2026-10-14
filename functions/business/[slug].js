@@ -1,0 +1,183 @@
+/* Van Squads — real, indexable business profile pages.
+   Serves /business/<slug> as server-rendered HTML built from Supabase data,
+   so Google can index every business individually. The app itself is
+   untouched; the "Request a quote" button hands off to the app flow. */
+
+var ZIP_NAMES = {
+  '95814': 'Downtown Sacramento', '95816': 'Midtown Sacramento', '95818': 'Land Park',
+  '95843': 'Antelope', '95678': 'Roseville', '95661': 'East Roseville', '95747': 'West Roseville',
+  '95677': 'Rocklin', '95765': 'Rocklin', '95648': 'Lincoln', '95691': 'West Sacramento',
+  '95605': 'West Sacramento', '95821': 'Arden-Arcade', '95825': 'Arden-Arcade',
+  '95610': 'Citrus Heights', '95621': 'Citrus Heights', '95670': 'Rancho Cordova',
+  '95742': 'Rancho Cordova', '95630': 'Folsom', '95762': 'Folsom', '95624': 'Elk Grove',
+  '95757': 'Elk Grove', '95758': 'Elk Grove', '95662': 'Orangevale'
+};
+
+function slugify(name) {
+  return String(name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+function sbHeaders(env) {
+  return { apikey: env.SUPABASE_ANON_KEY, Authorization: 'Bearer ' + env.SUPABASE_ANON_KEY };
+}
+async function fetchActiveBusinesses(env) {
+  var url = env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active' +
+    '&select=id,name,category,description,phone,website,service_zips,verified,created_at&order=created_at.asc&limit=1000';
+  var res = await fetch(url, { headers: sbHeaders(env) });
+  if (!res.ok) return null;
+  return res.json();
+}
+function buildSlugMap(rows) {
+  var map = new Map();
+  rows.forEach(function (b) {
+    var s = slugify(b.name) || b.id;
+    if (map.has(s)) s = s + '-' + String(b.id).slice(0, 6);
+    b._slug = s;
+    map.set(s, b);
+  });
+  return map;
+}
+function areasOf(b) {
+  var seen = {}, out = [];
+  (b.service_zips || []).forEach(function (z) {
+    var label = ZIP_NAMES[z] || ('ZIP ' + z);
+    if (!seen[label]) { seen[label] = 1; out.push(label); }
+  });
+  return out;
+}
+function pageShell(title, metaDesc, canonical, body, jsonLd) {
+  return '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' +
+    '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
+    '<title>' + esc(title) + '</title>\n' +
+    '<meta name="description" content="' + esc(metaDesc) + '">\n' +
+    '<link rel="canonical" href="' + esc(canonical) + '">\n' +
+    '<meta property="og:title" content="' + esc(title) + '">\n' +
+    '<meta property="og:description" content="' + esc(metaDesc) + '">\n' +
+    '<meta property="og:url" content="' + esc(canonical) + '">\n' +
+    '<meta property="og:type" content="website">\n' +
+    '<meta property="og:image" content="https://vansquads.com/img/logo.png">\n' +
+    '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261014d">\n' +
+    (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
+    '<style>' +
+    '.prof-head{padding:34px 0 6px}.prof-cat{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
+    '.prof-head h1{margin:6px 0 4px;font-size:34px}.prof-desc{font-size:17px;color:var(--ink);max-width:720px}' +
+    '.prof-sec{margin:30px 0}.prof-sec h2{font-size:21px;margin:0 0 12px}' +
+    '.svc-row{display:flex;justify-content:space-between;gap:14px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:10px;box-shadow:var(--shadow)}' +
+    '.svc-row .p{font-weight:800;color:var(--navy);white-space:nowrap}' +
+    '.area-chips{display:flex;flex-wrap:wrap;gap:8px}.area-chips span{background:var(--band);border-radius:999px;padding:6px 13px;font-size:13.5px;font-weight:600}' +
+    '.prof-cta{background:var(--navy);color:#fff;border-radius:20px;padding:30px 28px;margin:34px 0;display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}' +
+    '.prof-cta h2{color:#fff;margin:0 0 6px;font-size:24px}.prof-cta p{color:#C6D2DE;margin:0}' +
+    '.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.rel-grid a{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;box-shadow:var(--shadow);font-weight:700}' +
+    '.rel-grid a span{display:block;color:var(--muted);font-weight:600;font-size:13px;margin-top:3px}' +
+    '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}}' +
+    '</style>\n</head>\n<body>\n' +
+    '<header class="site-header"><div class="wrap header-inner">' +
+    '<a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png" alt="Van Squads"></a>' +
+    '<nav class="main-nav" aria-label="Main"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
+    '</div></header>\n<main class="wrap">' + body + '</main>\n' +
+    '<footer class="site-footer"><div class="wrap footer-inner"><div class="footer-brand">' +
+    '<img class="footer-logo-img" src="/img/logo-icon.png" alt="" aria-hidden="true">' +
+    '<div><strong>Van Squads</strong><p>Local services. At your door.</p></div></div>' +
+    '<nav class="footer-nav" aria-label="Footer"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
+    '</div></footer>\n</body>\n</html>';
+}
+
+export async function onRequest({ request, env, params }) {
+  var url = new URL(request.url);
+  if (url.pathname.length > 1 && url.pathname.endsWith('/')) {
+    return Response.redirect(url.origin + url.pathname.replace(/\/+$/, ''), 301);
+  }
+  var slug = String(params.slug || '');
+  var rows = await fetchActiveBusinesses(env);
+  if (!rows) {
+    return new Response(pageShell('Van Squads', 'Local services. At your door.', 'https://vansquads.com/',
+      '<div class="empty" style="margin:60px 0"><h3>Something went wrong loading this page.</h3><a class="btn btn-primary" href="/">Go to Van Squads</a></div>'),
+      { status: 502, headers: { 'Content-Type': 'text/html; charset=utf-8' } });
+  }
+  var map = buildSlugMap(rows);
+  // Old app-style links carry the raw id — upgrade them to the pretty address.
+  if (/^[0-9a-f-]{36}$/i.test(slug)) {
+    var byId = rows.find(function (r) { return r.id === slug; });
+    if (byId) return Response.redirect('https://vansquads.com/business/' + byId._slug, 301);
+  }
+  var b = map.get(slug);
+  if (!b) {
+    return new Response(pageShell('Business not found | Van Squads', 'This business is not listed on Van Squads.',
+      'https://vansquads.com/business/' + slug,
+      '<div class="empty" style="margin:60px 0"><h3>We could not find that business.</h3><p>It may have been removed, or the address is wrong.</p><a class="btn btn-primary" href="/#/browse">Explore services instead</a></div>'),
+      { status: 404, headers: { 'Content-Type': 'text/html; charset=utf-8', 'X-Robots-Tag': 'noindex' } });
+  }
+
+  var listings = [];
+  try {
+    var lres = await fetch(env.SUPABASE_URL + '/rest/v1/listings?business_id=eq.' + b.id +
+      '&status=eq.active&select=title,description,price,price_type&order=created_at.asc&limit=20',
+      { headers: sbHeaders(env) });
+    if (lres.ok) listings = await lres.json();
+  } catch (e) { /* listings are an enhancement, not a requirement */ }
+
+  var areas = areasOf(b);
+  var primary = areas[0] || '';
+  var canonical = 'https://vansquads.com/business/' + b._slug;
+  var appLink = 'https://vansquads.com/#/business/' + b.id;
+  var title = b.name + ' — ' + b.category + (primary ? ' in ' + primary : '') + ' | Van Squads';
+  var desc = (b.description || '').replace(/\s+/g, ' ').trim();
+  var metaDesc = desc ? desc.slice(0, 158) :
+    (b.name + ' offers mobile ' + String(b.category || 'services').toLowerCase() + ' that comes to you' +
+     (primary ? ' in ' + primary : '') + '. Request a free quote on Van Squads — no middleman fees.');
+
+  var ld = {
+    '@context': 'https://schema.org',
+    '@type': 'LocalBusiness',
+    name: b.name,
+    description: desc || metaDesc,
+    url: canonical,
+    telephone: b.phone || undefined,
+    areaServed: areas.length ? areas : undefined,
+    sameAs: b.website || undefined
+  };
+  var jsonLd = JSON.stringify(ld).replace(/</g, '\\u003c');
+
+  var check = b.verified ? ' <span class="verified-check big" title="Verified business">✓</span>' : '';
+  var claimLine = b.verified ? '' :
+    '<p class="claim-line">Is this your business? <a href="' + esc(appLink) + '">Claim it →</a></p>';
+
+  var svcRows = listings.map(function (l) {
+    var price = (l.price_type === 'quote' || l.price == null) ? 'Quote on request' : ('$' + l.price);
+    return '<div class="svc-row"><div><strong>' + esc(l.title) + '</strong>' +
+      (l.description ? '<div class="muted" style="font-size:14px;margin-top:2px">' + esc(l.description) + '</div>' : '') +
+      '</div><div class="p">' + esc(price) + '</div></div>';
+  }).join('');
+
+  var related = rows.filter(function (r) { return r.id !== b.id && r.category === b.category; }).slice(0, 3);
+  var relHtml = related.length ?
+    '<div class="prof-sec"><h2>More ' + esc(b.category) + ' businesses</h2><div class="rel-grid">' +
+    related.map(function (r) {
+      return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
+    }).join('') + '</div></div>' : '';
+
+  var body =
+    '<div class="prof-head"><a class="back" href="/#/browse">← Explore services</a>' +
+    '<p class="prof-cat" style="margin-top:16px">' + esc(b.category) + (primary ? ' · ' + esc(primary) : '') + '</p>' +
+    '<h1>' + esc(b.name) + check + '</h1>' + claimLine +
+    (desc ? '<p class="prof-desc">' + esc(desc) + '</p>' : '') +
+    (b.phone ? '<p class="muted">Call: ' + esc(b.phone) + '</p>' : '') +
+    (b.website ? '<p><a href="' + esc(b.website) + '" rel="noopener" target="_blank">Visit their website ↗</a></p>' : '') +
+    '</div>' +
+    (svcRows ? '<div class="prof-sec"><h2>Services</h2>' + svcRows + '</div>' : '') +
+    (areas.length ? '<div class="prof-sec"><h2>Areas served</h2><div class="area-chips">' +
+      areas.map(function (a) { return '<span>' + esc(a) + '</span>'; }).join('') + '</div></div>' : '') +
+    '<div class="prof-cta"><div><h2>Request a quote from ' + esc(b.name) + '</h2>' +
+    '<p>Free to request. Your details go only to this business — never sold, never shared with a list of pros.</p></div>' +
+    '<a class="btn btn-primary" href="' + esc(appLink) + '">Request a quote →</a></div>' +
+    relHtml;
+
+  return new Response(pageShell(title, metaDesc, canonical, body, jsonLd), {
+    headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=300, s-maxage=3600' }
+  });
+}
