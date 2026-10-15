@@ -60,6 +60,7 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 .btn-primary:hover{background:var(--orange-dark)}
 .btn-navy{background:var(--navy);color:#fff}
 .btn-navy:hover{background:var(--navy-soft)}
+.cta-row{display:flex;flex-wrap:wrap;gap:16px;margin:24px 0}
 .btn-outline{background:#fff;color:var(--ink);border:2px solid var(--line)}
 .btn-outline:hover{border-color:var(--orange);color:var(--orange)}
 .btn-ghost{background:transparent;color:var(--orange);padding:10px 14px}

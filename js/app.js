@@ -612,7 +612,7 @@
       '</ul>' +
       '<h3>What we are not</h3>' +
       '<p>Van Squads is a directory, not the service provider. We don\u2019t perform the work, process payments, or run background checks — we connect you with local pros and show you what to compare before you book.</p>' +
-      '<p><a class="btn btn-primary" href="#/browse">Explore services →</a> <a class="btn btn-navy" href="#/join">List your business →</a></p>' +
+      '<p class="cta-row"><a class="btn btn-primary" href="#/browse">Explore services →</a><a class="btn btn-navy" href="#/join">List your business →</a></p>' +
     '</div>';
   }
   /* ---------- claim an unclaimed business profile (automated phone verification) ---------- */
