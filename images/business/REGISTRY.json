@@ -14,8 +14,9 @@
  "a1a1a1a1-a1a1-4a1a-8a1a-a1a1a1a1a1a1": {
   "business": "AFG Handyman Service",
   "image": "images/business/afg-handyman-service.jpg",
-  "scene": "Mounting a large TV on a bright living-room wall, level and drill in hand",
-  "created": "2026-10-15"
+  "scene": "Handyman kneeling on wooden stairs securing a handrail wall bracket with a cordless drill, toolbox on the step below, bright entryway",
+  "created": "2026-10-15",
+  "regenerated": "2026-10-15 after QA reject: TV already mounted while drilling a second empty bracket"
  },
  "605f64eb-9f6f-4c38-ae21-d351a6db53b7": {
   "business": "Brian's Handyman Service",
@@ -248,8 +249,9 @@
  "9f5e81d1-2b3c-4d4e-9f5a-1b3c6d1e2fc2": {
   "business": "Issiah Mobile Auto Detailing",
   "image": "images/business/issiah-mobile-auto-detailing.jpg",
-  "scene": "Vacuuming and steam-cleaning car seats, interior half transformed",
-  "created": "2026-10-15"
+  "scene": "Detailer hand-washing a blue SUV with a foam wash mitt in a sunny driveway, suds bucket at his feet, unbranded van behind",
+  "created": "2026-10-15",
+  "regenerated": "2026-10-15 after QA reject: two mismatched car interiors fused into one car (split before/after)"
  },
  "970059d0-c3c1-436d-9157-51a81b94cedf": {
   "business": "K Crown Mobile Car Detailing",
@@ -320,8 +322,9 @@
  "47dea715-a225-4902-a7f0-738176f209a8": {
   "business": "Art Pet Grooming",
   "image": "images/business/art-pet-grooming.jpg",
-  "scene": "Brushing out a golden retriever beside the van in a sunny driveway",
-  "created": "2026-10-15"
+  "scene": "Groomer giving a golden retriever a calm final brush-out on a grooming table beside the open grooming van, sunny driveway",
+  "created": "2026-10-15",
+  "regenerated": "2026-10-15 after QA reject: implausible storm of loose fur filling the whole sky"
  },
  "e7d36996-6c92-4ce7-9463-bf223136b4e8": {
   "business": "Bark & Mane of Elk Grove and Rancho Cordova",
@@ -356,8 +359,9 @@
  "48b07b93-2a5a-4653-a54b-1ec18657cd75": {
   "business": "AAA Pool Services",
   "image": "images/business/aaa-pool-services.jpg",
-  "scene": "Skimming a sparkling backyard pool with a long net, palms behind",
-  "created": "2026-10-15"
+  "scene": "Pool technician crouched at the pool edge emptying a skimmer basket into a plain bucket beside the open deck skimmer hatch, desert backyard",
+  "created": "2026-10-15",
+  "regenerated": "2026-10-15 after QA rejects: v1 brand stamp on glove; v2 barefoot worker; v3 accepted"
  },
  "27ba6a7a-7df2-45cb-b695-483d88b9391d": {
   "business": "AZ Mobile Pool Service",

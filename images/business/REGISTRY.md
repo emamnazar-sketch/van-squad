@@ -7,7 +7,7 @@ A file listed here belongs to its business forever. Check REGISTRY.json before c
 |---|---|---|
 | Brothers Mobile Bike Shop | images/business/brothers-mobile-bike-shop.jpg | Repairing an e-bike on a stand in a driveway, unbranded van open behind, tools laid out |
 | Ace Handyman Services Roseville Rocklin | images/business/ace-handyman-services-roseville-rocklin.jpg | Repairing a front door on a suburban porch, toolbox open, morning sun |
-| AFG Handyman Service | images/business/afg-handyman-service.jpg | Mounting a large TV on a bright living-room wall, level and drill in hand |
+| AFG Handyman Service | images/business/afg-handyman-service.jpg | Handyman kneeling on wooden stairs securing a handrail wall bracket with a cordless drill, toolbox on the step below, bright entryway (regenerated 2026-10-15 after QA reject) |
 | Brian's Handyman Service | images/business/brian-s-handyman-service.jpg | Fixing a kitchen faucet in a stucco home, tools laid out on a towel |
 | Catchall Handyman Services | images/business/catchall-handyman-services.jpg | Assembling a wooden bookshelf in a sunlit living room |
 | Certified Handyman Service | images/business/certified-handyman-service.jpg | Patching and smoothing drywall indoors, drop cloth below |
@@ -46,7 +46,7 @@ A file listed here belongs to its business forever. Check REGISTRY.json before c
 | Detail Boys LLC | images/business/detail-boys-llc.jpg | Applying ceramic coating to a sports car in a tidy home garage |
 | Holy Smokes Auto Spa | images/business/holy-smokes-auto-spa.jpg | Mobile wash of a white crossover in a sunny office parking lot |
 | Hunters Mobile Car Detailing | images/business/hunters-mobile-car-detailing.jpg | Scrubbing and dressing wheels and tires in a driveway, close working shot |
-| Issiah Mobile Auto Detailing | images/business/issiah-mobile-auto-detailing.jpg | Vacuuming and steam-cleaning car seats, interior half transformed |
+| Issiah Mobile Auto Detailing | images/business/issiah-mobile-auto-detailing.jpg | Detailer hand-washing a blue SUV with a foam wash mitt in a sunny driveway, suds bucket at his feet, unbranded van behind (regenerated 2026-10-15 after QA reject) |
 | K Crown Mobile Car Detailing | images/business/k-crown-mobile-car-detailing.jpg | Cleaning a convertible with the top down, conditioning leather seats |
 | Luxe Mobile Care | images/business/luxe-mobile-care.jpg | Machine-buffing a car hood at golden hour, long warm shadows |
 | Mobile Detailing Company | images/business/mobile-detailing-company.jpg | Washing and waxing a family minivan in a suburban driveway |
@@ -58,13 +58,13 @@ A file listed here belongs to its business forever. Check REGISTRY.json before c
 | Vivid Auto Details | images/business/vivid-auto-details.jpg | Vacuuming and wiping a hatchback interior at a suburban home |
 | All About Fur Mobile Pet Grooming | images/business/all-about-fur-mobile-pet-grooming.jpg | Bathing a fluffy dog in a mobile grooming van tub |
 | Alpha Grooming Pet Salon | images/business/alpha-grooming-pet-salon.jpg | Trimming a white poodle on a grooming table inside a bright van |
-| Art Pet Grooming | images/business/art-pet-grooming.jpg | Brushing out a golden retriever beside the van in a sunny driveway |
+| Art Pet Grooming | images/business/art-pet-grooming.jpg | Groomer giving a golden retriever a calm final brush-out on a grooming table beside the open grooming van, sunny driveway (regenerated 2026-10-15 after QA reject) |
 | Bark & Mane of Elk Grove and Rancho Cordova | images/business/bark-mane-of-elk-grove-and-rancho-cordova.jpg | Gently washing a small dog in the van's sink tub |
 | Elk Grove Mobile Dog Grooming | images/business/elk-grove-mobile-dog-grooming.jpg | Drying a freshly bathed dog with a fluffy towel beside the van |
 | K9 Cosmetology | images/business/k9-cosmetology.jpg | Nail trim and paw care for a golden retriever on a grooming table in a bright van |
 | Pride Mobile Pet Grooming | images/business/pride-mobile-pet-grooming.jpg | Fluffing the coat of a freshly groomed dog beside the van, plain bandana |
 | Sacramento Mobile Pet Grooming | images/business/sacramento-mobile-pet-grooming.jpg | Brushing one of two calm dogs waiting by the van in a sunny driveway |
-| AAA Pool Services | images/business/aaa-pool-services.jpg | Skimming a sparkling backyard pool with a long net, palms behind |
+| AAA Pool Services | images/business/aaa-pool-services.jpg | Pool technician crouched at the pool edge emptying a skimmer basket into a plain bucket beside the open deck skimmer hatch, desert backyard (regenerated 2026-10-15 after QA rejects) |
 | AZ Mobile Pool Service | images/business/az-mobile-pool-service.jpg | Brushing the pool tile waterline from the deck |
 | Bamboo Pools Service and Repair | images/business/bamboo-pools-service-and-repair.jpg | Testing water chemistry with a handheld kit at the pool's edge |
 | Hydrobright Pools | images/business/hydrobright-pools.jpg | Vacuuming the pool floor, ripples across brilliant blue water |
