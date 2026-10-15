@@ -28,7 +28,12 @@
     '95624': 'Elk Grove',
     '95757': 'Elk Grove',
     '95758': 'Elk Grove',
-    '95662': 'Orangevale'
+    '95662': 'Orangevale',
+    '85032': 'Paradise Valley Village, Phoenix',
+    '85022': 'Moon Valley, Phoenix',
+    '85024': 'Desert Ridge, Phoenix',
+    '85027': 'Deer Valley, Phoenix',
+    '85254': 'North Scottsdale / Phoenix'
   };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
