@@ -29,7 +29,7 @@ img{max-width:100%}
 .main-nav a.active{color:var(--orange)}
 .main-nav .ext{font-size:12px}
 .header-cta{margin-left:auto;display:flex;gap:10px;align-items:center}
-.menu-btn{display:none;background:none;border:1px solid var(--line);border-radius:10px;font-size:20px;padding:4px 10px;cursor:pointer}
+.menu-btn{display:none;background:none;border:2px solid var(--ink);border-radius:12px;font-size:30px;font-weight:700;line-height:1;color:var(--ink);padding:8px 14px;cursor:pointer}
 .mobile-nav{display:none;flex-direction:column;gap:4px;padding:10px 20px 16px;border-top:1px solid var(--line)}
 .mobile-nav a{text-decoration:none;font-weight:600;padding:8px 0}
 .mobile-nav.open{display:flex}
