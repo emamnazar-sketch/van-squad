@@ -94,7 +94,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="https://vansquads.com/img/logo.png">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261014d">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261015b">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.prof-cat{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
