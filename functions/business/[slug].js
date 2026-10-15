@@ -59,7 +59,7 @@ function sbHeaders(env) {
 }
 async function fetchActiveBusinesses(env) {
   var url = env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active' +
-    '&select=id,name,category,description,phone,website,service_zips,verified,created_at&order=created_at.asc&limit=1000';
+    '&select=id,name,category,description,phone,website,service_zips,verified,created_at,logo_url&order=created_at.asc&limit=1000';
   var res = await fetch(url, { headers: sbHeaders(env) });
   if (!res.ok) return null;
   return res.json();
