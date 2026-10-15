@@ -112,12 +112,12 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<header class="site-header"><div class="wrap header-inner">' +
     '<a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png" alt="Van Squads"></a>' +
     '<nav class="main-nav" aria-label="Main"><a href="/#/">Home</a><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/#/about">About</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
-    '</div></header>\n<main class="wrap">' + body + '</main>\n' +
+    '<button class="menu-btn" id="menu-btn" aria-label="Open menu">☰</button></div><div class="mobile-nav" id="mobile-nav"><a href="/#/">Home</a><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/#/about">About</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></div></header>\n<main class="wrap">' + body + '</main>\n' +
     '<footer class="site-footer"><div class="wrap footer-inner"><div class="footer-brand">' +
     '<img class="footer-logo-img" src="/img/logo-icon.png" alt="" aria-hidden="true">' +
     '<div><strong>Van Squads</strong><p>Local services. At your door.</p></div></div>' +
     '<nav class="footer-nav" aria-label="Footer"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a><a href="/#/about">About</a><a href="/#/contact">Contact</a></nav>' +
-    '</div></footer>\n</body>\n</html>';
+    '</div></footer>\n<script>var b=document.getElementById("menu-btn"),n=document.getElementById("mobile-nav");if(b&&n){b.addEventListener("click",function(){var o=n.classList.toggle("open");b.setAttribute("aria-expanded",o);});}</script>\n</body>\n</html>';
 }
 
 export async function onRequest({ request, env, params }) {
