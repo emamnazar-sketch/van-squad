@@ -158,7 +158,7 @@ export async function onRequest({ request, env, params }) {
   var primary = areas[0] || '';
   var canonical = 'https://vansquads.com/business/' + b._slug;
   var appLink = 'https://vansquads.com/#/business/' + b.id;
-  var photoAbs = b.photo ? (String(b.photo).indexOf('http') === 0 ? String(b.photo) : 'https://vansquads.com/' + String(b.photo).replace(/^\//, '')) : '';
+  var photoAbs = b.logo_url ? (String(b.logo_url).indexOf('http') === 0 ? String(b.logo_url) : 'https://vansquads.com/' + String(b.logo_url).replace(/^\//, '')) : '';
   var hero = photoAbs ? '<img class="p-hero" src="' + esc(photoAbs) + '" alt="' + esc(b.name) + '">' : '';
   var title = b.name + ' — ' + b.category + (primary ? ' in ' + primary : '') + ' | Van Squads';
   var desc = (b.description || '').replace(/\s+/g, ' ').trim();
