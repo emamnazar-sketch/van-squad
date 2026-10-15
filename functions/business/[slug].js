@@ -94,7 +94,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261015e">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261015f">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
@@ -111,12 +111,12 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '</style>\n</head>\n<body>\n' +
     '<header class="site-header"><div class="wrap header-inner">' +
     '<a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png" alt="Van Squads"></a>' +
-    '<nav class="main-nav" aria-label="Main"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
+    '<nav class="main-nav" aria-label="Main"><a href="/#/">Home</a><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/#/about">About</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
     '</div></header>\n<main class="wrap">' + body + '</main>\n' +
     '<footer class="site-footer"><div class="wrap footer-inner"><div class="footer-brand">' +
     '<img class="footer-logo-img" src="/img/logo-icon.png" alt="" aria-hidden="true">' +
     '<div><strong>Van Squads</strong><p>Local services. At your door.</p></div></div>' +
-    '<nav class="footer-nav" aria-label="Footer"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
+    '<nav class="footer-nav" aria-label="Footer"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a><a href="/#/about">About</a><a href="/#/contact">Contact</a></nav>' +
     '</div></footer>\n</body>\n</html>';
 }
 

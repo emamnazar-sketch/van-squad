@@ -961,7 +961,7 @@
   function viewGate(next) {
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
-      '<img class="gate-logo" src="/img/logo.png?v=20261015e" alt="Van Squads">' +
+      '<img class="gate-logo" src="/img/logo.png?v=20261015f" alt="Van Squads">' +
       '<h1>Sign in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +
@@ -1726,8 +1726,8 @@
   }
 
   function setNav(path) {
-    var map = { '/browse': 'browse', '/how-it-works': 'how', '/join': 'join' };
-    var key = map[path] || (path.indexOf('/blog') === 0 ? 'blog' : null);
+    var map = { '/': 'home', '/browse': 'browse', '/how-it-works': 'how', '/about': 'about', '/join': 'join' };
+    var key = map[path] || (path === '' ? 'home' : (path.indexOf('/blog') === 0 ? 'blog' : null));
     document.querySelectorAll('.main-nav a').forEach(function (a) {
       a.classList.toggle('active', a.getAttribute('data-nav') === key);
     });

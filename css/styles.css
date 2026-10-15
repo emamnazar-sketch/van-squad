@@ -23,7 +23,7 @@ img{max-width:100%;height:auto}
 .header-inner{display:flex;align-items:center;gap:28px;height:68px}
 .brand{display:flex;align-items:center;gap:10px;text-decoration:none}
 .wordmark{font-size:24px;font-weight:800;letter-spacing:-.02em}
-.main-nav{display:flex;gap:26px;margin-left:8px}
+.main-nav{display:flex;gap:20px;margin-left:8px}
 .main-nav a{text-decoration:none;font-weight:600;font-size:15px;color:var(--ink)}
 .main-nav a:hover{color:var(--orange)}
 .main-nav a.active{color:var(--orange)}
