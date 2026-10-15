@@ -2,7 +2,7 @@
    dark navy secondary, light blue-grey bands, rounded white cards. */
 :root{
   --orange:#FF6A2B; --orange-dark:#E2571B; --orange-soft:#FFF0E6; --peach:#FFE3CC;
-  --navy:#1F2B3A; --navy-soft:#2B3B4F; --ink:#161B22; --muted:#5B6672;
+  --navy:#1F2B3A; --navy-soft:#2B3B4F; --ink:#161B22; --muted:#3D4854;
   --band:#EDF1F5; --band-2:#F6F8FA; --line:#E2E8EE; --card:#FFFFFF;
   --error:#B3400A;
   --radius:16px; --shadow:0 6px 24px rgba(31,43,58,.08);
@@ -116,10 +116,10 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 .cat-cover{width:100%;height:150px;object-fit:cover;border-radius:10px;margin-bottom:14px;display:block}
 .sample-badge{position:absolute;top:12px;left:12px;background:var(--navy);color:#fff;font-size:11px;font-weight:800;letter-spacing:.1em;padding:5px 11px;border-radius:999px;text-transform:uppercase}
 .claim-tag{font-size:12.5px;margin:2px 0 0}
-.claim-tag a{color:var(--muted);text-decoration:none}
+.claim-tag a{color:var(--ink);text-decoration:none;font-weight:700;font-size:14.5px}
 .claim-tag a:hover{color:var(--brand);text-decoration:underline}
-.claim-line{font-size:14px;color:var(--muted);margin:6px 0 0}
-.claim-line a{color:var(--brand);font-weight:700}
+.claim-line{font-size:14.5px;color:var(--ink);margin:6px 0 0}
+.claim-line a{color:var(--ink);font-weight:700;text-decoration:underline;text-underline-offset:3px}
 .verified-check{display:inline-block;width:20px;height:20px;line-height:20px;text-align:center;font-size:13px;font-weight:800;color:#fff;background:var(--navy);border-radius:999px;vertical-align:middle;margin-left:6px}
 .verified-check.big{width:26px;height:26px;line-height:26px;font-size:16px}
 .biz-body{padding:20px;display:flex;flex-direction:column;gap:6px;flex:1}
@@ -129,7 +129,7 @@ h3{font-size:20px;margin:0 0 8px;font-weight:750}
 .biz-name a:hover{color:var(--orange)}
 .stars{color:var(--orange);font-size:14px;font-weight:700}
 .stars .dim{color:#B9C2CC}
-.biz-title{color:var(--muted);font-size:14.5px}
+.biz-title{color:var(--ink);font-size:14.5px}
 .biz-meta{font-size:13.5px;color:var(--muted)}
 .biz-price{font-size:22px;font-weight:800;margin-top:4px}
 .biz-price .per{font-size:13px;font-weight:600;color:var(--muted)}
