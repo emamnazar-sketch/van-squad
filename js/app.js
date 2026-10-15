@@ -18,20 +18,19 @@
   function zipName(z) { return D.ZIP_NAMES[z] || ('ZIP ' + z); }
   function isValidZip(z) { return /^\d{5}$/.test(String(z || '').trim()); }
 
-  /* Service-area ZIP picker: standard grid + removable custom-ZIP chips. */
+  /* Service-area ZIP picker (QC 2026-10-15): type-and-add chips only — no pre-listed ZIP grid. */
+  var ZIP_EMPTY_HTML = '<span class="zip-empty">No ZIPs added yet \u2014 type your first ZIP below.</span>';
+  function zipChipHTML(z) {
+    var nm = D.ZIP_NAMES[z];
+    return '<span class="zip-check on custom-zip"><input type="checkbox" name="zips" value="' + h(z) + '" checked hidden> ' + h(z) + (nm ? ' · ' + h(nm) : '') + ' <button type="button" class="zip-x" title="Remove ZIP">\u00d7</button></span>';
+  }
   function zipGridHTML(selected) {
     selected = selected || [];
-    var std = D.ALL_ZIPS.map(function (z) {
-      var on = selected.indexOf(z) >= 0;
-      return '<label class="zip-check' + (on ? ' on' : '') + '"><input type="checkbox" name="zips" value="' + z + '"' + (on ? ' checked' : '') + '> ' + z + ' · ' + h(zipName(z)) + '</label>';
-    }).join('');
-    var custom = selected.filter(function (z) { return D.ALL_ZIPS.indexOf(z) < 0; }).map(function (z) {
-      return '<label class="zip-check on custom-zip"><input type="checkbox" name="zips" value="' + h(z) + '" checked> ' + h(z) + ' <button type="button" class="zip-x" title="Remove ZIP">\u00d7</button></label>';
-    }).join('');
-    return std + custom;
+    if (!selected.length) return ZIP_EMPTY_HTML;
+    return selected.map(zipChipHTML).join('');
   }
   function customZipRowHTML() {
-    return '<div class="zip-add"><input type="text" class="zip-add-input" inputmode="numeric" maxlength="5" placeholder="Add another ZIP \u2014 e.g. 95630" aria-label="Add another ZIP code">' +
+    return '<div class="zip-add"><input type="text" class="zip-add-input" inputmode="numeric" maxlength="5" placeholder="Type a ZIP code \u2014 e.g. 85003" aria-label="ZIP code to add">' +
       '<button type="button" class="btn btn-outline btn-sm zip-add-btn">Add</button></div>' +
       '<p class="hint zip-add-err" style="display:none;color:#B3400A"></p>';
   }
@@ -44,7 +43,7 @@
     function showErr(m) { if (errEl) { errEl.textContent = m; errEl.style.display = m ? 'block' : 'none'; } }
     grid.addEventListener('click', function (e) {
       var x = e.target && e.target.closest ? e.target.closest('.zip-x') : null;
-      if (x) { e.preventDefault(); var lab = x.closest('.zip-check'); if (lab) lab.remove(); }
+      if (x) { e.preventDefault(); var lab = x.closest('.zip-check'); if (lab) lab.remove(); if (!grid.querySelector('.zip-check')) grid.innerHTML = ZIP_EMPTY_HTML; }
     });
     grid.addEventListener('change', function (e) {
       var cb = e.target;
@@ -55,10 +54,11 @@
       showErr('');
       if (!isValidZip(z)) { showErr('Enter a valid 5-digit ZIP code.'); input.focus(); return; }
       if (root.querySelector('input[name="zips"][value="' + z + '"]')) { showErr('That ZIP is already in your list.'); return; }
-      var lab = document.createElement('label');
-      lab.className = 'zip-check on custom-zip';
-      lab.innerHTML = '<input type="checkbox" name="zips" value="' + z + '" checked> ' + h(z) + ' <button type="button" class="zip-x" title="Remove ZIP">\u00d7</button>';
-      grid.appendChild(lab);
+      var empty = grid.querySelector('.zip-empty');
+      if (empty) empty.remove();
+      var wrap = document.createElement('div');
+      wrap.innerHTML = zipChipHTML(z);
+      grid.appendChild(wrap.firstChild);
       input.value = '';
       toast('ZIP ' + z + ' added to your service area.');
     }
@@ -1022,7 +1022,7 @@
           '<div class="field"><label>Business email <span class="req">*</span></label><input name="email" type="email" required placeholder="hello@yourbusiness.com"><span class="hint">We send a verification code here — your listing goes public after you verify it.</span></div></div>' +
           '<div class="f-row single"><div class="field"><label>Website (optional)</label><input name="website" placeholder="https://…"></div></div>' +
         '</div>' +
-        '<div class="form-sec"><h3>Service area</h3><p>Where do you travel? Customers outside these ZIPs won’t see your listing.</p>' +
+        '<div class="form-sec"><h3>Service area</h3><p>Type each ZIP you travel to and tap Add — add as many as you cover. Customers outside these ZIPs won’t see your listing.</p>' +
           '<div class="zip-grid">' + zipChecks + '</div>' + customZipRowHTML() +
           '<div class="f-row" style="margin-top:14px"><div class="field"><label>Travel radius (miles)</label><input name="travelRadius" type="number" min="0" value="15"></div>' +
           '<div class="field"><label>Travel fee ($) — 0 means included</label><input name="travelFee" type="number" min="0" value="0"></div></div>' +
@@ -1433,7 +1433,7 @@
         (st === 'completed'
           ? '<div style="margin-top:10px"><a class="btn btn-outline btn-sm" href="#/business/' + h(b.slug || b.id || '') + '#reviews">Leave a rating</a></div>'
           : (st === 'pending' || st === 'question' || st === 'quoted'
-            ? '<div class="inline-form"><input placeholder="Send a follow-up message…" data-follow="' + h(r.id) + '">' +
+            ? '<div class="inline-form"><input placeholder="Send a follow-up message…" aria-label="Send a follow-up message" data-follow="' + h(r.id) + '">' +
               '<button class="btn btn-navy btn-sm" data-send-follow="' + h(r.id) + '" type="button">Send</button></div>'
             : '')) +
       '</div>';
@@ -1531,7 +1531,7 @@
             '<button class="btn btn-ghost btn-sm" data-act="completed" data-id="' + h(r.id) + '" type="button">Mark completed</button>' +
           '</div>' +
           '<div class="inline-form" data-note-form="' + h(r.id) + '" style="display:none">' +
-            '<input placeholder="Write your reply to the customer…" data-note-input="' + h(r.id) + '">' +
+            '<input placeholder="Write your reply to the customer…" aria-label="Write your reply to the customer" data-note-input="' + h(r.id) + '">' +
             '<button class="btn btn-primary btn-sm" data-note-send="' + h(r.id) + '" type="button">Send reply</button></div>' +
         '</div>';
       }).join('');
@@ -1576,7 +1576,7 @@
       '<div class="f-row single"><div class="field"><label>About</label><textarea name="description">' + h(active.description || '') + '</textarea></div></div>' +
       '<div class="f-row"><div class="field"><label>Business email</label><input name="email" value="' + h(active.email || '') + '"></div>' +
       '<div class="field"><label>Website</label><input name="website" value="' + h(active.website || '') + '"></div></div></div>' +
-      '<div class="form-sec"><h3>Service area & pricing</h3>' +
+      '<div class="form-sec"><h3>Service area & pricing</h3><p>Type each ZIP you travel to and tap Add.</p>' +
       '<div class="zip-grid">' + zipGridHTML(active.zips) + '</div>' + customZipRowHTML() +
       '<div class="f-row" style="margin-top:14px"><div class="field"><label>Travel fee ($)</label><input name="travelFee" type="number" min="0" value="' + h(active.travelFee || 0) + '"></div>' +
       '<div class="field"><label>Travel radius (miles)</label><input name="travelRadius" type="number" min="0" value="' + h(active.travelRadius || 0) + '"></div></div></div>' +
@@ -1591,14 +1591,15 @@
       '<div class="f-row single"><div class="field"><label>What’s included (one per line)</label><textarea name="includes">' + h((l.includes || []).join('\n')) + '</textarea></div></div>' +
       '<div class="f-row single"><div class="field"><label>Before your visit (one per line)</label><textarea name="beforeVisit">' + h((l.beforeVisit || []).join('\n')) + '</textarea></div></div>' +
       '<div class="f-row single"><div class="field"><label>Cancellation policy</label><input name="cancellation" value="' + h(l.cancellation || '') + '"></div></div></div>' +
-      '<button class="btn btn-primary" type="submit">Save changes</button> ' +
-      '<a class="btn btn-outline" href="#/business/' + h(active.slug || active.id) + '">View public listing</a></form>';
+      '<p class="cta-row"><button class="btn btn-primary" type="submit">Save changes</button>' +
+      '<a class="btn btn-outline" href="#/business/' + h(active.slug || active.id) + '">View public listing</a></p></form>';
     bindCustomZips(manage);
     document.getElementById('biz-edit').addEventListener('submit', async function (e) {
       e.preventDefault();
       var fd = new FormData(e.target);
       var zips = [];
       e.target.querySelectorAll('input[name="zips"]:checked').forEach(function (c) { zips.push(c.value); });
+      if (!zips.length) { toast('Add at least one ZIP code to your service area.'); return; }
       var price = fd.get('price');
       var newEmail = String(fd.get('email') || '').trim();
       var emailChanged = newEmail && newEmail !== String(active.email || '').trim();
@@ -1655,7 +1656,7 @@
         '<div class="summary-card"><h4>Package price</h4><div class="big">' + h(priceLabel(l)) + '</div><div class="small muted">' + h(l.title || '') + '</div></div>' +
       '</div>' +
       '<form class="form-card" id="ws-form" style="max-width:820px">' +
-        '<div class="form-sec"><h3>Service area</h3><p>Tick every ZIP you travel to.</p><div class="zip-grid">' +
+        '<div class="form-sec"><h3>Service area</h3><p>Type each ZIP you travel to and tap Add.</p><div class="zip-grid">' +
         zipGridHTML(active.zips) + '</div>' + customZipRowHTML() + '</div>' +
         '<div class="form-sec"><h3>Pricing & scheduling</h3>' +
         '<div class="f-row"><div class="field"><label>Package price ($)</label><input name="price" type="number" min="0" value="' + (l.price === null || l.price === undefined ? '' : h(l.price)) + '"></div>' +
@@ -1674,6 +1675,7 @@
       var fd = new FormData(e.target);
       var zips = [];
       e.target.querySelectorAll('input[name="zips"]:checked').forEach(function (c) { zips.push(c.value); });
+      if (!zips.length) { toast('Add at least one ZIP code to your service area.'); return; }
       var price = fd.get('price');
       await window.VS.store.updateBusiness(active.id, {
         zips: zips, travelFee: Number(fd.get('travelFee')) || 0,

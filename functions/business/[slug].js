@@ -94,19 +94,19 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261015d">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261015e">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
-    '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
+    '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
     '.prof-head h1{margin:6px 0 4px;font-size:34px}.prof-desc{font-size:17px;color:var(--ink);max-width:720px}' +
     '.prof-sec{margin:30px 0}.prof-sec h2{font-size:21px;margin:0 0 12px}' +
     '.svc-row{display:flex;justify-content:space-between;gap:14px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:10px;box-shadow:var(--shadow)}' +
     '.svc-row .p{font-weight:800;color:var(--navy);white-space:nowrap}' +
-    '.area-chips{display:flex;flex-wrap:wrap;gap:8px}.area-chips span{background:var(--band);border-radius:999px;padding:6px 13px;font-size:13.5px;font-weight:600}' +
+    '.area-chips{display:flex;flex-wrap:wrap;gap:10px}.area-chips span{background:var(--band);border-radius:999px;padding:8px 14px;font-size:14px;font-weight:600}' +
     '.prof-cta{background:var(--navy);color:#fff;border-radius:20px;padding:30px 28px;margin:34px 0;display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}' +
     '.prof-cta h2{color:#fff;margin:0 0 6px;font-size:24px}.prof-cta p{color:#C6D2DE;margin:0}' +
     '.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.rel-grid a{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;box-shadow:var(--shadow);font-weight:700}' +
-    '.rel-grid a span{display:block;color:var(--muted);font-weight:600;font-size:13px;margin-top:3px}' +
+    '.rel-grid a span{display:block;color:var(--muted);font-weight:600;font-size:13.5px;margin-top:3px}' +
     '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}.p-hero{height:200px}}' +
     '</style>\n</head>\n<body>\n' +
     '<header class="site-header"><div class="wrap header-inner">' +
@@ -186,7 +186,7 @@ export async function onRequest({ request, env, params }) {
   var svcRows = listings.map(function (l) {
     var price = (l.price_type === 'quote' || l.price == null) ? 'Quote on request' : ('$' + l.price);
     return '<div class="svc-row"><div><strong>' + esc(l.title) + '</strong>' +
-      (l.description ? '<div class="muted" style="font-size:14px;margin-top:2px">' + esc(l.description) + '</div>' : '') +
+      (l.description ? '<div class="muted" style="font-size:15px;margin-top:2px">' + esc(l.description) + '</div>' : '') +
       '</div><div class="p">' + esc(price) + '</div></div>';
   }).join('');
 
