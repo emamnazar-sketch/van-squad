@@ -1,0 +1,279 @@
+{
+ "businesses": [
+  {
+   "id": "99e6800a-1416-4eb2-91ae-95c9b3b4ff70",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Carole's House Cleaning",
+   "category": "House cleaning",
+   "phone": "(480) 825-8602",
+   "website": "http://www.housecleaningbycarole.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "42a77b55-9436-424c-ad57-c98540988eb5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Home & Yard LLC",
+   "category": "House cleaning",
+   "phone": "(602) 481-6186",
+   "website": "http://www.homeandyardllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7c11676a-a4e8-4018-9ff1-92d02b2a1f11",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Peak Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(480) 226-8435",
+   "website": "https://www.peakcleaningservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "682fe51e-bd04-4148-a3c6-a4330b52dde7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid for Tempe House Cleaning",
+   "category": "House cleaning",
+   "phone": "(480) 361-7350",
+   "website": "https://www.maidfortempe.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4094a0be-9b47-4697-9c03-299023ec4b44",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Maids & A Mop of Tempe",
+   "category": "House cleaning",
+   "phone": "(480) 405-6596",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b0c2f655-cffd-4909-b101-81ab9f29fbbc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid Right of East Valley",
+   "category": "House cleaning",
+   "phone": "(602) 641-5363",
+   "website": "https://www.maidright.com/east-valley/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ba447e9d-762a-49f3-b4b2-b9ec9007ed25",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "You've Got Maids of Scottsdale and East Valley",
+   "category": "House cleaning",
+   "phone": "(480) 969-6243",
+   "website": "http://www.youvegotmaids.com/house-cleaning/az/scottsdale",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5fc291f8-7a24-4106-acf6-9c086be40d40",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Our Maids 4 U",
+   "category": "House cleaning",
+   "phone": "(480) 470-5263",
+   "website": "https://ourmaids4u.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85281"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3094a0ea-d9e3-493e-b4d1-80b3a20ff501",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidThis Cleaning of Phoenix",
+   "category": "House cleaning",
+   "phone": "(623) 294-0786",
+   "website": "https://maidthis.com/phoenix/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "85003",
+    "85004",
+    "85006",
+    "85007",
+    "85009",
+    "85012",
+    "85013",
+    "85014",
+    "85015",
+    "85017",
+    "85019",
+    "85020",
+    "85021",
+    "85029",
+    "85034",
+    "85040",
+    "85042",
+    "85051",
+    "85281",
+    "85282",
+    "85287",
+    "85288"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "447abeac-092f-4d6e-aef6-5a66bde7f379",
+   "business_id": "99e6800a-1416-4eb2-91ae-95c9b3b4ff70",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "676b5e56-b87b-4e7d-bb46-fb8f0fb47faa",
+   "business_id": "42a77b55-9436-424c-ad57-c98540988eb5",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "04c95f56-9ad8-4377-acfb-a24ecee79bae",
+   "business_id": "7c11676a-a4e8-4018-9ff1-92d02b2a1f11",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "beb67be2-06cf-44af-96d2-4f79e0540f84",
+   "business_id": "682fe51e-bd04-4148-a3c6-a4330b52dde7",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c1587e6d-1038-4dab-839d-f84a751e4867",
+   "business_id": "4094a0be-9b47-4697-9c03-299023ec4b44",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1c6013a0-4128-40b1-a24d-d03cb97322dc",
+   "business_id": "b0c2f655-cffd-4909-b101-81ab9f29fbbc",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b577906d-ba0b-42a8-9c5e-f234ffbb9110",
+   "business_id": "ba447e9d-762a-49f3-b4b2-b9ec9007ed25",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fce8a99f-cd20-49d0-9aab-2a4ac78bcc02",
+   "business_id": "5fc291f8-7a24-4106-acf6-9c086be40d40",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5cde8b8a-e19c-45fb-82da-b9b1c1329324",
+   "business_id": "3094a0ea-d9e3-493e-b4d1-80b3a20ff501",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
