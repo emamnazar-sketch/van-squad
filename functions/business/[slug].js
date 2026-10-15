@@ -82,7 +82,7 @@ function areasOf(b) {
   });
   return out;
 }
-function pageShell(title, metaDesc, canonical, body, jsonLd) {
+function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
   return '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' +
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>' + esc(title) + '</title>\n' +
@@ -92,12 +92,12 @@ function pageShell(title, metaDesc, canonical, body, jsonLd) {
     '<meta property="og:description" content="' + esc(metaDesc) + '">\n' +
     '<meta property="og:url" content="' + esc(canonical) + '">\n' +
     '<meta property="og:type" content="website">\n' +
-    '<meta property="og:image" content="https://vansquads.com/img/logo.png">\n' +
+    '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
     '<link rel="stylesheet" href="/css/styles.css?v=20261015b">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
-    '.prof-head{padding:34px 0 6px}.prof-cat{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
+    '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
     '.prof-head h1{margin:6px 0 4px;font-size:34px}.prof-desc{font-size:17px;color:var(--ink);max-width:720px}' +
     '.prof-sec{margin:30px 0}.prof-sec h2{font-size:21px;margin:0 0 12px}' +
     '.svc-row{display:flex;justify-content:space-between;gap:14px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:10px;box-shadow:var(--shadow)}' +
@@ -107,7 +107,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd) {
     '.prof-cta h2{color:#fff;margin:0 0 6px;font-size:24px}.prof-cta p{color:#C6D2DE;margin:0}' +
     '.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.rel-grid a{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;box-shadow:var(--shadow);font-weight:700}' +
     '.rel-grid a span{display:block;color:var(--muted);font-weight:600;font-size:13px;margin-top:3px}' +
-    '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}}' +
+    '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}.p-hero{height:200px}}' +
     '</style>\n</head>\n<body>\n' +
     '<header class="site-header"><div class="wrap header-inner">' +
     '<a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png" alt="Van Squads"></a>' +
@@ -158,6 +158,8 @@ export async function onRequest({ request, env, params }) {
   var primary = areas[0] || '';
   var canonical = 'https://vansquads.com/business/' + b._slug;
   var appLink = 'https://vansquads.com/#/business/' + b.id;
+  var photoAbs = b.photo ? (String(b.photo).indexOf('http') === 0 ? String(b.photo) : 'https://vansquads.com/' + String(b.photo).replace(/^\//, '')) : '';
+  var hero = photoAbs ? '<img class="p-hero" src="' + esc(photoAbs) + '" alt="' + esc(b.name) + '">' : '';
   var title = b.name + ' — ' + b.category + (primary ? ' in ' + primary : '') + ' | Van Squads';
   var desc = (b.description || '').replace(/\s+/g, ' ').trim();
   var metaDesc = desc ? desc.slice(0, 158) :
@@ -172,7 +174,8 @@ export async function onRequest({ request, env, params }) {
     url: canonical,
     telephone: b.phone || undefined,
     areaServed: areas.length ? areas : undefined,
-    sameAs: b.website || undefined
+    sameAs: b.website || undefined,
+    image: photoAbs || undefined
   };
   var jsonLd = JSON.stringify(ld).replace(/</g, '\\u003c');
 
@@ -194,7 +197,7 @@ export async function onRequest({ request, env, params }) {
       return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
     }).join('') + '</div></div>' : '';
 
-  var body =
+  var body = hero +
     '<div class="prof-head"><a class="back" href="/#/browse">← Explore services</a>' +
     '<p class="prof-cat" style="margin-top:16px">' + esc(b.category) + (primary ? ' · ' + esc(primary) : '') + '</p>' +
     '<h1>' + esc(b.name) + check + '</h1>' + claimLine +
@@ -210,7 +213,7 @@ export async function onRequest({ request, env, params }) {
     '<a class="btn btn-primary" href="' + esc(appLink) + '">Request a quote →</a></div>' +
     relHtml;
 
-  return new Response(pageShell(title, metaDesc, canonical, body, jsonLd), {
+  return new Response(pageShell(title, metaDesc, canonical, body, jsonLd, photoAbs), {
     headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=300, s-maxage=3600' }
   });
 }
