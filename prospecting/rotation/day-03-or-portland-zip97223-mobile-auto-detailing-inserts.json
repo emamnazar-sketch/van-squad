@@ -1,0 +1,175 @@
+{
+ "businesses": [
+  {
+   "id": "2af8af60-f5d6-47a5-9635-021506634b79",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Empire Mobile Detailing & Ceramic Coating",
+   "category": "Mobile auto detailing",
+   "phone": "(503) 713-9518",
+   "website": "https://www.empiremobiledetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e9410478-0ada-40f0-a86f-34c209239092",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Squeegee Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(971) 895-2003",
+   "website": "https://squeegeedetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97223",
+    "97224"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fad2309b-20e1-43b4-b590-6c04a0e84ac8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cat Mobile Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(503) 880-4407",
+   "website": "http://thecatautodetailingpdx.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "dd5d8c75-b184-4162-ad09-2bc9b5b3ea9e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Armor Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(971) 328-4823",
+   "website": "https://armorautodetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "96f35d69-e198-45d6-89b1-a04938090a56",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tom's Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(503) 729-2135",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "582eeec0-9a68-44be-a37c-9c3a80dd5c14",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Attention 2 Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(503) 515-6578",
+   "website": "https://attention2detail.biz/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "33917751-14bc-40fc-ac1a-0402f78ad4f7",
+   "business_id": "2af8af60-f5d6-47a5-9635-021506634b79",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "39b0a706-0d10-464c-8857-e6ff79df7217",
+   "business_id": "e9410478-0ada-40f0-a86f-34c209239092",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2983ddce-8daf-4109-b5de-031bc5a7f2a5",
+   "business_id": "fad2309b-20e1-43b4-b590-6c04a0e84ac8",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "32ade911-dfe2-475f-bebb-ade162d07aa7",
+   "business_id": "dd5d8c75-b184-4162-ad09-2bc9b5b3ea9e",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "93962782-c587-448a-866c-21a43b1da6ef",
+   "business_id": "96f35d69-e198-45d6-89b1-a04938090a56",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fdeb5c03-05c6-4d74-b3b2-43a822e520e9",
+   "business_id": "582eeec0-9a68-44be-a37c-9c3a80dd5c14",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

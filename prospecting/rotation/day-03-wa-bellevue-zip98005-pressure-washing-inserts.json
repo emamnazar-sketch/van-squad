@@ -1,0 +1,206 @@
+{
+ "businesses": [
+  {
+   "id": "0d5e9f6f-dc8c-4072-a6fa-dce7d10c7f15",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fresh Exteriors",
+   "category": "Pressure washing",
+   "phone": "(425) 800-4891",
+   "website": "http://freshexteriors.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c163f164-52af-4e45-97d9-8f2ee42b5289",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cedar Creek Contractors",
+   "category": "Pressure washing",
+   "phone": "(253) 343-0944",
+   "website": "https://www.cedarcreekcontractors.net/pressure-washing-bellevue-wa",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005",
+    "98004",
+    "98006",
+    "98007",
+    "98008"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "425555c0-ff13-40ec-9b81-401daa861e76",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pacific Wash Co.",
+   "category": "Pressure washing",
+   "phone": "(425) 539-7450",
+   "website": "https://pacificwash.co/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4ffbf594-6549-4a2f-81f4-e9dd9978b7c4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "PNW Softwash",
+   "category": "Pressure washing",
+   "phone": "(425) 400-9001",
+   "website": "https://pnwsoftwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "64fa240e-ff85-4355-ab86-b2eea3f84d6c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "GHB Window Cleaning Inc",
+   "category": "Pressure washing",
+   "phone": "(425) 250-1044",
+   "website": "https://ghbwindowcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8d42407d-0404-4c7c-8566-076806236a56",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Husser Window and Gutter Cleaning",
+   "category": "Pressure washing",
+   "phone": "(206) 527-2860",
+   "website": "https://www.husserwindowcleaning.com/services/pressure-washing-seattle-and-eastside",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e182ab7c-21ae-46c9-952e-57924cc7ddab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Speaks Window Cleaning",
+   "category": "Pressure washing",
+   "phone": "(206) 228-5069",
+   "website": "https://speakswindowcleaning.com/services/pressure-washing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d9eac94a-b06f-4d6d-98b6-0430696cf69e",
+   "business_id": "0d5e9f6f-dc8c-4072-a6fa-dce7d10c7f15",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f1c6adf2-1189-48ec-8b1e-2468590c56d8",
+   "business_id": "c163f164-52af-4e45-97d9-8f2ee42b5289",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "681600e5-f62a-4051-900c-0a4ee67b3dcd",
+   "business_id": "425555c0-ff13-40ec-9b81-401daa861e76",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "cf1549d8-fce0-462c-bbdf-78fe00a529af",
+   "business_id": "4ffbf594-6549-4a2f-81f4-e9dd9978b7c4",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8c85c40d-cbc7-473a-90f1-4beeabc308c2",
+   "business_id": "64fa240e-ff85-4355-ab86-b2eea3f84d6c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "063e83a0-a6aa-4ccb-8b79-d46cb98e039b",
+   "business_id": "8d42407d-0404-4c7c-8566-076806236a56",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "922e10ce-abe4-4991-80ce-1dd4ae98711d",
+   "business_id": "e182ab7c-21ae-46c9-952e-57924cc7ddab",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "businesses": [
+  {
+   "id": "13fdb8fb-0f48-4e89-a7a1-1e6717897ce6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Maids of SW Portland",
+   "category": "House cleaning",
+   "phone": "(971) 313-8059",
+   "website": "http://www.maidshillsdale.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "61d37bda-0293-4fa1-90be-5e2b9ddb90bc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid in Oregon Cleaning Services LLC",
+   "category": "House cleaning",
+   "phone": "(503) 409-0303",
+   "website": "https://www.maidinoregon.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9947c5a4-2d05-40e5-ba71-16cd07797025",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elan Cleaning and Home Services",
+   "category": "House cleaning",
+   "phone": "(503) 753-0884",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "36a5cc11-0f09-46eb-95ee-ba934b6d85ef",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid To Perfection",
+   "category": "House cleaning",
+   "phone": "(503) 968-6243",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "900de5da-79d3-46a2-95c6-054fc0df1277",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "M&M House Cleaning",
+   "category": "House cleaning",
+   "phone": "(503) 726-9181",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "58c63b23-dd0b-45ed-8752-8afa0da1207a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Honey Bee Cleaning",
+   "category": "House cleaning",
+   "phone": "(503) 732-9979",
+   "website": "https://honeybeecleaningservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219",
+    "97212"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f9cc7352-0122-4a8a-8125-40c16fe8761d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid To Shine Cleaning",
+   "category": "House cleaning",
+   "phone": "(971) 717-3658",
+   "website": "https://www.maidtoshinecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219",
+    "97202"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "29df29b0-a29a-480b-9e7b-95f4a23ebfb3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mrs. Cruz House Cleaning",
+   "category": "House cleaning",
+   "phone": "(971) 610-6112",
+   "website": "https://mrscruzhousecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bc09693c-bba9-4e98-9f53-51a55227dbab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pacific House Cleaning",
+   "category": "House cleaning",
+   "phone": "(503) 906-0325",
+   "website": "http://pacifichousecleaningpdx.com/contact-us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97219",
+    "97204"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "98b33d4e-d197-421f-9383-75dd03b10e1e",
+   "business_id": "13fdb8fb-0f48-4e89-a7a1-1e6717897ce6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dc0efe25-aa9d-42ac-ac44-4a7e42de089e",
+   "business_id": "61d37bda-0293-4fa1-90be-5e2b9ddb90bc",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "38ee83c3-f92b-461e-a778-873748ec3a99",
+   "business_id": "9947c5a4-2d05-40e5-ba71-16cd07797025",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7272dca8-5faa-44f8-b612-1344cef88821",
+   "business_id": "36a5cc11-0f09-46eb-95ee-ba934b6d85ef",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9327c0a2-d2b6-42f4-a86b-38c5329331af",
+   "business_id": "900de5da-79d3-46a2-95c6-054fc0df1277",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ac3835ac-ea14-4ff0-8a2c-6046612a59e9",
+   "business_id": "58c63b23-dd0b-45ed-8752-8afa0da1207a",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "173d37ea-6b05-4408-8d27-ec5d28f290c7",
+   "business_id": "f9cc7352-0122-4a8a-8125-40c16fe8761d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "56c2e70e-59c7-4599-a524-1a688d009ff2",
+   "business_id": "29df29b0-a29a-480b-9e7b-95f4a23ebfb3",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c688ae40-afe9-4928-aa95-a02cc45449a9",
+   "business_id": "bc09693c-bba9-4e98-9f53-51a55227dbab",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

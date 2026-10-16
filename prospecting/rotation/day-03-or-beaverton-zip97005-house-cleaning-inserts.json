@@ -1,0 +1,234 @@
+{
+ "businesses": [
+  {
+   "id": "5fd40626-4e52-432c-83d6-492457706f35",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Amazing Maids",
+   "category": "House cleaning",
+   "phone": "(503) 925-8103",
+   "website": "https://amazingmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f0522e47-e4a4-49dc-8f04-3ab0244061cf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maids by Trade",
+   "category": "House cleaning",
+   "phone": "(971) 703-6800",
+   "website": "https://maidsbytrade.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3d0bc2ab-2681-49a5-a386-b60360d63345",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sparkling Perfection",
+   "category": "House cleaning",
+   "phone": "(503) 310-2321",
+   "website": "https://www.sparklingperfection.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005",
+    "97006"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "184a1824-eb81-4370-bf11-0b53713f1f42",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Maids",
+   "category": "House cleaning",
+   "phone": "(971) 770-3713",
+   "website": "https://www.maids.com/93/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005",
+    "97008"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0c5b7278-dd59-44b3-8873-23fab5f97ad0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Beaverton",
+   "category": "House cleaning",
+   "phone": "(503) 482-6406",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005",
+    "97008"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "40dbb2a3-5901-4130-ae16-26cd1e1a9e74",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "You've Got Maids",
+   "category": "House cleaning",
+   "phone": "(503) 992-6437",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0fd65217-5da9-4077-a5ce-2ce6ec101042",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Murrayhill Maids",
+   "category": "House cleaning",
+   "phone": "(503) 209-1342",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005",
+    "97008"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7bfb0430-1195-4d04-a56b-ed9e167184cb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mighty Maids",
+   "category": "House cleaning",
+   "phone": "(971) 522-8709",
+   "website": "https://mightymaidsoregon.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "e13a1b38-9f32-449a-9244-affeab6a2ef2",
+   "business_id": "5fd40626-4e52-432c-83d6-492457706f35",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b4fa9b64-c430-4fb6-aaf6-c8627c7ed057",
+   "business_id": "f0522e47-e4a4-49dc-8f04-3ab0244061cf",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "cb3e323d-fa40-4351-b6e9-e13d95963c9c",
+   "business_id": "3d0bc2ab-2681-49a5-a386-b60360d63345",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "692e76c3-27b7-454e-94a8-7f84bcd919ca",
+   "business_id": "184a1824-eb81-4370-bf11-0b53713f1f42",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f2b4ae3c-680f-41e3-a2f1-fe48b0221026",
+   "business_id": "0c5b7278-dd59-44b3-8873-23fab5f97ad0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b2f8ad0d-0c31-479b-bf0f-edc04c712c49",
+   "business_id": "40dbb2a3-5901-4130-ae16-26cd1e1a9e74",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "31f5ba50-55e4-403c-9db1-1d9be78ac88a",
+   "business_id": "0fd65217-5da9-4077-a5ce-2ce6ec101042",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b6b57e9d-0593-4a3b-9b2f-47c3baeb768a",
+   "business_id": "7bfb0430-1195-4d04-a56b-ed9e167184cb",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

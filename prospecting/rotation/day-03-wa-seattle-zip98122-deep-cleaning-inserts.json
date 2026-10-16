@@ -1,0 +1,178 @@
+{
+ "businesses": [
+  {
+   "id": "26d3add7-9d88-4948-8fc5-6fbcb5515f17",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Seattle Green Maids",
+   "category": "Deep cleaning",
+   "phone": "(206) 736-4650",
+   "website": "https://www.seattlegreenmaids.com/capitol-hill",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98122",
+    "98101",
+    "98102",
+    "98109",
+    "98112"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "debc4174-60ce-440d-bada-d0654927981a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Puget Sound Cleaners",
+   "category": "Deep cleaning",
+   "phone": "(206) 457-1954",
+   "website": "https://pugetsoundcleaners.com/capitol-hill/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98122"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "829b6497-57ee-4a2e-be9a-91d0742e8080",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Dazzle Cleaning Company",
+   "category": "Deep cleaning",
+   "phone": "(206) 424-9909",
+   "website": "https://dazzlecompany.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98122"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6866c918-8e78-499a-8aeb-364bf39c958d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "THA House Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(425) 289-9310",
+   "website": "https://www.thacleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98122"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6d37bc80-232e-46f6-b7a2-8d286b22f4df",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleanup Guys",
+   "category": "Deep cleaning",
+   "phone": "(425) 842-2566",
+   "website": "https://cleanupguys.com/deep-cleaning-in-seattle-wa/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98122"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "34ba5f2c-faf4-4481-bb00-703d1880b7d8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sully & Spruce",
+   "category": "Deep cleaning",
+   "phone": "(425) 967-3231",
+   "website": "https://www.sullyspruce.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98122"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "27165246-84c1-4fb9-8555-cb11a7ca60c4",
+   "business_id": "26d3add7-9d88-4948-8fc5-6fbcb5515f17",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "31bd256d-6b7c-4d31-9ba9-e4ee67c3ec5c",
+   "business_id": "debc4174-60ce-440d-bada-d0654927981a",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "93ff0a8a-8003-480c-90cb-9295e6ae5178",
+   "business_id": "829b6497-57ee-4a2e-be9a-91d0742e8080",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3336b910-10fa-4e53-b634-416c7619e755",
+   "business_id": "6866c918-8e78-499a-8aeb-364bf39c958d",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "48694a02-665a-4353-bc87-c67279d0b648",
+   "business_id": "6d37bc80-232e-46f6-b7a2-8d286b22f4df",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "62a6c9cd-79eb-42cf-9992-ace62866df6b",
+   "business_id": "34ba5f2c-faf4-4481-bb00-703d1880b7d8",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

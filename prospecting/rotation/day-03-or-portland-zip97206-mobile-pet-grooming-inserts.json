@@ -1,0 +1,195 @@
+{
+ "businesses": [
+  {
+   "id": "8e5c13a3-69fd-40ef-af6b-17194e5d6d56",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Metro Mobile Groomers",
+   "category": "Mobile pet grooming",
+   "phone": "(503) 758-8211",
+   "website": "https://www.metromobilegroomers.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97206",
+    "97015",
+    "97027",
+    "97030",
+    "97080",
+    "97086",
+    "97202",
+    "97211",
+    "97212",
+    "97213",
+    "97214",
+    "97215",
+    "97216",
+    "97218",
+    "97220",
+    "97222",
+    "97230",
+    "97232",
+    "97233",
+    "97236",
+    "97266",
+    "97267"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f97b09e6-672f-4f2f-9f2a-b322de05e231",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "You Dirty Dog PDX Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(503) 757-3094",
+   "website": "http://youdirtydogpdx.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97206"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4c8f162c-01d3-4f69-93db-caf1a99f33a2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Grooming a GoGo",
+   "category": "Mobile pet grooming",
+   "phone": "(503) 597-9934",
+   "website": "https://groomingagogo.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97206"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d0eb76bd-1a31-4f3f-85f9-50d9dadbacf1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Woofie's of SE Portland-Clackamas",
+   "category": "Mobile pet grooming",
+   "phone": "(971) 415-6551",
+   "website": "https://www.woofies.com/se-portland-clackamas/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97206"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b0272201-34bd-4101-acc1-5acc65cf2092",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wash 'n' Roll Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(503) 638-9900",
+   "website": "http://www.washnroll.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97206"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e785010e-bcf5-4890-b976-0d08d672ddcf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pawsitive Mobile Grooming LLC",
+   "category": "Mobile pet grooming",
+   "phone": "(971) 485-1694",
+   "website": "https://pawsitive-grooming.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97206"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "678b2e74-fe01-43cb-86f5-5a5d112f9fc5",
+   "business_id": "8e5c13a3-69fd-40ef-af6b-17194e5d6d56",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4cc7f1cb-cae3-4f95-868a-5459898c68b3",
+   "business_id": "f97b09e6-672f-4f2f-9f2a-b322de05e231",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fef2707d-84ed-4ee4-ab21-f9caf2c0c801",
+   "business_id": "4c8f162c-01d3-4f69-93db-caf1a99f33a2",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "484627e8-40e2-4827-9184-ae516d5f840e",
+   "business_id": "d0eb76bd-1a31-4f3f-85f9-50d9dadbacf1",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "afa473da-5e63-47bd-bfd7-2a3afdbf2580",
+   "business_id": "b0272201-34bd-4101-acc1-5acc65cf2092",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ddced28f-7513-4d51-9d40-e492b684a661",
+   "business_id": "e785010e-bcf5-4890-b976-0d08d672ddcf",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

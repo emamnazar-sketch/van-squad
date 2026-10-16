@@ -1,0 +1,232 @@
+{
+ "businesses": [
+  {
+   "id": "1344b11c-7fa1-438b-8860-e1446faec1b1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Jon Johnston Handyman Services",
+   "category": "Handyman",
+   "phone": "(503) 607-3930",
+   "website": "https://jon-johnston-handyman-services-llc.business.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "63a46363-2a89-4424-89b2-f9ef2f0b9ffd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Highland Helpers",
+   "category": "Handyman",
+   "phone": "(503) 928-3854",
+   "website": "http://highlandhelpers.localsearch.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "df063ea5-52a3-4234-bb5a-c2b8bacd8021",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Home Repair Specialties",
+   "category": "Handyman",
+   "phone": "(503) 679-9014",
+   "website": "http://homerepairspecialtiesor.localsearch.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7d39466c-774c-4547-b5c3-3993064b79a5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HandyCrew & Contracting",
+   "category": "Handyman",
+   "phone": "(971) 331-1537",
+   "website": "http://www.handycrewgc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bb9fe160-8a3a-4cd0-8bd3-037430cf74e9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Zak of All Trades",
+   "category": "Handyman",
+   "phone": "(503) 917-0130",
+   "website": "https://zakofalltradesor.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236",
+    "97266"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8ff7e723-0603-4c83-bb85-fb369e46b732",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "RandomprojectsLLC",
+   "category": "Handyman",
+   "phone": "(971) 269-4518",
+   "website": "https://randomprojectsllc.org/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236",
+    "97233"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6b9c244f-3c17-4acd-913b-93d501eafed6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Homeworx Handyman Services",
+   "category": "Handyman",
+   "phone": "(503) 575-9679",
+   "website": "http://www.portlandhomeworx.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "71980045-d8cb-4c7b-81dc-866d9d0ac48b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Best Contractor and Handyman Services",
+   "category": "Handyman",
+   "phone": "(971) 404-2500",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97236"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "634f7693-a352-4a6b-ac65-4415649593e3",
+   "business_id": "1344b11c-7fa1-438b-8860-e1446faec1b1",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f2916664-d38c-4fa8-b32e-cd364f4a1c40",
+   "business_id": "63a46363-2a89-4424-89b2-f9ef2f0b9ffd",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a2d5becc-a63d-4014-822f-5bb566f98c7f",
+   "business_id": "df063ea5-52a3-4234-bb5a-c2b8bacd8021",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8745c6a4-c50f-4643-b97e-af0400b45016",
+   "business_id": "7d39466c-774c-4547-b5c3-3993064b79a5",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "59363eb0-e513-4559-af91-c6ae7d03a000",
+   "business_id": "bb9fe160-8a3a-4cd0-8bd3-037430cf74e9",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "97fff949-0b65-47a1-a2ca-c1c5c400c71e",
+   "business_id": "8ff7e723-0603-4c83-bb85-fb369e46b732",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "aab59528-9e6a-4b4b-ad2f-0beaa0cdfbac",
+   "business_id": "6b9c244f-3c17-4acd-913b-93d501eafed6",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4b960e93-68ae-4876-8313-4936702095ee",
+   "business_id": "71980045-d8cb-4c7b-81dc-866d9d0ac48b",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

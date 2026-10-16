@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "b07ecaaa-c395-4978-944a-95a8024b543c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "LMK Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 468-1880",
+   "website": "https://lmkdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0e177cb6-6267-4593-ad1d-fa9292fbbe8b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Premier Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 385-6225",
+   "website": "https://premierdetailseattle.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "99465fc8-435b-4e77-bdec-f3482c86a054",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dreamy's Mobile Detailing & Ceramic Coating",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 600-8071",
+   "website": "https://dreamysdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "16ca7839-3dd4-42b4-865b-d2987101dc2f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Washington Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 899-4167",
+   "website": "https://wadetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "81677910-7ab5-4893-a52b-c99affb54c27",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "EverClean Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 902-7590",
+   "website": "https://www.evercleanmobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "171542c6-4f79-46a8-8264-533f6632aec3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Seattle Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 922-7372",
+   "website": "https://seattlemobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6ba29b1b-bcaa-471f-8c25-eab24a683f8a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "SudBros Mobile Detailing & Ceramic Coating",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 752-2173",
+   "website": "https://sudbrosdetails.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cb4bacdb-f0de-41e1-8afd-9f2cc985cccc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Seal Mobile Detailing & Ceramic Coating",
+   "category": "Mobile auto detailing",
+   "phone": "(206) 791-7743",
+   "website": "https://sealdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "c3794c2c-fbe8-46fd-b9aa-2277ce96eff5",
+   "business_id": "b07ecaaa-c395-4978-944a-95a8024b543c",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0ea08fae-2894-4da4-96e5-fe53263f18d9",
+   "business_id": "0e177cb6-6267-4593-ad1d-fa9292fbbe8b",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e56e8fd2-b2e0-4437-ac0a-07243cfd7eb0",
+   "business_id": "99465fc8-435b-4e77-bdec-f3482c86a054",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c0a00b74-ccd3-4f55-a885-99407d33a27d",
+   "business_id": "16ca7839-3dd4-42b4-865b-d2987101dc2f",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ccdd2b6b-f34d-41fe-8484-9fab313fb755",
+   "business_id": "81677910-7ab5-4893-a52b-c99affb54c27",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "90600071-30d2-40ac-8892-be426bf814e2",
+   "business_id": "171542c6-4f79-46a8-8264-533f6632aec3",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fad19759-42b8-46de-a249-4c7c67841413",
+   "business_id": "6ba29b1b-bcaa-471f-8c25-eab24a683f8a",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3196ab8a-a919-4e6d-a6dc-a81c8d0cb49a",
+   "business_id": "cb4bacdb-f0de-41e1-8afd-9f2cc985cccc",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

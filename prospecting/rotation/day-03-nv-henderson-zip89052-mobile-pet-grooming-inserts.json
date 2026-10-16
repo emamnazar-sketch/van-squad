@@ -1,0 +1,221 @@
+{
+ "businesses": [
+  {
+   "id": "d6c48b7a-0934-4fd4-a397-da145272d9c2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Zoomin Groomin",
+   "category": "Mobile pet grooming",
+   "phone": "(702) 213-5755",
+   "website": "https://www.zoomingroomin.com/locations/nevada/henderson-las-vegas",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052",
+    "89014",
+    "89074",
+    "89002",
+    "89005",
+    "89012",
+    "89046",
+    "89004",
+    "89019",
+    "89044",
+    "89054",
+    "89123",
+    "89141",
+    "89178",
+    "89179",
+    "89183",
+    "89117",
+    "89135",
+    "89145",
+    "89147"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "55007f58-b500-479e-85c4-5f40826387e2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "On The Spot Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(702) 350-2777",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "097101fd-167f-4247-b45a-5f4fd62ddcbb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Talking Dogs Mobile Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(702) 461-0156",
+   "website": "http://www.talkingdogsmobile.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "712a7dc7-393e-439c-ba61-e90f9f4c30e6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Beauty In The Beast Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(702) 292-6583",
+   "website": "http://abeautyinthebeast.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "11499d0c-4953-46ec-aa8d-38a414c3f262",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Good Dog Spa",
+   "category": "Mobile pet grooming",
+   "phone": "(725) 252-0883",
+   "website": "http://thegooddogspa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bb6090fd-51dc-4194-b43b-1f723f495b4c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mikey and Friends Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(702) 303-3388",
+   "website": "https://mikeyandfriends.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d1260e58-ef36-401d-97af-64d1b5461f0d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Alicia's Mobile Dog and Cat Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(702) 472-1623",
+   "website": "http://www.aliciasmobiledogandcatgrooming.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89052"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "c222bf21-5c2b-47a6-9c35-a573b7263a15",
+   "business_id": "d6c48b7a-0934-4fd4-a397-da145272d9c2",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "abbabf2d-4593-4c08-bab6-428d98e81254",
+   "business_id": "55007f58-b500-479e-85c4-5f40826387e2",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4aebbb22-a857-42aa-9b06-ba07527defb9",
+   "business_id": "097101fd-167f-4247-b45a-5f4fd62ddcbb",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a5ffee16-3e36-4377-bbee-23160111a2cd",
+   "business_id": "712a7dc7-393e-439c-ba61-e90f9f4c30e6",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fc384892-c48d-4673-971f-d515a3c57043",
+   "business_id": "11499d0c-4953-46ec-aa8d-38a414c3f262",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6969f6c2-4815-4601-9c7a-8db3b0d3bd0c",
+   "business_id": "bb6090fd-51dc-4194-b43b-1f723f495b4c",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "cccebddf-d851-40f9-bb11-070c00d8607c",
+   "business_id": "d1260e58-ef36-401d-97af-64d1b5461f0d",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

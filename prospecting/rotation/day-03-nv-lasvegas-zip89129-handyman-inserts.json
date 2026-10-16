@@ -1,0 +1,234 @@
+{
+  "businesses": [
+    {
+      "id": "8ed1518a-a9de-4ba5-aa88-f20ba304221f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Pro LV",
+      "category": "Handyman",
+      "phone": "(702) 723-6559",
+      "website": "https://handymanprolv.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6765bdf5-b00d-48ed-b7d6-0c3ffc820b2c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "5 Stars Handyman",
+      "category": "Handyman",
+      "phone": "(702) 592-8372",
+      "website": "http://5starshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "99b15a11-ca6c-4a2c-95b5-604c70f1285d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "American Handyman Services",
+      "category": "Handyman",
+      "phone": "(702) 256-6067",
+      "website": "https://ahsvegas.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "37b0b343-9cb5-4ee4-bde3-2478d99f4bf9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fan Man Handy Services LLC",
+      "category": "Handyman",
+      "phone": "(702) 861-6306",
+      "website": "https://fanmanlv.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6e3e65f5-a0d3-4379-802d-8bc854e423b5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Las Vegas Handyman Reliable Service",
+      "category": "Handyman",
+      "phone": "(702) 408-5519",
+      "website": "https://www.lasvegashandymanhomeservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129",
+        "89128"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "59713421-5d5a-4f61-8ef7-6e8b57c65c15",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Getz Handyman",
+      "category": "Handyman",
+      "phone": "(702) 497-8423",
+      "website": "https://getzhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129",
+        "89108"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9d4dcab0-9559-4d8d-8638-d59a69cb6c67",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hermann Handyman LLC",
+      "category": "Handyman",
+      "phone": "(702) 539-5675",
+      "website": "http://www.hermannhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129",
+        "89131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f7220868-7ffe-4581-8e0a-6928d067387f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Adan Handyman Services",
+      "category": "Handyman",
+      "phone": "(702) 324-7635",
+      "website": "https://adanhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "89129",
+        "89107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "efd30955-5c1d-468a-b836-fc68f3c47f21",
+      "business_id": "8ed1518a-a9de-4ba5-aa88-f20ba304221f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d4833d77-1cb2-4e5b-9cbd-f5a8b50d4af3",
+      "business_id": "6765bdf5-b00d-48ed-b7d6-0c3ffc820b2c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9d720de6-d810-4a00-97de-7de982602749",
+      "business_id": "99b15a11-ca6c-4a2c-95b5-604c70f1285d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e201e16f-062f-41c2-90b8-168157bec655",
+      "business_id": "37b0b343-9cb5-4ee4-bde3-2478d99f4bf9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a486a4de-85c2-452b-a6a0-9f7470c7be03",
+      "business_id": "6e3e65f5-a0d3-4379-802d-8bc854e423b5",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "34e53e01-928c-461f-9a3f-4cbc15a3fa92",
+      "business_id": "59713421-5d5a-4f61-8ef7-6e8b57c65c15",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9c496650-00a0-4dc1-b5e9-dff9769d503f",
+      "business_id": "9d4dcab0-9559-4d8d-8638-d59a69cb6c67",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a1ba6b10-fd1f-40c7-830f-b8edb4f85162",
+      "business_id": "f7220868-7ffe-4581-8e0a-6928d067387f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

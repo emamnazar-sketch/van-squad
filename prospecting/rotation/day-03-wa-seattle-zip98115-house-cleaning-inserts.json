@@ -1,0 +1,221 @@
+{
+ "businesses": [
+  {
+   "id": "e3706ff6-a343-4af2-92b0-69bcfbe3d89c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Seattle Green Earth Cleaning",
+   "category": "House cleaning",
+   "phone": "(206) 595-4209",
+   "website": "https://www.seattlegec.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6f95de89-da8c-4e2c-b3f0-cdbb87b5b6be",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Seattle",
+   "category": "House cleaning",
+   "phone": "(206) 696-7023",
+   "website": "https://www.maidpro.com/seattle-bellevue/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115",
+    "98101",
+    "98102",
+    "98103",
+    "98104",
+    "98105",
+    "98107",
+    "98109",
+    "98112",
+    "98117",
+    "98119",
+    "98121",
+    "98122",
+    "98125",
+    "98133",
+    "98155",
+    "98177",
+    "98199"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5ccdd64c-1ef3-437a-b53a-320839287fc3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sparkly House Cleaning",
+   "category": "House cleaning",
+   "phone": "(206) 973-0216",
+   "website": "https://www.sparklyhousecleaningseattle.com/maid-service-ravenna-seattle",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115",
+    "98105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7dfc2a3a-2cd4-446a-98e4-87a8af8dbb39",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid In The Northwest House and Office Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(206) 622-7783",
+   "website": "https://www.maidinthenw.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ff3bc59e-1e03-4f76-9491-3a8014cbb107",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Seattle House Cleaning",
+   "category": "House cleaning",
+   "phone": "(206) 523-3443",
+   "website": "https://seattlehousecleaning.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cff486ff-ffde-4673-b23b-7a4378d47a70",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids North Seattle",
+   "category": "House cleaning",
+   "phone": "(206) 527-2984",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6c98f63a-31df-4f09-8440-b245001fb922",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Green Cleaning Seattle",
+   "category": "House cleaning",
+   "phone": "(206) 307-2270",
+   "website": "https://greencleaningseattle.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "98115",
+    "98103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "5cce912f-507b-45ec-9ea2-264893961ee9",
+   "business_id": "e3706ff6-a343-4af2-92b0-69bcfbe3d89c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "07f0e376-333c-41f6-a318-0335345bd6ea",
+   "business_id": "6f95de89-da8c-4e2c-b3f0-cdbb87b5b6be",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b99852a6-d333-469c-9184-0621b8578c4b",
+   "business_id": "5ccdd64c-1ef3-437a-b53a-320839287fc3",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0b3181f9-b289-4ce2-a968-e00bc62b9938",
+   "business_id": "7dfc2a3a-2cd4-446a-98e4-87a8af8dbb39",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b1a1077c-502c-4f3a-a32b-feeec9eea85d",
+   "business_id": "ff3bc59e-1e03-4f76-9491-3a8014cbb107",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c51347a4-07ef-4e62-95a8-c9c21e3995c8",
+   "business_id": "cff486ff-ffde-4673-b23b-7a4378d47a70",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "57b49077-cea2-4c9d-8b96-1a239df1637e",
+   "business_id": "6c98f63a-31df-4f09-8440-b245001fb922",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

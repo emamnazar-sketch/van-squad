@@ -1,0 +1,243 @@
+{
+ "businesses": [
+  {
+   "id": "1a5e0f87-ad5b-4433-aeb3-9b6838aced06",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Maids of Summerlin",
+   "category": "House cleaning",
+   "phone": "(702) 979-3825",
+   "website": "https://www.twomaidscleaning.com/summerlin",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "90cb6455-6feb-4280-a654-6bc1e0e7f844",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lemon House Cleaning",
+   "category": "House cleaning",
+   "phone": "(702) 287-2345",
+   "website": "http://www.lemonhousecleaning.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117",
+    "89148"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b1585b69-0c4c-4c0f-9ea2-8479abaee86e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Queen of Maids",
+   "category": "House cleaning",
+   "phone": "(702) 553-3809",
+   "website": "https://www.queenofmaids.com/services/house-cleaning/las-vegas-nv/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117",
+    "89101",
+    "89102",
+    "89104",
+    "89106",
+    "89107",
+    "89108",
+    "89109",
+    "89110",
+    "89113",
+    "89118",
+    "89119",
+    "89120",
+    "89121",
+    "89123",
+    "89128",
+    "89129",
+    "89130",
+    "89131",
+    "89134",
+    "89135",
+    "89138",
+    "89139",
+    "89141",
+    "89144",
+    "89145",
+    "89146",
+    "89147",
+    "89148",
+    "89149",
+    "89166"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8644c5bb-bcf4-4479-9327-39cc44c56b50",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rhino's Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(702) 900-9444",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2998d8da-281c-488b-ada0-e6afafa04f70",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Superb Maids",
+   "category": "House cleaning",
+   "phone": "(702) 721-8858",
+   "website": "https://www.superbmaids.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117",
+    "89107"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b4faa8c2-a4fa-4722-8a08-ba1bb3f5a259",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Desert Maids",
+   "category": "House cleaning",
+   "phone": "(702) 448-1882",
+   "website": "https://www.desertmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117",
+    "89103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c6aef805-dda8-43ec-9d35-5f5f1c7d1fd0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidThis Cleaning of Summerlin",
+   "category": "House cleaning",
+   "phone": "(702) 710-9289",
+   "website": "https://maidthis.com/summerlin/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "89117",
+    "89135",
+    "89138",
+    "89144",
+    "89134",
+    "89129",
+    "89128",
+    "89145",
+    "89148"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "8497bcc2-43ab-4dcf-9f5a-ad033c0fdaf6",
+   "business_id": "1a5e0f87-ad5b-4433-aeb3-9b6838aced06",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "694491c8-4aff-4ca3-b749-6ea22be7cc8a",
+   "business_id": "90cb6455-6feb-4280-a654-6bc1e0e7f844",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a0f08c53-5f73-4027-9435-0fe37d0a500e",
+   "business_id": "b1585b69-0c4c-4c0f-9ea2-8479abaee86e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "82b59da3-e343-45eb-a210-00d2ee383773",
+   "business_id": "8644c5bb-bcf4-4479-9327-39cc44c56b50",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5573833b-0de6-4b3f-b1dc-786b716890a9",
+   "business_id": "2998d8da-281c-488b-ada0-e6afafa04f70",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9370cacb-da46-407c-98bf-af7b4c4ead1c",
+   "business_id": "b4faa8c2-a4fa-4722-8a08-ba1bb3f5a259",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "de8e5590-79cc-43d2-9c20-8216830adaf7",
+   "business_id": "c6aef805-dda8-43ec-9d35-5f5f1c7d1fd0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

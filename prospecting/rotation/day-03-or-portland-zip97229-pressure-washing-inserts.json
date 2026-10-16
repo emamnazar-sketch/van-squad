@@ -1,0 +1,235 @@
+{
+ "businesses": [
+  {
+   "id": "7a5a70de-2a66-4f05-ad79-847ba94c61e0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Abe's Power Wash & Roofing, LLC",
+   "category": "Pressure washing",
+   "phone": "(503) 320-2016",
+   "website": "https://www.abespowerwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "81b4b1a2-f5b3-46f5-9146-cc9a817e2e71",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Danny's Green Surface Cleaning LLC",
+   "category": "Pressure washing",
+   "phone": "(503) 312-8614",
+   "website": "http://dannysgreensurfacecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4d4be6ae-38cb-4b97-a632-7e182134cb19",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Portland Pressure Washing LLC",
+   "category": "Pressure washing",
+   "phone": "(503) 844-6600",
+   "website": "http://www.portlandpressurewashing.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "583ad850-5401-4de5-95db-2d932a057592",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "PDX Pressure Wash",
+   "category": "Pressure washing",
+   "phone": "(503) 490-8867",
+   "website": "https://pdxpressurewash.com/pressure-washing-services/ground-concrete-cleaning/driveways.html",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8c262ee2-19d1-4d61-b2fc-4e2199482f50",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Jet Clean Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(503) 522-5762",
+   "website": "http://www.jetcleanpressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229",
+    "97214",
+    "97224"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1bb2eba5-d16f-4966-8b73-075c6126e80f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Aloha Pressure Washing Inc. & Roofing Co",
+   "category": "Pressure washing",
+   "phone": "(503) 649-6849",
+   "website": "https://www.alohapressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229",
+    "97123"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "12def381-f5ba-464d-b5df-c5b659195ef5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All Surface Cleaning Company",
+   "category": "Pressure washing",
+   "phone": "(503) 590-9274",
+   "website": "https://allsurfacecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229",
+    "97005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5203ad5b-88b7-4bf3-9d98-a3f51dac3232",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "American Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(503) 642-9672",
+   "website": "http://apwcorp.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "97229",
+    "97078"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "13a0e9f9-f2b6-4871-80f7-82c8a1e36e01",
+   "business_id": "7a5a70de-2a66-4f05-ad79-847ba94c61e0",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "54924789-f7c7-4abc-93a7-e6b1c30b8fbf",
+   "business_id": "81b4b1a2-f5b3-46f5-9146-cc9a817e2e71",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b85ab4d9-2402-4ca6-88cb-61e8dca5dc7f",
+   "business_id": "4d4be6ae-38cb-4b97-a632-7e182134cb19",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ec3d6dd2-cf14-4a0f-b34a-c41815c6cc3c",
+   "business_id": "583ad850-5401-4de5-95db-2d932a057592",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "57a503d8-6a75-462d-a6ba-20ff55154659",
+   "business_id": "8c262ee2-19d1-4d61-b2fc-4e2199482f50",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "64b8cfff-5d75-40f6-bfa6-8a74a7cf9dd5",
+   "business_id": "1bb2eba5-d16f-4966-8b73-075c6126e80f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ff5b6780-b2d7-42a6-879f-bd48c1f97e08",
+   "business_id": "12def381-f5ba-464d-b5df-c5b659195ef5",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c01bbd77-173c-445b-b859-b4a477ba65d6",
+   "business_id": "5203ad5b-88b7-4bf3-9d98-a3f51dac3232",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
