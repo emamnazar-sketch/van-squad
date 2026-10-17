@@ -1,0 +1,267 @@
+{
+ "businesses": [
+  {
+   "id": "38026b56-58af-4785-a528-3a9eaf9be2ff",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Scrub 'N Bubbles Home Cleaning, LLC",
+   "category": "House cleaning",
+   "phone": "(208) 899-8584",
+   "website": "https://scrubnbubbles.com/boise-house-cleaning-services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709",
+    "83702",
+    "83703",
+    "83704",
+    "83705",
+    "83706",
+    "83712",
+    "83713",
+    "83714",
+    "83716"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ae76272f-35d8-4444-8084-27403a14f6c1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Naturally Clean",
+   "category": "House cleaning",
+   "phone": "(208) 968-4853",
+   "website": "https://www.naturallycleanco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2a1a417e-cbfb-40a4-8d20-3fe02f3d5626",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Happy Housekeepers",
+   "category": "House cleaning",
+   "phone": "(208) 378-8700",
+   "website": "https://happyhousekeepers.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0117bd2a-ca5f-44b7-bd0a-00774215113a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boise Clean Pro",
+   "category": "House cleaning",
+   "phone": "(208) 377-7100",
+   "website": "http://www.boiseclean.pro/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9fd4fd8b-4a15-4791-932c-ddfb6a39e5af",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bright Home Cleaning",
+   "category": "House cleaning",
+   "phone": "(208) 971-4785",
+   "website": "https://brighthomeboise.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c613cae6-f190-487b-b9ca-cb79ee7981c0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boise House Cleaning Co.",
+   "category": "House cleaning",
+   "phone": "(208) 361-1027",
+   "website": "https://www.boisehousecleaningco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "547e052f-480c-458c-9f3f-199cc904f356",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boise Cleaning Fairy",
+   "category": "House cleaning",
+   "phone": "(208) 949-1347",
+   "website": "https://boisecleaningfairy.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "13461e3e-7c51-4db5-8d5a-0a1c90805589",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bambitto's Fresh Home & Office LLC",
+   "category": "House cleaning",
+   "phone": "(208) 519-2433",
+   "website": "https://www.bambittosfresh.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "13a1fd85-c139-47bd-83a5-9fdcf132e45d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "208 Cleaning Co.",
+   "category": "House cleaning",
+   "phone": "(208) 850-0654",
+   "website": "http://208clean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83709"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "dd71e95f-3ec5-423d-8b15-889850c0984e",
+   "business_id": "38026b56-58af-4785-a528-3a9eaf9be2ff",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a667ce49-b481-43c5-ae94-62b42c1853eb",
+   "business_id": "ae76272f-35d8-4444-8084-27403a14f6c1",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "16b73e9b-7404-4d4a-9579-2fa05f6322df",
+   "business_id": "2a1a417e-cbfb-40a4-8d20-3fe02f3d5626",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ea9cd4d9-a931-453a-8f01-43906c06bc2e",
+   "business_id": "0117bd2a-ca5f-44b7-bd0a-00774215113a",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0bb66273-9636-49b0-bc16-bbc44707f85c",
+   "business_id": "9fd4fd8b-4a15-4791-932c-ddfb6a39e5af",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0ada4a46-89e1-4750-8e44-0c5a14b0cc79",
+   "business_id": "c613cae6-f190-487b-b9ca-cb79ee7981c0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3b7b41aa-9bab-4c63-9160-2910c8e5587a",
+   "business_id": "547e052f-480c-458c-9f3f-199cc904f356",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2e7ead91-e2a1-4b36-b719-2ad1a7f75a15",
+   "business_id": "13461e3e-7c51-4db5-8d5a-0a1c90805589",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "21e6ec9a-8646-4d21-938a-1495ecfc3740",
+   "business_id": "13a1fd85-c139-47bd-83a5-9fdcf132e45d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

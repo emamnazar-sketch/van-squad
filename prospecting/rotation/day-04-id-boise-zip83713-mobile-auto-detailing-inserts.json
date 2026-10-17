@@ -1,0 +1,258 @@
+{
+ "businesses": [
+  {
+   "id": "f94b673e-436d-4fb4-a950-01b678ca41ac",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boise Mobile Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 877-3209",
+   "website": "http://boisemobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "92baeced-f52c-47fd-95e1-0795dcf5177f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Idaho Express Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 567-0181",
+   "website": "https://idahoexpressdetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "feaffbc8-1501-45d6-b74a-8b69261b7bb5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Gatlin Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 330-0088",
+   "website": "https://gatlinautodetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d63d7e9e-6db8-40dc-845b-d32ab5137f4e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Gemstar Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 971-4652",
+   "website": "https://gemstar-detailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d1130a58-b03f-4553-8ab1-ee766d9ab9a4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "208 Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 477-8671",
+   "website": "https://208mobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d8559de8-62f0-40e7-8e76-901a487d1e56",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Synergy Auto Spa",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 502-4757",
+   "website": "https://synergyautospa.com/mobile-detailing-boise/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ffef184e-a0a6-4cf7-8273-fd9a3ded0a76",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eagle Star Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 918-0773",
+   "website": "https://eaglestardetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "39d7143d-ee35-4723-aad5-1055caef89b5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "RideRevive Auto Care",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 296-7720",
+   "website": "https://www.ridereviveautocare.com/car-truck-detailing?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2d97cd00-e4de-496f-bf97-6fdd6b9203e3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The 208 Detailers",
+   "category": "Mobile auto detailing",
+   "phone": "(208) 800-7671",
+   "website": "https://the208detailers.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83713"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "28c0ec5a-5168-4184-b579-c20de7515a84",
+   "business_id": "f94b673e-436d-4fb4-a950-01b678ca41ac",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "de01eb82-0e8a-47c5-b83f-c4a61f3d6909",
+   "business_id": "92baeced-f52c-47fd-95e1-0795dcf5177f",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a9bebccf-a78e-41fa-851e-5bd9fe90abb5",
+   "business_id": "feaffbc8-1501-45d6-b74a-8b69261b7bb5",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "cd9ac993-b263-4eb4-846d-05b9cfc287e1",
+   "business_id": "d63d7e9e-6db8-40dc-845b-d32ab5137f4e",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "db3125fb-b5a8-4158-a0ee-aa6ea90445ca",
+   "business_id": "d1130a58-b03f-4553-8ab1-ee766d9ab9a4",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4069bc5a-2050-4fbb-b31c-a1fedba322a8",
+   "business_id": "d8559de8-62f0-40e7-8e76-901a487d1e56",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c1dde218-6707-4fca-b9d8-8e13bd2a699c",
+   "business_id": "ffef184e-a0a6-4cf7-8273-fd9a3ded0a76",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2d53f081-07d4-4906-850f-7995b68ba060",
+   "business_id": "39d7143d-ee35-4723-aad5-1055caef89b5",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e458d7d2-6f8d-46c0-beec-5babb4977deb",
+   "business_id": "2d97cd00-e4de-496f-bf97-6fdd6b9203e3",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "9adb8c52-a92a-47d1-b9a1-aa13ab9a21ba",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wasatch Maids",
+   "category": "House cleaning",
+   "phone": "(801) 821-2316",
+   "website": "https://wasatchmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3cb6015a-6f7b-45c4-b82a-dd3482ef0fcd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Nina's Cleaning",
+   "category": "House cleaning",
+   "phone": "(385) 626-7082",
+   "website": "http://ninascleaningutah.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4f94dbc2-3a2d-4651-9d3b-ba80085d38b8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Got Dirt House Cleaning",
+   "category": "House cleaning",
+   "phone": "(801) 645-0258",
+   "website": "https://www.gotdirthousecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5a012c33-dff1-48e2-919b-57e801e0b8a5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Essential Cleaning Services of Utah, L.L.C.",
+   "category": "House cleaning",
+   "phone": "(801) 309-9303",
+   "website": "http://www.essentialcleaningservicesut.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "983f600a-7628-4f54-a85e-4f13935b12d4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Just Credible Cleaners",
+   "category": "House cleaning",
+   "phone": "(801) 510-9497",
+   "website": "https://justcrediblecleaners.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5797e860-8b8a-4e5c-8707-36b90d6526e0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Healthy Homes Housekeeping",
+   "category": "House cleaning",
+   "phone": "(801) 751-4988",
+   "website": "https://www.healthyhomesutah.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e17bcfa7-ea1a-4daa-bac3-31c38003d5b6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Optima Clean Utah",
+   "category": "House cleaning",
+   "phone": "(801) 783-1342",
+   "website": "https://optimaclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84404"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "7d73675f-d1ba-4cf6-8f82-268236f33cd6",
+   "business_id": "9adb8c52-a92a-47d1-b9a1-aa13ab9a21ba",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b207b21d-062f-40a4-a902-bb03f9404c75",
+   "business_id": "3cb6015a-6f7b-45c4-b82a-dd3482ef0fcd",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "852c1909-ddc6-48cc-8582-b9e61c3d3019",
+   "business_id": "4f94dbc2-3a2d-4651-9d3b-ba80085d38b8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1e8ecfa4-0d5c-4b98-baa1-67c52935e94a",
+   "business_id": "5a012c33-dff1-48e2-919b-57e801e0b8a5",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ca164342-3007-41a8-8980-5d026f91fdd1",
+   "business_id": "983f600a-7628-4f54-a85e-4f13935b12d4",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b9c2d86f-d5dd-473e-b960-af3565ebc467",
+   "business_id": "5797e860-8b8a-4e5c-8707-36b90d6526e0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "053f5582-e388-4518-b889-915f48e53ac9",
+   "business_id": "e17bcfa7-ea1a-4daa-bac3-31c38003d5b6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

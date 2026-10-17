@@ -151,7 +151,51 @@ var ZIP_NAMES = {
     '98404': 'East Tacoma',
     '98405': 'Central Tacoma',
     '98409': 'South Tacoma',
-    '98465': 'University Place'
+    '98465': 'University Place',
+  '83642': 'Meridian',
+  '83646': 'Meridian',
+  '83651': 'Nampa',
+  '83702': 'Downtown Boise',
+  '83703': 'North End, Boise',
+  '83704': 'West Boise',
+  '83705': 'Boise Bench',
+  '83706': 'Southeast Boise',
+  '83709': 'Southwest Boise',
+  '83712': 'East Boise',
+  '83713': 'West Boise',
+  '83714': 'Garden City',
+  '83716': 'Harris Ranch, Boise',
+  '84010': 'Bountiful',
+  '84014': 'Centerville',
+  '84020': 'Draper',
+  '84025': 'Farmington',
+  '84037': 'Kaysville',
+  '84044': 'Magna',
+  '84054': 'North Salt Lake',
+  '84060': 'Park City',
+  '84087': 'Woods Cross',
+  '84094': 'Sandy',
+  '84098': 'Park City',
+  '84101': 'Downtown Salt Lake City',
+  '84102': 'Salt Lake City',
+  '84103': 'The Avenues, Salt Lake City',
+  '84104': 'Salt Lake City',
+  '84105': 'Salt Lake City',
+  '84106': 'Salt Lake City',
+  '84107': 'Murray',
+  '84108': 'Salt Lake City',
+  '84109': 'Salt Lake City',
+  '84111': 'Salt Lake City',
+  '84112': 'Salt Lake City',
+  '84113': 'Salt Lake City',
+  '84115': 'Salt Lake City',
+  '84116': 'Rose Park, Salt Lake City',
+  '84119': 'West Valley City',
+  '84120': 'West Valley City',
+  '84124': 'Holladay',
+  '84128': 'West Valley City',
+  '84404': 'Ogden',
+  '84601': 'Provo',
 };
 
 function slugify(name) {
@@ -202,7 +246,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261016a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261017a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

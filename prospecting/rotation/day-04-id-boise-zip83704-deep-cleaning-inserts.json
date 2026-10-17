@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "9f013ee9-a2a5-4b1f-baf8-53533bdcbaaf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ProTouch Cleaners",
+      "category": "Deep cleaning",
+      "phone": "(208) 994-1525",
+      "website": "https://www.protouchcleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3fe8225c-53fe-49ac-89e8-f9ce4167ebb6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fabulously Clean House Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(208) 608-4648",
+      "website": "https://www.fabulouslycleanboise.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "663dbac7-15d2-4be3-aa2d-9a9a029a24ce",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Button Babes Household Services",
+      "category": "Deep cleaning",
+      "phone": "(208) 724-3244",
+      "website": "http://www.buttonbabescleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "29fac220-2efd-447b-b6ca-addb681134d3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Boise Premier Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(208) 901-3919",
+      "website": "http://boisepremiercleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2f47dfa5-99cf-4a28-8573-c6836bf926a4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fresh House",
+      "category": "Deep cleaning",
+      "phone": "(208) 810-4281",
+      "website": "https://www.freshhousechecklist.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "85ffca91-1d69-4597-b943-9fef733559c7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zoe Cleaning Service",
+      "category": "Deep cleaning",
+      "phone": "(208) 963-0144",
+      "website": "https://zoecleaning.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "96f2a331-fd4a-482a-aecb-3685c4dc6be7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Boise",
+      "category": "Deep cleaning",
+      "phone": "(208) 647-3137",
+      "website": "https://www.thecleaningauthority.com/boise",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d84ba21e-ed2e-455a-b7de-9ed26cd1a208",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wanny Clean",
+      "category": "Deep cleaning",
+      "phone": "(208) 280-2574",
+      "website": "https://www.wannycleanidaho.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "83704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "549a2777-b689-4c94-bf7b-92fecd4dccdd",
+      "business_id": "9f013ee9-a2a5-4b1f-baf8-53533bdcbaaf",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0a61e866-0816-4e95-9257-3db8e5380843",
+      "business_id": "3fe8225c-53fe-49ac-89e8-f9ce4167ebb6",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d4548eaf-eb5b-477a-a475-aaf3b2c055ba",
+      "business_id": "663dbac7-15d2-4be3-aa2d-9a9a029a24ce",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f2146eba-617a-4757-837d-9a3467224442",
+      "business_id": "29fac220-2efd-447b-b6ca-addb681134d3",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "74759bc4-cb51-4d88-bd63-148f1e81d619",
+      "business_id": "2f47dfa5-99cf-4a28-8573-c6836bf926a4",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0759cefc-322c-43c0-bb6e-519ca12a5aac",
+      "business_id": "85ffca91-1d69-4597-b943-9fef733559c7",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "838d2736-bdb4-449a-892d-05726637a529",
+      "business_id": "96f2a331-fd4a-482a-aecb-3685c4dc6be7",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8dd29a0d-1e31-49a2-a9e8-634c9944b4e1",
+      "business_id": "d84ba21e-ed2e-455a-b7de-9ed26cd1a208",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

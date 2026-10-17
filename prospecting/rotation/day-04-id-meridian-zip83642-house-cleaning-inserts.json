@@ -1,0 +1,176 @@
+{
+ "businesses": [
+  {
+   "id": "2d4e105c-b4e2-497c-a2c6-7f15286f50ce",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid to Clean",
+   "category": "House cleaning",
+   "phone": "(208) 855-0800",
+   "website": "https://maidtocleanidaho.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83642"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "26cc6f0b-9eda-49a0-9a4c-c5df28ba4318",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Boise",
+   "category": "House cleaning",
+   "phone": "(208) 758-9803",
+   "website": "https://merrymaids.com/home-cleaners-meridian-id",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83642"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e5e3b1d5-69d4-43cd-96ef-c9fd27a50a59",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Maids",
+   "category": "House cleaning",
+   "phone": "(208) 258-3123",
+   "website": "https://www.twomaidscleaning.com/meridian/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83642",
+    "83646"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4078ef37-51cf-4e1f-83e0-dea745e56083",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Favorite Day Maid",
+   "category": "House cleaning",
+   "phone": "(208) 261-6999",
+   "website": "https://www.favoritedaymaid.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83642"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ebaaaf40-9c27-4fff-91fc-e05b3801a2b5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Illuminate Home Services",
+   "category": "House cleaning",
+   "phone": "(208) 570-5592",
+   "website": "https://illuminatehomeservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83642"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "064ae8ef-7f30-4590-af0b-22959b883335",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Johnsons Cleaning Services LLC",
+   "category": "House cleaning",
+   "phone": "(208) 917-2099",
+   "website": "https://www.johnsonscleaningservices.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "83642",
+    "83646"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "6e6503b5-ce7b-4713-9bc5-3d0670fa524e",
+   "business_id": "2d4e105c-b4e2-497c-a2c6-7f15286f50ce",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d7e35645-5e80-49dd-aba0-c39b3aec4e09",
+   "business_id": "26cc6f0b-9eda-49a0-9a4c-c5df28ba4318",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1af5c7f1-51fe-43bc-8e5d-6598e009a167",
+   "business_id": "e5e3b1d5-69d4-43cd-96ef-c9fd27a50a59",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "54d3d124-0589-47e6-9ee7-a325b1dbf24b",
+   "business_id": "4078ef37-51cf-4e1f-83e0-dea745e56083",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7155ca00-832b-4c44-9989-4094a22eae77",
+   "business_id": "ebaaaf40-9c27-4fff-91fc-e05b3801a2b5",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f1d5f10a-a51b-42ff-ad9f-29be3e8d07e7",
+   "business_id": "064ae8ef-7f30-4590-af0b-22959b883335",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

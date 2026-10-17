@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "5ebf7233-7c67-4fb1-83a2-4ce004d75134",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Team Property Improvement",
+   "category": "Handyman",
+   "phone": "(801) 477-7526",
+   "website": "https://ateamutah.com/",
+   "description": "This profile was created from public business information. If you are the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84601"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d5f70772-9bae-4c7b-a6d9-cef887f1cf7f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cransten Remodeling and Handyman",
+   "category": "Handyman",
+   "phone": "(801) 494-1868",
+   "website": "https://cransten.com/provohandymanandremodeling",
+   "description": "This profile was created from public business information. If you are the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84601"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9e1e98a3-bbb9-4d15-be4a-becd0298a15e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "FIXI LLC",
+   "category": "Handyman",
+   "phone": "(801) 427-7610",
+   "website": "https://utahflooringandhandyman.com/",
+   "description": "This profile was created from public business information. If you are the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84601"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3e043b6f-4000-4c90-aae2-5daeb2a35ea4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Almonds Solutions LLC",
+   "category": "Handyman",
+   "phone": "(385) 201-9311",
+   "website": "https://almondssolutions.my.canva.site/",
+   "description": "This profile was created from public business information. If you are the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84601"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "90fba902-a118-4d59-b1c2-10d227a7e469",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Black Gloves Handyman LLC",
+   "category": "Handyman",
+   "phone": "(540) 455-8044",
+   "website": "https://www.blackgloveshandyman.com/",
+   "description": "This profile was created from public business information. If you are the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84601"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e2cd48e3-541c-42ff-8269-f0c1d57988a0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Utah Handyman and Remodel Pros",
+   "category": "Handyman",
+   "phone": "(801) 877-3604",
+   "website": "https://www.utahvalleyhandyman.com/",
+   "description": "This profile was created from public business information. If you are the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "84601"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "fa7ce428-4fb4-41c4-8779-c0dca4833236",
+   "business_id": "5ebf7233-7c67-4fb1-83a2-4ce004d75134",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "bb02673a-309d-47e2-a072-860e46343fba",
+   "business_id": "d5f70772-9bae-4c7b-a6d9-cef887f1cf7f",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "963323d5-7e8e-4433-b0ef-13a3b9a399fd",
+   "business_id": "9e1e98a3-bbb9-4d15-be4a-becd0298a15e",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8947504f-1522-4655-8d0c-1d50cdd114e5",
+   "business_id": "3e043b6f-4000-4c90-aae2-5daeb2a35ea4",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "51aff17c-286f-4d68-a8bf-1c5391bbc599",
+   "business_id": "90fba902-a118-4d59-b1c2-10d227a7e469",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "eb338e74-71de-4671-9d83-02a7ba059d4e",
+   "business_id": "e2cd48e3-541c-42ff-8269-f0c1d57988a0",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
