@@ -1,0 +1,33 @@
+# Rotation Day 5 — Montana: Billings × House cleaning × ZIP 59102
+
+- Researched: 2026-10-17 (Day 5, manual live run ordered by the owner — thin batch, up to 5)
+- Cell note: ZIP 59102 is west/central Billings. House cleaning is done inside the customer's home by definition, so on-site service is the business model itself. Billings is a thinner market than the metro cells: only ONE qualifying business (MT Cleaning LLC) is addressed in 59102 itself on its own site; the other three are Billings home cleaners physically addressed in adjacent ZIP 59101 whose own materials show Billings-wide residential service that includes 59102. No adjacent-ZIP *expansion* was needed — the batch reaches 4 qualifying businesses in Billings, above the 3-business floor.
+- Sources: each business's own website first, then public listings (Google Business, Yelp, Birdeye, BBB). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers were taken from public sources; never invented.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source |
+|---|---|---|---|---|---|---|---|
+| MT Cleaning LLC | (406) 812-0327 | House cleaning | Billings | https://mtcleanbillings.com/ | mtcleaning2015@gmail.com — https://mtcleanbillings.com/ (business's own website, contact block) | High — own site: explicit Residential Cleaning service ("house cleaning for your residential sanctuary"), phone, email, and its own location printed as "Billings, MT 59102" — in the target ZIP itself; also BBB-listed in Billings | Business's own website + Google Business listing |
+| Eva's Cleaning Service | (406) 850-8601 | House cleaning | Billings | https://greencleaningmt.com/ | officemanager@greencleaningmt.com — https://greencleaningmt.com/ (business's own website, footer) | High — own site: green cleaning of homes in Billings ("We come onsite for residential cleaning"), deep clean / move in-out services, phone, email, and its own address, 12 N 35th St, Billings, MT 59101, all printed on the site | Business's own website |
+| Elite Home Services | (406) 294-3294 | House cleaning | Billings | https://theelitetouch.com/ | info@theelitetouch.com — https://theelitetouch.com/contact.aspx (business's own contact page, labeled "General Email") | High — own site: headline service is Maid Service ("We give your home the personal touch"), contact page gives this phone, the general email, and its address, 1919 Montana Ave, Billings, MT 59101 | Business's own website (contact page) + Google Business listing |
+| Down-N-Dirty Cleaning Services | (406) 591-6154 | House cleaning | Billings | https://downndirtycleaningservice.com/ | — none published on its own site that could be verified | Medium — the business's own site (its published domain resolves to its GoDaddy-built site, downndirtycleanings.godaddysites.com) is entirely residential: "Residential Home Cleaning" weekly/bi-weekly/monthly, kitchen, bathroom, one-time and move in/out cleaning; phone and its address, 315 S 26th St, Billings, MT 59101, come from its Google Business listing because the fetched site pages show no phone | Business's own website (service menu) + Google Business listing |
+
+## Dedupe
+- Live directory (Supabase businesses table, name + phone pull, 2026-10-17): Montana is new territory — the live DB contains NO (406) phone numbers and no Billings businesses, so no name or phone in this batch can collide with a live row.
+- All prior prospecting files in ~/workspace/van-squad/prospecting/ were grepped for every name ("MT Cleaning", "Eva's Cleaning", "Elite Home Services", "Down-N-Dirty") and every phone (812-0327, 850-8601, 294-3294, 591-6154) in this batch before finalizing: zero matches.
+- Near-name checked and NOT a duplicate: "Elite Home Services" vs "Elan Cleaning and Home Services" (Day 3 Portland cell) — different name, different phone, different state.
+- Same-premises pair checked and NOT merged: Elite Home Services and Executive Cleaning Co share 1919 Montana Ave and cross-linked staff emails (one ownership family), but they are distinct brands with distinct phones and sites; only Elite Home Services is included (see Excluded for ECCI).
+
+## Excluded (checked, did not pass the gates)
+- Sparkling Clean (639 St Johns Ave, Billings, 59102; (406) 855-4250 per its Google listing) — EXCLUDED: its own website (yoursparklingclean.com) resolves only to a bare server directory index, so residential service could not be confirmed from its own materials, and no second public source corroborated the listing at check time. Same gate that excluded Cleaning Queens in Las Vegas (Day 3).
+- Big Sky Cleaning Services (506 Grand Ave, Billings; (406) 690-7054 per Google listing) — EXCLUDED: its listed domain (bigskycleaningservices.com) is parked and offered for sale, so no own materials exist to confirm home service.
+- Montana Cleaning Service (607 Cook Ave, Billings; (406) 259-6116 on its own site) — EXCLUDED on category fit: its own website describes carpet, tile, and upholstery cleaning only — a floor-care specialist, not a house cleaning service.
+- Executive Cleaning Co (ECCI) (1919 Montana Ave, Billings; (406) 248-3435 per Google listing) — EXCLUDED: its own homepage positions it as a commercial janitorial / office and property-management contractor ("Montana's largest office cleaning contractor") and shows no phone on the fetched page; residential house cleaning could not be confirmed as an offer from its own materials. Its sister brand at the same address, Elite Home Services, IS included above on its own maid-service merits.
+- Johnston's Cleaning (516 1st St W, Billings; (406) 697-7643 per Google listing) — EXCLUDED: its only website (a Google business.site page) returns 404, leaving a single listing source with no own materials.
+- Aimee's Cleaning Services, Mom's Helper, I-Lean-to-Clean, A Step Above Cleaning, The Works J&Bs — EXCLUDED: no website or own materials could be found, only bare map listings.
+- Homeaglow Billings and other national matching platforms — EXCLUDED on the standing gate (national lead-gen, no local operator).
+
+## ZIP note
+- Target ZIP 59102 is in every business's service_zips. Additional service ZIP used: 59101, evidenced per business above (Eva's own published address; Elite Home Services' own published address; Down-N-Dirty's Google-listing address). MT Cleaning LLC's own site states its location as Billings, MT 59102, so it carries 59102 alone — its site names Lockwood and Laurel as served communities but publishes no ZIPs for them, so none were added.
+- Count: 4 businesses, 4 listings, 3 published-email leads (see -leads.json).
