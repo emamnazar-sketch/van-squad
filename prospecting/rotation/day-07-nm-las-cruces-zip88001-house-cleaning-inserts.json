@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "2b5ce8aa-235d-4d33-a487-010024042500",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Essential Cleanings Co.",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 448-1130",
+   "phone_verified": false,
+   "service_zips": [
+    "88001"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.essentialcleanings.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "482ec44c-3ab7-4412-8eb6-d86ce808e3f2",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Cleaning Pros",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 500-5525",
+   "phone_verified": false,
+   "service_zips": [
+    "88001"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.cleaningproslc.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1a96a8fd-9a0f-43ca-86e0-2ef45cdbb74c",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "G.I. Party Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 405-9021",
+   "phone_verified": false,
+   "service_zips": [
+    "88001"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.gipartycleaningservice.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "87636adf-9ba9-4ef3-a8e0-57b35825eaf6",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Organs Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 650-7859",
+   "phone_verified": false,
+   "service_zips": [
+    "88001"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://organscleaning.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "7e9258be-5165-4b32-85d0-11c4140455b3",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Merry Maids of Las Cruces",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 602-7053",
+   "phone_verified": false,
+   "service_zips": [
+    "88001"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://merrymaids.com/home-cleaners-las-cruces-nm"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "20c246e9-1c98-408b-90ca-9d6773f61788",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sonoma Cleaning Services LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 249-4325",
+   "phone_verified": false,
+   "service_zips": [
+    "88001"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://sonomacleaningservices.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "2b5ce8aa-235d-4d33-a487-010024042500",
+   "id": "7c196da3-fe9b-43f8-bdf6-d1cc18b19fff",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "482ec44c-3ab7-4412-8eb6-d86ce808e3f2",
+   "id": "47f60df2-f53c-47ee-bb54-d9a3e626de92",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "1a96a8fd-9a0f-43ca-86e0-2ef45cdbb74c",
+   "id": "1b4cdeb2-a942-48b7-be32-487fb62112f9",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "87636adf-9ba9-4ef3-a8e0-57b35825eaf6",
+   "id": "b271cbe7-24b9-484c-86d4-fd5fba8f4a57",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "7e9258be-5165-4b32-85d0-11c4140455b3",
+   "id": "32aa96e4-14c1-4d51-915f-f6f4fa1f12d4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "20c246e9-1c98-408b-90ca-9d6773f61788",
+   "id": "e416042f-4323-46c2-a06b-c7e49c4559a7",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

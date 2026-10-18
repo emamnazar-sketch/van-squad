@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "bdbfccb2-cdee-4508-a7db-b6eae4adf44e",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Pristine Clean LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 414-8555",
+      "phone_verified": false,
+      "service_zips": [
+        "87105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.facebook.com/share/1HtbmsbB8P"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "a9e76b7f-968d-4e22-826c-b73543d14621",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Liz's House Cleaning",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 304-8496",
+      "phone_verified": false,
+      "service_zips": [
+        "87105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "09829ff6-768f-4567-9230-a030aba09a2c",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "The Q Maids",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 514-2689",
+      "phone_verified": false,
+      "service_zips": [
+        "87102"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://theqmaids.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "bdbfccb2-cdee-4508-a7db-b6eae4adf44e",
+      "id": "a70d67d9-b38e-46cb-88a4-59612d954c77",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "a9e76b7f-968d-4e22-826c-b73543d14621",
+      "id": "83c2d236-759e-4940-8034-77ea646b7598",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "09829ff6-768f-4567-9230-a030aba09a2c",
+      "id": "9b054acc-1e46-4fc3-bc22-6b415cf6d9e7",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

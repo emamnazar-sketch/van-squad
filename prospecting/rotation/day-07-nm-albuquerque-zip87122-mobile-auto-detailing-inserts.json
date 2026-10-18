@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "70df9163-93ab-4bdf-b601-c8e8663afc5a",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Paradise Auto Detailing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 366-8571",
+      "phone_verified": false,
+      "service_zips": [
+        "87122"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.paradise-auto-detailing.com/"
+    },
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "1d0aab2f-4a0e-4ab1-8502-ce2f59978e48",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "1Perfection Auto Spa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 717-6092",
+      "phone_verified": false,
+      "service_zips": [
+        "87122"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://1perfectionautospa.com/"
+    },
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "5a83388f-0e33-46f7-91d1-e708b82b47f6",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Four Brothers Mobile Detailing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 810-8080",
+      "phone_verified": false,
+      "service_zips": [
+        "87122"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://fourbrothersmobilealbuquerque.com/"
+    },
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "dd040eea-ad22-4714-910b-297969600c54",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Tony's Mobile Auto Detailing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 348-7720",
+      "phone_verified": false,
+      "service_zips": [
+        "87122"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://tonysmobileautodetailingnm.com/"
+    },
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "24e2c219-9d9f-432a-bf44-4710241dbef5",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Thompson Mobile Detailing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 659-5858",
+      "phone_verified": false,
+      "service_zips": [
+        "87122"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    },
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "33e9e32a-8510-4268-b95a-92ebbcd2ff95",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "B's Mobile Detailing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 373-6412",
+      "phone_verified": false,
+      "service_zips": [
+        "87122"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.bsdetail.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "70df9163-93ab-4bdf-b601-c8e8663afc5a",
+      "id": "3bb04fe1-4685-479a-b649-08746bd32946",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "business_id": "1d0aab2f-4a0e-4ab1-8502-ce2f59978e48",
+      "id": "76da2af5-f8a9-4519-ae97-8479d1149e47",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "business_id": "5a83388f-0e33-46f7-91d1-e708b82b47f6",
+      "id": "bb500a96-1e04-48d7-be9e-3dfa54ad2c31",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "business_id": "dd040eea-ad22-4714-910b-297969600c54",
+      "id": "0cc1848f-0edf-4edd-b0c6-8e5342f51a5a",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "business_id": "24e2c219-9d9f-432a-bf44-4710241dbef5",
+      "id": "4bbbe73f-149f-4bcc-bcf5-f0579e0f76db",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "business_id": "33e9e32a-8510-4268-b95a-92ebbcd2ff95",
+      "id": "0819929f-98d3-41e4-830d-78275fb2e36f",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    }
+  ]
+}

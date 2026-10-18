@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "category": "Pool cleaning & maintenance",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "04f8e44c-cd7d-4c35-a19f-e01c78d52575",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Atlantis Pool Service LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 453-6018",
+      "phone_verified": false,
+      "service_zips": [
+        "87114"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://atlantispoolsnm.com/"
+    },
+    {
+      "category": "Pool cleaning & maintenance",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "3bb624c6-27d2-4de8-b919-63c1a4e71c21",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Rio Grande Pool Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 263-3193",
+      "phone_verified": false,
+      "service_zips": [
+        "87114"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.riograndepoolservice.com"
+    },
+    {
+      "category": "Pool cleaning & maintenance",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "808611d3-6f3b-406d-b70b-23929cec787d",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Complete Pool Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 898-1962",
+      "phone_verified": false,
+      "service_zips": [
+        "87114"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    },
+    {
+      "category": "Pool cleaning & maintenance",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "9dda51ce-d8be-4a09-893a-fb9ac5406586",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Heritage Pools and Spa, LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(505) 553-3489",
+      "phone_verified": false,
+      "service_zips": [
+        "87114"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://heritagepoolsandspa.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "04f8e44c-cd7d-4c35-a19f-e01c78d52575",
+      "id": "65f7260a-deb0-4fb0-90c3-ddd1472b6b4f",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "3bb624c6-27d2-4de8-b919-63c1a4e71c21",
+      "id": "193e9382-d2cb-4f87-b086-fef41d60075c",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "808611d3-6f3b-406d-b70b-23929cec787d",
+      "id": "e3ba141a-b090-443e-940d-df251927c9b5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "9dda51ce-d8be-4a09-893a-fb9ac5406586",
+      "id": "969bc6dd-547e-4d72-84f4-bff973efc72b",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    }
+  ]
+}

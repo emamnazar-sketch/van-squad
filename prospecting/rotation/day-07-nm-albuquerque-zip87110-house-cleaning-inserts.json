@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "e93d0a89-9b8e-41e5-9d20-821e3b37f635",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "D'Aaron's Housekeeping Co",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 514-8826",
+   "phone_verified": false,
+   "service_zips": [
+    "87110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://daaronshousekeeping.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "72ca849e-8840-4445-b1b6-3e177265b4a1",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sandia Green Clean",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 404-3071",
+   "phone_verified": false,
+   "service_zips": [
+    "87110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://sandiagreenclean.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "196ea052-2bce-473e-aae3-70a173f8e11f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Natures Cleaning Services LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 267-6730",
+   "phone_verified": false,
+   "service_zips": [
+    "87110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://naturescleaningllc.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "38f9fa1b-84be-4ac9-b540-de6423184f16",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "green sweep",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 414-7887",
+   "phone_verified": false,
+   "service_zips": [
+    "87110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://greensweepnm.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "fa93f2fb-0ba9-4b8b-8962-8d59978dd963",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Maids of Albuquerque Uptown",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 296-3714",
+   "phone_verified": false,
+   "service_zips": [
+    "87110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.maids.com/349/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1e347c1a-7804-4afa-9db9-7a79b411db9b",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Merry Maids of Albuquerque",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 578-2106",
+   "phone_verified": false,
+   "service_zips": [
+    "87110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://merrymaids.com/home-cleaners-albuquerque-nm"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "e93d0a89-9b8e-41e5-9d20-821e3b37f635",
+   "id": "9dd446a3-6339-4996-8620-91a4e0f5c6dc",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "72ca849e-8840-4445-b1b6-3e177265b4a1",
+   "id": "9a959c0e-9f56-4d14-bdb4-70c42a5ffbfe",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "196ea052-2bce-473e-aae3-70a173f8e11f",
+   "id": "8965c143-014e-4550-a45c-65434da70494",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "38f9fa1b-84be-4ac9-b540-de6423184f16",
+   "id": "8936e790-1c50-42b6-9801-50d559ed8e95",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "fa93f2fb-0ba9-4b8b-8962-8d59978dd963",
+   "id": "aad807da-7c84-4e61-bf56-eeaae67e6d9d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "1e347c1a-7804-4afa-9db9-7a79b411db9b",
+   "id": "e948fe64-035a-46bb-8aef-7be89cbd43df",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

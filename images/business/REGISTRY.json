@@ -2534,5 +2534,647 @@
   "image": "images/business/bark-mane-of-boulder-and-arvada.jpg",
   "scene": "Groomer brushing a long-haired cat on a table in a sunny driveway, unbranded van behind (regenerated after coordinator QA reject: first version framed subjects too distant)",
   "created": "2026-10-18"
+ },
+ "38a91a8d-0ce7-4790-b9e1-e0535d6d13e4": {
+  "business": "Sally's House Cleaning Services",
+  "image": "images/business/sally-s-house-cleaning-services.jpg",
+  "scene": "Vacuuming a woven rug in a sunlit stucco living room, desert hills through picture windows",
+  "created": "2026-10-18"
+ },
+ "ca57ffb3-971a-4693-a8df-9325aa949810": {
+  "business": "Adriana's Cleaning Services",
+  "image": "images/business/adriana-s-cleaning-services.jpg",
+  "scene": "Smoothing fresh white linens on a wooden bed frame, towels in a basket at the foot",
+  "created": "2026-10-18"
+ },
+ "51686969-bca3-401a-a5ad-465559bdf732": {
+  "business": "At Ease Cleaning Services",
+  "image": "images/business/at-ease-cleaning-services.jpg",
+  "scene": "Flat-mopping a terracotta tile kitchen floor, bucket beside her, desert view through sliding doors",
+  "created": "2026-10-18"
+ },
+ "bdbfccb2-cdee-4508-a7db-b6eae4adf44e": {
+  "business": "Pristine Clean LLC",
+  "image": "images/business/pristine-clean-llc.jpg",
+  "scene": "Vacuuming a Southwestern-patterned rug in an adobe living room with a kiva fireplace, Sandia Mountains in the windows",
+  "created": "2026-10-18"
+ },
+ "a9e76b7f-968d-4e22-826c-b73543d14621": {
+  "business": "Liz's House Cleaning",
+  "image": "images/business/liz-s-house-cleaning.jpg",
+  "scene": "Kneeling beside a white bathtub scrubbing its inner wall with a hand brush, caddy on the tile floor",
+  "created": "2026-10-18"
+ },
+ "09829ff6-768f-4567-9230-a030aba09a2c": {
+  "business": "The Q Maids",
+  "image": "images/business/the-q-maids.jpg",
+  "scene": "Smoothing a white duvet on a wooden bed frame in an adobe bedroom, morning light",
+  "created": "2026-10-18"
+ },
+ "acc718d1-220d-459d-b059-ab61ab2b39dc": {
+  "business": "Maid O' Matic",
+  "image": "images/business/maid-o-matic.jpg",
+  "scene": "Wiping a kitchen island counter with a cloth, spray bottle and supply bucket beside her",
+  "created": "2026-10-18"
+ },
+ "aa5baf6b-743e-4961-b728-4a3541056b78": {
+  "business": "505 Clean Queens",
+  "image": "images/business/505-clean-queens.jpg",
+  "scene": "Vacuuming a Southwestern-patterned rug in an adobe living room with a kiva fireplace",
+  "created": "2026-10-18"
+ },
+ "8e41f312-62e3-4865-adc2-a86dbd0ab030": {
+  "business": "Advanced Green Cleaning",
+  "image": "images/business/advanced-green-cleaning.jpg",
+  "scene": "Scrubbing a bathtub floor with a long-handled brush, caddy of plain glass spray bottles beside the tub",
+  "created": "2026-10-18"
+ },
+ "1b19f530-b02f-473e-aaec-29d955599672": {
+  "business": "Two Maids of Albuquerque",
+  "image": "images/business/two-maids-of-albuquerque.jpg",
+  "scene": "Vacuuming a patterned rug in an adobe great room with a kiva fireplace and mountain views",
+  "created": "2026-10-18"
+ },
+ "19b41fb9-a2ac-456b-be4f-6179e8ed242b": {
+  "business": "The Cleaning Authority",
+  "image": "images/business/the-cleaning-authority.jpg",
+  "scene": "Wiping a granite kitchen island with a cloth, spray bottle and pail on the counter",
+  "created": "2026-10-18"
+ },
+ "eb8d806a-ac8b-4bc2-ae91-eda1ab866040": {
+  "business": "Molly Maid of Greater Albuquerque",
+  "image": "images/business/molly-maid-of-greater-albuquerque.jpg",
+  "scene": "Smoothing white bedding on a wooden bed frame, pine trees and mesas through the windows",
+  "created": "2026-10-18"
+ },
+ "e93d0a89-9b8e-41e5-9d20-821e3b37f635": {
+  "business": "D'Aaron's Housekeeping Co",
+  "image": "images/business/d-aaron-s-housekeeping-co.jpg",
+  "scene": "Wiping a granite kitchen island, caddy of plain spray bottles on the counter, pi\u00f1on pines outside",
+  "created": "2026-10-18"
+ },
+ "72ca849e-8840-4445-b1b6-3e177265b4a1": {
+  "business": "Sandia Green Clean",
+  "image": "images/business/sandia-green-clean.jpg",
+  "scene": "Vacuuming a woven rug in an adobe living room, leather sofa and kiva fireplace, mountains in the windows",
+  "created": "2026-10-18"
+ },
+ "196ea052-2bce-473e-aae3-70a173f8e11f": {
+  "business": "Natures Cleaning Services LLC",
+  "image": "images/business/natures-cleaning-services-llc.jpg",
+  "scene": "Scrubbing the side of a white bathtub with a sponge, cleaning caddy on the bathroom floor",
+  "created": "2026-10-18"
+ },
+ "38f9fa1b-84be-4ac9-b540-de6423184f16": {
+  "business": "green sweep",
+  "image": "images/business/green-sweep.jpg",
+  "scene": "Smoothing white bedding in a small adobe bedroom, desert view through a single window",
+  "created": "2026-10-18"
+ },
+ "fa93f2fb-0ba9-4b8b-8962-8d59978dd963": {
+  "business": "The Maids of Albuquerque Uptown",
+  "image": "images/business/the-maids-of-albuquerque-uptown.jpg",
+  "scene": "Wiping a granite kitchen island with a cloth, Sandia Mountains filling the windows",
+  "created": "2026-10-18"
+ },
+ "1e347c1a-7804-4afa-9db9-7a79b411db9b": {
+  "business": "Merry Maids of Albuquerque",
+  "image": "images/business/merry-maids-of-albuquerque.jpg",
+  "scene": "Vacuuming a colorful Southwestern rug in an adobe living room with a kiva fireplace",
+  "created": "2026-10-18"
+ },
+ "68572f0e-63ba-4eef-8805-fab60a7610b5": {
+  "business": "Mobile Detail Pros",
+  "image": "images/business/mobile-detail-pros.jpg",
+  "scene": "Wiping the rear door of a silver sedan in a desert driveway, adobe home and mountains behind",
+  "created": "2026-10-18"
+ },
+ "8c00dc2c-1301-4f1d-b8dc-f02953265f4e": {
+  "business": "Albuquerque Detailing Pros",
+  "image": "images/business/albuquerque-detailing-pros.jpg",
+  "scene": "Wiping the hood of a dark blue sedan in a concrete driveway, bucket beside the car",
+  "created": "2026-10-18"
+ },
+ "8dec74cc-154d-471b-b153-d5db0175040d": {
+  "business": "Sandia Summit Mobile Detailing",
+  "image": "images/business/sandia-summit-mobile-detailing.jpg",
+  "scene": "Wiping the side window of a white SUV in a driveway, spray bottle on the concrete",
+  "created": "2026-10-18"
+ },
+ "9f9cdd74-f450-42cb-80ed-644e791b5378": {
+  "business": "Platinum Mobile Detailing",
+  "image": "images/business/platinum-mobile-detailing.jpg",
+  "scene": "Kneeling at the front wheel of a silver pickup scrubbing the soapy tire, bucket beside him",
+  "created": "2026-10-18"
+ },
+ "a60f8ba2-aa30-4841-afda-2d9baafd5aa7": {
+  "business": "T and J Mobile Detailing",
+  "image": "images/business/t-and-j-mobile-detailing.jpg",
+  "scene": "Vacuuming the back seat of a red hatchback through its open rear door in a gravel yard",
+  "created": "2026-10-18"
+ },
+ "147278f1-d27f-47d7-88cb-e546ec77bf06": {
+  "business": "Shine Superior Detailing",
+  "image": "images/business/shine-superior-detailing.jpg",
+  "scene": "Polishing the rear door panel of a silver sedan with a dual-action polisher, tool case open on the gravel",
+  "created": "2026-10-18"
+ },
+ "255d01f4-6903-4c7c-a79d-deb0585d76ab": {
+  "business": "Auto Therapy Mobile Detailing",
+  "image": "images/business/auto-therapy-mobile-detailing.jpg",
+  "scene": "Vacuuming the interior of a gray SUV, canister vacuum on the driveway with hose connected",
+  "created": "2026-10-18"
+ },
+ "8629b631-bbd7-4573-9f3d-def088d1ecf4": {
+  "business": "Masterwash Auto Detailing",
+  "image": "images/business/masterwash-auto-detailing.jpg",
+  "scene": "Wiping the windshield of a white pickup truck in a desert driveway",
+  "created": "2026-10-18"
+ },
+ "af9d141c-2cb2-48ae-af68-17c924c170ef": {
+  "business": "Vanity Auto Detailing",
+  "image": "images/business/vanity-auto-detailing.jpg",
+  "scene": "Scrubbing the front wheel of a blue coupe with a brush, soapy bucket beside her",
+  "created": "2026-10-18"
+ },
+ "5b4febfe-d041-4355-aca8-03d1c02e6741": {
+  "business": "Sparkling Mobile Detailing",
+  "image": "images/business/sparkling-mobile-detailing.jpg",
+  "scene": "Wiping the rear door of a silver sedan with a cloth in a gravel driveway",
+  "created": "2026-10-18"
+ },
+ "a027a4ec-ec83-4394-b2a6-7c65a644517a": {
+  "business": "Attention to Detail",
+  "image": "images/business/attention-to-detail.jpg",
+  "scene": "Wiping the windshield of a dark blue SUV in a concrete driveway, bucket and spray bottle nearby",
+  "created": "2026-10-18"
+ },
+ "b9335afd-1191-405a-bd15-7c2d2da1e11f": {
+  "business": "DK Mobile Wash",
+  "image": "images/business/dk-mobile-wash.jpg",
+  "scene": "Scrubbing the front tire of a red pickup truck, wash bin on the wet concrete",
+  "created": "2026-10-18"
+ },
+ "407cddbe-02d4-4dd7-a118-fe140b9effe2": {
+  "business": "Apex Mobile Car Clean",
+  "image": "images/business/apex-mobile-car-clean.jpg",
+  "scene": "Vacuuming the back seat of a white hatchback, canister vacuum on the driveway",
+  "created": "2026-10-18"
+ },
+ "cd0ee15e-3035-4e2c-a72f-79ec19addff5": {
+  "business": "The Handiest Man",
+  "image": "images/business/the-handiest-man.jpg",
+  "scene": "Drilling a shelf bracket into an adobe wall, level resting on the wooden shelf board",
+  "created": "2026-10-18"
+ },
+ "45e70f1f-9d48-4e13-8271-2b47c7287030": {
+  "business": "The ABQ Handyman",
+  "image": "images/business/the-abq-handyman.jpg",
+  "scene": "Fitting a door knob on a wooden front door on an adobe porch, open toolbox on the tile",
+  "created": "2026-10-18"
+ },
+ "d1fa3eda-c432-4604-a66b-2315ad8d1251": {
+  "business": "Ace Handyman Services Albuquerque North",
+  "image": "images/business/ace-handyman-services-albuquerque-north.jpg",
+  "scene": "Drilling a wall shelf bracket in an adobe room, toolbox open on the tile floor",
+  "created": "2026-10-18"
+ },
+ "53d7df66-bd90-4a1f-9521-08f61f2391a9": {
+  "business": "Mr. Handyman of North Albuquerque",
+  "image": "images/business/mr-handyman-of-north-albuquerque.jpg",
+  "scene": "Working on a bathroom faucet with a wrench, red toolbox open on the vanity",
+  "created": "2026-10-18"
+ },
+ "e98285d3-f400-47b7-8c1d-ffb2625b2ba7": {
+  "business": "My Handy Neighbor",
+  "image": "images/business/my-handy-neighbor.jpg",
+  "scene": "Adjusting the hinge of an open wooden front door on an adobe porch, tool bag below",
+  "created": "2026-10-18"
+ },
+ "4dbcd934-b1ac-4452-9add-898a2f0dad9f": {
+  "business": "Los Buffalos Handyman and Yard Services",
+  "image": "images/business/los-buffalos-handyman-and-yard-services.jpg",
+  "scene": "Drilling a hinge on a wooden yard gate, toolbox open on the gravel",
+  "created": "2026-10-18"
+ },
+ "3b0e8b37-67ed-43f2-8f66-b2a7470d36ee": {
+  "business": "Home Maintenance Solutions",
+  "image": "images/business/home-maintenance-solutions.jpg",
+  "scene": "Drilling a small wall shelf, tape measure resting on the board, sliding doors to the desert",
+  "created": "2026-10-18"
+ },
+ "04f8e44c-cd7d-4c35-a19f-e01c78d52575": {
+  "business": "Atlantis Pool Service LLC",
+  "image": "images/business/atlantis-pool-service-llc.jpg",
+  "scene": "Skimming a backyard pool with a long-handled net, adobe home and Sandia Mountains behind",
+  "created": "2026-10-18"
+ },
+ "3bb624c6-27d2-4de8-b919-63c1a4e71c21": {
+  "business": "Rio Grande Pool Services",
+  "image": "images/business/rio-grande-pool-services.jpg",
+  "scene": "Skimming leaves from a backyard pool with a net, desert landscaping around the deck",
+  "created": "2026-10-18"
+ },
+ "808611d3-6f3b-406d-b70b-23929cec787d": {
+  "business": "Complete Pool Services",
+  "image": "images/business/complete-pool-services.jpg",
+  "scene": "Testing pool water with a test kit while kneeling at the edge of a curved pool",
+  "created": "2026-10-18"
+ },
+ "9dda51ce-d8be-4a09-893a-fb9ac5406586": {
+  "business": "Heritage Pools and Spa, LLC",
+  "image": "images/business/heritage-pools-and-spa-llc.jpg",
+  "scene": "Brushing the wall of a backyard pool beside a raised spa, golden afternoon light",
+  "created": "2026-10-18"
+ },
+ "fb3cbd99-0940-4585-83e9-92cdd282e1df": {
+  "business": "Furry Land Albuquerque-Santa Fe",
+  "image": "images/business/furry-land-albuquerque-santa-fe.jpg",
+  "scene": "Brushing a golden dog on a grooming table behind a plain white van in a gravel driveway",
+  "created": "2026-10-18"
+ },
+ "c95d7d1b-b28a-40ac-9255-4aa813ead7b5": {
+  "business": "Wet Paws Mobile Pet Grooming",
+  "image": "images/business/wet-paws-mobile-pet-grooming.jpg",
+  "scene": "Grooming a black and white dog on a table beside a plain white van, mountains behind",
+  "created": "2026-10-18"
+ },
+ "d233b351-251d-48c0-a8b3-e689bd595aed": {
+  "business": "Enchanted Paws Mobile Grooming",
+  "image": "images/business/enchanted-paws-mobile-grooming.jpg",
+  "scene": "Combing a Pomeranian on a grooming table in a driveway, gray van parked behind",
+  "created": "2026-10-18"
+ },
+ "11d2dcf4-af5e-4807-b5f6-41eedaa55080": {
+  "business": "Mad Dawgz Mobile Grooming",
+  "image": "images/business/mad-dawgz-mobile-grooming.jpg",
+  "scene": "Washing a German shepherd with a hose on a concrete pad beside a plain white van",
+  "created": "2026-10-18"
+ },
+ "c9111c43-f701-48b0-abf5-f9eccb65fe44": {
+  "business": "Martha's House Cleaning",
+  "image": "images/business/martha-s-house-cleaning.jpg",
+  "scene": "Wiping a large interior window with a cloth, spray bottle in hand, kiva fireplace beside her",
+  "created": "2026-10-18"
+ },
+ "5c12c5a0-4f1b-48f0-b9b9-166ffb677fe4": {
+  "business": "Miel Maid Services",
+  "image": "images/business/miel-maid-services.jpg",
+  "scene": "Dusting a tall wooden bookshelf with a cloth, cleaning caddy on the tile floor",
+  "created": "2026-10-18"
+ },
+ "16ba18ed-7f7a-4b59-acbe-50ef7bf973ad": {
+  "business": "Diva Cleaning Services",
+  "image": "images/business/diva-cleaning-services.jpg",
+  "scene": "Mopping a terracotta tile kitchen floor with a string mop, metal bucket beside her",
+  "created": "2026-10-18"
+ },
+ "419161f2-bb00-4462-91fb-37cc35e39cb5": {
+  "business": "Too Good Cleaning",
+  "image": "images/business/too-good-cleaning.jpg",
+  "scene": "Vacuuming the carpet of a bright bedroom beside a made bed, desert views in the windows",
+  "created": "2026-10-18"
+ },
+ "70df9163-93ab-4bdf-b601-c8e8663afc5a": {
+  "business": "Paradise Auto Detailing",
+  "image": "images/business/paradise-auto-detailing.jpg",
+  "scene": "Wiping the front door of a dark blue sedan with a cloth, wash bucket on the driveway",
+  "created": "2026-10-18"
+ },
+ "1d0aab2f-4a0e-4ab1-8502-ce2f59978e48": {
+  "business": "1Perfection Auto Spa",
+  "image": "images/business/1perfection-auto-spa.jpg",
+  "scene": "Polishing the rear quarter panel of a dark blue sedan with a small polisher, supply cart beside him",
+  "created": "2026-10-18"
+ },
+ "5a83388f-0e33-46f7-91d1-e708b82b47f6": {
+  "business": "Four Brothers Mobile Detailing",
+  "image": "images/business/four-brothers-mobile-detailing.jpg",
+  "scene": "Wiping the windshield of a silver SUV in a driveway in front of an adobe home",
+  "created": "2026-10-18"
+ },
+ "dd040eea-ad22-4714-910b-297969600c54": {
+  "business": "Tony's Mobile Auto Detailing",
+  "image": "images/business/tony-s-mobile-auto-detailing.jpg",
+  "scene": "Scrubbing the rear tire of a white pickup truck, soapy bucket on the concrete",
+  "created": "2026-10-18"
+ },
+ "24e2c219-9d9f-432a-bf44-4710241dbef5": {
+  "business": "Thompson Mobile Detailing",
+  "image": "images/business/thompson-mobile-detailing.jpg",
+  "scene": "Wiping the rear door of a dark blue sedan with a cloth, bucket and spray bottle on the ground",
+  "created": "2026-10-18"
+ },
+ "33e9e32a-8510-4268-b95a-92ebbcd2ff95": {
+  "business": "B's Mobile Detailing",
+  "image": "images/business/b-s-mobile-detailing.jpg",
+  "scene": "Vacuuming the back seat of a silver SUV through its open door, canister vacuum on the driveway",
+  "created": "2026-10-18"
+ },
+ "f579ad31-ace3-4824-9ae2-4623875c157a": {
+  "business": "Filthy Gorgeous LLC",
+  "image": "images/business/filthy-gorgeous-llc.jpg",
+  "scene": "Brushing a golden dog on a grooming table beside a small white van, wide street-side shot with mountains behind",
+  "created": "2026-10-18"
+ },
+ "8e282055-aad7-413f-bbaf-c89b988429f3": {
+  "business": "Melis Cleaning Services LLC",
+  "image": "images/business/melis-cleaning-services-llc.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, spray bottle beside her hand, high-plains view behind",
+  "created": "2026-10-18"
+ },
+ "90798a6f-1ce2-4b21-9d35-aacdda65b82f": {
+  "business": "Maid to Order",
+  "image": "images/business/maid-to-order.jpg",
+  "scene": "Vacuuming a light area rug in a bright stucco living room, tall windows over the plains",
+  "created": "2026-10-18"
+ },
+ "6e53add1-c5cb-4388-b176-1d4993079e43": {
+  "business": "La Luz Cleaning Service LLC",
+  "image": "images/business/la-luz-cleaning-service-llc.jpg",
+  "scene": "Scrubbing the inner wall of a white bathtub with a handheld brush, caddy of plain bottles beside her",
+  "created": "2026-10-18"
+ },
+ "ab4ccc81-cb6b-4652-9d65-8fe76e7f5ecf": {
+  "business": "Rachell's Cleaning Services",
+  "image": "images/business/rachell-s-cleaning-services.jpg",
+  "scene": "Fitting a fresh white sheet over the corner of a wooden bed frame, folded towels on a chair",
+  "created": "2026-10-18"
+ },
+ "8f981a11-07db-494a-bc6a-ac50f0e2ebe8": {
+  "business": "A-1 Home Cleaning Express",
+  "image": "images/business/a-1-home-cleaning-express.jpg",
+  "scene": "Wiping a wooden coffee table with a cloth, cleaning caddy on the woven rug beside her",
+  "created": "2026-10-18"
+ },
+ "4eacd79b-938e-4c44-bae2-c7c776683709": {
+  "business": "Epic Cleans LLC",
+  "image": "images/business/epic-cleans-llc.jpg",
+  "scene": "Wiping a granite kitchen island with a cloth, caddy of spray bottles on the counter, mesas in the window",
+  "created": "2026-10-18"
+ },
+ "2516e2bc-5922-46cf-9e48-125b8af7b73c": {
+  "business": "All the Way Cleaning",
+  "image": "images/business/all-the-way-cleaning.jpg",
+  "scene": "Vacuuming a colorful Southwestern rug in an adobe living room with a kiva fireplace",
+  "created": "2026-10-18"
+ },
+ "ff53813f-ae1a-452a-b095-8687d43aceaa": {
+  "business": "Pro Homemaking Services, LLC",
+  "image": "images/business/pro-homemaking-services-llc.jpg",
+  "scene": "Wiping a kitchen island countertop with a cloth, red rock mesas through the picture window",
+  "created": "2026-10-18"
+ },
+ "135751b8-fda3-4a00-9452-e7ae501f54be": {
+  "business": "Premium Cleaning Services LLC",
+  "image": "images/business/premium-cleaning-services-llc.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, flat desert plains through the big windows",
+  "created": "2026-10-18"
+ },
+ "05eeab84-d189-4bcd-afd8-f13b34f69954": {
+  "business": "Community Maintenance LLC",
+  "image": "images/business/community-maintenance-llc.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, spray bottle on the counter beside her",
+  "created": "2026-10-18"
+ },
+ "2b5ce8aa-235d-4d33-a487-010024042500": {
+  "business": "Essential Cleanings Co.",
+  "image": "images/business/essential-cleanings-co.jpg",
+  "scene": "Mopping a terracotta tile kitchen floor, the Organ Mountains framed in the picture window",
+  "created": "2026-10-18"
+ },
+ "482ec44c-3ab7-4412-8eb6-d86ce808e3f2": {
+  "business": "Cleaning Pros",
+  "image": "images/business/cleaning-pros.jpg",
+  "scene": "Dusting the top shelf of a tall wooden bookshelf with a cloth, caddy of plain bottles on the floor",
+  "created": "2026-10-18"
+ },
+ "1a96a8fd-9a0f-43ca-86e0-2ef45cdbb74c": {
+  "business": "G.I. Party Cleaning Services",
+  "image": "images/business/g-i-party-cleaning-services.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, the Organ Mountains through the glass doors",
+  "created": "2026-10-18"
+ },
+ "87636adf-9ba9-4ef3-a8e0-57b35825eaf6": {
+  "business": "Organs Cleaning",
+  "image": "images/business/organs-cleaning.jpg",
+  "scene": "Vacuuming a Southwestern-patterned rug in a stucco living room with a kiva fireplace",
+  "created": "2026-10-18"
+ },
+ "7e9258be-5165-4b32-85d0-11c4140455b3": {
+  "business": "Merry Maids of Las Cruces",
+  "image": "images/business/merry-maids-of-las-cruces.jpg",
+  "scene": "Wiping a large bathroom vanity mirror with a blue cloth, caddy of plain bottles beside the sink",
+  "created": "2026-10-18"
+ },
+ "20c246e9-1c98-408b-90ca-9d6773f61788": {
+  "business": "Sonoma Cleaning Services LLC",
+  "image": "images/business/sonoma-cleaning-services-llc.jpg",
+  "scene": "Tucking fresh white linens at the corner of a wooden bed frame, basket of towels on the tile floor",
+  "created": "2026-10-18"
+ },
+ "3692abf0-1634-4be4-afc3-951387491f40": {
+  "business": "Detailers of Las Cruces",
+  "image": "images/business/detailers-of-las-cruces.jpg",
+  "scene": "Buffing the rear door panel of a silver sedan with a dual-action polisher, the Organ Mountains behind",
+  "created": "2026-10-18"
+ },
+ "a9057c21-9ed1-4e24-83a2-b3074168d7a6": {
+  "business": "Four Seasons Mobile Detailing",
+  "image": "images/business/four-seasons-mobile-detailing.jpg",
+  "scene": "Vacuuming the back seat of a white SUV through its open rear door, shop vacuum on the driveway",
+  "created": "2026-10-18"
+ },
+ "08ca4350-c6f1-4378-8b23-738d17b12bb8": {
+  "business": "Weaver's Auto Detailing LLC",
+  "image": "images/business/weaver-s-auto-detailing-llc.jpg",
+  "scene": "Washing the hood of a dark blue pickup with a soapy mitt, bucket and foam at his feet",
+  "created": "2026-10-18"
+ },
+ "8a4f89bc-7925-42c3-a0aa-e55953c53ab5": {
+  "business": "Misfits Auto Detailing",
+  "image": "images/business/misfits-auto-detailing.jpg",
+  "scene": "Scrubbing the front tire of a black hatchback with a wheel brush, soapy bucket beside him",
+  "created": "2026-10-18"
+ },
+ "dc5abd96-69d2-4fd4-9cb1-fcd607e870bc": {
+  "business": "Splash Detailing",
+  "image": "images/business/splash-detailing.jpg",
+  "scene": "Hand-washing the front door panel of a silver sedan with a wash mitt, bucket on the driveway",
+  "created": "2026-10-18"
+ },
+ "9949ff02-3045-4b02-b1b4-da4b29ce129d": {
+  "business": "Outshine Auto Mobile Detail",
+  "image": "images/business/outshine-auto-mobile-detail.jpg",
+  "scene": "Kneeling at the front wheel of a white SUV brushing the tire, spray bottle on the gravel",
+  "created": "2026-10-18"
+ },
+ "adefc8b3-8520-4e05-9429-9c01d64578e2": {
+  "business": "A & R Mobile Detailing",
+  "image": "images/business/a-r-mobile-detailing.jpg",
+  "scene": "Vacuuming the back seat of a dark blue pickup through its open rear door, canister vacuum on the driveway",
+  "created": "2026-10-18"
+ },
+ "1fb2714a-14e1-4d68-9f8e-0b5d18f6020a": {
+  "business": "Adrian's Mobile Detailing Services LLC",
+  "image": "images/business/adrian-s-mobile-detailing-services-llc.jpg",
+  "scene": "Wiping the windshield of a red hatchback with a microfiber cloth, detailing caddy on the driveway",
+  "created": "2026-10-18"
+ },
+ "b3efa627-c4a5-4139-ac14-bb45544deb06": {
+  "business": "Fresh Mobile Detailing",
+  "image": "images/business/fresh-mobile-detailing.jpg",
+  "scene": "Kneeling beside a silver sedan wiping the rear door panel with a cloth, bucket and bottles at his feet",
+  "created": "2026-10-18"
+ },
+ "bf65c55c-3a1b-42e4-afd6-52792d27ed0b": {
+  "business": "Shine mobile Detailing",
+  "image": "images/business/shine-mobile-detailing.jpg",
+  "scene": "Scrubbing the front tire of a dark blue pickup with a wheel brush on a gravel driveway",
+  "created": "2026-10-18"
+ },
+ "852e2c23-c95f-49b3-a0c3-d2827613b70b": {
+  "business": "Busy Bees",
+  "image": "images/business/busy-bees.jpg",
+  "scene": "Tightening a kitchen cabinet door hinge with a screwdriver, toolbox open on the counter",
+  "created": "2026-10-18"
+ },
+ "3cb49762-f286-482b-835e-e34e59671600": {
+  "business": "The Cleaning Code LLC",
+  "image": "images/business/the-cleaning-code-llc.jpg",
+  "scene": "Wiping a granite kitchen counter with a cloth, supply caddy beside her, cholla cactus in the windows",
+  "created": "2026-10-18"
+ },
+ "dae1d4ac-aa7f-41fe-bddb-7196f3538009": {
+  "business": "Dependable Cleaning by Dani",
+  "image": "images/business/dependable-cleaning-by-dani.jpg",
+  "scene": "Vacuuming a patterned rug in a bright living room with tall windows and pi\u00f1on pines outside",
+  "created": "2026-10-18"
+ },
+ "2963f1f2-2f0c-43bc-8ee9-3019fd1f0b13": {
+  "business": "Lore's Cleaning Service",
+  "image": "images/business/lore-s-cleaning-service.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, spray bottle in her other hand, desert view behind",
+  "created": "2026-10-18"
+ },
+ "e7471f28-31e4-4ca4-a28b-761d40a970b5": {
+  "business": "Prim & Proper",
+  "image": "images/business/prim-proper.jpg",
+  "scene": "Polishing a large bathroom mirror with a blue cloth, double vanity and caddy of plain bottles below",
+  "created": "2026-10-18"
+ },
+ "e7f83b65-411c-42a4-a235-7d4bed4c99fe": {
+  "business": "Cupp's Cleaning Solutions",
+  "image": "images/business/cupp-s-cleaning-solutions.jpg",
+  "scene": "Vacuuming a light area rug in an adobe living room with a kiva fireplace",
+  "created": "2026-10-18"
+ },
+ "527253d3-25ec-4a58-8ff1-1611c5bcb34d": {
+  "business": "Ace Handyman Services Santa Fe",
+  "image": "images/business/ace-handyman-services-santa-fe.jpg",
+  "scene": "Driving a screw into a shelf bracket with a cordless drill, level resting on the shelf board",
+  "created": "2026-10-18"
+ },
+ "87f792a8-622a-477f-a422-bb38b9f8815f": {
+  "business": "HomeWorkz",
+  "image": "images/business/homeworkz.jpg",
+  "scene": "Smoothing joint compound onto a wall patch with a putty knife, bucket on a drop cloth at his feet",
+  "created": "2026-10-18"
+ },
+ "a12a1d5b-b209-4fbd-9d31-936290c73dcd": {
+  "business": "D&M Home Services",
+  "image": "images/business/d-m-home-services.jpg",
+  "scene": "Kneeling at an open under-sink cabinet with a wrench at the drain fittings, parts tray on the floor",
+  "created": "2026-10-18"
+ },
+ "0aadf4b6-0983-487f-975e-6eaf211f166a": {
+  "business": "D and J Handy Services",
+  "image": "images/business/d-and-j-handy-services.jpg",
+  "scene": "Working on the latch plate of a wooden front door on an adobe porch, toolbox on the deck",
+  "created": "2026-10-18"
+ },
+ "7ecced57-fb6f-4a8f-840b-14538d837f9e": {
+  "business": "Handymark of Santa Fe",
+  "image": "images/business/handymark-of-santa-fe.jpg",
+  "scene": "Driving a hinge screw on a wooden fence gate with a cordless drill, tool bag on the gravel",
+  "created": "2026-10-18"
+ },
+ "0d8cf0c9-aa12-40e9-81d0-9d494c2f0480": {
+  "business": "Dom's Handyman Service",
+  "image": "images/business/dom-s-handyman-service.jpg",
+  "scene": "Drilling a mounting bracket for a towel bar in an adobe bathroom, level resting on the bar",
+  "created": "2026-10-18"
+ },
+ "aac107da-fa87-4a6b-936b-9de1df879ac4": {
+  "business": "Ana Valenzuela Cleaning",
+  "image": "images/business/ana-valenzuela-cleaning.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, adobe kitchen with pi\u00f1on pines in the windows",
+  "created": "2026-10-18"
+ },
+ "4745da5c-6ef5-4dd9-b77d-0f479f5ef78d": {
+  "business": "We Do Windows Santa Fe",
+  "image": "images/business/we-do-windows-santa-fe.jpg",
+  "scene": "Wiping a tall glass patio door with a cloth, spray bottle in his other hand, one uniform pane",
+  "created": "2026-10-18"
+ },
+ "bf98fe47-b6fb-4163-be70-d3d50087e98b": {
+  "business": "Millennial Maids",
+  "image": "images/business/millennial-maids.jpg",
+  "scene": "Smoothing a white duvet on a bed with a folded Southwestern blanket, mesas filling the window wall",
+  "created": "2026-10-18"
+ },
+ "cdfbad84-db08-42cf-b147-ba1711fac594": {
+  "business": "E & E Santa Fe Cleaning Service",
+  "image": "images/business/e-e-santa-fe-cleaning-service.jpg",
+  "scene": "Mopping a Saltillo tile entryway with a string mop, wooden door open to a desert garden",
+  "created": "2026-10-18"
+ },
+ "ea246668-992b-4b9d-8960-3c1ea48c1961": {
+  "business": "CL Cleaning, LLC",
+  "image": "images/business/cl-cleaning-llc.jpg",
+  "scene": "Wiping a granite kitchen island with a yellow cloth, wicker caddy of plain bottles beside her",
+  "created": "2026-10-18"
+ },
+ "898a8278-180c-4a08-99b5-fa220f7ec042": {
+  "business": "Green Choice Cleaning",
+  "image": "images/business/green-choice-cleaning.jpg",
+  "scene": "Vacuuming a woven area rug in an adobe living room with a kiva fireplace and foothill views",
+  "created": "2026-10-18"
+ },
+ "b7f32b26-753e-4c9b-8c0d-09ae0d3944e0": {
+  "business": "Merry Maids of Santa Fe",
+  "image": "images/business/merry-maids-of-santa-fe.jpg",
+  "scene": "Mopping a wet Saltillo tile entryway floor, metal mop bucket with wringer beside her",
+  "created": "2026-10-18"
+ },
+ "8cc50539-61ce-454a-bd09-c8e4b92b1f87": {
+  "business": "Prestige Auto Spa NM",
+  "image": "images/business/prestige-auto-spa-nm.jpg",
+  "scene": "Polishing the rear door panel of a silver sedan with a dual-action polisher, pi\u00f1on pines behind",
+  "created": "2026-10-18"
+ },
+ "b484c2a3-fd87-4bf0-a325-838a53017324": {
+  "business": "Mike's Mobile Detailing",
+  "image": "images/business/mike-s-mobile-detailing.jpg",
+  "scene": "Polishing the front fender of a silver sedan with a dual-action polisher, bin of supplies beside him",
+  "created": "2026-10-18"
+ },
+ "4258b0bb-ebcc-49ec-afaf-040f3e51d0d9": {
+  "business": "Pristine Auto Detailing",
+  "image": "images/business/pristine-auto-detailing.jpg",
+  "scene": "Vacuuming the back seat of a white SUV through its open rear door, canister vacuum on the driveway",
+  "created": "2026-10-18"
+ },
+ "1e9b662e-fe9c-45f0-85c1-4f87fe1c0b96": {
+  "business": "Bryan's Auto Detail",
+  "image": "images/business/bryan-s-auto-detail.jpg",
+  "scene": "Scrubbing the rear wheel of a dark blue pickup with a long-handled brush, wash bin beside him",
+  "created": "2026-10-18"
+ },
+ "d96713f3-ef40-4ff4-aae6-20056701a888": {
+  "business": "Four Paws Pup Boutique & Mobile Grooming",
+  "image": "images/business/four-paws-pup-boutique-mobile-grooming.jpg",
+  "scene": "Brushing a shaggy brown dog on a grooming table beside a plain white van, whole van in frame",
+  "created": "2026-10-18"
  }
 }

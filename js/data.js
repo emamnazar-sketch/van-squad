@@ -5,6 +5,7 @@
   'use strict';
 
   var ZIP_NAMES = {
+
     '95814': 'Downtown Sacramento',
     '95816': 'Midtown Sacramento',
     '95818': 'Land Park',
@@ -283,6 +284,38 @@
     '82070': 'Laramie',
     '82604': 'Casper',
     '82609': 'Casper',
+    '87102': 'Albuquerque',
+    '87104': 'Albuquerque',
+    '87105': 'Albuquerque',
+    '87106': 'Albuquerque',
+    '87107': 'Albuquerque',
+    '87108': 'Albuquerque',
+    '87109': 'Albuquerque',
+    '87110': 'Albuquerque',
+    '87111': 'Albuquerque',
+    '87112': 'Albuquerque',
+    '87113': 'Albuquerque',
+    '87114': 'Albuquerque',
+    '87120': 'Albuquerque',
+    '87121': 'Albuquerque',
+    '87122': 'Albuquerque',
+    '87123': 'Albuquerque',
+    '87124': 'Rio Rancho',
+    '87144': 'Rio Rancho',
+    '87401': 'Farmington',
+    '87402': 'Farmington',
+    '87501': 'Santa Fe',
+    '87505': 'Santa Fe',
+    '87507': 'Santa Fe',
+    '88001': 'Las Cruces',
+    '88005': 'Las Cruces',
+    '88011': 'Las Cruces',
+    '88012': 'Las Cruces',
+    '88101': 'Clovis',
+    '88201': 'Roswell',
+    '88240': 'Hobbs',
+    '88310': 'Alamogordo',
+  
   };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 

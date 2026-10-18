@@ -1,0 +1,62 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "135751b8-fda3-4a00-9452-e7ae501f54be",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Premium Cleaning Services LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 390-9093",
+   "phone_verified": false,
+   "service_zips": [
+    "88240"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://premiumcleaningservicenm.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "05eeab84-d189-4bcd-afd8-f13b34f69954",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Community Maintenance LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(575) 393-6572",
+   "phone_verified": false,
+   "service_zips": [
+    "88240"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://hobbscleaningservice.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "135751b8-fda3-4a00-9452-e7ae501f54be",
+   "id": "d98e820b-2e93-4a0e-a89a-5c69a1a4ae92",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "05eeab84-d189-4bcd-afd8-f13b34f69954",
+   "id": "6aa34a55-5824-443b-baf2-fede31157ddf",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

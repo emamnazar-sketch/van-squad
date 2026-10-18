@@ -1,0 +1,120 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "8cc50539-61ce-454a-bd09-c8e4b92b1f87",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Prestige Auto Spa NM",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 901-5457",
+   "phone_verified": false,
+   "service_zips": [
+    "87505"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://prestigeautospanm.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "b484c2a3-fd87-4bf0-a325-838a53017324",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Mike's Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 919-9562",
+   "phone_verified": false,
+   "service_zips": [
+    "87505"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.mikesmobiledetailing.org/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "4258b0bb-ebcc-49ec-afaf-040f3e51d0d9",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Pristine Auto Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 257-4351",
+   "phone_verified": false,
+   "service_zips": [
+    "87505",
+    "87507"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://cardetailingsvc-nm.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1e9b662e-fe9c-45f0-85c1-4f87fe1c0b96",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Bryan's Auto Detail",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 303-3338",
+   "phone_verified": false,
+   "service_zips": [
+    "87505",
+    "87507"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://bryansautodetail.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "8cc50539-61ce-454a-bd09-c8e4b92b1f87",
+   "id": "e6b7d90f-21c7-4376-9148-3bc92a8e16fc",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "b484c2a3-fd87-4bf0-a325-838a53017324",
+   "id": "736573e9-7614-4de5-873f-34fceec1c8b6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "4258b0bb-ebcc-49ec-afaf-040f3e51d0d9",
+   "id": "ef193329-f99c-4b9b-bb81-53cc3a744caf",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "1e9b662e-fe9c-45f0-85c1-4f87fe1c0b96",
+   "id": "13265009-35d6-4148-a5a4-557ce0fc2eee",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

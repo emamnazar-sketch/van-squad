@@ -9,3 +9,6 @@ Thumbs.db
 # Logs / caches
 npm-debug.log*
 .cache/
+
+# Lead files — private, never committed (business emails)
+prospecting/rotation/*-leads.json

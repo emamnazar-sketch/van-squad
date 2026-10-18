@@ -1,0 +1,184 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "acc718d1-220d-459d-b059-ab61ab2b39dc",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid O' Matic",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 379-3154",
+   "phone_verified": false,
+   "service_zips": [
+    "87109"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maid-o-matic.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "aa5baf6b-743e-4961-b728-4a3541056b78",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "505 Clean Queens",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 657-5880",
+   "phone_verified": false,
+   "service_zips": [
+    "87109"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.505cleanqueens.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "8e41f312-62e3-4865-adc2-a86dbd0ab030",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Advanced Green Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 881-6243",
+   "phone_verified": false,
+   "service_zips": [
+    "87109"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.advancedgreencleaning.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1b19f530-b02f-473e-aaec-29d955599672",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Two Maids of Albuquerque",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 477-4457",
+   "phone_verified": false,
+   "service_zips": [
+    "87109"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.twomaidscleaning.com/albuquerque/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "19b41fb9-a2ac-456b-be4f-6179e8ed242b",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Cleaning Authority",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 273-2875",
+   "phone_verified": false,
+   "service_zips": [
+    "87109",
+    "87107",
+    "87110",
+    "87111",
+    "87112",
+    "87113",
+    "87114",
+    "87120",
+    "87122",
+    "87123",
+    "87124"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.thecleaningauthority.com/albuquerque/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "eb8d806a-ac8b-4bc2-ae91-eda1ab866040",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Molly Maid of Greater Albuquerque",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 407-0704",
+   "phone_verified": false,
+   "service_zips": [
+    "87109"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.mollymaid.com/locations/greater-albuquerque/?cid=LSTL_MLY000192"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "acc718d1-220d-459d-b059-ab61ab2b39dc",
+   "id": "237fcdd2-4a68-4196-85bc-e93431d46224",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "aa5baf6b-743e-4961-b728-4a3541056b78",
+   "id": "c7d375f8-b309-4543-971f-255f470c0f25",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "8e41f312-62e3-4865-adc2-a86dbd0ab030",
+   "id": "c9b5e71f-c53f-4c20-8b2c-483737f21ddc",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "1b19f530-b02f-473e-aaec-29d955599672",
+   "id": "0ec93e23-203f-4b50-b63e-9bdd6ac9de35",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "19b41fb9-a2ac-456b-be4f-6179e8ed242b",
+   "id": "49c74436-0b99-411b-a7cf-c99579218bac",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "eb8d806a-ac8b-4bc2-ae91-eda1ab866040",
+   "id": "4c66d198-90fe-44da-82f6-6552f0df470f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "cd0ee15e-3035-4e2c-a72f-79ec19addff5",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Handiest Man",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 269-6603",
+   "phone_verified": false,
+   "service_zips": [
+    "87112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://handiestman.co/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "45e70f1f-9d48-4e13-8271-2b47c7287030",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The ABQ Handyman",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 289-1102",
+   "phone_verified": false,
+   "service_zips": [
+    "87112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://theabqhandyman.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d1fa3eda-c432-4604-a66b-2315ad8d1251",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Ace Handyman Services Albuquerque North",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 456-3781",
+   "phone_verified": false,
+   "service_zips": [
+    "87112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.acehandymanservices.com/offices/albuquerque-north"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "53d7df66-bd90-4a1f-9521-08f61f2391a9",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Mr. Handyman of North Albuquerque",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 445-7133",
+   "phone_verified": false,
+   "service_zips": [
+    "87112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.mrhandyman.com/north-albuquerque/?cid=LSTL_MHM000197"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "e98285d3-f400-47b7-8c1d-ffb2625b2ba7",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "My Handy Neighbor",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(505) 332-4263",
+   "phone_verified": false,
+   "service_zips": [
+    "87112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://myhandyneighbor.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "cd0ee15e-3035-4e2c-a72f-79ec19addff5",
+   "id": "5a5a7159-cbd7-488f-8bec-9b3b9d1b1a80",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "45e70f1f-9d48-4e13-8271-2b47c7287030",
+   "id": "614659a6-6f27-4fcf-940c-5e0a9dd1b0b9",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "d1fa3eda-c432-4604-a66b-2315ad8d1251",
+   "id": "04e65865-856e-45f8-aa51-f6810d6b9a39",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "53d7df66-bd90-4a1f-9521-08f61f2391a9",
+   "id": "7bceb310-85c0-4d01-afdb-196c10b98d80",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "e98285d3-f400-47b7-8c1d-ffb2625b2ba7",
+   "id": "2808b82f-4c0f-424e-a7ae-a00974ecd812",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  }
+ ]
+}
