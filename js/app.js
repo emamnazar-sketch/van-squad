@@ -535,7 +535,9 @@
         h((r.createdAt || '').slice(0, 10)) + '</span><p>' + h(r.text) + '</p></div>';
     }).join('');
     return '' +
-    '<div class="wrap"><div class="detail-hero biz-photo ' + catClass(b.category) + '" style="height:260px">' +
+    '<div class="wrap">' +
+      (b.banner ? '<div class="detail-banner"><img src="' + photoSrc(b.banner) + '" alt="">' + '</div>' : '') +
+    '<div class="detail-hero biz-photo ' + catClass(b.category) + '" style="height:260px">' +
       (b.isSample ? '<span class="sample-badge">Sample listing</span>' : '') +
       (b.photo
         ? '<img src="' + photoSrc(b.photo) + '" alt="' + h(b.name) + '">'
@@ -1346,6 +1348,24 @@
       '</form></div></div>';
   }
 
+  /* Downscale a data-URL image to maxW wide (JPEG) before upload. */
+  function shrinkImage(dataUrl, maxW) {
+    return new Promise(function (resolve) {
+      var img = new Image();
+      img.onload = function () {
+        var scale = Math.min(1, maxW / (img.width || maxW));
+        if (scale >= 1) { resolve(dataUrl); return; }
+        var c = document.createElement('canvas');
+        c.width = Math.round(img.width * scale);
+        c.height = Math.round(img.height * scale);
+        c.getContext('2d').drawImage(img, 0, 0, c.width, c.height);
+        resolve(c.toDataURL('image/jpeg', 0.85));
+      };
+      img.onerror = function () { resolve(dataUrl); };
+      img.src = dataUrl;
+    });
+  }
+
   function readPhotos(input, max) {
     var files = Array.prototype.slice.call(input.files || []).slice(0, max || 5);
     return Promise.all(files.map(function (f) {
@@ -1602,6 +1622,17 @@
     var l = primaryListing(active);
     var manage = document.getElementById('dash-manage');
     manage.innerHTML = '<form class="form-card" id="biz-edit" style="max-width:820px">' +
+      '<div class="form-sec"><h3>Profile images</h3>' +
+      '<div class="img-edit-row">' +
+        (active.photo ? '<img class="img-edit-logo" id="biz-logo-preview" src="' + photoSrc(active.photo) + '" alt="Your profile photo">' : '<div class="img-edit-empty">No photo yet</div>') +
+        '<div><label for="biz-logo-file">Profile photo / logo</label>' +
+        '<p class="hint">The main image on your profile and in search results. Your own logo, or a photo of your work — square works best.</p>' +
+        '<input type="file" id="biz-logo-file" accept="image/*"></div></div>' +
+      '<div class="img-edit-row">' +
+        (active.banner ? '<img class="img-edit-banner" id="biz-banner-preview" src="' + photoSrc(active.banner) + '" alt="Your banner">' : '<div class="img-edit-empty" id="biz-banner-preview">No banner yet</div>') +
+        '<div><label for="biz-banner-file">Banner</label>' +
+        '<p class="hint">A wide photo across the top of your profile page — your van, your team, or a job you are proud of.</p>' +
+        '<input type="file" id="biz-banner-file" accept="image/*"></div></div></div>' +
       '<div class="form-sec"><h3>Business profile</h3>' +
       '<div class="f-row"><div class="field"><label>Business name</label><input name="name" value="' + h(active.name) + '"></div>' +
       '<div class="field"><label>Phone</label><input name="phone" value="' + h(active.phone || '') + '"></div></div>' +
@@ -1627,6 +1658,40 @@
       '<p class="cta-row"><button class="btn btn-primary" type="submit">Save changes</button>' +
       '<a class="btn btn-outline" href="#/business/' + h(active.slug || active.id) + '">View public listing</a></p></form>';
     bindCustomZips(manage);
+    /* profile image uploads — immediate on file pick, with preview swap */
+    function wireBizImage(inputId, kind, maxW, doneMsg) {
+      var input = document.getElementById(inputId);
+      if (!input) return;
+      input.addEventListener('change', async function () {
+        if (!input.files || !input.files.length) return;
+        toast('Uploading…');
+        try {
+          var urls = await readPhotos(input, 1);
+          if (!urls.length) throw new Error('read-failed');
+          var shrunk = await shrinkImage(urls[0], maxW);
+          var url = await window.VS.store.uploadBusinessImage(active.id, kind, shrunk);
+          var patch = {}; patch[kind === 'logo' ? 'photo' : 'banner'] = url;
+          await window.VS.store.updateBusiness(active.id, patch);
+          if (kind === 'logo') { active.photo = url; } else { active.banner = url; }
+          var prev = document.getElementById(kind === 'logo' ? 'biz-logo-preview' : 'biz-banner-preview');
+          if (prev) {
+            if (prev.tagName === 'IMG') { prev.src = url; }
+            else {
+              var img = document.createElement('img');
+              img.id = prev.id; img.src = url; img.alt = '';
+              img.className = kind === 'logo' ? 'img-edit-logo' : 'img-edit-banner';
+              prev.replaceWith(img);
+            }
+          }
+          toast(doneMsg);
+        } catch (err) {
+          toast('Upload failed — please try again.');
+        }
+        input.value = '';
+      });
+    }
+    wireBizImage('biz-logo-file', 'logo', 1000, 'Profile photo updated.');
+    wireBizImage('biz-banner-file', 'banner', 1920, 'Banner updated.');
     document.getElementById('biz-edit').addEventListener('submit', async function (e) {
       e.preventDefault();
       var fd = new FormData(e.target);

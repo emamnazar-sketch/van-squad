@@ -188,13 +188,15 @@
       var b = findBusiness(s, id);
       if (!b) return null;
       ['name','tagline','description','phone','email','website','zips','travelFee',
-       'travelRadius','travelBuffer','earliestOpening','arrivalWindows'].forEach(function (k) {
+       'travelRadius','travelBuffer','earliestOpening','arrivalWindows','photo','banner'].forEach(function (k) {
         if (patch[k] !== undefined) b[k] = patch[k];
       });
       if (patch.listing) Object.assign(b.listings[0], patch.listing);
       saveLocal(s);
       return deepClone(b);
     },
+
+    async uploadBusinessImage(bizId, kind, dataUrl) { return dataUrl; },
 
     async deleteSampleData() {
       var s = local();
@@ -305,6 +307,7 @@
       travelBuffer: row.travel_buffer_minutes || 30, earliestOpening: row.earliest_opening || '',
       arrivalWindows: row.arrival_windows || [],
       photo: row.logo_url || '',
+      banner: row.banner_url || '',
       rating: Number(row.avg_rating) || 0, reviewCount: row.review_count || 0,
       reviews: (row.reviews || []).map(function (r) {
         return { id: r.id, customerName: r.customer_name || 'Customer', rating: r.rating,
@@ -500,6 +503,8 @@
       var sb = await this._sb();
       var db = {};
       ['name','tagline','description','phone','email','website'].forEach(function (k) { if (patch[k] !== undefined) db[k] = patch[k]; });
+      if (patch.photo !== undefined) db.logo_url = patch.photo;
+      if (patch.banner !== undefined) db.banner_url = patch.banner;
       if (patch.emailVerified !== undefined) db.email_verified = !!patch.emailVerified;
       if (patch.phoneVerified !== undefined) db.phone_verified = !!patch.phoneVerified;
       if (patch.zips !== undefined) db.service_zips = patch.zips;
@@ -520,6 +525,19 @@
         if (Object.keys(ld).length) await sb.from('listings').update(ld).eq('id', l.id);
       }
       return this.getBusiness(id);
+    },
+    /* Owner image upload (profile logo / banner) into the public storage
+       bucket under the owner's own <uid>/ folder; returns the public URL. */
+    async uploadBusinessImage(bizId, kind, dataUrl) {
+      var sb = await this._sb();
+      var u = (await sb.auth.getUser()).data.user;
+      if (!u) throw new Error('not-logged-in');
+      var blob = await (await fetch(dataUrl)).blob();
+      var path = u.id + '/business-' + bizId + '-' + kind + '-' + Date.now() + '.jpg';
+      var up = await sb.storage.from('request-photos').upload(path, blob, { contentType: 'image/jpeg', upsert: true });
+      if (up.error) throw up.error;
+      var pub = sb.storage.from('request-photos').getPublicUrl(path);
+      return pub.data.publicUrl;
     },
     async deleteSampleData() {
       var sb = await this._sb();

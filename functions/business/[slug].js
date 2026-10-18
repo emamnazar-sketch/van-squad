@@ -312,9 +312,12 @@ function sbHeaders(env) {
   return { apikey: env.SUPABASE_ANON_KEY, Authorization: 'Bearer ' + env.SUPABASE_ANON_KEY };
 }
 async function fetchActiveBusinesses(env) {
-  var url = env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active' +
-    '&select=id,name,category,description,phone,website,service_zips,verified,created_at,logo_url&order=created_at.asc&limit=1000';
-  var res = await fetch(url, { headers: sbHeaders(env) });
+  var base = env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&order=created_at.asc&limit=1000';
+  var res = await fetch(base + '&select=id,name,category,description,phone,website,service_zips,verified,created_at,logo_url,banner_url', { headers: sbHeaders(env) });
+  if (!res.ok) {
+    /* banner_url arrives with the 2026-10-18 migration; fall back gracefully */
+    res = await fetch(base + '&select=id,name,category,description,phone,website,service_zips,verified,created_at,logo_url', { headers: sbHeaders(env) });
+  }
   if (!res.ok) return null;
   return res.json();
 }
@@ -351,7 +354,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<link rel="stylesheet" href="/css/styles.css?v=20261018a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
-    '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
+    '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
     '.prof-head h1{margin:6px 0 4px;font-size:34px}.prof-desc{font-size:17px;color:var(--ink);max-width:720px}' +
     '.prof-sec{margin:30px 0}.prof-sec h2{font-size:21px;margin:0 0 12px}' +
     '.svc-row{display:flex;justify-content:space-between;gap:14px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:10px;box-shadow:var(--shadow)}' +
@@ -361,7 +364,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '.prof-cta h2{color:#fff;margin:0 0 6px;font-size:24px}.prof-cta p{color:#C6D2DE;margin:0}' +
     '.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.rel-grid a{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;box-shadow:var(--shadow);font-weight:700}' +
     '.rel-grid a span{display:block;color:var(--muted);font-weight:600;font-size:13.5px;margin-top:3px}' +
-    '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}.p-hero{height:200px}}' +
+    '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}.p-hero{height:200px}.p-banner{height:150px}}' +
     '</style>\n</head>\n<body>\n' +
     '<header class="site-header"><div class="wrap header-inner">' +
     '<a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png" alt="Van Squads"></a>' +
@@ -414,6 +417,8 @@ export async function onRequest({ request, env, params }) {
   var appLink = 'https://vansquads.com/#/business/' + b.id;
   var photoAbs = b.logo_url ? (String(b.logo_url).indexOf('http') === 0 ? String(b.logo_url) : 'https://vansquads.com/' + String(b.logo_url).replace(/^\//, '')) : '';
   var hero = photoAbs ? '<img class="p-hero" src="' + esc(photoAbs) + '" alt="' + esc(b.name) + '">' : '';
+  var bannerAbs = b.banner_url ? (String(b.banner_url).indexOf('http') === 0 ? String(b.banner_url) : 'https://vansquads.com/' + String(b.banner_url).replace(/^\//, '')) : '';
+  var banner = bannerAbs ? '<img class="p-banner" src="' + esc(bannerAbs) + '" alt="">' : '';
   var title = b.name + ' — ' + b.category + (primary ? ' in ' + primary : '') + ' | Van Squads';
   var desc = (b.description || '').replace(/\s+/g, ' ').trim();
   var metaDesc = desc ? desc.slice(0, 158) :
@@ -451,7 +456,7 @@ export async function onRequest({ request, env, params }) {
       return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
     }).join('') + '</div></div>' : '';
 
-  var body = hero +
+  var body = banner + hero +
     '<div class="prof-head"><a class="back" href="/#/browse">← Explore services</a>' +
     '<p class="prof-cat" style="margin-top:16px">' + esc(b.category) + (primary ? ' · ' + esc(primary) : '') + '</p>' +
     '<h1>' + esc(b.name) + check + '</h1>' + claimLine +

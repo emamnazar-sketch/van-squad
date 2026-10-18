@@ -47,6 +47,7 @@ create table if not exists public.businesses (
   earliest_opening   text,
   arrival_windows    text[]      not null default '{}',
   logo_url           text,
+  banner_url         text,
   verified           boolean     not null default false,
   is_sample          boolean     not null default false,
   status             text        not null default 'active'
