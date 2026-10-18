@@ -221,6 +221,12 @@
       '<div class="checks"><span>Compare service packages</span><span>See travel costs upfront</span><span>Request an appointment</span></div>' +
     '</div></section>' +
 
+    '<section class="stats-strip"><div class="wrap stats-grid">' +
+      '<div class="stat"><div class="stat-num" id="stat-biz">&ndash;</div><div class="stat-label">businesses listed</div></div>' +
+      '<div class="stat"><div class="stat-num" id="stat-zips">&ndash;</div><div class="stat-label">ZIP codes served</div></div>' +
+      '<div class="stat"><div class="stat-num">' + D.CATEGORIES.length + '</div><div class="stat-label">services across ' + (D.SERVICE_GROUPS || []).length + ' groups</div></div>' +
+    '</div></section>' +
+
     '<section class="section"><div class="wrap">' +
       '<p class="eyebrow">What can we take off your list?</p>' +
       '<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px">' +
@@ -323,9 +329,36 @@
     bindFaq();
     try {
       var allBiz = await window.VS.store.listBusinesses();
-      var countEl = document.getElementById('biz-count');
-      if (countEl && allBiz && allBiz.length) countEl.textContent = allBiz.length;
+      if (allBiz && allBiz.length) {
+        var zipSet = {};
+        allBiz.forEach(function (b) { (b.zips || []).forEach(function (z) { zipSet[z] = 1; }); });
+        animateCount(document.getElementById('stat-biz'), allBiz.length);
+        animateCount(document.getElementById('stat-zips'), Object.keys(zipSet).length);
+        animateCount(document.getElementById('biz-count'), allBiz.length);
+      }
     } catch (e) { /* count is decorative — the fallback copy stands */ }
+  }
+
+  /* Animated count-up: starts when the element scrolls into view, runs once. */
+  function animateCount(el, target) {
+    if (!el || !target) return;
+    var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce || !('IntersectionObserver' in window)) { el.textContent = target; return; }
+    var done = false;
+    var io = new IntersectionObserver(function (entries) {
+      if (done || !entries[0].isIntersecting) return;
+      done = true; io.disconnect();
+      var start = null, dur = 1400;
+      function tick(ts) {
+        if (!start) start = ts;
+        var p = Math.min((ts - start) / dur, 1);
+        var eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = Math.round(target * eased);
+        if (p < 1) requestAnimationFrame(tick); else el.textContent = target;
+      }
+      requestAnimationFrame(tick);
+    }, { threshold: 0.4 });
+    io.observe(el);
   }
 
   function bindFaq() {
