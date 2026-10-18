@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "d11863a0-13cc-4730-88cb-788850bde9aa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "KAF Mobile Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 663-0648",
+   "website": "https://mobiledetailingaurora.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ff5fefb6-5156-4dac-91ed-a773586cfb49",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Madcat Details",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 203-3766",
+   "website": "https://madcatdetails.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a446b6b1-148b-40d7-9f0c-366341db61f8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ZMF Aurora Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 822-7457",
+   "website": "http://zmfmobileautodetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f1a130b4-6a7b-4669-9400-4a8e04259fd0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spotless Mobile Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 800-5326",
+   "website": "http://www.gotspotless.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a7511143-fc30-4d60-9f6e-2a43abb6e481",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All In Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 292-4402",
+   "website": "https://allindetl.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c20f6157-d14d-4065-9039-759aa9e71075",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "CarSpa Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 248-7542",
+   "website": "http://www.carspadenver.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "62e4e310-53b0-4ca2-93e4-dabb6cf87b58",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Phoenix Mobile Autos Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 346-4252",
+   "website": "https://phoenixmobileautosdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6e318181-2c3e-4c10-98af-7445de305ee3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rockies Mobile Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(303) 729-1173",
+   "website": "http://www.rockiesautodetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80016"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "46d0216a-ddba-4f09-adc0-d73ddc106732",
+   "business_id": "d11863a0-13cc-4730-88cb-788850bde9aa",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "05070031-3d5b-405b-a693-060de5de867b",
+   "business_id": "ff5fefb6-5156-4dac-91ed-a773586cfb49",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "86d9e567-6644-4415-a306-c59db19acb3e",
+   "business_id": "a446b6b1-148b-40d7-9f0c-366341db61f8",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2408b03e-b148-4059-99c0-70081c4ee1d6",
+   "business_id": "f1a130b4-6a7b-4669-9400-4a8e04259fd0",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4001fb1b-c61b-4e4d-af03-00fefb094829",
+   "business_id": "a7511143-fc30-4d60-9f6e-2a43abb6e481",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "77d7ebfb-a297-4b9d-8459-1e1c82d6ebf2",
+   "business_id": "c20f6157-d14d-4065-9039-759aa9e71075",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "18476e7b-9c74-485d-8629-fcc3a71acedc",
+   "business_id": "62e4e310-53b0-4ca2-93e4-dabb6cf87b58",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5ccd0df4-0f95-4592-b26f-a72f89525723",
+   "business_id": "6e318181-2c3e-4c10-98af-7445de305ee3",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

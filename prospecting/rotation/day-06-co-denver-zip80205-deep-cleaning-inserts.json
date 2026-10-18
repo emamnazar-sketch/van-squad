@@ -1,0 +1,205 @@
+{
+  "businesses": [
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "3153c7b5-84c8-4655-bb08-c349a9d36daf",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Neat N Tidy House Cleaning Of Denver",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(720) 316-6824",
+      "phone_verified": false,
+      "service_zips": [
+        "80205",
+        "80203"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.neatntidy.co/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "c1922e35-fd63-4427-a9ec-58b68f206f04",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "LifeShine Cleaning",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(720) 420-6011",
+      "phone_verified": false,
+      "service_zips": [
+        "80205"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.lifeshinecleaning.com/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "7279e400-98f8-4514-91b3-8164973ddaff",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Deep Clean Colorado",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(720) 807-7017",
+      "phone_verified": false,
+      "service_zips": [
+        "80205"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.deepcleancolorado.com/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "71ed74dc-6c32-4713-8e6a-c4dd39ae0792",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "EcoHappyMaids",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(303) 324-0252",
+      "phone_verified": false,
+      "service_zips": [
+        "80205",
+        "80202"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.ecohappymaids.com/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "f7bf84a5-87ec-4b7c-bee3-1456ffff9cc3",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Mega Megz Cleaners",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(720) 742-6399",
+      "phone_verified": false,
+      "service_zips": [
+        "80205"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://megamegzcleaners.co/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "32f7df28-0c3c-4658-907f-a2d41aa883f2",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Kathy Clean",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(303) 681-2559",
+      "phone_verified": false,
+      "service_zips": [
+        "80205",
+        "80209"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://kathyclean.com/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "e86bee86-f56b-4d98-b2ad-c67c85d31500",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "We Leave Clean of Central Denver",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(720) 687-3278",
+      "phone_verified": false,
+      "service_zips": [
+        "80205"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.weleaveclean.com/locations/central-denver-co"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "3153c7b5-84c8-4655-bb08-c349a9d36daf",
+      "id": "19419c65-43d1-4dcb-922a-c2c3e1d52315",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "c1922e35-fd63-4427-a9ec-58b68f206f04",
+      "id": "a03e1cd4-12d2-412d-a270-c09c757db445",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "7279e400-98f8-4514-91b3-8164973ddaff",
+      "id": "03bbbaf1-aa75-45ca-a7f0-a1c8edccf1de",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "71ed74dc-6c32-4713-8e6a-c4dd39ae0792",
+      "id": "37aa27e1-c0b1-463d-94ae-3a72d1988d80",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "f7bf84a5-87ec-4b7c-bee3-1456ffff9cc3",
+      "id": "b2304dcf-2a43-4e61-b253-fa7b4b5f3a5e",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "32f7df28-0c3c-4658-907f-a2d41aa883f2",
+      "id": "9a9d9e18-bb1c-4f47-be00-a554e455c0bf",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "e86bee86-f56b-4d98-b2ad-c67c85d31500",
+      "id": "d1660b9c-ec2d-4769-924d-1cfdafbea7e0",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    }
+  ]
+}

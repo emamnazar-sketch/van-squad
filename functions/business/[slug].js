@@ -234,6 +234,37 @@ var ZIP_NAMES = {
   '59872': 'Superior',
   '59875': 'Victor',
   '59901': 'Kalispell',
+  '80004': 'Arvada',
+  '80013': 'Aurora',
+  '80016': 'Saddle Rock, Aurora',
+  '80202': 'Downtown Denver',
+  '80203': 'Capitol Hill, Denver',
+  '80205': 'Whittier, Denver',
+  '80209': 'Washington Park, Denver',
+  '80210': 'University Park, Denver',
+  '80220': 'Hilltop, Denver',
+  '80222': 'University Hills, Denver',
+  '80224': 'Windsor Gardens, Denver',
+  '80226': 'Lakewood',
+  '80238': 'Central Park, Denver',
+  '80301': 'Boulder',
+  '80521': 'Fort Collins',
+  '80524': 'Fort Collins',
+  '80525': 'Fort Collins',
+  '80903': 'Downtown Colorado Springs',
+  '80905': 'Ivywild, Colorado Springs',
+  '80907': 'Colorado Springs',
+  '80909': 'Colorado Springs',
+  '80918': 'North Colorado Springs',
+  '80919': 'Rockrimmon, Colorado Springs',
+  '80920': 'Briargate, Colorado Springs',
+  '80921': 'Monument',
+  '82001': 'Cheyenne',
+  '82003': 'Cheyenne',
+  '82009': 'Cheyenne',
+  '82070': 'Laramie',
+  '82604': 'Casper',
+  '82609': 'Casper',
 };
 
 function slugify(name) {
@@ -284,7 +315,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261017a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261018a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

@@ -1,0 +1,262 @@
+{
+  "businesses": [
+    {
+      "id": "9ab7c8a7-78df-40c8-860e-a5bca5af7521",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Northgate Neighbor, LLC",
+      "category": "Handyman",
+      "phone": "(719) 619-6118",
+      "website": "https://northgateneighbor.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9d74c8de-d463-498a-afa4-dfe88a21f360",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dad's Handyman CoS",
+      "category": "Handyman",
+      "phone": "(719) 445-8427",
+      "website": "https://www.dadshandymancos.com/about-us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920",
+        "80921"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "499bd849-d675-4b8b-9a2e-fe32d3565ddb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Screw Loose Handyman Services",
+      "category": "Handyman",
+      "phone": "(719) 246-9107",
+      "website": "https://screwloosehandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "717babed-feea-4fcc-9752-3a2cae052d12",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Happens",
+      "category": "Handyman",
+      "phone": "(719) 439-8296",
+      "website": "http://www.handymanhappens.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "25615ab2-dde9-440e-b508-c9e22e599710",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AV's Handyman & Maintenance LLC",
+      "category": "Handyman",
+      "phone": "(719) 401-0433",
+      "website": "https://www.avshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920",
+        "80907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f4f1d50f-de28-4c4a-8140-1cdbcf943a15",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyworx Handyman Services",
+      "category": "Handyman",
+      "phone": "(719) 785-0066",
+      "website": "https://handyworxhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920",
+        "80905"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d9bdd32-0f65-4620-af52-b8eabe0e5af1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Colorado Springs",
+      "category": "Handyman",
+      "phone": "(719) 249-6880",
+      "website": "https://www.mrhandyman.com/colorado-springs/geo/briargate/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920",
+        "80909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e11765c7-448a-409b-a5ae-d2a40ba5fb25",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Downtown Colorado Springs",
+      "category": "Handyman",
+      "phone": "(719) 581-2757",
+      "website": "https://www.acehandymanservices.com/offices/downtown-colorado-springs",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3adf16b4-8984-499a-8d2a-eeb231d1e508",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wam Bam Handyman",
+      "category": "Handyman",
+      "phone": "(719) 922-5732",
+      "website": "https://wambamhandyman.com/services/colorado-springs-ev-charger-handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80920"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "13f88e76-d87e-4947-8401-9308e69f2103",
+      "business_id": "9ab7c8a7-78df-40c8-860e-a5bca5af7521",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "41e6f983-4d9a-4cb5-a9d9-b635aab7451d",
+      "business_id": "9d74c8de-d463-498a-afa4-dfe88a21f360",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "25229141-a7cc-4b9f-b28c-903ba73160c1",
+      "business_id": "499bd849-d675-4b8b-9a2e-fe32d3565ddb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "90b52b94-a498-400d-9e6f-b15292e49ffc",
+      "business_id": "717babed-feea-4fcc-9752-3a2cae052d12",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9dabd79e-e10c-45ec-8a56-8c9794b6c11d",
+      "business_id": "25615ab2-dde9-440e-b508-c9e22e599710",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5e5d5938-3a3f-4620-aa1c-1fc5ed3fd6e5",
+      "business_id": "f4f1d50f-de28-4c4a-8140-1cdbcf943a15",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "012d19fc-c073-4dfe-8ceb-9777b7ac046a",
+      "business_id": "6d9bdd32-0f65-4620-af52-b8eabe0e5af1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dde124a9-508e-4dea-b34b-9b2009dd1886",
+      "business_id": "e11765c7-448a-409b-a5ae-d2a40ba5fb25",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c4e6997-d2de-44e6-84da-884083158881",
+      "business_id": "3adf16b4-8984-499a-8d2a-eeb231d1e508",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

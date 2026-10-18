@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "6b3e5981-f531-4e34-8247-64ca2926fe1f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Denver Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(303) 518-3291",
+   "website": "https://coloradoprowash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8adb4594-bb53-44d4-a782-1e21a3131e3c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Good Front Window Cleaning & Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(720) 545-8422",
+   "website": "https://agoodfront.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6314df42-e374-4e5e-acaf-c267d7a71ec1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Top Notch Gutter Services",
+   "category": "Pressure washing",
+   "phone": "(720) 425-4404",
+   "website": "https://topnotchgutterservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "05f8627c-0835-465a-8cf9-a02c00b25331",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Platinum Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(303) 931-7300",
+   "website": "https://platinumpressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "363b39bf-5c45-4289-9e6a-7e6f82f29462",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Squeegee Squad - Denver County, CO",
+   "category": "Pressure washing",
+   "phone": "(720) 408-0014",
+   "website": "https://squeegeesquad.com/denver-county-co/commercial/pressure-soft-washing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "722e2737-e7b9-431c-9016-da767a941126",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sparkle Squad of NW Denver-Arvada-Broomfield-Golden",
+   "category": "Pressure washing",
+   "phone": "(303) 872-4196",
+   "website": "https://sparklesquad.com/north-west-denver-co/house-washing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "739d00fd-d8a7-4c96-9a3d-1c0e7af2e4a1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Professional Window Cleaning",
+   "category": "Pressure washing",
+   "phone": "(720) 255-0229",
+   "website": "https://www.getmywindowsclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8e3b31ca-0134-4552-b012-259a1990b062",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mile High Mobile Wash",
+   "category": "Pressure washing",
+   "phone": "(303) 330-8748",
+   "website": "https://milehighmobilewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "f5bfec6f-34ec-418b-99c8-54c3434a9ded",
+   "business_id": "6b3e5981-f531-4e34-8247-64ca2926fe1f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "390f64f8-3107-406f-8ae5-40ab9c9a25c4",
+   "business_id": "8adb4594-bb53-44d4-a782-1e21a3131e3c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "cbf1cf29-ab3e-44bd-a1d1-80bb129e907f",
+   "business_id": "6314df42-e374-4e5e-acaf-c267d7a71ec1",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "11865cbd-a217-4c71-a9c3-c2badcff80c9",
+   "business_id": "05f8627c-0835-465a-8cf9-a02c00b25331",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ac1e5f9f-6f83-42c2-8940-574560ccdd81",
+   "business_id": "363b39bf-5c45-4289-9e6a-7e6f82f29462",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3fca3255-ba40-4881-8bde-1000e83958a8",
+   "business_id": "722e2737-e7b9-431c-9016-da767a941126",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "72c6b83f-e380-4ea4-b115-2f2fe7f67a85",
+   "business_id": "739d00fd-d8a7-4c96-9a3d-1c0e7af2e4a1",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "597a6a5a-a70a-49ce-bc51-8001fbba0829",
+   "business_id": "8e3b31ca-0134-4552-b012-259a1990b062",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

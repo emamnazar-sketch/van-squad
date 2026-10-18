@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "d3b0ac4e-34e5-4e5c-b938-bd973f53bfd1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Forge Auto Studio",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 440-1960",
+   "website": "https://forgeautostudio.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f1228819-f583-400e-848a-71f944a31d6d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Euro Mile High 5280 Mobile Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 816-3876",
+   "website": "https://www.euromilehigh5280.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b49f4e8d-39a0-4aaf-bb94-ede6ccdc7bba",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Klean Details LLC",
+   "category": "Mobile auto detailing",
+   "phone": "(701) 659-1514",
+   "website": "https://www.klean-details.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "084874ef-b686-4681-b067-f74a173d25e9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Colorado Auto Spa",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 333-3578",
+   "website": "http://www.coloradoautospa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e15fe754-8903-4cf4-a950-1f774cb7e199",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "5280 Mobile Auto Shine",
+   "category": "Mobile auto detailing",
+   "phone": "(970) 331-3704",
+   "website": "https://www.5280autoshine.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2d13b4af-924e-403d-b2cb-1350e4a03530",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tier 1 Finish Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 436-9392",
+   "website": "https://oscartx72.setmore.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "daeb7f6f-d5b0-4a07-86c1-28d89dfe161e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "FB Mobile Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 253-5383",
+   "website": "https://www.fbdetailingandcoating.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4baa419e-46d7-457d-b106-94ddcd040deb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mile High Shine",
+   "category": "Mobile auto detailing",
+   "phone": "(720) 726-2145",
+   "website": "https://www.milehighshine.online/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "80210"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "8ea4d071-82bd-4c97-927f-b3a9ad9546af",
+   "business_id": "d3b0ac4e-34e5-4e5c-b938-bd973f53bfd1",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "db5314eb-1067-4928-89de-7624fa908433",
+   "business_id": "f1228819-f583-400e-848a-71f944a31d6d",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d537fa33-cff5-444b-80be-25624d387a3b",
+   "business_id": "b49f4e8d-39a0-4aaf-bb94-ede6ccdc7bba",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0b606703-1055-49a0-b772-ee1c2964bea8",
+   "business_id": "084874ef-b686-4681-b067-f74a173d25e9",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "78bf868f-1c57-4baa-a678-5888f40fca3d",
+   "business_id": "e15fe754-8903-4cf4-a950-1f774cb7e199",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a31d07e7-d397-4c59-af4b-ea78cbf0fa7e",
+   "business_id": "2d13b4af-924e-403d-b2cb-1350e4a03530",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2e67307f-435c-43e4-a287-1ffce3e8a840",
+   "business_id": "daeb7f6f-d5b0-4a07-86c1-28d89dfe161e",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1b88cb8e-ecbf-4768-ac3c-ca8b2297916d",
+   "business_id": "4baa419e-46d7-457d-b106-94ddcd040deb",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

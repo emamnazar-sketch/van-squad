@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "f56545e2-387e-4fb8-9b6a-8bbd1bd8f560",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Grandma's Handyman Service",
+      "category": "Handyman",
+      "phone": "(303) 693-3003",
+      "website": "http://www.grandmashandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2bc96cee-0da7-4372-b9fa-a57b9d3f429e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Seven Hills Home Maintenance",
+      "category": "Handyman",
+      "phone": "(303) 956-2051",
+      "website": "http://sevenhillshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8366c9ac-0867-4f8a-801b-4491482bd7f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handy Dads",
+      "category": "Handyman",
+      "phone": "(833) 724-2639",
+      "website": "https://www.thehandydadsco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ea4288c1-6e84-46f8-8b72-671005eed411",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hire a Handyman",
+      "category": "Handyman",
+      "phone": "(303) 848-9377",
+      "website": "https://hireahandymanco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4cbd8a86-5238-4121-9ed1-da81c7057e81",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "OneDialPro Handyman & Property Services",
+      "category": "Handyman",
+      "phone": "(720) 287-7945",
+      "website": "https://onedialpro.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8854050d-5a9b-4139-9719-62a89e567777",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "On the Way Masters",
+      "category": "Handyman",
+      "phone": "(720) 739-0789",
+      "website": "https://onthewaymasters.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5b1fdf1a-5d28-4765-af36-9cba4c75eacc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paper Street Renovations",
+      "category": "Handyman",
+      "phone": "(720) 755-6995",
+      "website": "https://paperstreetrenovationsllc.godaddysites.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "80013"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "dc1e1254-db3d-4e17-a4d7-399fa3614a9b",
+      "business_id": "f56545e2-387e-4fb8-9b6a-8bbd1bd8f560",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "09ef96cf-3f20-473b-8d40-98d82bffc1ac",
+      "business_id": "2bc96cee-0da7-4372-b9fa-a57b9d3f429e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aa5c1f4d-7aeb-4e8e-aa69-b2fa0a6ba860",
+      "business_id": "8366c9ac-0867-4f8a-801b-4491482bd7f8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "11e5ad25-4fb2-4d7f-bdaa-579e9c6e9e72",
+      "business_id": "ea4288c1-6e84-46f8-8b72-671005eed411",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e3abd1ee-16c8-4de3-b19b-ecff29fd6403",
+      "business_id": "4cbd8a86-5238-4121-9ed1-da81c7057e81",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6db2efd0-b420-49ff-ace5-9b558eed3faa",
+      "business_id": "8854050d-5a9b-4139-9719-62a89e567777",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "94fc7316-85c8-4f36-b1d9-fa173b6d99f4",
+      "business_id": "5b1fdf1a-5d28-4765-af36-9cba4c75eacc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

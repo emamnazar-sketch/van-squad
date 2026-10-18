@@ -1,0 +1,232 @@
+{
+  "businesses": [
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "b85d8435-f47c-4f4b-9fbc-739ec7ca75a5",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Merry Maids of Fort Collins",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 478-0375",
+      "phone_verified": false,
+      "service_zips": [
+        "80525"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://merrymaids.com/home-cleaners-fort-collins-co"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "8cdfb405-2591-434a-b20c-0601de1d4f16",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Hot Mess Cleaning",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 599-3506",
+      "phone_verified": false,
+      "service_zips": [
+        "80525"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://hotmesscleaningllc.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "af6d5866-cfbc-47c5-9588-0774b11fb942",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Reliable Cleaning Services Fort Collins",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 493-1486",
+      "phone_verified": false,
+      "service_zips": [
+        "80525",
+        "80521"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://reliablecleaningcolorado.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "d0c75ffd-901f-4393-b140-a05370f943bb",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Shynex House Cleaning LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 444-2779",
+      "phone_verified": false,
+      "service_zips": [
+        "80525"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://shynexclean.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "2faa148c-a403-4868-b467-50611d04dea6",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Andora Cleaning",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 541-4766",
+      "phone_verified": false,
+      "service_zips": [
+        "80525",
+        "80524"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://andoracleaning.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "abac4736-f486-45a3-ba92-c315de93576e",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Peachy Cleen",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 412-5523",
+      "phone_verified": false,
+      "service_zips": [
+        "80525"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.peachycleen.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "7930fedc-3b25-4243-9e51-f95649b457ea",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "White Glove Cleaning Service, LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(970) 290-4189",
+      "phone_verified": false,
+      "service_zips": [
+        "80525"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.cleaningbywhiteglove.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "353acfe9-9421-495f-ab5a-c0af639e157b",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Joy Clean Service Company",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(720) 725-6026",
+      "phone_verified": false,
+      "service_zips": [
+        "80525"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://joycleanservicecompany.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "b85d8435-f47c-4f4b-9fbc-739ec7ca75a5",
+      "id": "cd9c6dde-1339-46a5-93e8-8731fc4b0411",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "8cdfb405-2591-434a-b20c-0601de1d4f16",
+      "id": "640aba18-cf89-426a-b1d0-f840541783da",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "af6d5866-cfbc-47c5-9588-0774b11fb942",
+      "id": "970e69ae-dcff-4c30-9304-045b1d8e101b",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "d0c75ffd-901f-4393-b140-a05370f943bb",
+      "id": "3dce5e17-2cb6-47c6-9097-ddf91db7bf75",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "2faa148c-a403-4868-b467-50611d04dea6",
+      "id": "170c9af5-b24b-4e01-a99c-a142eb09cd5a",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "abac4736-f486-45a3-ba92-c315de93576e",
+      "id": "8aa158fe-8d1c-4a8b-abcc-7588f745b520",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "7930fedc-3b25-4243-9e51-f95649b457ea",
+      "id": "ced15a82-6f9c-45d1-b59e-5e10a64a4c14",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "353acfe9-9421-495f-ab5a-c0af639e157b",
+      "id": "6b294623-4e5c-41c4-826f-be4034779b58",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

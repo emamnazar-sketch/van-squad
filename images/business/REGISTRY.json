@@ -1880,5 +1880,659 @@
   "image": "images/business/flathead-valley-mobile-detailing.jpg",
   "scene": "Scrubbing a silver sedan's front tire with a brush, soapy bucket at his knee, ranch home and mountains in warm late light",
   "created": "2026-10-17"
+ },
+ "0d2bc00d-59eb-4e2b-9a91-2b6d08238bdb": {
+  "business": "AA Super Klean",
+  "image": "images/business/aa-super-klean.jpg",
+  "scene": "Cleaner wiping a bright kitchen island counter in a sunlit ranch home, vacuum nearby",
+  "created": "2026-10-18"
+ },
+ "e845f6bc-3587-45df-8d25-9749fa49d123": {
+  "business": "Time To Shine Cleaning Services, LLC",
+  "image": "images/business/time-to-shine-cleaning-services-llc.jpg",
+  "scene": "Cleaner dusting wooden blinds in a bright living room, mountain light through window",
+  "created": "2026-10-18"
+ },
+ "6b3a71b0-ec63-46f7-b13c-d143d3525729": {
+  "business": "Blessings & Brooms LLC",
+  "image": "images/business/blessings-brooms-llc.jpg",
+  "scene": "Cleaner mopping a light hardwood entryway, bucket beside, coats on hooks",
+  "created": "2026-10-18"
+ },
+ "f53d3239-0513-4bd0-b24b-84d3273c840e": {
+  "business": "Little Joe Company LLC",
+  "image": "images/business/little-joe-company-llc.jpg",
+  "scene": "Cleaner polishing a bathroom mirror in a bright suburban home, cleaning caddy on counter",
+  "created": "2026-10-18"
+ },
+ "9bd811a0-78c4-442d-8194-34999989ab33": {
+  "business": "307 Maid",
+  "image": "images/business/307-maid.jpg",
+  "scene": "Cleaner carrying a supply caddy up the front steps of a craftsman home, morning sun",
+  "created": "2026-10-18"
+ },
+ "b28da011-64f7-4ae9-bdb9-f5d8663253a3": {
+  "business": "Cleaning and Things",
+  "image": "images/business/cleaning-and-things.jpg",
+  "scene": "Cleaner wiping glass patio doors in a sunlit family room, spray bottle in hand",
+  "created": "2026-10-18"
+ },
+ "f0827242-a0cb-432d-a7da-864b671ccc51": {
+  "business": "That Extra Touch Professional Cleaning Services",
+  "image": "images/business/that-extra-touch-professional-cleaning-services.jpg",
+  "scene": "Cleaner smoothing white linens on a bed in a bright bedroom, laundry basket nearby",
+  "created": "2026-10-18"
+ },
+ "62a83559-8db9-4153-af99-f521b0183ab0": {
+  "business": "HandyMation LLC",
+  "image": "images/business/handymation-llc.jpg",
+  "scene": "Handyman installing a ceiling light fixture from a ladder in a bright living room, toolbox open on floor",
+  "created": "2026-10-18"
+ },
+ "629ebefc-9bea-4167-b789-c6fe8cfa512d": {
+  "business": "Wyoming All Service",
+  "image": "images/business/wyoming-all-service.jpg",
+  "scene": "Handyman drilling a wooden fence gate hinge in a sunny backyard, toolbox on grass",
+  "created": "2026-10-18"
+ },
+ "43e0ce9f-3db8-4792-9a34-a177a99fc9a0": {
+  "business": "The Wyoming Handyman",
+  "image": "images/business/the-wyoming-handyman.jpg",
+  "scene": "Handyman patching drywall in a bright hallway, drop cloth and compound bucket below",
+  "created": "2026-10-18"
+ },
+ "58ee9994-8516-4c62-befc-46b1fa95eff5": {
+  "business": "Allworx Handyman Services",
+  "image": "images/business/allworx-handyman-services.jpg",
+  "scene": "Handyman fitting a kitchen faucet at a bright farmhouse sink, tools laid out on a towel",
+  "created": "2026-10-18"
+ },
+ "b68ddfa6-067f-4858-b145-f3d7bfa6b414": {
+  "business": "Oddjobr Services",
+  "image": "images/business/oddjobr-services.jpg",
+  "scene": "Handyman holding a wooden shed wall panel upright outdoors, level and drill on grass",
+  "created": "2026-10-18"
+ },
+ "4ec35cda-87b1-41b7-bdbc-0d9ce764ef3b": {
+  "business": "Suds Stud Mobile Detailing LLC",
+  "image": "images/business/suds-stud-mobile-detailing-llc.jpg",
+  "scene": "Detailer polishing a black SUV in a sunny driveway, wash bucket and towels beside, unbranded white van behind",
+  "created": "2026-10-18"
+ },
+ "bc89f216-547a-4a26-bf69-6a108ed2ba3c": {
+  "business": "Car Detailing By Apex Cleaning",
+  "image": "images/business/car-detailing-by-apex-cleaning.jpg",
+  "scene": "Detailer vacuuming the beige interior of a silver sedan, all doors open, in a bright driveway",
+  "created": "2026-10-18"
+ },
+ "ff6d71e5-90d2-487e-871b-03765016125b": {
+  "business": "Honeydew Services LLC",
+  "image": "images/business/honeydew-services-llc.jpg",
+  "scene": "Handyman hammering a nail into a front porch step, toolbox open beside him",
+  "created": "2026-10-18"
+ },
+ "ff357b35-0e81-4fd4-b9ca-45eb91205f3f": {
+  "business": "Dawn's Handyman Services",
+  "image": "images/business/dawn-s-handyman-services.jpg",
+  "scene": "Woman handyman drilling a towel bar bracket onto a white tiled bathroom wall, toolbox open on floor",
+  "created": "2026-10-18"
+ },
+ "3163aa69-9ffe-448a-b801-7140e0887aa0": {
+  "business": "Little Tree Handyman Service",
+  "image": "images/business/little-tree-handyman-service.jpg",
+  "scene": "Handyman on a step ladder sawing a small tree branch in a sunny front yard",
+  "created": "2026-10-18"
+ },
+ "f56545e2-387e-4fb8-9b6a-8bbd1bd8f560": {
+  "business": "Grandma's Handyman Service",
+  "image": "images/business/grandmas-handyman-service.jpg",
+  "scene": "Handyman drilling a grab bar beside a bright bathtub, toolbox open on the bath mat",
+  "created": "2026-10-18"
+ },
+ "2bc96cee-0da7-4372-b9fa-a57b9d3f429e": {
+  "business": "Seven Hills Home Maintenance",
+  "image": "images/business/seven-hills-home-maintenance.jpg",
+  "scene": "Handyman drilling a deck railing post on a sunny back deck, toolbox and saw beside",
+  "created": "2026-10-18"
+ },
+ "8366c9ac-0867-4f8a-801b-4491482bd7f8": {
+  "business": "The Handy Dads",
+  "image": "images/business/the-handy-dads.jpg",
+  "scene": "Two handymen lifting a flat TV onto a bright living room wall mount, ladder and toolbox below",
+  "created": "2026-10-18"
+ },
+ "ea4288c1-6e84-46f8-8b72-671005eed411": {
+  "business": "Hire a Handyman",
+  "image": "images/business/hire-a-handyman.jpg",
+  "scene": "Handyman lying on a mat inspecting a leaking under-sink pipe with a flashlight and wrench",
+  "created": "2026-10-18"
+ },
+ "4cbd8a86-5238-4121-9ed1-da81c7057e81": {
+  "business": "OneDialPro Handyman & Property Services",
+  "image": "images/business/onedialpro-handyman-property-services.jpg",
+  "scene": "Handyman fitting a front door lock on a sunny porch, toolbox open beside the door",
+  "created": "2026-10-18"
+ },
+ "8854050d-5a9b-4139-9719-62a89e567777": {
+  "business": "On the Way Masters",
+  "image": "images/business/on-the-way-masters.jpg",
+  "scene": "Handyman rolling light blue paint onto a bedroom wall, drop cloth and paint tray below",
+  "created": "2026-10-18"
+ },
+ "5b1fdf1a-5d28-4765-af36-9cba4c75eacc": {
+  "business": "Paper Street Renovations",
+  "image": "images/business/paper-street-renovations.jpg",
+  "scene": "Handyman kneeling to lay laminate floor planks in a bright empty room, miter saw beside",
+  "created": "2026-10-18"
+ },
+ "d2133641-32fc-4ede-9845-c2417c621ef6": {
+  "business": "Erika's House Cleaning LLC",
+  "image": "images/business/erikas-house-cleaning-llc.jpg",
+  "scene": "Cleaner scrubbing a stovetop in a bright kitchen with a mountain-view window",
+  "created": "2026-10-18"
+ },
+ "9cf55ecb-8c1a-4d49-8fde-b14a42b8c779": {
+  "business": "Robbins Cleaning Services",
+  "image": "images/business/robbins-cleaning-services.jpg",
+  "scene": "Cleaner vacuuming carpeted stairs with a handheld vacuum in a bright hallway",
+  "created": "2026-10-18"
+ },
+ "de5920d3-acc4-46b9-84d0-f75ff8b43202": {
+  "business": "eMaids of Colorado Springs",
+  "image": "images/business/emaids-of-colorado-springs.jpg",
+  "scene": "Two cleaners wiping a wooden dining table in a sunlit dining room",
+  "created": "2026-10-18"
+ },
+ "5c01f3f3-6537-416f-8403-fe470a126a90": {
+  "business": "Sergeant Suds Cleaning Services",
+  "image": "images/business/sergeant-suds-cleaning-services.jpg",
+  "scene": "Cleaner squeegeeing a glass shower door in a bright tiled bathroom",
+  "created": "2026-10-18"
+ },
+ "cc6e2ab8-44ae-428b-8728-3ee725b3a635": {
+  "business": "Always Sparkle Cleaners",
+  "image": "images/business/always-sparkle-cleaners.jpg",
+  "scene": "Cleaner dusting a ceiling fan with a long yellow duster in a bright living room",
+  "created": "2026-10-18"
+ },
+ "a8cda6c8-79c0-4ea3-b028-cf9e1566b67c": {
+  "business": "Cheyenne Mountain Cleaning Services",
+  "image": "images/business/cheyenne-mountain-cleaning-services.jpg",
+  "scene": "Cleaner wiping a dark granite kitchen island, foothills visible through the window",
+  "created": "2026-10-18"
+ },
+ "3384c603-0e0a-4112-b1c7-43b89682b7c6": {
+  "business": "Noriko's House Cleaning",
+  "image": "images/business/norikos-house-cleaning.jpg",
+  "scene": "Cleaner folding towels on a made bed in a bright guest room, laundry basket beside",
+  "created": "2026-10-18"
+ },
+ "ac6f5cdf-5517-4fd2-9a6c-d98aa7485c3a": {
+  "business": "Colorado Springs House Cleaning Service, Inc.",
+  "image": "images/business/colorado-springs-house-cleaning-service-inc.jpg",
+  "scene": "Cleaner mopping a tiled kitchen floor, bucket beside the fridge",
+  "created": "2026-10-18"
+ },
+ "d3b0ac4e-34e5-4e5c-b938-bd973f53bfd1": {
+  "business": "Forge Auto Studio",
+  "image": "images/business/forge-auto-studio.jpg",
+  "scene": "Detailer hand-polishing the hood of a red sports coupe in a sunny driveway",
+  "created": "2026-10-18"
+ },
+ "f1228819-f583-400e-848a-71f944a31d6d": {
+  "business": "Euro Mile High 5280 Mobile Detail",
+  "image": "images/business/euro-mile-high-5280-mobile-detail.jpg",
+  "scene": "Detailer extracting the interior of a silver hatchback with both doors open in a driveway",
+  "created": "2026-10-18"
+ },
+ "b49f4e8d-39a0-4aaf-bb94-ede6ccdc7bba": {
+  "business": "Klean Details LLC",
+  "image": "images/business/klean-details-llc.jpg",
+  "scene": "Detailer foam-rinsing a blue pickup truck covered in wash foam in a bright driveway",
+  "created": "2026-10-18"
+ },
+ "084874ef-b686-4681-b067-f74a173d25e9": {
+  "business": "Colorado Auto Spa",
+  "image": "images/business/colorado-auto-spa.jpg",
+  "scene": "Detailer wiping down a white sedan in a sunny suburban driveway",
+  "created": "2026-10-18"
+ },
+ "e15fe754-8903-4cf4-a950-1f774cb7e199": {
+  "business": "5280 Mobile Auto Shine",
+  "image": "images/business/5280-mobile-auto-shine.jpg",
+  "scene": "Detailer crouched cleaning the front wheel of a gray SUV, wash bin beside",
+  "created": "2026-10-18"
+ },
+ "2d13b4af-924e-403d-b2cb-1350e4a03530": {
+  "business": "Tier 1 Finish Car Detailing",
+  "image": "images/business/tier-1-finish-car-detailing.jpg",
+  "scene": "Detailer polishing the front fender of a dark sedan with a small polisher in a driveway",
+  "created": "2026-10-18"
+ },
+ "daeb7f6f-d5b0-4a07-86c1-28d89dfe161e": {
+  "business": "FB Mobile Auto Detailing",
+  "image": "images/business/fb-mobile-auto-detailing.jpg",
+  "scene": "Detailer wiping the dashboard inside a tan-interior SUV, driver door open, sunny street",
+  "created": "2026-10-18"
+ },
+ "4baa419e-46d7-457d-b106-94ddcd040deb": {
+  "business": "Mile High Shine",
+  "image": "images/business/mile-high-shine.jpg",
+  "scene": "Detailer drying a black convertible with a large towel, Denver skyline far behind",
+  "created": "2026-10-18"
+ },
+ "a03c8a07-a6ed-4ad2-8a69-ceb34d2b8d87": {
+  "business": "Denver Mop Stars Cleaning Service",
+  "image": "images/business/denver-mop-stars-cleaning-service.jpg",
+  "scene": "Cleaner carrying a mop over his shoulder and a bucket through a bright modern kitchen",
+  "created": "2026-10-18"
+ },
+ "b7b0f734-2a25-4c5f-9ccf-d4a3dbcb9068": {
+  "business": "Alpine Maids",
+  "image": "images/business/alpine-maids.jpg",
+  "scene": "Cleaner dusting tall wooden bookshelves in a bright living room",
+  "created": "2026-10-18"
+ },
+ "f9fdb19d-6d03-4599-a508-2a9092d6b35d": {
+  "business": "Wendy's Cleaning Service",
+  "image": "images/business/wendys-cleaning-service.jpg",
+  "scene": "Cleaner wiping a wooden sideboard in a sunlit dining room, spray bottle in hand",
+  "created": "2026-10-18"
+ },
+ "7899f47d-4736-4424-8d6a-85ede6ebd9e9": {
+  "business": "Denver Cleaning Service Company",
+  "image": "images/business/denver-cleaning-service-company.jpg",
+  "scene": "Cleaner vacuuming a patterned rug in a bright apartment living room with skyline windows",
+  "created": "2026-10-18"
+ },
+ "1a0de4f4-8765-47b8-9a6f-7b4273007118": {
+  "business": "Broom",
+  "image": "images/business/broom.jpg",
+  "scene": "Cleaner sweeping a hardwood entry hallway with a broom and dustpan",
+  "created": "2026-10-18"
+ },
+ "5d189da5-86d1-4b65-bf15-9664ba5612cd": {
+  "business": "The Haus Keepers",
+  "image": "images/business/the-haus-keepers.jpg",
+  "scene": "Cleaner polishing stainless fridge doors in a bright modern kitchen",
+  "created": "2026-10-18"
+ },
+ "efbabe8d-9f5e-4928-bd3f-286bc238b8f5": {
+  "business": "Organic Maids",
+  "image": "images/business/organic-maids.jpg",
+  "scene": "Cleaner wiping a wooden table in a plant-filled sunlit sunroom, caddy beside",
+  "created": "2026-10-18"
+ },
+ "ef9f9513-208a-4d3a-a7e9-4426775dcbc3": {
+  "business": "Dream Clean Service",
+  "image": "images/business/dream-clean-service.jpg",
+  "scene": "Cleaner smoothing gray linens on a king bed in a bright bedroom",
+  "created": "2026-10-18"
+ },
+ "53362507-ad21-47f3-b468-7553d6f4fd42": {
+  "business": "Groomie Roomie Mobile Pet Grooming",
+  "image": "images/business/groomie-roomie-mobile-pet-grooming.jpg",
+  "scene": "Groomer brushing a golden retriever on a table beside an unbranded white van",
+  "created": "2026-10-18"
+ },
+ "50ac2081-ca26-47aa-81e8-07edf80b882e": {
+  "business": "New Era Mobile Pet Grooming",
+  "image": "images/business/new-era-mobile-pet-grooming.jpg",
+  "scene": "Groomer clipping a white poodle on a table at the curb, unbranded van behind",
+  "created": "2026-10-18"
+ },
+ "40021f3f-dbaf-4c1a-a381-78eec971ae36": {
+  "business": "Polished Pets Mobile Dog Grooming",
+  "image": "images/business/polished-pets-mobile-dog-grooming.jpg",
+  "scene": "Groomer blow-drying a corgi on a table at the open rear of an unbranded van",
+  "created": "2026-10-18"
+ },
+ "5177653a-b47f-4255-8cb0-a20177f6bff6": {
+  "business": "Furbubble Mobile Pet Grooming",
+  "image": "images/business/furbubble-mobile-pet-grooming.jpg",
+  "scene": "Groomer washing a soapy beagle in a portable tub on a sunny patio",
+  "created": "2026-10-18"
+ },
+ "1a191d0a-7b53-48ee-9ef9-60580bd408b1": {
+  "business": "Bark & Mane of East Denver",
+  "image": "images/business/bark-mane-of-east-denver.jpg",
+  "scene": "Groomer clipping a yellow labrador's nails on a mat in a driveway, unbranded van beside",
+  "created": "2026-10-18"
+ },
+ "8adf1136-a15f-4f60-b213-3fd8f02c00fb": {
+  "business": "Zoomin Groomin Central Denver",
+  "image": "images/business/zoomin-groomin-central-denver.jpg",
+  "scene": "Groomer brushing a husky beside an open unbranded grooming van in a driveway",
+  "created": "2026-10-18"
+ },
+ "b1a4c820-298a-4ec8-a8d2-b16aa45ef8f3": {
+  "business": "Furry Land Mobile Grooming Denver",
+  "image": "images/business/furry-land-mobile-grooming-denver.jpg",
+  "scene": "Small dog walking down a van ramp toward a front door while the groomer watches",
+  "created": "2026-10-18"
+ },
+ "6b3e5981-f531-4e34-8247-64ca2926fe1f": {
+  "business": "Denver Pressure Washing",
+  "image": "images/business/denver-pressure-washing.jpg",
+  "scene": "Worker pressure washing a concrete driveway in front of a suburban home",
+  "created": "2026-10-18"
+ },
+ "8adb4594-bb53-44d4-a782-1e21a3131e3c": {
+  "business": "A Good Front Window Cleaning & Pressure Washing",
+  "image": "images/business/a-good-front-window-cleaning-pressure-washing.jpg",
+  "scene": "Worker pressure washing front porch steps, water running down, hose coiled beside",
+  "created": "2026-10-18"
+ },
+ "6314df42-e374-4e5e-acaf-c267d7a71ec1": {
+  "business": "Top Notch Gutter Services",
+  "image": "images/business/top-notch-gutter-services.jpg",
+  "scene": "Worker on a tall ladder pressure washing house siding above a garden",
+  "created": "2026-10-18"
+ },
+ "05f8627c-0835-465a-8cf9-a02c00b25331": {
+  "business": "Platinum Pressure Washing",
+  "image": "images/business/platinum-pressure-washing.jpg",
+  "scene": "Worker pressure washing a wooden backyard deck, patio furniture moved aside",
+  "created": "2026-10-18"
+ },
+ "363b39bf-5c45-4289-9e6a-7e6f82f29462": {
+  "business": "Squeegee Squad - Denver County, CO",
+  "image": "images/business/squeegee-squad-denver-county-co.jpg",
+  "scene": "Worker pressure washing a red brick house facade from the sidewalk with a long wand",
+  "created": "2026-10-18"
+ },
+ "722e2737-e7b9-431c-9016-da767a941126": {
+  "business": "Sparkle Squad of NW Denver-Arvada-Broomfield-Golden",
+  "image": "images/business/sparkle-squad-of-nw-denver-arvada-broomfield-golden.jpg",
+  "scene": "Worker rinsing a front walkway with a pressure washer between flower beds",
+  "created": "2026-10-18"
+ },
+ "739d00fd-d8a7-4c96-9a3d-1c0e7af2e4a1": {
+  "business": "Professional Window Cleaning",
+  "image": "images/business/professional-window-cleaning.jpg",
+  "scene": "Worker pressure washing a rear patio slab beside potted plants",
+  "created": "2026-10-18"
+ },
+ "8e3b31ca-0134-4552-b012-259a1990b062": {
+  "business": "Mile High Mobile Wash",
+  "image": "images/business/mile-high-mobile-wash.jpg",
+  "scene": "Worker pressure washing the rear of a white RV in a sunny driveway, ladder beside",
+  "created": "2026-10-18"
+ },
+ "3153c7b5-84c8-4655-bb08-c349a9d36daf": {
+  "business": "Neat N Tidy House Cleaning Of Denver",
+  "image": "images/business/neat-n-tidy-house-cleaning-of-denver.jpg",
+  "scene": "Cleaner scrubbing a tiled shower wall standing in the tub, yellow gloves",
+  "created": "2026-10-18"
+ },
+ "c1922e35-fd63-4427-a9ec-58b68f206f04": {
+  "business": "LifeShine Cleaning",
+  "image": "images/business/lifeshine-cleaning.jpg",
+  "scene": "Cleaner steam-cleaning under a range hood in a sunlit white kitchen",
+  "created": "2026-10-18"
+ },
+ "7279e400-98f8-4514-91b3-8164973ddaff": {
+  "business": "Deep Clean Colorado",
+  "image": "images/business/deep-clean-colorado.jpg",
+  "scene": "Two cleaners deep cleaning an empty sunlit living room, one mopping hardwood",
+  "created": "2026-10-18"
+ },
+ "71ed74dc-6c32-4713-8e6a-c4dd39ae0792": {
+  "business": "EcoHappyMaids",
+  "image": "images/business/ecohappymaids.jpg",
+  "scene": "Cleaner wiping the inside of an open empty refrigerator in a bright kitchen",
+  "created": "2026-10-18"
+ },
+ "f7bf84a5-87ec-4b7c-bee3-1456ffff9cc3": {
+  "business": "Mega Megz Cleaners",
+  "image": "images/business/mega-megz-cleaners.jpg",
+  "scene": "Cleaner kneeling to clean an open oven in a bright kitchen, spray bottle in hand",
+  "created": "2026-10-18"
+ },
+ "32f7df28-0c3c-4658-907f-a2d41aa883f2": {
+  "business": "Kathy Clean",
+  "image": "images/business/kathy-clean.jpg",
+  "scene": "Cleaner dusting high entry windows with a long duster in a two-story foyer",
+  "created": "2026-10-18"
+ },
+ "e86bee86-f56b-4d98-b2ad-c67c85d31500": {
+  "business": "We Leave Clean of Central Denver",
+  "image": "images/business/we-leave-clean-of-central-denver.jpg",
+  "scene": "Cleaner polishing a granite island in a bright open-plan kitchen",
+  "created": "2026-10-18"
+ },
+ "d11863a0-13cc-4730-88cb-788850bde9aa": {
+  "business": "KAF Mobile Auto Detailing",
+  "image": "images/business/kaf-mobile-auto-detailing.jpg",
+  "scene": "Detailer polishing the roof of a silver coupe with an orbital polisher in a driveway",
+  "created": "2026-10-18"
+ },
+ "ff5fefb6-5156-4dac-91ed-a773586cfb49": {
+  "business": "Madcat Details",
+  "image": "images/business/madcat-details.jpg",
+  "scene": "Detailer vacuuming the open trunk of a silver hatchback in a bright driveway",
+  "created": "2026-10-18"
+ },
+ "a446b6b1-148b-40d7-9f0c-366341db61f8": {
+  "business": "ZMF Aurora Mobile Detailing",
+  "image": "images/business/zmf-aurora-mobile-detailing.jpg",
+  "scene": "Detailer hand-dressing the front tire of a black pickup in a sunny driveway",
+  "created": "2026-10-18"
+ },
+ "f1a130b4-6a7b-4669-9400-4a8e04259fd0": {
+  "business": "Spotless Mobile Car Detailing",
+  "image": "images/business/spotless-mobile-car-detailing.jpg",
+  "scene": "Detailer hand-washing a white SUV with a mitt at curbside, foam bucket at his feet",
+  "created": "2026-10-18"
+ },
+ "a7511143-fc30-4d60-9f6e-2a43abb6e481": {
+  "business": "All In Detailing",
+  "image": "images/business/all-in-detailing.jpg",
+  "scene": "Detailer brushing brown leather seats inside a gray sedan, door open",
+  "created": "2026-10-18"
+ },
+ "c20f6157-d14d-4065-9039-759aa9e71075": {
+  "business": "CarSpa Mobile Detailing",
+  "image": "images/business/carspa-mobile-detailing.jpg",
+  "scene": "Detailer rinsing a blue sedan with a hose in a sunny driveway",
+  "created": "2026-10-18"
+ },
+ "62e4e310-53b0-4ca2-93e4-dabb6cf87b58": {
+  "business": "Phoenix Mobile Autos Detailing",
+  "image": "images/business/phoenix-mobile-autos-detailing.jpg",
+  "scene": "Detailer polishing the door of a vintage teal pickup in bright sun",
+  "created": "2026-10-18"
+ },
+ "6e318181-2c3e-4c10-98af-7445de305ee3": {
+  "business": "Rockies Mobile Car Detailing",
+  "image": "images/business/rockies-mobile-car-detailing.jpg",
+  "scene": "Detailer extracting car floor mats laid on a driveway beside an open SUV, mountains behind",
+  "created": "2026-10-18"
+ },
+ "9ab7c8a7-78df-40c8-860e-a5bca5af7521": {
+  "business": "Northgate Neighbor, LLC",
+  "image": "images/business/northgate-neighbor-llc.jpg",
+  "scene": "Handyman leveling a new mailbox post at a sunny front curb, toolbox on the grass",
+  "created": "2026-10-18"
+ },
+ "9d74c8de-d463-498a-afa4-dfe88a21f360": {
+  "business": "Dad's Handyman CoS",
+  "image": "images/business/dads-handyman-cos.jpg",
+  "scene": "Handyman kneeling on a lawn repairing a sprinkler head with a wrench, toolbox beside",
+  "created": "2026-10-18"
+ },
+ "499bd849-d675-4b8b-9a2e-fe32d3565ddb": {
+  "business": "Screw Loose Handyman Services",
+  "image": "images/business/screw-loose-handyman-services.jpg",
+  "scene": "Handyman drilling a stair handrail bracket in a bright stairwell",
+  "created": "2026-10-18"
+ },
+ "717babed-feea-4fcc-9752-3a2cae052d12": {
+  "business": "Handyman Happens",
+  "image": "images/business/handyman-happens.jpg",
+  "scene": "Handyman on a ladder replacing a porch light beside a front door",
+  "created": "2026-10-18"
+ },
+ "25615ab2-dde9-440e-b508-c9e22e599710": {
+  "business": "AV's Handyman & Maintenance LLC",
+  "image": "images/business/avs-handyman-maintenance-llc.jpg",
+  "scene": "Handyman caulking the edge of a freestanding bathtub in a bright bathroom",
+  "created": "2026-10-18"
+ },
+ "f4f1d50f-de28-4c4a-8140-1cdbcf943a15": {
+  "business": "Handyworx Handyman Services",
+  "image": "images/business/handyworx-handyman-services.jpg",
+  "scene": "Handyman assembling a flat-pack dresser frame in a bright bedroom, parts on a blanket",
+  "created": "2026-10-18"
+ },
+ "6d9bdd32-0f65-4620-af52-b8eabe0e5af1": {
+  "business": "Mr. Handyman of Colorado Springs",
+  "image": "images/business/mr-handyman-of-colorado-springs.jpg",
+  "scene": "Handyman in a plain red shirt fixing a wooden gate latch in a sunny side yard",
+  "created": "2026-10-18"
+ },
+ "e11765c7-448a-409b-a5ae-d2a40ba5fb25": {
+  "business": "Ace Handyman Services Downtown Colorado Springs",
+  "image": "images/business/ace-handyman-services-downtown-colorado-springs.jpg",
+  "scene": "Handyman on a ladder installing a ceiling fan in a bright dining room",
+  "created": "2026-10-18"
+ },
+ "3adf16b4-8984-499a-8d2a-eeb231d1e508": {
+  "business": "Wam Bam Handyman",
+  "image": "images/business/wam-bam-handyman.jpg",
+  "scene": "Handyman patching a hole in a garage wall, compound bucket beside, daylight from open door",
+  "created": "2026-10-18"
+ },
+ "b85d8435-f47c-4f4b-9fbc-739ec7ca75a5": {
+  "business": "Merry Maids of Fort Collins",
+  "image": "images/business/merry-maids-of-fort-collins.jpg",
+  "scene": "Cleaner in a plain green apron wiping a farmhouse kitchen table in sunlit kitchen",
+  "created": "2026-10-18"
+ },
+ "8cdfb405-2591-434a-b20c-0601de1d4f16": {
+  "business": "Hot Mess Cleaning",
+  "image": "images/business/hot-mess-cleaning.jpg",
+  "scene": "Cleaner wiping a playroom shelf among colorful toys in a bright family home",
+  "created": "2026-10-18"
+ },
+ "af6d5866-cfbc-47c5-9588-0774b11fb942": {
+  "business": "Reliable Cleaning Services Fort Collins",
+  "image": "images/business/reliable-cleaning-services-fort-collins.jpg",
+  "scene": "Cleaner vacuuming a long hallway runner in a bright ranch home entry",
+  "created": "2026-10-18"
+ },
+ "d0c75ffd-901f-4393-b140-a05370f943bb": {
+  "business": "Shynex House Cleaning LLC",
+  "image": "images/business/shynex-house-cleaning-llc.jpg",
+  "scene": "Cleaner polishing pedestal sink faucets in a bright white-tiled bathroom",
+  "created": "2026-10-18"
+ },
+ "2faa148c-a403-4868-b467-50611d04dea6": {
+  "business": "Andora Cleaning",
+  "image": "images/business/andora-cleaning.jpg",
+  "scene": "Cleaner wiping tall sliding glass doors in a bright living room with garden view",
+  "created": "2026-10-18"
+ },
+ "abac4736-f486-45a3-ba92-c315de93576e": {
+  "business": "Peachy Cleen",
+  "image": "images/business/peachy-cleen.jpg",
+  "scene": "Cleaner dusting the top of a black grand piano in a sunlit room",
+  "created": "2026-10-18"
+ },
+ "7930fedc-3b25-4243-9e51-f95649b457ea": {
+  "business": "White Glove Cleaning Service, LLC",
+  "image": "images/business/white-glove-cleaning-service-llc.jpg",
+  "scene": "Cleaner in white gloves wiping a wooden stair banister in a bright entry",
+  "created": "2026-10-18"
+ },
+ "353acfe9-9421-495f-ab5a-c0af639e157b": {
+  "business": "Joy Clean Service Company",
+  "image": "images/business/joy-clean-service-company.jpg",
+  "scene": "Cleaner carrying a basket of fresh towels into a bright spa-style bathroom",
+  "created": "2026-10-18"
+ },
+ "01921956-5d9f-4272-b5f4-06c5c919900a": {
+  "business": "Golden Hands Handyman Services",
+  "image": "images/business/golden-hands-handyman-services.jpg",
+  "scene": "Handyman drilling a shelf bracket in a bright home study with bookcase",
+  "created": "2026-10-18"
+ },
+ "8ec98bb5-12ce-4296-aa75-c60ef6e44778": {
+  "business": "Gage Home",
+  "image": "images/business/gage-home.jpg",
+  "scene": "Handyman kneeling to fix the track of a wooden sliding closet door in a bright bedroom",
+  "created": "2026-10-18"
+ },
+ "4ecdab4c-4490-44a1-a4f2-dd70509dec85": {
+  "business": "Boulder Property Services LLC",
+  "image": "images/business/boulder-property-services-llc.jpg",
+  "scene": "Handyman on a ladder clearing leaves from a house gutter, bucket hanging beside",
+  "created": "2026-10-18"
+ },
+ "ceed53ce-0486-497f-82b5-c3fd0b5dfe23": {
+  "business": "Handyman VanHorn",
+  "image": "images/business/handyman-vanhorn.jpg",
+  "scene": "Handyman on a step ladder replacing a bathroom ceiling exhaust fan in a bright bathroom",
+  "created": "2026-10-18"
+ },
+ "6b18d9eb-5bea-4388-83ea-bd99997e5712": {
+  "business": "Yogamason Painting & Handyman Services",
+  "image": "images/business/yogamason-painting-handyman-services.jpg",
+  "scene": "Handyman rolling teal paint onto an accent wall in a bright living room",
+  "created": "2026-10-18"
+ },
+ "9c187b8c-63aa-4b15-9a4f-cce562c82217": {
+  "business": "Castleberry Home Services",
+  "image": "images/business/castleberry-home-services.jpg",
+  "scene": "Handyman fitting a front porch railing post on a sunny porch, toolbox open",
+  "created": "2026-10-18"
+ },
+ "499b178c-0b0b-4ddc-a992-5ab4ea209119": {
+  "business": "Turnpike Handyman",
+  "image": "images/business/turnpike-handyman.jpg",
+  "scene": "Handyman adjusting an open garage door track with a wrench in bright daylight",
+  "created": "2026-10-18"
+ },
+ "59793ef2-ea01-4a43-b0b5-7e2d5f5f2ee7": {
+  "business": "Kyles Elite Handyman Service",
+  "image": "images/business/kyles-elite-handyman-service.jpg",
+  "scene": "Handyman drilling a floating shelf with a level resting on it in a bright office",
+  "created": "2026-10-18"
+ },
+ "0e151e46-1791-4ebb-9df5-72d5e9e5eb43": {
+  "business": "Prim and Pawper Mobile Grooming",
+  "image": "images/business/prim-and-pawper-mobile-grooming.jpg",
+  "scene": "Groomer brushing a white bichon on a table in a driveway, unbranded van behind",
+  "created": "2026-10-18"
+ },
+ "15707d10-4ba4-4389-a774-7c3230e2f57c": {
+  "business": "Collar Cuts Mobile Pet Grooming",
+  "image": "images/business/collar-cuts-mobile-pet-grooming.jpg",
+  "scene": "Groomer clipping a schnauzer on a table inside an open grooming van",
+  "created": "2026-10-18"
+ },
+ "6e9cd3d5-c194-4de4-93f8-7d07fba72c85": {
+  "business": "Fur Sure Grooming",
+  "image": "images/business/fur-sure-grooming.jpg",
+  "scene": "Groomer washing a soapy goldendoodle in a portable tub on a sunny patio",
+  "created": "2026-10-18"
+ },
+ "8799fdaa-dd64-4c36-9140-a8eb9080a447": {
+  "business": "Woofie's of Denver Foothills",
+  "image": "images/business/woofies-of-denver-foothills.jpg",
+  "scene": "Groomer towel-drying a border collie beside an unbranded van, foothills behind",
+  "created": "2026-10-18"
+ },
+ "6a2955aa-5593-4ccd-aeb2-4ccddd2537ce": {
+  "business": "Lucky Dog Mobile Groomers",
+  "image": "images/business/lucky-dog-mobile-groomers.jpg",
+  "scene": "Groomer clipping a dachshund's nails on a mat at a front porch, van behind",
+  "created": "2026-10-18"
+ },
+ "7c44ed23-2298-4704-b8d9-e56ab498a978": {
+  "business": "Bark & Mane of Boulder and Arvada",
+  "image": "images/business/bark-mane-of-boulder-and-arvada.jpg",
+  "scene": "Groomer brushing a long-haired cat on a table in a sunny driveway, unbranded van behind (regenerated after coordinator QA reject: first version framed subjects too distant)",
+  "created": "2026-10-18"
  }
 }
