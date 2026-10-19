@@ -1,0 +1,62 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "47cc5314-18c7-4a9f-860e-72fcda053cad",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "My Cleaning Services, LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(307) 622-7262",
+   "phone_verified": false,
+   "service_zips": [
+    "58601"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.cleanhomeshopdickinson.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "60ca8e0b-4041-4ad6-8492-15c52036d32a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Dakota Crest Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 712-1636",
+   "phone_verified": false,
+   "service_zips": [
+    "58601"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://dakotacrest.org/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "47cc5314-18c7-4a9f-860e-72fcda053cad",
+   "id": "9f837056-184e-4f20-acfd-54a70f5aba9f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "60ca8e0b-4041-4ad6-8492-15c52036d32a",
+   "id": "b67ad113-29f4-4f87-ab6b-bfb3896166c3",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

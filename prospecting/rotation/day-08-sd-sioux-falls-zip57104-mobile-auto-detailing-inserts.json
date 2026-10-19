@@ -1,0 +1,176 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "337ab73d-150f-4932-beae-ffa3605259cb",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Ray's Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 759-4888",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://raysmobiledetailingg.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "e86723b6-fcfc-4b38-a59d-a33790a02fff",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Freedom Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 951-0751",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.freedommobiledetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d171d1a9-604d-4355-8d94-ceccf55a0c5b",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Gamboa's First Class Detail, LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 906-5776",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1795c2d6-59aa-4b16-aed2-c744f7159830",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Olsen Detailing LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(619) 635-1265",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "5db4676a-1c7e-45a8-8eb7-e84b8ded72ee",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "DoItBest Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 531-0285",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.doitbestdetailing.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "337ab73d-150f-4932-beae-ffa3605259cb",
+   "id": "d1dac8c2-63b3-4c73-a11a-bbc85f3eac75",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "e86723b6-fcfc-4b38-a59d-a33790a02fff",
+   "id": "3e2a5af7-e8ba-4786-9d14-274e8a71b681",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "d171d1a9-604d-4355-8d94-ceccf55a0c5b",
+   "id": "a9f50fa7-1fd5-419e-af25-a436f1283b98",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "1795c2d6-59aa-4b16-aed2-c744f7159830",
+   "id": "8be53ec5-73ec-495c-b09f-dda946fed770",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "5db4676a-1c7e-45a8-8eb7-e84b8ded72ee",
+   "id": "eb0e3e8c-eac2-43b5-879e-ef1fb9d46790",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

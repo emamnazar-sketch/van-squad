@@ -1,0 +1,79 @@
+{
+  "businesses": [
+    {
+      "category": "Mobile pet grooming",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "29bc117e-4990-4e76-93ef-e00ce4268505",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "4 Pawz Mobile Spa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(605) 359-6327",
+      "phone_verified": false,
+      "service_zips": [
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57108",
+        "57110",
+        "57117"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.4pawzpet.com/"
+    },
+    {
+      "category": "Mobile pet grooming",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "c59ef54e-2261-46c5-aa3d-3b3b80a6a6ad",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Zoomin Groomin Sioux Falls",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(605) 600-6170",
+      "phone_verified": false,
+      "service_zips": [
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57108",
+        "57110",
+        "57117",
+        "57005",
+        "57032",
+        "57064"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.zoomingroomin.com/locations/south-dakota/sioux-falls/areas-served/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "29bc117e-4990-4e76-93ef-e00ce4268505",
+      "id": "2347c487-7adb-490f-82e4-0a54d95acc24",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile pet grooming at your location"
+    },
+    {
+      "business_id": "c59ef54e-2261-46c5-aa3d-3b3b80a6a6ad",
+      "id": "bd7e9268-138e-4b35-b338-21fa172433fa",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile pet grooming at your location"
+    }
+  ]
+}

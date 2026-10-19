@@ -1,0 +1,68 @@
+{
+ "businesses": [
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "6f6ce031-35e3-42a8-beb4-e5615ea92321",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Fargo Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 219-9032",
+   "phone_verified": false,
+   "service_zips": [
+    "58102",
+    "58103",
+    "58104",
+    "58105"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://fargocleaningcompany.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d64c2429-f0d0-4d42-b8b1-3301082517f0",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Cassie's Cleaning Co",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 401-8993",
+   "phone_verified": false,
+   "service_zips": [
+    "58102",
+    "58103",
+    "58104",
+    "58105"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://cassiescleaningco.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "6f6ce031-35e3-42a8-beb4-e5615ea92321",
+   "id": "6ad92af3-c034-46d5-bfa3-a8f7dec2f1d7",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "d64c2429-f0d0-4d42-b8b1-3301082517f0",
+   "id": "31ec1e43-d59f-4e03-9792-f483b05d3c3b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

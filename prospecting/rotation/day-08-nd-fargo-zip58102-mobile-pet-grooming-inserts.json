@@ -1,0 +1,66 @@
+{
+  "businesses": [
+    {
+      "category": "Mobile pet grooming",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "9d1f93c4-ee06-428a-9798-91b1262b5c30",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Spiffy Clips Mobile Pet Grooming",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 840-5708",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "56560"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.spiffyclipsgrooming.com/"
+    },
+    {
+      "category": "Mobile pet grooming",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "f24cbd6e-fc75-46ab-918d-d8db7089f87e",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "The Lap of Luxury Mobile Grooming Salon",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 532-1618",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58104"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://hafhfacility.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "9d1f93c4-ee06-428a-9798-91b1262b5c30",
+      "id": "ca7b9ca5-e247-41ad-add6-0458b0772424",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile pet grooming at your location"
+    },
+    {
+      "business_id": "f24cbd6e-fc75-46ab-918d-d8db7089f87e",
+      "id": "c78b0698-b789-4cd3-aed6-7cbf9332fde9",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile pet grooming at your location"
+    }
+  ]
+}

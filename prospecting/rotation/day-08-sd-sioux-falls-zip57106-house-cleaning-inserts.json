@@ -1,0 +1,108 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "6b114ff8-9728-41a0-aa3b-c7b3faf80f23",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Peachy Clean LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 610-8883",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.peachyclean605.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "14cdcc21-b005-401c-a3e1-7aaeef7d4c71",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Cleaning Company",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 408-3131",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.thecleaningcompanysfsc.com/sioux-falls-cleaning"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d4bdd1a4-6ed3-4147-944d-02729d240faa",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Diamond Domestics Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(605) 275-6832",
+   "phone_verified": false,
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://facebook.com/DiamondDomesticsCleaningLLC"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "6b114ff8-9728-41a0-aa3b-c7b3faf80f23",
+   "id": "4d4171b7-f0b8-42c3-8980-fbff453f630b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "14cdcc21-b005-401c-a3e1-7aaeef7d4c71",
+   "id": "81818e5d-50c9-4a68-8ce7-4cc715839691",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "d4bdd1a4-6ed3-4147-944d-02729d240faa",
+   "id": "c1f1dd3d-89ba-46d8-a2cf-d9d474b687cb",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

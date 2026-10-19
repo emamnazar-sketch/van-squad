@@ -1,0 +1,126 @@
+{
+ "businesses": [
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "a84d4869-3ec0-4f52-809d-df5fff9690e7",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Steamatic of the Red River Valley",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 232-4707",
+   "phone_verified": false,
+   "service_zips": [
+    "58102",
+    "58103",
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.steamaticrrv.com/fargo/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "20c37d06-9bcf-446d-b6e7-3e565eeddb3d",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Squeegee Squad of Fargo",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 412-8633",
+   "phone_verified": false,
+   "service_zips": [
+    "58102",
+    "58103",
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://squeegeesquad.com/fargo-nd/residential/window-cleaning/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "9cd7007f-eea3-47d8-bc66-9345a3c68a5e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Elite Home Cleaning and Power Washing Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(218) 227-9094",
+   "phone_verified": false,
+   "service_zips": [
+    "58104",
+    "58102",
+    "58103"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://elitecleaningfargo.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "52861a2a-2637-4609-9334-a31df48b59c1",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Dakota Detail & Powerwash",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 793-9676",
+   "phone_verified": false,
+   "service_zips": [
+    "58104",
+    "58047",
+    "56560"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "a84d4869-3ec0-4f52-809d-df5fff9690e7",
+   "id": "9928f482-cc83-4990-9c63-fc994db65ef2",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "20c37d06-9bcf-446d-b6e7-3e565eeddb3d",
+   "id": "d399b8c3-4307-4800-af56-a0ec0e883889",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "9cd7007f-eea3-47d8-bc66-9345a3c68a5e",
+   "id": "495323c8-de9a-4919-baa2-2574415baa6b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "52861a2a-2637-4609-9334-a31df48b59c1",
+   "id": "c393313e-dacb-4c5b-b42b-33d24c70df16",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

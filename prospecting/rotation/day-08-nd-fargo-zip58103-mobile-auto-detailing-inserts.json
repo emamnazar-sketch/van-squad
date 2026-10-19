@@ -1,0 +1,66 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bb60646f-c4ad-4919-996c-a6f2a870d6b7",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Premium Mobile Car Detailing LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 893-6853",
+   "phone_verified": false,
+   "service_zips": [
+    "58102",
+    "58103",
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://pmcardetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1d8389cc-f774-4a59-9d93-7ede72d0ba24",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "In & Out Auto Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 630-4348",
+   "phone_verified": false,
+   "service_zips": [
+    "58102",
+    "58103",
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://inandoutdetailing.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "bb60646f-c4ad-4919-996c-a6f2a870d6b7",
+   "id": "7e96f90d-8da8-4c7f-858d-ac2e1c5d0369",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "1d8389cc-f774-4a59-9d93-7ede72d0ba24",
+   "id": "8b9b1fe1-74a3-4094-9253-b6b0bdfb3d45",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

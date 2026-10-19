@@ -1,0 +1,286 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "50170898-0cd7-4c4c-a4ce-d7bf02fc4f3a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Level Up Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 987-3443",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.levelupcleaningnd.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c0b9e75d-f4dc-43d1-89ae-3abaede0f78a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "TruGrit Cleaning Service",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 484-1883",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.trugritcleaningservice.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "0cd74e88-b174-4a9a-bd95-4d6922787676",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Highline Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 339-7924",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.highlinecleaning.info/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "593c5bb2-9a3a-4fa4-978c-0a7e6f147067",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Dust Busters Cleaning Co.",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 510-8550",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.dust-busters-cleaning-co.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "8ee483e7-6b0d-4214-9ffc-aed52c5e8489",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "American Maide Cleaning Company, LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(406) 213-9555",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://americanmaidecleaning.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "4f67d7c1-a55b-4068-a647-4e60ca042920",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Royal Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 339-5113",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "fad048b9-928c-4cfb-8180-eda8ca5f8309",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Platinum Plus Housekeeping and Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 713-5131",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d0c55e94-daed-441b-9636-c23f749c66bb",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Triple9 Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 770-8512",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "2e310f41-8c7e-4816-bbd6-ec9c53b52e23",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Top Notch Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 347-1015",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "590360ae-3690-4e38-8a31-9552815d27a8",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Squix Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 609-5798",
+   "phone_verified": false,
+   "service_zips": [
+    "58801"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "50170898-0cd7-4c4c-a4ce-d7bf02fc4f3a",
+   "id": "1d1c8374-ca56-4fb8-b715-98e2a2bcb6a6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "c0b9e75d-f4dc-43d1-89ae-3abaede0f78a",
+   "id": "80d1e0a5-9f85-49e2-a54e-2c32f73ad530",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "0cd74e88-b174-4a9a-bd95-4d6922787676",
+   "id": "7e1d7bae-3956-4dce-94aa-c860601a435f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "593c5bb2-9a3a-4fa4-978c-0a7e6f147067",
+   "id": "9bf2e568-a4ff-49ed-876d-52006e1e93b9",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "8ee483e7-6b0d-4214-9ffc-aed52c5e8489",
+   "id": "651b955a-f94a-4121-873d-d8a6da6a81b8",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "4f67d7c1-a55b-4068-a647-4e60ca042920",
+   "id": "edab7c58-0271-4d46-8f0a-0e3bfa3d856e",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "fad048b9-928c-4cfb-8180-eda8ca5f8309",
+   "id": "23db47d1-b119-42dc-b29e-047924e8b779",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "d0c55e94-daed-441b-9636-c23f749c66bb",
+   "id": "a2bafbd8-b1ed-4771-adf4-d4379ba7217b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "2e310f41-8c7e-4816-bbd6-ec9c53b52e23",
+   "id": "c256ade3-43df-467f-9cd1-2f3a118cb7bb",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "590360ae-3690-4e38-8a31-9552815d27a8",
+   "id": "101d145b-20dd-40d3-a74d-8aea9b594a70",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

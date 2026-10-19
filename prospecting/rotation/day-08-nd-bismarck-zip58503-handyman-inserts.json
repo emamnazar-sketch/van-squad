@@ -1,0 +1,314 @@
+{
+ "businesses": [
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d7e7f569-dfe8-4e37-8582-4e66ff90bd6a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "All Trades Company LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 979-2007",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504",
+    "58554",
+    "58521"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.alltradescompany.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "eb6a77a6-ea5d-4ac4-ab18-f800b236cb3d",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Fix It All",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 989-0695",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504",
+    "58554"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.getyoursfixed.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "674935f7-f5a4-4add-bfd8-ec49c9c7f1e3",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "You Scott It Handyman Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 301-0551",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504",
+    "58554"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.youscottit.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "a9a47ccc-7d21-476a-829f-2a16a8023e8f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Handyman Kota",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 595-0211",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504",
+    "58554"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.handymankota.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "e50ca90a-ee88-43e1-8fca-cbc3d5ae90fd",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Bismarck's Best Handyman",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 712-1219",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504",
+    "58554"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.bisbesthandyman.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "5690ada7-6c03-4d97-afcb-0314b26e27f1",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Fetter Handyman Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 390-7609",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "270393bc-22aa-46d2-99af-32e4746b88a8",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Handy Bis-Man",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 319-8668",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.handybisman.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "e4095424-00e0-48e5-874a-80921975572f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Middak Handyman, LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 319-3554",
+   "phone_verified": false,
+   "service_zips": [
+    "58503",
+    "58521",
+    "58501",
+    "58504",
+    "58554"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bef87df5-5e0a-4175-a441-78487adc7abd",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Handyman Connection",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 202-7776",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://handymanconnection.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "50abd579-541e-4aa9-ae98-1d7b6cd5d524",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "P & C Custom Interiors",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 955-5469",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58503",
+    "58504"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.pandccustominteriors.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "d7e7f569-dfe8-4e37-8582-4e66ff90bd6a",
+   "id": "97a0caf4-e54d-494e-939f-370bf69ab24f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "eb6a77a6-ea5d-4ac4-ab18-f800b236cb3d",
+   "id": "2c7a6db3-1ea2-4303-a6fc-ce232b8c6790",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "674935f7-f5a4-4add-bfd8-ec49c9c7f1e3",
+   "id": "e7dffd40-3d78-4e86-ae5c-33e4edda473f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "a9a47ccc-7d21-476a-829f-2a16a8023e8f",
+   "id": "0507224a-d1c6-432c-a599-3ad020fbe5cb",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "e50ca90a-ee88-43e1-8fca-cbc3d5ae90fd",
+   "id": "b70c5c7b-583a-469d-baee-b6ebf10adb74",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "5690ada7-6c03-4d97-afcb-0314b26e27f1",
+   "id": "d0200375-f348-4c74-886f-9897b6f1c2b8",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "270393bc-22aa-46d2-99af-32e4746b88a8",
+   "id": "b7bfd210-1ae2-4880-b5f2-ad1b84d886a6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "e4095424-00e0-48e5-874a-80921975572f",
+   "id": "d235847b-0e44-43a6-8edc-22d84388403b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "bef87df5-5e0a-4175-a441-78487adc7abd",
+   "id": "97a34087-052f-4688-af84-8d639f05fdac",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "50abd579-541e-4aa9-ae98-1d7b6cd5d524",
+   "id": "c1e1a141-5357-4ca3-b651-07f08d0c0430",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  }
+ ]
+}

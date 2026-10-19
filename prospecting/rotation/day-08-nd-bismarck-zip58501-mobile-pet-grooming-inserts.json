@@ -1,0 +1,103 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile pet grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "a145de5d-baf2-4a69-8eab-cfd012ef8267",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "PetAgree Mobile Grooming",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 226-9888",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58502",
+    "58503",
+    "58504",
+    "58505"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.thatsmygroomer.com/"
+  },
+  {
+   "category": "Mobile pet grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "4de842be-e05e-4262-a40e-7a932acbb4d6",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Tannis's Curbside Kutz",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 321-0597",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58502",
+    "58503",
+    "58504",
+    "58505",
+    "58554"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.mobilepetgroomingbismarck.com/"
+  },
+  {
+   "category": "Mobile pet grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "7342fc14-50f1-4d12-bb8f-cda698ac4a5b",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Park & Bark Mobile Spa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 425-2221",
+   "phone_verified": false,
+   "service_zips": [
+    "58501",
+    "58502",
+    "58503",
+    "58504",
+    "58505"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.facebook.com/ParkBarkMobileSpa"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "a145de5d-baf2-4a69-8eab-cfd012ef8267",
+   "id": "ff44e4e8-348d-4847-b41f-e6ca9402b269",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile pet grooming at your location"
+  },
+  {
+   "business_id": "4de842be-e05e-4262-a40e-7a932acbb4d6",
+   "id": "1a686ed6-3db0-4f3f-9027-1ff0444ed850",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile pet grooming at your location"
+  },
+  {
+   "business_id": "7342fc14-50f1-4d12-bb8f-cda698ac4a5b",
+   "id": "0f09020b-3b0c-4760-b755-0d03dc20a1e6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile pet grooming at your location"
+  }
+ ]
+}

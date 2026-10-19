@@ -1,0 +1,254 @@
+{
+  "businesses": [
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "1267280b-f887-47ce-8128-6275035a0972",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Merry Maids",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 847-4608",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://merrymaids.com/home-cleaners-fargo-nd"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "747046c6-97aa-425b-a4a6-73a558d4a57b",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Keller's American Maid",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 318-3491",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://americanmaidfargo.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "90f2e64a-f8a7-448f-811e-426a2a819386",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Dust Busters House Cleaning Service",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 388-7002",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://dustbusterscleaningservicefargo.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "be886160-ca86-408b-943a-ee4eb218b7ca",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "ND Conway Cleaning Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 715-0926",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://ndconwaycleaningservices.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "14cb18eb-27f0-4673-8f20-085eae52c73f",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "TLC Cleaning",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 412-3298",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://tlccleaningexperts.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "72853cd7-8fbf-4acb-ab17-ef0f2ac80fd5",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "FM's Sweepin' Clean Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 212-6611",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://sweepinclean.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "794385ae-4acc-4d67-a1f4-fce3421fcf8d",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Clean Freak Maid Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(218) 790-4374",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.cleanfreakfm.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "e202a34d-2a83-4903-8e32-c20b0e4cfac9",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Cleaning Pros LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(701) 793-1557",
+      "phone_verified": false,
+      "service_zips": [
+        "58102",
+        "58103",
+        "58104",
+        "58105"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.cleaningprosllc.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "1267280b-f887-47ce-8128-6275035a0972",
+      "id": "04bedbde-b4f6-400e-9498-41b2783263c4",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "747046c6-97aa-425b-a4a6-73a558d4a57b",
+      "id": "1288dcab-7a4d-4117-b7cf-dcb2dc536f54",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "90f2e64a-f8a7-448f-811e-426a2a819386",
+      "id": "bf519977-a502-45dd-b248-56ca9ec23fda",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "be886160-ca86-408b-943a-ee4eb218b7ca",
+      "id": "4afeb7c2-b795-4485-b2bd-59e0558c4be0",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "14cb18eb-27f0-4673-8f20-085eae52c73f",
+      "id": "5e67928c-c941-457b-9092-acce67395528",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "72853cd7-8fbf-4acb-ab17-ef0f2ac80fd5",
+      "id": "83f5ba62-df94-4da6-9b8a-f64d0f45dbcf",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "794385ae-4acc-4d67-a1f4-fce3421fcf8d",
+      "id": "98a6e984-2a18-4020-8ef1-6b514231d837",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "e202a34d-2a83-4903-8e32-c20b0e4cfac9",
+      "id": "b8590e5d-102b-4f6b-a35c-e17686d8bc9c",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

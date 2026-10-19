@@ -1,0 +1,95 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c3dda589-3440-4fe7-9127-ae8d5919d609",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "River Jordan Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 415-8971",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.riverjordandetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "0c9162e3-b0fd-427b-b71b-d9756f59a4b4",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Cole's Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 213-6702",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://colesdetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "95387d4d-cddf-44ca-b6df-7191d89db66e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Clem's Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 739-7578",
+   "phone_verified": false,
+   "service_zips": [
+    "58202",
+    "56721"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": ""
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "c3dda589-3440-4fe7-9127-ae8d5919d609",
+   "id": "45fb21dc-68e3-46f1-900d-178903c8c3fd",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "0c9162e3-b0fd-427b-b71b-d9756f59a4b4",
+   "id": "111a4fad-7de5-4060-8aaa-17a1a38bb34f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "95387d4d-cddf-44ca-b6df-7191d89db66e",
+   "id": "91ab85f7-6f23-445c-ba1a-b1c633544ef5",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

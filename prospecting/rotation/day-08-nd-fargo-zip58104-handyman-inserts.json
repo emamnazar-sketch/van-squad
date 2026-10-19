@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "a16e87f5-eece-4fd4-9f41-d654adfff4e3",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Bigwoods Quality Handyman Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 361-9670",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.bigwoodshandyman.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1a740b22-c760-4874-b100-96f9d6bf1211",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Ace Handyman Services Fargo Moorhead",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 428-1019",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.acehandymanservices.com/offices/fargo-moorhead"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "14b8d9bd-0f33-40e3-ac31-cb46a0b1b53f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Fargo Handyman LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 566-1174",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://fargohandymanllc.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "214d3f51-dd3d-4b00-bac8-dfdebcdd486f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Liberty Home Services LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 630-0877",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.libertyhomeservicesllc.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "b321d0dc-f1ba-4f45-824b-6ca6ba7854e9",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Preferred Property Maintenance LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 566-1051",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://preferredpropertym.wixsite.com/ppm-fm"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "eec755da-5498-4ca4-af98-f2fcf6aef59c",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Advance Building Repairs LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(218) 329-3617",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.advancebuildingrepairs.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bff27b51-9d0d-46d9-a08d-8b302f014284",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Lacroix Painting & Handyman Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(720) 273-4227",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.glpainting-drywall.com/"
+  },
+  {
+   "category": "Handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "3223af94-edf4-4bb6-ac4d-f4cc877bf61c",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Rixs Fixs",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 412-1767",
+   "phone_verified": false,
+   "service_zips": [
+    "58104"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://rixsfixs.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "a16e87f5-eece-4fd4-9f41-d654adfff4e3",
+   "id": "d7aa9eb1-2a8e-442c-8958-085b9dbd41ac",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "1a740b22-c760-4874-b100-96f9d6bf1211",
+   "id": "fed81d2c-8917-48c0-bbc7-4e7346b076dd",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "14b8d9bd-0f33-40e3-ac31-cb46a0b1b53f",
+   "id": "2960af61-16cd-49ed-b2ce-bdce5ef3c401",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "214d3f51-dd3d-4b00-bac8-dfdebcdd486f",
+   "id": "b6f16e5a-6d6f-43d4-83c4-4b2a3684b1ea",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "b321d0dc-f1ba-4f45-824b-6ca6ba7854e9",
+   "id": "7a760af0-f1a7-43ec-90c5-d2824c4ab6a6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "eec755da-5498-4ca4-af98-f2fcf6aef59c",
+   "id": "aef0b94b-9737-4eae-afd7-8ec05b7a2d8e",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "bff27b51-9d0d-46d9-a08d-8b302f014284",
+   "id": "c6fb4ed1-bd49-4b75-93d4-1dfc77c10b6a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  },
+  {
+   "business_id": "3223af94-edf4-4bb6-ac4d-f4cc877bf61c",
+   "id": "18dea3a6-d27f-4afd-a578-d13d833df389",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Handyman at your location"
+  }
+ ]
+}

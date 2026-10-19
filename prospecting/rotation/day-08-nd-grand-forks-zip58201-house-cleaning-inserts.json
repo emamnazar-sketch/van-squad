@@ -1,0 +1,157 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bdaca64e-bcf6-4490-b2ac-0c86e61c30cc",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Cleaning Fairies Inc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(218) 280-5920",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203",
+    "56721"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://thecleaningfairiesgf.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c7f8a05b-ba93-4fca-84f3-f18819091d4f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "SimplyMaid",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 765-3069",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.gosimplymaid.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "3d3ac771-e55e-4c32-94ed-540bb4f19cd4",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid Easy LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 289-3034",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.maideasygf.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1f854470-6900-481d-a88c-2d953bd2e160",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Merry Maids of Grand Forks",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 557-0733",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.merrymaids.com/grand-forks/?L=true"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c4e39f22-60bb-4685-9144-347b9f7f2cc0",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Yahweh Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(701) 739-7049",
+   "phone_verified": false,
+   "service_zips": [
+    "58201",
+    "58202",
+    "58203"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.yahwehcleaningservices.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "bdaca64e-bcf6-4490-b2ac-0c86e61c30cc",
+   "id": "581318ff-77e3-4803-8c9c-7123c87b5cda",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "c7f8a05b-ba93-4fca-84f3-f18819091d4f",
+   "id": "5318428f-f238-4817-b651-ecac124bcfce",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "3d3ac771-e55e-4c32-94ed-540bb4f19cd4",
+   "id": "67417372-2792-4a87-ae3b-94b807ad0439",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "1f854470-6900-481d-a88c-2d953bd2e160",
+   "id": "9ec94e8d-16ea-456e-90b4-b93777c8007c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "c4e39f22-60bb-4685-9144-347b9f7f2cc0",
+   "id": "902b1b7c-287c-449c-96df-8b1594f61379",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}
