@@ -1,0 +1,34 @@
+{
+ "businesses": [
+  {
+   "id": "19d40e6d-20cf-44dc-abaa-badd0511790d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Grand Luxe Custom Cleaning",
+   "category": "House cleaning",
+   "phone": "(605) 280-6006",
+   "website": "http://grandluxe.us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57501"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "85b33b82-306a-4ac1-b1ae-a7157ab80dcb",
+   "business_id": "19d40e6d-20cf-44dc-abaa-badd0511790d",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  }
+ ]
+}

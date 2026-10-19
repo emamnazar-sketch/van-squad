@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "6c6fc34f-7eef-44fa-a47a-c669b7a249dd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dakota View Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(605) 299-1077",
+      "website": "https://dakotaviewcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57301"
+      ]
+    },
+    {
+      "id": "bed7ab90-a84c-4569-97e3-6af5f1121997",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Weber Cleaning, Inc.",
+      "category": "House cleaning",
+      "phone": "(605) 990-3093",
+      "website": "https://www.webercleaninginc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57301"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "c9c57316-0c02-47a9-8503-cd8e6ad35c14",
+      "business_id": "6c6fc34f-7eef-44fa-a47a-c669b7a249dd",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "1543bfe4-5ea0-4c29-8325-48928d036ad2",
+      "business_id": "bed7ab90-a84c-4569-97e3-6af5f1121997",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

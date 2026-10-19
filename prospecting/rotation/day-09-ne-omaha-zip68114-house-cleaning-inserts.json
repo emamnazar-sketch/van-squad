@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "4463b174-dfd6-487d-9254-b24d9ac1fe79",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Daisy Fresh",
+      "category": "House cleaning",
+      "phone": "(402) 733-5570",
+      "website": "https://www.daisyfreshomahane.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    },
+    {
+      "id": "2ec745f5-59f1-46fe-956e-f0ae7e7ddcd2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bright Delight Housekeeping",
+      "category": "House cleaning",
+      "phone": "(531) 541-5635",
+      "website": "https://brightdelighthousekeeping.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    },
+    {
+      "id": "fca77420-b601-455f-a295-c2439f65279d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pink Shoe Cleaning Crew",
+      "category": "House cleaning",
+      "phone": "(402) 330-0930",
+      "website": "https://www.pinkshoecleaningcrew.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    },
+    {
+      "id": "c94c4bd5-771b-4539-b91f-431b02c949c4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning Ninjas",
+      "category": "House cleaning",
+      "phone": "(402) 483-0333",
+      "website": "https://www.cleaningninjas.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    },
+    {
+      "id": "753a2e1b-597c-40ca-a44a-7b48c95f907e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Personal Housekeeping",
+      "category": "House cleaning",
+      "phone": "(402) 699-9620",
+      "website": "http://personalhousekeeping.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    },
+    {
+      "id": "b62bef49-fac1-4fde-8d64-7f8028f29c57",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Majestic Cleaning Omaha",
+      "category": "House cleaning",
+      "phone": "(402) 707-9759",
+      "website": "http://www.majesticcleaningomaha.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    },
+    {
+      "id": "e9b047a6-e138-4be0-982e-2fc2568d6261",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gopo Shine Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(402) 813-0532",
+      "website": "https://goposhine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68114"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "44f0fae5-8b2d-4e05-a86b-20eb258c07c5",
+      "business_id": "4463b174-dfd6-487d-9254-b24d9ac1fe79",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "d128436c-2a15-42ca-9b36-4ccbc7582840",
+      "business_id": "2ec745f5-59f1-46fe-956e-f0ae7e7ddcd2",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "555f7cc0-7d3a-4ea9-ac03-ad3d03953b68",
+      "business_id": "fca77420-b601-455f-a295-c2439f65279d",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "b738601d-6cc4-42f3-81f1-811a7407bad2",
+      "business_id": "c94c4bd5-771b-4539-b91f-431b02c949c4",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "ac7259f1-0c91-4f64-a68d-c4ede410c5f1",
+      "business_id": "753a2e1b-597c-40ca-a44a-7b48c95f907e",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "c833b583-bf54-41d6-b424-c830e4899b87",
+      "business_id": "b62bef49-fac1-4fde-8d64-7f8028f29c57",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "94397ace-4ac5-45a2-a790-2b537db320b9",
+      "business_id": "e9b047a6-e138-4be0-982e-2fc2568d6261",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

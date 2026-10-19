@@ -1,0 +1,108 @@
+{
+  "businesses": [
+    {
+      "id": "602660f5-a459-4b33-ac8b-98ef5330ebe6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Emerald Cleaning of Sioux Falls",
+      "category": "House cleaning",
+      "phone": "(605) 800-6841",
+      "website": "https://emeraldcleaning.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57110",
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57108"
+      ]
+    },
+    {
+      "id": "f35187fb-8153-4fd7-83ef-7c58b1930b15",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "12-15 Cleaning",
+      "category": "House cleaning",
+      "phone": "(605) 400-9600",
+      "website": "http://northcompanies.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57110",
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57108"
+      ]
+    },
+    {
+      "id": "8f5cd7f6-bf4f-4585-9aa2-7c90f39a762d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "C&C Cleaning",
+      "category": "House cleaning",
+      "phone": "(605) 521-0018",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57110",
+        "57103",
+        "57104",
+        "57105",
+        "57106",
+        "57107",
+        "57108"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "8caa151c-adc0-42ed-8d95-fb8c4f651a01",
+      "business_id": "602660f5-a459-4b33-ac8b-98ef5330ebe6",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "04cb9336-72e7-4035-94c4-244e2a253fa6",
+      "business_id": "f35187fb-8153-4fd7-83ef-7c58b1930b15",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "2336ed69-3294-4e5d-8584-7fc38897e2db",
+      "business_id": "8f5cd7f6-bf4f-4585-9aa2-7c90f39a762d",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

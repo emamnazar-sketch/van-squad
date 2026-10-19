@@ -1,0 +1,36 @@
+{
+  "businesses": [
+    {
+      "id": "f7bd7a5e-9960-4d4b-aaca-433bee994b08",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "On the Dog's Side Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(605) 858-9690",
+      "website": "https://www.onthedogsside.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "de8ca5e6-35f3-419d-bc74-68e3e34c0d60",
+      "business_id": "f7bd7a5e-9960-4d4b-aaca-433bee994b08",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile pet grooming at your location"
+    }
+  ]
+}

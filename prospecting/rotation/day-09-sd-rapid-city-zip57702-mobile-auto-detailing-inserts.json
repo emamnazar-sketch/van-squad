@@ -1,0 +1,66 @@
+{
+ "businesses": [
+  {
+   "id": "0ecdae49-48cc-4e0c-84f9-a208dc2b8646",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Freedom Mobile Wash & Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(605) 415-6482",
+   "website": "http://www.freedommobilewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57702",
+    "57701",
+    "57703"
+   ]
+  },
+  {
+   "id": "9d009f85-0c61-410d-bd35-5d9bdec96a16",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fanntastic Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(636) 875-2782",
+   "website": "https://fanntasticdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57702",
+    "57701",
+    "57703"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "511f13e4-e502-4cac-b003-6aea1f02e78b",
+   "business_id": "0ecdae49-48cc-4e0c-84f9-a208dc2b8646",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "f28f59c6-9aa9-47ed-a700-8ffb24eb5941",
+   "business_id": "9d009f85-0c61-410d-bd35-5d9bdec96a16",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

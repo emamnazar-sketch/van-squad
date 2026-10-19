@@ -1,0 +1,235 @@
+{
+  "businesses": [
+    {
+      "id": "4c1f634c-d869-4b2c-b933-3fd082f2fcf1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Joe",
+      "category": "Handyman",
+      "phone": "(402) 916-1855",
+      "website": "http://www.hmjservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144"
+      ]
+    },
+    {
+      "id": "10b865cf-1d9f-4fc1-b797-7f271639e6df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Omaha Handyman Service",
+      "category": "Handyman",
+      "phone": "(402) 671-0393",
+      "website": "https://omahahandymanservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144",
+        "68135"
+      ]
+    },
+    {
+      "id": "76e9b3e4-65a9-46be-961e-99e4bae15b43",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Spadyman Services",
+      "category": "Handyman",
+      "phone": "(402) 660-9376",
+      "website": "http://www.spadymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144"
+      ]
+    },
+    {
+      "id": "afafbe8f-409b-47b7-a9cf-4e0ce23b83ec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Han D Man",
+      "category": "Handyman",
+      "phone": "(402) 493-2864",
+      "website": "http://han-d-man.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144",
+        "68122"
+      ]
+    },
+    {
+      "id": "8ed78978-1cc1-4c63-a9f6-b75f0d27b3ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hand-E Help Omaha",
+      "category": "Handyman",
+      "phone": "(402) 955-9322",
+      "website": "https://www.handehelp.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144",
+        "68122"
+      ]
+    },
+    {
+      "id": "f9a12aa5-2dc5-4596-a3b9-d742fe2c6ebb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Omaha",
+      "category": "Handyman",
+      "phone": "(402) 200-3436",
+      "website": "https://www.acehandymanservices.com/offices/omaha",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144",
+        "68124"
+      ]
+    },
+    {
+      "id": "19aa8846-f995-4989-9c62-e380ef77b808",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Connection of West Omaha",
+      "category": "Handyman",
+      "phone": "(402) 769-4820",
+      "website": "https://handymanconnection.com/west-omaha/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144",
+        "68154"
+      ]
+    },
+    {
+      "id": "2490357d-e9e2-461f-a571-0f550271714f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Expert Home Repair",
+      "category": "Handyman",
+      "phone": "(402) 281-3213",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68144"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "52eac741-0c00-4387-a68a-fe1a80432cdd",
+      "business_id": "4c1f634c-d869-4b2c-b933-3fd082f2fcf1",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "705ff002-d468-4a28-9083-186aab8d4a73",
+      "business_id": "10b865cf-1d9f-4fc1-b797-7f271639e6df",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "b0605f6d-18e6-46c9-b04e-b94c9f2c7603",
+      "business_id": "76e9b3e4-65a9-46be-961e-99e4bae15b43",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "093625ad-2f18-402e-82cf-536633eacfb0",
+      "business_id": "afafbe8f-409b-47b7-a9cf-4e0ce23b83ec",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "57c8419a-07fa-4df5-83cb-7fb1da581cf3",
+      "business_id": "8ed78978-1cc1-4c63-a9f6-b75f0d27b3ab",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "d049bdce-6a60-4149-b58e-8addbc0585fa",
+      "business_id": "f9a12aa5-2dc5-4596-a3b9-d742fe2c6ebb",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "823c3eaa-bc34-4821-a3e7-a029e6a9534c",
+      "business_id": "19aa8846-f995-4989-9c62-e380ef77b808",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "f486c4db-0d73-40d6-850b-8e48313e4e53",
+      "business_id": "2490357d-e9e2-461f-a571-0f550271714f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    }
+  ]
+}

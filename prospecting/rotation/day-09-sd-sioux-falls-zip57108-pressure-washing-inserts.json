@@ -1,0 +1,180 @@
+{
+ "businesses": [
+  {
+   "id": "3fd329d4-bd99-48ca-b4c3-43ef124d33d4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sioux Falls Professional Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(605) 480-1384",
+   "website": "https://siouxfallspressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7d1d2d8d-316a-4ac9-944a-26dc8db8494f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dirks Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(605) 728-6794",
+   "website": "http://www.dirkspressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5e16ac46-a761-4e93-b89a-6931975d3733",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spotless Surface Solutions",
+   "category": "Pressure washing",
+   "phone": "(605) 610-9488",
+   "website": "https://www.spotlesssurfacesolutions.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110",
+    "57005",
+    "57032"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0d1ff944-fece-477f-a4f0-5fb0a4548d8d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Window Genie of Sioux Falls",
+   "category": "Pressure washing",
+   "phone": "(605) 401-2169",
+   "website": "https://www.windowgenie.com/siouxfalls/?cid=LSTL_WDG000206",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110",
+    "57005",
+    "57032"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6914103f-18dd-4436-8f3e-c4d1ca510cb3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dakota Floor Restoration",
+   "category": "Pressure washing",
+   "phone": "(605) 261-0414",
+   "website": "https://www.dakotafloorrestoration.com/services",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "57103",
+    "57104",
+    "57105",
+    "57106",
+    "57107",
+    "57108",
+    "57110"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "f51bcae0-ff56-498a-a08e-60f5fe729185",
+   "business_id": "3fd329d4-bd99-48ca-b4c3-43ef124d33d4",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3eab5be1-03b6-4143-9d17-62e22b1aa6d7",
+   "business_id": "7d1d2d8d-316a-4ac9-944a-26dc8db8494f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "489f37bc-28b4-4ee9-9414-69d6ebe9a694",
+   "business_id": "5e16ac46-a761-4e93-b89a-6931975d3733",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a165a562-71df-480b-9aab-006548860aa0",
+   "business_id": "0d1ff944-fece-477f-a4f0-5fb0a4548d8d",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7dee9c5e-05bc-4d14-9ca2-66c9045af5f0",
+   "business_id": "6914103f-18dd-4436-8f3e-c4d1ca510cb3",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

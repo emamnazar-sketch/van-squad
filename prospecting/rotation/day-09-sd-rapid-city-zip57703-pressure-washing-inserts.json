@@ -1,0 +1,128 @@
+{
+ "businesses": [
+  {
+   "id": "803541cc-9feb-4127-ae90-3ce6abac83ca",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "High Ground Property Care",
+   "category": "Pressure washing",
+   "phone": "(605) 939-1920",
+   "website": "https://highgroundpropertycare.com/services.html",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57703",
+    "57701",
+    "57702",
+    "57719"
+   ]
+  },
+  {
+   "id": "d2a2855b-2218-484c-90da-f0f1f38968dd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dakota Wash Pros",
+   "category": "Pressure washing",
+   "phone": "(605) 786-2264",
+   "website": "http://www.dakotawashpros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57703",
+    "57701",
+    "57702",
+    "57719"
+   ]
+  },
+  {
+   "id": "cc99da9f-302b-48bb-9d4e-3d8c7bd2eedd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Diamond Powerwashing & Contracting",
+   "category": "Pressure washing",
+   "phone": "(605) 510-8234",
+   "website": "http://www.diamondpowerwashingandcontracting.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57703",
+    "57701",
+    "57702"
+   ]
+  },
+  {
+   "id": "fd82190c-5eea-44dd-ba37-629391b71d27",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Grounds Guys of Rapid City",
+   "category": "Pressure washing",
+   "phone": "(605) 356-8439",
+   "website": "https://www.groundsguys.com/rapid-city/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57703",
+    "57701",
+    "57702"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "3972a06f-c441-4742-8d14-73666ea912cc",
+   "business_id": "803541cc-9feb-4127-ae90-3ce6abac83ca",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "075b53ff-6d90-439a-b55c-707e8e5ee2ed",
+   "business_id": "d2a2855b-2218-484c-90da-f0f1f38968dd",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "8cd9d5bd-f8f9-4d70-a8a6-9bfdad719d1b",
+   "business_id": "cc99da9f-302b-48bb-9d4e-3d8c7bd2eedd",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "88e23733-0580-4a6f-b42c-3435b07915c6",
+   "business_id": "fd82190c-5eea-44dd-ba37-629391b71d27",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

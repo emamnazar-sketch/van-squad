@@ -1,0 +1,156 @@
+{
+ "businesses": [
+  {
+   "id": "e5d1b72a-c426-4652-bed4-378b72c6dc25",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Flawless Mobile Car Detailing Omaha",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 258-5353",
+   "website": "https://flawlessdetailing.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68132",
+    "68102",
+    "68108"
+   ]
+  },
+  {
+   "id": "5f6c0470-2797-4cfc-85e8-200d9b72aa83",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Invictus Mobile Auto Care & Detail Studio",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 603-1072",
+   "website": "https://invictusmobileautocare.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68132",
+    "68102",
+    "68108"
+   ]
+  },
+  {
+   "id": "0021223c-2229-4115-b7cc-635dbd2ae595",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Prima Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(949) 346-6085",
+   "website": "https://primadetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68132",
+    "68102",
+    "68108"
+   ]
+  },
+  {
+   "id": "ad4e5c94-4f30-483c-805b-0ca86c25c123",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elite Finish Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 278-4466",
+   "website": "https://elitefinishomaha.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68132",
+    "68102",
+    "68108"
+   ]
+  },
+  {
+   "id": "30d1b112-060c-4481-84f1-e3742b430c2f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Driven Aesthetics Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 431-2405",
+   "website": "https://drivenaestheticsne.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68132",
+    "68102",
+    "68108"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "e3fc4fdd-a7d6-48b6-b41b-02e12041f6bd",
+   "business_id": "e5d1b72a-c426-4652-bed4-378b72c6dc25",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "748b5517-15b6-4c68-afb7-02244acb2759",
+   "business_id": "5f6c0470-2797-4cfc-85e8-200d9b72aa83",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "3ffc57f6-ee15-42d1-b3e4-6af81fe7895f",
+   "business_id": "0021223c-2229-4115-b7cc-635dbd2ae595",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "1d9109bf-d402-4ae0-81ad-0f13d9ad4f6b",
+   "business_id": "ad4e5c94-4f30-483c-805b-0ca86c25c123",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "ab6dbc2e-7068-4379-9a39-d76263085b42",
+   "business_id": "30d1b112-060c-4481-84f1-e3742b430c2f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

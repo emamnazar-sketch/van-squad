@@ -1,0 +1,186 @@
+{
+ "businesses": [
+  {
+   "id": "d337728f-7661-4a07-a0d9-b371ca2f577a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lemon Fresh Cleaners",
+   "category": "House cleaning",
+   "phone": "(605) 388-2010",
+   "website": "https://lemonfresh.us/rapid-city-cleaning-services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57701",
+    "57702",
+    "57703"
+   ]
+  },
+  {
+   "id": "635472dc-a31e-4642-814a-a7cd8f153008",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid To Clean LLC",
+   "category": "House cleaning",
+   "phone": "(605) 219-8151",
+   "website": "http://housecleaningrapidcity.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57701",
+    "57702",
+    "57703"
+   ]
+  },
+  {
+   "id": "3fb592a0-80e8-4416-b1b0-e438246bf529",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Peppermint Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(605) 646-3085",
+   "website": "http://www.peppermintcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57701",
+    "57702",
+    "57703"
+   ]
+  },
+  {
+   "id": "eaee2ac7-c532-4eb9-88d4-141f261b740a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Rapid City",
+   "category": "House cleaning",
+   "phone": "(605) 301-4203",
+   "website": "https://www.merrymaids.com/rapid-city/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57701",
+    "57702",
+    "57703"
+   ]
+  },
+  {
+   "id": "bdc07724-d019-4ad7-8836-28e827546f0f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Apex Cleaning Solutions",
+   "category": "House cleaning",
+   "phone": "(605) 608-2850",
+   "website": "https://apexcleaningsolutionssd.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57701",
+    "57702",
+    "57703"
+   ]
+  },
+  {
+   "id": "690df0a3-4efc-4933-8000-52bb0964da4d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleaning Quality LLC",
+   "category": "House cleaning",
+   "phone": "(605) 702-4807",
+   "website": "https://cleaningqualityllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "57701",
+    "57702",
+    "57703"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "b1f31e62-b6a2-4cf0-9be9-716d8a2344ec",
+   "business_id": "d337728f-7661-4a07-a0d9-b371ca2f577a",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "49d12d45-ece0-42af-b58e-1c8274db7a44",
+   "business_id": "635472dc-a31e-4642-814a-a7cd8f153008",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "4200a950-9995-4e9f-9b7a-912d6cdc2060",
+   "business_id": "3fb592a0-80e8-4416-b1b0-e438246bf529",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "e5191324-fc12-46a7-a590-96d7b3826e7b",
+   "business_id": "eaee2ac7-c532-4eb9-88d4-141f261b740a",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "7bb60d7e-38c6-4880-86b8-7643dcf63dad",
+   "business_id": "bdc07724-d019-4ad7-8836-28e827546f0f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "fcf370d9-c2bf-467b-a0a1-36b3b31bede5",
+   "business_id": "690df0a3-4efc-4933-8000-52bb0964da4d",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  }
+ ]
+}

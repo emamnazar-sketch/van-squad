@@ -330,6 +330,31 @@ var ZIP_NAMES = {
     '58701': 'Minot',
     '58703': 'Minot',
     '58801': 'Williston',
+    '57117': 'Sioux Falls',
+    '57003': 'Baltic',
+    '57013': 'Canton',
+    '57020': 'Crooks',
+    '57022': 'Dell Rapids',
+    '57033': 'Hartford',
+    '57039': 'Lennox',
+    '57078': 'Yankton',
+    '57301': 'Mitchell',
+    '57401': 'Aberdeen',
+    '57501': 'Pierre',
+    '57701': 'Rapid City',
+    '57702': 'Rapid City',
+    '57703': 'Rapid City',
+    '57719': 'Piedmont',
+    '57783': 'Spearfish',
+    '68102': 'Omaha',
+    '68108': 'Omaha',
+    '68114': 'Omaha',
+    '68122': 'Omaha',
+    '68124': 'Omaha',
+    '68132': 'Omaha',
+    '68135': 'Omaha',
+    '68144': 'Omaha',
+    '68154': 'Omaha',
   
 };
 
@@ -384,7 +409,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261018a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261019a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

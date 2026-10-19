@@ -1,0 +1,34 @@
+{
+  "businesses": [
+    {
+      "id": "fca3f074-44b8-4c62-909d-5e643ae51a55",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Soled's Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(605) 940-6043",
+      "website": "http://soledcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57078"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "acca7a11-8de8-48a4-9924-5f2bace042dc",
+      "business_id": "fca3f074-44b8-4c62-909d-5e643ae51a55",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

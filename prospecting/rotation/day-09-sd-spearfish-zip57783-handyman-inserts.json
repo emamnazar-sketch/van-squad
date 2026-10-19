@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "1bb9e993-c903-489c-8d76-897aa491f8ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Anderson Handyman Services",
+      "category": "Handyman",
+      "phone": "(605) 340-4544",
+      "website": "http://www.mandersonhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57783"
+      ]
+    },
+    {
+      "id": "29a41b7b-a63f-4191-81f8-04bd10ddde53",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Spearfish",
+      "category": "Handyman",
+      "phone": "(605) 791-4791",
+      "website": "https://www.acehandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57783"
+      ]
+    },
+    {
+      "id": "f46ffdd6-b09f-46f9-961b-52d22d6cfed7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Black Hills Home Medic",
+      "category": "Handyman",
+      "phone": "(605) 600-2355",
+      "website": "https://www.facebook.com/profile.php?id=100088486484452",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57783"
+      ]
+    },
+    {
+      "id": "633382f9-4f93-42a1-87ff-840c647a6be8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handy Man",
+      "category": "Handyman",
+      "phone": "(605) 645-4257",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57783"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "915c66d3-1bbf-473c-b295-54270f3169c7",
+      "business_id": "1bb9e993-c903-489c-8d76-897aa491f8ab",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "9ac4d096-c0d3-429b-add7-ddb2c4efff9a",
+      "business_id": "29a41b7b-a63f-4191-81f8-04bd10ddde53",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "3c0acea1-a02f-4987-80c2-59976927a9a6",
+      "business_id": "f46ffdd6-b09f-46f9-961b-52d22d6cfed7",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "1b0e8f99-1eb2-475d-81c8-71bc9c5e5615",
+      "business_id": "633382f9-4f93-42a1-87ff-840c647a6be8",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    }
+  ]
+}

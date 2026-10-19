@@ -1,0 +1,306 @@
+{
+  "businesses": [
+    {
+      "id": "45392274-3fa8-4733-87c2-b205f3b1fa29",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Al",
+      "category": "Handyman",
+      "phone": "(605) 342-1701",
+      "website": "https://handymanalsd.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "8a26ca4e-98fd-4890-bc27-d1e07eac42e7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Revision Pros",
+      "category": "Handyman",
+      "phone": "(605) 415-2723",
+      "website": "https://www.myrevisionpros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "808a8487-ad94-491b-bbe7-70b14e663f32",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Giedd Group LLC",
+      "category": "Handyman",
+      "phone": "(605) 690-1225",
+      "website": "https://thegieddgroup.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "cb8bf9c4-ac56-4ab1-a0cb-db7938651d82",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Rapid City",
+      "category": "Handyman",
+      "phone": "(605) 423-0813",
+      "website": "https://www.acehandymanservices.com/offices/rapid-city",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "afd57f9b-9c60-4535-a855-4b8b72f86fc3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Residential Maintenance Services",
+      "category": "Handyman",
+      "phone": "(605) 646-3221",
+      "website": "http://www.rcms.llc/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "3e158b38-1918-49c9-9625-d907ab30f28e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Filipino Handyman Services",
+      "category": "Handyman",
+      "phone": "(605) 877-0679",
+      "website": "http://www.filipinohandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "70166191-3587-477c-b970-800f1bcb83e6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Done Right Maintenance",
+      "category": "Handyman",
+      "phone": "(605) 645-2451",
+      "website": "https://www.donerightmaintains.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "81ad0a9e-29dc-4d1d-92b7-757c375af621",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Black Hills Handyman",
+      "category": "Handyman",
+      "phone": "(605) 791-1599",
+      "website": "https://blackhillshandymen.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "deff77ac-0726-40cb-b56b-8e3084f9c847",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jr's Handyman Services",
+      "category": "Handyman",
+      "phone": "(605) 343-9639",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    },
+    {
+      "id": "81d45cf2-23a8-4616-886d-4b78e2d6705e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handyman Chris Auwerter",
+      "category": "Handyman",
+      "phone": "(605) 646-2120",
+      "website": "https://thehandyman-chrisauwerter.business.site",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "57701",
+        "57702",
+        "57703"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "027824a2-3a7c-4970-aabc-1faf7c837c6c",
+      "business_id": "45392274-3fa8-4733-87c2-b205f3b1fa29",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "2083731f-2133-4f94-8cfc-ccb59abf23c9",
+      "business_id": "8a26ca4e-98fd-4890-bc27-d1e07eac42e7",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "89be4912-736b-4073-b5eb-5a4ddd257582",
+      "business_id": "808a8487-ad94-491b-bbe7-70b14e663f32",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "2338c1fc-f7d7-420a-b660-4b4205d0bc88",
+      "business_id": "cb8bf9c4-ac56-4ab1-a0cb-db7938651d82",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "73921ea8-b260-4b69-af70-917eb3f1fdca",
+      "business_id": "afd57f9b-9c60-4535-a855-4b8b72f86fc3",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "60ba986d-db82-48a7-b8a2-7d2df5a76f12",
+      "business_id": "3e158b38-1918-49c9-9625-d907ab30f28e",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "41e45297-9d4c-4cb2-aa9d-bcde4ef04880",
+      "business_id": "70166191-3587-477c-b970-800f1bcb83e6",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "3492230d-fa13-4bf1-8cdb-4cff5d44b963",
+      "business_id": "81ad0a9e-29dc-4d1d-92b7-757c375af621",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "95795df1-9a7e-452c-9ede-29799dc63a3c",
+      "business_id": "deff77ac-0726-40cb-b56b-8e3084f9c847",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "e324179a-93d9-4838-8ec4-e8356a6b72bb",
+      "business_id": "81d45cf2-23a8-4616-886d-4b78e2d6705e",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    }
+  ]
+}
