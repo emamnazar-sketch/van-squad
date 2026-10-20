@@ -1,0 +1,46 @@
+# Day 10 — Omaha, NE · ZIP 68154 · Mobile auto detailing
+
+**Insert-ready: 3 businesses (+3 listings). Leads: 1.**
+
+**Thin-result note:** This cell is honestly thin for NEW operators. Day 9's 68132 cell already took the five strongest metro-wide mobile detailers (Flawless, Invictus, Prima, Elite Finish, Driven Aesthetics — all deduped out here by name/phone). West Omaha's remaining field is mostly fixed storefront shops on/around 68154. Three genuinely new, own-site-verified mobile operators were found; the rest were held or excluded below rather than padded. No ZIP expansion was used — the three included businesses all serve Omaha / West Omaha metro-wide from their own materials, which includes 68154.
+
+service_zips reasoning: no included business publishes a ZIP list; each claims Omaha-metro mobile service on its own site, so each row carries only the target ZIP 68154, per this cell's brief (target ZIP plus only own stated service-area ZIPs — none stated).
+
+## Included
+
+| # | Business | Phone | Category | City | Website | Published email + source | Confidence + reason | Sources |
+|---|----------|-------|----------|------|---------|--------------------------|-----------------------|---------|
+| 1 | Don's Professional Car Detailing | (402) 547-6325 | Mobile auto detailing | Omaha | https://dondetailing.netlify.app/ | None published found | **High** — phone printed on its own website ("Phone: +1-402-547-6325", "Call or Text"). Mobile confirmed extensively on its own site: title "Mobile Detailing in Omaha, NE", "Your Car Never Leaves Your Driveway", "Mobile interior and exterior detailing brought directly to your driveway in Omaha", "Fully Mobile Omaha & Surrounding Suburbs". | Own site https://dondetailing.netlify.app/ |
+| 2 | D Does Detailing | (402) 830-2782 | Mobile auto detailing | Omaha | https://www.ddoesdetailing.com/ | ddoesdetailings@gmail.com — own website footer/contact line, https://www.ddoesdetailing.com/ | **High** — phone printed repeatedly on its own website (FAQ: "call or text (402)-830-2782"; footer: 402-830-2782). Mobile confirmed on its own site: "professional, high-integrity mobile services at your home or office", "We come to your Home or Office", FAQ "Can you detail my car at my home, office or apartment? Yes we can!", "services at our shop or at your doorstep" — the at-customer mobile service is a core offer (a shop option also exists). Locations served on own site: Omaha, Blair, Council Bluffs. | Own site https://www.ddoesdetailing.com/ |
+| 3 | Reflections Auto Detailing | (402) 990-5775 | Mobile auto detailing | Omaha | https://www.radomaha.com/ | None published found | **High** — phone printed on its own website homepage footer ("Reflections Auto Detailing, 1075 Hazel Lane, Springfield, NE 68059-5740. 402-990-5775") and the Google Business Profile agrees (+14029905775). Mobile confirmed extensively on its own site: homepage title "Mobile Car Detailing | Reflections Auto Detailing | Omaha", headline "We Come To You", "fully insured mobile detailing service", About page describes a custom-built Ford Transit mobile detailing van "fully equipped with everything needed to perform a high-quality detail on-site, including water, power…" and states "We proudly serve Omaha, Papillion, Gretna, West Omaha, Elkhorn, and surrounding areas" — West Omaha is named explicitly, covering 68154. Springfield, NE base listed under Omaha per the Day-9 outlying-base precedent (cf. Elite Finish / Shelby, Invictus / Bennington). | Own site https://www.radomaha.com/ and https://www.radomaha.com/about-us ; GBP record via search |
+
+## Leads (1)
+
+- D Does Detailing — ddoesdetailings@gmail.com (own website footer/contact line)
+- Don's Professional Car Detailing and Reflections Auto Detailing publish no email address on their own sites that could be verified in this run, so no lead was collected for them rather than guessed.
+
+## Dedupe
+
+- All candidate name/phone pairs checked by script against /tmp/live-businesses.json (776 live businesses) AND every *-inserts.json under ~/workspace/van-squad/prospecting/ (1,571 total existing name/phone records at write time, including Day-9 Omaha 68132 and all Day-10 waves written so far): zero collisions by name or phone for all three included businesses.
+- Day-9 68132 dedupe specifically: Flawless Mobile Car Detailing Omaha (402) 258-5353, Invictus Mobile Auto Care & Detail Studio (402) 603-1072, Prima Mobile Detailing (949) 346-6085, Elite Finish Detailing (402) 278-4466, Driven Aesthetics Mobile Detailing (402) 431-2405 — none re-included. Note the near-name trap avoided: **Prime Detailing** (primedetailing402.com, (402) 431-2214) is a different business from Prima, but it was held on evidence grounds (below), not included.
+- Also already in the directory / prior inserts and therefore not re-used: GP Mobile Car Wash & Detail (402) 601-6929 (Day-10 Lincoln cell), Luxe Mobile Care (402) 417-4072 (live), Premium Shine (402) 217-7573 and Pretty Good Detailing (402) 265-6444 (Day-10 Lincoln cell).
+
+## Near-misses (real businesses, held — mobile-to-customer not confirmed from own materials, and/or phone single-source)
+
+- **To a T Premium Auto Detailing** (2611 S 160th St, Omaha — in/near 68154; (402) 951-9430; toatpremiumautodetailing.com) — its Google description calls it "Premium Mobile Auto/Marine Detailing" and its own site's ceramic page carries the phone in an SMS-consent line ("Text HELP to +1 402-951-9430"), but its own homepage presents a fixed address and shop-type services (ceramic, paint correction, tint, wraps, PDR) with no come-to-you / at-your-location statement found in its own materials. BBB lists a different phone, (402) 917-8887. Held — one own-site mobile statement clears it.
+- **Prime Detailing** (Omaha; (402) 431-2214; primedetailing402.com) — distinct from Day-9's Prima Mobile Detailing, but its own website could not be fetched in this run and no own-materials mobile statement could be verified; phone is GBP-only → held.
+- **Knight's Mobile Detailing** (Omaha; (402) 637-8602; knightsmobiledetailing.net) — own site's page title says "mobile detailing omaha", but the fetched own site is a photo gallery with no service, come-to-you, or phone text; phone is GBP-only → held as too thin.
+- **Denny's Mobile Detailing** (17006 Cottonwood Cir, Omaha; (402) 708-7530; dennysmobiledetailing.com), **Jerry's Mobile Detailing** (Omaha; (531) 777-4938; jerrysmobiledetailingomaha.com), **Refined Rides Mobile Detailing LLC** (2436 S 20th Ave, Omaha; (402) 418-8886; refinedrides.tech) — all three were Day-9 holds and remain holds: in this run their own sites again yielded no fetchable own-materials come-to-you statement and their phones remain GBP-only.
+- **Squeaky Clean Mobile Car Detailing of Elkhorn** (20107 Franklin Cir, Omaha; (667) 482-5398) — "Mobile" in the GBP name and an Elkhorn/west-Omaha address, but no website or own materials at all and a 667 (Maryland) area code on a GBP-only phone → held.
+- **N&N Auto Detail - Mobile detailing** (9118 Westridge Dr, Omaha; (402) 972-0623; brand.site/nndetailing) — its own contact page is a bare form with no phone and no mobile/come-to-you statement → held.
+- **4M Mobile Detailing Omaha** (17750 Frances St, Omaha) — GBP listing with "Mobile" in the name but no phone and no website in public records → excluded on the phone rule.
+
+## Excluded (wrong model / unusable)
+
+- Fixed shops/studios verified from their own materials or listings, all in/near 68154: **Hometown Detailing** (2808 S 148th Ave Cir — own FAQ: it picks up your vehicle, details it "at our shop", and returns it; pickup-and-delivery to a shop is not mobile detailing at the customer — same exclusion as Day 9), **Sunshine Auto Detail** (2141 S 156th Cir — own site offers pick-up and delivery service, no at-customer detailing), **West Omaha Detailing LLC** (4429 S 134th St — fixed address/hours shop), **Slick Finish Detailing LLC** (4116 S 147th Plaza — fixed location), **Pro Finish** (1514 N 143rd Cir — fixed location, no mobile claim found), **Elkhorn Auto Spa & Paint Correction** (20120 Veterans Dr, Elkhorn — own description: "Omaha's Premier Detailing facility"), **Frontrow Detailing** (Elkhorn — fixed location).
+- Car washes in the search field (ONYX Express Wash, Rocket Carwash, Tommy's Express, Gorilla Wash) → excluded, not detailing-at-customer businesses.
+- **Omaha Mobile Detailing (omahamobiledetailing.com)** — Day-9's textbook lead-gen exclusion (for-rent domain, 402-555-5555 placeholder) — still excluded; **National Detail Pros** (nationaldetailpros.com) → national lead-gen, excluded.
+
+## Cell-result summary
+
+NE × Omaha × 68154 × Mobile auto detailing: **3 insert-ready businesses (3 High, 0 Medium), 1 published-email lead**, no ZIP expansion used, 0 dedupe skips among included businesses (all five Day-9 68132 operators correctly deduped out), 7+ near-misses held for recheck (To a T — needs an own-site mobile statement; Prime, Knight's, Denny's, Jerry's, Refined Rides — own-site evidence/phone still thin). Honest thin result: west Omaha's mobile field was largely harvested by the Day-9 metro-wide cell, and the remaining 68154-area operators are predominantly fixed shops. The count was not padded.

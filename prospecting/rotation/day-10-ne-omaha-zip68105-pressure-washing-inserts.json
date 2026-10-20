@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "25244f6d-a1d1-47e3-b274-e31418feae11",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Home Rescue Cleaning",
+   "category": "Pressure washing",
+   "phone": "(402) 215-9163",
+   "website": "https://homerescueexteriors.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7aa39dde-136e-4e81-9f84-6228fb2d9959",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "No Pressure Power Washing",
+   "category": "Pressure washing",
+   "phone": "(402) 714-0998",
+   "website": "https://www.pressurewashingomaha.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "391b7c4a-cae3-494a-991f-522e6492bfab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Big Red Power Washing",
+   "category": "Pressure washing",
+   "phone": "(531) 255-5067",
+   "website": "https://bigredpowerwashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "06a6f38a-b434-4061-90ac-64f643a9858e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rolling Suds of Omaha",
+   "category": "Pressure washing",
+   "phone": "(402) 821-0438",
+   "website": "https://www.rollingsudspowerwashing.com/omaha-papillion/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d919cea2-fa7a-451a-a95b-46572c3d3fe4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Window Genie of Omaha",
+   "category": "Pressure washing",
+   "phone": "(402) 509-4127",
+   "website": "https://www.windowgenie.com/locations/nebraska/elkhorn/pressure-washing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c6625fbe-3800-492a-a0c1-6a3b8ff1ac64",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Window Hero Northwest Omaha",
+   "category": "Pressure washing",
+   "phone": "(402) 697-5700",
+   "website": "https://windowhero.com/locations/northwest-omaha/services/pressure-washing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "c3d881a0-de0e-437a-b8b9-58388c947470",
+   "business_id": "25244f6d-a1d1-47e3-b274-e31418feae11",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "b51e0045-f90e-43c8-98b0-0f3ab40b4c17",
+   "business_id": "7aa39dde-136e-4e81-9f84-6228fb2d9959",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "40aea7fe-a02e-47fc-8348-9f3a1516c690",
+   "business_id": "391b7c4a-cae3-494a-991f-522e6492bfab",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "6aa4b31a-8faf-4c9b-b9ce-5f11d98623e5",
+   "business_id": "06a6f38a-b434-4061-90ac-64f643a9858e",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "6ab75652-9058-4c06-922b-4a3ab50176ea",
+   "business_id": "d919cea2-fa7a-451a-a95b-46572c3d3fe4",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "5217d28f-2ff3-4d21-b8d9-395238cb51c1",
+   "business_id": "c6625fbe-3800-492a-a0c1-6a3b8ff1ac64",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

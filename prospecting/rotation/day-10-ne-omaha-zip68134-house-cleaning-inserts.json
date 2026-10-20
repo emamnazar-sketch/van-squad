@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "8481f000-a3ef-4557-8a92-acc031f03e8b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Grace Home Cleaning",
+      "category": "House cleaning",
+      "phone": "(402) 769-0774",
+      "website": "https://www.gracehomecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68134"
+      ]
+    },
+    {
+      "id": "c602d7fd-3de7-40f3-a843-6fa07f1f15b2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maids & More",
+      "category": "House cleaning",
+      "phone": "(402) 572-6243",
+      "website": "https://maidsandmore.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68134"
+      ]
+    },
+    {
+      "id": "c7d32cfa-607b-45de-bb43-48241890c635",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Market Klean",
+      "category": "House cleaning",
+      "phone": "(402) 657-3413",
+      "website": "http://marketklean.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68134"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "f85e3ed7-8f26-4080-86f4-44a1ee5bd0c7",
+      "business_id": "8481f000-a3ef-4557-8a92-acc031f03e8b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "520f0a48-0dd3-435e-8f5f-2863e677c079",
+      "business_id": "c602d7fd-3de7-40f3-a843-6fa07f1f15b2",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "ff6839bb-5312-4821-b6d5-0dca31f39576",
+      "business_id": "c7d32cfa-607b-45de-bb43-48241890c635",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

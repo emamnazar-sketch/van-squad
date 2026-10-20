@@ -409,7 +409,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261019a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261020a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
@@ -493,6 +493,29 @@ export async function onRequest({ request, env, params }) {
     areaServed: areas.length ? areas : undefined,
     sameAs: b.website || undefined,
     image: photoAbs || undefined
+    '68005': 'Bellevue',
+    '68104': 'North Omaha',
+    '68105': 'Midtown Omaha',
+    '68106': 'Omaha',
+    '68116': 'Northwest Omaha',
+    '68134': 'Northwest Omaha',
+    '68136': 'Southwest Omaha',
+    '68142': 'Northwest Omaha',
+    '68501': 'Downtown Lincoln',
+    '68502': 'Lincoln',
+    '68503': 'Lincoln',
+    '68504': 'Lincoln',
+    '68505': 'Lincoln',
+    '68506': 'Lincoln',
+    '68507': 'Lincoln',
+    '68508': 'Lincoln',
+    '68510': 'Lincoln',
+    '68512': 'Lincoln',
+    '68516': 'Lincoln',
+    '68521': 'Lincoln',
+    '68701': 'Norfolk',
+    '68801': 'Grand Island',
+    '68847': 'Kearney',
   };
   var jsonLd = JSON.stringify(ld).replace(/</g, '\\u003c');
 

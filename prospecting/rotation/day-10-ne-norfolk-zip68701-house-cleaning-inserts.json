@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "ae1e4a45-8993-4ffa-b651-5a55b4546410",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lopez Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(402) 992-3369",
+      "website": "https://lopezcleaningservices-llc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68701"
+      ]
+    },
+    {
+      "id": "63ae3931-a36a-4784-b4a1-9f1fd80ff20b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ms.Clean-Ms.Fresh",
+      "category": "House cleaning",
+      "phone": "(402) 860-4229",
+      "website": "https://ms-clean-ms-fresh.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68701"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "b1375740-7007-4aaa-9b22-4f0db555e304",
+      "business_id": "ae1e4a45-8993-4ffa-b651-5a55b4546410",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "fc8763e7-912b-4da6-bc01-dd9695d5d071",
+      "business_id": "63ae3931-a36a-4784-b4a1-9f1fd80ff20b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

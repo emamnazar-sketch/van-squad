@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "c99065b6-8c2d-4811-8d49-8a5693f6ee13",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Anchor Renovations and Repairs",
+      "category": "Handyman",
+      "phone": "(402) 890-6330",
+      "website": "https://anchorrenovations.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68503"
+      ]
+    },
+    {
+      "id": "52960716-05b3-433a-a2fa-5adff236908b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Folmar's Handyman",
+      "category": "Handyman",
+      "phone": "(402) 499-4094",
+      "website": "https://www.lincolnnehandyman.com/contactme",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68503"
+      ]
+    },
+    {
+      "id": "35c2b7d5-cd1d-46ad-bd1f-9953412d8768",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Connection of Lincoln",
+      "category": "Handyman",
+      "phone": "(402) 875-9696",
+      "website": "https://handymanconnection.com/lincoln/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68503"
+      ]
+    },
+    {
+      "id": "6ddc8573-a981-40de-a544-8b3e63945d1a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Saunders Handyman & Remodel",
+      "category": "Handyman",
+      "phone": "(402) 450-6021",
+      "website": "http://www.saundersremodel.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68503"
+      ]
+    },
+    {
+      "id": "936a1df7-380f-4662-a1b8-67af99eacad4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "RBG Allt-i-allo",
+      "category": "Handyman",
+      "phone": "(402) 580-0183",
+      "website": "https://rbgalltiallo.wixsite.com/website",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68503"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "b683e409-483a-4290-8847-816f3b19b29e",
+      "business_id": "c99065b6-8c2d-4811-8d49-8a5693f6ee13",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "d18c4d9a-22d0-4dec-82c6-def1e410ce3b",
+      "business_id": "52960716-05b3-433a-a2fa-5adff236908b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "97dd55c0-5c51-4b72-8fe1-b79f83cce5a6",
+      "business_id": "35c2b7d5-cd1d-46ad-bd1f-9953412d8768",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "00306937-9c8d-4246-ae6f-e0e36f188b63",
+      "business_id": "6ddc8573-a981-40de-a544-8b3e63945d1a",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "fc34fad6-844e-4d5a-858d-3cb8b994071b",
+      "business_id": "936a1df7-380f-4662-a1b8-67af99eacad4",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    }
+  ]
+}

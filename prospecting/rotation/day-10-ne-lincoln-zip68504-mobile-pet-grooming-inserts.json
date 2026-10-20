@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "e6156bf8-e48d-4040-8632-49d153fdc0df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Critter Clippers Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(402) 580-5588",
+      "website": "https://www.critterclippers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68504"
+      ]
+    },
+    {
+      "id": "a17d5fa4-28f8-4a49-911d-5d525b204cfd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pampered Paws Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(402) 432-0267",
+      "website": "http://pamperedpawsmobilegrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68504"
+      ]
+    },
+    {
+      "id": "5df0403a-c919-4e45-9c93-51b4879fc85f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hydrodog Oswald",
+      "category": "Mobile pet grooming",
+      "phone": "(531) 229-8039",
+      "website": "http://hydrodog.com/Oswald",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68504"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "bf44adff-983d-4138-a61e-46bdffbe867b",
+      "business_id": "e6156bf8-e48d-4040-8632-49d153fdc0df",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile pet grooming at your location"
+    },
+    {
+      "id": "1748bff2-424a-4c63-aa0d-bdbb3333acc9",
+      "business_id": "a17d5fa4-28f8-4a49-911d-5d525b204cfd",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile pet grooming at your location"
+    },
+    {
+      "id": "71d7e79a-bb1a-487f-98c2-54062e0ee7ed",
+      "business_id": "5df0403a-c919-4e45-9c93-51b4879fc85f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile pet grooming at your location"
+    }
+  ]
+}

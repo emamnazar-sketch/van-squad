@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "b5e6ce3d-85fb-44b3-802a-6cf0548f091e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lynch Residential Cleaning",
+      "category": "House cleaning",
+      "phone": "(402) 591-9595",
+      "website": "https://lynchresidentialcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    },
+    {
+      "id": "4e1ae84b-c405-4103-bb33-7e57e43b21c8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nebraska Elite Cleaning",
+      "category": "House cleaning",
+      "phone": "(402) 810-8689",
+      "website": "https://nebraskaelitecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    },
+    {
+      "id": "f73e0865-6f9d-4ec9-9698-827205d284a0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gourley Industries Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(402) 612-5322",
+      "website": "https://gourleyindustriescleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    },
+    {
+      "id": "98767212-038f-4a15-9e7f-e1e8cc623199",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Huskins Services LLC",
+      "category": "House cleaning",
+      "phone": "(402) 981-5495",
+      "website": "https://huskinsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    },
+    {
+      "id": "10c64029-de07-48a0-9586-b026af70a177",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Adalyn's Cleaning",
+      "category": "House cleaning",
+      "phone": "(402) 885-4266",
+      "website": "https://www.adalynscleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    },
+    {
+      "id": "f39e186f-23b4-49e9-9192-0b5c2d969614",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Neil's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(531) 721-5097",
+      "website": "https://neilscleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    },
+    {
+      "id": "79ed7855-50c5-42ef-b56a-e44300806768",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Stone Creek Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(402) 933-8657",
+      "website": "https://www.stonecreekcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68116"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "6a800037-4a78-4c71-9948-606213df5b0b",
+      "business_id": "b5e6ce3d-85fb-44b3-802a-6cf0548f091e",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "0e10b75f-9142-4ed4-8e8b-28b90ae07cb5",
+      "business_id": "4e1ae84b-c405-4103-bb33-7e57e43b21c8",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "d173b836-9ca1-42a4-b7a9-5fb206fd7ce3",
+      "business_id": "f73e0865-6f9d-4ec9-9698-827205d284a0",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "ae2e8323-cfa4-45ff-81f5-2cad459a9ae8",
+      "business_id": "98767212-038f-4a15-9e7f-e1e8cc623199",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "da7f50c7-ee64-4fdb-847c-acbf4e8bbc7c",
+      "business_id": "10c64029-de07-48a0-9586-b026af70a177",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "74316ba6-2d2a-4891-9446-6bcfbdc79f39",
+      "business_id": "f39e186f-23b4-49e9-9192-0b5c2d969614",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "347ef3b9-f0ee-4302-9f52-d84a6f99b4f5",
+      "business_id": "79ed7855-50c5-42ef-b56a-e44300806768",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

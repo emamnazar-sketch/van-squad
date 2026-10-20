@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "c231fdaa-39c1-4adb-a511-0a35c0df7c9b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid To Clean Lincoln",
+      "category": "House cleaning",
+      "phone": "(402) 881-7133",
+      "website": "https://maidtocleanlincoln.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "e6d6598c-7a24-43bc-b036-9859c0edbf78",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Claudia's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(402) 617-0581",
+      "website": "http://www.cleaninpink.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "f82f0836-a8a6-4e76-93e2-594ff861c46f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Arroyos Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(402) 219-2026",
+      "website": "http://www.arroyoscleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "ed75d82e-6dce-4f1e-8be1-a296fea23d8c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleanest by Farr",
+      "category": "House cleaning",
+      "phone": "(402) 890-9892",
+      "website": "https://www.cleanestbyfarr.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "549ee983-96bb-4104-a582-36d8874d4f4c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Family Cleaning Solutions",
+      "category": "House cleaning",
+      "phone": "(531) 893-1492",
+      "website": "http://www.familycleaningsolution.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "a68f2783-15b5-475b-aae5-97dc07837f08",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "General Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(424) 466-0041",
+      "website": "https://gcs-cleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "d49c27e9-8a97-41b5-acce-9653ae1d2bfd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Luv Cleaning Lincoln",
+      "category": "House cleaning",
+      "phone": "(402) 218-6075",
+      "website": "https://luv-cleaning-lincoln.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    },
+    {
+      "id": "b44bd460-b850-42f6-aff6-57befd5ecc29",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Aariqa's Cleaners",
+      "category": "House cleaning",
+      "phone": "(402) 698-6069",
+      "website": "https://aariqa-s-cleaners.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68501"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "98cdc983-53a0-43b6-a35e-3781ee1beda5",
+      "business_id": "c231fdaa-39c1-4adb-a511-0a35c0df7c9b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "8ed9e971-188f-49a6-b0e0-bd9d82f14f36",
+      "business_id": "e6d6598c-7a24-43bc-b036-9859c0edbf78",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "e3cacbed-34bc-4c6e-9bb8-d20a02bfe6de",
+      "business_id": "f82f0836-a8a6-4e76-93e2-594ff861c46f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "477c4372-4fb3-4203-9c11-f7a30a77b0c2",
+      "business_id": "ed75d82e-6dce-4f1e-8be1-a296fea23d8c",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "d7c34298-2ad1-4f94-ac7f-38451c634947",
+      "business_id": "549ee983-96bb-4104-a582-36d8874d4f4c",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "d27b6115-70e2-4126-a3f2-54a08b5a320c",
+      "business_id": "a68f2783-15b5-475b-aae5-97dc07837f08",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "5ae37066-4fb5-4359-b970-f4f06502e72a",
+      "business_id": "d49c27e9-8a97-41b5-acce-9653ae1d2bfd",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "6bce3a3e-b9cb-41b5-9597-884113c50eff",
+      "business_id": "b44bd460-b850-42f6-aff6-57befd5ecc29",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

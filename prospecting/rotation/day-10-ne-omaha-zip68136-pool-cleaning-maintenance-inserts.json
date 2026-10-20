@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "949afe38-abaf-4dc5-9780-f9fdd65d4067",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Platinum Pool Service",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(402) 312-6071",
+      "website": "https://platinumpoolservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68136"
+      ]
+    },
+    {
+      "id": "ea66d285-4cad-4ec8-a661-dca55ab38c56",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Leak Investigators LLC",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(402) 281-4077",
+      "website": "http://leakinvestigators.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68136"
+      ]
+    },
+    {
+      "id": "c14aebdc-0a63-41d2-86b8-9a1cd0d9d842",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Olympic Pool & Spa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(402) 896-1246",
+      "website": "https://olympicomaha.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68136"
+      ]
+    },
+    {
+      "id": "12dcf501-9bd3-4485-8c30-7b33cd46dbde",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pinnacle Pool Service",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(402) 258-9191",
+      "website": "https://pinnaclepoolservice.com/pool-service/nebraska/omaha/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68136"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "b41ccd58-007a-4f64-be89-94bc8a023f21",
+      "business_id": "949afe38-abaf-4dc5-9780-f9fdd65d4067",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "46abcfff-29de-4de3-bf70-15b037ed15b2",
+      "business_id": "ea66d285-4cad-4ec8-a661-dca55ab38c56",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "4dacb7af-bb33-4d1e-8bea-c2d02a29dceb",
+      "business_id": "c14aebdc-0a63-41d2-86b8-9a1cd0d9d842",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "fcc3e665-94e0-4e64-88fc-0df75d416a77",
+      "business_id": "12dcf501-9bd3-4485-8c30-7b33cd46dbde",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "87ec5502-7ed8-44b6-9f60-d63671560738",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Darn Dependable Services",
+      "category": "House cleaning",
+      "phone": "(402) 496-8890",
+      "website": "https://darndependableservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68005"
+      ]
+    },
+    {
+      "id": "06cbf0f2-4a75-4b85-9445-d018d329b0c2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Three Sisters Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(402) 800-6143",
+      "website": "http://www.3sisterscleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68005"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "4a3e8905-d7ba-4936-8c11-470983148a16",
+      "business_id": "87ec5502-7ed8-44b6-9f60-d63671560738",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "ee5a4a6b-0247-4291-a7f1-a13dcb2b3c40",
+      "business_id": "06cbf0f2-4a75-4b85-9445-d018d329b0c2",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

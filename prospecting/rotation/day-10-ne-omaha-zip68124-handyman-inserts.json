@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "b63e32d6-c509-4df8-b751-18098110b379",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "IFixdIt",
+      "category": "Handyman",
+      "phone": "(402) 681-3700",
+      "website": "http://www.ifixdithandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68124"
+      ]
+    },
+    {
+      "id": "f495bfd4-2cd6-4016-8298-76ac20384698",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mitch's Handyman Solutions",
+      "category": "Handyman",
+      "phone": "(402) 301-2595",
+      "website": "http://mitchshandymansolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68124"
+      ]
+    },
+    {
+      "id": "5d073b5a-9092-47de-a5ff-2e62ffa73e20",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Local Repair Guy",
+      "category": "Handyman",
+      "phone": "(402) 249-4131",
+      "website": "https://localrepairguy.netlify.app/services",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68124"
+      ]
+    },
+    {
+      "id": "0c74b1f6-7639-45b6-a78f-0990244fbe23",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Affordable Handyman Services",
+      "category": "Handyman",
+      "phone": "(402) 965-1820",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "68124",
+        "68142"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "6f04cdc3-86f8-4332-af80-0e34d03338a9",
+      "business_id": "b63e32d6-c509-4df8-b751-18098110b379",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "4f856694-85ae-4afa-95c1-b375897a33be",
+      "business_id": "f495bfd4-2cd6-4016-8298-76ac20384698",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "4094b3dd-2896-47d3-a453-acf976d57ac6",
+      "business_id": "5d073b5a-9092-47de-a5ff-2e62ffa73e20",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "a8aa0a8b-6293-4a95-bc86-5c42bd04dc66",
+      "business_id": "0c74b1f6-7639-45b6-a78f-0990244fbe23",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman at your location"
+    }
+  ]
+}

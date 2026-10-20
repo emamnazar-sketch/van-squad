@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "4b7d8cbd-e69c-4240-aef6-89594b5d5a46",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "GP Mobile Car Wash & Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 601-6929",
+   "website": "https://www.gpmobilecarwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68502"
+   ]
+  },
+  {
+   "id": "9f200fa7-41ac-47dd-9ec1-e97c73e09664",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Premium Shine",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 217-7573",
+   "website": "https://www.premiumshineusa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68502"
+   ]
+  },
+  {
+   "id": "a5d7e888-7af0-49d1-a2ce-95d5b48f12ea",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pretty Good Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(402) 265-6444",
+   "website": "https://www.prettygooddetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "service_zips": [
+    "68502"
+   ]
+  }
+ ],
+ "listings": [
+  {
+   "id": "563bf4af-69f4-4505-a629-aa6524a17472",
+   "business_id": "4b7d8cbd-e69c-4240-aef6-89594b5d5a46",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "d5d48b5d-8c67-4fd1-891a-e31d065e7b68",
+   "business_id": "9f200fa7-41ac-47dd-9ec1-e97c73e09664",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "49b5228a-f060-496a-a6c2-b192a057750d",
+   "business_id": "a5d7e888-7af0-49d1-a2ce-95d5b48f12ea",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

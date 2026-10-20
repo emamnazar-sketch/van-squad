@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c94f63aa-337b-4358-b7ab-94a5ba3d651f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sweeping Beauty Cleaning Omaha, LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(402) 707-6937",
+   "phone_verified": false,
+   "service_zips": [
+    "68106"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.sweepingbeautyomaha.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "55373b09-2b20-4749-86e9-3222864c60b9",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Hautch Cleaning LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(402) 281-2733",
+   "phone_verified": false,
+   "service_zips": [
+    "68106"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://hautch.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "ca739263-7549-4415-9031-9b7e28220e2a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Ringo Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(402) 213-3371",
+   "phone_verified": false,
+   "service_zips": [
+    "68106"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.ringocleaning.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "c94f63aa-337b-4358-b7ab-94a5ba3d651f",
+   "id": "c611711e-fcf7-4a53-92db-86b75bf248f4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "55373b09-2b20-4749-86e9-3222864c60b9",
+   "id": "df00f0ba-5a0f-4c50-846a-f30a08c1d69e",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "ca739263-7549-4415-9031-9b7e28220e2a",
+   "id": "fa62cf10-a69a-4b38-9cdd-5af3525e0f74",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

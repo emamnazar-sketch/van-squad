@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "2c76464e-c042-4d87-87f4-b91244508f86",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Torrent Power Washing LLC",
+   "category": "Pressure washing",
+   "phone": "(402) 413-1922",
+   "website": "https://www.torrentpowerwashinglnk.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68505"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "33b4266c-5049-4c67-8c0d-6d69090563dc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Aden Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(402) 580-1428",
+   "website": "https://adenpressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68505"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "184336b6-1a29-43ff-b244-cc665a6ab8a9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clarity LLC",
+   "category": "Pressure washing",
+   "phone": "(402) 405-1372",
+   "website": "https://www.claritylincoln.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68505"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "32683329-6796-4fd8-b486-1f08bad60e7a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Shark Exterior Cleaning",
+   "category": "Pressure washing",
+   "phone": "(402) 309-0128",
+   "website": "https://www.sharkexteriorcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "68505"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "ea170f55-91b7-41da-a255-1f296edf1e6f",
+   "business_id": "2c76464e-c042-4d87-87f4-b91244508f86",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "34011565-0349-4544-a408-ca7cc26ff126",
+   "business_id": "33b4266c-5049-4c67-8c0d-6d69090563dc",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "b9662550-a815-47c7-8ecf-bd039a74ae27",
+   "business_id": "184336b6-1a29-43ff-b244-cc665a6ab8a9",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "b021f2b2-e8e6-4ff2-891c-1fae8f1741eb",
+   "business_id": "32683329-6796-4fd8-b486-1f08bad60e7a",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  }
+ ]
+}
