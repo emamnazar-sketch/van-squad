@@ -198,6 +198,288 @@
         '</ol>' +
         '<p>Want the full picture on the service itself? Read our <a href="/services/home-cleaning/">home cleaning guide</a>.</p>' +
         '<div class="disclosure"><strong>Sources (2026 pricing data).</strong> Angi, "How Much Does It Cost to Deep Clean a House? [2026 Data]" (angi.com).</div>'
+    },
+    {
+      slug: 'how-much-to-tip-mobile-car-detailer',
+      title: 'How Much Should I Tip a Mobile Car Detailer?',
+      date: '2026-10-19',
+      category: 'Car Detailing',
+      excerpt: 'Tip 15–20% of the service price for good work — $30–$40 on a $200 detail. Here is the right tip for each job size, when to tip more, and when it is fine to skip.',
+      metaDescription: 'Tip a mobile car detailer 15–20% for good work: $30–$40 on a $200 detail. Tip amounts by job size, when to tip more, and when to skip it.',
+      readTime: '4 min read',
+      updated: '2026-10-19',
+      related: ['mobile-car-detailing-cost-2026', 'mobile-dog-grooming-cost-vs-salon'],
+      images: [
+        { src: 'images/blog/how-much-to-tip-mobile-car-detailer-hero.jpg', alt: 'Homeowner handing a cash tip to a smiling mobile detailer beside a freshly detailed SUV in a sunny driveway, detailing van behind them', caption: '15–20% is the standard thank-you when the work is good — $30–$40 on a $200 detail.' },
+        { src: 'images/blog/how-much-to-tip-mobile-car-detailer-messy-job.jpg', alt: 'Detailer kneeling on a driveway scrubbing a heavily soiled car floor mat with a brush, extraction machine beside him', caption: 'A genuinely messy car is extra labor — that is when a tip at the top of the range is earned.' },
+        { src: 'images/blog/how-much-to-tip-mobile-car-detailer-inspection.jpg', alt: 'Detailer and customer walking around a finished car together in afternoon sun during a final inspection', caption: 'The final walk-around is the moment to judge the work — and decide the tip.' }
+      ],
+      tldr: 'Tip 15–20% of the service price for good work — $30–$40 on a $200 detail. Tipping is not required, but it is the standard way to say the job was done well: $10–$20 is fair on a small $99 wash, and $50–$70 on a $349 full detail. If the work was only satisfactory, 10–15% is fine; if it was genuinely bad, skip the tip and tell the business why.',
+      faq: [
+        { q: 'How much should I tip a mobile car detailer?', a: '15–20% of the service price for good work — $30–$40 on a $200 detail. Tip 10–15% if the work was just satisfactory, and more than 20% when the detailer handled a very messy car or did exceptional work.' },
+        { q: 'Is tipping a mobile detailer required?', a: 'No. It is customary and appreciated, never an obligation. If the work was incomplete or something was damaged, skip the tip and contact the business so they can make it right.' },
+        { q: 'How much do you tip on a $99 basic wash?', a: '$10–$20. Small jobs are where a percentage gets tiny, so a flat amount in that range is the norm — detailers suggest keeping $15–$30 in cash ready for a basic service.' },
+        { q: 'Should you tip more because the detailer came to your house?', a: 'Yes — tip toward the top of the range. The detailer added travel time, loaded and unloaded their own equipment, and worked around your parking situation to save you the trip.' },
+        { q: 'Do you tip a mobile detailer who owns the business?', a: 'Only if you want to — either choice is reasonable. Owners set their own prices, so a tip is never expected, but the work is the same. An honest review is an equally valued alternative.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>Do you have to tip a mobile detailer?' +
+        '</h3>' +
+        '<p>No — tipping is not required, but it is always appreciated. A mobile detailer drives to you, brings their own water, power, and equipment, and usually works alone for 2–5 hours on your car by hand. The price pays for the job; the tip marks that this person did it well.' +
+        '</p>' +
+        '<h3>How much is the right tip for each job?' +
+        '</h3>' +
+        '<p>Use the percentage, then check it against these real 2026 job prices:' +
+        '</p>' +
+        '<table class="price-table">' +
+        '<thead>' +
+        '<tr>' +
+        '<th>What you booked' +
+        '</th>' +
+        '<th>Typical price' +
+        '</th>' +
+        '<th>Standard tip (15–20%)' +
+        '</th>' +
+        '</tr>' +
+        '</thead>' +
+        '<tbody>' +
+        '<tr>' +
+        '<td>Basic wash &amp; wax' +
+        '</td>' +
+        '<td>$99' +
+        '</td>' +
+        '<td>$10–$20' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Detail around $200' +
+        '</td>' +
+        '<td>$200' +
+        '</td>' +
+        '<td>$30–$40' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Full interior detail' +
+        '</td>' +
+        '<td>$249' +
+        '</td>' +
+        '<td>$35–$50' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Full interior + exterior detail' +
+        '</td>' +
+        '<td>$349' +
+        '</td>' +
+        '<td>$50–$70' +
+        '</td>' +
+        '</tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>Tip on the full price of the service, and land at the top of the range when the detailer went beyond the package — a stubborn stain removed, pet hair fully cleared, or a car that came back looking better than you expected.' +
+        '</p>{{img:1}}' +
+        '<h3>What should push your tip up?' +
+        '</h3>' +
+        '<ul class="check-list">' +
+        '<li>' +
+        '<strong>A messy vehicle.' +
+        '</strong> Heavy pet hair, ground-in dirt, stains, or a car that has not been cleaned in years means real extra labor — tip toward 20% or above.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Long, skilled work.' +
+        '</strong> Paint correction and ceramic coating are precision jobs — a coating alone can take 8–12 hours. Tips there are especially appreciated.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Hard conditions.' +
+        '</strong> Full sun, bad weather, or a tight parking spot with no easy water or power access — and they still delivered.' +
+        '</li>' +
+        '<li>' +
+        '<strong>They came to you.' +
+        '</strong> Travel time and setup are part of the mobile premium — the at-home visit is a reason to tip slightly more, not less.' +
+        '</li>' +
+        '</ul>' +
+        '<h3>When is it okay not to tip?' +
+        '</h3>' +
+        '<p>Skip the tip when the service itself failed: areas were missed, the result did not match what was promised, something was damaged, or the detailer was late with no communication or unprofessional. A tip signals approval — if you do not have it, do not send it. Give the business a chance to make the job right instead. The one other exception: a corporate account on a fixed, all-inclusive rate, where gratuity may already be built in — check before adding more.' +
+        '</p>' +
+        '<h3>Do you tip a detailer who owns the business?' +
+        '</h3>' +
+        '<p>It is personal preference, and either choice is reasonable. Some customers skip it because owners set their own prices; others tip because the labor and quality are the same whoever owns the van. If you do not tip an owner-operator, an honest review helps just as much — reviews and referrals bring small mobile businesses their next customer.' +
+        '</p>{{img:2}}' +
+        '<h3>How do you actually pay the tip?' +
+        '</h3>' +
+        '<p>Cash is still the cleanest option — it goes straight to the person who did the work, with no fees or delays. Have $15–$30 ready for a basic service and $40–$60 for a full detail. No cash? Most independent detailers take Venmo, Zelle, or Cash App — ask which they prefer — and card payments usually show a tip prompt at checkout. Forgot entirely? Sending it digitally within a day or two is fine.' +
+        '</p>' +
+        '<p>Wherever you are booking, enter your ZIP on Van Squads to compare mobile detailers near you — upfront packages and prices, so you know the service cost (and your tip) before anyone arrives. New to the service itself? Read our ' +
+        '<a href="/services/mobile-car-detailing/">mobile car detailing guide' +
+        '</a>.' +
+        '</p>' +
+        '<div class="disclosure">' +
+        '<strong>Sources (2026).' +
+        '</strong> Fresh Layer, "Frequently Asked Questions — Mobile Detailing" and "Do You Tip Mobile Detailers?" (fresh-layer.com); On The Spot Detailing, "How Much Should You Tip Your Detailer?" (onspotdetailing.com).' +
+        '</div>'
+    },
+    {
+      slug: 'how-much-does-a-handyman-cost-per-hour',
+      title: 'How Much Does a Handyman Cost Per Hour?',
+      date: '2026-10-20',
+      category: 'Handyman',
+      excerpt: 'Most handymen charge $50–$150 per hour in 2026, with $75–$90 typical. See flat prices for common jobs, why every visit has a minimum, and how to keep the cost down.',
+      metaDescription: 'Handymen charge $50–$150 per hour in 2026, $75–$90 typical. Flat prices for common jobs, minimum fees explained, and ways to pay less.',
+      readTime: '4 min read',
+      updated: '2026-10-20',
+      related: ['deep-clean-cost-2026', 'mobile-car-detailing-cost-2026'],
+      images: [
+        { src: 'images/blog/how-much-does-a-handyman-cost-per-hour-hero.jpg', alt: 'Handyman mounting a flat-screen TV on a sunny living-room wall with a drill, level and toolbox on the floor, homeowner watching nearby', caption: 'TV mounting is a flat-price staple — $150–$400 in 2026, no hourly clock running.' },
+        { src: 'images/blog/how-much-does-a-handyman-cost-per-hour-drywall.jpg', alt: 'Handyman smoothing a fresh drywall patch on a bright hallway wall with a wide putty knife, bucket of compound at his feet', caption: 'Drywall repair runs $200–$800 flat — the price depends on the size of the hole, not just the hour.' },
+        { src: 'images/blog/how-much-does-a-handyman-cost-per-hour-faucet.jpg', alt: 'Handyman fitting a new faucet at a bright kitchen sink, wrench in hand, the old faucet on the counter beside him', caption: 'A faucet replacement is $120–$300 flat — bundling three small fixes into one visit saves the second minimum fee.' }
+      ],
+      tldr: 'Most handymen charge $50–$150 per hour in 2026, with $75–$90 per hour the typical average rate. Almost every visit carries a minimum — usually $125–$250 for the first 1–2 hours — and the average handyman project totals $405, with most homeowners paying $164–$647. One short fix costs the minimum; a bundled list of small jobs is where the hourly rate pays off.',
+      faq: [
+        { q: 'How much does a handyman cost per hour?', a: '$50–$150 per hour in 2026. Self-employed handymen typically charge $50–$80, companies and franchises $75–$125, and $75–$90 is the typical average rate nationwide.' },
+        { q: 'How much does a small handyman job cost in total?', a: 'Expect the minimum: most pros charge a $125–$200 minimum service fee, and a simple task under 2 hours typically totals $178–$220 once the visit is billed.' },
+        { q: 'Is it cheaper to pay hourly or a flat rate?', a: 'Flat rate suits a single, well-defined job — a TV mount or a faucet swap — because you know the total before work starts. Hourly suits a mixed list of small jobs or a problem nobody can scope until it is opened up.' },
+        { q: 'Do you tip a handyman?', a: 'It is not mandatory. For small jobs a tip of $10–$20 is common, and $20–$50 for larger or more complex projects. A good review or a referral to a neighbor is also widely appreciated.' },
+        { q: 'How much does a handyman charge for a full day?', a: 'Day rates run $450–$1,000 for 8 hours, with most flat day rates at $500–$800. Filling the day with a list of 6–10 small tasks makes a full-day visit far cheaper per task than separate calls.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What does the hourly rate depend on — who you hire?' +
+        '</h3>' +
+        '<p>The biggest split is independent versus company. The work is the same; the overhead is not.' +
+        '</p>' +
+        '<table class="price-table">' +
+        '<thead>' +
+        '<tr>' +
+        '<th>Who you hire' +
+        '</th>' +
+        '<th>Typical 2026 hourly rate' +
+        '</th>' +
+        '</tr>' +
+        '</thead>' +
+        '<tbody>' +
+        '<tr>' +
+        '<td>Self-employed handyman' +
+        '</td>' +
+        '<td>$50–$80' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Handyman company / franchise' +
+        '</td>' +
+        '<td>$75–$125' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Any handyman, full range' +
+        '</td>' +
+        '<td>$50–$150' +
+        '</td>' +
+        '</tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>Franchise and company crews run higher because insurance, guarantees, and office costs are built in. Experienced, licensed, or insured independents charge toward the top of their range too — especially for specialized or riskier work.' +
+        '</p>' +
+        '<h3>What do common jobs cost as a flat price?' +
+        '</h3>' +
+        '<p>For jobs with a clear scope, many handymen quote a flat price instead of an hourly rate:' +
+        '</p>' +
+        '<table class="price-table">' +
+        '<thead>' +
+        '<tr>' +
+        '<th>Job' +
+        '</th>' +
+        '<th>Typical 2026 flat price' +
+        '</th>' +
+        '</tr>' +
+        '</thead>' +
+        '<tbody>' +
+        '<tr>' +
+        '<td>Light fixture replacement' +
+        '</td>' +
+        '<td>$65–$175' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Door hardware repair' +
+        '</td>' +
+        '<td>$75–$220' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Furniture assembly' +
+        '</td>' +
+        '<td>$85–$200' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Ceiling fan installation' +
+        '</td>' +
+        '<td>$100–$400' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Faucet replacement' +
+        '</td>' +
+        '<td>$120–$300' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>TV mounting' +
+        '</td>' +
+        '<td>$150–$400' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Drywall repair' +
+        '</td>' +
+        '<td>$200–$800' +
+        '</td>' +
+        '</tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>By visit size, a simple task under 2 hours typically totals $178–$220, a few tasks over 2–5 hours run $316–$428, and a full day or complex project runs $701–$1,105.' +
+        '</p>{{img:1}}' +
+        '<h3>Why is there a minimum charge for a 20-minute job?' +
+        '</h3>' +
+        '<p>Because the trip is the same however short the fix is. Minimum service fees run $125–$200 to cover travel, setup, and admin time, and some pros add a $30–$80 trip fee outside their normal area. That is why one tiny job always looks expensive per minute — and why bundling several small jobs into one visit is the standard way to beat the minimum: you pay the trip cost once, not five times.' +
+        '</p>' +
+        '<h3>What pushes the price up or down?' +
+        '</h3>' +
+        '<ul class="check-list">' +
+        '<li>' +
+        '<strong>Location.' +
+        '</strong> Large coastal cities run $90–$150 per hour; rural areas run $45–$70. High-cost-of-living areas simply cost more.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Job type.' +
+        '</strong> Electrical, plumbing, or carpentry work costs more than basic repairs — it takes more skill and carries more risk.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Materials.' +
+        '</strong> If the handyman buys materials for you, expect a 10–30% markup over retail. Supplying your own is one of the easiest ways to pay less.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Timing and access.' +
+        '</strong> Emergency, weekend, and after-hours work costs more, as does work in attics, crawl spaces, or other hard-to-reach spots. Prep, cleanup, and debris disposal can be billed on top.' +
+        '</li>' +
+        '</ul>' +
+        '<h3>What can a handyman not legally do?' +
+        '</h3>' +
+        '<p>A handyman covers small repairs and installs: TV mounting, furniture assembly, drywall patches, painting, caulking, door adjustments, and replacing existing light fixtures or faucets. In most states, work beyond that belongs to a licensed trade: running new wiring, rerouting plumbing, HVAC installation, gas work, structural changes, and anything that needs a permit. A handyman who offers to do permit work without a license is a red flag, not a bargain.' +
+        '</p>{{img:2}}' +
+        '<h3>How do you keep the cost down?' +
+        '</h3>' +
+        '<p>Bundle your small jobs into one visit, supply your own materials where you can, and clear the work area before the handyman arrives so prep is not billed as labor. Get more than one quote, state the scope clearly up front to avoid change orders, and ask about a flat rate for a half-day or full-day list — it usually beats paying the minimum again and again.' +
+        '</p>' +
+        '<p>Wherever you live, enter your ZIP on Van Squads to compare handymen near you — upfront rates and reviews, so you know the likely cost before anyone picks up a tool.' +
+        '</p>' +
+        '<div class="disclosure">' +
+        '<strong>Sources (2026 pricing data).' +
+        '</strong> FixUpFirst, "Handyman Cost 2026" (fixupfirst.com); Angi, "How Much Does It Cost to Hire a Handyman? [2026 Data]" (angi.com); Housecall Pro, "Handyman Price Guide 2026" (housecallpro.com).' +
+        '</div>'
     }
   ];
 
