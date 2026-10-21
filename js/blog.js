@@ -480,6 +480,170 @@
         '<strong>Sources (2026 pricing data).' +
         '</strong> FixUpFirst, "Handyman Cost 2026" (fixupfirst.com); Angi, "How Much Does It Cost to Hire a Handyman? [2026 Data]" (angi.com); Housecall Pro, "Handyman Price Guide 2026" (housecallpro.com).' +
         '</div>'
+    },
+    {
+      slug: 'how-much-do-you-pay-for-regular-house-cleaning',
+      title: 'How Much Do You Pay for Regular House Cleaning?',
+      date: '2026-10-21',
+      category: 'Home cleaning',
+      excerpt: 'Most homeowners pay $118–$238 per visit for regular house cleaning in 2026, with a $176 average. Prices by schedule and home size, what a regular clean includes, and how to pay less.',
+      metaDescription: 'Regular house cleaning costs $118–$238 per visit in 2026, $176 average. Prices by schedule and home size, what is included, and how to pay less.',
+      readTime: '4 min read',
+      updated: '2026-10-21',
+      related: ['deep-clean-cost-2026', 'how-much-does-a-handyman-cost-per-hour'],
+      images: [
+        { src: 'images/blog/how-much-do-you-pay-for-regular-house-cleaning-hero.jpg', alt: 'House cleaner with a supply caddy arriving at a sunny front door, greeted by the homeowner, cleaning van parked at the curb behind her', caption: 'Regular cleaning averages $176 a visit in 2026 — the schedule you pick moves that price most.' },
+        { src: 'images/blog/how-much-do-you-pay-for-regular-house-cleaning-bathroom.jpg', alt: 'Cleaner scrubbing a glass shower door in a bright white bathroom, spray bottle and microfiber cloth in hand', caption: 'Bathrooms drive the quote — each extra one adds $10–$40 to a regular visit.' },
+        { src: 'images/blog/how-much-do-you-pay-for-regular-house-cleaning-bedroom.jpg', alt: 'Cleaner smoothing fresh white linens onto a bed in a sunny bedroom, pillows stacked beside her', caption: 'Biweekly is the sweet spot for most homes — frequent enough that no visit has to start from scratch.' }
+      ],
+      tldr: 'Most homeowners pay $118–$238 per visit for regular house cleaning in 2026, with a national average of $176. On a recurring schedule, weekly visits run $75–$200 and biweekly visits $100–$250 — regular bookings cost less per visit than one-time cleans because the home never gets far behind. Home size and bathroom count move the price most.',
+      faq: [
+        { q: 'How much do you pay for regular house cleaning?', a: '$118–$238 per visit for most homeowners in 2026, with a national average of $176. Weekly regular visits run $75–$200 and biweekly visits $100–$250.' },
+        { q: 'Is biweekly cleaning cheaper than monthly?', a: 'Per visit, yes — biweekly visits cost less than monthly ones because less grime builds up between visits, and recurring schedules typically carry a 10–20% discount. Per month, biweekly costs more in total because you are buying twice as many visits.' },
+        { q: 'Do I need a deep clean before starting regular service?', a: 'Usually, if your home has not been professionally cleaned in over three months. The first deep clean ($200–$400) resets the home; regular visits after that are faster and cheaper to maintain.' },
+        { q: 'How much does a cleaner charge per hour?', a: '$25–$50 per cleaner per hour in 2026, according to Angi. Many regular services quote a flat per-visit price instead, based on home size and schedule.' },
+        { q: 'What is not included in a regular clean?', a: 'Inside-oven and inside-fridge cleaning, baseboards, window tracks, grout scrubbing, and laundry are normally add-ons or deep-clean work, priced separately — confirm the list before your first visit.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>How much does regular cleaning cost by schedule?' +
+        '</h3>' +
+        '<p>Frequency is the first price lever. The more often a cleaner comes, the less work each visit takes — and the lower the per-visit price.' +
+        '</p>' +
+        '<table class="price-table">' +
+        '<thead>' +
+        '<tr>' +
+        '<th>Schedule' +
+        '</th>' +
+        '<th>Per visit (2026)' +
+        '</th>' +
+        '<th>Per month (2026)' +
+        '</th>' +
+        '</tr>' +
+        '</thead>' +
+        '<tbody>' +
+        '<tr>' +
+        '<td>Weekly' +
+        '</td>' +
+        '<td>$75–$200' +
+        '</td>' +
+        '<td>$300–$800' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>Biweekly' +
+        '</td>' +
+        '<td>$100–$250' +
+        '</td>' +
+        '<td>$200–$500' +
+        '</td>' +
+        '</tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>For a 3-bedroom home, the 2026 TIDY guide shows the same pattern: weekly $100–$175 per visit, biweekly $120–$210, and monthly $150–$280 — with recurring plans typically discounted 10–20% against one-time prices. Biweekly is the most popular schedule: it keeps a home consistently clean without paying for weekly visits.' +
+        '</p>' +
+        '<h3>How much does it cost by home size?' +
+        '</h3>' +
+        '<p>Size is the second lever. Cleaners price by square footage, bedrooms, or both — a standard clean runs $0.10–$0.20 per square foot.' +
+        '</p>' +
+        '<table class="price-table">' +
+        '<thead>' +
+        '<tr>' +
+        '<th>Home' +
+        '</th>' +
+        '<th>Regular cleaning per visit (2026)' +
+        '</th>' +
+        '</tr>' +
+        '</thead>' +
+        '<tbody>' +
+        '<tr>' +
+        '<td>1-bedroom' +
+        '</td>' +
+        '<td>$75–$110' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>2-bedroom' +
+        '</td>' +
+        '<td>$100–$150' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>3-bedroom' +
+        '</td>' +
+        '<td>$130–$200' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>4-bedroom' +
+        '</td>' +
+        '<td>$150–$210' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>1,000 sq ft' +
+        '</td>' +
+        '<td>$100–$200' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>2,000 sq ft' +
+        '</td>' +
+        '<td>$200–$400' +
+        '</td>' +
+        '</tr>' +
+        '<tr>' +
+        '<td>3,000 sq ft' +
+        '</td>' +
+        '<td>$300–$600' +
+        '</td>' +
+        '</tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>Each extra bedroom adds about $25–$35 to a regular clean, and each extra bathroom adds $10–$40 — bathrooms cost more than their size suggests because of tile, grout, fixtures, and mirrors. Hourly billing, where offered, runs $25–$50 per cleaner per hour.' +
+        '</p>{{img:1}}' +
+        '<h3>What is included in a regular clean?' +
+        '</h3>' +
+        '<p>A regular (standard) clean covers the rooms you live in: dusting surfaces, vacuuming and mopping floors, wiping kitchen counters and appliance exteriors, scrubbing bathrooms, and taking out the trash. Angi prices that routine-areas service at $75–$175 per visit.' +
+        '</p>' +
+        '<p>What it does not include is the detail work — inside the oven or fridge, baseboards, window tracks, and grout scrubbing. That is deep-clean territory at $200–$400 per visit, and most pros will ask you to start there: if a home has not been professionally cleaned in over three months, the standard advice is one deep clean first, then cheaper regular visits to maintain it.' +
+        '</p>' +
+        '<h3>What pushes the price up or down?' +
+        '</h3>' +
+        '<ul class="check-list">' +
+        '<li>' +
+        '<strong>Who you hire.' +
+        '</strong> Independent cleaners usually charge less per hour; companies charge more and build in insurance, supplies, background checks, and a replacement if your cleaner is sick.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Location.' +
+        '</strong> High-cost cities run well above the national range; smaller markets run below it. The same clean can shift 50–80% between markets.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Condition and household.' +
+        '</strong> Pets, kids, and a long gap since the last clean all add time — pet-hair work alone can add $10–$30 per visit.' +
+        '</li>' +
+        '<li>' +
+        '<strong>Add-ons.' +
+        '</strong> Price them before you book: window cleaning $4–$10 per window, carpet cleaning $75–$200, fridge cleaning $10–$40, oven cleaning $20–$40, laundry $5–$20 per load.' +
+        '</li>' +
+        '<li>' +
+        '<strong>First-visit and extras fees.' +
+        '</strong> Watch for trip fees ($10–$25 outside a core area), a supplies charge ($10–$20), 2–3 hour minimums on small homes, and cancellation fees of 50–100% inside 24–48 hours.' +
+        '</li>' +
+        '</ul>' +
+        '<h3>How do you keep the regular price down?' +
+        '</h3>' +
+        '<p>Book recurring — weekly and biweekly plans save 10–20% per visit against one-time bookings, and FieldCamp puts the typical biweekly discount at 10–15%. Declutter before the visit so paid time goes to cleaning, not picking up. Skip add-ons you can do yourself, and compare at least two or three quotes: for the same home, quotes vary more than most people expect.' +
+        '</p>{{img:2}}' +
+        '<p>Wherever you live, enter your ZIP on Van Squads to compare home cleaning pros near you — upfront rates and reviews, so you know the likely cost before anyone picks up a mop. New to the service itself? Read our ' +
+        '<a href="/services/home-cleaning/">home cleaning guide' +
+        '</a>.' +
+        '</p>' +
+        '<div class="disclosure">' +
+        '<strong>Sources (2026 pricing data).' +
+        '</strong> Angi, "How Much Does Professional House Cleaning Cost?" (angi.com); TIDY, "How Much Does House Cleaning Cost in 2026? Complete Price Guide" (tidy.com); FieldCamp, "House Cleaning Prices [2026]" (fieldcamp.ai).' +
+        '</div>'
     }
   ];
 
