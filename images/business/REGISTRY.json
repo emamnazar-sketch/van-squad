@@ -4824,8 +4824,9 @@
  "9a30e0f9-4231-4eb0-bc1a-1793dd509673": {
   "business": "Banks Blue Valley Pool & Spa",
   "image": "images/business/banks-blue-valley-pool-spa.jpg",
-  "scene": "Pool technician vacuuming a backyard pool from the pool edge",
-  "created": "2026-10-21"
+  "scene": "Pool technician vacuuming a backyard pool with a single pole vacuum, standing at the pool edge",
+  "created": "2026-10-21",
+  "regenerated": "2026-10-21 after QA reject: v1 duplicated the vacuum head; regenerated single-vacuum version, coordinator-viewed and passed"
  },
  "09e0295a-b5b2-49f1-9cc4-953e19f750ee": {
   "business": "Aquaticare",
