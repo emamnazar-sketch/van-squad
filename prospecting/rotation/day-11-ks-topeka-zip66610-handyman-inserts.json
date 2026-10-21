@@ -1,0 +1,148 @@
+{
+  "businesses": [
+    {
+      "id": "faad6418-a57b-4025-b337-032ec2a92552",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Amati Projects",
+      "category": "Handyman",
+      "phone": "(785) 409-6060",
+      "website": "https://www.amatiprojects.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "218a51f4-ce83-47dc-bc79-21cb55509109",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GoldenHome Club",
+      "category": "Handyman",
+      "phone": "(785) 329-9776",
+      "website": "https://goldenhomeclub.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66610",
+        "66606"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9cef52dc-1032-48b7-84d4-d6124a0c5b2d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Hammers",
+      "category": "Handyman",
+      "phone": "(785) 232-6420",
+      "website": "http://www.garnerremodeling.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0fc4fd43-6214-454d-93ee-8137efb69752",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kyle's Handy Helper's",
+      "category": "Handyman",
+      "phone": "(785) 430-3911",
+      "website": "https://www.kylethehandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66610",
+        "66608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a37ea2f3-e5ef-4d5e-9ba9-18b517cb498b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handypros services",
+      "category": "Handyman",
+      "phone": "(785) 422-9888",
+      "website": "http://www.handyprosks.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e8719fc6-5ef9-4a15-a99a-dbf86d6a0df6",
+      "business_id": "faad6418-a57b-4025-b337-032ec2a92552",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "c7ffb789-fec0-474e-b676-4cf6b1d40465",
+      "business_id": "218a51f4-ce83-47dc-bc79-21cb55509109",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "5991af52-2f07-4e71-89e7-f6d4be910092",
+      "business_id": "9cef52dc-1032-48b7-84d4-d6124a0c5b2d",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "1899e080-7106-4dbb-8b27-f6451a7193f2",
+      "business_id": "0fc4fd43-6214-454d-93ee-8137efb69752",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "52817ff1-d4d8-4fbc-9008-a889f33dbae7",
+      "business_id": "a37ea2f3-e5ef-4d5e-9ba9-18b517cb498b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    }
+  ]
+}

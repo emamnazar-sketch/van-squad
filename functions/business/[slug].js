@@ -378,6 +378,56 @@ var ZIP_NAMES = {
     '68701': 'Norfolk',
     '68801': 'Grand Island',
     '68847': 'Kearney',
+    '66012': 'Bonner Springs',
+    '66044': 'Lawrence',
+    '66047': 'Lawrence',
+    '66062': 'Olathe',
+    '66102': 'Kansas City',
+    '66103': 'Kansas City',
+    '66104': 'Kansas City',
+    '66106': 'Kansas City',
+    '66202': 'Mission',
+    '66203': 'Shawnee',
+    '66210': 'Overland Park',
+    '66212': 'Overland Park',
+    '66214': 'Overland Park',
+    '66215': 'Lenexa',
+    '66223': 'Overland Park',
+    '66502': 'Manhattan',
+    '66606': 'Topeka',
+    '66608': 'Topeka',
+    '66610': 'Topeka',
+    '66614': 'Topeka',
+    '67002': 'Andover',
+    '67017': 'Cheney',
+    '67030': 'Halstead',
+    '67037': 'Derby',
+    '67052': 'Goddard',
+    '67101': 'Wichita',
+    '67110': 'Mulvane',
+    '67133': 'Rose Hill',
+    '67147': 'Newton',
+    '67203': 'Riverside, Wichita',
+    '67204': 'Wichita',
+    '67205': 'Wichita',
+    '67206': 'Wichita',
+    '67207': 'Wichita',
+    '67208': 'College Hill, Wichita',
+    '67209': 'Wichita',
+    '67211': 'Wichita',
+    '67212': 'Wichita',
+    '67213': 'Wichita',
+    '67214': 'Wichita',
+    '67215': 'Wichita',
+    '67217': 'Wichita',
+    '67218': 'Wichita',
+    '67219': 'Wichita',
+    '67220': 'Wichita',
+    '67226': 'Wichita',
+    '67228': 'Wichita',
+    '67230': 'Wichita',
+    '67232': 'Wichita',
+    '67235': 'Wichita',
   
 };
 
@@ -432,7 +482,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261020a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261021a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

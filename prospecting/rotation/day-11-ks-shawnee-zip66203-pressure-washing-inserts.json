@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "4d295176-8957-47d5-a621-649d2ee042c0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Edwards Gutter Cleaning and Power Wash",
+      "category": "Pressure washing",
+      "phone": "(913) 359-7695",
+      "website": "https://edwardsguttercleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "903677cb-5aeb-452a-b4c2-46f42976ac6f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Splash Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(816) 253-8462",
+      "website": "https://kc-splash.com/residential-pressure-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1bc04cd2-2eda-45b6-81ec-7d308a1cfb99",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Manz Line Striping & Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(913) 214-6282",
+      "website": "https://manzstripeandwash.com/residential-pressure-washing-kansas-city/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "023d9d9b-ffc1-4264-9425-7dcf4cd46ea1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Squids Pro Wash",
+      "category": "Pressure washing",
+      "phone": "(816) 708-4530",
+      "website": "https://www.squidskc.com/residential-services/driveway-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "32cb4a1c-5b9a-4111-ad76-08d9fbc6fb39",
+      "business_id": "4d295176-8957-47d5-a621-649d2ee042c0",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "39078636-da6f-49a2-8f79-25780f04577e",
+      "business_id": "903677cb-5aeb-452a-b4c2-46f42976ac6f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "aaeb49e5-8867-4a35-885a-07873f1b2f4f",
+      "business_id": "1bc04cd2-2eda-45b6-81ec-7d308a1cfb99",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "4bf20ad2-7179-4f5a-b4f2-a0a32ec82fa1",
+      "business_id": "023d9d9b-ffc1-4264-9425-7dcf4cd46ea1",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pressure washing at your location"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "7961eb9b-b0c1-40cf-a0b7-af2a005dc7f5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "In The Details LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(316) 247-2233",
+      "website": "https://inthedetailsict.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2a2adbe1-aed0-4f41-91aa-a8f515a04aef",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "2U Auto",
+      "category": "Mobile auto detailing",
+      "phone": "(316) 302-5668",
+      "website": "https://www.2uauto.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0d881e6e-a478-4e9e-bbff-7edbf28cd2a9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "B&R Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(620) 204-1724",
+      "website": "https://brmobiledetailing.netlify.app/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ed65559d-d9c9-44b4-97ee-90142655bf0c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Parker's Detail, LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(316) 350-7550",
+      "website": "https://parkersdetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b6faf5d5-b7ef-4e0e-9366-8b56e06978da",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wichita Detailing Co.",
+      "category": "Mobile auto detailing",
+      "phone": "(316) 272-2417",
+      "website": "https://wichitadetailingco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9001978c-c8a2-4e9a-834b-fd779730d666",
+      "business_id": "7961eb9b-b0c1-40cf-a0b7-af2a005dc7f5",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "674df533-a055-463a-bce4-ffc1f1d743f3",
+      "business_id": "2a2adbe1-aed0-4f41-91aa-a8f515a04aef",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "b18e4e99-c387-4577-a6b7-feb5529ca8b0",
+      "business_id": "0d881e6e-a478-4e9e-bbff-7edbf28cd2a9",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "7a15261b-8ec5-44f7-a90b-3212406d6f49",
+      "business_id": "ed65559d-d9c9-44b4-97ee-90142655bf0c",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "cb178ef0-aa0a-4e02-bd0e-3f2985954d0c",
+      "business_id": "b6faf5d5-b7ef-4e0e-9366-8b56e06978da",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    }
+  ]
+}

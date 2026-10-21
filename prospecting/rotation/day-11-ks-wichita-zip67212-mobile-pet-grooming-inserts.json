@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "e37327cd-ebfc-495d-b903-6ad81f392fe0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "K9 Design Pet Salon and Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(316) 322-5024",
+      "website": "http://www.k9designwichita.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e9417591-0335-4982-92f0-0e43e3b2b14c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "QuickClips",
+      "category": "Mobile pet grooming",
+      "phone": "(316) 573-7450",
+      "website": "https://quickclipsict.square.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "156e9fd9-df4d-46f5-9c3c-777bb90c7d54",
+      "business_id": "e37327cd-ebfc-495d-b903-6ad81f392fe0",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile pet grooming at your location"
+    },
+    {
+      "id": "af7aa5af-47ee-4d80-8ca6-391a5648f4a5",
+      "business_id": "e9417591-0335-4982-92f0-0e43e3b2b14c",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile pet grooming at your location"
+    }
+  ]
+}

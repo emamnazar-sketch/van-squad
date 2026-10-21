@@ -1,0 +1,143 @@
+{
+  "businesses": [
+    {
+      "id": "3126bb5b-bf00-44e0-8b1a-585dcd303208",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Wichita",
+      "category": "Deep cleaning",
+      "phone": "(316) 854-9592",
+      "website": "https://www.thecleaningauthority.com/wichita",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67211",
+        "67002",
+        "67017",
+        "67030",
+        "67037",
+        "67052",
+        "67101",
+        "67110",
+        "67133",
+        "67147",
+        "67204",
+        "67205",
+        "67206",
+        "67207",
+        "67208",
+        "67209",
+        "67212",
+        "67215",
+        "67218",
+        "67219",
+        "67220",
+        "67226",
+        "67228",
+        "67230",
+        "67232",
+        "67235"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dad763f2-2b84-40fb-bc46-ccec826308a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Wichita",
+      "category": "Deep cleaning",
+      "phone": "(316) 281-7237",
+      "website": "https://www.maidpro.com/wichita/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0fd9e1e8-6cdb-4fce-be6e-5bc63eab877f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in Wichita",
+      "category": "Deep cleaning",
+      "phone": "(316) 665-6514",
+      "website": "https://www.maids.com/6/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a942c282-72fd-46cb-bfa2-c52746d81c4f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Be Amazed Residential and Commercial Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(316) 854-0558",
+      "website": "http://beamazedclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "00164b20-37e7-45ab-9194-8a1cc47fc755",
+      "business_id": "3126bb5b-bf00-44e0-8b1a-585dcd303208",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "id": "f284c64f-8bcc-4a34-ab48-0656fad4d9ac",
+      "business_id": "dad763f2-2b84-40fb-bc46-ccec826308a3",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "id": "99975737-f4c4-480e-8875-a6f0a8e73c4d",
+      "business_id": "0fd9e1e8-6cdb-4fce-be6e-5bc63eab877f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "id": "c306ea5a-a8f0-42b4-a4d9-5ce3c47d7546",
+      "business_id": "a942c282-72fd-46cb-bfa2-c52746d81c4f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Deep cleaning at your location"
+    }
+  ]
+}

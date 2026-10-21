@@ -1,0 +1,150 @@
+{
+  "businesses": [
+    {
+      "id": "c91b3207-8b7f-44ae-b203-1536e835a411",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Best Home Guys",
+      "category": "Handyman",
+      "phone": "(316) 712-6060",
+      "website": "https://www.thebesthomeguys.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67208",
+        "67203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1ccb234e-5104-43a7-bc43-6adadf89677b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "OneSource Home Services",
+      "category": "Handyman",
+      "phone": "(316) 925-5800",
+      "website": "https://onesourceks.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67208",
+        "67213"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1ac702ab-06ff-4700-81a6-869d3ab61a10",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of the Wichita Metro Area",
+      "category": "Handyman",
+      "phone": "(316) 285-1217",
+      "website": "https://www.mrhandyman.com/wichita-metro-area/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67208",
+        "67212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "10cabfe7-3fed-453e-8776-cd1149599aa8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Wichita",
+      "category": "Handyman",
+      "phone": "(316) 217-8639",
+      "website": "http://www.acehandymanservices.com/offices/wichita",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67208",
+        "67209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c3b66ec0-b9ad-4d6e-887d-9c8f65ff3664",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handyman Hero",
+      "category": "Handyman",
+      "phone": "(316) 259-6748",
+      "website": "http://handymanheroict.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67208"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4b816428-4659-4710-9aed-34a4a768c923",
+      "business_id": "c91b3207-8b7f-44ae-b203-1536e835a411",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "eaf13567-decf-40d2-969f-1096fe033346",
+      "business_id": "1ccb234e-5104-43a7-bc43-6adadf89677b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "37048d6e-2788-4fff-8e1f-3b1dc8eaf2dd",
+      "business_id": "1ac702ab-06ff-4700-81a6-869d3ab61a10",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "f56c9e69-46dc-48b1-b4cc-66b0b50c7c35",
+      "business_id": "10cabfe7-3fed-453e-8776-cd1149599aa8",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "925f5c91-8b4b-46b9-9a1f-fe2c4037555c",
+      "business_id": "c3b66ec0-b9ad-4d6e-887d-9c8f65ff3664",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "7c69202b-062e-45bc-b668-2a027baebe7e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ricks Reflections Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 777-9545",
+      "website": "https://ricksreflections.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dd64674e-1763-49a3-a324-0c8664dc9ffd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fine Touch Auto Pros",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 914-8440",
+      "website": "https://www.finetouchsolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "72d3089a-8bee-4474-ba4b-60b8bd8a7f2a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clarity Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 210-0525",
+      "website": "http://clarityautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "40929cdd-4d10-48cd-a349-46472ae9d29f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Pro Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(816) 405-9158",
+      "website": "https://www.kcprodetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e578fc8d-ff07-4881-b4cd-6ea969f3954b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Schrocks Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 343-4324",
+      "website": "https://www.schrocksmobiledetailing.com/contact-1",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "385bdf85-bbc4-494f-9159-2a35fa69c597",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "LuxeRide Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 945-2870",
+      "website": "https://luxeridedetailing.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0551222b-1cfb-4620-ac84-f8520c7a2433",
+      "business_id": "7c69202b-062e-45bc-b668-2a027baebe7e",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "734e6cb0-7f9b-498a-b718-ba6a2ae2b62a",
+      "business_id": "dd64674e-1763-49a3-a324-0c8664dc9ffd",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "2251ef6c-aafa-4cfa-a5c9-b8a81055be31",
+      "business_id": "72d3089a-8bee-4474-ba4b-60b8bd8a7f2a",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "dd8be173-2e73-48fc-aa29-e23b321a65a2",
+      "business_id": "40929cdd-4d10-48cd-a349-46472ae9d29f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "88fe4ca4-3654-4f8a-b122-43991a292676",
+      "business_id": "e578fc8d-ff07-4881-b4cd-6ea969f3954b",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "8ebc3688-4202-49e6-92c1-d2967a9c7f56",
+      "business_id": "385bdf85-bbc4-494f-9159-2a35fa69c597",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Mobile auto detailing at your location"
+    }
+  ]
+}

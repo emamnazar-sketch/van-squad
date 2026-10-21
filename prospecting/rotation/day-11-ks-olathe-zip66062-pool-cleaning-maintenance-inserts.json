@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "6bbc536a-4128-4324-b193-505602381d91",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Crystal Clear Pools KC",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(913) 272-5442",
+      "website": "https://www.crystalclearpoolskc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "42d44b28-df94-4fda-8f42-368edb4a52f9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(913) 782-7777",
+      "website": "http://www.kcpools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "75589d1c-0502-4708-b861-39dee26577d4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Country Club Pool & Spa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(913) 522-4489",
+      "website": "https://ccpoolandspa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a30e0f9-4231-4eb0-bc1a-1793dd509673",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Banks Blue Valley Pool & Spa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(913) 897-9290",
+      "website": "https://www.bluevalleyaquatech.com/swimming-pool-maintenance-overland-park-ks",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "09e0295a-b5b2-49f1-9cc4-953e19f750ee",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Aquaticare",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(816) 331-3454",
+      "website": "http://www.aquaticarekc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "cabe85cb-4f6d-414d-9ffb-22cb87ba9dd5",
+      "business_id": "6bbc536a-4128-4324-b193-505602381d91",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "232e6953-490b-4abe-a8b6-e213787894b8",
+      "business_id": "42d44b28-df94-4fda-8f42-368edb4a52f9",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "6c94c708-38f2-420d-9991-cb831ecf5e58",
+      "business_id": "75589d1c-0502-4708-b861-39dee26577d4",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "917ce79d-801e-4fc1-abda-bd1d306052da",
+      "business_id": "9a30e0f9-4231-4eb0-bc1a-1793dd509673",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "8f3de362-d16e-4b26-b1ae-0b21e5f9fc88",
+      "business_id": "09e0295a-b5b2-49f1-9cc4-953e19f750ee",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    }
+  ]
+}

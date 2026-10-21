@@ -1,0 +1,208 @@
+{
+  "businesses": [
+    {
+      "id": "2361132a-f0ae-4239-95d1-4a48028979c5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Bill Can",
+      "category": "Handyman",
+      "phone": "(913) 738-0022",
+      "website": "https://handymanbillcan.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102",
+        "66106"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6db0fa70-f0b3-48c1-84f8-26c270c8f5ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman USA",
+      "category": "Handyman",
+      "phone": "(913) 534-4715",
+      "website": "https://www.handymanusa.biz/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102",
+        "66103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f0af3d91-0203-46f4-b1f3-e45cd015bd38",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DLR Home Improvement",
+      "category": "Handyman",
+      "phone": "(913) 351-7574",
+      "website": "https://dlr-home-improvement.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102",
+        "66104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f3987a7d-b887-4313-b5f8-1d121da8d6e2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Will Will Do It",
+      "category": "Handyman",
+      "phone": "(913) 706-1468",
+      "website": "https://www.willwilldoit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3102f541-8e83-4c5b-a0b7-634fedf6f849",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Westlake Ace Handyman Services Kansas City, Kansas",
+      "category": "Handyman",
+      "phone": "(913) 721-6016",
+      "website": "https://www.acehandymanservices.com/offices/kc-kansas",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102",
+        "66223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2d601578-c5fe-4db4-96d9-fc52c99c755f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Connection of Shawnee",
+      "category": "Handyman",
+      "phone": "(913) 624-9200",
+      "website": "https://handymanconnection.com/shawnee/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102",
+        "66012"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fef2b7be-1468-4bd1-abf8-9c23296bb486",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Northeast Johnson County",
+      "category": "Handyman",
+      "phone": "(913) 278-1190",
+      "website": "https://www.mrhandyman.com/northeast-johnson-county/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66102",
+        "66215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ca4b49d3-3168-4396-8bca-e7806bb4d9eb",
+      "business_id": "2361132a-f0ae-4239-95d1-4a48028979c5",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "d0662b8b-8d5e-4487-864c-35c035ab1c38",
+      "business_id": "6db0fa70-f0b3-48c1-84f8-26c270c8f5ab",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "499a51c0-1fdf-4c63-b776-8b3a9e3fa7c1",
+      "business_id": "f0af3d91-0203-46f4-b1f3-e45cd015bd38",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "5d4b4501-8bdc-406b-b777-7c466e44dad5",
+      "business_id": "f3987a7d-b887-4313-b5f8-1d121da8d6e2",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "1f148049-e7f0-42f3-949d-bb7b61163e90",
+      "business_id": "3102f541-8e83-4c5b-a0b7-634fedf6f849",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "faaa3d75-3c1d-4f26-9d36-9f8bc6972390",
+      "business_id": "2d601578-c5fe-4db4-96d9-fc52c99c755f",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "7eb474b7-4f74-4b43-bb0d-9a3509c5f136",
+      "business_id": "fef2b7be-1468-4bd1-abf8-9c23296bb486",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    }
+  ]
+}

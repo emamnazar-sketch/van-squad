@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "10141653-4848-4884-b1c2-99f9d9b242ae",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Topeka",
+      "category": "House cleaning",
+      "phone": "(785) 380-2283",
+      "website": "https://www.maidpro.com/topeka/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "66614"
+      ]
+    },
+    {
+      "id": "b3e715e8-cf12-40f9-a323-a33d263daacc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Care Cleaning Pros",
+      "category": "House cleaning",
+      "phone": "(785) 508-7546",
+      "website": "https://carecleaningks.com/topeka/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "66614"
+      ]
+    },
+    {
+      "id": "ed94819d-4ee7-475c-86dd-971126295db1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning By Titan",
+      "category": "House cleaning",
+      "phone": "(785) 546-6528",
+      "website": "https://cleaningbytitan.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "66614"
+      ]
+    },
+    {
+      "id": "c55eed47-d954-4149-a6d1-ef61701f3e76",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kelli's Housekeeping",
+      "category": "House cleaning",
+      "phone": "(785) 506-1002",
+      "website": "https://www.kellishousekeepingllc.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "66614"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "6e9d0dbb-5e9e-417b-8348-12a29b61d0aa",
+      "business_id": "10141653-4848-4884-b1c2-99f9d9b242ae",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "023cdc14-f0e2-48ad-af6a-39717b20f12e",
+      "business_id": "b3e715e8-cf12-40f9-a323-a33d263daacc",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "7116e621-9d0a-4359-96ad-fad215320a68",
+      "business_id": "ed94819d-4ee7-475c-86dd-971126295db1",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "a8565758-40cd-4cf0-b1eb-d025c8b0090d",
+      "business_id": "c55eed47-d954-4149-a6d1-ef61701f3e76",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

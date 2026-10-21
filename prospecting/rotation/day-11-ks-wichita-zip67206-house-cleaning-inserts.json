@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "a1c0df74-c4cd-47cc-a6dd-d87137defd3d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Clean ICT",
+      "category": "House cleaning",
+      "phone": "(316) 727-6582",
+      "website": "https://www.greencleanict.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "74827d79-34c9-4e09-9f0e-0cfdab4f375d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jenny Maids",
+      "category": "House cleaning",
+      "phone": "(316) 210-1900",
+      "website": "https://jennymaidsict.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "33f53385-e06b-4702-a86c-fdd3d63823ff",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Margaret McHenry Maids",
+      "category": "House cleaning",
+      "phone": "(316) 612-9300",
+      "website": "http://margaretmchenrymaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d75ed0e-116f-4ccd-9c41-1a282a1db6cf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Shine Bright Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(316) 665-0326",
+      "website": "https://shinebrightcs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "93034f92-6f75-406b-bfec-1fd6e6ff14dc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TJ's Pro Cleaners",
+      "category": "House cleaning",
+      "phone": "(316) 719-9618",
+      "website": "https://tjproclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "67206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6649705e-5634-4204-80c3-9411d34708f2",
+      "business_id": "a1c0df74-c4cd-47cc-a6dd-d87137defd3d",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "a88662a9-6462-49cb-a961-9dffe3acf1a1",
+      "business_id": "74827d79-34c9-4e09-9f0e-0cfdab4f375d",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "ae9498cc-bf24-4b0e-897e-0c390a695c70",
+      "business_id": "33f53385-e06b-4702-a86c-fdd3d63823ff",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "8aca2a44-8b95-4407-8228-ec339a57b137",
+      "business_id": "6d75ed0e-116f-4ccd-9c41-1a282a1db6cf",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "10d15c89-b880-425f-beda-44437d3ffd62",
+      "business_id": "93034f92-6f75-406b-bfec-1fd6e6ff14dc",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

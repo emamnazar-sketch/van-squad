@@ -1,0 +1,149 @@
+{
+  "businesses": [
+    {
+      "id": "0ad835eb-363e-4348-a97f-843a37af8c1c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tidyuppie Cleaning",
+      "category": "House cleaning",
+      "phone": "(913) 871-5755",
+      "website": "http://www.tidyuppie.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "90375c22-98f3-49e6-beeb-e38498d915ad",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Best Clean KC",
+      "category": "House cleaning",
+      "phone": "(913) 318-4664",
+      "website": "https://bestcleankc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66210",
+        "66212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "868fcf54-a2c1-49c7-885c-baba95c32b80",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "All Clean By Anabelle",
+      "category": "House cleaning",
+      "phone": "(913) 456-6873",
+      "website": "https://allcleanbyanabelle.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bb8c5e84-36f0-4575-aaca-c59529117314",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Overland Park",
+      "category": "House cleaning",
+      "phone": "(913) 254-3290",
+      "website": "https://www.maidpro.com/overlandpark-central/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66210",
+        "66214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2e2900e6-1bf0-4589-a984-7fac6ae339ed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lulu & Mimi's Cleaning",
+      "category": "House cleaning",
+      "phone": "(913) 649-6022",
+      "website": "https://www.luluandmimis.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "66210",
+        "66202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e6a0e7f2-0c1b-4b6e-90ba-8b33d771244f",
+      "business_id": "0ad835eb-363e-4348-a97f-843a37af8c1c",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "adad5ff6-a47b-4472-a647-bf85080605f5",
+      "business_id": "90375c22-98f3-49e6-beeb-e38498d915ad",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "7a31453f-80ca-41b1-8929-3b8c3646c0e0",
+      "business_id": "868fcf54-a2c1-49c7-885c-baba95c32b80",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "8f154c38-20bb-4ab7-8313-da485956423f",
+      "business_id": "bb8c5e84-36f0-4575-aaca-c59529117314",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "d58ef19f-960a-4b01-b57e-e6159cfb863d",
+      "business_id": "2e2900e6-1bf0-4589-a984-7fac6ae339ed",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}
