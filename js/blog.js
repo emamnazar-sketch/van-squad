@@ -644,6 +644,76 @@
         '<strong>Sources (2026 pricing data).' +
         '</strong> Angi, "How Much Does Professional House Cleaning Cost?" (angi.com); TIDY, "How Much Does House Cleaning Cost in 2026? Complete Price Guide" (tidy.com); FieldCamp, "House Cleaning Prices [2026]" (fieldcamp.ai).' +
         '</div>'
+    },
+    {
+      slug: 'how-much-does-an-electrician-cost-per-hour',
+      title: 'How Much Does an Electrician Cost Per Hour in 2026?',
+      date: '2026-10-22',
+      category: 'Electrician',
+      excerpt: 'Most electricians charge $50\u2013$100 per hour in 2026, with the first hour averaging around $150. Rates by license level, flat prices for common jobs, and how to pay less.',
+      metaDescription: 'Electricians charge $50\u2013$100 per hour in 2026, first hour about $150. Rates by license level, flat prices for common jobs, and ways to pay less.',
+      readTime: '4 min read',
+      updated: '2026-10-22',
+      related: ['how-much-does-a-handyman-cost-per-hour', 'how-much-do-you-pay-for-regular-house-cleaning'],
+      images: [
+        { src: 'images/blog/how-much-does-an-electrician-cost-per-hour-hero.jpg', alt: 'Licensed electrician testing an open home electrical panel with a multimeter, homeowner watching nearby, service van visible through the open front door', caption: 'Most electricians charge $50\u2013$100 an hour in 2026 \u2014 the first hour, at about $150, includes the service call.' },
+        { src: 'images/blog/how-much-does-an-electrician-cost-per-hour-outlet.jpg', alt: 'Electrician fitting a new outlet into a sunny living-room wall with a screwdriver, small parts tray on the floor beside him', caption: 'An outlet install runs $200\u2013$300 flat \u2014 one of the small jobs worth bundling into a single visit.' },
+        { src: 'images/blog/how-much-does-an-electrician-cost-per-hour-ceiling-fan.jpg', alt: 'Electrician on a stepladder fitting a ceiling fan in a bright bedroom, homeowner holding the ladder steady below', caption: 'A ceiling fan install is $140\u2013$350 in 2026 \u2014 a standard journeyperson job, no master rate needed.' }
+      ],
+      tldr: 'Most electricians charge $50\u2013$100 per hour in 2026, with the first hour averaging around $150 because it includes the service call. The average job totals $351, with most homeowners paying $163\u2013$538. License level moves the rate most \u2014 a master electrician costs roughly double an apprentice.',
+      faq: [
+        { q: 'How much does an electrician cost per hour in 2026?', a: '$50\u2013$100 per hour for a qualified electrician, with the first hour averaging around $150. Apprentices charge $40\u2013$60, journeypersons $60\u2013$90, and master electricians $90\u2013$120.' },
+        { q: 'What is the average cost to hire an electrician?', a: '$351 in 2026, with most homeowners paying $163\u2013$538. Minor jobs can run as low as $85, and more complex projects can reach $1,150 before you get into panel or rewiring work.' },
+        { q: 'Why is there a service call fee if the job is quick?', a: 'The $100\u2013$200 service call covers travel, diagnosis, and the first hour on site. Most electricians also apply a 1- to 2-hour minimum, so a 20-minute fix is still billed as a visit \u2014 bundling jobs spreads that fee.' },
+        { q: 'How much does an emergency electrician cost?', a: 'Emergency, night, and weekend work adds $100\u2013$200 on top of standard rates, and hourly labor can reach $100\u2013$250 \u2014 up to double the standard rate.' },
+        { q: 'Do I need a permit for electrical work?', a: 'Usually, yes, if the work adds or alters wiring: new circuits, panel upgrades, rewiring, and EV chargers. A permit runs $75\u2013$150 for most jobs. One-for-one replacements of an outlet, switch, or fixture usually do not need one \u2014 your electrician should pull the permit when one is required.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What does an electrician charge per hour by license level?</h3>' +
+        '<p>License level is the first price lever. You pay for training and for who is legally allowed to do the work.</p>' +
+        '<table class="price-table">' +
+        '<thead><tr><th>Who you hire</th><th>Typical 2026 hourly rate</th></tr></thead>' +
+        '<tbody>' +
+        '<tr><td>Apprentice (works under supervision)</td><td>$40\u2013$60</td></tr>' +
+        '<tr><td>Journeyperson (standard licensed electrician)</td><td>$60\u2013$90</td></tr>' +
+        '<tr><td>Master electrician (complex and permit work)</td><td>$90\u2013$120</td></tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>5Estimates puts the wider national range at $50\u2013$130 per hour, with master electricians up to $100\u2013$150 \u2014 the same picture once high-cost metros are included. For outlets, switches, fans, and fixtures, a journeyperson is usually the right tier. Save the master rate for panel work, rewiring, and jobs that need a permit pulled.</p>' +
+        '<h3>What do common electrical jobs cost as a flat price?</h3>' +
+        '<p>Many electricians quote a flat price for a defined job instead of billing the clock:</p>' +
+        '<table class="price-table">' +
+        '<thead><tr><th>Job</th><th>Typical 2026 price</th></tr></thead>' +
+        '<tbody>' +
+        '<tr><td>Light switch install</td><td>$85\u2013$200</td></tr>' +
+        '<tr><td>Ceiling fan install</td><td>$140\u2013$350</td></tr>' +
+        '<tr><td>Outlet install</td><td>$200\u2013$300</td></tr>' +
+        '<tr><td>Breaker box work</td><td>$500\u2013$1,800</td></tr>' +
+        '<tr><td>Electrical panel upgrade</td><td>$1,200\u2013$2,000</td></tr>' +
+        '<tr><td>Rewiring a house</td><td>$1,500\u2013$10,000</td></tr>' +
+        '</tbody>' +
+        '</table>' +
+        '<p>5Estimates lists the same work in the same range \u2014 a new outlet at $150\u2013$350, a ceiling fan at $150\u2013$400, and a 100-amp to 200-amp panel upgrade at $1,300\u2013$3,000. Small jobs in total usually run $150\u2013$600.</p>' +
+        '{{img:1}}' +
+        '<h3>Why does the first hour cost more than the rest?</h3>' +
+        '<p>Because the first hour is not just labor. A service call fee of $100\u2013$200 covers travel, diagnosis, and setup, and most electricians apply a 1- to 2-hour minimum \u2014 Angi notes minimums can run 1 to 4 hours \u2014 even when the fix takes 20 minutes. That is why one tiny job looks expensive, and why bundling several small jobs into one visit is the easiest way to pay less: you pay the call fee once, not three times.</p>' +
+        '<h3>What pushes the price up or down?</h3>' +
+        '<ul class="check-list">' +
+        '<li><strong>Emergency timing.</strong> Night and weekend work adds $100\u2013$200, and emergency labor can reach double the standard rate \u2014 $100\u2013$250 per hour in the 5Estimates guide.</li>' +
+        '<li><strong>Location.</strong> Urban electricians typically charge $100 or more per hour, compared with roughly $50 per hour in rural areas, though rural travel fees narrow the gap.</li>' +
+        '<li><strong>Permits and inspections.</strong> A standard permit runs $75\u2013$150 and a safety inspection $100\u2013$125; permits for rewiring an older home run $200\u2013$900.</li>' +
+        '<li><strong>Access and materials.</strong> Hard-to-reach panels and wiring in finished walls add labor time, and materials bought by the electrician are typically marked up 10\u201350%.</li>' +
+        '</ul>' +
+        '<h3>What work should never be a DIY or handyman job?</h3>' +
+        '<p>Anything that adds or alters wiring, touches the panel, or needs a permit belongs to a licensed electrician: new circuits, panel upgrades, rewiring, and EV charger circuits. One-for-one swaps \u2014 replacing an outlet, switch, or fixture with the same type \u2014 usually do not need a permit, but the work still has to be done safely and to code. An unusually low quote is a warning sign, not a bargain: always verify license and insurance before anyone opens your panel.</p>' +
+        '{{img:2}}' +
+        '<h3>How do you keep the cost down?</h3>' +
+        '<p>Bundle your small electrical jobs into one visit, clear the area around the panel and label your circuits before the electrician arrives, and buy your own fixtures where the spec is clear. Hire a journeyperson for standard work instead of paying master rates, get at least three quotes for larger jobs, and schedule non-urgent work on a weekday instead of paying the emergency rate.</p>' +
+        '<p>Wherever you live, enter your ZIP on Van Squads to compare electricians near you \u2014 upfront rates and reviews, so you know the likely cost before anyone picks up a tool.</p>' +
+        '<div class="disclosure">' +
+        '<strong>Sources (2026 pricing data).</strong> 5Estimates, "Electrician Cost in 2026: Hourly Rates &amp; Price List Calculator" (5estimates.com); Angi, "How Much Does An Electrician Cost?" (angi.com).' +
+        '</div>'
     }
   ];
 

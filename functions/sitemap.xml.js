@@ -18,6 +18,7 @@ var STATIC_URLS = [
   ['https://vansquads.com/blog/how-much-to-tip-mobile-car-detailer/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-a-handyman-cost-per-hour/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-do-you-pay-for-regular-house-cleaning/', 'monthly', '0.7'],
+  ['https://vansquads.com/blog/how-much-does-an-electrician-cost-per-hour/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-car-detailing/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-pet-grooming/', 'monthly', '0.7'],
   ['https://vansquads.com/services/home-cleaning/', 'monthly', '0.7']
