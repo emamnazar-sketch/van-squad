@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "f6f99340-986e-485f-b2e8-1749e07e63ec",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "2 Green Chicks",
+   "category": "House cleaning",
+   "phone": "(405) 928-8535",
+   "website": "https://2greenchicks.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73072"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "23ac15ec-55e8-42dc-ac4c-2366d53013ab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rise 'n Shine Cleaning",
+   "category": "House cleaning",
+   "phone": "(405) 662-0266",
+   "website": "https://sites.google.com/view/risenshinecs/home",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73072"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bc481768-9ca8-4cad-9370-102056bc1420",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "OKC Uptown Cleaning Services, LLC",
+   "category": "House cleaning",
+   "phone": "(405) 882-2863",
+   "website": "https://www.okcuptowncleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73072"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "861a4cb4-5990-4b96-872a-32037cbf27a7",
+   "business_id": "f6f99340-986e-485f-b2e8-1749e07e63ec",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "a176ce04-a10e-4d55-a112-ec4e082e31c7",
+   "business_id": "23ac15ec-55e8-42dc-ac4c-2366d53013ab",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "86bd648d-2c5f-4034-889d-c463a5c82e8f",
+   "business_id": "bc481768-9ca8-4cad-9370-102056bc1420",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  }
+ ]
+}

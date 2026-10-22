@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "88a91db6-6d75-40a1-8537-1485899e5135",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Elevated Cleaning Solutions",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 225-0116",
+   "phone_verified": false,
+   "service_zips": [
+    "73012"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.elevatedcleaningsolutions.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "f321a5f2-e16f-48ef-aba3-50b0eea24354",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Picadilly Maids, Inc.",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 341-3551",
+   "phone_verified": false,
+   "service_zips": [
+    "73012"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.picadillymaids.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "706c67b7-33d1-465f-bc1d-10726c0eaf4e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Blank Space Cleaning LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 418-6606",
+   "phone_verified": false,
+   "service_zips": [
+    "73012"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://blankspacecleaning.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "78d6bf27-b7e3-47ed-bbea-7a31fb4b1bc9",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid OK",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 447-4964",
+   "phone_verified": false,
+   "service_zips": [
+    "73012"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maidok.com/?p=18"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "858f3ee4-1175-48e2-8c7d-6ff1ce3302da",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "A+ Clean Lifestyle",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 861-2484",
+   "phone_verified": false,
+   "service_zips": [
+    "73012"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://apluscleanlifestyle.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "945830e8-917b-4429-923c-8fc8c506d130",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Clean as a Mother",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(580) 747-8184",
+   "phone_verified": false,
+   "service_zips": [
+    "73012"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.cleanasamotherok.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "88a91db6-6d75-40a1-8537-1485899e5135",
+   "id": "074ae578-b6cf-4614-bc78-6672f0d075ea",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "f321a5f2-e16f-48ef-aba3-50b0eea24354",
+   "id": "2b78ffeb-6593-4c5f-a7ba-b0b63a3f5a03",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "706c67b7-33d1-465f-bc1d-10726c0eaf4e",
+   "id": "d1d2f29e-afa7-405d-b85c-3807231644aa",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "78d6bf27-b7e3-47ed-bbea-7a31fb4b1bc9",
+   "id": "e5a93c96-e1e6-4ea8-88a5-0b281874a8ab",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "858f3ee4-1175-48e2-8c7d-6ff1ce3302da",
+   "id": "58531dc6-6ff4-4df9-ab7f-41ff1d0e1fd6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "945830e8-917b-4429-923c-8fc8c506d130",
+   "id": "5c14cdda-fedc-4061-90b3-0946f78eeeec",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

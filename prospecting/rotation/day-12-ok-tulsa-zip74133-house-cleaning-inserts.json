@@ -1,0 +1,235 @@
+{
+ "businesses": [
+  {
+   "id": "1b4a6e51-0f49-4e59-b5d4-440c30b5fbe9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean Freaks of Tulsa",
+   "category": "House cleaning",
+   "phone": "(918) 378-6114",
+   "website": "http://www.cleanfreaks.info/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "786bd7e9-5031-4ca9-bfe6-112dfd4383e9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tulsa Maid Co",
+   "category": "House cleaning",
+   "phone": "(918) 992-7702",
+   "website": "https://maidcocleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133",
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8cba8417-9e94-44e2-b963-f59dd7fbe8a6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ModMaids",
+   "category": "House cleaning",
+   "phone": "(918) 615-2250",
+   "website": "http://modmaidstulsa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4893b0c9-1503-4d5f-906e-e98ce2e2d248",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Nook & Cranny Homekeeping",
+   "category": "House cleaning",
+   "phone": "(918) 408-8900",
+   "website": "http://www.nookhomestulsa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133",
+    "74135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a35311da-4251-445d-8b72-0728f71746b0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bliss Maid Services",
+   "category": "House cleaning",
+   "phone": "(918) 779-9171",
+   "website": "http://www.blissmaidservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133",
+    "74112"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "48e57815-0710-4e59-ac5a-2ae41b1a85ec",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Shake The House Cleaning Company",
+   "category": "House cleaning",
+   "phone": "(918) 629-1969",
+   "website": "https://www.shakethehousecleaningco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133",
+    "74145"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cff2c692-45e5-48ea-83bf-8fcde15824c2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "DomesticAide",
+   "category": "House cleaning",
+   "phone": "(918) 622-7475",
+   "website": "https://domesticaide.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133",
+    "74145"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8d885734-369f-4a57-b0c1-98600b9d7bfa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Minute Maids LLC",
+   "category": "House cleaning",
+   "phone": "(918) 287-7878",
+   "website": "https://minutemaids.biz/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74133"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "3020789a-8a18-4396-81be-c8da655a49e8",
+   "business_id": "1b4a6e51-0f49-4e59-b5d4-440c30b5fbe9",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "0917c525-6e06-48c1-89bc-92de1aeb0766",
+   "business_id": "786bd7e9-5031-4ca9-bfe6-112dfd4383e9",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "46a443ea-d9ba-4190-a0d6-6ba40050d900",
+   "business_id": "8cba8417-9e94-44e2-b963-f59dd7fbe8a6",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "300924d8-0aef-4042-8391-26a9a49f788a",
+   "business_id": "4893b0c9-1503-4d5f-906e-e98ce2e2d248",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "fd1bde50-ab64-418b-9e78-c8dc05cafcab",
+   "business_id": "a35311da-4251-445d-8b72-0728f71746b0",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "cca67b64-7d43-4089-9c7b-10e7d0d9313b",
+   "business_id": "48e57815-0710-4e59-ac5a-2ae41b1a85ec",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "4ebc37e3-c754-4e17-b04e-90327cb417ef",
+   "business_id": "cff2c692-45e5-48ea-83bf-8fcde15824c2",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  },
+  {
+   "id": "6f2b45e9-3914-432c-ae68-196105394768",
+   "business_id": "8d885734-369f-4a57-b0c1-98600b9d7bfa",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "House cleaning at your location"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bb980b29-5e00-4cba-80ea-8426a904710e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Chrome Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 633-3673",
+   "phone_verified": false,
+   "service_zips": [
+    "73116"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.chromepressurewashing.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "e53f1eaf-3f0b-4c99-ade8-bbdd6caf059e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Rolling Suds of Oklahoma City",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 477-3118",
+   "phone_verified": false,
+   "service_zips": [
+    "73116"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.rollingsudspowerwashing.com/oklahoma-city/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "f3bf9ae9-80f1-4bee-a8ea-c656dc8f6961",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Squeegee Tech Window Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 921-0288",
+   "phone_verified": false,
+   "service_zips": [
+    "73116"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.squeegeetech.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "6b7c34ce-00a8-49b2-89a8-99ea720894ae",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sasqwash Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(580) 310-8932",
+   "phone_verified": false,
+   "service_zips": [
+    "73116"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://sasqwashpressurewashing.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "531031d9-a8e6-4d2a-b836-1bd1eadd8c4f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Diamond Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(405) 365-4924",
+   "phone_verified": false,
+   "service_zips": [
+    "73116"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.edmondpowerwashing.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "bb980b29-5e00-4cba-80ea-8426a904710e",
+   "id": "748c110d-e4c3-42fc-9cc0-862ae2a4a9e2",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "e53f1eaf-3f0b-4c99-ade8-bbdd6caf059e",
+   "id": "20820cbe-57ea-49ce-939a-3a0466ba497b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "f3bf9ae9-80f1-4bee-a8ea-c656dc8f6961",
+   "id": "a5fc0516-20de-4139-bf74-ee62912ce16a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "6b7c34ce-00a8-49b2-89a8-99ea720894ae",
+   "id": "4c9a42d3-9503-431f-b2fd-e2bc458a963b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "531031d9-a8e6-4d2a-b836-1bd1eadd8c4f",
+   "id": "db03855b-83ea-48ee-b43a-a310f01f4956",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

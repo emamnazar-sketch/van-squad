@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "553e8b2c-4649-4677-9f7e-bc40ded2c7b4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Roller Remodeling",
+   "category": "Handyman",
+   "phone": "(405) 763-1832",
+   "website": "http://rollerremodelingllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73160"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bd55f603-286d-4477-8826-cdcc8aca0a7c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "RHR",
+   "category": "Handyman",
+   "phone": "(405) 361-2556",
+   "website": "https://rhrest1986.business.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73160"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7f9d0efa-0198-4bc4-8531-af298ea0de1f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spa City Painting & Handyman Services",
+   "category": "Handyman",
+   "phone": "(405) 889-8381",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73160"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5ddce05b-f5e3-45ce-b5ee-729c2a83c281",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handy-dandy handyman llc",
+   "category": "Handyman",
+   "phone": "(405) 318-7895",
+   "website": "http://handymanmooreok.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73160"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b3b74544-eee2-4d42-b9d3-680b38b52ce5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "One Stop Shop Handyman Services",
+   "category": "Handyman",
+   "phone": "(405) 441-5776",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73160"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c507964a-963e-49a4-96ae-2359f5f9eacc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Redhawk Handyman Services",
+   "category": "Handyman",
+   "phone": "(405) 215-9229",
+   "website": "https://www.redhawkhandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73160"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d368ba38-1446-481c-b5ba-ba1106543e46",
+   "business_id": "553e8b2c-4649-4677-9f7e-bc40ded2c7b4",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "8ce5de0e-3299-4fe2-9196-34858fd1730b",
+   "business_id": "bd55f603-286d-4477-8826-cdcc8aca0a7c",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "e842a1cb-38ac-4fac-8b18-5c6ee899a1be",
+   "business_id": "7f9d0efa-0198-4bc4-8531-af298ea0de1f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "72925d4d-376b-4f02-9ffa-28f13fc31db8",
+   "business_id": "5ddce05b-f5e3-45ce-b5ee-729c2a83c281",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "1beae947-0ab2-4083-b10b-191fc20223c4",
+   "business_id": "b3b74544-eee2-4d42-b9d3-680b38b52ce5",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "30ed0a4f-aff8-4246-93ed-280345f68266",
+   "business_id": "c507964a-963e-49a4-96ae-2359f5f9eacc",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  }
+ ]
+}

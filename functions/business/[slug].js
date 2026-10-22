@@ -429,6 +429,34 @@ var ZIP_NAMES = {
     '67232': 'Wichita',
     '67235': 'Wichita',
   
+    '73003': 'Edmond',
+    '73007': 'Arcadia',
+    '73012': 'Edmond',
+    '73013': 'Edmond',
+    '73025': 'Edmond',
+    '73034': 'Edmond',
+    '73072': 'Norman',
+    '73084': 'Spencer',
+    '73106': 'Oklahoma City',
+    '73114': 'Oklahoma City',
+    '73116': 'Oklahoma City',
+    '73117': 'Oklahoma City',
+    '73118': 'Oklahoma City',
+    '73120': 'Oklahoma City',
+    '73127': 'Oklahoma City',
+    '73132': 'Oklahoma City',
+    '73139': 'Oklahoma City',
+    '73160': 'Moore',
+    '73162': 'Oklahoma City',
+    '74012': 'Broken Arrow',
+    '74105': 'Tulsa',
+    '74112': 'Tulsa',
+    '74114': 'Tulsa',
+    '74133': 'Tulsa',
+    '74135': 'Tulsa',
+    '74136': 'Tulsa',
+    '74137': 'Tulsa',
+    '74145': 'Tulsa',
 };
 
 function slugify(name) {
@@ -482,7 +510,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261021a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261022a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

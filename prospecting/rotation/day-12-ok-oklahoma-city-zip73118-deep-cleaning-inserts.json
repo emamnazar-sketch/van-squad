@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "725af702-680b-4daa-9d98-074a6b986209",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "What A Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(405) 256-8487",
+   "website": "https://what-a-cleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "de9f6f5f-7a71-4ca2-847c-26738558a71f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "King's Green Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(405) 451-1219",
+   "website": "https://www.kingsgreencleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "14fa3f4d-d094-4539-9386-62d9d2f07f72",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HappyCleans",
+   "category": "Deep cleaning",
+   "phone": "(405) 353-2665",
+   "website": "https://www.happycleans.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "62247ac1-3d2a-4bc2-ac58-bc6de14d54fa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Extreme Clean Solutions LLC",
+   "category": "Deep cleaning",
+   "phone": "(405) 818-1215",
+   "website": "https://extremecleaningsolution.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "22c7e0cb-34e3-4677-ac4b-c89a02c24582",
+   "business_id": "725af702-680b-4daa-9d98-074a6b986209",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "0cb848c6-b08d-41f7-8ec5-090be2775a98",
+   "business_id": "de9f6f5f-7a71-4ca2-847c-26738558a71f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "d8cbeeda-8883-462f-8bd7-1e80df7a98b2",
+   "business_id": "14fa3f4d-d094-4539-9386-62d9d2f07f72",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "5c466069-8d77-4090-8adb-d2e731b2f032",
+   "business_id": "62247ac1-3d2a-4bc2-ac58-bc6de14d54fa",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

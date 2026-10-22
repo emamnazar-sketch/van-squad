@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "49cb5dbc-4570-41da-88bd-2603f3d45ec6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bickett's Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 589-6833",
+   "website": "https://bickettsautodetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73139"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e078ebc8-adb2-4eb9-b147-1a901caa2f08",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Detail Daddy OKC",
+   "category": "Mobile auto detailing",
+   "phone": "(214) 250-4789",
+   "website": "https://detaildaddyokc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73139"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d08f614f-bacb-4c52-852b-ed1be5fadd31",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Infinite Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(572) 522-7777",
+   "website": "https://infinitedetailing.com/benefits-mobile-detailing-oklahoma-city/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73139"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fe8bff44-26e8-4ceb-8757-831e1e146d67",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Michie Auto",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 295-5189",
+   "website": "https://michieauto.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73139"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9d297d4e-48de-4317-bb05-d7965bb09eed",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "John's Mobile Car Detailing OKC",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 673-1101",
+   "website": "https://johnsdetailingokc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73139"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "6d360ebc-f802-46be-a1f7-c7e86bd00f5f",
+   "business_id": "49cb5dbc-4570-41da-88bd-2603f3d45ec6",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "7a05d5af-356d-4a75-9f97-3c082f37342d",
+   "business_id": "e078ebc8-adb2-4eb9-b147-1a901caa2f08",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "0bd73f78-0f70-4875-b4f5-3c5e7fbab170",
+   "business_id": "d08f614f-bacb-4c52-852b-ed1be5fadd31",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "0f72ff3b-ff13-481c-9565-024d141829ff",
+   "business_id": "fe8bff44-26e8-4ceb-8757-831e1e146d67",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "d9ce1af0-94ca-44d4-ac57-ab17d5538e1d",
+   "business_id": "9d297d4e-48de-4317-bb05-d7965bb09eed",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

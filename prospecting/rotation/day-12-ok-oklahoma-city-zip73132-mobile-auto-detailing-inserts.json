@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "0735f0a7-1212-4e31-9d8b-419069bc7924",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elite Mobile Wash Systems",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 971-4750",
+   "website": "http://www.elitemobilewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "62399b2d-81be-435a-a34a-3d77ba6b7368",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ShinePro Mobile Detailing OK",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 939-1550",
+   "website": "https://www.shineproservicesok.com/services/mobile-detailing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d973ceb5-ad5d-4dfe-bedb-ed934d309343",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All Hands on Dash",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 866-3684",
+   "website": "https://allhandsondashokc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1dda1a39-a086-4d01-8cc0-1034264aad00",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "OK Let's Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 989-9344",
+   "website": "https://okletsdetail.com/car-detailing-services/mobile-car-detailing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "be5a72a6-33c7-4b88-a494-4563c5b62b2f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Revive405 Mobile Car Detailing OKC",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 437-1693",
+   "website": "https://www.revive405mobile.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "eb96d943-c974-4e74-b0a7-7eaa9e457f51",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Frogman Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 444-8111",
+   "website": "https://frogmandetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "67ed824d-2275-4663-a24a-ea3023080045",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Prestige Mobile Detailing OKC",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 534-4496",
+   "website": "https://prestigemobiledetailingokc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "45a4366f-e1d4-40b5-99dd-44ed482c2049",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Exclusive Detail and Restyling",
+   "category": "Mobile auto detailing",
+   "phone": "(405) 679-7615",
+   "website": "http://exclusivedetailokc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73132"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "ffbc22cd-60b1-4b68-b198-09b788a49449",
+   "business_id": "0735f0a7-1212-4e31-9d8b-419069bc7924",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "f71d9758-77d9-4a65-8fd8-4327681d25ca",
+   "business_id": "62399b2d-81be-435a-a34a-3d77ba6b7368",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "a7d4d5f7-90d9-4401-92d4-f5e28a2fff4a",
+   "business_id": "d973ceb5-ad5d-4dfe-bedb-ed934d309343",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "c855bfd7-e258-4f8e-b14c-118b23e81de7",
+   "business_id": "1dda1a39-a086-4d01-8cc0-1034264aad00",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "bbb6a697-b0f9-4673-aee6-6c6bed8e3801",
+   "business_id": "be5a72a6-33c7-4b88-a494-4563c5b62b2f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "cbed9564-4c26-4925-bd13-b416d3a1845c",
+   "business_id": "eb96d943-c974-4e74-b0a7-7eaa9e457f51",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "f6f398d4-e912-4318-8ddb-9ec818bef0de",
+   "business_id": "67ed824d-2275-4663-a24a-ea3023080045",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "93c1dba9-7a60-4dfb-93d6-063f573ebef4",
+   "business_id": "45a4366f-e1d4-40b5-99dd-44ed482c2049",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

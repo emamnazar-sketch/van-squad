@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c74a2bb5-50c5-455c-8f9b-a531d0e384fd",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Brian's Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 550-0774",
+   "phone_verified": false,
+   "service_zips": [
+    "74114"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://briansmobiledetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "42cbe9cb-d2e9-4d2f-a050-6208a092865e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Posh Wash Auto",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 984-7666",
+   "phone_verified": false,
+   "service_zips": [
+    "74114"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://poshwashauto.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "87f39690-0f0b-4d1b-be73-3ce9e538609f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "All Hands Mobile Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 924-2621",
+   "phone_verified": false,
+   "service_zips": [
+    "74114"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://allhandsmobileservices.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "b6157aba-8604-4cc1-b239-541c16c44976",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "AutoShine Mobile Car Detailing Tulsa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 714-5694",
+   "phone_verified": false,
+   "service_zips": [
+    "74114"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://autoshinetulsa.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "8560587c-9ea7-4dd7-af56-0552463e32c3",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Upscale Auto Detailing Tulsa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 344-8308",
+   "phone_verified": false,
+   "service_zips": [
+    "74114"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://upscaleautodetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "ab949b43-02e4-40e9-bf45-38c4a0a8d019",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Izzy's Detail",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 853-1633",
+   "phone_verified": false,
+   "service_zips": [
+    "74114"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://izzysdetail.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "c74a2bb5-50c5-455c-8f9b-a531d0e384fd",
+   "id": "52d1cd98-64ba-4559-bf66-62e858e344c4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "42cbe9cb-d2e9-4d2f-a050-6208a092865e",
+   "id": "a6f1c23b-2c3e-4828-ad87-aa4f9834dfa1",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "87f39690-0f0b-4d1b-be73-3ce9e538609f",
+   "id": "85056dc5-5698-4d07-8ab4-5f7374810082",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "b6157aba-8604-4cc1-b239-541c16c44976",
+   "id": "9ad30a15-ad03-4311-a61b-b638559b2fae",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "8560587c-9ea7-4dd7-af56-0552463e32c3",
+   "id": "15a32dc7-50a8-45ca-bacc-41e0a1b2cf46",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "ab949b43-02e4-40e9-bf45-38c4a0a8d019",
+   "id": "93b03ec7-b08d-452e-a26a-c1b0b8ae8c2a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

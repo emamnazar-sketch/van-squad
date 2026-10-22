@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "c4c63d5e-dc21-4afe-8270-a0447b55a5a6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cardinal Pools Of Oklahoma",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(405) 295-0054",
+   "website": "https://www.cardinalaquatechpools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6a21d9fa-e902-42c5-846b-afc49163553f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dillard Pools",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(405) 593-5978",
+   "website": "https://dillardpools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8d7d2219-0f16-471b-ae1c-311e6c904dcb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pristine Pool Cleaning of OKC",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(918) 876-8899",
+   "website": "https://pristinepoolclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f7b949ac-115a-46a4-81db-041b03486bce",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clear Horizon Pools",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(405) 584-8565",
+   "website": "https://clearhorizonpools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5b082517-b27f-4de4-b75d-3a85589e0c98",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ASP - America's Swimming Pool Company of Northwest Oklahoma City",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(405) 548-0927",
+   "website": "https://www.asppoolco.com/northwestoklahomacity/services/pool-cleaning/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0e4de421-e01d-48b9-98a3-286d2b9e0aea",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Johnson Pools",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(405) 840-2291",
+   "website": "http://www.johnsonpools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "73127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "e8b9d5a2-85b3-483a-a3f7-7a73f727a916",
+   "business_id": "c4c63d5e-dc21-4afe-8270-a0447b55a5a6",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "ff289c6c-5dda-4cca-8768-47c51e3d2fa1",
+   "business_id": "6a21d9fa-e902-42c5-846b-afc49163553f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "f348b39a-fc5f-49eb-b00f-6f6b61b3f20b",
+   "business_id": "8d7d2219-0f16-471b-ae1c-311e6c904dcb",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "49ef46fb-7a69-4e52-a23b-40bdb6bfbec5",
+   "business_id": "f7b949ac-115a-46a4-81db-041b03486bce",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "41895b63-9eb8-457d-8c6b-993db09092d8",
+   "business_id": "5b082517-b27f-4de4-b75d-3a85589e0c98",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "a78dbcac-bc39-4e94-b3a7-8277d2b9966d",
+   "business_id": "0e4de421-e01d-48b9-98a3-286d2b9e0aea",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pool cleaning & maintenance at your location"
+  }
+ ]
+}

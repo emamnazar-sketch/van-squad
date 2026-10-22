@@ -447,7 +447,36 @@
     '67232': 'Wichita',
     '67235': 'Wichita',
 
-  };
+  
+    '73003': 'Edmond',
+    '73007': 'Arcadia',
+    '73012': 'Edmond',
+    '73013': 'Edmond',
+    '73025': 'Edmond',
+    '73034': 'Edmond',
+    '73072': 'Norman',
+    '73084': 'Spencer',
+    '73106': 'Oklahoma City',
+    '73114': 'Oklahoma City',
+    '73116': 'Oklahoma City',
+    '73117': 'Oklahoma City',
+    '73118': 'Oklahoma City',
+    '73120': 'Oklahoma City',
+    '73127': 'Oklahoma City',
+    '73132': 'Oklahoma City',
+    '73139': 'Oklahoma City',
+    '73160': 'Moore',
+    '73162': 'Oklahoma City',
+    '74012': 'Broken Arrow',
+    '74105': 'Tulsa',
+    '74112': 'Tulsa',
+    '74114': 'Tulsa',
+    '74133': 'Tulsa',
+    '74135': 'Tulsa',
+    '74136': 'Tulsa',
+    '74137': 'Tulsa',
+    '74145': 'Tulsa',
+};
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
   var SERVICE_GROUPS = [

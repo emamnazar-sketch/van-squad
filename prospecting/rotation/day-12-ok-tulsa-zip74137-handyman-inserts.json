@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "79887777-4188-4449-87b2-0f5a8a6e21fb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Paul's Tulsa Services",
+   "category": "Handyman",
+   "phone": "(918) 960-0481",
+   "website": "https://www.paulstulsaservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b536dbf4-bfa0-473c-a403-20555b0a3e58",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Salas Handyman Services",
+   "category": "Handyman",
+   "phone": "(918) 908-9408",
+   "website": "http://www.salasgroupllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ed811fda-c3ae-4d38-bffb-80f32c47cd5d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HomePro Handyman",
+   "category": "Handyman",
+   "phone": "(918) 818-7767",
+   "website": "https://homeprotulsa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bbfeffe8-648d-4d10-bb9c-119ce7c5fd2f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Acorn Handyman & Co.",
+   "category": "Handyman",
+   "phone": "(918) 261-6934",
+   "website": "https://www.tulsaokhandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "77caca1a-a6e5-4d0a-bccf-2a66ea00794e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "VanCraft Professional Services",
+   "category": "Handyman",
+   "phone": "(918) 492-3406",
+   "website": "http://vancraft.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "632e35ce-8908-4ce4-99b0-37023ff3978b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "JC Handyman & Home Renovations",
+   "category": "Handyman",
+   "phone": "(918) 924-5886",
+   "website": "https://jcrenovationstulsa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74137"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2dc1167e-361a-4282-b689-e91b32de51f1",
+   "business_id": "79887777-4188-4449-87b2-0f5a8a6e21fb",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "4da66260-d343-42aa-a3b9-b636bdcbe644",
+   "business_id": "b536dbf4-bfa0-473c-a403-20555b0a3e58",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "238190e9-d02f-4ace-992b-93e3b420d641",
+   "business_id": "ed811fda-c3ae-4d38-bffb-80f32c47cd5d",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "bb4c7114-d7a9-4e67-87bc-f04e81d95a47",
+   "business_id": "bbfeffe8-648d-4d10-bb9c-119ce7c5fd2f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "661d28a8-4321-4ef5-8d6f-2c984b072858",
+   "business_id": "77caca1a-a6e5-4d0a-bccf-2a66ea00794e",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  },
+  {
+   "id": "9b747897-3a4b-4db8-b37e-60d007679c51",
+   "business_id": "632e35ce-8908-4ce4-99b0-37023ff3978b",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman services at your location"
+  }
+ ]
+}

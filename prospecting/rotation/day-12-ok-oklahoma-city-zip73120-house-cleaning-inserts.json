@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "21ae2a6c-4e88-441f-9dd5-5d3d095c5db1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Thunder Cleaning Services OKC",
+      "category": "House cleaning",
+      "phone": "(405) 972-8473",
+      "website": "https://www.thundercleaningservicesokc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73120"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "876174d5-ac37-4d3f-889c-fc1274f54768",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sweeping Beauty LLC",
+      "category": "House cleaning",
+      "phone": "(405) 916-5198",
+      "website": "https://sweepingbeautyok.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73120"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1b4ae400-ca62-44a5-a295-127a6b167a43",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home Maid Better",
+      "category": "House cleaning",
+      "phone": "(405) 754-5100",
+      "website": "https://homemaidbetter.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73120"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "59700c14-9e22-4494-baa1-0dbd8df76c1d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Beyond Cleaning",
+      "category": "House cleaning",
+      "phone": "(405) 653-9378",
+      "website": "https://beyondjanitorial.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73120"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "511f602a-ff5d-44fe-b269-c424be31e8a5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clutter Free LLC",
+      "category": "House cleaning",
+      "phone": "(405) 779-0469",
+      "website": "http://clutterfreeok.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73120"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5e27910b-e32d-4e39-9384-67ec2f565f10",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pristine Cleaning Professionals",
+      "category": "House cleaning",
+      "phone": "(405) 373-6811",
+      "website": "https://www.pristinecleaningprofessionals.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73120"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "26886375-7079-4722-982d-5e7e3433c1fb",
+      "business_id": "21ae2a6c-4e88-441f-9dd5-5d3d095c5db1",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "760ac6a7-994c-429a-9067-07023bacb646",
+      "business_id": "876174d5-ac37-4d3f-889c-fc1274f54768",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "6572b9bf-81cb-41b7-8d87-352d478db950",
+      "business_id": "1b4ae400-ca62-44a5-a295-127a6b167a43",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "951804d1-13b9-4c8b-9ad4-2247b8e65576",
+      "business_id": "59700c14-9e22-4494-baa1-0dbd8df76c1d",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "b4e1d9ce-967c-4f56-bd0d-be5f4f8bed9d",
+      "business_id": "511f602a-ff5d-44fe-b269-c424be31e8a5",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "e92643d0-4c7f-40a2-9a55-9288fd4793d6",
+      "business_id": "5e27910b-e32d-4e39-9384-67ec2f565f10",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "House cleaning at your location"
+    }
+  ]
+}

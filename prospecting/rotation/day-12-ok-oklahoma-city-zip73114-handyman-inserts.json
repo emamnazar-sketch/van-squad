@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "60e4c676-a0b5-46cf-a3d8-ba10919efdd7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Get'er Done — Handyman Services",
+      "category": "Handyman",
+      "phone": "405-430-5076",
+      "website": "https://geterdone247.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aea9e907-ea22-44d8-b1fe-0e99fc8e1bc5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "J&A Painting and Handyman",
+      "category": "Handyman",
+      "phone": "(405) 437-6470",
+      "website": "https://ja-painting-and-handyman.business.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4cf7b366-b82b-4228-bfe7-a2cae66a8784",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chris Paul Handyman Services",
+      "category": "Handyman",
+      "phone": "(405) 407-3639",
+      "website": "https://chrispaulhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3b7ceead-90d3-4669-99db-0032e6714f83",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "In Motion Handyman Services OKC",
+      "category": "Handyman",
+      "phone": "(405) 757-8427",
+      "website": "https://www.inmotionhandymanokc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a5f7e91-4002-4e6f-8a03-2cec82ba9a52",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BR Handyman Plan",
+      "category": "Handyman",
+      "phone": "405-849-5542",
+      "website": "http://www.brhandymanplan.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5b348456-656f-433a-a029-c27f96a01176",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman OKC",
+      "category": "Handyman",
+      "phone": "(405) 578-5444",
+      "website": "https://handymanservicesokc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "53481cd3-8e22-4384-b403-89961fe584e9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Abundant Home Services",
+      "category": "Handyman",
+      "phone": "(405) 494-4946",
+      "website": "https://abundanthome.services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "73114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "924a37fa-98ce-416a-872a-3998ab162117",
+      "business_id": "60e4c676-a0b5-46cf-a3d8-ba10919efdd7",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "ba26449b-6856-435e-9e0a-54febee33b27",
+      "business_id": "aea9e907-ea22-44d8-b1fe-0e99fc8e1bc5",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "2d3694a2-840c-46f5-a01c-7f720d7d4324",
+      "business_id": "4cf7b366-b82b-4228-bfe7-a2cae66a8784",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "7dd9a686-0e60-41ec-a691-ab1bb48453f5",
+      "business_id": "3b7ceead-90d3-4669-99db-0032e6714f83",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "344c8329-1235-4c51-9186-167917a52501",
+      "business_id": "7a5f7e91-4002-4e6f-8a03-2cec82ba9a52",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "9a531953-6e50-487a-a596-f57853da7f55",
+      "business_id": "5b348456-656f-433a-a029-c27f96a01176",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    },
+    {
+      "id": "0a12e5e1-5bfc-4240-9da4-d74f7b7ae2cc",
+      "business_id": "53481cd3-8e22-4384-b403-89961fe584e9",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Handyman services at your location"
+    }
+  ]
+}

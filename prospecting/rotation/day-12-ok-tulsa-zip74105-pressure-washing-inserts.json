@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "fa2d6f60-4782-439d-99d7-fa8db5ff9091",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "AR Surface Solutions",
+   "category": "Pressure washing",
+   "phone": "(918) 289-4059",
+   "website": "https://arsurfacesolutions.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4444d828-f8ed-4c4b-b707-6126d41c6305",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "918 Pressure Pros LLC",
+   "category": "Pressure washing",
+   "phone": "(918) 600-9391",
+   "website": "https://www.918pressurepros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cee0c83f-7ad4-4f4f-9789-dc01c1815066",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "H2O Tulsa",
+   "category": "Pressure washing",
+   "phone": "(918) 513-1085",
+   "website": "https://h2otulsapressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "328798f3-7a77-462b-a147-dfb07a18f819",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Oklahoma Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(918) 268-9266",
+   "website": "https://oklahomapressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2fb6cb12-b0c1-47cf-b2d4-0eaa17d67622",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "TNK Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(918) 229-3998",
+   "website": "https://www.tnkpressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "15188d67-7f63-4362-b28a-e69ff90f6f18",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "NEO Softwash",
+   "category": "Pressure washing",
+   "phone": "(918) 984-3577",
+   "website": "https://neosoftwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74105"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "5e1ad7f9-6b0f-4269-887d-652a53e971e3",
+   "business_id": "fa2d6f60-4782-439d-99d7-fa8db5ff9091",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "8fa36666-b77a-48d6-b7b8-5967a033263a",
+   "business_id": "4444d828-f8ed-4c4b-b707-6126d41c6305",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "1ae9df1a-7e52-4ea7-9ea1-95d3f3abf577",
+   "business_id": "cee0c83f-7ad4-4f4f-9789-dc01c1815066",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "de57451e-372b-4615-9999-878207376d23",
+   "business_id": "328798f3-7a77-462b-a147-dfb07a18f819",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "10703af3-e0e0-4436-bbd7-8996e46402c6",
+   "business_id": "2fb6cb12-b0c1-47cf-b2d4-0eaa17d67622",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "31c21337-08ab-467d-bcbb-8e651fc6dcb9",
+   "business_id": "15188d67-7f63-4362-b28a-e69ff90f6f18",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

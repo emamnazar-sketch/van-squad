@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "67014c92-4e33-449b-8516-e192564b827c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bathewell Mobile Pet Spa",
+   "category": "Mobile pet grooming",
+   "phone": "(918) 804-7865",
+   "website": "https://www.bathewell.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74012"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "32a39230-aefc-4736-beba-f81d2d787867",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "K9 Clip N Clean",
+   "category": "Mobile pet grooming",
+   "phone": "(972) 802-9388",
+   "website": "https://www.k9clipnclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74012"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c16849f0-64aa-41b2-b522-40bf4228c83a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Scrub A Nub",
+   "category": "Mobile pet grooming",
+   "phone": "(918) 280-8890",
+   "website": "https://scrubanub-tulsa.carrd.co/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "74012"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "9ab52a87-413f-47f0-a790-11fc324f8cb1",
+   "business_id": "67014c92-4e33-449b-8516-e192564b827c",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile pet grooming at your location"
+  },
+  {
+   "id": "2643c516-f7ec-4a43-8b88-23a7356ab6ea",
+   "business_id": "32a39230-aefc-4736-beba-f81d2d787867",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile pet grooming at your location"
+  },
+  {
+   "id": "002dfb02-0c29-48b8-9926-7f18866319df",
+   "business_id": "c16849f0-64aa-41b2-b522-40bf4228c83a",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile pet grooming at your location"
+  }
+ ]
+}

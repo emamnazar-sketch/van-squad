@@ -1,0 +1,121 @@
+{
+ "businesses": [
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "730a2b94-413f-47d0-91a4-1ba1fdd94eb1",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Level Up Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 902-6848",
+   "phone_verified": false,
+   "service_zips": [
+    "74136",
+    "74133",
+    "74137",
+    "74145"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.levelupcleaningtulsa.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "531b5b80-29f3-4752-9209-79ac5a0012b4",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Spruce Up Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 880-2485",
+   "phone_verified": false,
+   "service_zips": [
+    "74136"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://spruceupcleaningco.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "765eea07-e476-41ce-b532-f196f39a6d09",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Impeccable Maids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 812-7221",
+   "phone_verified": false,
+   "service_zips": [
+    "74136"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://impeccablemaids.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "343990a9-eadc-4256-b6fd-e56a1048f60b",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid Joyful Cleaning Co.",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(918) 800-2714",
+   "phone_verified": false,
+   "service_zips": [
+    "74136"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maidjoyful.com/index.html"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "730a2b94-413f-47d0-91a4-1ba1fdd94eb1",
+   "id": "28957d03-4a27-454e-a2ce-b8fcd89b7f66",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "531b5b80-29f3-4752-9209-79ac5a0012b4",
+   "id": "c31936e9-d0f0-4623-8cb3-2bf74c50cd2b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "765eea07-e476-41ce-b532-f196f39a6d09",
+   "id": "902bd198-7b5a-40a7-b6b4-60bdbbae509d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "343990a9-eadc-4256-b6fd-e56a1048f60b",
+   "id": "22268fbf-c249-45f9-b51e-43faeae29b0c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

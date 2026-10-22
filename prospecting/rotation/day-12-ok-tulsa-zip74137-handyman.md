@@ -1,0 +1,40 @@
+# Rotation Day 12 — Oklahoma: Tulsa × Handyman × ZIP 74137
+
+- Researched: 2026-10-22 (nightly rotation, Day 12)
+- Cell note: ZIP 74137 is South Tulsa (Yale/Memorial/Mingo corridor, roughly 71st–101st St). Handyman work is on-site at the customer's home by definition, and each business below confirms in-home / at-location handyman work in its own materials. Category label "Handyman" verified in ~/workspace/van-squad/js/data.js.
+- Sources: each business's own website first, then public listings (Google Business). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers taken from public sources; never invented.
+- Status: PREPARED — batch files only, NOT inserted (coordinator inserts centrally).
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence | Source |
+|---|---|---|---|---|---|---|---|
+| Paul's Tulsa Services | (918) 960-0481 | Handyman | Tulsa | https://www.paulstulsaservices.com/ | paulstulsaservices@gmail.com — https://www.paulstulsaservices.com/ (own website contact block: "PHONE: 918-960-0481 EMAIL: PAULSTULSASERVICES@GMAIL.COM") | High — own site has a dedicated HANDYMAN service, plus carpentry/painting/fences for indoor/outdoor living areas, phone and email printed on the site; Google listing gives its Tulsa address as 10026A S Mingo Rd, Tulsa, OK (South Tulsa, adjacent to 74137) | Business's own website + Google Business listing |
+| Salas Handyman Services | (918) 908-9408 | Handyman | Tulsa | http://www.salasgroupllc.com/ | — none published on its own site that could be verified | High — own site (Salas Group LLC): "Tulsa's Go-To Handyman Service," serving Tulsa and surrounding areas, testimonials describe crew coming to customers' houses for jobs around the house, phone 9189089408 printed on the site; Google listing gives 11100 E 96th St S, Tulsa, OK and lists furniture assembly, TV mounting, painting, drywall, plumbing/electrical and carpentry, fully insured | Business's own website + Google Business listing |
+| HomePro Handyman | (918) 818-7767 | Handyman | Tulsa | https://homeprotulsa.com/ | contact@homeprotulsa.com — https://homeprotulsa.com/ (own website contact block) | High — own site: locally owned in Tulsa, "not a franchise," on-site estimates and written quotes before work starts at the home, comprehensive home repair list, phone (918) 818-7767 and email printed on the site; service areas include Tulsa. Note: its Google listing shows a different phone, (918) 359-3969 — the own-site phone was used per own-site-first rule | Business's own website |
+| Acorn Handyman & Co. | (918) 261-6934 | Handyman | Tulsa | https://www.tulsaokhandyman.com/ | info@acornhandyman.com — https://www.tulsaokhandyman.com/ (own website footer/contact block) | High — own site: handyman services in Tulsa and surrounding areas for homeowners, drywall, windows, doors, painting and small projects at the property, 30+ years serving Tulsa/Jenks/Bixby/Broken Arrow (South Tulsa communities adjoining 74137), phone 918-261-6934 and email on the site; its own address is 1611 South Utica Avenue, Tulsa, OK 74104 | Business's own website |
+| VanCraft Professional Services | (918) 492-3406 | Handyman | Tulsa | http://vancraft.net/ | — none recorded (its own site shows an email link with the address obscured, so no readable address was recorded) | Medium — own site: owner/operator David Van, "Serving Tulsa since 1980," phone 918-492-3406 cell/text on the site, services include mechanical repairs, cabinets & doors, appliances, routine maintenance, painting, assembly of boxed items and maintenance installs at homes; Google listing gives 1610 E 66th St, Tulsa, OK (74136, directly adjacent to 74137) and category Handyman; marked Medium because its site is a broad home-services menu rather than a handyman-only offer | Business's own website + Google Business listing |
+| JC Handyman & Home Renovations | (918) 924-5886 | Handyman | Tulsa | https://jcrenovationstulsa.com/ | — none published on its own site that could be verified | Medium — own site: name and services are explicitly handyman plus home renovations, phone (918) 924-5886 on the site, testimonials describe its handyman coming to customers' homes (garbage disposal replacement, flooring); marked Medium because its own published base address is 7750 E Eagle Dr, Bixby, OK 74008 — Bixby directly adjoins South Tulsa / 74137 and the business markets to the Tulsa area, but its base is not in Tulsa itself | Business's own website |
+
+## Dedupe
+- All prior prospecting files in ~/workspace/van-squad/prospecting/ (including all Day-12 files: Edmond, Moore, Norman, Oklahoma City, and Tulsa ZIP 74133 house cleaning) were grepped for every name and phone in this batch (Paul's Tulsa, Salas, HomePro, Acorn, VanCraft, JC, and phones 960-0481, 908-9408, 818-7767, 359-3969, 261-6934, 492-3406, 924-5886, 499-6100): zero matches. No dedupe skips in this cell.
+- No overlap with the Tulsa 74133 house-cleaning cell: different category and entirely different businesses/phones.
+- Live-database dedupe is handled centrally by the coordinator at insert time.
+
+## Excluded (checked, did not pass the gates)
+- Mr. Handyman of Greater Tulsa ((918) 876-4645) and Ace Handyman Services — EXCLUDED per cell rules: national franchises / lead-gen.
+- House Doctors of East Tulsa ((918) 842-3340) — EXCLUDED: franchise handyman chain.
+- Interstate Residential & Commercial Solutions ((918) 307-2642) — EXCLUDED: its own listing describes itself as a handyman franchise ("Green Country's Largest Handyman Franchise") — franchise, excluded per rules.
+- Handyman Extraordinaire (7600 S Sheridan Rd, Tulsa; (918) 499-6100; myhmx.com) — NOT INCLUDED: its own website could not be fetched/read in this run, so own-materials confirmation was not completed; Google listing alone was not used. Strong candidate for a future cell if its site verifies.
+- My Right Hand Man (3389 S 141st E Ave, Tulsa; (918) 265-0591; handymantulsa-ok.com) — NOT INCLUDED for the same reason: own website could not be fetched in this run.
+- Hydra Total Care ((918) 922-9348) — EXCLUDED on category: its own site is pressure washing / soft wash / exterior cleaning only, no handyman offer.
+- Shepherd's Handyman Services ((405) 747-0606) — EXCLUDED for this cell: own site positions it as a Claremore, OK handyman/remodeling company serving surrounding areas, phone is a 405 (Oklahoma City) area code, and no Tulsa base or 74137 service statement was found.
+- Handy Girl Home Repair — EXCLUDED for this batch: conflicting phone evidence (own Wix site prints 539-777-5441; Google listing shows (918) 210-1751) and no clean own-site confirmation of South Tulsa service.
+- Handyman Can ((918) 697-4871), Rada's Handyman Service ((918) 289-1047), Jane of All Trades, Daniel's Home Repairs — EXCLUDED: no own website / no verifiable own materials confirming handyman work; listing-only records were not used.
+- Large general contractors / remodel-only firms surfaced in search (e.g., Redbud Remodel — bathroom remodel only) — EXCLUDED: no handyman offer.
+
+## ZIP / expansion note
+- No expansion beyond the target ZIP was needed to reach the target count range: 6 qualifying businesses were found for 74137. All six are Tulsa-area operators whose own sites state Tulsa / South Tulsa service; two are based in directly adjacent areas (Acorn serves Jenks/Bixby/Broken Arrow alongside Tulsa; JC is based in adjoining Bixby) — noted per business above.
+- Every business in this batch carries service_zips ["74137"] only. No additional service ZIPs were added, because none of the businesses' own sites publish a stated service-ZIP list; no ZIPs were invented.
+
+## Email leads
+- 3 published emails collected, all from the businesses' own websites: Paul's Tulsa Services — paulstulsaservices@gmail.com; HomePro Handyman — contact@homeprotulsa.com (its site also prints a mailto for homepro@homeprotulsa.com; only the displayed contact address was recorded); Acorn Handyman & Co. — info@acornhandyman.com. See the matching -leads.json. No other business in this cell publishes a readable email on its own site.
