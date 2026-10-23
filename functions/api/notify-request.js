@@ -153,6 +153,22 @@ export async function onRequest({ request, env }) {
     } catch (e) { console.error('notify: listing load failed', e.message); }
   }
 
+  /* ---- Admin alert: Amam sees every real customer request ----
+     Copy to the Van Squads business inbox, added 2026-10-23 on Amam's
+     order. Best-effort only: a failure here must never affect the
+     business notification below. */
+  if (env.RESEND_API_KEY) {
+    try {
+      const adminText = 'New customer quote request on Van Squads.\n\n' +
+        'Business: ' + (biz.name || 'unknown') + (biz.verified ? ' (claimed)' : ' (unclaimed)') + '\n' +
+        'Service: ' + service + '\n' +
+        'Customer ZIP: ' + (reqRow.zip || 'not provided') + '\n' +
+        'Preferred time: ' + (reqRow.preferred_time || 'not specified') + '\n\n' +
+        'Business workspace: https://vansquads.com/#/workspace\n';
+      await resendEmail(env, 'vansquadservices@gmail.com', 'New quote request on Van Squads (admin copy)', adminText);
+    } catch (e) { console.error('notify: admin alert failed', e.detail || e.message); }
+  }
+
   /* ---- Flow A: unclaimed business -> SMS with the claim link ---- */
   if (!biz.verified) {
     if (!biz.phone) return json(200, { sent: 'none', reason: 'no-phone' });
