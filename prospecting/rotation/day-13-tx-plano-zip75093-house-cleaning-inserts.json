@@ -1,0 +1,205 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "aed699e9-6039-4d5d-b92d-050791ce45a2",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Mayers Maid Service",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 231-9250",
+   "phone_verified": false,
+   "service_zips": [
+    "75093"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.maidservicefrisco.net/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "88538da8-0c45-49d3-8b01-f90c4e1968a5",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid in Allen TX Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 317-1867",
+   "phone_verified": false,
+   "service_zips": [
+    "75093",
+    "75024",
+    "75025",
+    "75094"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maidinallentx.com/house-cleaning-services-in-plano-tx/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "39bc917d-3453-4c68-b76b-0319c92a7a0b",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Tailor Maid Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 491-5506",
+   "phone_verified": false,
+   "service_zips": [
+    "75093"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://tailormaidclean.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d637d992-924c-48cc-8125-c853f9eb9619",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Mrs. Clean McKinney",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(972) 529-9948",
+   "phone_verified": false,
+   "service_zips": [
+    "75093"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://mrscleanmckinney.com/house-cleaning-service-plano/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "707e220d-a559-436a-b44c-016b4cfa8e6e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Fresh Detailed Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 835-4937",
+   "phone_verified": false,
+   "service_zips": [
+    "75093"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://freshdetailedcleaningservice.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d336227c-e7f7-43d0-b502-fb700701f331",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Arya Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 898-8908",
+   "phone_verified": false,
+   "service_zips": [
+    "75093"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.aryacleaning.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "18d0ff51-659e-4345-8e24-fb9167fd5dc2",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Bit A Bliss Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 390-3907",
+   "phone_verified": false,
+   "service_zips": [
+    "75093"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.bitabliss.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "aed699e9-6039-4d5d-b92d-050791ce45a2",
+   "id": "5120d97d-963e-4714-b1a7-b94750fb4556",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "88538da8-0c45-49d3-8b01-f90c4e1968a5",
+   "id": "b225692b-ed2b-41ce-856f-7e1b3152450e",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "39bc917d-3453-4c68-b76b-0319c92a7a0b",
+   "id": "d9a710e0-f5b1-46c1-8b84-220cf25653a2",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "d637d992-924c-48cc-8125-c853f9eb9619",
+   "id": "fe614494-9591-4f63-a065-bb2b1f5eef12",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "707e220d-a559-436a-b44c-016b4cfa8e6e",
+   "id": "5dc617d0-8e59-49b4-bd89-823749e03ae0",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "d336227c-e7f7-43d0-b502-fb700701f331",
+   "id": "28e8a2a6-b9ae-4ef2-bd19-44a9ddac7476",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "18d0ff51-659e-4345-8e24-fb9167fd5dc2",
+   "id": "610b97af-56d9-4ac6-97bb-1cc3a37e1333",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

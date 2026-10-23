@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "4bd73b8c-39b5-40b9-bb3a-bc71773400e0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gohlke Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(940) 384-7665",
+      "website": "https://gohlkepools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "76210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7466940e-07f9-4d02-98fb-1fac42ed7ffc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brakefield's Pool Service",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(940) 514-1043",
+      "website": "http://www.bps940.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "76210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "48e63e5e-fc28-4db0-8f7f-db8a0b5c4f37",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Silverback Pool Service",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(940) 594-0191",
+      "website": "http://silverbackpoolserv.wixsite.com/silverback-pools",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "76210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6886266d-73c1-4229-bea9-7e130953e114",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Aquamaid",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(817) 670-2972",
+      "website": "https://spspoolcare.com/pool-services/tx/denton/aquamaid/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "76210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ee43059b-7a41-4c2d-b607-e8e7cabed6fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "My Pool Helper",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(940) 373-5047",
+      "website": "https://www.mypoolhelperntx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "76210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d3015d0d-ab33-4b45-8632-eb11147c444f",
+      "business_id": "4bd73b8c-39b5-40b9-bb3a-bc71773400e0",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "2d577c91-8c71-403f-b7a0-4da1a2f4fdc9",
+      "business_id": "7466940e-07f9-4d02-98fb-1fac42ed7ffc",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "63bf0595-3526-46d3-b0c6-2fd811414020",
+      "business_id": "48e63e5e-fc28-4db0-8f7f-db8a0b5c4f37",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "88c39da0-4984-4a9a-b594-20695f2e6014",
+      "business_id": "6886266d-73c1-4229-bea9-7e130953e114",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "id": "ec42ad07-b61e-4603-bdea-75cd25a06634",
+      "business_id": "ee43059b-7a41-4c2d-b607-e8e7cabed6fa",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "title": "Pool cleaning & maintenance at your location"
+    }
+  ]
+}

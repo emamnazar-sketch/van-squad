@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "0c072088-c8ea-498e-aa11-2fe9a526648c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Frisco Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(469) 600-5988",
+   "website": "https://www.friscocardetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75034"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c3fdfaa9-b1b4-4b72-a8e8-5476dc4b2671",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MTO Auto Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(469) 927-2224",
+   "website": "https://www.mtoautodetailing.org/contact",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75034"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "85c73ba7-ce9f-45a5-a8a6-b142d5c5400f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mobile Detailing Frisco",
+   "category": "Mobile auto detailing",
+   "phone": "(516) 606-6129",
+   "website": "https://mobiledetailingfrisco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75034"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "74765a73-2686-4fbb-94dd-4f82b90da9a7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eagle Eye Mobile Detailing LLC",
+   "category": "Mobile auto detailing",
+   "phone": "(214) 218-2047",
+   "website": "https://www.eagleeyedetailing.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75034"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "cd0a196a-b337-4343-b7a3-311d960e7469",
+   "business_id": "0c072088-c8ea-498e-aa11-2fe9a526648c",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "5a14cfa6-eb84-4c19-a6fe-dc5da3783748",
+   "business_id": "c3fdfaa9-b1b4-4b72-a8e8-5476dc4b2671",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "1cdd2ae4-87b9-4281-a4f8-f6f0dd521022",
+   "business_id": "85c73ba7-ce9f-45a5-a8a6-b142d5c5400f",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "id": "1c2fba37-a6e1-4a5b-b4f8-f38e9a0bdbd6",
+   "business_id": "74765a73-2686-4fbb-94dd-4f82b90da9a7",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

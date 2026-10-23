@@ -1,0 +1,175 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "46222f8d-f73f-4d2f-bcc6-17e6c0e0bbbb",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Mop & Broom",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 585-8622",
+   "phone_verified": false,
+   "service_zips": [
+    "76179",
+    "76106",
+    "76131"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.themopandbroom.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "dd940bad-b013-4197-9ce3-3ee8c68aa391",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Organically Maid",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 781-8407",
+   "phone_verified": false,
+   "service_zips": [
+    "76179",
+    "76102",
+    "76103",
+    "76104",
+    "76105",
+    "76106",
+    "76107",
+    "76108",
+    "76109",
+    "76110",
+    "76111",
+    "76112",
+    "76114",
+    "76115",
+    "76116",
+    "76119",
+    "76120",
+    "76123",
+    "76126",
+    "76129",
+    "76131",
+    "76132",
+    "76133",
+    "76134",
+    "76135",
+    "76137",
+    "76140",
+    "76177"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.organicallymaidcleaning.com/service-area/fort-worth-cleaning-company"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "452b8174-d59d-4251-b966-2c0b7e17fa84",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid Clean",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 402-4400",
+   "phone_verified": false,
+   "service_zips": [
+    "76179"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maidcleantx.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bffc7788-ae64-45d9-a45f-bf399f81eb83",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Jenn's Cleaning Service",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 721-3588",
+   "phone_verified": false,
+   "service_zips": [
+    "76179"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://jennscleaning.services/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "ef94ff39-f7cb-49cb-8bef-1d5eac26c578",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maid Masters TX",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 609-7374",
+   "phone_verified": false,
+   "service_zips": [
+    "76179"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maidmasterstx.com/fort-worth-house-cleaning/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "46222f8d-f73f-4d2f-bcc6-17e6c0e0bbbb",
+   "id": "d8bade5d-7178-42d4-bfc5-7407d1a1570c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "dd940bad-b013-4197-9ce3-3ee8c68aa391",
+   "id": "88483c37-b64f-463d-9623-845be5316230",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "452b8174-d59d-4251-b966-2c0b7e17fa84",
+   "id": "846ee38a-2933-4407-a9c8-02763b5ae60a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "bffc7788-ae64-45d9-a45f-bf399f81eb83",
+   "id": "03062601-2a5d-4449-ab86-873955252094",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "ef94ff39-f7cb-49cb-8bef-1d5eac26c578",
+   "id": "2bb34d6f-89ba-4880-8d51-44b5ea04d51a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "b204a2ab-f492-4e29-aa6d-d9dd891ff526",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Kalina's Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(469) 766-4505",
+   "website": "https://www.kalinaspressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75061"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "35aba544-18cf-44be-a574-8331def0adb4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dallas Paints",
+   "category": "Pressure washing",
+   "phone": "(214) 978-4400",
+   "website": "https://www.dallaspaints.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75061"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e7f3fc9e-f647-46be-8c0a-ad5ea8ea9c96",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Burleson Power Washing",
+   "category": "Pressure washing",
+   "phone": "(682) 558-0022",
+   "website": "https://www.burlesonpowerwashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75061"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "62753772-2efa-45e5-8453-30192637eb56",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dallas Power Wash",
+   "category": "Pressure washing",
+   "phone": "(972) 972-9449",
+   "website": "https://dallaspowerwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75061"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ab2b6355-7e3a-4f93-bd73-b10b83275b10",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cooper's Power Washing Service LLC",
+   "category": "Pressure washing",
+   "phone": "(469) 233-0031",
+   "website": "https://www.cooperspw.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75061"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "b221169f-1990-49dc-9fec-5bfa15cc556f",
+   "business_id": "b204a2ab-f492-4e29-aa6d-d9dd891ff526",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "2ca4782a-46bd-4adf-8f0a-b96b171cb3ef",
+   "business_id": "35aba544-18cf-44be-a574-8331def0adb4",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "780340e2-7fa1-48bc-85b0-83e8ba3d6dec",
+   "business_id": "e7f3fc9e-f647-46be-8c0a-ad5ea8ea9c96",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "d47578b7-9938-4363-ac04-02ad9bcd5530",
+   "business_id": "62753772-2efa-45e5-8453-30192637eb56",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "4097d29a-9236-4a11-8da8-0f17983e5dcc",
+   "business_id": "ab2b6355-7e3a-4f93-bd73-b10b83275b10",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile pet grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "0ce19a27-7784-4534-82a5-7648538d4d08",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Zoomin Groomin The Colony and Lewisville",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 908-2525",
+   "phone_verified": false,
+   "service_zips": [
+    "75067",
+    "75024",
+    "75034",
+    "75056"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.zoomingroomin.com/locations/texas/colony-lewisville/"
+  },
+  {
+   "category": "Mobile pet grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "ba31845c-69c7-4742-bed5-670395ce0c6f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Pet Love Mobile Grooming",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(972) 243-8331",
+   "phone_verified": false,
+   "service_zips": [
+    "75067"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.petlove.com/"
+  },
+  {
+   "category": "Mobile pet grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "d2f65d01-5951-4b04-b554-b448278efd7f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Precious Love Mobile Grooming",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(940) 299-1891",
+   "phone_verified": false,
+   "service_zips": [
+    "75067"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://preciouslovegrooming.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "0ce19a27-7784-4534-82a5-7648538d4d08",
+   "id": "c63ae0eb-16cc-4cd4-a0f4-9155c61fd1a9",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile pet grooming at your location"
+  },
+  {
+   "business_id": "ba31845c-69c7-4742-bed5-670395ce0c6f",
+   "id": "1ce9ff89-7de7-417e-81f2-fed9bfc4351a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile pet grooming at your location"
+  },
+  {
+   "business_id": "d2f65d01-5951-4b04-b554-b448278efd7f",
+   "id": "d3579f21-d7be-4222-be87-8f346e5776e5",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile pet grooming at your location"
+  }
+ ]
+}

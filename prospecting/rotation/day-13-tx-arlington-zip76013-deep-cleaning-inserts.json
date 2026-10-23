@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "541a65af-e97f-4804-90b8-42e548196182",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Love My Maids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 542-0347",
+   "phone_verified": false,
+   "service_zips": [
+    "76013"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://lovemymaids.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "ca013a0b-5518-4574-9ca7-f22eac77e5ae",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Lazy Days Home Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(817) 277-7387",
+   "phone_verified": false,
+   "service_zips": [
+    "76013"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.lazydayshome.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "74fc2c0f-b69b-4554-91a2-fb7f193251e1",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Top Tier Cleaners",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 809-4557",
+   "phone_verified": false,
+   "service_zips": [
+    "76013"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://toptier-cleaners.com/arlington-tx/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "97f42c3f-9343-4eca-9267-7a62932ff568",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Hazel's Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(254) 458-0990",
+   "phone_verified": false,
+   "service_zips": [
+    "76013"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://hazelscleaningsvcs.com/areas-served/arlington/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "63829a42-c7b4-4e0a-9d3f-7b9f56d89cb0",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Metro Sparkle & Shine Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(210) 526-4589",
+   "phone_verified": false,
+   "service_zips": [
+    "76013"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.metrosparkleandshine.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "541a65af-e97f-4804-90b8-42e548196182",
+   "id": "5550e93d-6d08-4b7d-9c01-26c5253bbe37",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "ca013a0b-5518-4574-9ca7-f22eac77e5ae",
+   "id": "d90af7f4-144f-45b6-a98e-07fdb90a2b9c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "74fc2c0f-b69b-4554-91a2-fb7f193251e1",
+   "id": "8ec23ee3-bea4-4eb6-a2b3-b143cdf4f998",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "97f42c3f-9343-4eca-9267-7a62932ff568",
+   "id": "45ce7982-ee06-46e0-bdb1-bfd9064d4bc4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "63829a42-c7b4-4e0a-9d3f-7b9f56d89cb0",
+   "id": "d6ac9492-9e36-4215-8de8-903358e50797",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

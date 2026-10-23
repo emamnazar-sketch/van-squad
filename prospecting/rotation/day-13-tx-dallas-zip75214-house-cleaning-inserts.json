@@ -1,0 +1,231 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "6462135a-99f7-4d88-aff9-5b9b2e9496cf",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Dallas Maids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 487-6669",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://dallasmaids.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "6d9d9216-4478-4b3f-909c-6c12a1b75a4d",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Dallas Housemaids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 277-7031",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.dallashousemaids.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "006ab5b5-faad-40a8-9ed6-5e1183a935cd",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Uptown Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 733-2975",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://uptownc.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "f92f2183-f469-4327-87fb-62b351c3d280",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Emily's Maids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 556-6243",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://emilysmaids.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "f4d2c905-1de1-46f6-95aa-8d292bbb0623",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Vella",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 334-7082",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://vellaclean.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "3a93b127-856b-41bd-96b4-50b52f10d32a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Modern Maids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 430-8860",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://modern-maids.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "fb28fd78-c8ad-483e-aaac-db24fd40364a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "A Hired Hand",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(469) 600-0120",
+   "phone_verified": false,
+   "service_zips": [
+    "75214",
+    "75218"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://ahiredhand.net/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "58c53369-be0e-4dac-8f61-ef14f2ea688f",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sparkly Maids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(214) 903-0014",
+   "phone_verified": false,
+   "service_zips": [
+    "75214"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://sparklymaids.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "6462135a-99f7-4d88-aff9-5b9b2e9496cf",
+   "id": "17c049b8-1e64-4c01-b757-a264f4b02796",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "6d9d9216-4478-4b3f-909c-6c12a1b75a4d",
+   "id": "1bed8ca7-f7c8-4bf9-a7ed-01143c791b10",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "006ab5b5-faad-40a8-9ed6-5e1183a935cd",
+   "id": "18e91b39-02c1-4481-8f3c-c23484a517d1",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "f92f2183-f469-4327-87fb-62b351c3d280",
+   "id": "d1464254-ef7e-4a11-b947-258cdce079b5",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "f4d2c905-1de1-46f6-95aa-8d292bbb0623",
+   "id": "281796f5-8421-41ca-9d73-0e801c87ecc7",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "3a93b127-856b-41bd-96b4-50b52f10d32a",
+   "id": "bb7c06d4-0f97-4b1d-b631-25e14b5f1595",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "fb28fd78-c8ad-483e-aaac-db24fd40364a",
+   "id": "8b95bcd6-2391-49ae-9044-13df1e4ec526",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "58c53369-be0e-4dac-8f61-ef14f2ea688f",
+   "id": "3bed6130-d25f-4af1-97fe-a88178a7a75b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}

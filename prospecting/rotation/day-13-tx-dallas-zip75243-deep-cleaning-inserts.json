@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "2b13caae-19d3-4af8-a11b-6291849ca820",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Gmaids",
+   "category": "Deep cleaning",
+   "phone": "(214) 997-6918",
+   "website": "https://www.gmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75243"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b4160111-7832-4244-9800-8ef7dd2df442",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Triple O's Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(469) 938-3735",
+   "website": "https://tripleoscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75243"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "03320acf-fbbd-4874-b1ac-d1d58252cc58",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dallas Sunrise Maids",
+   "category": "Deep cleaning",
+   "phone": "(214) 971-1094",
+   "website": "https://dallassunrisemaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75243"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "27cf0f39-77f8-4cb0-abbc-0e3ba7e32a6c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid 4 Dallas",
+   "category": "Deep cleaning",
+   "phone": "(469) 713-1207",
+   "website": "https://maid4dallas.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75243"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "910a1048-308e-447c-ae8d-442e746ef7a8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rover House Cleaners",
+   "category": "Deep cleaning",
+   "phone": "(214) 396-6466",
+   "website": "https://www.rovercleaners.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75243"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "a4f13c93-5631-47d8-b06f-b26bc4b14be8",
+   "business_id": "2b13caae-19d3-4af8-a11b-6291849ca820",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "122f2ef2-1e9a-4fda-aa9e-e789afa8f323",
+   "business_id": "b4160111-7832-4244-9800-8ef7dd2df442",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "4cc0dd96-39a9-42ac-874f-8fe59909adf8",
+   "business_id": "03320acf-fbbd-4874-b1ac-d1d58252cc58",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "7c74d55b-5a68-4cf0-87e4-591bf0eddee6",
+   "business_id": "27cf0f39-77f8-4cb0-abbc-0e3ba7e32a6c",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "ade4dfad-36ae-43f4-a521-25a003507dff",
+   "business_id": "910a1048-308e-447c-ae8d-442e746ef7a8",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

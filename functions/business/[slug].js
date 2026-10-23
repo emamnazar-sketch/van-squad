@@ -457,6 +457,59 @@ var ZIP_NAMES = {
     '74136': 'Tulsa',
     '74137': 'Tulsa',
     '74145': 'Tulsa',
+    '75023': 'Plano',
+    '75024': 'Plano',
+    '75025': 'Plano',
+    '75034': 'Frisco',
+    '75043': 'Garland',
+    '75044': 'Garland',
+    '75052': 'Grand Prairie',
+    '75056': 'The Colony',
+    '75061': 'Irving',
+    '75067': 'Lewisville',
+    '75071': 'McKinney',
+    '75080': 'Richardson',
+    '75088': 'Rowlett',
+    '75093': 'Plano',
+    '75094': 'Plano',
+    '75150': 'Mesquite',
+    '75182': 'Sunnyvale',
+    '75206': 'Lower Greenville, Dallas',
+    '75214': 'Lakewood, Dallas',
+    '75218': 'White Rock, Dallas',
+    '75243': 'Lake Highlands, Dallas',
+    '76013': 'Arlington',
+    '76018': 'Arlington',
+    '76102': 'Downtown Fort Worth',
+    '76103': 'Fort Worth',
+    '76104': 'Near Southside, Fort Worth',
+    '76105': 'Fort Worth',
+    '76106': 'Northside, Fort Worth',
+    '76107': 'West Fort Worth',
+    '76108': 'Fort Worth',
+    '76109': 'Fort Worth',
+    '76110': 'Fort Worth',
+    '76111': 'Fort Worth',
+    '76112': 'East Fort Worth',
+    '76114': 'Fort Worth',
+    '76115': 'Fort Worth',
+    '76116': 'West Fort Worth',
+    '76119': 'Fort Worth',
+    '76120': 'East Fort Worth',
+    '76123': 'Fort Worth',
+    '76126': 'Benbrook',
+    '76129': 'Fort Worth',
+    '76131': 'Saginaw',
+    '76132': 'Southwest Fort Worth',
+    '76133': 'Fort Worth',
+    '76134': 'Fort Worth',
+    '76135': 'Lake Worth',
+    '76137': 'North Fort Worth',
+    '76140': 'Kennedale',
+    '76177': 'North Fort Worth',
+    '76179': 'Saginaw',
+    '76210': 'Denton',
+    '76244': 'Keller',
 };
 
 function slugify(name) {
@@ -510,7 +563,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261022a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261023a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

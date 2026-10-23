@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "154a2aae-3938-4a38-b49d-b1aa50823a91",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Custom Handymen Services",
+   "category": "Handyman",
+   "phone": "(469) 406-6064",
+   "website": "http://www.customhandymen.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75071"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fb96a734-4ab6-425d-9abb-7e090ca8bf3c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "We Do 4 U Construction Services",
+   "category": "Handyman",
+   "phone": "(469) 551-9966",
+   "website": "http://wedo-4u.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75071"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "afbc48ce-280a-4bae-8d88-99c0775a3296",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handy&Man - Handyman Services",
+   "category": "Handyman",
+   "phone": "(469) 452-7454",
+   "website": "http://handytx.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75071"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6ea1da2e-554a-4b7f-a035-9d12926b6d2c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Little Handyman",
+   "category": "Handyman",
+   "phone": "(214) 305-5348",
+   "website": "http://www.thelittlehandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75071"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1da4e493-5481-4324-8d09-269b8a802a9d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HandyBen",
+   "category": "Handyman",
+   "phone": "(469) 267-9908",
+   "website": "http://www.handy-ben.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75071"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "dab40507-0cae-4658-a86a-5cb7004a8355",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A1 General Home Repair",
+   "category": "Handyman",
+   "phone": "(972) 489-1950",
+   "website": "https://a1generalhomerepair.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "75071"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "8220cd9f-d460-4481-b293-d57eb69c9cd2",
+   "business_id": "154a2aae-3938-4a38-b49d-b1aa50823a91",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman service visit"
+  },
+  {
+   "id": "45a347b7-6b2f-42d1-894a-02703cc66e47",
+   "business_id": "fb96a734-4ab6-425d-9abb-7e090ca8bf3c",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman service visit"
+  },
+  {
+   "id": "34b07dc0-f086-4d0f-a08f-b18a9d42ce7b",
+   "business_id": "afbc48ce-280a-4bae-8d88-99c0775a3296",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman service visit"
+  },
+  {
+   "id": "7a504cc0-981b-4936-88c2-28b89d0131a1",
+   "business_id": "6ea1da2e-554a-4b7f-a035-9d12926b6d2c",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman service visit"
+  },
+  {
+   "id": "263fc486-a8fb-4a3d-aad8-9d25d44d2b8a",
+   "business_id": "1da4e493-5481-4324-8d09-269b8a802a9d",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman service visit"
+  },
+  {
+   "id": "7ee60a04-feec-47d7-80dc-2228b3dd8804",
+   "business_id": "dab40507-0cae-4658-a86a-5cb7004a8355",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false,
+   "title": "Handyman service visit"
+  }
+ ]
+}
