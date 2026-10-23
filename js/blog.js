@@ -714,6 +714,59 @@
         '<div class="disclosure">' +
         '<strong>Sources (2026 pricing data).</strong> 5Estimates, "Electrician Cost in 2026: Hourly Rates &amp; Price List Calculator" (5estimates.com); Angi, "How Much Does An Electrician Cost?" (angi.com).' +
         '</div>'
+    },
+    {
+      slug: 'can-i-stay-and-watch-my-dog-during-mobile-grooming',
+      title: 'Can I Stay and Watch My Dog During Mobile Grooming?',
+      date: '2026-10-23',
+      category: 'Pet Grooming',
+      excerpt: 'In most cases, no \u2014 most mobile groomers keep owners out of the van during the groom, for safety and insurance reasons. What to do instead: tour the van first, hand over in person, and wait for the text.',
+      metaDescription: 'Most mobile groomers cannot let you watch the groom \u2014 safety and insurance. What you can do instead, the exceptions, and how long you will wait.',
+      readTime: '4 min read',
+      updated: '2026-10-23',
+      related: ['mobile-dog-grooming-cost-vs-salon', 'how-much-to-tip-mobile-car-detailer'],
+      images: [
+        { src: 'images/blog/can-i-stay-and-watch-my-dog-during-mobile-grooming-hero.jpg', alt: 'Mobile groomer holding open the doors of an empty, clean grooming van in a sunny driveway while the owner looks inside on a pre-groom tour, her small dog waiting calmly on a leash beside her', caption: 'You usually cannot watch the groom \u2014 but a tour of the van before it starts is standard. Ask for one.' },
+        { src: 'images/blog/can-i-stay-and-watch-my-dog-during-mobile-grooming-waiting.jpg', alt: 'Owner working at a bright kitchen table at home, phone face-up on the table beside her laptop, the grooming van parked outside visible through the glass doors behind her', caption: 'Text, do not knock \u2014 a knock at the van window can startle your dog mid-groom and make them hard to settle again.' },
+        { src: 'images/blog/can-i-stay-and-watch-my-dog-during-mobile-grooming-return.jpg', alt: 'Groomer handing a freshly groomed, clean dog back to its smiling owner at the home\u2019s front door, grooming van parked at the curb behind them', caption: 'Be home for the return \u2014 that is your moment to check the groom together and flag anything on the spot.' }
+      ],
+      tldr: 'In most cases, no \u2014 most mobile groomers do not let owners stay in the van, or watch from the van door, while grooming is in progress. It is a safety and insurance rule, not a trust issue: a dog that can see or hear its owner twists toward them while shears are near its skin. What you can do is tour the van before the groom starts, hand your dog over in person, and get a text when it is done \u2014 a typical mobile groom takes 1\u20132 hours.',
+      faq: [
+        { q: 'Can I stay and watch my dog during mobile grooming?', a: 'In most cases, no. Most mobile groomers bar owners from the van during a groom for safety and insurance reasons, and because dogs twist toward their owners while sharp tools are near their skin.' },
+        { q: 'Can I tour the grooming van before the appointment?', a: 'Yes \u2014 most groomers offer exactly this. Broadmoor and Mobile Pet Grooming AZ both invite a tour and your questions before the groom begins, and Groombuggy allows a look inside before and after.' },
+        { q: 'Can I check on my dog halfway through the groom?', a: 'By text or call, yes \u2014 by knocking, no. A knock or your voice at the window can startle your dog and makes it very hard for the groomer to settle them again; some groomers charge extra if an interruption runs the session over.' },
+        { q: 'Will my presence calm my anxious dog during grooming?', a: 'Usually the opposite. Most dogs strain toward their owner, raising excitement and movement at the worst moments. The calm of a mobile groom comes from one-on-one attention, no other dogs, no kennel \u2014 your dog settles faster once you step away after handover.' },
+        { q: 'Do I need to stay home during a mobile grooming appointment?', a: 'Be there to hand your dog over and receive them at the end, and stay home and reachable throughout \u2014 especially on a first visit. What groomers do not need is an audience in the van.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>Why do most mobile groomers say no?</h3>' +
+        '<p>For two reasons that come up in policy after policy: safety, and your dog\u2019s behaviour.</p>' +
+        '<ul class="check-list">' +
+        '<li><strong>Safety and insurance.</strong> Broadmoor Mobile Dog Grooming states it plainly: it is against policy for clients to observe pets or enter the van during a groom, for insurance reasons and safety factors including water slippage, loose hoses, and electrical connections. Mobile Pet Grooming AZ gives the same answer \u2014 safety and insurance liability mean family members cannot be in the mobile salon during the appointment.</li>' +
+        '<li><strong>Your dog will work against the groom.</strong> Broadmoor notes a pet may get excited or anxious at its owner\u2019s presence, twisting to look at you or reach you \u2014 which makes the dog hard to manage, affects the final cut, and is unsafe when shears are near sensitive skin.</li>' +
+        '</ul>' +
+        '<h3>What happens if you knock or peek in mid-groom?</h3>' +
+        '<p>Do not \u2014 this is the request groomers repeat most. Mobile Pet Grooming AZ asks owners not to knock on the door or windows once grooming has begun: the tools are sharp, a startled dog can be hurt, and once a dog has seen or heard its owner it is extremely hard to get it back to the relaxed state grooming needs. Call or text instead. Groombuggy\u2019s policy adds: keep other pets and children inside, and expect extra fees if an interruption pushes the session into overtime.</p>' +
+        '{{img:1}}' +
+        '<h3>What can you do instead of watching?</h3>' +
+        '<p>Almost everything that builds trust is available \u2014 before and after, not during:</p>' +
+        '<ul class="check-list">' +
+        '<li><strong>Tour the van before the first groom.</strong> Broadmoor and Mobile Pet Grooming AZ both offer this: see the tub, table, and tools, and ask your questions before your dog goes in. Groombuggy likewise invites a peek inside before and after.</li>' +
+        '<li><strong>Use the handover.</strong> Meet the groomer in person and pass on what matters: sensitive spots, health issues, behaviour triggers, and the cut you want.</li>' +
+        '<li><strong>Ask about updates at booking.</strong> Confirm the groomer will text when done \u2014 and text, never knock, if you need them mid-groom.</li>' +
+        '<li><strong>Stay home and reachable for the first appointment.</strong> Be there for the return so you can check the groom together and flag anything on the spot.</li>' +
+        '</ul>' +
+        '<h3>Are there any exceptions?</h3>' +
+        '<p>Rarely, and only when the groomer asks. The exception groomers describe is the groomer inviting an owner to help settle a dog that cannot otherwise be groomed safely. That is the groomer\u2019s call, case by case \u2014 never the default, and a glass viewing wall like some big salons have does not exist in a van. If watching matters to you, ask before you book, not when the van is in your driveway.</p>' +
+        '{{img:2}}' +
+        '<h3>How long will you be waiting?</h3>' +
+        '<p>Most mobile grooms take <strong>1\u20132 hours</strong> \u2014 Mobile Pet Grooming AZ\u2019s range \u2014 and <strong>1.5\u20133 hours</strong> at Broadmoor for larger dogs, heavy coats, or extra services. That is still far shorter than a salon drop-off day, because your dog is the only dog in the van: no kennel wait, no queue, and one groomer start to finish. That one-on-one setup is also why mobile grooming suits anxious dogs \u2014 no other animals, no cage time, one familiar person throughout.</p>' +
+        '<p>Wherever you live, enter your ZIP on Van Squads to compare mobile groomers near you \u2014 and check each groomer\u2019s policy on tours and updates before you book, so you know exactly what to expect on the day.</p>' +
+        '<p>Want the full picture on the service itself? Read our <a href="/services/mobile-pet-grooming/">mobile pet grooming guide</a>.</p>' +
+        '<div class="disclosure">' +
+        '<strong>Sources.</strong> Abby\u2019s Mobile Grooming, "Mobile Dog Grooming That Comes Straight to You" (medium.com); Broadmoor Mobile Dog Grooming, FAQ (broadmoormobilegrooming.com); Mobile Pet Grooming AZ, FAQ (mobilepetgroomingaz.com); Groombuggy, "Grooming Van Privacy" policy (groombuggy.com); Boops n Bubbles, "Why Anxious Dogs Do Better with a Mobile Groomer" (boopsnbubbles.com).' +
+        '</div>'
     }
   ];
 
