@@ -326,9 +326,18 @@
     async _sb() { return loadSupabaseLib(); },
     async listBusinesses() {
       var sb = await this._sb();
-      var res = await sb.from('businesses').select('*, listings(*), reviews(*)').eq('status', 'active').order('created_at');
-      if (res.error) throw res.error;
-      return res.data.map(toBiz);
+      /* Supabase caps every response at 1,000 rows — page through ALL active
+         businesses or browse/search silently drops everything past row 1,000.
+         Directory passed 1,000 rows on Day 13 (2026-10-23); fixed Day 14. */
+      var all = [], from = 0;
+      while (from < 10000) {
+        var res = await sb.from('businesses').select('*, listings(*), reviews(*)').eq('status', 'active').order('created_at').range(from, from + 999);
+        if (res.error) throw res.error;
+        all = all.concat(res.data);
+        if (res.data.length < 1000) break;
+        from += 1000;
+      }
+      return all.map(toBiz);
     },
     async getBusiness(slugOrId) {
       var all = await this.listBusinesses();

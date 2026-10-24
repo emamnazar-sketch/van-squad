@@ -594,14 +594,26 @@ function sbHeaders(env) {
   return { apikey: env.SUPABASE_ANON_KEY, Authorization: 'Bearer ' + env.SUPABASE_ANON_KEY };
 }
 async function fetchActiveBusinesses(env) {
-  var base = env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&order=created_at.asc&limit=1000';
-  var res = await fetch(base + '&select=id,name,category,description,phone,website,service_zips,verified,created_at,logo_url,banner_url', { headers: sbHeaders(env) });
-  if (!res.ok) {
-    /* banner_url arrives with the 2026-10-18 migration; fall back gracefully */
-    res = await fetch(base + '&select=id,name,category,description,phone,website,service_zips,verified,created_at,logo_url', { headers: sbHeaders(env) });
+  /* Supabase REST caps every response at 1,000 rows — page through ALL active
+     businesses or every profile past the first 1,000 (by created_at) 404s.
+     Directory passed 1,000 rows on Day 13 (2026-10-23); fixed Day 14. */
+  var select = 'id,name,category,description,phone,website,service_zips,verified,created_at,logo_url,banner_url';
+  var all = [], offset = 0;
+  while (offset < 10000) {
+    var base = env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&order=created_at.asc&limit=1000&offset=' + offset;
+    var res = await fetch(base + '&select=' + select, { headers: sbHeaders(env) });
+    if (!res.ok && select.indexOf('banner_url') >= 0) {
+      /* banner_url arrives with the 2026-10-18 migration; fall back gracefully */
+      select = select.replace(',banner_url', '');
+      res = await fetch(base + '&select=' + select, { headers: sbHeaders(env) });
+    }
+    if (!res.ok) return null;
+    var page = await res.json();
+    all = all.concat(page);
+    if (page.length < 1000) break;
+    offset += 1000;
   }
-  if (!res.ok) return null;
-  return res.json();
+  return all;
 }
 function buildSlugMap(rows) {
   var map = new Map();
@@ -633,7 +645,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261024a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261024b">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
