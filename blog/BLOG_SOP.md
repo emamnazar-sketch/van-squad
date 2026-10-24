@@ -52,3 +52,35 @@ Customer-question posts that rank on Google/AI search and convert both sides of 
 - Render-test in Node (viewPost output: CTA present, 5 FAQs, no broken markup) before committing.
 - Visual check in the browser before any push.
 - Publishing rides the normal deploy — never push a post alone on Netlify (credit freeze); posts go live with the Cloudflare migration push after Oct 3.
+
+## City Visibility Series (Amam, 2026-10-23 — replaces the generic daily draft)
+
+The blog's main engine from Oct 24, 2026: **3 drafts a day (morning / noon / evening)**, each one a
+city-targeted visibility post. This series exists to get vansquads.com FOUND — the Apex Locals model:
+keyword-first, written for the exact search a customer types. Amam approves every draft in chat;
+nothing builds or publishes without his approval.
+
+- **One metro × one category per post**, picked in priority order from the coverage grid
+  (~/workspace/goals/van-squad-directory-website/hidden_files/blog-city-coverage.md). Shared ledger:
+  ~/workspace/goals/van-squad-directory-website/hidden_files/blog-city-state.md — read it before
+  picking a cell, append your row after drafting. Never repeat a metro × category cell; never
+  feature the same business twice.
+- **Keyword research FIRST, every post:** find the primary customer-intent query (the title IS that
+  question, city included — e.g. "How much does house cleaning cost in Sacramento?") plus 5–8
+  supporting queries (city + service variants, "near me" forms, neighborhood names). Record them in
+  the draft frontmatter with the source of the question and a confidence level.
+- **Genuinely local, never a template swap:** local price data from city-specific sources
+  (Care.com/HomeGuide/Thumbtack city pages) whenever it exists; the metro's neighborhoods and the
+  ZIPs we actually cover named in the body; a local angle in at least two sections. If a fact has no
+  local source, present the national figure AS national — never dress it up as local.
+- **Featured business (every post):** ONE real business from the directory in that metro + category,
+  named in its own short section, linked to its profile (https://vansquads.com/business/<slug>).
+  Directory facts only (name, area, category, service ZIPs) — never invent ratings, prices, or
+  claims for them. Plus: a link to the metro's browse search (a covered ZIP) and, where natural, one
+  sibling-category post or browse link in the same metro (the link mesh).
+- **Structure** follows the standard post structure above (short-answer box, sourced price table,
+  5 FAQs, disclosure, sources) and stays ≤1,000 words / 5-minute read, with 2–3 planned images
+  noted in the draft (simple, ultra-realistic, bright — the standing image hard rule; new scenes,
+  never repeated from an earlier post).
+- **The old generic nationwide daily draft is retired** (job disabled Oct 23, 2026). The 8 existing
+  nationwide posts stay live; this series is all new production.
