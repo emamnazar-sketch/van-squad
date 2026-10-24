@@ -6364,5 +6364,722 @@
   "image": "images/business/lone-star-exterior-llc.jpg",
   "scene": "Worker pressure washing a backyard patio slab beneath a raised wooden deck in late-afternoon light, chairs stacked by the fence",
   "created": "2026-10-23"
+ },
+ "57695aab-e264-4710-8f8d-9b250e633211": {
+  "business": "Tidy Home Cleaning Services, Inc.",
+  "image": "images/business/tidy-home-cleaning-services-inc.jpg",
+  "scene": "Cleaner vacuuming a light living-room rug beside a sofa in front of large sunny windows",
+  "created": "2026-10-24"
+ },
+ "7edd9523-e78a-4ce2-8737-a0cd726437f5": {
+  "business": "Sharp Cleaning",
+  "image": "images/business/sharp-cleaning.jpg",
+  "scene": "Cleaner flat-mopping a bright white kitchen tile floor, mop bucket beside the island",
+  "created": "2026-10-24"
+ },
+ "70587598-f112-4a34-9e22-ee375b8a93bb": {
+  "business": "Holy Maid",
+  "image": "images/business/holy-maid.jpg",
+  "scene": "Cleaner wiping a white bathroom vanity counter with a cloth, bathtub and large mirror behind",
+  "created": "2026-10-24"
+ },
+ "49d61b6a-f71c-4e6f-b587-789e72a60f7c": {
+  "business": "Texas Nova Cleaning",
+  "image": "images/business/texas-nova-cleaning.jpg",
+  "scene": "Cleaner smoothing a plain cream bedspread while making a bed in a bright windowed bedroom",
+  "created": "2026-10-24"
+ },
+ "22108528-cd42-4365-9c44-022e42801221": {
+  "business": "Houston Signature Maids",
+  "image": "images/business/houston-signature-maids.jpg",
+  "scene": "Woman cleaner wiping a granite kitchen island countertop in a bright modern kitchen",
+  "created": "2026-10-24"
+ },
+ "4c722991-ce30-48f4-8804-5e3f1ef28f51": {
+  "business": "Houston Cleaning Services",
+  "image": "images/business/houston-cleaning-services.jpg",
+  "scene": "Man cleaner vacuuming a light rug in a bright sunlit living room",
+  "created": "2026-10-24"
+ },
+ "39cdc28f-abf4-4975-8e3c-41fc2370f8b6": {
+  "business": "Great Expectations Cleaning",
+  "image": "images/business/great-expectations-cleaning.jpg",
+  "scene": "Woman cleaner wiping a bathroom vanity counter beside the sink in a bright bathroom",
+  "created": "2026-10-24"
+ },
+ "1b1bafea-5516-4b24-9d75-43b571bd70d7": {
+  "business": "Lolli Maids",
+  "image": "images/business/lolli-maids.jpg",
+  "scene": "Woman cleaner smoothing white bed linens while making a bed in a bright bedroom",
+  "created": "2026-10-24"
+ },
+ "19bc3af2-2add-4737-aaa6-40cccaebc58a": {
+  "business": "Barwash",
+  "image": "images/business/barwash.jpg",
+  "scene": "Worker polishing the hood of a white pickup truck with an orbital polisher in a bright driveway",
+  "created": "2026-10-24"
+ },
+ "3c0fb961-1929-42ea-92c8-956176e92536": {
+  "business": "Bubbly",
+  "image": "images/business/bubbly.jpg",
+  "scene": "Worker hand-washing the soapy side door of a black SUV with a wash mitt, bucket on the driveway",
+  "created": "2026-10-24"
+ },
+ "53094b4f-cc86-4f70-986e-8346f7af30c0": {
+  "business": "Azul Auto Detailing",
+  "image": "images/business/azul-auto-detailing.jpg",
+  "scene": "Worker kneeling beside the open door vacuuming the interior of a red coupe, wide driveway shot",
+  "created": "2026-10-24"
+ },
+ "4afa4933-aa27-4a00-9548-debf87cf1521": {
+  "business": "Huios Detailing",
+  "image": "images/business/huios-detailing.jpg",
+  "scene": "Worker wiping the windshield and hood edge of a silver sedan with a microfiber cloth",
+  "created": "2026-10-24"
+ },
+ "bdd47179-f08a-46b9-821e-42d38cdcdd7b": {
+  "business": "Southern Suds Mobile Detailing",
+  "image": "images/business/southern-suds-mobile-detailing.jpg",
+  "scene": "Worker spraying soapy foam onto a silver sedan in a brick-home driveway under an oak tree",
+  "created": "2026-10-24"
+ },
+ "06cea99b-1bb9-4d9e-b941-351df084352c": {
+  "business": "Auto Doctor Detailing",
+  "image": "images/business/auto-doctor-detailing.jpg",
+  "scene": "Woman polishing the hood of a dark blue SUV with an orbital polisher in a driveway",
+  "created": "2026-10-24"
+ },
+ "4910a678-851c-41c6-8b5c-4acd6a41d7ec": {
+  "business": "Bee Deep Cleaning",
+  "image": "images/business/bee-deep-cleaning.jpg",
+  "scene": "Worker vacuuming the beige back seat of a white sedan through its open rear door",
+  "created": "2026-10-24"
+ },
+ "16978bf6-80cc-4813-8f51-132f6b6bf958": {
+  "business": "K&L Handyman LLC",
+  "image": "images/business/k-l-handyman-llc.jpg",
+  "scene": "Handyman kneeling on a brick porch with a screwdriver on the lower hinge of the open wooden front door",
+  "created": "2026-10-24"
+ },
+ "8478eb84-1413-4b69-b636-1b7fc9644b7a": {
+  "business": "Your Handyman 911",
+  "image": "images/business/your-handyman-911.jpg",
+  "scene": "Handyman tightening a front storm-door hinge with a cordless drill on a brick house porch",
+  "created": "2026-10-24"
+ },
+ "cb4d1d1e-7726-4d67-9be8-4439f959fb2b": {
+  "business": "DIFY Pest control & Handyman Services",
+  "image": "images/business/dify-pest-control-handyman-services.jpg",
+  "scene": "Handyman tightening a kitchen faucet base with an adjustable wrench at a bright double sink",
+  "created": "2026-10-24"
+ },
+ "0e13a745-3769-4fdb-9ca7-3fdf814a0d1a": {
+  "business": "Jobman Jones",
+  "image": "images/business/jobman-jones.jpg",
+  "scene": "Handyman securing a new wooden fence board with a cordless drill in a sunny backyard",
+  "created": "2026-10-24"
+ },
+ "5b0e3a2a-a5ef-42e5-aabf-ca6b1dbd7ca6": {
+  "business": "Mr Nice Guy Handyman Services",
+  "image": "images/business/mr-nice-guy-handyman-services.jpg",
+  "scene": "Handyman smoothing joint compound over a hallway drywall patch with a putty knife",
+  "created": "2026-10-24"
+ },
+ "958402c3-81fa-4feb-b478-1b513e4bbd00": {
+  "business": "JS Home Repairs",
+  "image": "images/business/js-home-repairs.jpg",
+  "scene": "Handyman kneeling with a wrench under an open kitchen sink cabinet in a bright home",
+  "created": "2026-10-24"
+ },
+ "704da026-b1fb-477e-8180-a5012dfb4023": {
+  "business": "Greenline Value Construction",
+  "image": "images/business/greenline-value-construction.jpg",
+  "scene": "Handyman on a step ladder installing a ceiling fan in a bright living room",
+  "created": "2026-10-24"
+ },
+ "7ed25be4-3d56-4cbe-92fd-e1261b2597ce": {
+  "business": "Alvin's Affordable Services",
+  "image": "images/business/alvin-s-affordable-services.jpg",
+  "scene": "Handyman crouching with a screwdriver fixing a wooden front door hinge at a sunny house entrance",
+  "created": "2026-10-24"
+ },
+ "3b325586-f9f5-4600-96bf-14733a66aaaf": {
+  "business": "Feather Touch Grooming",
+  "image": "images/business/feather-touch-grooming.jpg",
+  "scene": "Woman groomer brushing a dog beside a plain white unbranded grooming van in a suburban driveway",
+  "created": "2026-10-24"
+ },
+ "0cb63a33-fa99-4497-8fd8-d72d20df4153": {
+  "business": "Paws on Wheels Houston",
+  "image": "images/business/paws-on-wheels-houston.jpg",
+  "scene": "Female groomer brushing a golden retriever on a grooming table beside an open white unbranded van",
+  "created": "2026-10-24"
+ },
+ "e0bffe8e-ae03-417d-908a-0ae8d1ee7085": {
+  "business": "Mobile Pet Salon",
+  "image": "images/business/mobile-pet-salon.jpg",
+  "scene": "Male groomer trimming a small white poodle on a grooming table beside a plain light-gray unbranded van",
+  "created": "2026-10-24"
+ },
+ "a0aef5e5-3c91-47b0-88b6-be44f9750956": {
+  "business": "Haute Pets Mobile Grooming",
+  "image": "images/business/haute-pets-mobile-grooming.jpg",
+  "scene": "Female groomer towel-drying a French bulldog on a grooming table beside a white unbranded van",
+  "created": "2026-10-24"
+ },
+ "7dd527dd-90c5-4e90-a556-4c5ea812e86e": {
+  "business": "Kontota of Central Houston",
+  "image": "images/business/kontota-of-central-houston.jpg",
+  "scene": "Male groomer rinsing an Australian shepherd in a portable outdoor tub beside a silver unbranded van",
+  "created": "2026-10-24"
+ },
+ "947f3d47-2b13-412d-99fe-47f893cb221f": {
+  "business": "Petbox Mobile Grooming",
+  "image": "images/business/petbox-mobile-grooming.jpg",
+  "scene": "White grooming van with open grooming bay in a driveway, groomer holding a leashed doodle beside it",
+  "created": "2026-10-24"
+ },
+ "f843f795-556e-495e-a19f-6e54c58e03f6": {
+  "business": "Miller Pressure Washing LLC",
+  "image": "images/business/miller-pressure-washing-llc.jpg",
+  "scene": "Worker pressure washing a uniform wet concrete driveway with a brick home behind",
+  "created": "2026-10-24"
+ },
+ "62ad05d7-ba0f-4978-80e4-6dca072096f4": {
+  "business": "Cypress Pro Wash",
+  "image": "images/business/cypress-pro-wash.jpg",
+  "scene": "Worker spraying the uniform beige siding of a house exterior, ladder leaning at the side",
+  "created": "2026-10-24"
+ },
+ "0d20c4f0-c64a-4503-8564-34de1ceae32e": {
+  "business": "Pressure Washing Cypress",
+  "image": "images/business/pressure-washing-cypress.jpg",
+  "scene": "Worker pressure washing a uniform wet wooden backyard deck",
+  "created": "2026-10-24"
+ },
+ "7d8ef51e-a123-47df-b2a4-c53e65d4d987": {
+  "business": "Next Gen Wash Pros",
+  "image": "images/business/next-gen-wash-pros.jpg",
+  "scene": "Worker pressure washing a uniformly wet concrete driveway in front of a single-story brick home",
+  "created": "2026-10-24"
+ },
+ "73b9d98a-d839-4953-88ea-5d42cfbce0a2": {
+  "business": "J Calvin Pressure Washing",
+  "image": "images/business/j-calvin-pressure-washing.jpg",
+  "scene": "Worker spraying the light siding wall of a two-story suburban house, ladder leaning against the wall",
+  "created": "2026-10-24"
+ },
+ "d17bef86-c721-4a24-bd7e-24566153e7d5": {
+  "business": "Texas Premier Pressure Washing",
+  "image": "images/business/texas-premier-pressure-washing.jpg",
+  "scene": "Worker spraying a tall wooden privacy fence in a backyard, brick house and patio behind",
+  "created": "2026-10-24"
+ },
+ "f2b21111-71d4-49f7-a4d2-e1ebff0f7873": {
+  "business": "Houston Build Crew",
+  "image": "images/business/houston-build-crew.jpg",
+  "scene": "Worker pressure washing the concrete front walkway of a ranch-style home",
+  "created": "2026-10-24"
+ },
+ "fe11a7c0-e227-4660-a186-5f0dee803933": {
+  "business": "Nabors Pools",
+  "image": "images/business/nabors-pools.jpg",
+  "scene": "Technician skimming a rectangular pool with a long-pole leaf net, stone patio and wooden fence behind",
+  "created": "2026-10-24"
+ },
+ "4b5d0cc8-10e0-4b42-ada2-c2aa37985b43": {
+  "business": "Hang Ten Pool Service",
+  "image": "images/business/hang-ten-pool-service.jpg",
+  "scene": "Technician vacuuming a kidney-shaped pool floor with a pole vacuum, palm trees around",
+  "created": "2026-10-24"
+ },
+ "c6d9653a-3a9d-41af-a9c9-c12a09a8449a": {
+  "business": "Top Pool Cleaning",
+  "image": "images/business/top-pool-cleaning.jpg",
+  "scene": "Technician kneeling at the edge of a freeform pool dipping a test vial, open water test kit on the deck",
+  "created": "2026-10-24"
+ },
+ "260c998c-f458-4fa4-bc9c-bf3768d84cee": {
+  "business": "Unified Pool Solutions",
+  "image": "images/business/unified-pool-solutions.jpg",
+  "scene": "Technician skimming fallen leaves from an oval pool with a deep leaf net in late-afternoon sun",
+  "created": "2026-10-24"
+ },
+ "90231f24-0c17-44ab-8b19-6fc9dc5f65aa": {
+  "business": "Puddle Pool Services",
+  "image": "images/business/puddle-pool-services.jpg",
+  "scene": "Technician skimming a rectangular pool from the grass edge in a fenced Katy backyard",
+  "created": "2026-10-24"
+ },
+ "9192b3e4-a93f-4822-842d-66812a5188b8": {
+  "business": "Apex Pool Service",
+  "image": "images/business/apex-pool-service.jpg",
+  "scene": "Technician kneeling on a stone deck testing water with a vial beside an open test kit at a kidney-shaped pool",
+  "created": "2026-10-24"
+ },
+ "5c6c891f-d96c-4cd7-b5ba-6176ecae0765": {
+  "business": "The Pools Center",
+  "image": "images/business/the-pools-center.jpg",
+  "scene": "Technician brushing the edge of an oval pool on a concrete deck with a patio umbrella behind",
+  "created": "2026-10-24"
+ },
+ "b9246aa2-5767-40c1-929d-02be74678da4": {
+  "business": "Katy Fulshear Pools",
+  "image": "images/business/katy-fulshear-pools.jpg",
+  "scene": "Technician vacuuming a long rectangular lap pool from a red-brick patio",
+  "created": "2026-10-24"
+ },
+ "8017593f-b991-4f2d-9368-0693ae38c5c5": {
+  "business": "Sugar Land House Cleaning",
+  "image": "images/business/sugar-land-house-cleaning.jpg",
+  "scene": "Woman in a light-blue apron mopping a light hardwood floor in a bright white kitchen",
+  "created": "2026-10-24"
+ },
+ "43b31aec-cab2-4102-bafc-9590f293a5e8": {
+  "business": "Efficient Klean",
+  "image": "images/business/efficient-klean.jpg",
+  "scene": "Man vacuuming beige carpet in a bright sunlit living room with sofa and large windows",
+  "created": "2026-10-24"
+ },
+ "d96dec90-f377-494c-a2b5-70c04a7d20d7": {
+  "business": "Detail Cleaning Services",
+  "image": "images/business/detail-cleaning-services.jpg",
+  "scene": "Woman wiping a large bathroom mirror with a microfiber cloth over a wood vanity",
+  "created": "2026-10-24"
+ },
+ "d23f54e0-139f-4070-82b4-8344c4a357fc": {
+  "business": "Ecoclean Commercial & House Cleaning",
+  "image": "images/business/ecoclean-commercial-house-cleaning.jpg",
+  "scene": "Woman smoothing a white duvet while making a bed in a bright bedroom with sheer curtains",
+  "created": "2026-10-24"
+ },
+ "7ab1b217-1c81-48ca-9ee6-967fc9cd9936": {
+  "business": "Mahoney's House Cleaning Services",
+  "image": "images/business/mahoney-s-house-cleaning-services.jpg",
+  "scene": "Woman wiping a kitchen island counter with a cloth in a bright sunlit kitchen",
+  "created": "2026-10-24"
+ },
+ "14c3bd6e-3e81-4c01-a873-a07ddf00f9b0": {
+  "business": "Sam's Cleaning and Hauling",
+  "image": "images/business/sam-s-cleaning-and-hauling.jpg",
+  "scene": "Man carrying a plain cardboard box through a bright living room toward an open front door",
+  "created": "2026-10-24"
+ },
+ "f3f884d2-f1c3-41a8-b06a-d2ac01ac1189": {
+  "business": "Home Shines",
+  "image": "images/business/home-shines.jpg",
+  "scene": "Man mopping a light hardwood floor in a bright living room with large windows",
+  "created": "2026-10-24"
+ },
+ "b1633f7f-a6b8-4dd0-800d-440e7eb83653": {
+  "business": "CleanArte Maid Services",
+  "image": "images/business/cleanarte-maid-services.jpg",
+  "scene": "Woman scrubbing white bathroom shower tile with a brush in a bright sunlit bathroom",
+  "created": "2026-10-24"
+ },
+ "7bb33a03-4347-4d8d-a69b-3c8e8953a89e": {
+  "business": "Hyper Clean TX",
+  "image": "images/business/hyper-clean-tx.jpg",
+  "scene": "Man kneeling scrubbing bathroom floor tile grout with a brush, yellow bucket nearby",
+  "created": "2026-10-24"
+ },
+ "0c7de2f1-7c6f-4294-8d4e-d342853445a3": {
+  "business": "Maid in the Shade",
+  "image": "images/business/maid-in-the-shade.jpg",
+  "scene": "Man detailing a stainless gas stovetop with cloth and sponge in a bright white kitchen",
+  "created": "2026-10-24"
+ },
+ "8f73c53d-3676-4418-81e7-b9b07fc88911": {
+  "business": "Naturalcare Cleaning Service",
+  "image": "images/business/naturalcare-cleaning-service.jpg",
+  "scene": "Woman crouched wiping living-room baseboards with a cloth in a bright sunlit room",
+  "created": "2026-10-24"
+ },
+ "92ba167c-9c2d-4a26-a766-df98541ba510": {
+  "business": "MaidLuxe, LLC",
+  "image": "images/business/maidluxe-llc.jpg",
+  "scene": "Woman with gloves scrubbing a white subway tile shower wall with a yellow sponge",
+  "created": "2026-10-24"
+ },
+ "7e804e0c-0180-484e-bba2-7d13d409fe8b": {
+  "business": "MoreHands Maid Service",
+  "image": "images/business/morehands-maid-service.jpg",
+  "scene": "Cleaner wiping a bright kitchen island with a vacuum and cleaning caddy nearby",
+  "created": "2026-10-24"
+ },
+ "fade31cb-4f56-47f9-a98a-1da6797d9998": {
+  "business": "Maid U Shine",
+  "image": "images/business/maid-u-shine.jpg",
+  "scene": "Cleaner dusting a living-room bookshelf beside a sofa, yellow mop bucket in the foreground",
+  "created": "2026-10-24"
+ },
+ "49b496af-b5ab-45a7-b629-39e50b0deebf": {
+  "business": "Pop Mobile Auto Detailing and Wash",
+  "image": "images/business/pop-mobile-auto-detailing-and-wash.jpg",
+  "scene": "Detailer polishing the front fender of a silver sedan on a sunny driveway, bucket and towels nearby",
+  "created": "2026-10-24"
+ },
+ "389c5115-8033-4607-a0f4-156ca3a2ce01": {
+  "business": "Ongowash Mobile Detailing",
+  "image": "images/business/ongowash-mobile-detailing.jpg",
+  "scene": "Detailer vacuuming the open trunk of a dark blue SUV from a rear three-quarter angle",
+  "created": "2026-10-24"
+ },
+ "95667f4d-e2f5-40b2-a3e3-ab12683df241": {
+  "business": "45 Detailing",
+  "image": "images/business/45-detailing.jpg",
+  "scene": "Worker polishing a silver sedan hood with an orbital polisher, wide shot in a bright driveway",
+  "created": "2026-10-24"
+ },
+ "1a38cdc2-e065-4389-ac86-234e156dac41": {
+  "business": "Prime Detailing",
+  "image": "images/business/prime-detailing.jpg",
+  "scene": "Worker wiping a soapy dark blue pickup truck driver door with a microfiber cloth",
+  "created": "2026-10-24"
+ },
+ "440da5fc-5a0e-4d6e-8bc0-bf75f157e6d7": {
+  "business": "RG Master Detail",
+  "image": "images/business/rg-master-detail.jpg",
+  "scene": "Worker vacuuming a black SUV rear seat interior with both doors open in a driveway",
+  "created": "2026-10-24"
+ },
+ "a8dac34f-796f-416c-abbc-fdd71ba2f068": {
+  "business": "Houston Mobile Car Detailing",
+  "image": "images/business/houston-mobile-car-detailing.jpg",
+  "scene": "Worker foam-cannon spraying a red coupe side panel in a bright driveway",
+  "created": "2026-10-24"
+ },
+ "affd66f0-6343-43c3-ac0d-2a817d5171e7": {
+  "business": "Bayou Buff",
+  "image": "images/business/bayou-buff.jpg",
+  "scene": "Detailer wiping the side door of a silver SUV with a blue microfiber cloth, detailing cart beside him",
+  "created": "2026-10-24"
+ },
+ "d9305510-d712-4ce5-9293-975345d7b054": {
+  "business": "LAKM Handyman Services",
+  "image": "images/business/lakm-handyman-services.jpg",
+  "scene": "Handyman on a ladder drilling a TV wall-mount bracket with a level on top in a bright living room",
+  "created": "2026-10-24"
+ },
+ "99ed7b39-e4ff-4c09-b87d-b5e52f629afc": {
+  "business": "Affordable Pearland Handyman",
+  "image": "images/business/affordable-pearland-handyman.jpg",
+  "scene": "Handyman drilling a hinge screw on a wooden backyard fence gate, toolbox open on the grass",
+  "created": "2026-10-24"
+ },
+ "c5a24dac-5cc5-467d-8871-610c9244a842": {
+  "business": "Shadow Creek Home Service",
+  "image": "images/business/shadow-creek-home-service.jpg",
+  "scene": "Handyman tightening a single chrome kitchen faucet with a wrench at a bright white kitchen sink",
+  "created": "2026-10-24"
+ },
+ "292bea1e-20d3-404b-911e-1bf00d5b9adb": {
+  "business": "Rick's Maintenance and More",
+  "image": "images/business/rick-s-maintenance-and-more.jpg",
+  "scene": "Handyman kneeling on a covered front porch fitting the white front door hardware",
+  "created": "2026-10-24"
+ },
+ "cebcf3ef-924d-46a4-82b0-97fb62fdb197": {
+  "business": "Apex Home Repair",
+  "image": "images/business/apex-home-repair.jpg",
+  "scene": "Handyman on his back under an open kitchen sink cabinet repairing the plumbing",
+  "created": "2026-10-24"
+ },
+ "7b438508-8713-4063-b557-fece94922b36": {
+  "business": "Handy Daddy",
+  "image": "images/business/handy-daddy.jpg",
+  "scene": "Handyman drilling a wall-mounted bracket beside a bright window in a living room",
+  "created": "2026-10-24"
+ },
+ "16265383-cb4c-4f60-b983-a847d9283bdc": {
+  "business": "Nathan's Handyman Services",
+  "image": "images/business/nathan-s-handyman-services.jpg",
+  "scene": "Handyman kneeling repairing a wooden backyard fence with a drill",
+  "created": "2026-10-24"
+ },
+ "e85f3421-6b5f-4d5f-b96d-d9978ec37640": {
+  "business": "Shadow Creek Handyman",
+  "image": "images/business/shadow-creek-handyman.jpg",
+  "scene": "Handyman kneeling on a driveway repairing a wooden gate, toolbox open beside him",
+  "created": "2026-10-24"
+ },
+ "c686cd5a-64b5-49fa-a106-eba2e5202ec9": {
+  "business": "Heather's Mobile Pet Salon",
+  "image": "images/business/heather-s-mobile-pet-salon.jpg",
+  "scene": "Groomer with a small white dog on a grooming table beside an open white unbranded van",
+  "created": "2026-10-24"
+ },
+ "8b31007d-d91b-474b-bad4-3e1802fd9038": {
+  "business": "Woofie's of Cypress",
+  "image": "images/business/woofie-s-of-cypress.jpg",
+  "scene": "Man washing a golden retriever beside a blue tub in a driveway, gray van parked across the street",
+  "created": "2026-10-24"
+ },
+ "7f0ed6bc-b0a2-4580-9064-2371ab41d151": {
+  "business": "Bark & Mane of Katy and Cypress",
+  "image": "images/business/bark-mane-of-katy-and-cypress.jpg",
+  "scene": "Woman standing with a border collie beside an open white box-style grooming truck at the curb",
+  "created": "2026-10-24"
+ },
+ "4bbbdceb-2f57-4b83-b600-6c80404b7835": {
+  "business": "Usa Pet Grooming",
+  "image": "images/business/usa-pet-grooming.jpg",
+  "scene": "Groomer with a cream doodle on a lift table beside an open white unbranded van",
+  "created": "2026-10-24"
+ },
+ "0d8de947-d9be-4202-b1ff-61a17b21acd8": {
+  "business": "R Pools LLC",
+  "image": "images/business/r-pools-llc.jpg",
+  "scene": "Technician skimming a rectangular pool in a large fenced backyard",
+  "created": "2026-10-24"
+ },
+ "825144a0-abf4-4d82-b2d5-6f3e03b6cac6": {
+  "business": "Living Fresh Water Pool Services",
+  "image": "images/business/living-fresh-water-pool-services.jpg",
+  "scene": "Technician crouched at the edge of a whole kidney-shaped pool holding a water test kit over the water, palm landscaping behind",
+  "created": "2026-10-24"
+ },
+ "a0a94540-ff12-416f-be5d-7e5759ef4404": {
+  "business": "Cabana Pools Aquatech",
+  "image": "images/business/cabana-pools-aquatech.jpg",
+  "scene": "Technician vacuuming a round pool from the deck in a tree-shaded backyard with a pergola",
+  "created": "2026-10-24"
+ },
+ "6fb751c0-0a80-4333-9fbb-8289be4cf4f0": {
+  "business": "CK Pools",
+  "image": "images/business/ck-pools.jpg",
+  "scene": "Technician skimming a rectangular turquoise pool on a limestone deck in an oak-shaded backyard",
+  "created": "2026-10-24"
+ },
+ "9d4fa0b6-a172-44be-9c1d-097fba03e06e": {
+  "business": "Lone Star Pool Services",
+  "image": "images/business/lone-star-pool-services.jpg",
+  "scene": "Technician vacuuming a kidney-shaped pool on a brick paver patio enclosed by a wooden fence",
+  "created": "2026-10-24"
+ },
+ "e4669305-601e-4b5d-9445-4255569466bf": {
+  "business": "Full Splash Pools",
+  "image": "images/business/full-splash-pools.jpg",
+  "scene": "Technician kneeling to test water with a vial at the edge of a freeform pool with palm plantings",
+  "created": "2026-10-24"
+ },
+ "76b8d5c2-de18-4c1e-93fd-5c36922b68e3": {
+  "business": "Sparkling Blue Pools",
+  "image": "images/business/sparkling-blue-pools.jpg",
+  "scene": "Technician brushing the wall of an oval deep-blue pool on a travertine deck",
+  "created": "2026-10-24"
+ },
+ "2c17628c-a34c-45f7-ad64-02e602550640": {
+  "business": "Magnificent Cleaning Services",
+  "image": "images/business/magnificent-cleaning-services.jpg",
+  "scene": "Woman wiping a bright kitchen island counter with a yellow cloth, spray bottles beside her",
+  "created": "2026-10-24"
+ },
+ "76162b0d-22b5-4c68-b87b-46845eb810f9": {
+  "business": "Sparkly Maid Houston",
+  "image": "images/business/sparkly-maid-houston.jpg",
+  "scene": "Woman vacuuming a light rug in a bright living room with large windows",
+  "created": "2026-10-24"
+ },
+ "f3d263fb-4058-4d46-a390-18f202b888ea": {
+  "business": "Houston HomeMaid",
+  "image": "images/business/houston-homemaid.jpg",
+  "scene": "Woman smoothing white bed linens while making a bed in a bright bedroom",
+  "created": "2026-10-24"
+ },
+ "9a121ca8-9167-4b6e-9595-5b93cef0a2e7": {
+  "business": "HomeMaid Cleaning Services",
+  "image": "images/business/homemaid-cleaning-services.jpg",
+  "scene": "Woman wiping a large bathroom mirror with a blue cloth, her reflection in the mirror",
+  "created": "2026-10-24"
+ },
+ "9505f03a-7395-4c14-ba16-d05afc553168": {
+  "business": "The Detail Lab Mobile Detailing",
+  "image": "images/business/the-detail-lab-mobile-detailing.jpg",
+  "scene": "Detailer polishing the side of a silver sedan with an orbital polisher, detailing cart beside him",
+  "created": "2026-10-24"
+ },
+ "f89076dd-dc07-46ba-b7ec-e7ee76028bd9": {
+  "business": "EZ Detailers Mobile Detailing",
+  "image": "images/business/ez-detailers-mobile-detailing.jpg",
+  "scene": "Detailer foam-spraying a white SUV covered in foam in a brick-home driveway",
+  "created": "2026-10-24"
+ },
+ "2ac98d29-7eba-4ed9-86e7-93273bd49be9": {
+  "business": "Kings Mobile Car Detailing",
+  "image": "images/business/kings-mobile-car-detailing.jpg",
+  "scene": "Man wiping the hood of a black pickup truck in a sunny driveway, buckets and towels beside him",
+  "created": "2026-10-24"
+ },
+ "b81a138e-dd0d-42d3-b809-1f9966d224e0": {
+  "business": "Veritas Mobile Car Detailing",
+  "image": "images/business/veritas-mobile-car-detailing.jpg",
+  "scene": "Two detailers working on a blue SUV \u2014 one polishing the door, one crouching at the wheel with a bucket",
+  "created": "2026-10-24"
+ },
+ "7fa97e54-ca60-4ea4-9891-545ea3a0e9d2": {
+  "business": "Pure Spec Mobile Detail",
+  "image": "images/business/pure-spec-mobile-detail.jpg",
+  "scene": "Man rinsing a white SUV with a spray nozzle in a sunny driveway",
+  "created": "2026-10-24"
+ },
+ "bee0e5c6-ebfd-4251-8936-d78d571c40da": {
+  "business": "Lake Houston Handyman",
+  "image": "images/business/lake-houston-handyman.jpg",
+  "scene": "Handyman kneeling at a brick house wall repairing an outdoor faucet with a wrench, toolbox open below",
+  "created": "2026-10-24"
+ },
+ "e4b277ef-4c9a-4792-95ef-09eac1588c41": {
+  "business": "Kingwood Homes",
+  "image": "images/business/kingwood-homes.jpg",
+  "scene": "Handyman kneeling on a wooden deck drilling a new deck board into place, planks stacked beside him",
+  "created": "2026-10-24"
+ },
+ "f50cc1a4-f13f-4e00-998c-90ce3451becd": {
+  "business": "JOAT LLC",
+  "image": "images/business/joat-llc.jpg",
+  "scene": "Handyman kneeling patching a drywall spot on a wall in a bright empty room with wood floors",
+  "created": "2026-10-24"
+ },
+ "281a8f94-3023-427b-84f3-ff33b9b0495a": {
+  "business": "In Home Floors Handyman",
+  "image": "images/business/in-home-floors-handyman.jpg",
+  "scene": "Handyman kneeling fitting a wood floor plank in a bright empty room, mallet beside him",
+  "created": "2026-10-24"
+ },
+ "021603ed-8331-42c9-9b9a-c895f1f371f5": {
+  "business": "Hand 2 Hand Handyman",
+  "image": "images/business/hand-2-hand-handyman.jpg",
+  "scene": "Handyman on a front porch tightening a white porch railing post with a wrench",
+  "created": "2026-10-24"
+ },
+ "4bac5813-72ee-4721-a546-24aae27455b7": {
+  "business": "123Fixup",
+  "image": "images/business/123fixup.jpg",
+  "scene": "Handyman kneeling adjusting a white kitchen cabinet door hinge under a bright window",
+  "created": "2026-10-24"
+ },
+ "7aee2ddc-c089-4dd3-a8b0-77b3ca90066f": {
+  "business": "Aaron's Mr. Fix It Home Services",
+  "image": "images/business/aaron-s-mr-fix-it-home-services.jpg",
+  "scene": "Handyman kneeling on a wooden porch drilling a porch post, toolbox open beside him",
+  "created": "2026-10-24"
+ },
+ "036b7647-3f8d-4394-abdd-0ee795bc7c8c": {
+  "business": "Houston TX Pressure Washing",
+  "image": "images/business/houston-tx-pressure-washing.jpg",
+  "scene": "Worker pressure washing a wet concrete driveway in front of a ranch home",
+  "created": "2026-10-24"
+ },
+ "392398e7-2107-4e2c-8edb-7c91c69479b3": {
+  "business": "Aquanauts Window Cleaning and Pressure Washing",
+  "image": "images/business/aquanauts-window-cleaning-and-pressure-washing.jpg",
+  "scene": "Worker pressure washing the siding of a two-story house from the lawn",
+  "created": "2026-10-24"
+ },
+ "b9dfd560-3a71-4882-b2a7-a0762daea990": {
+  "business": "Houston Commercial Pressure Washing",
+  "image": "images/business/houston-commercial-pressure-washing.jpg",
+  "scene": "Worker pressure washing a wet storefront plaza sidewalk in front of a modern commercial building",
+  "created": "2026-10-24"
+ },
+ "2909ae50-34ec-4108-bce3-6ca70fbbd0fa": {
+  "business": "Quality Pressure Washing of Houston",
+  "image": "images/business/quality-pressure-washing-of-houston.jpg",
+  "scene": "Worker pressure washing a uniformly wet concrete driveway in front of a brick home under oak trees",
+  "created": "2026-10-24"
+ },
+ "b963f16a-bdd6-4e60-a6af-c3002e219e9f": {
+  "business": "Geek Window Cleaning",
+  "image": "images/business/geek-window-cleaning.jpg",
+  "scene": "Worker pressure washing a stone patio beside a modern glass-walled home",
+  "created": "2026-10-24"
+ },
+ "12948ccd-34f4-4aaa-b67d-72fea923a1f9": {
+  "business": "Republic Softwash",
+  "image": "images/business/republic-softwash.jpg",
+  "scene": "Worker soft washing the siding of a two-story white house from the front lawn",
+  "created": "2026-10-24"
+ },
+ "2c49a67d-cac2-4f7b-a216-09635ff1ca37": {
+  "business": "Calandra Pressure Washing",
+  "image": "images/business/calandra-pressure-washing.jpg",
+  "scene": "Worker pressure washing a red brick front walkway at a columned brick home",
+  "created": "2026-10-24"
+ },
+ "bc331f08-ca57-4f5d-95de-9f914140c81b": {
+  "business": "Softwash Magic",
+  "image": "images/business/softwash-magic.jpg",
+  "scene": "Worker soft washing a house exterior with a white van parked in the wet driveway",
+  "created": "2026-10-24"
+ },
+ "d67d4624-9c0c-47b3-8231-bb04a71b34c9": {
+  "business": "Patitas & Wet Noses Mobile Grooming Inc",
+  "image": "images/business/patitas-wet-noses-mobile-grooming-inc.jpg",
+  "scene": "Groomer kneeling beside a small white dog on a grooming table on a brick front porch",
+  "created": "2026-10-24"
+ },
+ "2da48efe-be15-42d8-906c-6fda53c4d51c": {
+  "business": "Fur-Vana Mobile Pet Spa",
+  "image": "images/business/fur-vana-mobile-pet-spa.jpg",
+  "scene": "Groomer brushing a cream doodle on a table beside an open white unbranded van",
+  "created": "2026-10-24"
+ },
+ "c71341c8-3ed4-47c7-8733-7c85ba16a4d1": {
+  "business": "Lily-White Cleaning Services",
+  "image": "images/business/lily-white-cleaning-services.jpg",
+  "scene": "Woman kneeling scrubbing a white bathtub in a bright bathroom, cleaning caddy beside her",
+  "created": "2026-10-24"
+ },
+ "da046e0d-a6ee-4844-89ed-c01a25937b71": {
+  "business": "U Have It Maid",
+  "image": "images/business/u-have-it-maid.jpg",
+  "scene": "Man vacuuming a light sofa with a hose attachment in a bright living room",
+  "created": "2026-10-24"
+ },
+ "a13f6995-8be6-40a9-9114-17a2a6cf62ef": {
+  "business": "The Top Maid",
+  "image": "images/business/the-top-maid.jpg",
+  "scene": "Woman wiping a kitchen sink and counter in a bright white kitchen",
+  "created": "2026-10-24"
+ },
+ "f3a3279a-78cb-4f69-b52a-3345995b04dd": {
+  "business": "Green Leaf Maid Services",
+  "image": "images/business/green-leaf-maid-services.jpg",
+  "scene": "Woman kneeling scrubbing the inside of an open oven in a bright kitchen",
+  "created": "2026-10-24"
+ },
+ "4c046c32-6cb5-432d-ae73-e41b0b5b0863": {
+  "business": "C and Jam Deep Cleaning Solutions",
+  "image": "images/business/c-and-jam-deep-cleaning-solutions.jpg",
+  "scene": "Man kneeling scrubbing a white tile shower wall in a bright bathroom",
+  "created": "2026-10-24"
+ },
+ "b8299d51-f290-4906-905d-43dbe177b8fa": {
+  "business": "Spring Cleaning",
+  "image": "images/business/spring-cleaning.jpg",
+  "scene": "Woman kneeling wiping a baseboard with a cloth in a bright empty room, cleaning bucket beside her",
+  "created": "2026-10-24"
+ },
+ "77653863-8b01-462e-a3bc-5b4bbced5c06": {
+  "business": "IB5 Auto Spa",
+  "image": "images/business/ib5-auto-spa.jpg",
+  "scene": "Detailer crouched hand-polishing the door of a dark sedan with a yellow pad, blue wash bucket beside him",
+  "created": "2026-10-24",
+  "regenerated": "2026-10-24 after coordinator reject of the first version for distant framing (IB5/Pretty Pooches) / non-grooming scene (Pretty Pooches walking shot); first regeneration attempt produced no files and was re-dispatched with hash verification"
+ },
+ "768956cd-1313-4b45-b6bb-03299472dcce": {
+  "business": "Bark & Mane of Woodlands and Montgomery County",
+  "image": "images/business/bark-mane-of-woodlands-and-montgomery-county.jpg",
+  "scene": "Groomer brushing a medium tan dog standing on a grooming table beside an open white unbranded van",
+  "created": "2026-10-24",
+  "regenerated": "2026-10-24 after coordinator reject of the first version for distant framing (IB5/Pretty Pooches) / non-grooming scene (Pretty Pooches walking shot); first regeneration attempt produced no files and was re-dispatched with hash verification"
+ },
+ "f13bf7e8-e252-4d14-ba02-de01e80a7fb1": {
+  "business": "Pretty Pooches Mobile Dog Grooming",
+  "image": "images/business/pretty-pooches-mobile-dog-grooming.jpg",
+  "scene": "Groomer trimming a small curly white dog with electric clippers on a grooming table beside an unbranded white van",
+  "created": "2026-10-24",
+  "regenerated": "2026-10-24 after coordinator reject of the first version for distant framing (IB5/Pretty Pooches) / non-grooming scene (Pretty Pooches walking shot); first regeneration attempt produced no files and was re-dispatched with hash verification"
  }
 }

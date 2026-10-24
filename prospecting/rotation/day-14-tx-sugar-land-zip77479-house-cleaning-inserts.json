@@ -1,0 +1,207 @@
+{
+  "businesses": [
+    {
+      "id": "8017593f-b991-4f2d-9368-0693ae38c5c5",
+      "name": "Sugar Land House Cleaning",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 375-5467",
+      "phone_verified": false,
+      "service_zips": [
+        "77479",
+        "77478",
+        "77498",
+        "77459",
+        "77489",
+        "77477"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://sugarlandhousecleaning.com/"
+    },
+    {
+      "id": "43b31aec-cab2-4102-bafc-9590f293a5e8",
+      "name": "Efficient Klean",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 430-2138",
+      "phone_verified": false,
+      "service_zips": [
+        "77479"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://efficientklean.com/"
+    },
+    {
+      "id": "d96dec90-f377-494c-a2b5-70c04a7d20d7",
+      "name": "Detail Cleaning Services",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 483-5721",
+      "phone_verified": false,
+      "service_zips": [
+        "77479"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://detailcleanings.com/"
+    },
+    {
+      "id": "d23f54e0-139f-4070-82b4-8344c4a357fc",
+      "name": "Ecoclean Commercial & House Cleaning",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 361-6556",
+      "phone_verified": false,
+      "service_zips": [
+        "77479"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://ecocleancommercialcleaning.com/"
+    },
+    {
+      "id": "7ab1b217-1c81-48ca-9ee6-967fc9cd9936",
+      "name": "Mahoney's House Cleaning Services",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 777-1526",
+      "phone_verified": false,
+      "service_zips": [
+        "77479"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://mahoneyshousecleaningservices.com/"
+    },
+    {
+      "id": "14c3bd6e-3e81-4c01-a873-a07ddf00f9b0",
+      "name": "Sam's Cleaning and Hauling",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 532-3222",
+      "phone_verified": false,
+      "service_zips": [
+        "77479"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://sugarland.cleaningandhauling.com/"
+    },
+    {
+      "id": "f3f884d2-f1c3-41a8-b06a-d2ac01ac1189",
+      "name": "Home Shines",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(713) 766-0010",
+      "phone_verified": false,
+      "service_zips": [
+        "77479"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://homeshinescleaning.com/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "073309e9-c389-4387-afb8-b08bfc0f45a4",
+      "business_id": "8017593f-b991-4f2d-9368-0693ae38c5c5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "a130be79-9477-409b-95a9-1f5c21201fee",
+      "business_id": "43b31aec-cab2-4102-bafc-9590f293a5e8",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "6176edc3-06b2-40c4-8b5d-9de90d3c1af7",
+      "business_id": "d96dec90-f377-494c-a2b5-70c04a7d20d7",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "49017d78-73ed-4d86-ae89-25b588683940",
+      "business_id": "d23f54e0-139f-4070-82b4-8344c4a357fc",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "b6048aa3-8bb4-47b7-bb5a-458e56907637",
+      "business_id": "7ab1b217-1c81-48ca-9ee6-967fc9cd9936",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "d085ef5d-61e3-4b6e-9173-5b6bafcd68da",
+      "business_id": "14c3bd6e-3e81-4c01-a873-a07ddf00f9b0",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "a6fb46ca-8740-4890-be0a-fb3118bd8926",
+      "business_id": "f3f884d2-f1c3-41a8-b06a-d2ac01ac1189",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

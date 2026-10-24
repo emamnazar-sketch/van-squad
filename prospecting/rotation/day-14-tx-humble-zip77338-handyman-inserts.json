@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "bee0e5c6-ebfd-4251-8936-d78d571c40da",
+      "name": "Lake Houston Handyman",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 794-2346",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://lakehoustonhandyman.com/"
+    },
+    {
+      "id": "e4b277ef-4c9a-4792-95ef-09eac1588c41",
+      "name": "Kingwood Homes",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 713-0660",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://kingwoodhomes.us/"
+    },
+    {
+      "id": "f50cc1a4-f13f-4e00-998c-90ce3451becd",
+      "name": "JOAT LLC",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 431-8247",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.joatpro.com/"
+    },
+    {
+      "id": "281a8f94-3023-427b-84f3-ff33b9b0495a",
+      "name": "In Home Floors Handyman",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 420-0844",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://inhomefloors.com/handyman/"
+    },
+    {
+      "id": "021603ed-8331-42c9-9b9a-c895f1f371f5",
+      "name": "Hand 2 Hand Handyman",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 827-8048",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://hand2handhandyman.co/"
+    },
+    {
+      "id": "4bac5813-72ee-4721-a546-24aae27455b7",
+      "name": "123Fixup",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(713) 330-9209",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://123fixup.com/contact-us"
+    },
+    {
+      "id": "7aee2ddc-c089-4dd3-a8b0-77b3ca90066f",
+      "name": "Aaron's Mr. Fix It Home Services",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 222-9221",
+      "phone_verified": false,
+      "service_zips": [
+        "77338"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "05b72949-5a12-451e-a4af-d52537ed5d2f",
+      "business_id": "bee0e5c6-ebfd-4251-8936-d78d571c40da",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "13773a95-af4b-4994-a332-45950b61851a",
+      "business_id": "e4b277ef-4c9a-4792-95ef-09eac1588c41",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "030f0ab1-8241-4b9e-831a-f2862e4bdfc6",
+      "business_id": "f50cc1a4-f13f-4e00-998c-90ce3451becd",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "bafede44-e6ac-44bb-92f1-76e131f43af9",
+      "business_id": "281a8f94-3023-427b-84f3-ff33b9b0495a",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "cc61f503-7bad-48d0-88b2-0c5578fe3434",
+      "business_id": "021603ed-8331-42c9-9b9a-c895f1f371f5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "c20233a6-a542-45a2-b71f-e6d6eb15d895",
+      "business_id": "4bac5813-72ee-4721-a546-24aae27455b7",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "dc08d0c5-4b08-46bd-bea9-e18495ae65ed",
+      "business_id": "7aee2ddc-c089-4dd3-a8b0-77b3ca90066f",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

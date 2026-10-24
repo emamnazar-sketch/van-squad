@@ -1,0 +1,32 @@
+# Day 14 — Texas | Pasadena | ZIP 77504 | House cleaning
+
+Cell: TX × Pasadena × 77504 × "House cleaning" (label verified verbatim in ~/workspace/van-squad/js/data.js, Cleaning group).
+Expansion note: Pasadena's own house-cleaning supply is thin — only two operators are actually based in Pasadena. The cell was filled with those two plus two Houston-area operators whose OWN materials explicitly name Pasadena in their service area. Magnificent Cleaning Services is based in adjacent ZIP 77502 (same city, Pasadena), noted per the expansion rule. No businesses were taken from ZIPs outside Pasadena.
+
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers were taken from public sources; never invented.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source |
+|---|---|---|---|---|---|---|---|
+| Magnificent Cleaning Services | (832) 621-3403 | House cleaning | Pasadena | https://magnificentcleanings.com/ | info@magnificentcleanings.com — https://magnificentcleanings.com/ (business's own website footer: "Magnificent Cleaning Services, 2103 Huckleberry Ln, Pasadena, TX 77502. +1-832-621-3403" and "Contact (832) 621-3403 Info@MagnificentCleanings.com") | High — own site: recurring/deep/move house cleaning, "locally owned in the Houston area and serves Pasadena," based at a Pasadena address inside adjacent 77502; phone and email printed on the site. FLAG: its Google listing prints a different phone, (832) 281-4996 — the own-site phone (832) 621-3403 is recorded per own-site-first rule | Business's own website + Google Business listing |
+| Sparkly Maid Houston | (832) 975-0963 | House cleaning | Pasadena | https://www.sparklymaidhouston.com/ | sparklymaidhouston@gmail.com — https://www.sparklymaidhouston.com/barrett-tx (business's own website contact block: "3014 Lake St, Houston, TX 77098, ☎️ (832) 975-0963, sparklymaidhouston@gmail.com"; the same contact block runs on its city pages) | Medium — own site's service-area list explicitly includes Pasadena and it offers house cleaning / maid service in customers' homes; phone and email printed on the site. FLAG: one of its city pages admits its testimonials were "created" — no review claims were relied on for this entry | Business's own website |
+| Houston HomeMaid | (346) 533-5147 | House cleaning | Pasadena | http://www.houstonhomemaid.com/ | none | Medium — own site: "Serving Houston and all surrounding areas. Southeast Houston: La Porte, Deer Park, Seabrook, League City, Webster, Clear Lake, Baytown, Pasadena, Channelview, South Houston" and the operator is based in La Porte; phone (346) 533-5147 comes from its Google Business listing only — the fetched homepage printed no phone | Business's own website + Google Business listing |
+| HomeMaid Cleaning Services | (832) 835-8027 | House cleaning | Pasadena | https://website--8389887819997676354239-housecleaningservice.business.site/ | none | Medium — Google Business listing addresses it at 5318 Spring Oak Dr, Pasadena, TX (in 77504) as a house cleaning service with phone (832) 835-8027; its own Google business site could not be fetched at check time (404), so the phone rests on the Google listing | Google Business listing |
+
+## Dedupe / exclusion notes
+
+- Live DB checked (vs_rest.py get, status=eq.active, offset 0 = 1,000 rows + offset 1000 = 158 rows, 1,158 total): no matches for "Magnificent Cleaning," "Sparkly Maid Houston," "Houston HomeMaid," "HomeMaid Cleaning," or any of the four phones (621-3403, 975-0963, 533-5147, 835-8027). The only name-substring hit was the unrelated "Milo's Magnificent Mutts" (pet business, (347) 525-5518) — different business and phone.
+- All prior prospecting files in ~/workspace/van-squad/prospecting/ (including every Day-14 file written so far) were grepped for every name and phone in this batch — no matches. Note the Day-13 Dallas business "Sparkly Maids" ((214) 903-0014, sparklymaids.com) is a different business from "Sparkly Maid Houston" ((832) 975-0963, sparklymaidhouston.com) — different name, phone, city, and website.
+- Tonight's taken Houston-area cleaners were all avoided: Tidy Home, Sharp Cleaning, Holy Maid, Texas Nova (its own site has a "Territory 8: Pasadena & Deer Park" — still excluded, already taken tonight), Houston Signature Maids, Houston Cleaning Services, CleanArte, Hyper Clean TX, MaidLuxe, Sugar Land House Cleaning, Efficient Klean, Detail Cleaning Services, Ecoclean, Mahoney's, Sam's Cleaning and Hauling, Home Shines.
+- Casa Fantastic — EXCLUDED: its "Pasadena" page is Pasadena, CALIFORNIA (ZIPs 91101–91107, Los Angeles area), not Texas.
+- ecomaids (Pasadena, TX pages, ZIPs 77502/77504/77506) — EXCLUDED: only phone published is 800-326-6243 (800-only, franchise network).
+- MaidPro / Merry Maids (South Houston) — EXCLUDED: national franchises named in the brief.
+- Homeaglow Pasadena — EXCLUDED: lead-gen platform named in the brief.
+- Luxe Maid House Cleaning Services (Pearland, (832) 742-4983) — EXCLUDED: its own site titles its market "League City, Pearland & Clear Lake" and never names Pasadena — Pasadena service could not be confirmed from its own materials.
+- Naturalcare Cleaning Service — EXCLUDED: its own "Areas We Serve" list does not include Pasadena, and its own site prints conflicting phones.
+- MoreHands Maid Service — EXCLUDED: its own Houston ZIP list does not include any Pasadena 775xx ZIP.
+- SereneLuxe Cleaning — EXCLUDED: appears only on HomeAdvisor/Thumbtack lead-gen profiles with no verifiable public phone or own website.
+- Fabacher Cleaning Co (Thumbtack, Pasadena) and Maid Easily (Thumbtack) — EXCLUDED: no verifiable public phone published.
+- Let Pp Nerel LLC (Pasadena, (281) 841-2991) — EXCLUDED: its own site is a generic template with no phone, no address, and no Pasadena/Texas reference — local operator could not be verified from its own materials.
+- Mancebo's cleaning services (7878 Spencer Hwy, Pasadena, (832) 372-0254) — EXCLUDED: Google listing only, category is generic "Cleaning Service" with no evidence of in-home house cleaning.
+- Pathfinders, Baysouth Maintenance, Corporate Clean, HTX Pressure Pros, championairductsinc, ALMO DryerVent, bayportindustrialservices, Duct To Order — EXCLUDED: carpet, janitorial/commercial, pressure washing, air-duct, industrial, or dryer-vent services, not house cleaning.
+- A Alvarenga Cleaning Services — EXCLUDED: listed "Possibly Temporarily Closed," no website.

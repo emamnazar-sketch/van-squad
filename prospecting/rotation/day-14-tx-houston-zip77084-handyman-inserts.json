@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "16978bf6-80cc-4813-8f51-132f6b6bf958",
+      "name": "K&L Handyman LLC",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(713) 391-9713",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://klhandymanllc.com/"
+    },
+    {
+      "id": "8478eb84-1413-4b69-b636-1b7fc9644b7a",
+      "name": "Your Handyman 911",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 213-8194",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://yourhandyman911.com/"
+    },
+    {
+      "id": "cb4d1d1e-7726-4d67-9be8-4439f959fb2b",
+      "name": "DIFY Pest control & Handyman Services",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 298-5868",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://difyremodeling.wixsite.com/handyman"
+    },
+    {
+      "id": "0e13a745-3769-4fdb-9ca7-3fdf814a0d1a",
+      "name": "Jobman Jones",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 907-0505",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://calljobman.com/"
+    },
+    {
+      "id": "5b0e3a2a-a5ef-42e5-aabf-ca6b1dbd7ca6",
+      "name": "Mr Nice Guy Handyman Services",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 720-7470",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://mrniceguyhandymanserviceshouston.com/"
+    },
+    {
+      "id": "958402c3-81fa-4feb-b478-1b513e4bbd00",
+      "name": "JS Home Repairs",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 546-2109",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.jshomesrepair.com/"
+    },
+    {
+      "id": "704da026-b1fb-477e-8180-a5012dfb4023",
+      "name": "Greenline Value Construction",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(346) 434-6530",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://greenlinevalueconstruction.com/"
+    },
+    {
+      "id": "7ed25be4-3d56-4cbe-92fd-e1261b2597ce",
+      "name": "Alvin's Affordable Services",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(713) 992-0523",
+      "phone_verified": false,
+      "service_zips": [
+        "77084"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "176429aa-0108-4ee2-9746-009588fdaf50",
+      "business_id": "16978bf6-80cc-4813-8f51-132f6b6bf958",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "6fd74f83-a813-42ba-92b3-506a21877d8e",
+      "business_id": "8478eb84-1413-4b69-b636-1b7fc9644b7a",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "2da9d38c-06cd-4e64-a027-07569a6a0f3c",
+      "business_id": "cb4d1d1e-7726-4d67-9be8-4439f959fb2b",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "9d51d4a7-aef5-4a2b-a7b9-b331a3f6ae6e",
+      "business_id": "0e13a745-3769-4fdb-9ca7-3fdf814a0d1a",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "57451e6f-2563-440c-9bf8-971f2ff62640",
+      "business_id": "5b0e3a2a-a5ef-42e5-aabf-ca6b1dbd7ca6",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "c9384e43-ab9c-4923-b85c-ecf17306b8fc",
+      "business_id": "958402c3-81fa-4feb-b478-1b513e4bbd00",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "ef12fd4d-8d66-4c65-81d9-cd4d96704978",
+      "business_id": "704da026-b1fb-477e-8180-a5012dfb4023",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "61bcc537-12af-47e3-94c0-16acecf4fd5d",
+      "business_id": "7ed25be4-3d56-4cbe-92fd-e1261b2597ce",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "fe11a7c0-e227-4660-a186-5f0dee803933",
+   "name": "Nabors Pools",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 236-8010",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://naborspools.com/"
+  },
+  {
+   "id": "4b5d0cc8-10e0-4b42-ada2-c2aa37985b43",
+   "name": "Hang Ten Pool Service",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 802-9577",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://hangtenpoolservicetx.com/"
+  },
+  {
+   "id": "c6d9653a-3a9d-41af-a9c9-c12a09a8449a",
+   "name": "Top Pool Cleaning",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 250-7777",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://toppoolcleaningtx.com/"
+  },
+  {
+   "id": "260c998c-f458-4fa4-bc9c-bf3768d84cee",
+   "name": "Unified Pool Solutions",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 799-9786",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.unifiedpoolsolutions.com/"
+  },
+  {
+   "id": "90231f24-0c17-44ab-8b19-6fc9dc5f65aa",
+   "name": "Puddle Pool Services",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(346) 680-2181",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://puddlepools.com/locations/katy-tx/"
+  },
+  {
+   "id": "9192b3e4-a93f-4822-842d-66812a5188b8",
+   "name": "Apex Pool Service",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 371-0017",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://apexpoolskaty.com/"
+  },
+  {
+   "id": "5c6c891f-d96c-4cd7-b5ba-6176ecae0765",
+   "name": "The Pools Center",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(346) 593-9798",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.thepoolscenter.com/"
+  },
+  {
+   "id": "b9246aa2-5767-40c1-929d-02be74678da4",
+   "name": "Katy Fulshear Pools",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 638-7858",
+   "phone_verified": false,
+   "service_zips": [
+    "77494"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.katyfulshearpools.com/"
+  }
+ ],
+ "listings": [
+  {
+   "id": "495c53ad-14f9-4192-8439-7dcb348f0cf1",
+   "business_id": "fe11a7c0-e227-4660-a186-5f0dee803933",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "e9a3e7a5-a3a5-4038-b802-1fd392fb1312",
+   "business_id": "4b5d0cc8-10e0-4b42-ada2-c2aa37985b43",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "64cd3de9-04a3-41ae-847c-bec45b57d3a0",
+   "business_id": "c6d9653a-3a9d-41af-a9c9-c12a09a8449a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "a6275170-8992-48a1-8206-fdf810eb4ee3",
+   "business_id": "260c998c-f458-4fa4-bc9c-bf3768d84cee",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "76391a4e-9ecf-4547-959e-60261df0e9a7",
+   "business_id": "90231f24-0c17-44ab-8b19-6fc9dc5f65aa",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "2868e4fe-2746-4ffd-8c18-be0915a234b0",
+   "business_id": "9192b3e4-a93f-4822-842d-66812a5188b8",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "fb49c77a-1d33-491e-a7cc-6583b9557f9c",
+   "business_id": "5c6c891f-d96c-4cd7-b5ba-6176ecae0765",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  },
+  {
+   "id": "de6c1703-cf06-4513-abcf-aab08cb2b437",
+   "business_id": "b9246aa2-5767-40c1-929d-02be74678da4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pool cleaning & maintenance at your location"
+  }
+ ]
+}

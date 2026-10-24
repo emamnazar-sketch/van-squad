@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "036b7647-3f8d-4394-abdd-0ee795bc7c8c",
+   "name": "Houston TX Pressure Washing",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 307-3885",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.houstontxpressurewashing.com/"
+  },
+  {
+   "id": "392398e7-2107-4e2c-8edb-7c91c69479b3",
+   "name": "Aquanauts Window Cleaning and Pressure Washing",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 840-1465",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://aquanautsclean.com/"
+  },
+  {
+   "id": "b9dfd560-3a71-4882-b2a7-a0762daea990",
+   "name": "Houston Commercial Pressure Washing",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 767-2448",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://houstoncommercialpressurewashing.com/"
+  },
+  {
+   "id": "2909ae50-34ec-4108-bce3-6ca70fbbd0fa",
+   "name": "Quality Pressure Washing of Houston",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 802-8762",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.qualitypressurewashingofhouston.com/"
+  },
+  {
+   "id": "b963f16a-bdd6-4e60-a6af-c3002e219e9f",
+   "name": "Geek Window Cleaning",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(713) 581-4963",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://geekwindowcleaning.com/pressure-washing-houston-tx/"
+  },
+  {
+   "id": "12948ccd-34f4-4aaa-b67d-72fea923a1f9",
+   "name": "Republic Softwash",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 827-3815",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.republicsoftwash.com/"
+  },
+  {
+   "id": "2c49a67d-cac2-4f7b-a216-09635ff1ca37",
+   "name": "Calandra Pressure Washing",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 330-9704",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.calandrapw.com/"
+  },
+  {
+   "id": "bc331f08-ca57-4f5d-95de-9f914140c81b",
+   "name": "Softwash Magic",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 725-9892",
+   "phone_verified": false,
+   "service_zips": [
+    "77024"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.softwashmagic.com/"
+  }
+ ],
+ "listings": [
+  {
+   "id": "32ddf2e7-c40c-4adf-b570-038519ded1a3",
+   "business_id": "036b7647-3f8d-4394-abdd-0ee795bc7c8c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "c886e021-04ca-41aa-a6c7-0696bd5fc088",
+   "business_id": "392398e7-2107-4e2c-8edb-7c91c69479b3",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "d099d83a-11ac-449a-a47e-f82f31f108ed",
+   "business_id": "b9dfd560-3a71-4882-b2a7-a0762daea990",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "d26a7a56-2373-4277-b422-8c46c0fdb719",
+   "business_id": "2909ae50-34ec-4108-bce3-6ca70fbbd0fa",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "1b64c739-b55e-44f7-8cbe-154d8b5225b3",
+   "business_id": "b963f16a-bdd6-4e60-a6af-c3002e219e9f",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "9fa1b80a-92ef-411d-9000-6991fdd351f6",
+   "business_id": "12948ccd-34f4-4aaa-b67d-72fea923a1f9",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "ad53c34c-bed0-40e7-bb27-3784e691c3ac",
+   "business_id": "2c49a67d-cac2-4f7b-a216-09635ff1ca37",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "4091243e-8ac7-4bfc-af89-0764fb6e9372",
+   "business_id": "bc331f08-ca57-4f5d-95de-9f914140c81b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

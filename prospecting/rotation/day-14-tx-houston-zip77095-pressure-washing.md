@@ -1,0 +1,41 @@
+# Rotation Day 14 — Texas: Houston × Pressure washing × ZIP 77095
+
+- Cell: Texas | Houston | ZIP 77095 (Copperfield / NW Houston) | category "Pressure washing"
+- Category label verified verbatim in ~/workspace/van-squad/js/data.js: "Pressure washing" (Home services & trades group).
+- Cell note: ZIP 77095 is a Houston ZIP (Copperfield area); the adjoining Cypress / NW Houston market is the same service territory. Every included business publishes on its own website that its crew travels to the customer's home/driveway — pressure washing is inherently on-site — and names Cypress, Northwest Houston, or Greater Houston (which includes 77095) in its own service-area materials. The cell did NOT need to expand to an adjacent ZIP: 7 qualifying businesses were found serving 77095.
+- City column is "Houston" for all rows per the cell brief (77095 is a Houston ZIP); each business's actual base is noted in its reason where it differs (Cypress / Spring / Tomball).
+- Dedupe: checked against the live DB (1,074 active businesses, offsets 0 + 1000 via vs_rest.py) and every file in ~/workspace/van-squad/prospecting/ — no name or phone matches for any included business. Note: the DB contains "Texas Premier Auto Detailing" ((682) 309-7471, Fort Worth auto detailing) — a different business from Texas Premier Pressure Washing; not a duplicate.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Miller Pressure Washing LLC | (281) 547-2739 | Pressure washing | Houston | https://millerpressurewashingllc.com/ | millerpressurewashing2014@gmail.com — published on its own website (homepage contact blocks, same URL) | High — own site: "locally owned and operated in Cypress", residential/commercial pressure washing (house, driveway, fence, patio) throughout Northwest Houston including Houston; phone and email on the site; base is Cypress, in the 77095 service territory | Business's own website |
+| Cypress Pro Wash | (713) 826-0037 | Pressure washing | Houston | https://www.cypressprowash.com/ | — none published on its own site (quote form only; press-release "Send Email" links are not a published address, so none was collected) | High — own site: "YOUR LOCAL PRESSURE WASHING COMPANY — PRESSURE WASHING, CYPRESS, TX", house/concrete/driveway/building washing at the customer's property, "Call For A Free Quote! (713) 826-0037" on the site; Google listing gives its base as 16527 W Blue Hyacinth Dr, Cypress, TX and the same phone | Business's own website + Google Business listing |
+| Pressure Washing Cypress | (281) 394-1919 | Pressure washing | Houston | https://www.pressurewashingcypress.com/ | — none published on its own site | Medium — own site describes a "mobile power washing system" for Cypress houses/driveways/roofs/decks and prints "Pressure Washing Cypres, 27236 Highway 290 #110, Cypress, TX 77433. +1-281-394-1919" on the site; Google listing agrees on the phone; Medium because the business name is a generic descriptor and no owner/email is published | Business's own website + Google Business listing |
+| Next Gen Wash Pros | (281) 891-3679 | Pressure washing | Houston | https://www.nextgenwashpros.com/ | chris@nextgenwashpros.com — published on its own website (contact block, same URL) | High — own site: pressure & soft washing in Northern Harris County, its own service-area list names Cypress explicitly (plus North Houston, Tomball, Jersey Village), "Call Us Now at (281) 891-3679" and the email on the site; base shown on the site as Spring, TX 77379 | Business's own website |
+| J Calvin Pressure Washing | (832) 371-6030 | Pressure washing | Houston | https://jcalvintx.com/ | hello@jcalvintx.com — published on its own website (homepage header/footer, same URL) | High — own site: family-owned "Pressure Washing in Tomball & North Houston", its own Service Areas list includes Cypress, and its FAQ says it serves "Spring, Klein, Cypress, and The Woodlands"; phone and email on the site; base is Tomball, adjoining 77095 | Business's own website |
+| Texas Premier Pressure Washing | (832) 298-4879 | Pressure washing | Houston | https://texaspremierpw.com/ | — none published on its own site | Medium — own site: residential/commercial pressure washing "throughout Houston and the surrounding areas", locally owned, phone (832) 298-4879 and physical address 12558 Holly Blue Ln, Houston, TX 77077 on the site; Medium because its own materials claim Houston-wide coverage without naming Cypress/NW Houston, and one page carries a "{city}" template placeholder | Business's own website |
+| Houston Build Crew | (281) 905-2414 | Pressure washing | Houston | https://houstonbuildcrew.com/services/pressure-washing.html | — none published on its own site | Medium — own pressure-washing page: driveway/concrete cleaning, sidewalks, patios and house soft wash in Houston, its Greater Houston service-area list names Cypress explicitly, phone on the page, base 1530 Heights Blvd #13, Houston, TX 77008; Medium because it is a multi-trade builder (roofing/painting/concrete) with pressure washing as one dedicated service line | Business's own website |
+
+## Exclusions / dedupe notes
+
+- PWS Power Washing Services (Cypress, TX) — EXCLUDED: its own website (pwspowerwashingservices.netlify.app) publishes services and a quote form but NO public phone number anywhere on the site; fails the verifiable-phone gate.
+- Doctor Pressure Washing LLC ((832) 970-6310) — EXCLUDED for this cell: its own website is Katy-focused throughout ("Bringing the Clean to Katy"); Cypress, Houston, or 77095 service could not be confirmed from its own materials (a Tomball street address appears only in a third-party listing).
+- Eco Elite Pressure Washing & Exterior Cleaning Solutions LLC (14407 Barker Pelican Ct, Cypress, TX, (832) 853-5749) — EXCLUDED: no own website could be found; the phone/address appear only in an aggregator listing, so on-site service could not be confirmed from the business's own materials.
+- Cypress Pressure Washing Specialists ((281) 743-8169) — EXCLUDED: its only "website" is a URL-shortener link (rb.gy); own materials could not be verified.
+- Texas Premium Pressure Washing (Cypress) — EXCLUDED: only a Google Business page could be found; no own website and no phone verified from its own materials.
+- Sam's Pressure Washing ((346) 256-9823) — EXCLUDED: its Google listing shows "Permanently Closed", and it is based in south Houston, outside this cell's territory.
+- Fish Window Cleaning (8524 Highway 6 North #206, Houston, TX 77095, (281) 550-9444) — EXCLUDED: national franchise whose primary service is window cleaning; pressure washing is an incidental add-on, not a pressure-washing operator.
+- LawnStarter, HomeAdvisor/Angi, Aptera and similar — EXCLUDED as a class: national lead-gen marketplaces with no local operator.
+- Car washes in/near 77095 (ClearWater Express, WhiteWater Express, Cypress Car Wash, Quick Quack, etc.) — EXCLUDED: fixed storefront car washes, not pressure-washing services at the customer's location.
+
+## Files
+
+- Batch table: day-14-tx-houston-zip77095-pressure-washing.md (this file)
+- Inserts: day-14-tx-houston-zip77095-pressure-washing-inserts.json — 7 businesses + 7 listings, exact specified shape; service_zips = ["77095"] for every business (none of the seven publishes its own ZIP list — they publish city/area lists — so no extra ZIPs were added)
+- Leads: day-14-tx-houston-zip77095-pressure-washing-leads.json — 3 published emails (Miller Pressure Washing LLC, Next Gen Wash Pros, J Calvin Pressure Washing), each taken from the business's own website; leads are a separate store and are never written into the businesses table
+
+## Flags for the coordinator
+
+- Texas Premier Pressure Washing vs. the existing DB row "Texas Premier Auto Detailing" — different businesses (different phone, trade, and metro); included deliberately, flagged here so the near-name is not mistaken for a duplicate at insert time.
+- Pressure Washing Cypress is a generic-descriptor business name; its identity rests on its own domain, its Cypress Hwy 290 address, and its Google listing agreeing on (281) 394-1919.
+- No business in this cell publishes a service-ZIP list, so all service_zips are just the target ZIP.

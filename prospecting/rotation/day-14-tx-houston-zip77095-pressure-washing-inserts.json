@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "f843f795-556e-495e-a19f-6e54c58e03f6",
+   "name": "Miller Pressure Washing LLC",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 547-2739",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://millerpressurewashingllc.com/"
+  },
+  {
+   "id": "62ad05d7-ba0f-4978-80e4-6dca072096f4",
+   "name": "Cypress Pro Wash",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(713) 826-0037",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.cypressprowash.com/"
+  },
+  {
+   "id": "0d20c4f0-c64a-4503-8564-34de1ceae32e",
+   "name": "Pressure Washing Cypress",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 394-1919",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.pressurewashingcypress.com/"
+  },
+  {
+   "id": "7d8ef51e-a123-47df-b2a4-c53e65d4d987",
+   "name": "Next Gen Wash Pros",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 891-3679",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.nextgenwashpros.com/"
+  },
+  {
+   "id": "73b9d98a-d839-4953-88ea-5d42cfbce0a2",
+   "name": "J Calvin Pressure Washing",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 371-6030",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://jcalvintx.com/"
+  },
+  {
+   "id": "d17bef86-c721-4a24-bd7e-24566153e7d5",
+   "name": "Texas Premier Pressure Washing",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(832) 298-4879",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://texaspremierpw.com/"
+  },
+  {
+   "id": "f2b21111-71d4-49f7-a4d2-e1ebff0f7873",
+   "name": "Houston Build Crew",
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(281) 905-2414",
+   "phone_verified": false,
+   "service_zips": [
+    "77095"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://houstonbuildcrew.com/services/pressure-washing.html"
+  }
+ ],
+ "listings": [
+  {
+   "id": "fa77f40c-c07f-4998-9fbb-fe612c34ff6b",
+   "business_id": "f843f795-556e-495e-a19f-6e54c58e03f6",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "07c12b3b-16df-45a5-b36e-f13435f2034a",
+   "business_id": "62ad05d7-ba0f-4978-80e4-6dca072096f4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "077c448d-1691-4915-8647-3bb4d1c3d328",
+   "business_id": "0d20c4f0-c64a-4503-8564-34de1ceae32e",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "5bc27381-8f24-444f-b9ca-02ffb9c420f0",
+   "business_id": "7d8ef51e-a123-47df-b2a4-c53e65d4d987",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "6d224cc8-de78-4ceb-927d-354c68b440dc",
+   "business_id": "73b9d98a-d839-4953-88ea-5d42cfbce0a2",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "66a0083a-ad42-4217-8380-9880928c16f4",
+   "business_id": "d17bef86-c721-4a24-bd7e-24566153e7d5",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "id": "65d107e3-9aec-4db1-aa89-4f456b8e62c2",
+   "business_id": "f2b21111-71d4-49f7-a4d2-e1ebff0f7873",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

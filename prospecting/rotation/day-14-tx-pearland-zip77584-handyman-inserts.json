@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "d9305510-d712-4ce5-9293-975345d7b054",
+      "name": "LAKM Handyman Services",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 504-9999",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.lakmhandymanservices.com/"
+    },
+    {
+      "id": "99ed7b39-e4ff-4c09-b87d-b5e52f629afc",
+      "name": "Affordable Pearland Handyman",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 532-5122",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.pearlandhandyman.com/"
+    },
+    {
+      "id": "c5a24dac-5cc5-467d-8871-610c9244a842",
+      "name": "Shadow Creek Home Service",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 962-5701",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://shadowcreekservice.com/"
+    },
+    {
+      "id": "292bea1e-20d3-404b-911e-1bf00d5b9adb",
+      "name": "Rick's Maintenance and More",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(281) 489-0844",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://ricksmaintenanceandmore.com/"
+    },
+    {
+      "id": "cebcf3ef-924d-46a4-82b0-97fb62fdb197",
+      "name": "Apex Home Repair",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(713) 679-3666",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://apexhomerepair.net/"
+    },
+    {
+      "id": "7b438508-8713-4063-b557-fece94922b36",
+      "name": "Handy Daddy",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 687-1538",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://handydaddytexas.com/"
+    },
+    {
+      "id": "16265383-cb4c-4f60-b983-a847d9283bdc",
+      "name": "Nathan's Handyman Services",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 491-1490",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    },
+    {
+      "id": "e85f3421-6b5f-4d5f-b96d-d9978ec37640",
+      "name": "Shadow Creek Handyman",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(832) 270-4787",
+      "phone_verified": false,
+      "service_zips": [
+        "77584"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7c0f556f-ea0c-4853-aee9-3ff45e51804a",
+      "business_id": "d9305510-d712-4ce5-9293-975345d7b054",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "ecbd964d-00e5-43fd-97f3-ad0112921495",
+      "business_id": "99ed7b39-e4ff-4c09-b87d-b5e52f629afc",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "8f3fb213-7080-4451-97b8-749bfbcab7e1",
+      "business_id": "c5a24dac-5cc5-467d-8871-610c9244a842",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "755f7546-ecfe-4d80-9dfe-0cc3f0f0559c",
+      "business_id": "292bea1e-20d3-404b-911e-1bf00d5b9adb",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "228161bf-09f3-4cad-b2dc-184556e8ad54",
+      "business_id": "cebcf3ef-924d-46a4-82b0-97fb62fdb197",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "463f020b-dce0-4a80-9c02-4960b3552045",
+      "business_id": "7b438508-8713-4063-b557-fece94922b36",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "85703cac-6005-483a-a669-25492a719555",
+      "business_id": "16265383-cb4c-4f60-b983-a847d9283bdc",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "5bed209e-d5f8-4d4d-ab6c-8b558e0e4380",
+      "business_id": "e85f3421-6b5f-4d5f-b96d-d9978ec37640",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}
