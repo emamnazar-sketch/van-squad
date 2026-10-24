@@ -767,6 +767,48 @@
         '<div class="disclosure">' +
         '<strong>Sources.</strong> Abby\u2019s Mobile Grooming, "Mobile Dog Grooming That Comes Straight to You" (medium.com); Broadmoor Mobile Dog Grooming, FAQ (broadmoormobilegrooming.com); Mobile Pet Grooming AZ, FAQ (mobilepetgroomingaz.com); Groombuggy, "Grooming Van Privacy" policy (groombuggy.com); Boops n Bubbles, "Why Anxious Dogs Do Better with a Mobile Groomer" (boopsnbubbles.com).' +
         '</div>'
+    },
+    {
+      slug: 'how-much-does-house-cleaning-cost-in-sacramento',
+      title: 'How Much Does House Cleaning Cost in Sacramento?',
+      date: '2026-10-23',
+      category: 'Home cleaning',
+      excerpt: 'Sacramento house cleaners average $22.81 an hour in 2026. Standard cleans run $90-$180, deep cleans $230-$600 \u2014 local prices, what drives quotes in the metro, and how to pay less.',
+      metaDescription: 'House cleaning in Sacramento costs about $22.81/hr on average in 2026. Standard cleans run $90-$180, deep cleans $230-$600. Local prices and ways to save.',
+      readTime: '5 min read',
+      updated: '2026-10-23',
+      related: ['how-much-do-you-pay-for-regular-house-cleaning', 'deep-clean-cost-2026'],
+      images: [
+        { src: 'images/blog/how-much-does-house-cleaning-cost-in-sacramento-hero.jpg', alt: 'House cleaner wiping a light kitchen counter with a blue cloth in a bright, plain Sacramento kitchen, a clear spray bottle on the counter beside her', caption: 'Sacramento cleaners average about $22.81 an hour in 2026 \u2014 a standard clean for a typical home runs $90–$180.' },
+        { src: 'images/blog/how-much-does-house-cleaning-cost-in-sacramento-walkthrough.jpg', alt: 'House cleaner holding a clipboard during a walkthrough of a bright, empty living room, cleaning bucket and mop by the glass doors behind him', caption: 'A two-minute walkthrough before the first clean sets the price \u2014 and prevents surprises after it.' },
+        { src: 'images/blog/how-much-does-house-cleaning-cost-in-sacramento-driveway.jpg', alt: 'House cleaner carrying a supply caddy up a sunny driveway toward a craftsman-style Sacramento home, car parked at the curb', caption: 'Recurring biweekly visits cost less per visit \u2014 the cleaner already knows your home.' }
+      ],
+      tldr: 'In Sacramento, a house cleaner costs about $22.81 an hour on average (Care.com, October 2026). A standard one-time cleaning for a typical home runs $90 to $180, and a deep cleaning runs $230 to $600. Recurring weekly or biweekly visits usually cost less per visit than one-time cleanings.',
+      faq: [
+        { q: 'How much does a house cleaner charge per hour in Sacramento?', a: 'About $22.81 an hour on average as of October 2026, with starting rates near $22.78 and experienced cleaners reaching $28 or more (Care.com).' },
+        { q: 'How much is a standard house cleaning in Sacramento?', a: '$90 to $180 for most homes, with about $120 common for a typical family home (HomeGuide, HomeYou).' },
+        { q: 'How much does deep cleaning cost in Sacramento?', a: '$230 to $600 depending on home size and condition (HomeGuide). First-time cleans are usually priced in this range.' },
+        { q: 'What is included in a standard house cleaning?', a: 'Kitchen surfaces and appliance exteriors, bathroom scrubbing, floor vacuuming and mopping, and dusting throughout. Interior windows, laundry, and organizing are usually add-ons \u2014 confirm before the visit.' },
+        { q: 'How do I find a house cleaner near me in Sacramento?', a: 'Search Van Squads by your ZIP code to see local cleaning businesses that come to your home \u2014 Sacramento, Elk Grove, Roseville, Rancho Cordova, Citrus Heights, and West Sacramento are all covered \u2014 then request a quote from the business\u2019s profile.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What Sacramento homeowners actually pay</h3>' +
+        '<p>House cleaning in Sacramento is priced two ways: by the hour, or as a flat price for the whole job. Here is what the 2026 Sacramento cost guides show:</p>' +
+        '<table class="price-table"><thead><tr><th>Cleaning type</th><th>Typical Sacramento price</th></tr></thead><tbody><tr><td>Cleaner by the hour</td><td>$22.78–$28.07 per hour</td></tr><tr><td>Apartment cleaning</td><td>$80–$100</td></tr><tr><td>Standard clean, typical family home</td><td>$90–$180 (about $120 is common)</td></tr><tr><td>Deep cleaning</td><td>$230–$600</td></tr><tr><td>Move-in / move-out cleaning</td><td>Priced like a deep clean \u2014 ask for a flat quote</td></tr></tbody></table>' +
+        '<p>Sacramento also runs a little cheaper than California overall: the statewide starting average is $24.51 an hour against Sacramento\u2019s $22.78.</p>' +
+        '<h3>What changes the price in Sacramento?</h3>' +
+        '<p>Four things move a Sacramento quote more than anything else:</p>' +
+        '<ul class="check-list"><li><strong>Home size and bathrooms.</strong> Bedrooms set the baseline; bathrooms move the quote most. A 4-bedroom in Elk Grove or Roseville simply takes longer than a 2-bedroom condo in Midtown.</li><li><strong>First clean vs. recurring.</strong> Almost every Sacramento cleaner charges more for the first visit \u2014 it is effectively a deep clean that brings the home to a maintainable level. After that, weekly and biweekly visits drop to the standard rate.</li><li><strong>The type of clean.</strong> A standard visit covers kitchens, bathrooms, floors, and dusting. Deep cleaning adds the detail work: baseboards, inside appliances, grout, and windows. Move-in and move-out cleans are priced like deep cleans because the home is empty and every surface is in scope.</li><li><strong>Where you live in the metro.</strong> Cleaners price in travel. Homes in Natomas, Land Park, and East Sacramento sit inside most service areas; outlying homes in Folsom or Lincoln may see a travel fee or a higher minimum.</li></ul>' +
+        '{{img:1}}' +
+        '<h3>How to pay less without getting a worse clean</h3>' +
+        '<ul class="check-list"><li><strong>Book recurring.</strong> A biweekly schedule is the sweet spot for most Sacramento homes \u2014 frequent enough that no visit starts from scratch, and priced lower per visit than one-time cleans.</li><li><strong>Bundle the extras into one visit.</strong> Fridge, oven, and interior windows added to a scheduled clean cost less than booking them separately.</li><li><strong>Get flat quotes, not open hourly ones.</strong> For a standard or deep clean, ask for the whole-job price in writing before the visit.</li></ul>' +
+        '<h3>A Sacramento cleaner listed on Van Squads</h3>' +
+        '<p><strong>Pro Quality Clean</strong> is a house cleaning business based in Downtown Sacramento (95814) and listed on Van Squads, serving homes across the central city. You can see their services and request a quote directly from their profile: <a href="/business/pro-quality-clean">Pro Quality Clean on Van Squads</a>.</p>' +
+        '<p>Van Squads currently lists 8 house cleaning businesses across the Sacramento metro \u2014 including cleaners in Elk Grove, Rancho Cordova, and Citrus Heights. Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=95814">search house cleaning near 95814</a>.</p>' +
+        '<p>Comparing against the national picture? Read our <a href="/blog/how-much-do-you-pay-for-regular-house-cleaning/">guide to regular house cleaning prices</a>.</p>' +
+        '{{img:2}}' +
+        '<div class="disclosure"><strong>Sources.</strong> Care.com, "How Much Does House Cleaning Cost in Sacramento, CA?" (care.com, October 2026); HomeGuide, "The 10 Best House Cleaning Services in Sacramento, CA (2026)" (homeguide.com); HomeYou, "Cleaning Services in Sacramento, CA \u2014 Costs 10/2026" (homeyou.com).</div>'
     }
   ];
 
