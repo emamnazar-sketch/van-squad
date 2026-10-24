@@ -895,6 +895,53 @@
         '<p>Van Squads currently lists 11 handyman businesses across the Sacramento metro — including handymen in West Sacramento, Arden-Arcade, Roseville, and Rocklin. Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=95814">search handyman services near 95814</a>.</p>' +
         '{{img:2}}' +
         '<div class="disclosure"><strong>Sources.</strong> HomeBlue, "Handyman Prices in Sacramento, California" (homeblue.com); HomeAdvisor, "Top-Rated Handyman Services Experts in Sacramento, CA" — general rates $60–$80/hr, service charge $80 (homeadvisor.com); Angi, "How Much Does It Cost to Hire a Handyman? [2026 Data]" — national project and job prices, updated Sep 23, 2026 (angi.com).</div>'
+    },
+    {
+      slug: 'how-much-does-a-handyman-cost-in-oklahoma-city',
+      title: 'How Much Does a Handyman Cost in Oklahoma City?',
+      date: '2026-10-24',
+      category: 'Handyman',
+      excerpt: 'Oklahoma City handymen cost $40–$80 an hour. A half day runs $170–$310, a full day $330–$620 — local prices, common job costs, what drives quotes in the metro, and how to pay less.',
+      metaDescription: 'A handyman in Oklahoma City costs $40–$80/hr. Half day $170–$310, full day $330–$620, minimums $60–$100. Local prices and ways to save.',
+      readTime: '4 min read',
+      updated: '2026-10-24',
+      related: ['how-much-does-a-handyman-cost-in-sacramento', 'how-much-does-house-cleaning-cost-in-oklahoma-city'],
+      images: [
+        { src: 'images/blog/how-much-does-a-handyman-cost-in-oklahoma-city-hero.jpg', alt: 'Handyman caulking the edge of a bathtub in a bright white bathroom in an Oklahoma City home, one caulk gun in hand, plain walls and lots of empty space', caption: 'Oklahoma City handymen run $40–$80 an hour — a small job like re-caulking is cheapest on a bundled list.' },
+        { src: 'images/blog/how-much-does-a-handyman-cost-in-oklahoma-city-fence-gate.jpg', alt: 'Handyman tightening the hinge on a wooden fence gate in a sunny backyard in Moore, one drill in hand, plain fence and lawn behind', caption: 'Loose fence gates are a spring staple in the Oklahoma City metro — one visit can cover the gate, the trim, and the patch inside.' },
+        { src: 'images/blog/how-much-does-a-handyman-cost-in-oklahoma-city-painting.jpg', alt: 'Handyman rolling paint onto one wall of a bright, empty living room in an Oklahoma City home, one paint tray on the floor beside him, bare walls around', caption: 'Get the price shape in writing first — hourly, flat per job, or hourly plus a minimum.' }
+      ],
+      tldr: 'In Oklahoma City, a handyman costs about $40 to $80 an hour (HomeBlue). A half day — 4 hours — runs $170 to $310, plus materials, and a full 8-hour day runs $330 to $620. Small, predictable jobs are often flat-priced instead: on Thumbtack’s Edmond page, examples include $75 for a toilet replacement or a ceiling fan and light fixture, and $125 for a faucet replacement, with minimum rates for handyman jobs typically $60–$100.',
+      faq: [
+        { q: 'How much does a handyman charge per hour in Oklahoma City?', a: '$40 to $80 an hour on average (HomeBlue). A local Oklahoma City handyman company’s published rates put minor repairs at $50–$100 an hour, with flat rates of $75–$150 for small jobs.' },
+        { q: 'How much is a handyman for a half day or a full day in Oklahoma City?', a: 'About $170 to $310 for 4 hours and $330 to $620 for 8 hours, plus materials (HomeBlue).' },
+        { q: 'Why is there a minimum charge for a small job?', a: 'It covers travel, tools, and the first hour. Thumbtack’s Edmond page puts minimum rates for handyman jobs at typically $60–$100, which is why bundling several small jobs into one visit pays.' },
+        { q: 'What jobs should I not give a handyman?', a: 'Bigger projects that require licenses and permits — a bathroom remodel, structural work, or new electrical or plumbing runs — need a licensed contractor. A handyman is for repairs, installs, and maintenance in one visit.' },
+        { q: 'How do I find a handyman near me in Oklahoma City?', a: 'Search Van Squads by your ZIP code to see local handyman businesses that come to your home — Oklahoma City (73114) and Moore (73160) are both covered — then request a quote from the business’s profile.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What Oklahoma City homeowners actually pay</h3>' +
+        '<table class="price-table"><thead><tr><th>Booking</th><th>Typical Oklahoma City price</th></tr></thead><tbody><tr><td>Handyman by the hour</td><td>$40–$80 per hour</td></tr><tr><td>2 hours of work</td><td>$80–$160, plus materials</td></tr><tr><td>Half day (4 hours)</td><td>$170–$310, plus materials</td></tr><tr><td>Full day (8 hours)</td><td>$330–$620, plus materials</td></tr><tr><td>Minimum rate for a small job</td><td>Typically $60–$100 (Thumbtack, Edmond)</td></tr></tbody></table>' +
+        '<p>Oklahoma City sits at the low end of national handyman pricing. One local Oklahoma City handyman company’s published rates put minor repairs at $50–$100 an hour, with flat rates of $75–$150 for small jobs — in line with the HomeBlue range above, and below the national hourly averages most national guides quote.</p>' +
+        '<h3>What do common jobs cost?</h3>' +
+        '<p>These flat-rate examples are from Thumbtack’s Edmond, OK handyman page, just north of Oklahoma City:</p>' +
+        '<table class="price-table"><thead><tr><th>Common job</th><th>Flat-rate example (Thumbtack, Edmond)</th></tr></thead><tbody><tr><td>Toilet replacement</td><td>$75</td></tr><tr><td>Ceiling fan and light fixtures</td><td>$75</td></tr><tr><td>Garbage disposal</td><td>$75</td></tr><tr><td>Faucet replacement</td><td>$125</td></tr><tr><td>Attic ladder replacement</td><td>$150</td></tr></tbody></table>' +
+        '<p>For a wider check, Angi’s national 2026 prices run $75–$220 for a door adjustment or repair, $120–$350 for a drywall patch, and $300–$400 for TV mounting. If the handyman buys materials for you, Angi notes a markup of <strong>10% to 30%</strong> above retail is common — supplying your own faucet, fan, or fixtures removes that markup.</p>' +
+        '<h3>What changes the price in Oklahoma City?</h3>' +
+        '<p><strong>The list, not just the hour.</strong> One visit that covers a running toilet, a sticking door, and a drywall patch in the same home spreads one minimum fee across three jobs. Three separate visits pay that minimum three times — Thumbtack itself gives bundling as its cost-saving tip for handyman work.</p>' +
+        '<p><strong>Where you live in the metro.</strong> Van Squads lists handymen covering Oklahoma City itself (73114) and Moore (73160), just south of the city. Homes inside a handyman’s regular route rarely see a travel charge; jobs well outside it — out toward Edmond or Norman — are more likely to carry a higher minimum.</p>' +
+        '<p><strong>Skill and licensing.</strong> Basic repairs and installs sit at the low end of the range. A local OKC rates page prices carpentry higher, at $70–$130 an hour, and simple electrical or plumbing tasks at $75–$150 an hour — and bigger electrical or plumbing work legally needs a licensed trade, not a handyman.</p>' +
+        '<p><strong>Storm-season timing.</strong> Oklahoma City’s spring storm season leaves a trail of loose fence gates, damaged trim, and small exterior repairs across the metro, and handymen book up fast in the weeks after a storm. A non-urgent list waits cheaper in a quiet week than in the first week after high winds.</p>' +
+        '{{img:1}}' +
+        '<h3>How to pay less without getting worse work</h3>' +
+        '<ul class="check-list"><li><strong>Bundle the list.</strong> Write down every small repair first, then book one visit for all of it — this is the single biggest saving on handyman work.</li><li><strong>Supply your own materials.</strong> Buy the faucet, fan, or fixture yourself when you can, and avoid the 10–30% materials markup.</li><li><strong>Get the price shape in writing.</strong> Ask whether you are paying hourly, flat per job, or hourly plus a minimum — and what that minimum is — before the visit starts.</li></ul>' +
+        '<h3>An Oklahoma City handyman listed on Van Squads</h3>' +
+        '<p><strong>Handyman OKC</strong> is a handyman business listed on Van Squads, serving homes in Oklahoma City (73114). You can see their listing and request a quote directly from their profile: <a href="/business/handyman-okc">Handyman OKC on Van Squads</a>.</p>' +
+        '<p>Van Squads currently lists 13 handyman businesses across the Oklahoma City metro — including handymen in Oklahoma City (73114) and Moore (73160). Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=73114">search handyman services near 73114</a>.</p>' +
+        '<p>You can also browse Oklahoma City house cleaning on Van Squads — see our <a href="/blog/how-much-does-house-cleaning-cost-in-oklahoma-city/">guide to house cleaning prices in Oklahoma City</a> for local cleaning prices.</p>' +
+        '{{img:2}}' +
+        '<div class="disclosure"><strong>Sources.</strong> HomeBlue, "Handyman Prices in Oklahoma City, Oklahoma" (homeblue.com); Thumbtack, "The 10 Best Handyman Services in Edmond, OK" — minimum rates and flat-rate examples (thumbtack.com); Handyman Services OKC, "Handyman Rates in Oklahoma City" (handymanservicesokc.com); Angi, "How Much Does It Cost to Hire a Handyman? [2026 Data]" — national job prices and materials markup (angi.com).</div>'
     }
   ];
 
