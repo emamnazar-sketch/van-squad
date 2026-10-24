@@ -809,6 +809,46 @@
         '<p>Comparing against the national picture? Read our <a href="/blog/how-much-do-you-pay-for-regular-house-cleaning/">guide to regular house cleaning prices</a>.</p>' +
         '{{img:2}}' +
         '<div class="disclosure"><strong>Sources.</strong> Care.com, "How Much Does House Cleaning Cost in Sacramento, CA?" (care.com, October 2026); HomeGuide, "The 10 Best House Cleaning Services in Sacramento, CA (2026)" (homeguide.com); HomeYou, "Cleaning Services in Sacramento, CA \u2014 Costs 10/2026" (homeyou.com).</div>'
+    },
+    {
+      slug: 'how-much-does-house-cleaning-cost-in-oklahoma-city',
+      title: 'How Much Does House Cleaning Cost in Oklahoma City?',
+      date: '2026-10-24',
+      category: 'Home cleaning',
+      excerpt: 'Oklahoma City independent maids average about $15 an hour. Recurring cleans run $75-$160 by home size, one-time cleans $150-$300, deep cleans $200-$400 — local prices, what drives quotes in the metro, and how to pay less.',
+      metaDescription: 'House cleaning in Oklahoma City: maids average about $15/hr. Recurring cleans $75-$160, one-time $150-$300, deep $200-$400. Local prices and ways to save.',
+      readTime: '5 min read',
+      updated: '2026-10-24',
+      related: ['how-much-does-house-cleaning-cost-in-sacramento', 'how-much-do-you-pay-for-regular-house-cleaning'],
+      images: [
+        { src: 'images/blog/how-much-does-house-cleaning-cost-in-oklahoma-city-hero.jpg', alt: 'House cleaner mopping a bright wood-floor entryway in a brick Oklahoma City home, one bucket beside her, plain walls and lots of empty space', caption: 'Oklahoma City recurring cleans start at $75 a visit for homes under 1,000 sq ft — frequency moves the price most.' },
+        { src: 'images/blog/how-much-does-house-cleaning-cost-in-oklahoma-city-windows.jpg', alt: 'House cleaner wiping the inside of one large sunny living-room window in an Edmond home, one cloth in hand, bare bright room behind', caption: 'Interior windows are an add-on, not part of a standard clean — bundle them into a scheduled visit to pay less.' },
+        { src: 'images/blog/how-much-does-house-cleaning-cost-in-oklahoma-city-laundry.jpg', alt: 'House cleaner folding a stack of white towels in a bright laundry room in a Norman home, one laundry basket beside her, plain background', caption: 'A first deep clean is priced at about twice the weekly rate on local lists — after that, recurring visits drop.' }
+      ],
+      tldr: 'In Oklahoma City, an independent maid averages about $15 an hour (Care.com, October 2026). A recurring clean for a 1,001–2,000 sq ft home runs $95 a visit weekly, $110 biweekly, or $140 monthly on a published local price list (Clean Pros). A one-time clean for a standard 1,500 sq ft home runs $150 to $300, and a deep cleaning runs $200 to $400.',
+      faq: [
+        { q: 'How much does a house cleaner charge per hour in Oklahoma City?', a: 'About $15 an hour on average for an independent maid in Oklahoma City (Care.com, October 2026). Cleaning companies that send a team quote by the job or by square footage instead of by the hour.' },
+        { q: 'How much is a standard house cleaning in Oklahoma City?', a: 'For a 1,001–2,000 sq ft home, $95 a visit weekly, $110 biweekly, or $140 monthly on a published local price list (Clean Pros). A one-time clean for a 1,500 sq ft home runs $150–$300 (CottageCare, Downtown Oklahoma City).' },
+        { q: 'How much does deep cleaning cost in Oklahoma City?', a: '$200 to $400 for a typical home (CottageCare). On the Clean Pros list, a one-time deep clean is priced at twice the weekly rate for the same square footage.' },
+        { q: 'What is included in a standard house cleaning?', a: 'Kitchen countertops, stovetop, and appliance exteriors, bathroom scrubbing, floor vacuuming and mopping, and dusting throughout. Inside ovens and fridges, interior windows, and laundry are usually add-ons — confirm before the visit.' },
+        { q: 'How do I find a house cleaner near me in Oklahoma City?', a: 'Search Van Squads by your ZIP code to see local cleaning businesses that come to your home — Oklahoma City (73120), Edmond (73012), and Norman (73072) are all covered — then request a quote from the business’s profile.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What Oklahoma City homeowners actually pay</h3>' +
+        '<table class="price-table"><thead><tr><th>Cleaning type</th><th>Typical Oklahoma City price</th></tr></thead><tbody><tr><td>Independent maid, by the hour</td><td>About $15 per hour on average</td></tr><tr><td>Recurring clean, under 1,000 sq ft</td><td>$75 weekly / $85 biweekly / $110 monthly</td></tr><tr><td>Recurring clean, 1,001–2,000 sq ft</td><td>$95 weekly / $110 biweekly / $140 monthly</td></tr><tr><td>Recurring clean, 2,001–3,000 sq ft</td><td>$120 weekly / $130 biweekly / $160 monthly</td></tr><tr><td>One-time clean, 1,500 sq ft home</td><td>$150–$300</td></tr><tr><td>Deep cleaning</td><td>$200–$400</td></tr><tr><td>Move-out cleaning</td><td>$110–$250 (studio/1-bed) to $300–$550 (3-bed house)</td></tr></tbody></table>' +
+        '<p>Oklahoma City sits well below the national average: HomeAdvisor put the average Oklahoma City cleaning at about $127 a visit, against a national average near $175. Frequency is the biggest lever after size — the same 2,000 sq ft home costs $95 on a weekly plan and $140 as a monthly visit on the local list above.</p>' +
+        '<h3>What changes the price in Oklahoma City?</h3>' +
+        '<ul class="check-list"><li><strong>Home size, priced by the square foot.</strong> Most Oklahoma City services quote by square footage and frequency, not by the hour. Bathrooms add time on top of the square-foot baseline, so a 3-bed, 3-bath in Edmond will quote higher than a 3-bed, 2-bath of the same size in south Oklahoma City.</li><li><strong>First clean vs. recurring.</strong> Expect the first visit to cost more — on the Clean Pros list, a one-time deep clean is priced at twice the weekly rate for the same home. Once a home is on a weekly or biweekly rhythm, each visit starts from a maintained level and the per-visit price drops.</li><li><strong>The type of clean.</strong> A standard visit covers kitchens, bathrooms, floors, and dusting. Deep cleaning adds baseboards, grout, inside appliances, and window tracks. Move-in and move-out cleans are priced by bedroom count and run highest in late spring through early fall, when lease turnover peaks in Oklahoma City — book two to three weeks ahead in August, especially for rentals in Norman.</li><li><strong>Where you live in the metro.</strong> Van Squads lists house cleaners covering Oklahoma City itself (73120), Edmond (73012), and Norman (73072). Homes inside a cleaner’s regular route rarely see a travel charge; homes well outside it may see a higher minimum.</li></ul>' +
+        '{{img:1}}' +
+        '<h3>How to pay less without getting a worse clean</h3>' +
+        '<ul class="check-list"><li><strong>Book recurring.</strong> Weekly is cheapest per visit, biweekly is the sweet spot for most Oklahoma City homes — frequent enough that no visit starts from scratch.</li><li><strong>Bundle the extras into one visit.</strong> Fridge, oven, and interior windows added to a scheduled clean cost less than booking them separately.</li><li><strong>Get a flat quote by square foot, in writing.</strong> Ask for the whole-job price for your home’s size and frequency before the first visit, so the hourly clock is not your problem.</li></ul>' +
+        '<h3>An Oklahoma City cleaner listed on Van Squads</h3>' +
+        '<p><strong>Thunder Cleaning Services OKC</strong> is a house cleaning business listed on Van Squads, serving homes in Oklahoma City (73120). You can see their listing and request a quote directly from their profile: <a href="/business/thunder-cleaning-services-okc">Thunder Cleaning Services OKC on Van Squads</a>.</p>' +
+        '<p>Van Squads currently lists 15 house cleaning businesses across the Oklahoma City metro — including cleaners in Oklahoma City, Edmond, and Norman. Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=73120">search house cleaning near 73120</a>.</p>' +
+        '<p>Comparing with another metro? Read our <a href="/blog/how-much-does-house-cleaning-cost-in-sacramento/">guide to house cleaning prices in Sacramento</a>.</p>' +
+        '{{img:2}}' +
+        '<div class="disclosure"><strong>Sources.</strong> Care.com, "Find THE BEST Maids Near Me in Oklahoma City, OK" (care.com, October 2026); Clean Pros, "Residential Maid Service Price List, Oklahoma City" (callcleanpros.com); CottageCare, "House Cleaning Services in Downtown Oklahoma City, OK" (cottagecare.com); Masters’ Guild, "Move-Out Cleaning in Oklahoma City, OK" (mastersguild.io, updated 2026-09-16); Noble Cleaning Services, "House Cleaning Cost," citing HomeAdvisor Oklahoma City average (noblecleaningservice.com).</div>'
     }
   ];
 
