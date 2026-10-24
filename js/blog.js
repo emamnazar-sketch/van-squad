@@ -849,6 +849,52 @@
         '<p>Comparing with another metro? Read our <a href="/blog/how-much-does-house-cleaning-cost-in-sacramento/">guide to house cleaning prices in Sacramento</a>.</p>' +
         '{{img:2}}' +
         '<div class="disclosure"><strong>Sources.</strong> Care.com, "Find THE BEST Maids Near Me in Oklahoma City, OK" (care.com, October 2026); Clean Pros, "Residential Maid Service Price List, Oklahoma City" (callcleanpros.com); CottageCare, "House Cleaning Services in Downtown Oklahoma City, OK" (cottagecare.com); Masters’ Guild, "Move-Out Cleaning in Oklahoma City, OK" (mastersguild.io, updated 2026-09-16); Noble Cleaning Services, "House Cleaning Cost," citing HomeAdvisor Oklahoma City average (noblecleaningservice.com).</div>'
+    },
+    {
+      slug: 'how-much-does-a-handyman-cost-in-sacramento',
+      title: 'How Much Does a Handyman Cost in Sacramento?',
+      date: '2026-10-24',
+      category: 'Handyman',
+      excerpt: 'Sacramento handymen cost $50–$100 an hour. A half day runs $210–$400, a full day $420–$790 — local prices, common job costs, what drives quotes in the metro, and how to pay less.',
+      metaDescription: 'A handyman in Sacramento costs $50–$100/hr. Half day $210–$400, full day $420–$790, plus an ~$80 service charge. Local prices and ways to save.',
+      readTime: '4 min read',
+      updated: '2026-10-24',
+      related: ['how-much-does-house-cleaning-cost-in-sacramento', 'how-much-does-a-handyman-cost-per-hour'],
+      images: [
+        { src: 'images/blog/how-much-does-a-handyman-cost-in-sacramento-hero.jpg', alt: 'Handyman tightening a door latch on a sticking interior door in a bright Sacramento home entry, one toolbox open on the floor beside him', caption: 'Sacramento handymen run $50–$100 an hour — a sticking door is a one-visit fix when it is on a bundled list.' },
+        { src: 'images/blog/how-much-does-a-handyman-cost-in-sacramento-bookcase.jpg', alt: 'Handyman assembling a flat-pack bookcase on a sunny living-room floor, panels laid out neatly beside her, plain wall behind', caption: 'Furniture assembly, door fixes, and patches in one visit share one service charge — three separate visits pay it three times.' },
+        { src: 'images/blog/how-much-does-a-handyman-cost-in-sacramento-mirror.jpg', alt: 'Handyman hanging a large round mirror on a bright hallway wall, holding a small level against its top edge, bare wall around it', caption: 'Get the price shape in writing first — hourly, flat per job, or hourly plus a service charge.' }
+      ],
+      tldr: 'In Sacramento, a handyman costs about $50 to $100 an hour (HomeBlue). A half day — 4 hours — runs $210 to $400, plus materials, and a full 8-hour day runs $420 to $790. Sacramento listings on HomeAdvisor show general rates of $60–$80 an hour with an $80 service charge, so expect a minimum charge even for a small job.',
+      faq: [
+        { q: 'How much does a handyman charge per hour in Sacramento?', a: '$50 to $100 an hour on average (HomeBlue). Sacramento listings on HomeAdvisor show general rates of $60–$80 an hour.' },
+        { q: 'How much is a handyman for a half day or a full day in Sacramento?', a: 'About $210 to $400 for 4 hours and $420 to $790 for 8 hours, plus materials (HomeBlue).' },
+        { q: 'Why is there a service charge or minimum for a small job?', a: 'It covers travel, tools, and the first hour. HomeAdvisor’s Sacramento listings show a service charge of about $80, and Angi notes most handymen charge a minimum call-out fee for single small jobs.' },
+        { q: 'What jobs should I not give a handyman?', a: 'Bigger projects that require licenses and permits — a bathroom remodel, structural work, or new electrical or plumbing runs — need a licensed contractor. A handyman is for repairs, installs, and maintenance in one visit (Angi, HomeBlue).' },
+        { q: 'How do I find a handyman near me in Sacramento?', a: 'Search Van Squads by your ZIP code to see local handyman businesses that come to your home — Downtown, Midtown, Land Park, Antelope, West Sacramento, Arden-Arcade, Roseville, Rocklin, and Lincoln are all covered — then request a quote from the business’s profile.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What Sacramento homeowners actually pay</h3>' +
+        '<table class="price-table"><thead><tr><th>Booking</th><th>Typical Sacramento price</th></tr></thead><tbody><tr><td>Handyman by the hour</td><td>$50–$100 per hour</td></tr><tr><td>2 hours of work</td><td>$100–$200, plus materials</td></tr><tr><td>Half day (4 hours)</td><td>$210–$400, plus materials</td></tr><tr><td>Full day (8 hours)</td><td>$420–$790, plus materials</td></tr><tr><td>Service charge on Sacramento listings</td><td>About $80</td></tr></tbody></table>' +
+        '<p>Most Sacramento handymen do not price a 20-minute fix at 20 minutes of pay. The hourly range, a service charge, or a minimum fee covers the drive, the tools, and the first hour — which is why bundling a short list into one visit is the main way to pay less per job.</p>' +
+        '<h3>What do common jobs cost?</h3>' +
+        '<p>These are national 2026 prices from Angi — use them to sanity-check a Sacramento quote, not as a local quote:</p>' +
+        '<table class="price-table"><thead><tr><th>Common job</th><th>Average cost, national (Angi, 2026)</th></tr></thead><tbody><tr><td>Door adjustment / repair</td><td>$75–$220</td></tr><tr><td>Faucet replacement</td><td>$100–$300</td></tr><tr><td>Drywall patch</td><td>$120–$350</td></tr><tr><td>Ceiling fan installation</td><td>$100–$400</td></tr><tr><td>Hanging shelves</td><td>$150–$500</td></tr><tr><td>TV mounting</td><td>$300–$400</td></tr></tbody></table>' +
+        '<p>Nationally, a handyman project totals <strong>$164 to $647</strong>, with an average of <strong>$405</strong> (Angi, 2026). If the handyman buys materials for you, Angi notes a markup of <strong>10% to 30%</strong> above retail is common — supplying your own faucet, fan, or fixtures removes that markup.</p>' +
+        '<h3>What changes the price in Sacramento?</h3>' +
+        '<p><strong>The list, not just the hour.</strong> One visit that covers a sticking door in Land Park, a drywall patch in Midtown, and shelves in the same home spreads one service charge across three jobs. Three separate visits pay that charge three times.</p>' +
+        '<p><strong>Where you live in the metro.</strong> The Sacramento metro is wide. A handyman based downtown covering Antelope (95843), Roseville and Rocklin (95678–95765), and Lincoln (95648) is driving real miles between jobs, and outlying jobs are more likely to carry a minimum or a travel charge. Jobs inside the central ZIPs — Downtown (95814), Midtown (95816), and Land Park (95818) — sit inside most service areas.</p>' +
+        '<p><strong>Skill and licensing.</strong> Basic repairs and installs sit at the low end of the range. Work that needs a trade license or a specialized skill — electrical or plumbing work, for example — prices higher, and some of it legally needs a licensed trade, not a handyman (HomeBlue).</p>' +
+        '<p><strong>Emergency and timing.</strong> An urgent, same-day call, work that spans several days, or a job that needs a permit or special equipment all push the price up. Flexible scheduling and a job that finishes in one day push it down (HomeBlue).</p>' +
+        '{{img:1}}' +
+        '<h3>How to pay less without getting worse work</h3>' +
+        '<ul class="check-list"><li><strong>Bundle the list.</strong> Write down every small repair first, then book one visit for all of it — this is the single biggest saving on handyman work.</li><li><strong>Supply your own materials.</strong> Buy the faucet, fan, or fixture yourself when you can, and avoid the 10–30% materials markup.</li><li><strong>Get the price shape in writing.</strong> Ask whether you are paying hourly, flat per job, or hourly plus a service charge — and what the minimum is — before the visit starts.</li></ul>' +
+        '<h3>A Sacramento handyman listed on Van Squads</h3>' +
+        '<p><strong>AFG Handyman Service</strong> is a handyman business listed on Van Squads for handyman repairs and installs at your location, serving Sacramento-area homes across 10 ZIPs — Downtown Sacramento (95814), Midtown (95816), Land Park (95818), Antelope (95843), Roseville (95678, 95661, 95747), Rocklin (95677, 95765), and Lincoln (95648). You can see their services and request a quote directly from their profile: <a href="/business/afg-handyman-service">AFG Handyman Service on Van Squads</a>.</p>' +
+        '<p>Van Squads currently lists 11 handyman businesses across the Sacramento metro — including handymen in West Sacramento, Arden-Arcade, Roseville, and Rocklin. Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=95814">search handyman services near 95814</a>.</p>' +
+        '{{img:2}}' +
+        '<div class="disclosure"><strong>Sources.</strong> HomeBlue, "Handyman Prices in Sacramento, California" (homeblue.com); HomeAdvisor, "Top-Rated Handyman Services Experts in Sacramento, CA" — general rates $60–$80/hr, service charge $80 (homeadvisor.com); Angi, "How Much Does It Cost to Hire a Handyman? [2026 Data]" — national project and job prices, updated Sep 23, 2026 (angi.com).</div>'
     }
   ];
 
