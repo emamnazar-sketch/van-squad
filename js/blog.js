@@ -984,6 +984,48 @@
         '<p>Van Squads currently lists 7 mobile auto detailing businesses across the Sacramento metro — including detailers in Downtown, Midtown, and Land Park, and in Folsom and Orangevale. Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=95624">search mobile detailing near 95624</a>.</p>' +
         '{{img:2}}' +
         '<div class="disclosure"><strong>Sources.</strong> Nick\'s Premium Detailing — Mobile Auto Detailing in Sacramento (Sacramento-area mobile package prices for sedans, $150–$370; headlight restoration $60–$150; brings own water and power) (nickspremiumdetailing.com); Panda Hub — Car Detailing in Sacramento, CA (Sacramento package prices: express from $87.90, full detail $249.81) (pandahub.com); University Mobile Detailers — Professional Detailing Sacramento (interior &amp; exterior from $179; full service packages from $329) (universitymobiledetailers.com); Mud2Mirror Detailing — Mobile Auto Detailing Sacramento (maintenance plans $99 monthly / $75 twice a month; 20-mile Sacramento service area; on-site water and electricity required) (mud2mirrordetailing.com); Jobber — Car Detailing Prices 2026 (national averages by service and vehicle size, labeled national; based on Angi and Mobile Tech RX data) (getjobber.com).</div>'
+    },
+    {
+      slug: 'how-much-does-mobile-pet-grooming-cost-in-sacramento',
+      title: 'How Much Does Mobile Pet Grooming Cost in Sacramento?',
+      date: '2026-10-24',
+      category: 'Mobile pet grooming',
+      excerpt: 'Sacramento mobile grooming runs $110–$160 for a bundled full groom, with hourly groomers at $145 for the first hour under 50 lbs — local prices, what drives quotes in the metro, and how to pay less.',
+      metaDescription: 'Mobile pet grooming in Sacramento costs $110–$160 for a bundled full groom. Hourly rates start at $145. Local prices, add-ons, and ways to save.',
+      readTime: '5 min read',
+      updated: '2026-10-24',
+      related: ['how-much-does-house-cleaning-cost-in-sacramento', 'mobile-dog-grooming-cost-vs-salon'],
+      images: [
+        { src: 'images/blog/how-much-does-mobile-pet-grooming-cost-in-sacramento-hero.jpg', alt: 'Groomer blow-drying a fluffy small dog inside a bright mobile grooming van, van door open to daylight, plain background with lots of empty space', caption: 'A bundled mobile full groom in Sacramento runs $110–$160 — the van, and one-on-one time, are what you are paying for.' },
+        { src: 'images/blog/how-much-does-mobile-pet-grooming-cost-in-sacramento-brushing.jpg', alt: 'Homeowner brushing a long-coated dog on a sunny patio in Elk Grove, brush in hand, plain fence behind', caption: 'Brushing between visits is the cheapest way to avoid a matting charge at the van.' },
+        { src: 'images/blog/how-much-does-mobile-pet-grooming-cost-in-sacramento-two-dogs.jpg', alt: 'Homeowner holding two small leashed dogs in a sunny front yard in Land Park, waiting together, plain lawn behind', caption: 'A second dog groomed in the same visit often costs significantly less — the van is already at your curb.' }
+      ],
+      tldr: 'In Sacramento, you\'ll usually pay about $110 to $160 for a bundled mobile full groom — bath, haircut, nails, ears, and glands — and the exact price depends on your dog\'s size (Thumbtack). Some groomers charge by time instead, and that runs higher. One Sacramento-area mobile groomer charges $145 for the first hour for a dog under 50 lbs. A salon groom costs less — full service starts around $40 for a small dog and $75 for a large dog (HomeGuide) — because you\'re not paying for a van to come to your house.',
+      faq: [
+        { q: 'How much does a mobile dog groomer cost in Sacramento?', a: 'About $110–$160 for a bundled full groom, priced by your dog\'s size (Thumbtack). Some groomers charge by the hour instead — $145 for the first hour for a dog under 50 lbs at one Sacramento-area mobile groomer. Nationally, dog grooming averages $60–$80 across standard and mobile services (Thumbtack).' },
+        { q: 'Why does mobile grooming cost more than a salon in Sacramento?', a: 'Because the groomer brings the salon to you — van, water, power, and one-on-one time with just your dog — and drives between homes instead of grooming a lot of dogs in one place. Salon full service starts around $40 for a small dog; mobile bundles run $110–$160.' },
+        { q: 'What is included in a full mobile groom?', a: 'Bath, blow dry, haircut or scissor finish, nail trim, ear cleaning, and gland expression — that\'s the standard bundle (Thumbtack, HomeGuide). Add-ons like teeth brushing, flea treatment, and de-shedding cost extra, usually $10–$25 each.' },
+        { q: 'Can a mobile groomer take my large dog in Sacramento?', a: 'Often, yes, but ask first. Some Sacramento-area mobile groomers limit mobile visits to dogs under 70 lbs and book larger dogs only in limited slots, because the van\'s tub and table have real size limits.' },
+        { q: 'How do I find mobile pet grooming near me in Sacramento?', a: 'Search Van Squads by your ZIP code to see mobile groomers who come to your home — Downtown, Midtown, Land Park, and Elk Grove are all covered — then request a quote from the business\'s profile.' }
+      ],
+      body:
+        '{{img:0}}' +
+        '<h3>What Sacramento pet owners actually pay</h3>' +
+        '<table class="price-table"><thead><tr><th>Service</th><th>Typical price</th></tr></thead><tbody><tr><td>Mobile full groom bundle (bath, haircut, nails, ears, glands)</td><td>$110–$160, by dog size</td></tr><tr><td>Mobile grooming by the hour, dog under 50 lbs</td><td>$145 first hour, then $85/hr</td></tr><tr><td>Mobile grooming by the hour, dog 50–70 lbs</td><td>$160 first hour, then $100/hr</td></tr><tr><td>Salon full service, small dog</td><td>From about $40</td></tr><tr><td>Salon full service, large dog</td><td>From about $75</td></tr><tr><td>Add-ons: nail trim / ear cleaning / teeth brushing</td><td>About $10–$25 each</td></tr></tbody></table>' +
+        '<p>The hourly rows are the published mobile prices of Good Dog Mobile Grooming, which serves the Sacramento metro\'s east side — Folsom, Orangevale, Fair Oaks, Gold River, and parts of Roseville. The bundle and salon rows are from Thumbtack\'s Sacramento page and HomeGuide\'s West Sacramento page. Before you compare two quotes, check if you\'re looking at a flat bundle or an hourly rate. They don\'t compare cleanly.</p>' +
+        '<h3>What changes the price in Sacramento?</h3>' +
+        '<p><strong>Size and coat.</strong> Your dog sets the price, not the appointment slot. A large dog with a heavy coat just takes longer. Mats take extra time to work out, too. Some Sacramento-area mobile groomers only take dogs under 70 lbs for mobile visits, and slots for larger dogs are limited — so book those early.</p>' +
+        '<p><strong>The route, not just the groom.</strong> A mobile groomer drives a full salon van from house to house. If you\'re in Downtown or Midtown (95814, 95816), Land Park (95818), or Elk Grove (95758), you\'re on most local routes. A one-off trip to the edge of a groomer\'s area is harder to fit in, and it can cost more than a stop on a regular route day in your neighborhood.</p>' +
+        '<p><strong>How long since the last groom.</strong> A dog groomed every 4–6 weeks is a shorter visit, and shorter means cheaper. Let a coat go for months — it happens a lot after a Sacramento summer of backyard dust and shedding — and you\'ll pay for the de-matting and the extra bath time. The quote will show it.</p>' +
+        '{{img:1}}' +
+        '<h3>How to pay less without a worse groom</h3>' +
+        '<ul class="check-list"><li><strong>Get on a recurring route.</strong> A standing 4–6 week slot keeps your dog\'s coat easy to work with, keeps each visit shorter, and puts you on the groomer\'s regular day in your part of Sacramento.</li><li><strong>Brush between visits.</strong> A few minutes with a brush at home is the cheapest way to skip a matting charge at the van.</li><li><strong>Groom the second dog in the same visit.</strong> HomeGuide notes prices can be significantly lower for a second and third dog groomed in the same stop — the van is already at your curb.</li></ul>' +
+        '<h3>A Sacramento mobile groomer listed on Van Squads</h3>' +
+        '<p><strong>Sacramento Mobile Pet Grooming</strong> is a mobile pet grooming business listed on Van Squads, serving Downtown Sacramento (95814), Midtown (95816), and Land Park (95818), and Elk Grove (95758). You can see their services and request a quote right from their profile: <a href="/business/sacramento-mobile-pet-grooming">Sacramento Mobile Pet Grooming on Van Squads</a>.</p>' +
+        '<p>Van Squads currently lists 8 mobile pet grooming businesses across the Sacramento metro — including groomers in Elk Grove and Rancho Cordova. Enter your ZIP to see who covers your neighborhood: <a href="/#/browse?zip=95814">search mobile pet grooming near 95814</a>.</p>' +
+        '<p>Grooming day often goes with a house reset, too — see our <a href="/blog/how-much-does-house-cleaning-cost-in-sacramento/">guide to house cleaning prices in Sacramento</a> for local cleaning prices in the same neighborhoods.</p>' +
+        '{{img:2}}' +
+        '<div class="disclosure"><strong>Sources.</strong> Thumbtack — The 10 Best Pet Groomers in Sacramento, CA (mobile groomer cost section) (thumbtack.com); HomeGuide — The 10 Best Dog Groomers in West Sacramento, CA (2026) (homeguide.com); Good Dog Mobile Grooming — Services &amp; Prices (mobile rates; serves Folsom, Orangevale, Fair Oaks, Gold River, and parts of Roseville) (gooddogmobilegrooming.com).</div>'
     }
   ];
 
