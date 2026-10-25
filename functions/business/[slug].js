@@ -731,7 +731,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261025d">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261025e">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
@@ -745,7 +745,14 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.rel-grid a{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;box-shadow:var(--shadow);font-weight:700}' +
     '.rel-grid a span{display:block;color:var(--muted);font-weight:600;font-size:13.5px;margin-top:3px}' +
     '@media(max-width:760px){.rel-grid{grid-template-columns:1fr}.p-hero{height:200px}.p-banner{height:150px}}' +
-    '</style>\n</head>\n<body>\n' +
+    '</style>\n' +
+    '<script async src="https://www.googletagmanager.com/gtag/js?id=G-18RGRLMXXF"></script>\n' +
+    '<script>\n' +
+    '  window.dataLayer = window.dataLayer || [];\n' +
+    '  function gtag(){dataLayer.push(arguments);}\n' +
+    "  gtag('js', new Date());\n" +
+    "  gtag('config', 'G-18RGRLMXXF');\n" +
+    '</script>\n</head>\n<body>\n' +
     '<header class="site-header"><div class="wrap header-inner">' +
     '<a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png" alt="Van Squads"></a>' +
     '<nav class="main-nav" aria-label="Main"><a href="/#/">Home</a><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/#/about">About</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></nav>' +
