@@ -38,10 +38,20 @@ export async function onRequest({ env }) {
     return '  <url><loc>' + u[0] + '</loc><changefreq>' + u[1] + '</changefreq><priority>' + u[2] + '</priority></url>';
   });
   try {
-    var res = await fetch(env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&select=id,name,created_at&order=created_at.asc&limit=1000',
-      { headers: { apikey: env.SUPABASE_ANON_KEY, Authorization: 'Bearer ' + env.SUPABASE_ANON_KEY } });
-    if (res.ok) {
-      var rows = await res.json();
+    /* Supabase REST caps every response at 1,000 rows — page through ALL active
+       businesses or every profile past the first 1,000 is missing from the sitemap.
+       Mirrors the pagination in functions/business/[slug].js (fixed 2026-10-24). */
+    var rows = [], offset = 0;
+    while (offset < 10000) {
+      var res = await fetch(env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&select=id,name,created_at&order=created_at.asc&limit=1000&offset=' + offset,
+        { headers: { apikey: env.SUPABASE_ANON_KEY, Authorization: 'Bearer ' + env.SUPABASE_ANON_KEY } });
+      if (!res.ok) break;
+      var page = await res.json();
+      rows = rows.concat(page);
+      if (page.length < 1000) break;
+      offset += 1000;
+    }
+    if (rows.length) {
       var seen = {};
       rows.forEach(function (b) {
         var s = slugify(b.name) || b.id;
