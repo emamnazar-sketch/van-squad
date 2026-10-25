@@ -1,0 +1,193 @@
+{
+  "businesses": [
+    {
+      "id": "f0a444ee-3039-417a-b004-4e1f627f48e3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kirey's Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(210) 995-4961",
+      "website": "https://www.kireystx.com/mobile-grooming-san-antonio-tx",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78230",
+        "78231",
+        "78249",
+        "78257",
+        "78258",
+        "78260",
+        "78256",
+        "78023",
+        "78213",
+        "78209",
+        "78232",
+        "78248",
+        "78201",
+        "78216",
+        "78212",
+        "78228",
+        "78238",
+        "78240",
+        "78268",
+        "78229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "86bb42b7-74f5-421c-bb1e-ba7d2ddcc8f3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bark & Mane of Northwest San Antonio",
+      "category": "Mobile pet grooming",
+      "phone": "(726) 215-8285",
+      "website": "https://www.barkandmane.com/pet-groomers/northwest-san-antonio-tx/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78230"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7ccebe44-587d-491b-8525-c484bbd055c9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kontota of NW San Antonio",
+      "category": "Mobile pet grooming",
+      "phone": "(210) 350-3110",
+      "website": "https://kontota.com/mobile-dog-grooming-san-antonio-tx/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78230"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2a99ca84-25f9-4d34-837a-e1b763f2e9e7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Happy Hound Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(210) 579-0247",
+      "website": "http://happyhoundgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78230"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c62455b2-d710-4760-983a-6319c8723bf5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pup Country Club",
+      "category": "Mobile pet grooming",
+      "phone": "(210) 491-0221",
+      "website": "https://pupcountryclub.dog/home",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78230"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d65e34ec-6337-4498-a840-f821ad467c4d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pet Bath & Beyond",
+      "category": "Mobile pet grooming",
+      "phone": "(210) 738-2284",
+      "website": "https://petbathandbeyond.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78230"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "411e9afe-b3ca-47ce-810c-6895f13d1dc9",
+      "business_id": "f0a444ee-3039-417a-b004-4e1f627f48e3",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "828f1c4c-0025-4ad3-a77e-e5044d9fa816",
+      "business_id": "86bb42b7-74f5-421c-bb1e-ba7d2ddcc8f3",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4a418c06-8550-4a95-bea9-06c4da1a1381",
+      "business_id": "7ccebe44-587d-491b-8525-c484bbd055c9",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "83d4f536-a992-4bf8-afc1-058d1476c903",
+      "business_id": "2a99ca84-25f9-4d34-837a-e1b763f2e9e7",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0f300d76-ce6d-4297-abe2-4f13082b29d5",
+      "business_id": "c62455b2-d710-4760-983a-6319c8723bf5",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cd4769fd-467c-4859-ba73-2474bba38d93",
+      "business_id": "d65e34ec-6337-4498-a840-f821ad467c4d",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

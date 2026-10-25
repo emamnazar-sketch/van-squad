@@ -1,0 +1,290 @@
+{
+  "businesses": [
+    {
+      "id": "de4fec7e-eca6-4a95-9c58-66d5d79fc501",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lucy Loves To Clean",
+      "category": "House cleaning",
+      "phone": "(737) 264-7875",
+      "website": "https://lucylovestoclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e6cf01af-1e9a-479c-815e-5372093596fc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Austin Cleaning Crew",
+      "category": "House cleaning",
+      "phone": "(512) 256-0490",
+      "website": "https://www.austintxcleaningcrew.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95876624-025a-408c-a7a6-150e30cbab75",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fresco",
+      "category": "House cleaning",
+      "phone": "(512) 402-2166",
+      "website": "http://frescocleaningtx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c2e57d41-0768-4e73-b689-e5fd0b2c95a0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Poppins Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(512) 466-0853",
+      "website": "http://poppinscleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "929c58e9-032e-4e0a-a86b-5029534a0cf6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BritLin Cleaning",
+      "category": "House cleaning",
+      "phone": "(512) 566-3292",
+      "website": "https://www.britlincleaning.com/house-cleaning-austin-tx/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704",
+        "78701",
+        "78702",
+        "78703",
+        "78705",
+        "78721",
+        "78722",
+        "78723",
+        "78724",
+        "78731",
+        "78732",
+        "78733",
+        "78734",
+        "78735",
+        "78736",
+        "78737",
+        "78738",
+        "78739",
+        "78741",
+        "78745",
+        "78746",
+        "78747",
+        "78748",
+        "78749",
+        "78750",
+        "78751",
+        "78752",
+        "78753",
+        "78754",
+        "78756",
+        "78757",
+        "78758",
+        "78759"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "93fb2ea6-c664-4302-b3af-c2b6c01791fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lemon & Co. Cleaning",
+      "category": "House cleaning",
+      "phone": "(512) 782-8531",
+      "website": "https://lemonandcoatx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ec51ed4d-366a-4dea-85f1-0a354d879bfa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tidy Hands Cleaning",
+      "category": "House cleaning",
+      "phone": "(512) 763-5441",
+      "website": "https://www.tidyhandstx.com/areas-served/reliable-cleaning-company-in-zilker-tx",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d372c24c-296f-4c10-ae9a-fa6d92033a87",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "OMG Maids",
+      "category": "House cleaning",
+      "phone": "(512) 900-2636",
+      "website": "https://www.omgmaids.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2da64f68-a955-49cd-bf5b-6127ade19053",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Boardwalk Cleaning Co.",
+      "category": "House cleaning",
+      "phone": "(512) 258-4798",
+      "website": "https://www.boardwalkcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e7f64cdf-1ff4-47b6-af0a-3a51bbfd220f",
+      "business_id": "de4fec7e-eca6-4a95-9c58-66d5d79fc501",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "05bf796f-5136-45bc-90a0-29c0eef9a407",
+      "business_id": "e6cf01af-1e9a-479c-815e-5372093596fc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c6fef538-cc1d-45b6-af01-400277d6a3d5",
+      "business_id": "95876624-025a-408c-a7a6-150e30cbab75",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a4155baa-e99f-47e8-9d23-0a3a9de713f2",
+      "business_id": "c2e57d41-0768-4e73-b689-e5fd0b2c95a0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1e1b516b-d126-47db-af25-df36ab3a4836",
+      "business_id": "929c58e9-032e-4e0a-a86b-5029534a0cf6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f148699-1fc4-46e9-beff-eb4934b4487a",
+      "business_id": "93fb2ea6-c664-4302-b3af-c2b6c01791fb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "21e55970-c8b8-4e75-9c3a-ea02ca88e177",
+      "business_id": "ec51ed4d-366a-4dea-85f1-0a354d879bfa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ca6ac8e5-5357-4408-824b-08ad65e95771",
+      "business_id": "d372c24c-296f-4c10-ae9a-fa6d92033a87",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1678161a-babc-45c4-b1ba-ba5f4bbc455f",
+      "business_id": "2da64f68-a955-49cd-bf5b-6127ade19053",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

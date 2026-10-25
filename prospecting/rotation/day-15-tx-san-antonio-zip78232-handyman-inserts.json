@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "49295324-3745-4517-b71c-51da2ec3200c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Josh the Handyman LLC",
+      "category": "Handyman",
+      "phone": "(210) 980-1180",
+      "website": "https://joshthehandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f9e8a8a5-07ed-4b81-8e74-5a37492ed8ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Squad Home Services",
+      "category": "Handyman",
+      "phone": "(210) 222-2300",
+      "website": "https://www.handysquadhomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a8bdc8c3-a52c-4525-a905-e57f8609f752",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ProMenders Handyman Services",
+      "category": "Handyman",
+      "phone": "(210) 535-6125",
+      "website": "http://promenders.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "224d08b8-437e-4306-a5fc-3cbe7b21f7ea",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Georges Handyman Services",
+      "category": "Handyman",
+      "phone": "(210) 719-0342",
+      "website": "https://www.georgeshandymanservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "717c1129-2ac1-4b30-afd7-341c786de51d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alamo City Handymen",
+      "category": "Handyman",
+      "phone": "(210) 864-9194",
+      "website": "https://alamocityhandymen.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "948a8784-eeb1-4f3d-a223-c3420953a868",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Uncle Sam Handyman LLC",
+      "category": "Handyman",
+      "phone": "(210) 668-0610",
+      "website": "https://unclesamhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "49b196ca-2b11-48e2-93b0-00fd7f376d69",
+      "business_id": "49295324-3745-4517-b71c-51da2ec3200c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7454dab2-be9e-4627-82cd-76c2830686a1",
+      "business_id": "f9e8a8a5-07ed-4b81-8e74-5a37492ed8ab",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "568a9bd4-1992-468c-9197-4f0fa4c1411f",
+      "business_id": "a8bdc8c3-a52c-4525-a905-e57f8609f752",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "84624f4e-722d-4aae-9ca9-37583246169f",
+      "business_id": "224d08b8-437e-4306-a5fc-3cbe7b21f7ea",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6952e169-a508-43fb-b0b8-5e6ab7457b1f",
+      "business_id": "717c1129-2ac1-4b30-afd7-341c786de51d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "57990de4-3dd2-4ecc-9cfe-9b18b5b58efb",
+      "business_id": "948a8784-eeb1-4f3d-a223-c3420953a868",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

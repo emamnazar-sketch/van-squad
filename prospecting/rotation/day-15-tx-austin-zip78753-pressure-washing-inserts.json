@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "96a2edcb-7541-4f43-8cf3-5e0f4f14759e",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Franks Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 883-2456",
+   "phone_verified": false,
+   "service_zips": [
+    "78753"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://frankspressurewashing.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "68792749-32c6-4fc7-9f1a-1a916200676a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "JJ's High Pressure Cleaning",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(737) 268-7431",
+   "phone_verified": false,
+   "service_zips": [
+    "78753"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.jjshighpressure.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "4e7afe35-619b-42ed-b7a9-3f07b3678d32",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "ATX Clean Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 379-6087",
+   "phone_verified": false,
+   "service_zips": [
+    "78753"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://atxcleanllc.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "2b7c2722-2387-4979-bcc6-7baf3a2e6c4a",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Pressure Washer Austin",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 354-9637",
+   "phone_verified": false,
+   "service_zips": [
+    "78753"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://pressurewasheraustin.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "f4fd78cc-2fac-4dc9-bc93-2a241b25bfcd",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "ATX Soft Wash",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 773-6115",
+   "phone_verified": false,
+   "service_zips": [
+    "78753"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.washaustin.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "57663cff-7510-4941-bdc6-78f465b566b5",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Austin Central P.W. and Junk Removal Company",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 348-0094",
+   "phone_verified": false,
+   "service_zips": [
+    "78753"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://austincentralpwc.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "96a2edcb-7541-4f43-8cf3-5e0f4f14759e",
+   "id": "2b4b0a89-f27e-47bb-9bcc-66691aa449e8",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "68792749-32c6-4fc7-9f1a-1a916200676a",
+   "id": "63cfd7aa-4c03-42d5-9995-0c6696f16ae3",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "4e7afe35-619b-42ed-b7a9-3f07b3678d32",
+   "id": "24f4e242-df69-493f-855e-de903c581438",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "2b7c2722-2387-4979-bcc6-7baf3a2e6c4a",
+   "id": "4879d0fc-54ee-4a08-aea8-e608480fad4d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "f4fd78cc-2fac-4dc9-bc93-2a241b25bfcd",
+   "id": "59230be0-fa81-42dc-9e4e-b110a4e7771d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "57663cff-7510-4941-bdc6-78f465b566b5",
+   "id": "756f5ed5-b92a-45a3-91d7-72363cf03775",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  }
+ ]
+}

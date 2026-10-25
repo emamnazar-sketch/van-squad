@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "285a916b-99a3-4be1-847d-baf7cdb594b7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Guardian Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(210) 560-5966",
+   "website": "https://www.guardianpressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b441c0b7-8936-4440-880a-81269a813b55",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Right Way Window Cleaning & Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(210) 287-2355",
+   "website": "https://rightwaycleaningtx.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "583ab1e1-64f2-421d-8dfd-ea71f2e5e5c3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clearstone Exterior Cleaning",
+   "category": "Pressure washing",
+   "phone": "(210) 695-0299",
+   "website": "https://www.clearstonesa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0d70e7f5-647b-49f3-9588-91ec5fe5bc24",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lara's Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(210) 296-8728",
+   "website": "https://laraspressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3a0b30be-a42d-4db2-8dee-1cc5af541159",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Always Shine-N Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(210) 383-8401",
+   "website": "https://housewashsa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "19fe415f-aabd-4da3-96b5-dea9e965bfb2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "210 Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(210) 501-3326",
+   "website": "https://210pressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "90291ac5-6b8f-47d7-869a-cd06da81561e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Texas Pure Clean",
+   "category": "Pressure washing",
+   "phone": "(210) 864-5454",
+   "website": "https://texaspureclean.com/service/pressure-cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "78247"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "9c15c961-d583-4175-a707-3cdd2335efa1",
+   "business_id": "285a916b-99a3-4be1-847d-baf7cdb594b7",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3d809e87-3a75-44c0-8600-785eb3e6e764",
+   "business_id": "b441c0b7-8936-4440-880a-81269a813b55",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "74d2bad5-1ec4-4c2d-94f2-74051be2b2c1",
+   "business_id": "583ab1e1-64f2-421d-8dfd-ea71f2e5e5c3",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "50014cd6-e97f-4147-bfdc-18750fca1605",
+   "business_id": "0d70e7f5-647b-49f3-9588-91ec5fe5bc24",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8f9d0b68-5b7d-4500-9965-e0b6615ec53c",
+   "business_id": "3a0b30be-a42d-4db2-8dee-1cc5af541159",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f124a263-9366-4134-88a1-d731e5268adf",
+   "business_id": "19fe415f-aabd-4da3-96b5-dea9e965bfb2",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "627c98df-2c9e-49a8-9861-3491e4336d14",
+   "business_id": "90291ac5-6b8f-47d7-869a-cd06da81561e",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

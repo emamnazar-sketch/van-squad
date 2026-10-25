@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "5ed9d98d-3d1e-445d-9ef6-03c0746b3c49",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Quality Clean Services",
+      "category": "House cleaning",
+      "phone": "(512) 333-4289",
+      "website": "https://www.qualitycleanatx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "72fa0a34-7a6c-4e58-90e7-e9d06380b4a8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mary's Cleaning Company, LLC",
+      "category": "House cleaning",
+      "phone": "(512) 679-1734",
+      "website": "https://www.marycleaningcompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c7049f9d-ff21-4906-8f24-ff4fd4bc3129",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Effortless",
+      "category": "House cleaning",
+      "phone": "(737) 377-3636",
+      "website": "https://www.maideffortless.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5f006f5e-177b-4495-8859-1f3602246c04",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Amelia's Maids",
+      "category": "House cleaning",
+      "phone": "(512) 248-0434",
+      "website": "https://www.ameliasmaids.com/cleaning-services-pflugerville-tx",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bd59cadc-59f1-4c23-b2e3-c5d3fe915c24",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Steadfast Clean & Shine",
+      "category": "House cleaning",
+      "phone": "(512) 947-6035",
+      "website": "https://www.steadfastcleanandshine.com/faq",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bfe605fa-35aa-4669-853a-29f7d56eb548",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Keeping It Clean",
+      "category": "House cleaning",
+      "phone": "(512) 785-5793",
+      "website": "https://www.keepingitcleantx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ac0522f0-8275-43a7-81ad-8178afcd550c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Perfection MAID Services",
+      "category": "House cleaning",
+      "phone": "(512) 840-9025",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28434bc5-83b9-4aa3-9b6c-a6a0a7ff89df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nikki Ultimate Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(512) 649-6158",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78660"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9589105e-382d-40be-90d0-ddf1a7bd1087",
+      "business_id": "5ed9d98d-3d1e-445d-9ef6-03c0746b3c49",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "730cb54d-e577-46f7-af04-f7dfab9948fb",
+      "business_id": "72fa0a34-7a6c-4e58-90e7-e9d06380b4a8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "43d127e6-60c5-4963-84ec-d8ce0d406bc3",
+      "business_id": "c7049f9d-ff21-4906-8f24-ff4fd4bc3129",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "43fe9a8e-7a5e-4870-87cd-2b50a2775088",
+      "business_id": "5f006f5e-177b-4495-8859-1f3602246c04",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "241995f4-29e9-4a1e-9881-925fd12bb7cf",
+      "business_id": "bd59cadc-59f1-4c23-b2e3-c5d3fe915c24",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2fba2fed-8dbc-461c-b3cc-abaf6793dab3",
+      "business_id": "bfe605fa-35aa-4669-853a-29f7d56eb548",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b6f9324a-6ca2-4466-b146-fdae5135087c",
+      "business_id": "ac0522f0-8275-43a7-81ad-8178afcd550c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3ce4678f-155a-442c-a1ed-915175cb1c60",
+      "business_id": "28434bc5-83b9-4aa3-9b6c-a6a0a7ff89df",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

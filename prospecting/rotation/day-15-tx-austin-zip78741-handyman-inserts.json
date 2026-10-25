@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "ab93e499-daf1-45c9-a4df-a7b61eb71ed0",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "River City Handyman Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 939-8497",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://rivercityhandymanservicesllc.com/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "a9c64a0f-94cc-4797-b3d9-82a639b133c0",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Johnny's Home Maintenance",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 373-9680",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.handymanaustintexas.com/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "dbaad5c6-4f2a-4919-aca3-ce085455bb2a",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Mr Done Right",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 659-8931",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.handyman-austin.com/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "02c41d49-8f61-4130-8cbd-9d598be37668",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "ATX Handyman",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 233-8668",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://atxhandyman.online/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "fc5c9fcf-915d-436c-84c3-a0ad88d33691",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Heritage Handyman LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 373-8686",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.heritagehandyman.co/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "ff2952ff-abaa-4ae8-848f-8b58ac1568a4",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "ATX Construction Handyman and Remodeling LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(737) 300-6775",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://atx.construction/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "9244bb4f-03ce-4b92-8b25-f06f1c06e484",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "HomePoint",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 481-7214",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://www.gohomepoint.com/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "2dde47ad-db33-410d-812a-e2b9600c08bc",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Houdini Handyman Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(512) 751-8896",
+      "phone_verified": false,
+      "service_zips": [
+        "78741"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "ab93e499-daf1-45c9-a4df-a7b61eb71ed0",
+      "id": "038d13cc-732f-432f-973e-17e8cbbf4a04",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "a9c64a0f-94cc-4797-b3d9-82a639b133c0",
+      "id": "52abbadc-4a81-4726-8bd2-c2efeaf23a0e",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "dbaad5c6-4f2a-4919-aca3-ce085455bb2a",
+      "id": "e5df65ea-2b42-47ab-a0c1-70a1a85d3f33",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "02c41d49-8f61-4130-8cbd-9d598be37668",
+      "id": "4275a628-d0e2-423a-97dc-e067215686e5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "fc5c9fcf-915d-436c-84c3-a0ad88d33691",
+      "id": "e7d77a9e-500a-4a52-82bb-4a704c3511ee",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "ff2952ff-abaa-4ae8-848f-8b58ac1568a4",
+      "id": "bb8bffb2-3ed7-4f02-bae0-6bb5aa523140",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "9244bb4f-03ce-4b92-8b25-f06f1c06e484",
+      "id": "befb8620-6f1b-4b23-8b43-965494aed2b6",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "2dde47ad-db33-410d-812a-e2b9600c08bc",
+      "id": "694f7c32-ea25-4e93-9e27-77c51e8ce286",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

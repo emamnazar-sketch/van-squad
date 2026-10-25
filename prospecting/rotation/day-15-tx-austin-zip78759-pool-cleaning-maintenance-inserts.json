@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "97dfccd1-164b-4ddd-b45b-38c84945739a",
+   "name": "Aqua Clear Pool Care",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 658-3922",
+   "phone_verified": false,
+   "service_zips": [
+    "78759"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://aquaclearpoolcare.com/"
+  },
+  {
+   "id": "99e1b7ab-7560-4974-b624-73919d727b6f",
+   "name": "Sullivan's Pool Service",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 503-1116",
+   "phone_verified": false,
+   "service_zips": [
+    "78759"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://sullivanspoolservices.com/"
+  },
+  {
+   "id": "0e2e94ca-4815-45fc-80a6-c4cd38ce4fdc",
+   "name": "Bluebonnet Pools Inc.",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 346-0471",
+   "phone_verified": false,
+   "service_zips": [
+    "78759"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://bluebonnetpools.com/"
+  },
+  {
+   "id": "e52b148f-aa0e-4b82-a977-3a59a5c8ced6",
+   "name": "Hill Country Pools",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 343-2237",
+   "phone_verified": false,
+   "service_zips": [
+    "78759"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://hillcountrypoolsaustin.com/"
+  },
+  {
+   "id": "0dc76c0b-2777-4a83-a94b-0c4e47176fbb",
+   "name": "Pool Rangers ATX",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 661-5286",
+   "phone_verified": false,
+   "service_zips": [
+    "78759"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://poolrangersatx.com/"
+  },
+  {
+   "id": "215a6dd2-157c-496c-b687-fcecd2c4985d",
+   "name": "Aries Pools",
+   "category": "Pool cleaning & maintenance",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 507-2378",
+   "phone_verified": false,
+   "service_zips": [
+    "78759"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.ariespoolcare.com/"
+  }
+ ],
+ "listings": [
+  {
+   "id": "27a4c844-2fc1-4d60-9239-5ab5038a02dc",
+   "business_id": "97dfccd1-164b-4ddd-b45b-38c84945739a",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b255fa1d-6b38-4d4d-876d-9b0443c295cc",
+   "business_id": "99e1b7ab-7560-4974-b624-73919d727b6f",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "53c5709e-b0d1-468e-847b-b1f559f1a7d5",
+   "business_id": "0e2e94ca-4815-45fc-80a6-c4cd38ce4fdc",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ff1332bb-c690-4e2c-895d-f867a95fdfe6",
+   "business_id": "e52b148f-aa0e-4b82-a977-3a59a5c8ced6",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "058372b6-0794-4e58-81f8-4c13170a8b17",
+   "business_id": "0dc76c0b-2777-4a83-a94b-0c4e47176fbb",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "34607772-45c7-478a-bf2a-5cb8d9d35925",
+   "business_id": "215a6dd2-157c-496c-b687-fcecd2c4985d",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

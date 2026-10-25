@@ -1,0 +1,185 @@
+{
+ "businesses": [
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "c00f8049-f6ad-40df-a6c3-c395d0506110",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Swept Up Cleaning Co.",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 706-9717",
+   "phone_verified": false,
+   "service_zips": [
+    "78748",
+    "78704",
+    "78745",
+    "78749",
+    "78739",
+    "78735",
+    "78744",
+    "78747"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.sweptupcleaningco.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "cc7e0c6a-ce1f-4dbe-9867-6936051e6531",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Juany Cleaning Service",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 470-7079",
+   "phone_verified": false,
+   "service_zips": [
+    "78748",
+    "78752"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://juanycleaningservice.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "62ed2b4d-5147-4ffb-8174-50517d875d78",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Let Kelly",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 520-5339",
+   "phone_verified": false,
+   "service_zips": [
+    "78748"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://letkelly.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "83bd5126-81f4-40b3-8f95-e9443c86e9cd",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The Austin Cleaning Group",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 910-3911",
+   "phone_verified": false,
+   "service_zips": [
+    "78748"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.theaustincg.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "5c6fa26f-f10c-4de6-8fc5-73a4e9113521",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Maidsway Cleaning Service Inc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 759-6290",
+   "phone_verified": false,
+   "service_zips": [
+    "78748"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://maidsway.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "fa66b9d5-a1a6-48d0-bbd6-d708ff41c3db",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sparkly Maid Austin",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 617-5979",
+   "phone_verified": false,
+   "service_zips": [
+    "78748",
+    "78704",
+    "78745",
+    "78749"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.sparklymaidaustin.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "c00f8049-f6ad-40df-a6c3-c395d0506110",
+   "id": "7b842f92-7cdb-46e3-9adb-a0cb7289d4cf",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "cc7e0c6a-ce1f-4dbe-9867-6936051e6531",
+   "id": "1f4acc15-3aa5-4e51-956a-c408c8467bf8",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "62ed2b4d-5147-4ffb-8174-50517d875d78",
+   "id": "2a04c9a6-effc-4d5c-9d05-6efdd20c2932",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "83bd5126-81f4-40b3-8f95-e9443c86e9cd",
+   "id": "d369d2d3-5560-4ebc-b948-b249d9aed607",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "5c6fa26f-f10c-4de6-8fc5-73a4e9113521",
+   "id": "fb8a903c-76c8-4e6a-9991-ef38aa1185fc",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "business_id": "fa66b9d5-a1a6-48d0-bbd6-d708ff41c3db",
+   "id": "b8819239-69c4-4be3-8c36-d3fcc7c5c8f1",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

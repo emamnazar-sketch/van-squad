@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "754ec8dc-29cf-48ce-97c3-43ea92da5b17",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Texas Superior Home Services",
+      "category": "Handyman",
+      "phone": "(737) 304-6675",
+      "website": "https://texassuperiorhomeservices.com/round-rock.html",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a0c1f83c-2769-4a96-b156-f6f0114cf8b5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Steph's Handygal Services",
+      "category": "Handyman",
+      "phone": "(512) 761-5271",
+      "website": "https://stephshandygalservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2bbff289-47b4-4261-86ad-205465686cbe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Divine Handyman Services LLC",
+      "category": "Handyman",
+      "phone": "(325) 213-5578",
+      "website": "http://divinehandymanservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "248cdc4e-93f4-4f72-a31e-c7d93a0edb6d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Xceptional Merch and Services",
+      "category": "Handyman",
+      "phone": "(737) 265-2820",
+      "website": "https://www.xceptionalmerchservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "adbe3f61-f470-4e92-933b-8b7515b43139",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Art Home Repair",
+      "category": "Handyman",
+      "phone": "(512) 762-4549",
+      "website": "http://arthomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a50db617-5882-467d-94f9-60df2711e143",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Pfix",
+      "category": "Handyman",
+      "phone": "(512) 360-0014",
+      "website": "https://www.mrpfix.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "446dcc3d-8643-47a4-9d7c-7411b91f5e12",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Herrera Handyman Services",
+      "category": "Handyman",
+      "phone": "(512) 791-3333",
+      "website": "https://herrerahandymanservicetx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0ca36f49-121c-474c-9009-2d87b62f20fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Services by Larry",
+      "category": "Handyman",
+      "phone": "(512) 825-4200",
+      "website": "http://handymanservicesbylarry.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "78664"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "20aace8c-b3ed-4a70-9176-22e9009bee1d",
+      "business_id": "754ec8dc-29cf-48ce-97c3-43ea92da5b17",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e97ca2a2-8a26-4262-87c4-5a3ecfd6a9d6",
+      "business_id": "a0c1f83c-2769-4a96-b156-f6f0114cf8b5",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "45dd555d-66f3-4ec1-9f14-57339e85d6be",
+      "business_id": "2bbff289-47b4-4261-86ad-205465686cbe",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "19650447-53f3-4099-b97b-509f4afeab39",
+      "business_id": "248cdc4e-93f4-4f72-a31e-c7d93a0edb6d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "647eebe3-1539-4412-ab3a-e37cdb29ee24",
+      "business_id": "adbe3f61-f470-4e92-933b-8b7515b43139",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "54ce41cf-d81c-4f2d-b836-3a2ba854c31c",
+      "business_id": "a50db617-5882-467d-94f9-60df2711e143",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ca662eaf-952c-4154-88e9-5593fbcb96cd",
+      "business_id": "446dcc3d-8643-47a4-9d7c-7411b91f5e12",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "654a8eea-b05a-4b0c-84d1-16323f9265d1",
+      "business_id": "0ca36f49-121c-474c-9009-2d87b62f20fb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

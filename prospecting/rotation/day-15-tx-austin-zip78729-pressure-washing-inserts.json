@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "1119b31c-78bd-4912-bfa3-1c3722cbde29",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Clean Green Power Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 662-8422",
+   "phone_verified": false,
+   "service_zips": [
+    "78729"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://cleangreenpowerwashing.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "bd59601c-7029-4d23-9cc1-3c3e43c23500",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "2Win Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 655-9673",
+   "phone_verified": false,
+   "service_zips": [
+    "78729"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://2winpressurewashing.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "5e00972f-7b92-4ea4-a136-e650c39d2801",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Activate Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 696-5770",
+   "phone_verified": false,
+   "service_zips": [
+    "78729"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://activatepressurewashing.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "4f08b614-2dde-4947-b576-a1eebf4070d0",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "River Blue Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 222-3765",
+   "phone_verified": false,
+   "service_zips": [
+    "78729"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.riverblueservices.com/pressure-washing.php"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "5a53c5b1-5056-4350-b159-777d998927c2",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Casa Washa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 846-3006",
+   "phone_verified": false,
+   "service_zips": [
+    "78729"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.casawasha.com/"
+  },
+  {
+   "category": "Pressure washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "15eb2c71-b4ba-4a10-adb0-372e7cba0bec",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "WindowWorks LLC",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(512) 201-2979",
+   "phone_verified": false,
+   "service_zips": [
+    "78729"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://wwoftx.com"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "1119b31c-78bd-4912-bfa3-1c3722cbde29",
+   "id": "fbe129c1-5a87-4153-b352-73f2d3ce8f9c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "bd59601c-7029-4d23-9cc1-3c3e43c23500",
+   "id": "cb0f1a6f-8439-4c08-b327-d4ebdbb1e84a",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "5e00972f-7b92-4ea4-a136-e650c39d2801",
+   "id": "741db694-4158-42f6-94ea-fd0c2fb04f15",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "4f08b614-2dde-4947-b576-a1eebf4070d0",
+   "id": "dd19729a-e2ae-4838-8e6a-78a8095f5283",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "5a53c5b1-5056-4350-b159-777d998927c2",
+   "id": "271ed65b-75ee-4130-ab74-d19f14009df7",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  },
+  {
+   "business_id": "15eb2c71-b4ba-4a10-adb0-372e7cba0bec",
+   "id": "622b47cb-e5bd-4d06-9333-f9d20f6a37de",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Pressure washing at your location"
+  }
+ ]
+}
