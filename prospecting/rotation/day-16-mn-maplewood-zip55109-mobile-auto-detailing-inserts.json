@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "94b3dd89-18e0-4bfe-90bb-47d2d8c31034",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Royal Cleanse Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(651) 410-0810",
+      "website": "http://royalcleansemobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55109"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7d3157c8-50e3-473c-899c-b244c923f491",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Northwoods Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(612) 405-4965",
+      "website": "https://northwoodsmobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55109"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "394a0648-527c-443e-99fd-74af3f242bec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Suds & Steel",
+      "category": "Mobile auto detailing",
+      "phone": "(763) 388-5023",
+      "website": "https://sudsandsteel.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55109"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "186f03f9-c48e-4aa9-9add-f96b8a899b75",
+      "business_id": "94b3dd89-18e0-4bfe-90bb-47d2d8c31034",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "93dfbaf5-4efe-4c20-9606-242c0a760f75",
+      "business_id": "7d3157c8-50e3-473c-899c-b244c923f491",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "029d625d-1dc4-4253-9afb-3d861878113e",
+      "business_id": "394a0648-527c-443e-99fd-74af3f242bec",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "fc3debe8-2a8a-461e-93f0-cacf19f21cc3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dawns Household Services",
+      "category": "House cleaning",
+      "phone": "(612) 703-8785",
+      "website": "https://www.dawnshouseholdservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dfa5027c-c651-4d63-a9d2-84fb24686e4c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Swept Away MN",
+      "category": "House cleaning",
+      "phone": "(612) 552-2743",
+      "website": "https://www.sweptawaymn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "44fb95df-bb09-4026-9f4c-c03718512fcd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "House Cleaning Service by Bell LLC",
+      "category": "House cleaning",
+      "phone": "(612) 225-8565",
+      "website": "https://bellcleanstwincities.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ae0c2a8f-ab15-4c7e-88b4-7db8c2f69bbf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Minneapolis House Cleaning",
+      "category": "House cleaning",
+      "phone": "(612) 541-5565",
+      "website": "https://minneapolishousecleaning.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6317721a-279c-45e1-943b-eff48ed1f4da",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Happy Earth Cleaning Cooperative",
+      "category": "House cleaning",
+      "phone": "(612) 516-7112",
+      "website": "https://www.happyearthcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5cb23a97-945d-42b7-a88f-b5d766f63e08",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid In Paradise",
+      "category": "House cleaning",
+      "phone": "(651) 409-4658",
+      "website": "https://www.maidinparadisemn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1c960a11-3387-433f-822a-b5f0686664f7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CertainClean",
+      "category": "House cleaning",
+      "phone": "(612) 306-9593",
+      "website": "http://www.certainclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c8ff1e8-961c-4417-96ed-3dc979d0fb3b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ikedra's Special Touch Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(763) 283-7992",
+      "website": "https://www.ikedrascleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55419"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f587bcdd-3265-4098-953b-6ac8d1dbaa57",
+      "business_id": "fc3debe8-2a8a-461e-93f0-cacf19f21cc3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f431b69-971f-4014-aad2-1c1f48d5c8f1",
+      "business_id": "dfa5027c-c651-4d63-a9d2-84fb24686e4c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a60feb2b-bb16-4605-b328-8f35fbfe6fe0",
+      "business_id": "44fb95df-bb09-4026-9f4c-c03718512fcd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6415d122-6640-4eb9-8eeb-c2ad08431c94",
+      "business_id": "ae0c2a8f-ab15-4c7e-88b4-7db8c2f69bbf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "15c949f3-9614-4329-a8a0-c772e10ee4b9",
+      "business_id": "6317721a-279c-45e1-943b-eff48ed1f4da",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "47e28e77-5d53-424e-9f82-cfa72515a227",
+      "business_id": "5cb23a97-945d-42b7-a88f-b5d766f63e08",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "48525ef0-0533-48bc-985f-7bfa5a941206",
+      "business_id": "1c960a11-3387-433f-822a-b5f0686664f7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7da5e71a-8b05-4c2a-b82f-0e588c6e2a5a",
+      "business_id": "9c8ff1e8-961c-4417-96ed-3dc979d0fb3b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

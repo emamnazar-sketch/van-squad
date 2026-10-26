@@ -1,0 +1,34 @@
+{
+  "businesses": [
+    {
+      "id": "331e7bc2-68dd-44c1-8ba9-2fa90757b33d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wash My Paws",
+      "category": "Mobile pet grooming",
+      "phone": "(612) 470-6006",
+      "website": "https://www.washmypaws.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55447"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d447eb7b-77ad-417c-94df-6fa66614bb8b",
+      "business_id": "331e7bc2-68dd-44c1-8ba9-2fa90757b33d",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

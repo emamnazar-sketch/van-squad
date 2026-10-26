@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "3f8306b7-edd0-4b93-ab59-6639e78d9c7c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleaning Patrol",
+   "category": "House cleaning",
+   "phone": "(952) 856-6200",
+   "website": "http://www.cleaning-patrol.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "55344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d1b2f9c5-22f8-4f90-b841-2fb1e2bd0049",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Company MN LLC",
+   "category": "House cleaning",
+   "phone": "(651) 352-3969",
+   "website": "https://thecleaningcompanymnllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "55344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c3a61fef-7ff2-4a33-b346-a5d7873645c4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Weekday Housekeeping",
+   "category": "House cleaning",
+   "phone": "(612) 799-3797",
+   "website": "http://www.weekdayhousekeeping.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "55344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "733772a8-7a23-42fe-882d-baf4d66d8b85",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Home Neat Home",
+   "category": "House cleaning",
+   "phone": "(952) 934-3254",
+   "website": "https://homeneathome.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "55344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4857d51d-a441-48b7-9929-e62987b58fec",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bundl Home",
+   "category": "House cleaning",
+   "phone": "(763) 531-9100",
+   "website": "https://www.bundlhome.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "55344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "38d80c25-5d40-4dce-899c-db4420ce088f",
+   "business_id": "3f8306b7-edd0-4b93-ab59-6639e78d9c7c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1112bda0-18ba-4559-8334-3185c1443cff",
+   "business_id": "d1b2f9c5-22f8-4f90-b841-2fb1e2bd0049",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7194e6c9-081d-43c0-bd35-f348825a6dd2",
+   "business_id": "c3a61fef-7ff2-4a33-b346-a5d7873645c4",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "343d85c1-e5c2-46a0-b1cd-528e7ee5114f",
+   "business_id": "733772a8-7a23-42fe-882d-baf4d66d8b85",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e68c59de-6bad-4660-8dfa-db2c4215fef7",
+   "business_id": "4857d51d-a441-48b7-9929-e62987b58fec",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

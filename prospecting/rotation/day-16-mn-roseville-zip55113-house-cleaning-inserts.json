@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "b9112d74-3577-4abd-8475-af51688d2042",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Supermaid2mn",
+      "category": "House cleaning",
+      "phone": "(612) 804-5420",
+      "website": "https://www.supermaid2.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "50f857dc-09cf-41ee-84b6-b20716db2c8e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Suite Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(651) 528-8661",
+      "website": "https://suitecleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a87a05ca-c611-4379-a707-195548e307f9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparklean Inc.",
+      "category": "House cleaning",
+      "phone": "(612) 400-3294",
+      "website": "https://www.sparkleanmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c12e03bb-b1c1-4cae-92dd-69aa11e1b92a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tip Top Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(651) 248-4246",
+      "website": "http://www.tiptopcleaning.biz/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bd2d6703-1e56-4613-a3df-f9185bab49cc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Squad Cleaners LLC",
+      "category": "House cleaning",
+      "phone": "(651) 515-4518",
+      "website": "https://squadcleanersllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e590e27f-65be-4eaa-91d3-a4b03d767d48",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home2Office Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(763) 568-0613",
+      "website": "http://home2officecleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ec327ea3-acc2-415a-aa0b-1ac29184fb41",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean4you",
+      "category": "House cleaning",
+      "phone": "(651) 757-5163",
+      "website": "http://clean4youmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55113"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ceabf5b9-da9b-47a4-8e89-6bc14f04c2b4",
+      "business_id": "b9112d74-3577-4abd-8475-af51688d2042",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ba6d2dc7-63f1-4ab4-8516-ba980131373a",
+      "business_id": "50f857dc-09cf-41ee-84b6-b20716db2c8e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "426c76dc-5d99-4ff2-9e59-43c036b2a35a",
+      "business_id": "a87a05ca-c611-4379-a707-195548e307f9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bc078173-d4a4-4c9f-a669-e6893bd3ef71",
+      "business_id": "c12e03bb-b1c1-4cae-92dd-69aa11e1b92a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e8f085b8-ed68-4855-9d14-a06ecc185ae7",
+      "business_id": "bd2d6703-1e56-4613-a3df-f9185bab49cc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1595f71e-76c4-4084-85e5-38320b58e7f6",
+      "business_id": "e590e27f-65be-4eaa-91d3-a4b03d767d48",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5dc758e9-2a23-48fc-81c6-3579e46c897c",
+      "business_id": "ec327ea3-acc2-415a-aa0b-1ac29184fb41",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

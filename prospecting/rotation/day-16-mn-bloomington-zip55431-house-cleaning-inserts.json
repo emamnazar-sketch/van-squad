@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "db2b1f5d-1265-40cc-80ed-05de19933dca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Art of Cleaning",
+      "category": "House cleaning",
+      "phone": "(763) 954-1655",
+      "website": "http://www.theartofcleaningmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55431"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c51f895c-e4d8-4809-8e42-19ecb91d0bb7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mercedes Cleaning Service Company",
+      "category": "House cleaning",
+      "phone": "(612) 987-7052",
+      "website": "https://mercedescleaningservice.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55431"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1ea6d375-dc72-414e-af29-fa8dac94c820",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Squeaky Services",
+      "category": "House cleaning",
+      "phone": "(612) 501-8436",
+      "website": "https://www.squeakyservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55431"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "43a3ce94-9ac6-46de-833d-6b598d7c6426",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "UpMaid",
+      "category": "House cleaning",
+      "phone": "(952) 392-5284",
+      "website": "https://www.upmaidmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55431"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fa16ea1c-5a56-4821-9cc3-1dd5dc2b7574",
+      "business_id": "db2b1f5d-1265-40cc-80ed-05de19933dca",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "63ee40ab-c076-42d6-af7d-db0de5ce4ebe",
+      "business_id": "c51f895c-e4d8-4809-8e42-19ecb91d0bb7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d1cb21ed-8afd-4d8d-8b53-a285e69dbd1c",
+      "business_id": "1ea6d375-dc72-414e-af29-fa8dac94c820",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "af2cf183-2966-4494-8569-b8488e4429d5",
+      "business_id": "43a3ce94-9ac6-46de-833d-6b598d7c6426",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

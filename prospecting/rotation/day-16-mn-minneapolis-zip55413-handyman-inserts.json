@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "7392ea34-6da3-40aa-aa52-547c91901b03",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Muse Remodeling",
+      "category": "Handyman",
+      "phone": "(763) 807-6928",
+      "website": "http://muse-remodeling.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55413"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4f6ca60d-5c20-4657-adb4-9021460dbd44",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mission Handyman & Painting",
+      "category": "Handyman",
+      "phone": "(763) 710-6027",
+      "website": "http://mission-painting.jany.io/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55413"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4dc069b7-8d52-4b4f-ba53-c890c225ce95",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home Service Handyman",
+      "category": "Handyman",
+      "phone": "(612) 385-2813",
+      "website": "http://home-service-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55413"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2a844fd8-09de-4153-ab80-66db5d7d1193",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cities Handyman Service",
+      "category": "Handyman",
+      "phone": "(612) 431-9817",
+      "website": "https://www.citieshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55413"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1a39eb64-75c7-43d0-b7be-0d4101001fc9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Renaissance Works",
+      "category": "Handyman",
+      "phone": "(612) 208-7662",
+      "website": "http://www.renaissanceworksllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55413"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "89cdae13-b506-467e-b9d6-63465d827580",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Shamrock Home Repair",
+      "category": "Handyman",
+      "phone": "(612) 619-1840",
+      "website": "http://shamrockhomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55413"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "59d8510b-4832-48bb-b508-9361a03e5af9",
+      "business_id": "7392ea34-6da3-40aa-aa52-547c91901b03",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b1751f23-dd2f-4a61-a0ac-96c06e7da88d",
+      "business_id": "4f6ca60d-5c20-4657-adb4-9021460dbd44",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4ff0cee3-c02b-4610-893f-c4fd9705b895",
+      "business_id": "4dc069b7-8d52-4b4f-ba53-c890c225ce95",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dd51584a-4860-44ea-9638-b2588cd7ddc2",
+      "business_id": "2a844fd8-09de-4153-ab80-66db5d7d1193",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8c81827d-7457-4938-938b-14912b763e91",
+      "business_id": "1a39eb64-75c7-43d0-b7be-0d4101001fc9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "468bcce8-ce96-42af-b044-0ceca7fbe935",
+      "business_id": "89cdae13-b506-467e-b9d6-63465d827580",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "e14a9ef3-f488-4d4d-a30f-cee98cb30054",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkle Pool Service, Inc.",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(763) 427-6766",
+      "website": "https://sparklepoolmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "488940b2-83ae-4f8e-af5f-74d5102e9970",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ASP - America's Swimming Pool Company of St. Paul",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(651) 321-9544",
+      "website": "https://www.asppoolco.com/stpaul/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "49430a96-c1ad-4641-9da0-be0afa5f5b09",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MyPool",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(651) 300-2347",
+      "website": "https://mypool.build/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d1d81268-ac54-4963-b302-412f0b118871",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "All Poolside Services",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(651) 483-6600",
+      "website": "https://allpoolside.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3c6ab591-1bc5-48c0-9013-142b449b10cb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prestige Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(651) 490-1399",
+      "website": "https://prestigepools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f6e746a6-a27c-457b-9a57-03613b6008c6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Pool Day",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(651) 364-7524",
+      "website": "https://www.apoolday.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "863d1533-37ca-4e40-bffb-0a06db620e33",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Crystal Clear Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(651) 529-7428",
+      "website": "http://www.crystalclearpoolsmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5f3a9be1-471f-44af-9a50-51b6cdf1775f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sunday's Off Pool Company",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(763) 546-1651",
+      "website": "https://www.sundaysoffpools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "59e4d6e8-7214-404f-87e5-cf733e4783c4",
+      "business_id": "e14a9ef3-f488-4d4d-a30f-cee98cb30054",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9cd31053-35c0-44ac-952c-5bcdd9edccbe",
+      "business_id": "488940b2-83ae-4f8e-af5f-74d5102e9970",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "816b6d9e-7528-4432-89cd-efb4d396a8bb",
+      "business_id": "49430a96-c1ad-4641-9da0-be0afa5f5b09",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2204dde9-77d9-4a17-a666-f56fee6acd65",
+      "business_id": "d1d81268-ac54-4963-b302-412f0b118871",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e1fe90ef-ba75-416f-8064-a6c462ad97b1",
+      "business_id": "3c6ab591-1bc5-48c0-9013-142b449b10cb",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "259c5c7c-d6d9-4e8f-b0aa-6b50ef376759",
+      "business_id": "f6e746a6-a27c-457b-9a57-03613b6008c6",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d52ffc5a-1167-4301-a218-ac82186b3c13",
+      "business_id": "863d1533-37ca-4e40-bffb-0a06db620e33",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c74bceb8-a084-4a15-ae6d-6bc5b759546a",
+      "business_id": "5f3a9be1-471f-44af-9a50-51b6cdf1775f",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

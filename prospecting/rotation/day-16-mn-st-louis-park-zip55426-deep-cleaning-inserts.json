@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "10abb581-1675-429e-902b-bde4fd08095d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ivy Cleans",
+      "category": "Deep cleaning",
+      "phone": "(612) 424-0391",
+      "website": "https://ivycleans.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55426"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cdb8493b-9901-4cee-ad8f-a775a380eb3a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pristine and Clean",
+      "category": "Deep cleaning",
+      "phone": "(612) 419-6937",
+      "website": "https://pristineandclean.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55426"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "27ad772a-25b0-4c9a-bb67-c7cc4ca0f3f1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Fresh Edit Cleaners",
+      "category": "Deep cleaning",
+      "phone": "(612) 445-7009",
+      "website": "https://thefresheditcleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55426"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "353e0648-82cb-4395-908f-d7fdd180a27e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Bettys Green Cleaning Company",
+      "category": "Deep cleaning",
+      "phone": "(612) 720-8768",
+      "website": "https://www.twobettysclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55426"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4b166bda-1277-4599-907e-181ddd50ba6d",
+      "business_id": "10abb581-1675-429e-902b-bde4fd08095d",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eb30cd3e-ed3d-444c-8028-2530ddb8f54b",
+      "business_id": "cdb8493b-9901-4cee-ad8f-a775a380eb3a",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "449521fa-e614-41a3-96e1-49008e8553c3",
+      "business_id": "27ad772a-25b0-4c9a-bb67-c7cc4ca0f3f1",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f007d5cc-4f2e-4686-b80b-7ed479b0181a",
+      "business_id": "353e0648-82cb-4395-908f-d7fdd180a27e",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

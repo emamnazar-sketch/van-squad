@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "aec8e413-88ac-4909-9a04-b25a9c5fc435",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sonic Services",
+      "category": "Pressure washing",
+      "phone": "(612) 940-9351",
+      "website": "https://sonicservicesmn.com/brooklyn-center-pressure-washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e14050ea-afcc-4947-b50c-c747180038df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Look Exterior",
+      "category": "Pressure washing",
+      "phone": "(612) 385-1680",
+      "website": "https://firstlookexterior.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7d2dde9f-b869-4758-b4af-509931de2ad5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Seasonal Glow",
+      "category": "Pressure washing",
+      "phone": "(763) 406-9741",
+      "website": "https://seasonalglowmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c30a76b9-02d6-4f34-92d2-5bdff3adefbb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "St. Paul Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(651) 390-1828",
+      "website": "https://www.stpaulpressurewash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e837bbe8-21b3-41a8-87f3-c18255a3e4f3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Woodstone Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(763) 228-3285",
+      "website": "https://www.woodstonepressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0693594b-c255-470f-aeb0-5cd3a562213e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mill City Cleaning",
+      "category": "Pressure washing",
+      "phone": "(612) 822-2012",
+      "website": "https://millcitycleaning.com/specialty-cleaning-services/pressure-washing-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "20c76ada-323f-4ad2-a6cf-4873b7dcd713",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Squeegee Magic",
+      "category": "Pressure washing",
+      "phone": "(763) 300-9245",
+      "website": "https://www.squeegeemagic.com/service-area/maple-grove-mn/pressure-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55430"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "212ce4d9-c126-4224-ad35-65d18b2157ff",
+      "business_id": "aec8e413-88ac-4909-9a04-b25a9c5fc435",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "17ff5048-e739-4a80-b130-19e5c30b7bdf",
+      "business_id": "e14050ea-afcc-4947-b50c-c747180038df",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee43362f-8f93-44e1-ab43-089854da5323",
+      "business_id": "7d2dde9f-b869-4758-b4af-509931de2ad5",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "10696e9a-35f5-4732-8ab7-cddfa65c0ac3",
+      "business_id": "c30a76b9-02d6-4f34-92d2-5bdff3adefbb",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "95ec3cc4-d4e2-448b-9b27-a3df1f09ea65",
+      "business_id": "e837bbe8-21b3-41a8-87f3-c18255a3e4f3",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4d837db7-bc39-484d-9c01-447d7522a893",
+      "business_id": "0693594b-c255-470f-aeb0-5cd3a562213e",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d34d3015-a604-4809-87f3-a9bcdfa45943",
+      "business_id": "20c76ada-323f-4ad2-a6cf-4873b7dcd713",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

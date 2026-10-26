@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "8855b669-14eb-4613-a0ef-1951008a6fbf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Faschingbauer Services",
+      "category": "Handyman",
+      "phone": "(651) 300-8119",
+      "website": "https://evanfaschingbauer.wixsite.com/faschingbauerservice",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "779b8f3b-02b8-4216-b90c-67f255901d84",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AMC Services",
+      "category": "Handyman",
+      "phone": "(651) 815-7469",
+      "website": "https://amcservicesmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5ec04d4b-2eea-4d23-b755-92101d85e8b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Candor Services",
+      "category": "Handyman",
+      "phone": "(651) 336-5961",
+      "website": "http://candormn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a3a0a51-1cb9-47aa-8b77-47a11422a1bc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "St Paul Handy Man",
+      "category": "Handyman",
+      "phone": "(651) 321-9272",
+      "website": "https://www.stpaulhandyman.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1194dd7e-72ee-49fe-aa80-902fb0f8c4e4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "C's Handyman Services",
+      "category": "Handyman",
+      "phone": "(612) 707-9711",
+      "website": "https://cs-handyman-services-llc.business.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e093a2e3-1a0c-4fa4-aafd-c6e42fb278a8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MattWorks LLC",
+      "category": "Handyman",
+      "phone": "(612) 396-7762",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c69554a5-34cb-486a-953a-6e48b23370fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Twin Cities Handyman Home Service LLC",
+      "category": "Handyman",
+      "phone": "(763) 354-8170",
+      "website": "https://www.twincitieshandymanmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "26330be0-8268-4d17-9f12-d3f6ae9212c7",
+      "business_id": "8855b669-14eb-4613-a0ef-1951008a6fbf",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "13ce6f46-493f-4b0f-8ab9-d8efb8d109dc",
+      "business_id": "779b8f3b-02b8-4216-b90c-67f255901d84",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "83a89ae0-ec94-4499-9863-97cf035a9873",
+      "business_id": "5ec04d4b-2eea-4d23-b755-92101d85e8b3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5bc22ec1-4a89-4bfb-9318-acedba8fe18e",
+      "business_id": "9a3a0a51-1cb9-47aa-8b77-47a11422a1bc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "987ce497-ac8e-42f1-ad46-cb433e196f51",
+      "business_id": "1194dd7e-72ee-49fe-aa80-902fb0f8c4e4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1a8f0f5b-de2f-4ca6-9a30-60a4e11d9a90",
+      "business_id": "e093a2e3-1a0c-4fa4-aafd-c6e42fb278a8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d612eec7-da09-43c0-b282-96e190e41e38",
+      "business_id": "c69554a5-34cb-486a-953a-6e48b23370fb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

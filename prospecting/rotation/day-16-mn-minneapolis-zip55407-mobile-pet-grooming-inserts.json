@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "34f1d194-5bfa-40f0-aed1-374ef61387de",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wagmore Co",
+      "category": "Mobile pet grooming",
+      "phone": "(763) 307-6978",
+      "website": "https://wagmoreco.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3d2cc9ce-1cab-4f1f-9599-a067c44ab9ff",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paws At Your Door Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(612) 499-0399",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "07f259f1-58bb-43bc-a5f0-5660adcb95ac",
+      "business_id": "34f1d194-5bfa-40f0-aed1-374ef61387de",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "98d9ef81-fd26-440f-9d08-d91cf7a148d5",
+      "business_id": "3d2cc9ce-1cab-4f1f-9599-a067c44ab9ff",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

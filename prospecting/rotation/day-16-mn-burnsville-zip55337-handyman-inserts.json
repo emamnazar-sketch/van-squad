@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "a155b886-5775-4aaf-bcac-928b0366269b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MN Helper",
+      "category": "Handyman",
+      "phone": "(320) 377-9969",
+      "website": "https://mnhelper.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55337"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "494e8512-793f-4efd-af60-73c9962d6dd3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Twin Cities Handywoman",
+      "category": "Handyman",
+      "phone": "(612) 440-3604",
+      "website": "http://www.twincitieshandywoman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55337"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6400c76a-7975-4a3d-b2d3-751e56de4cb0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mosaic Services LLC",
+      "category": "Handyman",
+      "phone": "(612) 501-4158",
+      "website": "http://mosaicservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55337"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "49c4bc27-313c-4946-84d8-e10846950fbe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Soriano Handyman & Construction",
+      "category": "Handyman",
+      "phone": "(612) 385-6727",
+      "website": "http://www.sorianohandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55337"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c7e4e2d2-7f7a-41b4-88c8-2eabd876d4fd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JJP Handyman Service",
+      "category": "Handyman",
+      "phone": "(612) 396-5914",
+      "website": "https://jjpservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55337"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4dbcd6c0-3d50-4da3-a2b6-91bf46fa89e2",
+      "business_id": "a155b886-5775-4aaf-bcac-928b0366269b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e92262b3-beb9-41d1-a065-c40e608211be",
+      "business_id": "494e8512-793f-4efd-af60-73c9962d6dd3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "59596810-2323-4379-b78a-1b25fbc8992a",
+      "business_id": "6400c76a-7975-4a3d-b2d3-751e56de4cb0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b37cd8f1-1f2e-4dfc-b4bc-0606a676ab1c",
+      "business_id": "49c4bc27-313c-4946-84d8-e10846950fbe",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2be5e5d0-2d43-4ede-8f77-e58bf477731f",
+      "business_id": "c7e4e2d2-7f7a-41b4-88c8-2eabd876d4fd",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

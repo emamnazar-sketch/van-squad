@@ -666,6 +666,24 @@ var ZIP_NAMES = {
     '78757': 'Austin',
     '78758': 'Austin',
     '78759': 'Austin',
+    '55104': 'Midway, Saint Paul',
+    '55106': 'East Side, Saint Paul',
+    '55109': 'Maplewood',
+    '55113': 'Roseville',
+    '55116': 'Highland Park, Saint Paul',
+    '55337': 'Burnsville',
+    '55344': 'Eden Prairie',
+    '55407': 'South Minneapolis',
+    '55413': 'Northeast Minneapolis',
+    '55419': 'Southwest Minneapolis',
+    '55423': 'Richfield',
+    '55426': 'St. Louis Park',
+    '55430': 'Brooklyn Center',
+    '55431': 'Bloomington',
+    '55447': 'Plymouth',
+    '55811': 'Duluth',
+    '55901': 'Rochester',
+    '55904': 'Rochester',
 };
 
 function slugify(name) {
@@ -731,7 +749,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261025f">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261026a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

@@ -1,0 +1,33 @@
+# Day 16 — Minnesota | Minneapolis (Brooklyn Center) | ZIP 55430 | Pressure washing
+
+- Cell: MN × Minneapolis / Brooklyn Center × 55430 × "Pressure washing" (exact label verified in ~/workspace/van-squad/js/data.js)
+- Wave: Day 16, Wave 2
+- ZIP note: 55430 is Brooklyn Center / north Minneapolis. Target ZIP yielded 7 qualifying businesses, so no expansion to an adjacent ZIP was needed. Three businesses (Sonic Services, First Look Exterior, Seasonal Glow) name Brooklyn Center explicitly in their own service-area materials; the others serve Brooklyn Park and/or the Twin Cities metro / surrounding areas from their own sites — Brooklyn Center sits inside that stated area. No business published a ZIP-level service list, so service_zips is ["55430"] for all.
+- City column is each business's own stated base city (own address or own "based in" statement). Seasonal Glow publishes no street address — it describes itself as Minneapolis–St. Paul Metro based and lists Minneapolis among its communities; recorded as Minneapolis and marked accordingly.
+- Method: business's own website first, then public listings. Phone preferred from own site. Emails only where the business itself publishes one, with source URL.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source |
+|---|---|---|---|---|---|---|---|
+| Sonic Services | (612) 940-9351 | Pressure washing | Eden Prairie | https://sonicservicesmn.com/brooklyn-center-pressure-washing | — none published found | High — own site has a dedicated Brooklyn Center pressure washing page for driveways/sidewalks/patios at homes and businesses, Eden Prairie address and phone on that page | Own website |
+| First Look Exterior | (612) 385-1680 | Pressure washing | Minneapolis | https://firstlookexterior.com/ | firstlookexterior@gmail.com — https://firstlookexterior.com/ | High — own site: owner-operated, "Based in Minneapolis," service list names Brooklyn Center and Brooklyn Park, pressure washing of driveways/sidewalks/patios at the property, phone and email on own site | Own website |
+| Seasonal Glow | (763) 406-9741 | Pressure washing | Minneapolis | https://seasonalglowmn.com/ | seasonalglow2024@gmail.com — https://seasonalglowmn.com/ | High — own site: local family-owned, pressure washing of driveways/decks/siding, communities list names Brooklyn Center and Brooklyn Park explicitly, phone and email on own site; no street address published, metro-based | Own website |
+| St. Paul Pressure Washing | (651) 390-1828 | Pressure washing | St. Paul | https://www.stpaulpressurewash.com/ | — none published found | Medium — own site lists Brooklyn Park in its service list and says it will drive beyond those locations, phone and St. Paul address (2044 Brewster St) on own site; Brooklyn Center itself is not named | Own website |
+| Woodstone Pressure Washing | (763) 228-3285 | Pressure washing | Wayzata | https://www.woodstonepressurewashing.com/ | — none published found | Medium — own site: locally owned since 2002, residential and commercial pressure washing throughout the Minneapolis–St. Paul metro, Wayzata address and phone on own site; Brooklyn Center not named individually | Own website |
+| Mill City Cleaning | (612) 822-2012 | Pressure washing | Eden Prairie | https://millcitycleaning.com/specialty-cleaning-services/pressure-washing-services/ | info@millcitycleaning.com — https://millcitycleaning.com/specialty-cleaning-services/pressure-washing-services/ | Medium — own pressure washing page: family-owned, residential/commercial pressure washing in Minneapolis and the Twin Cities at driveways/patios/decks, Eden Prairie address, phone and email on own site; Brooklyn Center not named individually | Own website |
+| Squeegee Magic | (763) 300-9245 | Pressure washing | Osseo | https://www.squeegeemagic.com/service-area/maple-grove-mn/pressure-washing/ | — none in plain text (own site email is obfuscated) | Medium — own site: local family-owned in Osseo, pressure washing at homes, service-area list includes Brooklyn Park and Minneapolis "& the surrounding areas," phone on own site; Brooklyn Center not named individually | Own website |
+
+## Dedupe
+- Every candidate name AND phone checked against (1) ~/workspace/goals/van-squad-directory-website/hidden_files/day16-dedupe.txt (1,313 live businesses) and (2) grep of ALL files in ~/workspace/van-squad/prospecting/, including tonight's day-16-* Wave 1 files. No matches for any included business — no duplicates skipped on dedupe grounds in this cell.
+
+## Excluded
+- Brooklyn Blast Powerwashing LLC (brooklynblastpowerwashing.com) — EXCLUDED: only phone on its own site is (347) 524-3741, an out-of-state (NYC) area code, with no Minnesota address, city, or service area stated on its site; serving 55430 / a Minnesota local operator could not be verified from its own materials.
+- Minneapolis Power Washing (minneapolispowerwashing.com), (612) 712-8276, Minneapolis — EXCLUDED: own site uses transplanted Canadian-template language ("provincial workers' comp coverage," "strata board," "honoured") and its published service areas are only Minneapolis, St. Paul, Bloomington, Plymouth, Minnetonka and Edina — no Brooklyn Center, Brooklyn Park, or north-metro coverage; serving 55430 not confirmed from its own materials.
+- Axon Pressure Washing, Maple Grove — EXCLUDED for insufficient verification: a public listing gives 7605 Kimberly Ln N, Maple Grove and (612) 500-3898, but its own website could not be fetched in this run (fetch timed out), so pressure washing at the customer's property and service to 55430 could not be confirmed from its own materials.
+- Glass House Window Cleaning & Seasonal Services, Ham Lake, (612) 294-8796 — EXCLUDED: its own site explains it soft-washes houses/roofs instead of pressure washing them, and its stated no-trip-fee service list does not include Brooklyn Center or Brooklyn Park.
+- Eminence Services, Eden Prairie — EXCLUDED: its own site scopes it to Eden Prairie and the southwest Minneapolis suburbs; north-metro / 55430 service not confirmed from its own materials.
+- Squeegee Squad — Minneapolis / St. Paul, (952) 521-0634 — EXCLUDED as a national franchise location in favor of independent local operators, even though its location page lists Brooklyn Center.
+- Men In Kilts, Shack Shine, Rolling Suds — franchise brands named in the brief: no distinct local operator with its own local phone was verified for this cell, so none was included.
+
+## Count
+- Included: 7 businesses (all Pressure washing, all serving the 55430 / Brooklyn Center area)
+- Email leads: 3 (see -leads.json)

@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "0b0deef8-75bc-4058-bd92-b26f295f2828",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Attention to Detail Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(507) 218-8218",
+      "website": "http://www.attention2detailmn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55904"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e0afecbb-8daa-48e1-8080-74e434e9955f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Taha Motor Cleaning",
+      "category": "Mobile auto detailing",
+      "phone": "(507) 202-4043",
+      "website": "https://tmcrochester.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55904"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bb4e636e-b707-4864-b2ba-f177ce3fd4f6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Majestic's Auto Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(507) 261-5825",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55904"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2d5d2913-695d-48b4-b457-48449662b985",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Med City Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(507) 517-7560",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "55904"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c75f1c13-2891-47f9-a966-c44193add82e",
+      "business_id": "0b0deef8-75bc-4058-bd92-b26f295f2828",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "27d845ec-78d5-4e51-805c-a568b6d9a6c4",
+      "business_id": "e0afecbb-8daa-48e1-8080-74e434e9955f",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a6e9a586-bb86-4080-a569-ab49629ff8be",
+      "business_id": "bb4e636e-b707-4864-b2ba-f177ce3fd4f6",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "698e9fba-71c3-467b-97d8-194b6e450906",
+      "business_id": "2d5d2913-695d-48b4-b457-48449662b985",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
