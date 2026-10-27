@@ -1,0 +1,116 @@
+{
+  "businesses": [
+    {
+      "id": "5e8c736b-9483-49fd-a785-70e4fba25553",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brush & Bubbles Mobile Dog Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(515) 390-9411",
+      "website": "https://www.bnbgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50266",
+        "50111",
+        "50131",
+        "50325",
+        "50322",
+        "50323",
+        "50265",
+        "50263",
+        "50211",
+        "50021",
+        "50023",
+        "50003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "478e9acb-a344-4776-932b-1698a3a42ba4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Groombar West Des Moines",
+      "category": "Mobile pet grooming",
+      "phone": "(515) 316-6838",
+      "website": "https://groombar.com/west-des-moines",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50266"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "68562403-a05e-40b4-ab63-833336813e2f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zoomin Groomin West Des Moines",
+      "category": "Mobile pet grooming",
+      "phone": "(515) 454-5456",
+      "website": "https://www.zoomingroomin.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50266",
+        "50003",
+        "50325",
+        "50220",
+        "50039",
+        "50111",
+        "50146",
+        "50263",
+        "50069",
+        "50109",
+        "50167",
+        "50233",
+        "50323",
+        "50261",
+        "50038",
+        "50063"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ee975538-cec0-4617-9818-df2686760b75",
+      "business_id": "5e8c736b-9483-49fd-a785-70e4fba25553",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c9b02a2d-c1d2-4c8d-80cf-f7a53dee3194",
+      "business_id": "478e9acb-a344-4776-932b-1698a3a42ba4",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "be98346c-c2a7-4ff8-acdb-9bfcbec8acc3",
+      "business_id": "68562403-a05e-40b4-ab63-833336813e2f",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

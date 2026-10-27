@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "6c833fbc-f8bf-442c-be44-fb8c82a508b6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Iowa Power Wash",
+      "category": "Pressure washing",
+      "phone": "(515) 822-8415",
+      "website": "https://iowapowerwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50317"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79ed6b53-dfee-4f29-9b6f-087a9b56f44d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Larry's Window Service",
+      "category": "Pressure washing",
+      "phone": "(515) 244-0560",
+      "website": "https://larryswindowservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50317"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "688e969b-def1-495a-b9c5-2985117f4802",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Squeegee Squad of Des Moines",
+      "category": "Pressure washing",
+      "phone": "(515) 612-8712",
+      "website": "https://squeegeesquad.com/des-moines-ia/residential/pressure-soft-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50317"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28583d6f-a280-44f5-8be9-6efea30f4822",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JT's Pro Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(515) 916-0472",
+      "website": "https://www.jtspropressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50317"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ab244806-179e-48c5-8af1-f3dd364a9794",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dirty Dogs Soft Wash",
+      "category": "Pressure washing",
+      "phone": "(515) 259-3090",
+      "website": "https://www.dirtydogssoftwash.com/service-areas/waukee-ia-pressure-washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50317"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "bcd6d0f1-11a9-4c82-8554-ba077c11b048",
+      "business_id": "6c833fbc-f8bf-442c-be44-fb8c82a508b6",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "48d05c48-a8cb-4c22-8a89-488d83ca9c95",
+      "business_id": "79ed6b53-dfee-4f29-9b6f-087a9b56f44d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "64cf2c5d-5b67-4f1d-a4f5-76abf41d3c74",
+      "business_id": "688e969b-def1-495a-b9c5-2985117f4802",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "102cb2ee-41ea-449b-93c4-d1f4b4a8b733",
+      "business_id": "28583d6f-a280-44f5-8be9-6efea30f4822",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a187ab00-892c-45c1-ab68-e718125c91ce",
+      "business_id": "ab244806-179e-48c5-8af1-f3dd364a9794",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

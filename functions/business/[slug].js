@@ -684,6 +684,40 @@ var ZIP_NAMES = {
     '55811': 'Duluth',
     '55901': 'Rochester',
     '55904': 'Rochester',
+  '50003': 'Adel',
+  '50021': 'Ankeny',
+  '50023': 'Ankeny',
+  '50038': 'Booneville',
+  '50039': 'Bouton',
+  '50063': 'Dallas Center',
+  '50069': 'De Soto',
+  '50109': 'Granger',
+  '50111': 'Grimes',
+  '50131': 'Johnston',
+  '50146': 'Linden',
+  '50167': 'Minburn',
+  '50211': 'Norwalk',
+  '50220': 'Perry',
+  '50233': 'Redfield',
+  '50261': 'Van Meter',
+  '50263': 'Waukee',
+  '50265': 'West Des Moines',
+  '50266': 'West Des Moines',
+  '50310': 'Des Moines',
+  '50311': 'Des Moines',
+  '50312': 'Des Moines',
+  '50314': 'Des Moines',
+  '50317': 'Des Moines',
+  '50322': 'Urbandale',
+  '50323': 'Urbandale',
+  '50325': 'Clive',
+  '50701': 'Waterloo',
+  '52240': 'Iowa City',
+  '52402': 'Cedar Rapids',
+  '52403': 'Cedar Rapids',
+  '52404': 'Cedar Rapids',
+  '52801': 'Davenport',
+  '52802': 'Davenport',
 };
 
 function slugify(name) {
@@ -749,7 +783,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261026b">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261027a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

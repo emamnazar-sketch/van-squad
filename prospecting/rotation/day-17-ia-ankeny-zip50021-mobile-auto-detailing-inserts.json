@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "c9fe4187-d6cf-4f58-921d-a24d9d5abbbe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JEM Signature Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(515) 480-4372",
+      "website": "https://jemsignaturedetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50021"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bca351e7-46ee-4101-a447-302b7c0b1be1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Peak Pro Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(515) 554-1322",
+      "website": "https://peakprodetailing.com/service-pricing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50021"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "230e83f7-9df4-4b2f-990c-b0d6cee2c938",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Shine Your Ride Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(515) 897-9338",
+      "website": "https://mobiledetailingdsm.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50021",
+        "50266"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "055b605a-f922-4b0f-b50f-decab6805033",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "C&C Detailing Services",
+      "category": "Mobile auto detailing",
+      "phone": "(515) 447-8860",
+      "website": "http://www.cc-detailing-services.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50021"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5883bb84-1d7c-4152-9748-a69fd3284b23",
+      "business_id": "c9fe4187-d6cf-4f58-921d-a24d9d5abbbe",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1aae5abe-a425-4ff0-971a-c9711f41db74",
+      "business_id": "bca351e7-46ee-4101-a447-302b7c0b1be1",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1941c98b-fa4e-4f00-8c59-f8699a1b59e3",
+      "business_id": "230e83f7-9df4-4b2f-990c-b0d6cee2c938",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "db8c2286-26be-4998-ab9b-c5e70ac4c6a2",
+      "business_id": "055b605a-f922-4b0f-b50f-decab6805033",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "e1991587-3157-43ca-9f5e-969450ca62cd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simply Right Handyman LLC",
+      "category": "Handyman",
+      "phone": "(319) 214-3127",
+      "website": "http://simplyrighthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e8ceb2cc-5d62-401d-ba6e-53b4e638b04c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Home Solutions",
+      "category": "Handyman",
+      "phone": "(319) 804-9070",
+      "website": "https://www.yourhandyhomesolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "67908f43-4122-4d2e-b094-6f1ad88c9464",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Westside Home Repair LLC",
+      "category": "Handyman",
+      "phone": "(319) 383-4962",
+      "website": "https://westsidehomerepair.wordpress.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e11b7bb2-86df-41c4-ba82-e62c6b00cf52",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JMG HandyMan Services",
+      "category": "Handyman",
+      "phone": "(319) 471-0593",
+      "website": "http://www.jmghandymania.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "24c953ee-68a4-4032-a719-1f2d28bf435d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Keil's Maintenance",
+      "category": "Handyman",
+      "phone": "(319) 339-1027",
+      "website": "http://keilsiowacity.repair/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "525ff84b-672e-4587-ac84-19d69cc216b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rico can fix it",
+      "category": "Handyman",
+      "phone": "(319) 594-6143",
+      "website": "https://rico-can-fix-it.business.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4f2ec08a-d232-4a2c-9250-36d1c71a2b9a",
+      "business_id": "e1991587-3157-43ca-9f5e-969450ca62cd",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f6a62cb-227a-4c81-abb0-af9c71f3125a",
+      "business_id": "e8ceb2cc-5d62-401d-ba6e-53b4e638b04c",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2981b172-e8b7-4d4c-97ea-02218312baee",
+      "business_id": "67908f43-4122-4d2e-b094-6f1ad88c9464",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "61b62934-3816-4e02-a22b-1bdcd0e5d34e",
+      "business_id": "e11b7bb2-86df-41c4-ba82-e62c6b00cf52",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f9f6661e-b8f1-4ff1-be99-dbc12e41b2c1",
+      "business_id": "24c953ee-68a4-4032-a719-1f2d28bf435d",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f3e5cfc0-176e-48a3-b8ae-73615b18724b",
+      "business_id": "525ff84b-672e-4587-ac84-19d69cc216b3",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

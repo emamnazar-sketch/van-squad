@@ -1,0 +1,207 @@
+{
+  "businesses": [
+    {
+      "id": "9b33b662-e838-446b-b917-1b6c85149b90",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Premier Pool Service",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 355-3733",
+      "website": "https://premierpoolservice.com/pool-service/iowa/des-moines/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "450972e4-8ac2-4d2a-9d20-7a6c7cfc6027",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Speck USA",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 285-4649",
+      "website": "https://speckusa.com/pools/pool-maintenance-service/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b809d502-2252-47af-ba2b-c7effdedc8c6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Central Iowa Pool & Spa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 263-6900",
+      "website": "http://www.soakandswim.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "77cb518e-5196-48f5-84a9-e0c3f465aba0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Poolwerx Waukee",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 904-7335",
+      "website": "http://www.poolwerx.com/locations/iowa/poolwerx-waukee/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322",
+        "50266",
+        "50325",
+        "50111",
+        "50063",
+        "50167"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a95bad2b-e912-4f1d-ab0d-d7b93d714a8f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pools of Iowa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 491-5403",
+      "website": "http://www.poolsofiowa.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "13cc315c-d62d-474d-bb3a-ebc583b096a7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Heartland Pool and Spa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 416-9186",
+      "website": "http://heartlandpoolandspaia.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "83bb806b-161e-4d78-9f4b-59a4bb732469",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pool Escapes of Iowa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(515) 416-0050",
+      "website": "https://www.poolescapesofiowa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50322"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b4413948-e626-4fdf-afa8-2d6dbde41ee6",
+      "business_id": "9b33b662-e838-446b-b917-1b6c85149b90",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4af0a9eb-957d-4036-90c9-748e43786613",
+      "business_id": "450972e4-8ac2-4d2a-9d20-7a6c7cfc6027",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ebbd6bd4-0ce0-41f9-a673-662fd4510c8b",
+      "business_id": "b809d502-2252-47af-ba2b-c7effdedc8c6",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "885eb4f2-249f-46c4-8236-5690c85642c2",
+      "business_id": "77cb518e-5196-48f5-84a9-e0c3f465aba0",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "58946d97-cae0-4ef9-88b2-f3d1d90c8f70",
+      "business_id": "a95bad2b-e912-4f1d-ab0d-d7b93d714a8f",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9b472df7-f122-42fe-a58a-8d2e7d4058cb",
+      "business_id": "13cc315c-d62d-474d-bb3a-ebc583b096a7",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aa6f22f3-79bd-49ec-a195-242498c9291d",
+      "business_id": "83bb806b-161e-4d78-9f4b-59a4bb732469",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

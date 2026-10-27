@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "95ff4371-5a94-40d6-a01b-3826a1bc4942",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Des Moines Handyman",
+      "category": "Handyman",
+      "phone": "(515) 606-1306",
+      "website": "https://desmoineshandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08862f87-491e-401c-b1bb-5e936b4f0ff6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "City Wide Handyman Service",
+      "category": "Handyman",
+      "phone": "(515) 205-3819",
+      "website": "http://www.handymaniowa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d9f0f3c0-cf28-4257-a3f8-6363ba72ba68",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Call Handyman",
+      "category": "Handyman",
+      "phone": "(515) 497-0088",
+      "website": "https://www.firstcallhandyman.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a1c38e6-7cc5-43c9-9d83-fb2fde4bf33e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tengo Fe LLC",
+      "category": "Handyman",
+      "phone": "(515) 415-1228",
+      "website": "https://www.tengofellc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4dce4a43-c7fc-4ca8-8b56-82d4e53a24be",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zed & Sons Handyman",
+      "category": "Handyman",
+      "phone": "(515) 322-0912",
+      "website": "http://zedandsonshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "59c9bf20-615c-4e0f-8341-0289856f024e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Viewpoint Handy Home Construction",
+      "category": "Handyman",
+      "phone": "(515) 491-5724",
+      "website": "https://www.viewpointhandyhomeconst.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c6b55a6e-3dcb-4c86-97ed-94e89a73058e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Servant's Heart Handyman",
+      "category": "Handyman",
+      "phone": "(515) 505-8511",
+      "website": "https://www.servantsheartdsm.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50314"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3415e747-65ef-4527-9826-721d47b4d3c8",
+      "business_id": "95ff4371-5a94-40d6-a01b-3826a1bc4942",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6b09105f-3cb3-4317-a83e-14a880e9e763",
+      "business_id": "08862f87-491e-401c-b1bb-5e936b4f0ff6",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f2b0f657-3a87-474f-8d77-33b54f8006e5",
+      "business_id": "d9f0f3c0-cf28-4257-a3f8-6363ba72ba68",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7a27f5cd-3946-4a6f-92f0-159272f16364",
+      "business_id": "9a1c38e6-7cc5-43c9-9d83-fb2fde4bf33e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "23ae8cad-0141-4499-b197-d979dfca86bf",
+      "business_id": "4dce4a43-c7fc-4ca8-8b56-82d4e53a24be",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f4217ca0-1a02-4112-b6cf-7677961b01bf",
+      "business_id": "59c9bf20-615c-4e0f-8341-0289856f024e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b19e2e4a-9d72-4319-83ed-142a960544d2",
+      "business_id": "c6b55a6e-3dcb-4c86-97ed-94e89a73058e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "edf8cc20-8988-460e-8b28-920ff944bd4a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Skogman Remodeling and Repair",
+      "category": "Handyman",
+      "phone": "(319) 200-4663",
+      "website": "http://www.skogmanremodeling.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "720a9cde-e907-429f-9215-cf1ee50a11ce",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MUSCH Handyman Services",
+      "category": "Handyman",
+      "phone": "(319) 214-0651",
+      "website": "http://www.muschhm.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "46928d78-9d33-47c0-8bc3-0bb6a31ea9e5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "EXACT Home Maintenance",
+      "category": "Handyman",
+      "phone": "(319) 899-6216",
+      "website": "https://exacthomemaintenance.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "caa71e70-7b03-45b2-9638-d9cc7ab6eb5a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Done Done Services",
+      "category": "Handyman",
+      "phone": "(319) 366-4700",
+      "website": "http://donedoneservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1be5c7df-afd8-4442-aa6c-af2208142108",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "E&E Services Handyman",
+      "category": "Handyman",
+      "phone": "(319) 310-8309",
+      "website": "http://eeservices-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c49fc82-66e5-4766-bc6a-f3b9e36f1e62",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Orion's Odd Jobs",
+      "category": "Handyman",
+      "phone": "(319) 440-6953",
+      "website": "https://orionsoddjobs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d6a2c7e0-672a-4696-ad2a-f8f54faf9410",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Day2Day Handyman",
+      "category": "Handyman",
+      "phone": "(319) 535-5600",
+      "website": "http://day2dayhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3fc3e651-fbe2-4e5c-96aa-048468e1bcf4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Complete Home Maintenance",
+      "category": "Handyman",
+      "phone": "(319) 361-5567",
+      "website": "http://www.chmiowa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3c1d0ce8-dc7f-401e-bda8-562b1c0b747c",
+      "business_id": "edf8cc20-8988-460e-8b28-920ff944bd4a",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cc95754a-d445-4ef8-974a-e17fb37af5dc",
+      "business_id": "720a9cde-e907-429f-9215-cf1ee50a11ce",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7af352bb-49b3-4021-9475-982944bcb5d7",
+      "business_id": "46928d78-9d33-47c0-8bc3-0bb6a31ea9e5",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ec7f0460-733d-4dab-95d9-df51cc0f2016",
+      "business_id": "caa71e70-7b03-45b2-9638-d9cc7ab6eb5a",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9309c963-7b70-4409-9a97-88eef4337ff0",
+      "business_id": "1be5c7df-afd8-4442-aa6c-af2208142108",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ec8c02a7-e374-409f-a58e-d78ce29cdf31",
+      "business_id": "9c49fc82-66e5-4766-bc6a-f3b9e36f1e62",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "46f3863e-d971-41ef-93d5-ef2e2fc116e4",
+      "business_id": "d6a2c7e0-672a-4696-ad2a-f8f54faf9410",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d904a7d9-cdb0-4c56-aa2c-6b8783e34c7b",
+      "business_id": "3fc3e651-fbe2-4e5c-96aa-048468e1bcf4",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

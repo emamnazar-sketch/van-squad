@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "id": "e01fc544-4367-4553-b624-40985e4d9632",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Iowa Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(319) 508-1608",
+      "website": "https://iowamobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52403",
+        "52404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "19e9bc33-3aa4-4516-aa06-59121f9b8a69",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Krallys Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(319) 382-6520",
+      "website": "https://www.krallysdetailing.com/about-5",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52403"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0d9248d7-5928-4b22-8b70-ef814cbc20b0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Upscale Mobile Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(563) 422-8430",
+      "website": "https://upscalemobiledetail.squarespace.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52403"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d7a59967-6362-40e2-9c58-e42c95c1571d",
+      "business_id": "e01fc544-4367-4553-b624-40985e4d9632",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "017753d8-5c19-4d2d-bc4b-50b751c32603",
+      "business_id": "19e9bc33-3aa4-4516-aa06-59121f9b8a69",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c8eb169a-778b-4f65-9fbe-ecfa9be23c97",
+      "business_id": "0d9248d7-5928-4b22-8b70-ef814cbc20b0",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

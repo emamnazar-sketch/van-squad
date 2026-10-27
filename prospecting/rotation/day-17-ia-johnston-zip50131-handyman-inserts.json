@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "171ed8cc-719a-4763-b7e0-d9e84ce6a5b7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Skilled Hands Handyman Service",
+      "category": "Handyman",
+      "phone": "(515) 277-5993",
+      "website": "https://skilledhandshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b372350b-0f08-4553-b4ed-e3940bce8fc6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Neighborly Handyman",
+      "category": "Handyman",
+      "phone": "(515) 491-5081",
+      "website": "http://theneighborlyhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "129cb826-3632-4350-acde-c094faf981d2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Fix-It Man",
+      "category": "Handyman",
+      "phone": "(515) 978-7022",
+      "website": "http://dsmfixit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b8bed0ed-83f5-4f17-9cbe-59c9274feb41",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Express Handyman",
+      "category": "Handyman",
+      "phone": "(515) 202-1244",
+      "website": "http://www.express-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c8cbd12-1478-49fa-8040-8bf90a109b91",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Thomas Handyman LLC",
+      "category": "Handyman",
+      "phone": "(515) 512-6107",
+      "website": "https://www.thomashandymanllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a94a5e19-677e-438c-8642-26f85a4ec080",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Guy",
+      "category": "Handyman",
+      "phone": "(515) 326-4596",
+      "website": "http://www.handymandesmoines.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d3ec08e3-1003-4769-ab0d-3352cf0251e5",
+      "business_id": "171ed8cc-719a-4763-b7e0-d9e84ce6a5b7",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "31850992-029f-4569-8a77-18c832d92ccd",
+      "business_id": "b372350b-0f08-4553-b4ed-e3940bce8fc6",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "431d4354-2191-45be-80b7-6bbbba3671e5",
+      "business_id": "129cb826-3632-4350-acde-c094faf981d2",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9f311d26-7ac6-4a70-bbe4-d35e771421b6",
+      "business_id": "b8bed0ed-83f5-4f17-9cbe-59c9274feb41",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "81568d20-9f9f-419e-a638-8c7a68585118",
+      "business_id": "9c8cbd12-1478-49fa-8040-8bf90a109b91",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7188c6b2-6bc7-4cc0-92ce-804f309d7aaf",
+      "business_id": "a94a5e19-677e-438c-8642-26f85a4ec080",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

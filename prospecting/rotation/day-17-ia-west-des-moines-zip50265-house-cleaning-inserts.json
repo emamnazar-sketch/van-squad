@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "dc8dc112-2557-40e4-9e5b-4ffa0f23c1e1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Queen of Clean",
+      "category": "House cleaning",
+      "phone": "(515) 528-8723",
+      "website": "http://www.thequeenofcleania.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50265"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9f711ed5-2bd1-4e8d-be7a-35ce18dd1081",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Metro Maids Des Moines",
+      "category": "House cleaning",
+      "phone": "(515) 444-5890",
+      "website": "https://metromaidsdsm.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50265"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d69f6a1b-e75e-4cb4-8e6c-f1bb57e79f59",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chicks Who Shine",
+      "category": "House cleaning",
+      "phone": "(515) 249-2955",
+      "website": "https://www.chickswhoshine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50265"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "91ee8934-08ff-4e4b-a677-977b22610b1a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kate Keeps It Klean",
+      "category": "House cleaning",
+      "phone": "(515) 901-5655",
+      "website": "https://katekeepsitklean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50265"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95f58aca-acf3-43e5-85b4-6de212dc5e2e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "White Glove Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(515) 223-9603",
+      "website": "http://whiteglove.20fr.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50265"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "09068bdb-7e6a-4e8f-a472-7a0a13181abd",
+      "business_id": "dc8dc112-2557-40e4-9e5b-4ffa0f23c1e1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "261897ae-af30-4453-b60b-c50af9cd9818",
+      "business_id": "9f711ed5-2bd1-4e8d-be7a-35ce18dd1081",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2ac9927b-3ede-4c8b-ba83-090511afedf4",
+      "business_id": "d69f6a1b-e75e-4cb4-8e6c-f1bb57e79f59",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "836c0061-2635-4fed-9843-410b9d198fe8",
+      "business_id": "91ee8934-08ff-4e4b-a677-977b22610b1a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "71580092-f5df-4b07-83a9-02b93e257bc2",
+      "business_id": "95f58aca-acf3-43e5-85b4-6de212dc5e2e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

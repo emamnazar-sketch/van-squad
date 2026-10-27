@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "507e1319-c019-4caa-89b9-f2063950eca9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CR Shine Services",
+      "category": "House cleaning",
+      "phone": "(319) 990-7912",
+      "website": "https://crshine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "237cbbd6-166c-42d4-b7cd-4f947b759492",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Master's Touch Cleaning Solution",
+      "category": "House cleaning",
+      "phone": "(319) 249-9098",
+      "website": "https://tmtcsolution.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "af8176ca-6bb5-414d-8f69-51df0031e5ef",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Absolutely Clean",
+      "category": "House cleaning",
+      "phone": "(319) 377-4404",
+      "website": "http://absolutelyclean.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a608a8c2-f71a-4616-b4e9-1ae7ee6f326b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pure Mean Clean",
+      "category": "House cleaning",
+      "phone": "(319) 531-8402",
+      "website": "https://puremeanclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a5ced01-00e3-4f60-8214-c03b059ff1a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mj'S Pure Perfection Cleaners LLC",
+      "category": "House cleaning",
+      "phone": "(319) 515-7458",
+      "website": "https://pureperfectioncleanersllc.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e1747d36-c05c-4928-b3f7-50e360ba0f33",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "H and B Supreme Cleaning",
+      "category": "House cleaning",
+      "phone": "(319) 206-8617",
+      "website": "https://www.hnbsupremecleaning.com/about-us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "52402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fda4cf01-3e26-47ff-9449-389dad722009",
+      "business_id": "507e1319-c019-4caa-89b9-f2063950eca9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f23e9729-376a-453e-b841-1f85bf6c8253",
+      "business_id": "237cbbd6-166c-42d4-b7cd-4f947b759492",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "33b5a96a-3bea-4b21-a285-a8248192e335",
+      "business_id": "af8176ca-6bb5-414d-8f69-51df0031e5ef",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aa237e81-3348-4064-8cb4-e18af0071690",
+      "business_id": "a608a8c2-f71a-4616-b4e9-1ae7ee6f326b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6cac2459-ba90-4219-8d78-2c74f3b5e786",
+      "business_id": "9a5ced01-00e3-4f60-8214-c03b059ff1a3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cb351130-a900-46fa-a1cf-37b933c23ce2",
+      "business_id": "e1747d36-c05c-4928-b3f7-50e360ba0f33",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "76b66a0f-d8b0-4dbf-a6d7-feb359a0cd53",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CPIA Cleaning Services",
+      "category": "Deep cleaning",
+      "phone": "(515) 423-0465",
+      "website": "http://cpiallc.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50312"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "00736866-8960-449c-ac28-e5c4489cff28",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Honey's Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(515) 991-3377",
+      "website": "https://www.honeyscleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50312"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7c8fe0f7-6368-49d2-bc42-20e877c690eb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rivas Cleaning Services",
+      "category": "Deep cleaning",
+      "phone": "(515) 943-7148",
+      "website": "http://www.rivascleaningservices.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50312"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e20bf509-0d1f-453d-9f14-7be36f16de47",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Des Moines Cleaning Services",
+      "category": "Deep cleaning",
+      "phone": "(515) 744-8082",
+      "website": "https://desmoinescleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "50312"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c19d3fff-32d9-4431-901c-ee7802a09e0a",
+      "business_id": "76b66a0f-d8b0-4dbf-a6d7-feb359a0cd53",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5bac555c-faa8-4a18-9243-89c2b229b296",
+      "business_id": "00736866-8960-449c-ac28-e5c4489cff28",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d88da46e-9a98-4a55-a4d1-8ffe66b13c6e",
+      "business_id": "7c8fe0f7-6368-49d2-bc42-20e877c690eb",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bbc9d22f-3956-4a9d-b356-87c10d9e3a0f",
+      "business_id": "e20bf509-0d1f-453d-9f14-7be36f16de47",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
