@@ -1,0 +1,177 @@
+{
+  "businesses": [
+    {
+      "id": "ca483217-cabe-4d03-9ed0-04442a3ae066",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Adams Power Shower",
+      "category": "Pressure washing",
+      "phone": "(314) 220-9274",
+      "website": "https://adamspowershower.com/about/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5548d5df-70dc-4d8d-ad7d-b1fb874875af",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gateway Power Washing",
+      "category": "Pressure washing",
+      "phone": "(636) 633-6940",
+      "website": "https://gatewaypowerwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f4af23cd-48cc-4002-b560-1eb50b9b0644",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prime-Shine Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(636) 448-1169",
+      "website": "http://primeshinepressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8c2eacb1-8f46-47fc-8025-2e2698b5d87b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "STL Power Wash LLC",
+      "category": "Pressure washing",
+      "phone": "(314) 636-2424",
+      "website": "https://stlpowerwashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63301",
+        "63304"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a6e95e44-8248-4b9a-a600-95d780a87009",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MidWest SoftWash",
+      "category": "Pressure washing",
+      "phone": "(636) 244-1024",
+      "website": "https://www.midwestsoftwashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63301",
+        "63385"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "496708e9-0e14-41d2-84e8-d098758f21b8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "St. Charles Power Washing",
+      "category": "Pressure washing",
+      "phone": "(636) 675-4255",
+      "website": "http://www.stcharlespowerwashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63301",
+        "63011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "30642c87-7785-47bd-8546-b03fd1ee0134",
+      "business_id": "ca483217-cabe-4d03-9ed0-04442a3ae066",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b686655d-2ef6-419f-b98f-2c01bef80290",
+      "business_id": "5548d5df-70dc-4d8d-ad7d-b1fb874875af",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "59211f25-c275-4dfe-9267-eaa045b346af",
+      "business_id": "f4af23cd-48cc-4002-b560-1eb50b9b0644",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "490be33b-b48f-4b76-ac9f-f9094e913b25",
+      "business_id": "8c2eacb1-8f46-47fc-8025-2e2698b5d87b",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "36e77dc8-e4f9-46dd-8e3d-262ac4bf3932",
+      "business_id": "a6e95e44-8248-4b9a-a600-95d780a87009",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "da4579c7-514f-4318-8cc3-6ac2daaf9872",
+      "business_id": "496708e9-0e14-41d2-84e8-d098758f21b8",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

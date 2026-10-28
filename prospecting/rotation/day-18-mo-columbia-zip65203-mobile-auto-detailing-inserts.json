@@ -1,0 +1,176 @@
+{
+  "businesses": [
+    {
+      "id": "b25eaf85-60be-43a5-82c9-2f4391a2d5ec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "M&W Mobile Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(573) 673-0956",
+      "website": "https://mwmobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65203",
+        "65202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b655cc38-a538-40b9-be2f-850f31aaeb8b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Magic Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(573) 230-8142",
+      "website": "http://Magicmdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "98c8c9c7-2aa4-429e-8593-e63d11e53ace",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Central Missouri Detailing LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(573) 819-6285",
+      "website": "http://centralmissouridetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65203",
+        "65202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d4468bb3-5ef7-4681-acbd-58793e5b6243",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Legends Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(573) 825-1446",
+      "website": "https://legendsautospacolumbia.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "165d5fa7-ac80-4aee-b55f-dc08317c6d90",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MB Mobile Detailing and Ceramic Coatings",
+      "category": "Mobile auto detailing",
+      "phone": "(573) 521-7235",
+      "website": "http://mandbdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9694472b-8a86-43bc-82d9-71a0ee276b55",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Columbia Mobile Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(573) 356-6714",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7ffd5461-5c47-482a-9284-dd92d9ac7331",
+      "business_id": "b25eaf85-60be-43a5-82c9-2f4391a2d5ec",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "83e2a96f-5e0b-4c25-8426-58b4c56d8a6a",
+      "business_id": "b655cc38-a538-40b9-be2f-850f31aaeb8b",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a1678fbf-3a5f-4ed0-a20e-a7aea3091850",
+      "business_id": "98c8c9c7-2aa4-429e-8593-e63d11e53ace",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "db3d1c5d-076a-4c67-ba93-e9d5269c0c80",
+      "business_id": "d4468bb3-5ef7-4681-acbd-58793e5b6243",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d5f2c749-2b30-4fb9-a362-fccc15294b6c",
+      "business_id": "165d5fa7-ac80-4aee-b55f-dc08317c6d90",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "64d034ab-c2eb-4a7e-a123-2e96de14f38a",
+      "business_id": "9694472b-8a86-43bc-82d9-71a0ee276b55",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

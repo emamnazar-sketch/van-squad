@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "1275382d-0c18-425c-bb44-967e6c229ff1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Xtreme Handyman LLC",
+   "category": "Handyman",
+   "phone": "(314) 470-8585",
+   "website": "http://xtremehandy.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "63146"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2f923187-2310-41a7-933e-3b83c89ff3f1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handy Home Services LLC",
+   "category": "Handyman",
+   "phone": "(314) 594-7105",
+   "website": "https://handyhomeservicesstl.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "63146"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0c14c134-c133-41d4-b447-977d2c4cd2b6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "FIX St Louis",
+   "category": "Handyman",
+   "phone": "(314) 434-4100",
+   "website": "https://fixsl.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "63146"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "00b48b69-74dc-4f89-90a9-32b9ad12e3cf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "GreenLun",
+   "category": "Handyman",
+   "phone": "(314) 898-5987",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "63146"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "0aa9c9e9-395b-4fa6-8f0b-21fb1c11f1d2",
+   "business_id": "1275382d-0c18-425c-bb44-967e6c229ff1",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5c9cb095-2200-42a1-9a82-e8db8462e3ee",
+   "business_id": "2f923187-2310-41a7-933e-3b83c89ff3f1",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "23b1f6bb-2e30-495b-ad7a-7ba78aece77f",
+   "business_id": "0c14c134-c133-41d4-b447-977d2c4cd2b6",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "43de3185-89e2-4705-ad5d-67cf24648a7a",
+   "business_id": "00b48b69-74dc-4f89-90a9-32b9ad12e3cf",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

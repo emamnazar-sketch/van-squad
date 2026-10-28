@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "a89fd14f-4ba4-4dba-94dd-0020f1edaebf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tiger Maids",
+      "category": "House cleaning",
+      "phone": "(573) 445-9999",
+      "website": "http://www.tigermaids.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "282c26bc-3b72-4213-a227-9f1e0fe76cce",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Casa Bonita Housecleaning",
+      "category": "House cleaning",
+      "phone": "(573) 489-6795",
+      "website": "http://www.casabonitahousecleaning.com/contact-us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e1a5e06a-58cd-40ae-a9c4-dbdd9bbe9ebb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleanest, LLC",
+      "category": "House cleaning",
+      "phone": "(573) 673-6984",
+      "website": "http://thecleanestllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aca13237-d89f-498b-83eb-f3c70a6f163b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "25th Hour Cleaning",
+      "category": "House cleaning",
+      "phone": "(573) 515-2525",
+      "website": "https://www.25thhourcleaning.com/about",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "75a94290-08c8-4b65-a112-6a97b6ffd1a5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simply Clean of Columbia",
+      "category": "House cleaning",
+      "phone": "(573) 338-1947",
+      "website": "https://www.simplycleanofcolumbia.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ad224b41-7156-4cfb-b2b1-7a213ea2e26e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning with Shayla",
+      "category": "House cleaning",
+      "phone": "(573) 416-0259",
+      "website": "https://cleaningwithshayla.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ddd5a445-870c-4b92-a58e-efbc614a18ec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Polished & Clean",
+      "category": "House cleaning",
+      "phone": "(573) 397-7767",
+      "website": "https://www.polishednclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "47fe545d-41c1-4894-8a41-7957b971f6a7",
+      "business_id": "a89fd14f-4ba4-4dba-94dd-0020f1edaebf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fd7286c4-2d19-42a1-ac2f-c7a1c35e9bf6",
+      "business_id": "282c26bc-3b72-4213-a227-9f1e0fe76cce",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9e442ca3-ea99-46e6-a533-375d32aa9441",
+      "business_id": "e1a5e06a-58cd-40ae-a9c4-dbdd9bbe9ebb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1080e525-269b-4968-9c2d-d7f4a4a887a3",
+      "business_id": "aca13237-d89f-498b-83eb-f3c70a6f163b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6de80f2c-66c3-472b-b5a7-cfdae79af8dc",
+      "business_id": "75a94290-08c8-4b65-a112-6a97b6ffd1a5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b69fee4e-20e1-4646-91c2-d0c08e1fd97a",
+      "business_id": "ad224b41-7156-4cfb-b2b1-7a213ea2e26e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dcebf302-9eba-4eb4-a0f7-8ade2efbf7f0",
+      "business_id": "ddd5a445-870c-4b92-a58e-efbc614a18ec",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

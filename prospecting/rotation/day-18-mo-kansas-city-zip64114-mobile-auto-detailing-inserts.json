@@ -1,0 +1,180 @@
+{
+  "businesses": [
+    {
+      "id": "85ee2568-d1e9-4bb0-a6b1-ee6bd5b274ca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Missouri Details",
+      "category": "Mobile auto detailing",
+      "phone": "(816) 429-2407",
+      "website": "https://missouridetails.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64114",
+        "64113",
+        "64118",
+        "64068"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5781f475-a880-492c-8ea4-eab27edc1b8d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Turbo Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 214-1342",
+      "website": "https://turboautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64114",
+        "64117",
+        "64118",
+        "64151"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "658d6363-4478-48dd-8d04-b24f0160c4c8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mythical Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(816) 200-2581",
+      "website": "https://mythicaldetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7ca17f9c-293a-4769-b65e-b6446cebd050",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(913) 548-1396",
+      "website": "https://kcdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f04bbc50-3571-47e0-ad0f-bea50e2bad95",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Al's Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(816) 739-5706",
+      "website": "https://www.facebook.com/share/1B6zpPdV2J/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4754b184-b6f5-4d51-8707-cdc97bbef356",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Branded Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(816) 873-2323",
+      "website": "http://brandeddetailingkc.com/car-detailing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5a7ca7e8-9114-48cc-a184-43220908b60e",
+      "business_id": "85ee2568-d1e9-4bb0-a6b1-ee6bd5b274ca",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "94dbed01-0bff-4dc9-bfbf-45ea7cc9d3dc",
+      "business_id": "5781f475-a880-492c-8ea4-eab27edc1b8d",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ed999ba7-48a8-46e5-96a9-5c0837beee29",
+      "business_id": "658d6363-4478-48dd-8d04-b24f0160c4c8",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "20856189-25f3-4462-a2cf-d94f9ae3e02d",
+      "business_id": "7ca17f9c-293a-4769-b65e-b6446cebd050",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a69daa3b-479e-4eeb-98cf-48d85da915b3",
+      "business_id": "f04bbc50-3571-47e0-ad0f-bea50e2bad95",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "32f040da-b2a6-43a1-872d-622beda7b8c4",
+      "business_id": "4754b184-b6f5-4d51-8707-cdc97bbef356",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "c706fe8b-dac4-4053-8b41-14e6484c5e6f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Gals & A Broom",
+      "category": "House cleaning",
+      "phone": "(816) 472-4257",
+      "website": "https://twogalsandabroomkc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3980530d-68d6-4a72-961b-2146aa86555a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sunflower Maids Service of Kansas City",
+      "category": "House cleaning",
+      "phone": "(816) 839-6329",
+      "website": "https://sunflowermaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "540bd040-4a60-4c8b-b91a-c5d556a0a2e5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pro House Clean",
+      "category": "House cleaning",
+      "phone": "(816) 446-2079",
+      "website": "http://www.prohouseclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d9daede8-6d98-4b94-8b08-c967947e7d7f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Lustrous Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(816) 469-0747",
+      "website": "https://kclustrouscleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "354a8d4b-eee2-4753-a83b-0b6a6b3ea543",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Als KC Cleaning",
+      "category": "House cleaning",
+      "phone": "(816) 945-2460",
+      "website": "https://www.alskccleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b7336631-2b46-482e-9ac0-6d867b70af07",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Metro Maids",
+      "category": "House cleaning",
+      "phone": "(816) 745-1433",
+      "website": "https://kcmetromaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "64111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7c860405-3990-4da1-be44-4e2fdd6b3807",
+      "business_id": "c706fe8b-dac4-4053-8b41-14e6484c5e6f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "300ffba1-bc48-4919-9fa8-f93b5f0aa95e",
+      "business_id": "3980530d-68d6-4a72-961b-2146aa86555a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "13d4d875-ea78-4762-8877-15601dc67ef9",
+      "business_id": "540bd040-4a60-4c8b-b91a-c5d556a0a2e5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6210a95b-170e-49c1-9864-5e5bed201a49",
+      "business_id": "d9daede8-6d98-4b94-8b08-c967947e7d7f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8733779e-6277-4e3d-ac95-a0e6153c6d8f",
+      "business_id": "354a8d4b-eee2-4753-a83b-0b6a6b3ea543",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "23e53d65-3dbd-4482-820d-bb9bffe1a4eb",
+      "business_id": "b7336631-2b46-482e-9ac0-6d867b70af07",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

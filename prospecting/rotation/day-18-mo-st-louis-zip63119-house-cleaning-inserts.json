@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "cfab3003-bc2b-450f-87be-9cf0736cfcd5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Better Life Home Cleaning",
+      "category": "House cleaning",
+      "phone": "(314) 288-0659",
+      "website": "https://betterlifehome.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0b8580cc-25b6-420d-804c-334e64a78550",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning Concepts Maid Service",
+      "category": "House cleaning",
+      "phone": "(314) 781-0018",
+      "website": "https://stlouismaidservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d26a971f-1586-4afe-89d5-74c732b61d03",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ezer Home Solutions",
+      "category": "House cleaning",
+      "phone": "(314) 814-1752",
+      "website": "https://www.ezerhomesolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "40b6eb99-2d15-49b9-8213-3f61c1bbe6f5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Ladies & A Bucket",
+      "category": "House cleaning",
+      "phone": "(314) 229-1736",
+      "website": "http://www.twoandabucket.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79bc9104-75c3-48eb-8197-00d2988c92e5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elsa's Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(314) 907-1089",
+      "website": "http://www.elsascleaningcompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "63119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fb638320-da6c-4926-a50a-bb1f8b72866f",
+      "business_id": "cfab3003-bc2b-450f-87be-9cf0736cfcd5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77b9028c-f5f1-4208-867d-13a461a71647",
+      "business_id": "0b8580cc-25b6-420d-804c-334e64a78550",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f3408800-1ad9-48fd-a719-5f28df5eb580",
+      "business_id": "d26a971f-1586-4afe-89d5-74c732b61d03",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3300e3e2-4149-4fd5-aa85-e7ae513e3bcd",
+      "business_id": "40b6eb99-2d15-49b9-8213-3f61c1bbe6f5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "05c246f8-520d-4b55-95e7-ce60690adec0",
+      "business_id": "79bc9104-75c3-48eb-8197-00d2988c92e5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

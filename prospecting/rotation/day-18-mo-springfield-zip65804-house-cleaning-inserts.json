@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "22e4af6e-2d91-49da-bad3-8afdf3fe2142",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "417 Eco Clean",
+      "category": "House cleaning",
+      "phone": "(417) 233-1290",
+      "website": "https://417ecoclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a58c23b5-2d1d-4b4f-9dd7-d379f22cad14",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Men Can Clean Too!",
+      "category": "House cleaning",
+      "phone": "(417) 719-1380",
+      "website": "https://www.mencancleantoo.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5b9c20ea-af3c-4835-8c5b-552423df7c4e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Davis Cleaning 417",
+      "category": "House cleaning",
+      "phone": "(417) 319-1677",
+      "website": "https://www.daviscleaning417.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "89fbf03f-da59-48ab-a228-4ba32f317f7f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nicely Done Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(417) 839-4775",
+      "website": "http://www.nicelydonecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "989f3c77-d2bb-490e-8507-79cffba6b2fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Apex Cleaning Pros",
+      "category": "House cleaning",
+      "phone": "(417) 908-6363",
+      "website": "https://apex-cleaningpros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e58df70d-ed66-43b5-995b-4ba6f078bea0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kimberly's Housecleaning",
+      "category": "House cleaning",
+      "phone": "(417) 315-4078",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "65804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "50dc2bdc-b7f3-49ec-963a-35c8f7ac57c3",
+      "business_id": "22e4af6e-2d91-49da-bad3-8afdf3fe2142",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bce6aa72-e584-4211-8032-f65a53abd84c",
+      "business_id": "a58c23b5-2d1d-4b4f-9dd7-d379f22cad14",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "52535415-f95c-42a1-a934-369be628f39b",
+      "business_id": "5b9c20ea-af3c-4835-8c5b-552423df7c4e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "55ba6c1a-1a96-4472-ad12-5f657fa6b111",
+      "business_id": "89fbf03f-da59-48ab-a228-4ba32f317f7f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1735da6f-b72d-42fd-9b4c-c1eaf4eaf555",
+      "business_id": "989f3c77-d2bb-490e-8507-79cffba6b2fb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "49684e9b-087e-4d1e-b04b-0cc923345701",
+      "business_id": "e58df70d-ed66-43b5-995b-4ba6f078bea0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

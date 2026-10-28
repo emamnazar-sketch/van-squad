@@ -1,0 +1,34 @@
+# Rotation Day 18 — Missouri: St. Charles × Pressure washing × ZIP 63301
+
+- Researched: 2026-10-28 (nightly rotation, Day 18)
+- Cell: MO / St. Charles / ZIP 63301 / "Pressure washing"
+- Category label verified in ~/workspace/van-squad/js/data.js: "Pressure washing"
+- Sources: each business's own website first, then public listings (Google Business, BBB). Public information only. Phones and emails never invented.
+- Status: PREPARED, NOT INSERTED — batch files only; coordinator inserts centrally.
+- ZIP note: 63301 itself yielded one operator based in 63301 (Adams Power Shower, BBB address 1548 Boones Lick Rd, Saint Charles, MO 63301-2333) plus St. Charles–based / St. Charles–serving operators whose own sites explicitly list St. Charles. No expansion to an adjacent ZIP was needed. Additional service ZIPs in inserts are only ZIPs the business itself publishes (its own base ZIP).
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence | Source |
+|---|---|---|---|---|---|---|---|
+| Adams Power Shower | (314) 220-9274 | Pressure washing | St. Charles | https://adamspowershower.com/about/ | — none published on its own site | High — own site: veteran- and family-owned pressure washing company that "has served the St. Louis and St. Charles metro for more than 36 years", cleaned "thousands of homes across St. Louis and St. Charles counties — vinyl and brick siding, decks, patios, driveways, sidewalks", "no call center", phone (314) 220-9274 on the site itself; BBB lists its base as 1548 Boones Lick Rd, Saint Charles, MO 63301-2333 — in the target ZIP | Business's own website + BBB listing |
+| Gateway Power Washing | (636) 633-6940 | Pressure washing | St. Charles | https://gatewaypowerwash.com/ | brad@gatewaypowerwash.com — published as the mailto link on its own website https://gatewaypowerwash.com/ (Cloudflare-obfuscated in text extraction; decoded from the site's own mailto href) | High — own site: "Pressure Washing in St. Charles County, MO", "Based In Saint Charles, MO", serving list includes St. Charles, residential driveway/house/patio washing at the customer's property, phone (636) 633-6940 on the site; Google listing agrees (2521 Park Ave, St Charles, MO, same phone) | Business's own website + Google Business listing |
+| Prime-Shine Pressure Washing | (636) 448-1169 | Pressure washing | St. Charles | http://primeshinepressurewashing.com/ | — none published on its own site | High — own site: "Prime-Shine Pressure Washing serves St. Charles County and the greater St. Louis area with professional exterior cleaning", soft washing of homes/driveways/decks at the home, "Licensed & Insured", phone 636-448-1169 on the site; Google listing agrees (62 Eagle Cove Ln, St Charles, MO, same phone, "Serving St. Charles & the greater St. Louis! Call 636-448-1169") | Business's own website + Google Business listing |
+| STL Power Wash LLC | (314) 636-2424 | Pressure washing | St. Charles | https://stlpowerwashing.com/ | info@stlpowerwashing.com — published as the mailto link on its own website https://stlpowerwashing.com/drive-thru-pressure-washing/ (Cloudflare-obfuscated in text extraction; decoded from the site's own mailto href) | High — own site: "Locally Owned", services include House Washing and Driveway Cleaning, its own Areas We Serve list includes St. Charles, "Serving St. Louis, St. Charles, and surrounding areas", phone (314) 636-2424 on the site, footer base "Cottleville, MO 63304"; Google listing agrees on name and phone | Business's own website + Google Business listing |
+| MidWest SoftWash | (636) 244-1024 | Pressure washing | St. Charles | https://www.midwestsoftwashing.com/ | info@midwestsoftwashing.com — published in the business block on its own St. Charles page https://www.midwestsoftwashing.com/areas-served/power-washing-st-charles-mo/ | High — own site has a dedicated "Power Washing & Soft Washing in St. Charles, MO" page: residential house washing, driveway, deck/patio and roof washing at the property in St. Charles, phone (636) 244-1024 and email published on that page; own site base is 1844 W Pearce Blvd, Wentzville, MO 63385 | Business's own website |
+| St. Charles Power Washing | (636) 675-4255 | Pressure washing | St. Charles | http://www.stcharlespowerwashing.com/ | stcharlespowerwashing@gmail.com — published on its own website http://www.stcharlespowerwashing.com/ | Medium — own site confirms the on-site model (siding wash, driveway cleaning and sealing, fence, deck and pool-deck cleaning at the home), St. Charles in its own Servicing Areas list, and publishes its email and base address (303 Hutchinson Rd, Ellisville, MO 63011) on the site, but no phone appears on the homepage as extracted; phone (636) 675-4255 comes from its Google Business listing and BBB, which agree on name, phone and the same Ellisville address — hence Medium | Business's own website + Google Business listing + BBB listing |
+
+## Dedupe
+- Checked against ~/workspace/goals/van-squad-directory-website/hidden_files/day18-dedupe.txt and grep of all of ~/workspace/van-squad/prospecting/ (including Day-18 wave-1 files) for every name and phone above: no matches for the 6 included businesses.
+
+## Excluded (checked, did not pass the gates)
+- Crystal Clean Pressure Washing, St Charles, (314) 243-0284 — EXCLUDED for this cell: its own website (crystalcleanstl.com) returned no extractable content during this run, so its on-site model and phone could not be verified from its own materials; evidence was Google-listing-only (3071 Abbey St, St Charles; listing description quoting "Serving Saint Louis and Saint Charles Counties").
+- Williams Window Washing LLC, Saint Charles County, (636) 626-0744 — EXCLUDED for this category: primary category is window washing; pressure washing is secondary/incidental on its own site.
+- Window Genie of Saint Charles — EXCLUDED: franchise (Neighborly).
+- Five Star Painting (St. Charles pressure washing page) and CertaPro Painters of St. Charles — EXCLUDED: franchises, and primary category is painting.
+- Squeegee Squad — EXCLUDED: franchise/platform.
+- Forever Clean Gutters, St Charles — EXCLUDED: primary category is gutter cleaning and the only phone found is toll-free (800) 658-8153 (toll-free-only rule).
+- Hydrocleaners Pressure Washing, St Peters, (636) 317-6336 — EXCLUDED for this cell: its own listing describes it primarily as a pressure-washer equipment distributor / commercial sweeper operation in St Peters, not a residential on-site washing service for St. Charles 63301.
+
+## Files
+- Batch table: day-18-mo-st-charles-zip63301-pressure-washing.md (this file)
+- Inserts: day-18-mo-st-charles-zip63301-pressure-washing-inserts.json — 6 businesses + 6 listings
+- Leads: day-18-mo-st-charles-zip63301-pressure-washing-leads.json — 4 published emails (Gateway Power Washing, STL Power Wash LLC, MidWest SoftWash, St. Charles Power Washing); no guessed addresses

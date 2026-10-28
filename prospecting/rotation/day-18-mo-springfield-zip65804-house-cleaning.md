@@ -1,0 +1,45 @@
+# Day 18 — Missouri / Springfield / ZIP 65804 / House cleaning
+
+Cell: MO | Springfield | 65804 | "House cleaning" (exact label verified in ~/workspace/van-squad/js/data.js)
+Date: 2026-10-28
+Status: PREPARED, NOT INSERTED
+
+## Included businesses
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source |
+|---|---|---|---|---|---|---|---|
+| 417 Eco Clean | (417) 233-1290 | House cleaning | Springfield | https://417ecoclean.com/ | grace@417ecoclean.com — https://417ecoclean.com/ | High — own site is titled "House Cleaning & Cleaning Services in Springfield, MO", says "Locally owned in Springfield" and "Free in-home estimate — We walk your home before we ever clean it", lists Starter/Standard/Premium in-home packages and recurring house cleaning, and prints (417) 233-1290 and grace@417ecoclean.com in its Additional Details. Site's registered name line reads "Efficient Cleaning Operations"; the public brand/domain used here is 417 Eco Clean. Service area stated as Springfield + towns within ~25 minutes (Nixa, Ozark, Republic, Battlefield, Willard, Strafford, Rogersville) — city names only, no ZIP list published, so service_zips = [65804] only. | Own website https://417ecoclean.com/ |
+| Men Can Clean Too! | (417) 719-1380 | House cleaning | Springfield | https://www.mencancleantoo.com/ | contact@mencancleantoo.com — https://www.mencancleantoo.com/ | High — own site is titled "House & Commercial Cleaning in Springfield, MO", offers "My Home — Recurring, deep, and residential move-in/move-out cleaning", says "Springfield-based. 1824 S Fort Ave, Springfield, MO 65807", and prints Phone: +1-417-719-1380 and contact@mencancleantoo.com. In-home residential cleaning confirmed from its own materials. No ZIP list published, so service_zips = [65804] only. | Own website https://www.mencancleantoo.com/ |
+| Davis Cleaning 417 | (417) 319-1677 | House cleaning | Springfield | https://www.daviscleaning417.com/ | None published found | High — own site says "Locally Owned and Operated", "We're a full-service cleaning company that proudly serves Nixa, Ozark, Springfield, MO", lists House Cleaning Services / Regularly Scheduled / Move In / Move Out, and prints "Call Us Now: (417) 319-1677" with address "1335 E Republic Rd Suite H, Springfield MO 65804" — in the target ZIP itself. No readable email published on the fetched homepage, so none recorded. | Own website https://www.daviscleaning417.com/ ; Google listing agrees on name/address/phone |
+| Nicely Done Cleaning Services | (417) 839-4775 | House cleaning | Springfield | http://www.nicelydonecleaning.com/ | None published found | Medium — own site headline is "Commercial Janitorial & Residential Cleaning", says "Nicely Done Cleaning Services, LLC. has been providing… since 2011. As a family-owned business", confirming residential in-home cleaning from its own materials; its own homepage fetch did not print a phone, but the phone (417) 839-4775 is consistent across its Google listing, its BBB profile (address 1942 E Meadowmere St Ste 111, Springfield, MO 65804-0332 — in the target ZIP) and a Greene County advisory-board profile ("Call (417) 839-4775"). | Own website http://www.nicelydonecleaning.com/ ; Google listing; BBB; countyadvisoryboard.com profile |
+| Apex Cleaning Pros | (417) 908-6363 | House cleaning | Springfield | https://apex-cleaningpros.com/ | cleaningprosapex@gmail.com — https://apex-cleaningpros.com/ | High — own site is titled "Apex Cleaning Pros \| 417 Area's Premier Cleaning Service", says "Springfield and surrounding areas' most thorough cleaning experience", lists Standard Clean / Deep Clean / Move In-Move Out for homes ("Your home. Your peace."), and prints (417) 908-6363 and cleaningprosapex@gmail.com on its homepage ("Text APEX CLEANING to (417) 908-6363 for a quote"). No ZIP list published, so service_zips = [65804] only. NOTE: no relation to Apex Locals — name coincidence only. | Own website https://apex-cleaningpros.com/ |
+| Kimberly's Housecleaning | (417) 315-4078 | House cleaning | Springfield | (none verifiable) | None published found | Medium — no own website could be verified, but its business-verified Yelp page lists services "Deep cleaning / Maid services / Move-in or move-out cleaning / Regular home cleaning" and the owner-written About text says "I will make your house sparkle… I do weekly, biweekly, monthly… standard cleans! Call or text today… 417-315-4078" with "Serving Springfield Area"; its Google/Instagram listing agrees on name and +14173154078 and gives a Springfield, MO address. Solo local operator, in-home cleaning confirmed from the business's own published Yelp description. Website left blank rather than guessed. | Yelp (business-verified) https://www.yelp.com/biz/kimberlys-housecleaning-springfield ; Google listing |
+
+## Dedupe
+
+- Checked every candidate name AND phone against ~/workspace/goals/van-squad-directory-website/hidden_files/day18-dedupe.txt and grep of every file in ~/workspace/van-squad/prospecting/ (including Day-18 waves 1–2).
+- No included business matches by name or phone in either source.
+- Name-form notes: "417 Eco Clean" is the public brand/domain; its site's Additional Details name line reads "Efficient Cleaning Operations" (both forms dedupe-checked, no match). Davis Cleaning 417's own site footer brands it "Davis Cleaning 417" (also listed simply as "Davis Cleaning" — both checked). Nicely Done's BBB address is in 65804; a second BBB listing at 1948 E Grand with phone (417) 319-6189 appears to be a different/related cleaning business and was NOT used — the 839-4775 number is the one tied to Nicely Done's own Google listing, BBB profile and advisory-board profile.
+
+## Excluded
+
+- MaidPro Springfield ((417) 429-1857), You've Got Maids of Springfield ((417) 882-5326, 2200 E Sunshine St #122, 65804), Merry Maids of Springfield, MO (1809 E Seminole St, 65804) — national franchises, excluded per brief (MaidPro/Merry Maids named explicitly; You've Got Maids is the same franchise class).
+- Haze Cleaning Co. (1930 E Meadowmere St #107, Springfield, MO 65804) — EXCLUDED: its Google listing shows a local (417) 708-6631, but its own website's only published phone is the toll-free 866-800-4293 (with jamar@hazecleaningco.com) and its own site pitches vacant-property / move-in-move-out / post-construction work only — toll-free-only on its own materials, so no verifiable local phone could be recorded from its own site.
+- All Clean by Anabelle (Springfield listing, (417) 289-6970) — EXCLUDED: multi-state expansion brand (Overland Park KS HQ, Fayetteville AR, and many other cities on its own site); its own contact page publishes 913-456-6873 and service@allcleanbyanabelle.com and its review page an 866 number — the Springfield 417 number appears only in a listing and is not confirmed on its own materials, so no single verifiable local phone.
+- A B Clean ((417) 889-5056) — EXCLUDED: its own website could not be fetched in this run and listings conflict on its primary category/address (cleaning vs tree service; two Springfield addresses), so in-home house cleaning could not be confirmed from its own materials.
+- Daniella's Cleaning / Prestige Cleaning and More ((417) 889-5536) — EXCLUDED: no verifiable own-materials confirmation of residential house cleaning in this run (site prestigi​ecleaningandmore.com could not be tied to the Springfield business from public sources checked).
+- Grime Scrubbers ((417) 864-8862) — own description is "commercial cleaning and janitorial company" only; no residential house cleaning.
+- 417 Clean Space ((417) 693-1850) — own description is mold remediation, vapor barriers, construction clean-up, pressure washing, organizing and repairs — not house cleaning.
+- Classy Maids (classymaidsllc.com, (417) 545-3031, classymaidsmissouri@gmail.com) — genuinely local and does offer recurring house cleaning including the Springfield metro, but it is based in Branson, MO (149 Grand Ave, Branson) — wrong city for this Springfield cell; not included.
+- Homeaglow — platform/lead-gen, excluded per brief.
+
+## ZIP note
+
+Target ZIP 65804 yielded 6 qualifying businesses — above the brief's 3-business floor, so no expansion to an adjacent ZIP was triggered. Two included businesses are addressed in 65804 itself (Davis Cleaning 417 at 1335 E Republic Rd Suite H; Nicely Done Cleaning Services at 1942 E Meadowmere St Ste 111); the rest confirm Springfield-wide in-home service from their own materials. None publishes a ZIP-code service list (they publish city/area lists), so service_zips is ["65804"] for all entries.
+
+## Count
+
+- Qualifying businesses prepared: 6
+- Email leads: 3 (417 Eco Clean — grace@417ecoclean.com; Men Can Clean Too! — contact@mencancleantoo.com; Apex Cleaning Pros — cleaningprosapex@gmail.com, each from the business's own website)
+- Files: day-18-mo-springfield-zip65804-house-cleaning.md, -inserts.json (6 businesses + 6 listings), -leads.json (3 entries)
+- Status: PREPARED, NOT INSERTED

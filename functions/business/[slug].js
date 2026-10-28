@@ -783,7 +783,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261027f">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261028a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
@@ -873,7 +873,37 @@ export async function onRequest({ request, env, params }) {
     telephone: b.phone || undefined,
     areaServed: areas.length ? areas : undefined,
     sameAs: b.website || undefined,
-    image: photoAbs || undefined
+    image: photoAbs || undefined,
+    '63005': 'Chesterfield',
+    '63011': 'Ellisville',
+    '63017': 'Chesterfield',
+    '63033': 'Florissant',
+    '63034': 'Florissant',
+    '63119': 'Webster Groves, St. Louis',
+    '63122': 'Kirkwood, St. Louis',
+    '63128': 'South County, St. Louis',
+    '63146': 'Maryland Heights',
+    '63301': 'St. Charles',
+    '63304': 'Cottleville',
+    '63385': 'Wentzville',
+    '64015': 'Blue Springs',
+    '64055': 'Independence',
+    '64063': 'Lee\'s Summit',
+    '64068': 'Liberty',
+    '64086': 'Lee\'s Summit',
+    '64111': 'Midtown, Kansas City',
+    '64113': 'Brookside, Kansas City',
+    '64114': 'Waldo, Kansas City',
+    '64117': 'Kansas City',
+    '64118': 'Gladstone',
+    '64133': 'Raytown',
+    '64151': 'Kansas City',
+    '64157': 'Liberty',
+    '65201': 'Columbia',
+    '65202': 'Columbia',
+    '65203': 'Columbia',
+    '65804': 'Springfield',
+    '65807': 'Springfield'
   };
   var jsonLd = JSON.stringify(ld).replace(/</g, '\\u003c');
 
