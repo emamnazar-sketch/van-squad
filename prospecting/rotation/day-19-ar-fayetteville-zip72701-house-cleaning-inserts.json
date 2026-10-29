@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "ea68aae6-d6e4-4b51-b8f1-9090756d504d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brightside Cleaning NWA",
+      "category": "House cleaning",
+      "phone": "(479) 879-3024",
+      "website": "https://brightsidecleaningnwa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d06c709-a59b-40de-96f1-2ca58b31b7a8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Beyond Limits Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(479) 935-1686",
+      "website": "http://www.beyondlimitscleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0a6ac203-5cb3-43fa-93e5-285b8b641768",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Groovy Maid",
+      "category": "House cleaning",
+      "phone": "(479) 384-5915",
+      "website": "https://groovymaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "72508050-b271-4cae-a9cc-328e9c22d91b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Milady's Maid",
+      "category": "House cleaning",
+      "phone": "(479) 715-2480",
+      "website": "http://miladysmaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5400ec80-2d7d-45b9-a240-06e4c0134e73",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Primepath Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(479) 422-7610",
+      "website": "https://primepath-cleaning-services.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c0b3850f-8d5f-4485-8eed-4618618fe08b",
+      "business_id": "ea68aae6-d6e4-4b51-b8f1-9090756d504d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4c08f1f9-5772-4ceb-b221-62e275e35fab",
+      "business_id": "6d06c709-a59b-40de-96f1-2ca58b31b7a8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "072484d4-d861-4fa0-9170-813d49445988",
+      "business_id": "0a6ac203-5cb3-43fa-93e5-285b8b641768",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ef1672cb-6851-4ed3-9081-ffdc46dc0015",
+      "business_id": "72508050-b271-4cae-a9cc-328e9c22d91b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f2d65fec-5392-4395-897a-eb4f1aa25120",
+      "business_id": "5400ec80-2d7d-45b9-a240-06e4c0134e73",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

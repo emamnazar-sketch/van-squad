@@ -737,6 +737,104 @@
     '52404': 'Cedar Rapids',
     '52801': 'Davenport',
     '52802': 'Davenport',
+    '63005': 'Chesterfield',
+
+    '63011': 'Ellisville',
+
+    '63017': 'Chesterfield',
+
+    '63033': 'Florissant',
+
+    '63034': 'Florissant',
+
+    '63119': 'Webster Groves, St. Louis',
+
+    '63122': 'Kirkwood, St. Louis',
+
+    '63128': 'South County, St. Louis',
+
+    '63146': 'Maryland Heights',
+
+    '63301': 'St. Charles',
+
+    '63304': 'Cottleville',
+
+    '63385': 'Wentzville',
+
+    '64015': 'Blue Springs',
+
+    '64055': 'Independence',
+
+    '64063': 'Lee\'s Summit',
+
+    '64068': 'Liberty',
+
+    '64086': 'Lee\'s Summit',
+
+    '64111': 'Midtown, Kansas City',
+
+    '64113': 'Brookside, Kansas City',
+
+    '64114': 'Waldo, Kansas City',
+
+    '64117': 'Kansas City',
+
+    '64118': 'Gladstone',
+
+    '64133': 'Raytown',
+
+    '64151': 'Kansas City',
+
+    '64157': 'Liberty',
+
+    '65201': 'Columbia',
+
+    '65202': 'Columbia',
+
+    '65203': 'Columbia',
+
+    '65804': 'Springfield',
+
+    '65807': 'Springfield',
+
+    '72015': 'Benton',
+
+    '72023': 'Cabot',
+
+    '72034': 'Conway',
+
+    '72113': 'Maumelle',
+
+    '72114': 'North Little Rock',
+
+    '72120': 'Sherwood',
+
+    '72150': 'Sheridan',
+
+    '72204': 'Little Rock',
+
+    '72205': 'Little Rock',
+
+    '72209': 'Little Rock',
+
+    '72211': 'Little Rock',
+
+    '72212': 'Little Rock',
+
+    '72223': 'Chenal Valley, Little Rock',
+
+    '72401': 'Jonesboro',
+
+    '72701': 'Fayetteville',
+
+    '72703': 'Fayetteville',
+
+    '72756': 'Rogers',
+
+    '72762': 'Springdale',
+
+    '72901': 'Fort Smith',
+
 };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
@@ -1175,36 +1273,6 @@
       answer: 'Not necessarily — many customers hand over a key or code. Agree access and your priority rooms directly with the cleaner.',
       note: 'A sample two-bedroom standard clean on Van Squads is $120, travel included.'
     },
-    '63005': 'Chesterfield',
-    '63011': 'Ellisville',
-    '63017': 'Chesterfield',
-    '63033': 'Florissant',
-    '63034': 'Florissant',
-    '63119': 'Webster Groves, St. Louis',
-    '63122': 'Kirkwood, St. Louis',
-    '63128': 'South County, St. Louis',
-    '63146': 'Maryland Heights',
-    '63301': 'St. Charles',
-    '63304': 'Cottleville',
-    '63385': 'Wentzville',
-    '64015': 'Blue Springs',
-    '64055': 'Independence',
-    '64063': 'Lee\'s Summit',
-    '64068': 'Liberty',
-    '64086': 'Lee\'s Summit',
-    '64111': 'Midtown, Kansas City',
-    '64113': 'Brookside, Kansas City',
-    '64114': 'Waldo, Kansas City',
-    '64117': 'Kansas City',
-    '64118': 'Gladstone',
-    '64133': 'Raytown',
-    '64151': 'Kansas City',
-    '64157': 'Liberty',
-    '65201': 'Columbia',
-    '65202': 'Columbia',
-    '65203': 'Columbia',
-    '65804': 'Springfield',
-    '65807': 'Springfield'
   };
 
   var FAQS = [

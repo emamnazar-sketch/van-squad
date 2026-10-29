@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "7d0b4655-d088-48ad-a1bb-d7bd87efca8e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning Dino Little Rock",
+      "category": "House cleaning",
+      "phone": "(501) 680-3145",
+      "website": "https://www.cleaningdinolittlerock.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72204"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "969476a9-c811-4a4b-a5d4-f82dc993826a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "V&E Superior Cleaning",
+      "category": "House cleaning",
+      "phone": "(501) 313-9180",
+      "website": "https://www.vesuperiorcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72204"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "bb788d88-6b09-41f3-a6bb-2388b47443d5",
+      "business_id": "7d0b4655-d088-48ad-a1bb-d7bd87efca8e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ffc5e9a7-373e-45a0-9645-8419fc53dda8",
+      "business_id": "969476a9-c811-4a4b-a5d4-f82dc993826a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

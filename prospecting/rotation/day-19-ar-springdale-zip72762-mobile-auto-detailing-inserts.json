@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "8d094106-a702-474b-a09f-e13553c428b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Diamond State Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(479) 480-4622",
+      "website": "https://diamondstatedetailers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72762"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4fc84458-d2e4-4f28-a546-a2df92e9dc2b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "H2O Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(479) 316-1888",
+      "website": "http://h20details.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72762"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "20b790b9-b0ed-4d4b-b68e-f8147591120c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Revive Rides Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(479) 936-0682",
+      "website": "https://www.reviveyourrides.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72762"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "205ed8b5-4f6b-4497-8ecc-7643160b8e13",
+      "business_id": "8d094106-a702-474b-a09f-e13553c428b3",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fac208b5-0d5e-47e3-b50c-d8097d97ff96",
+      "business_id": "4fc84458-d2e4-4f28-a546-a2df92e9dc2b",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f2623797-f4e1-4556-89c6-7d6162e59499",
+      "business_id": "20b790b9-b0ed-4d4b-b68e-f8147591120c",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

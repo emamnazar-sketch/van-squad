@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "18f1a408-deee-48fc-b762-3fb2d0844068",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Verey Home Improvement",
+      "category": "Handyman",
+      "phone": "(501) 522-4168",
+      "website": "https://vereyhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b8fdab41-a5ac-4432-872a-9e30bf6b5b73",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SWTJK Repair",
+      "category": "Handyman",
+      "phone": "(501) 644-1894",
+      "website": "https://www.swtjkrepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fe52172e-b57b-47b4-b1b7-66c8bdf66892",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Assembly Solutions",
+      "category": "Handyman",
+      "phone": "(501) 804-3411",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3835789b-eba6-4bd8-ac26-665bfa4b576f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Evans Odd Jobs Inc",
+      "category": "Handyman",
+      "phone": "(501) 838-0054",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ee303c19-48ae-4939-809b-88ad2c732d10",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lawn Arts Lawn and Handyman Services Inc.",
+      "category": "Handyman",
+      "phone": "(501) 353-9063",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f304d647-c2bc-425f-a707-9ddcc86108e8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tier One Operations Inc.",
+      "category": "Handyman",
+      "phone": "(501) 553-3717",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "72212"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ec1bc291-7235-4923-8767-39cba9f34665",
+      "business_id": "18f1a408-deee-48fc-b762-3fb2d0844068",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ac34e8b0-da5e-483d-b7d6-6c99dc405677",
+      "business_id": "b8fdab41-a5ac-4432-872a-9e30bf6b5b73",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f0c106ff-5545-47d5-b12f-e1f18025834b",
+      "business_id": "fe52172e-b57b-47b4-b1b7-66c8bdf66892",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "08343a5c-66cb-4fac-9402-c19f24caae3c",
+      "business_id": "3835789b-eba6-4bd8-ac26-665bfa4b576f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d56fd629-4a4a-44f4-b7b2-cc6ca9a4e563",
+      "business_id": "ee303c19-48ae-4939-809b-88ad2c732d10",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4de6af6a-e6d2-419a-b10b-6851fe5f33c1",
+      "business_id": "f304d647-c2bc-425f-a707-9ddcc86108e8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
