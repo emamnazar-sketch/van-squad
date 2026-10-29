@@ -996,7 +996,7 @@
   function viewGate(next) {
     var nextParam = next ? '?next=' + encodeURIComponent(next) : '';
     return '<div class="wrap"><div class="gate">' +
-      '<img class="gate-logo" src="/img/logo.png?v=20261028c" alt="Van Squads">' +
+      '<img class="gate-logo" src="/img/logo.png?v=20261028d" alt="Van Squads">' +
       '<h1>Sign in to access Van Squads</h1>' +
       '<p>Sign in to send requests, manage your business, and track appointments.</p>' +
       '<div id="gate-action" style="margin-top:22px"></div>' +
