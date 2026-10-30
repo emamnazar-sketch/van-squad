@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "f2ff5769-261a-4123-9a52-1c5e7344b8ca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paws On Wheels",
+      "category": "Mobile pet grooming",
+      "phone": "(504) 400-8184",
+      "website": "http://pawsonwheels.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "93327299-e57d-43ff-9a4f-e28110918d9c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Muddy Paws Mobile Pet Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(504) 235-3340",
+      "website": "http://muddypawsmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ca4044b1-99e0-4ad1-b29c-aaab1a69371f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "New Orleans Groomers on the Go",
+      "category": "Mobile pet grooming",
+      "phone": "(504) 309-7756",
+      "website": "http://nogotg.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b15f2131-fc3b-4f96-a840-5de6916246e9",
+      "business_id": "f2ff5769-261a-4123-9a52-1c5e7344b8ca",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d3f70ef2-25d3-42c4-9ffc-cd0ae79826e8",
+      "business_id": "93327299-e57d-43ff-9a4f-e28110918d9c",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dfc5b22a-8e5f-4e28-ac32-28220aabc09a",
+      "business_id": "ca4044b1-99e0-4ad1-b29c-aaab1a69371f",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

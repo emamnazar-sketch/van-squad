@@ -815,6 +815,24 @@ var ZIP_NAMES = {
   '72762': 'Springdale',
 
   '72901': 'Fort Smith',
+  '70001': 'Metairie',
+  '70002': 'Metairie',
+  '70005': 'Metairie',
+  '70053': 'Gretna',
+  '70062': 'Kenner',
+  '70112': 'Downtown New Orleans',
+  '70115': 'Uptown, New Orleans',
+  '70119': 'Mid-City, New Orleans',
+  '70122': 'Gentilly, New Orleans',
+  '70127': 'New Orleans East',
+  '70131': 'Algiers, New Orleans',
+  '70458': 'Slidell',
+  '70503': 'Lafayette',
+  '70808': 'Baton Rouge',
+  '70809': 'Baton Rouge',
+  '70810': 'Baton Rouge',
+  '70815': 'Baton Rouge',
+  '70816': 'Baton Rouge',
 
 };
 
@@ -881,7 +899,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261029d">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261030a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

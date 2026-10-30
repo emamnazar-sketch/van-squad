@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "35b5d526-7378-4208-996c-946a58781e09",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Refresh Krewe Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(504) 858-4052",
+      "website": "https://therefreshkrewe.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70458"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4e2165c4-488a-48f0-9839-a4baede70038",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of NOLA",
+      "category": "House cleaning",
+      "phone": "(985) 888-0926",
+      "website": "https://www.mollymaid.com/locations/nola/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70458"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "710feb1e-04e6-4361-a4dd-011d5f9e2b61",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Alcantara LLC",
+      "category": "House cleaning",
+      "phone": "(985) 290-8027",
+      "website": "http://www.thealcantara.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70458"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d0bfa5f3-2af9-4e91-9698-46ec8e4a6763",
+      "business_id": "35b5d526-7378-4208-996c-946a58781e09",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "be45f5d3-26f1-4781-87c0-b1217e0cc967",
+      "business_id": "4e2165c4-488a-48f0-9839-a4baede70038",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a0f6e054-06e1-404c-89a3-ab208d0ca4aa",
+      "business_id": "710feb1e-04e6-4361-a4dd-011d5f9e2b61",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

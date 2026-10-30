@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "e47b06d4-f8e0-4f7e-8647-46dcfc411ea3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Ready Maids",
+   "category": "Deep cleaning",
+   "phone": "(504) 421-0504",
+   "website": "https://thereadymaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70002"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "528cf9f7-db99-473d-86a5-49ea892ad3d2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaners of Metairie",
+   "category": "Deep cleaning",
+   "phone": "(504) 900-9981",
+   "website": "https://thecleanersusa.com/metairie-la/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70002"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "54fe60e2-db8b-4d29-8ef9-2d607b8ca93c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elite Touch Cleaners",
+   "category": "Deep cleaning",
+   "phone": "(504) 249-8571",
+   "website": "https://elitetouch-cleaners.com/location/metairie/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70002"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2a454f97-b742-44ec-b2f2-452b0d4c209d",
+   "business_id": "e47b06d4-f8e0-4f7e-8647-46dcfc411ea3",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9ec04e5d-92fc-4fe2-a169-463d525660c4",
+   "business_id": "528cf9f7-db99-473d-86a5-49ea892ad3d2",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e280cdf4-8034-441c-895e-9dbcd8226b7e",
+   "business_id": "54fe60e2-db8b-4d29-8ef9-2d607b8ca93c",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

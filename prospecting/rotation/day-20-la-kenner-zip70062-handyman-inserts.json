@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "af6a10d6-e7f7-4890-b8a9-e78416245969",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Fix It",
+      "category": "Handyman",
+      "phone": "(504) 302-1436",
+      "website": "http://mrfixitnola.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5bae2c05-0206-434a-bf38-c2db71406a2c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Koalaty Home Repairs LLC",
+      "category": "Handyman",
+      "phone": "(504) 671-7363",
+      "website": "http://www.koalatyhomerepairs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3fe7c151-a746-4f0c-af05-01f9815acf07",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "FixRight Pro",
+      "category": "Handyman",
+      "phone": "(504) 201-8036",
+      "website": "http://www.fixrightnola.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70062"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a6e3e37b-7382-4ad9-9e6a-8e3f7f2a89e5",
+      "business_id": "af6a10d6-e7f7-4890-b8a9-e78416245969",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2d5ad0d2-c849-422d-95ba-fa7c64888f64",
+      "business_id": "5bae2c05-0206-434a-bf38-c2db71406a2c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1967cf98-c742-40e3-93b5-ab1f77572dab",
+      "business_id": "3fe7c151-a746-4f0c-af05-01f9815acf07",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

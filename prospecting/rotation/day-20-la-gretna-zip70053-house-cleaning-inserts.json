@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "1060066e-53dd-4c61-b871-de0f5b0e7b16",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sweeping Hands Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(504) 610-5305",
+   "website": "https://sweepinghands.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70053"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3b2f6e1d-7fac-43b3-90a4-fdb0ff203d33",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spotless Cleaning Solutions",
+   "category": "House cleaning",
+   "phone": "(504) 833-4949",
+   "website": "http://spotlessnola.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70053"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f2dc7eef-1208-46d8-9684-66f7792aac15",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tyson Knockout Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(504) 458-6521",
+   "website": "https://www.cleaningserviceneworleansla.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70053"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "3ae33eba-f5e6-4a77-bad3-725447b3da8f",
+   "business_id": "1060066e-53dd-4c61-b871-de0f5b0e7b16",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "50fb2a87-94bb-4059-b58b-00aa493c6096",
+   "business_id": "3b2f6e1d-7fac-43b3-90a4-fdb0ff203d33",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "99cd9e3d-8bd6-4b33-a417-3d6b0c98c25e",
+   "business_id": "f2dc7eef-1208-46d8-9684-66f7792aac15",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

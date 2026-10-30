@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "6a7e5f71-7599-4b2e-822f-d37c93557246",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Geaux Maids of Baton Rouge",
+      "category": "House cleaning",
+      "phone": "(225) 725-9824",
+      "website": "https://www.geauxmaids.com/baton-rouge-la/cleaning-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70808"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "34a84196-eaa1-4c0f-a847-cf1feb45d36d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Baton Rouge",
+      "category": "House cleaning",
+      "phone": "(225) 435-4260",
+      "website": "https://www.maidpro.com/baton-rouge/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70808"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7360dd1e-de0f-4449-8ca3-61f7d1e601ee",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Guarantee Maid Services",
+      "category": "House cleaning",
+      "phone": "(225) 756-3900",
+      "website": "https://guaranteemaidservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70808"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e5f8a87f-c402-4695-9c7c-bf43fbf1a73e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mid City Maids of Baton Rouge",
+      "category": "House cleaning",
+      "phone": "(225) 332-8063",
+      "website": "https://midcitymaidsbr.com/residential-services-2/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70808"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95d11ce7-7b3c-4c74-a45d-cf77976101a1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids of Baton Rouge",
+      "category": "House cleaning",
+      "phone": "(225) 755-8383",
+      "website": "https://www.maids.com/86/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70808"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c96fe3a9-8781-415d-8e6d-489710050741",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Baton Rouge",
+      "category": "House cleaning",
+      "phone": "(225) 399-4485",
+      "website": "https://www.thecleaningauthority.com/baton-rouge/our-cleaning-services/house-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70808"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f26f8d4a-87cc-4db6-9d36-0e8f0bad3fc1",
+      "business_id": "6a7e5f71-7599-4b2e-822f-d37c93557246",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eb3c89ec-2bc7-4891-806f-04370d11548f",
+      "business_id": "34a84196-eaa1-4c0f-a847-cf1feb45d36d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d9c137b3-a6a8-43ce-9856-51bfeb851d9b",
+      "business_id": "7360dd1e-de0f-4449-8ca3-61f7d1e601ee",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2a06b4d7-bc43-4f64-863e-a2a204d1fbc7",
+      "business_id": "e5f8a87f-c402-4695-9c7c-bf43fbf1a73e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c2595cf6-7382-4a26-b5ad-3b72e6504d23",
+      "business_id": "95d11ce7-7b3c-4c74-a45d-cf77976101a1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77a26457-4257-460a-8251-101bf4ba93c2",
+      "business_id": "c96fe3a9-8781-415d-8e6d-489710050741",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

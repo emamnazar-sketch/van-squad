@@ -834,6 +834,24 @@
     '72762': 'Springdale',
 
     '72901': 'Fort Smith',
+    '70001': 'Metairie',
+    '70002': 'Metairie',
+    '70005': 'Metairie',
+    '70053': 'Gretna',
+    '70062': 'Kenner',
+    '70112': 'Downtown New Orleans',
+    '70115': 'Uptown, New Orleans',
+    '70119': 'Mid-City, New Orleans',
+    '70122': 'Gentilly, New Orleans',
+    '70127': 'New Orleans East',
+    '70131': 'Algiers, New Orleans',
+    '70458': 'Slidell',
+    '70503': 'Lafayette',
+    '70808': 'Baton Rouge',
+    '70809': 'Baton Rouge',
+    '70810': 'Baton Rouge',
+    '70815': 'Baton Rouge',
+    '70816': 'Baton Rouge',
 
 };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);

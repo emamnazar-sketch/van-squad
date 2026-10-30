@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "cfaa1ce6-57ce-401e-b07b-662d236b3a37",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "NOLA Maid Easy",
+   "category": "House cleaning",
+   "phone": "(504) 315-8112",
+   "website": "https://nolamaideasy.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fdc0fba5-e4f4-44dc-93af-d9c1263eeb85",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "504 Clean Dat",
+   "category": "House cleaning",
+   "phone": "(504) 732-0007",
+   "website": "https://www.504cleandat.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "52db32ee-094f-4561-a1c0-e06e69c07233",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Angie Nola Maids",
+   "category": "House cleaning",
+   "phone": "(504) 518-2158",
+   "website": "http://www.angienolamaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "02facf3d-20f5-441c-997c-75fde12e8cff",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Maids of New Orleans",
+   "category": "House cleaning",
+   "phone": "(504) 883-5000",
+   "website": "https://www.maids.com/273/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1bb92f49-d8b5-4d13-8033-310531853bac",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Live Fresh Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(504) 326-5068",
+   "website": "https://livefreshcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "70001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "448f46f1-1d3d-48cc-82c3-c6ab7906a92c",
+   "business_id": "cfaa1ce6-57ce-401e-b07b-662d236b3a37",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "55de24aa-1e63-49ab-a4ea-0cf1f8cffc5e",
+   "business_id": "fdc0fba5-e4f4-44dc-93af-d9c1263eeb85",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7f21f4b9-adbb-4c6c-af1b-31cf7987eaed",
+   "business_id": "52db32ee-094f-4561-a1c0-e06e69c07233",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f4ed94ae-ae9a-4bf2-9915-8fc05636d9ea",
+   "business_id": "02facf3d-20f5-441c-997c-75fde12e8cff",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "247a7e65-17c5-4d54-aa63-69579517e21b",
+   "business_id": "1bb92f49-d8b5-4d13-8033-310531853bac",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

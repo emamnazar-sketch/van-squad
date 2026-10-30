@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "b49dc4a9-b13c-4f07-b245-d76c194bdf73",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "New Again Mobile Detailing Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 715-7842",
+   "phone_verified": false,
+   "service_zips": [
+    "70005"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://newagainnola.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "6df43cd9-f86c-4b15-a44c-9a73b63c15f3",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Drip Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 270-3165",
+   "phone_verified": false,
+   "service_zips": [
+    "70005"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://dripmobiledetail.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "0e93f53b-64b4-4131-8d02-ef2761d254fc",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "CL Detailz Mobile Detailing & Pressure Washing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 669-6875",
+   "phone_verified": false,
+   "service_zips": [
+    "70005"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://cldetailz.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "fb0370a6-4688-45a9-b868-cfcbb4a10ca1",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "High Definition Mobile Detailing",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 270-8363",
+   "phone_verified": false,
+   "service_zips": [
+    "70005"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://www.highdefinitionautodetailing.com/"
+  },
+  {
+   "category": "Mobile auto detailing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "9b3183c1-9373-4691-9140-5377bbdc1042",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Sosa Details",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(609) 498-8020",
+   "phone_verified": false,
+   "service_zips": [
+    "70005"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://sosadetails.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "b49dc4a9-b13c-4f07-b245-d76c194bdf73",
+   "id": "be298787-8ba8-46c2-937f-ba7a43398f4d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "6df43cd9-f86c-4b15-a44c-9a73b63c15f3",
+   "id": "e37cee3d-c0e2-41d7-b380-983611a7838d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "0e93f53b-64b4-4131-8d02-ef2761d254fc",
+   "id": "c8eedb41-edd8-447e-9480-2ad7afe7fce7",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "fb0370a6-4688-45a9-b868-cfcbb4a10ca1",
+   "id": "e3c25386-1f7d-4819-960c-7993fea0df8b",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  },
+  {
+   "business_id": "9b3183c1-9373-4691-9140-5377bbdc1042",
+   "id": "553ce88f-fb71-4b9b-878c-100d111392c8",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Mobile auto detailing at your location"
+  }
+ ]
+}

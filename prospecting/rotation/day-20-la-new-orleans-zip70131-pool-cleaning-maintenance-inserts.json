@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "61ce2c7b-ac22-4791-843a-799a084a4c08",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Safari Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(504) 258-1004",
+      "website": "http://www.safaripools.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95045a08-f275-4854-9a79-6922e65ff8a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kingfish Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(504) 250-2099",
+      "website": "http://kingfishpool.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ece68166-40a8-4d6a-b992-24ff22ab8e51",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hammerhead Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(504) 912-5413",
+      "website": "http://www.hammerheadnola.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8c976082-82f7-4fd9-a133-2a48ea555609",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Octopools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(504) 641-2235",
+      "website": "http://nolaoctopools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70131"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "61ce2c7b-ac22-4791-843a-799a084a4c08",
+      "id": "e2223cbb-3cb2-4674-86e8-68fabb28598e",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "95045a08-f275-4854-9a79-6922e65ff8a3",
+      "id": "eacc2095-05e2-4c6d-a5ad-fdec5bb528fc",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "ece68166-40a8-4d6a-b992-24ff22ab8e51",
+      "id": "2e6e96d5-d4a1-4c3f-aeb0-c86e9f94fca8",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "8c976082-82f7-4fd9-a133-2a48ea555609",
+      "id": "a333da21-4bef-4479-b21a-657d286cb023",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "d3771634-a041-4d65-a94d-429daf9c791c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elite Touch Handyman Services",
+      "category": "Handyman",
+      "phone": "(504) 360-9684",
+      "website": "https://elitetouchservices.com/handyman-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70122"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "46a5f935-8eba-44e5-940c-f59dcc9aadd6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "New Orleans Handyman, LLC",
+      "category": "Handyman",
+      "phone": "(504) 358-0399",
+      "website": "https://www.nohandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70122"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "820a9f94-304a-41a3-bedb-188191f6021f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Riley Services LLC",
+      "category": "Handyman",
+      "phone": "(504) 505-9258",
+      "website": "https://www.rileyservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70122"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "51e5b377-99b0-48d5-9dcc-83ca8a537f9c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "One Man And A Toolbox",
+      "category": "Handyman",
+      "phone": "(504) 420-9300",
+      "website": "https://onemanandatoolbox.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70122"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f8cf34ce-c788-40e4-8e9a-810bce3d6090",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Metairie",
+      "category": "Handyman",
+      "phone": "(504) 290-2669",
+      "website": "http://www.acehandymanservices.com/offices/metairie",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70122"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1e3decd2-cb30-43ec-bea4-75833273d4a1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sarcio Services LLC",
+      "category": "Handyman",
+      "phone": "(225) 558-5506",
+      "website": "https://sarcio.builtbybabydaddy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "70122"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ecce6f36-201c-4e2a-b1c5-8fa49ca5d8bc",
+      "business_id": "d3771634-a041-4d65-a94d-429daf9c791c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "263117c3-9998-4ce5-b3cb-1a1a9c917038",
+      "business_id": "46a5f935-8eba-44e5-940c-f59dcc9aadd6",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6b591bc7-f9d9-44b3-9f5b-f8fa5671eeb0",
+      "business_id": "820a9f94-304a-41a3-bedb-188191f6021f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "35943170-70c0-4607-b73d-a4200c1e7663",
+      "business_id": "51e5b377-99b0-48d5-9dcc-83ca8a537f9c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7a0ef666-6dc3-480e-9f9c-82005cd96e12",
+      "business_id": "f8cf34ce-c788-40e4-8e9a-810bce3d6090",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c3dd6d86-20f7-4faa-a2a9-048ded069102",
+      "business_id": "1e3decd2-cb30-43ec-bea4-75833273d4a1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

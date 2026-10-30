@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "7f6a7af6-792c-4b7b-b55a-1bcfc597e512",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Best Cleaning Nola",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 201-8616",
+   "phone_verified": false,
+   "service_zips": [
+    "70112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://bestcleaningnola.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "806e2abe-c493-4d33-bcf7-8ef0fafd2bab",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "Geaux Maids of New Orleans",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 475-4823",
+   "phone_verified": false,
+   "service_zips": [
+    "70112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://geauxmaids.com/"
+  },
+  {
+   "category": "House cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "903b3695-f0c7-4bad-92cf-f71c7ee209c8",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "The IMaids",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(504) 331-3038",
+   "phone_verified": false,
+   "service_zips": [
+    "70112"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://www.theimaidsllc.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "7f6a7af6-792c-4b7b-b55a-1bcfc597e512",
+   "id": "7161e504-323d-4c82-8ae8-77f2b454f36d",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "806e2abe-c493-4d33-bcf7-8ef0fafd2bab",
+   "id": "5202ef14-4458-4f3b-80b3-77ceff87956c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  },
+  {
+   "business_id": "903b3695-f0c7-4bad-92cf-f71c7ee209c8",
+   "id": "7701a610-0716-4f92-8afc-57d855893468",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "House cleaning at your location"
+  }
+ ]
+}
