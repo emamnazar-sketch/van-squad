@@ -48,6 +48,8 @@ create table if not exists public.businesses (
   arrival_windows    text[]      not null default '{}',
   logo_url           text,
   banner_url         text,
+  lat                double precision,
+  lng                double precision,
   verified           boolean     not null default false,
   is_sample          boolean     not null default false,
   status             text        not null default 'active'
