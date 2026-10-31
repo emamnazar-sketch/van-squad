@@ -872,6 +872,226 @@ var ZIP_NAMES = {
   '54913': 'Appleton',
 
 };
+/* --- Visibility build (2026-10-31): metros, primary city, blog cross-links.
+   PREFIX_METRO mirrors tools/metro-map.mjs — keep the two in sync.
+   A metro is keyed by the 3-digit ZIP prefix of a business's service ZIPs;
+   the blog's metro counts match this grouping. BLOG_POSTS mirrors the City
+   Visibility posts in js/blog.js, keyed "<metro slug>|<category slug>". */
+var PREFIX_METRO = {
+  '500': 'Des Moines', '501': 'Des Moines', '502': 'Des Moines', '503': 'Des Moines',
+  '507': 'Waterloo', '522': 'Iowa City', '524': 'Cedar Rapids', '528': 'Davenport',
+  '530': 'Milwaukee', '531': 'Milwaukee', '532': 'Milwaukee', '534': 'Racine',
+  '537': 'Madison', '543': 'Green Bay', '549': 'Appleton',
+  '551': 'Saint Paul', '553': 'Minneapolis', '554': 'Minneapolis', '558': 'Duluth',
+  '559': 'Rochester', '565': 'Moorhead', '567': 'Grand Forks',
+  '570': 'Sioux Falls', '571': 'Sioux Falls', '573': 'Mitchell', '574': 'Aberdeen',
+  '575': 'Pierre', '577': 'Rapid City', '580': 'Fargo', '581': 'Fargo',
+  '582': 'Grand Forks', '584': 'Jamestown', '585': 'Bismarck', '586': 'Dickinson',
+  '587': 'Minot', '588': 'Williston',
+  '590': 'Livingston', '591': 'Billings', '594': 'Great Falls', '596': 'Helena',
+  '597': 'Bozeman', '598': 'Missoula', '599': 'Kalispell',
+  '630': 'St. Louis', '631': 'St. Louis', '633': 'St. Louis',
+  '640': 'Kansas City', '641': 'Kansas City', '652': 'Columbia', '658': 'Springfield',
+  '660': 'Lawrence', '661': 'Kansas City', '662': 'Kansas City', '665': 'Manhattan',
+  '666': 'Topeka', '670': 'Wichita', '671': 'Wichita', '672': 'Wichita',
+  '680': 'Omaha', '681': 'Omaha', '685': 'Lincoln', '687': 'Norfolk', '688': 'Grand Island',
+  '700': 'New Orleans', '701': 'New Orleans', '704': 'New Orleans', '705': 'Lafayette',
+  '708': 'Baton Rouge',
+  '720': 'Little Rock', '721': 'Little Rock', '722': 'Little Rock', '724': 'Jonesboro',
+  '727': 'Fayetteville', '729': 'Fort Smith',
+  '730': 'Oklahoma City', '731': 'Oklahoma City', '740': 'Tulsa', '741': 'Tulsa',
+  '750': 'Dallas\u2013Fort Worth', '751': 'Dallas\u2013Fort Worth', '752': 'Dallas\u2013Fort Worth',
+  '760': 'Dallas\u2013Fort Worth', '761': 'Dallas\u2013Fort Worth', '762': 'Dallas\u2013Fort Worth',
+  '765': 'Jarrell',
+  '770': 'Houston', '773': 'Houston', '774': 'Houston', '775': 'Houston',
+  '780': 'San Antonio', '782': 'San Antonio', '786': 'Austin', '787': 'Austin',
+  '800': 'Denver', '802': 'Denver', '803': 'Boulder', '805': 'Fort Collins',
+  '809': 'Colorado Springs', '820': 'Cheyenne', '826': 'Casper',
+  '836': 'Boise', '837': 'Boise',
+  '840': 'Salt Lake City', '841': 'Salt Lake City', '844': 'Ogden', '846': 'Provo',
+  '850': 'Phoenix', '852': 'Phoenix', '853': 'Phoenix',
+  '871': 'Albuquerque', '874': 'Farmington', '875': 'Santa Fe', '880': 'Las Cruces',
+  '881': 'Clovis', '882': 'Roswell', '883': 'Alamogordo',
+  '890': 'Las Vegas', '891': 'Las Vegas',
+  '956': 'Sacramento', '957': 'Sacramento', '958': 'Sacramento',
+  '970': 'Portland', '971': 'Portland', '972': 'Portland',
+  '980': 'Seattle', '981': 'Seattle', '984': 'Tacoma'
+};
+var BLOG_POSTS = {
+  "sacramento|house-cleaning": [
+    "how-much-does-house-cleaning-cost-in-sacramento",
+    "How Much Does House Cleaning Cost in Sacramento?"
+  ],
+  "oklahoma-city|house-cleaning": [
+    "how-much-does-house-cleaning-cost-in-oklahoma-city",
+    "How Much Does House Cleaning Cost in Oklahoma City?"
+  ],
+  "sacramento|handyman": [
+    "how-much-does-a-handyman-cost-in-sacramento",
+    "How Much Does a Handyman Cost in Sacramento?"
+  ],
+  "oklahoma-city|handyman": [
+    "how-much-does-a-handyman-cost-in-oklahoma-city",
+    "How Much Does a Handyman Cost in Oklahoma City?"
+  ],
+  "sacramento|mobile-auto-detailing": [
+    "how-much-does-mobile-car-detailing-cost-in-sacramento",
+    "How Much Does Mobile Car Detailing Cost in Sacramento?"
+  ],
+  "sacramento|mobile-pet-grooming": [
+    "how-much-does-mobile-pet-grooming-cost-in-sacramento",
+    "How Much Does Mobile Pet Grooming Cost in Sacramento?"
+  ],
+  "oklahoma-city|pool-cleaning-maintenance": [
+    "how-much-does-pool-cleaning-cost-in-oklahoma-city",
+    "How much does pool cleaning cost in Oklahoma City?"
+  ],
+  "oklahoma-city|mobile-auto-detailing": [
+    "how-much-does-mobile-car-detailing-cost-in-oklahoma-city",
+    "How much does mobile car detailing cost in Oklahoma City?"
+  ],
+  "oklahoma-city|mobile-pet-grooming": [
+    "how-much-does-mobile-pet-grooming-cost-in-oklahoma-city",
+    "How much does mobile pet grooming cost in Oklahoma City?"
+  ],
+  "oklahoma-city|pressure-washing": [
+    "how-much-does-pressure-washing-cost-in-oklahoma-city",
+    "How much does pressure washing cost in Oklahoma City?"
+  ],
+  "albuquerque|house-cleaning": [
+    "how-much-does-house-cleaning-cost-in-albuquerque",
+    "How much does house cleaning cost in Albuquerque?"
+  ],
+  "albuquerque|handyman": [
+    "how-much-does-a-handyman-cost-in-albuquerque",
+    "How much does a handyman cost in Albuquerque?"
+  ],
+  "albuquerque|mobile-pet-grooming": [
+    "how-much-does-mobile-pet-grooming-cost-in-albuquerque",
+    "How much does mobile pet grooming cost in Albuquerque?"
+  ],
+  "oklahoma-city|deep-cleaning": [
+    "how-much-does-deep-cleaning-cost-in-oklahoma-city",
+    "How much does deep cleaning cost in Oklahoma City?"
+  ],
+  "albuquerque|mobile-auto-detailing": [
+    "how-much-does-mobile-car-detailing-cost-in-albuquerque",
+    "How much does mobile car detailing cost in Albuquerque?"
+  ],
+  "albuquerque|pool-cleaning-maintenance": [
+    "how-much-does-pool-cleaning-cost-in-albuquerque",
+    "How much does pool cleaning cost in Albuquerque?"
+  ],
+  "dallas-fort-worth|pool-cleaning-maintenance": [
+    "how-much-does-pool-cleaning-cost-in-dallas-fort-worth",
+    "How much does pool cleaning cost in Dallas–Fort Worth?"
+  ],
+  "dallas-fort-worth|pressure-washing": [
+    "how-much-does-pressure-washing-cost-in-dallas-fort-worth",
+    "How much does pressure washing cost in Dallas–Fort Worth?"
+  ],
+  "dallas-fort-worth|house-cleaning": [
+    "how-much-does-house-cleaning-cost-in-dallas-fort-worth",
+    "How much does house cleaning cost in Dallas–Fort Worth?"
+  ],
+  "dallas-fort-worth|mobile-pet-grooming": [
+    "how-much-does-mobile-pet-grooming-cost-in-dallas-fort-worth",
+    "How much does mobile pet grooming cost in Dallas–Fort Worth?"
+  ],
+  "dallas-fort-worth|deep-cleaning": [
+    "how-much-does-deep-cleaning-cost-in-dallas-fort-worth",
+    "How much does deep cleaning cost in Dallas–Fort Worth?"
+  ],
+  "dallas-fort-worth|mobile-auto-detailing": [
+    "how-much-does-mobile-car-detailing-cost-in-dallas-fort-worth",
+    "How much does mobile car detailing cost in Dallas–Fort Worth?"
+  ],
+  "boise|house-cleaning": [
+    "how-much-does-house-cleaning-cost-in-boise",
+    "How much does house cleaning cost in Boise?"
+  ],
+  "boise|mobile-auto-detailing": [
+    "how-much-does-mobile-car-detailing-cost-in-boise",
+    "How much does mobile car detailing cost in Boise?"
+  ],
+  "boise|pressure-washing": [
+    "how-much-does-pressure-washing-cost-in-boise",
+    "How much does pressure washing cost in Boise?"
+  ]
+};
+var CITY_SET = {};
+Object.keys(ZIP_NAMES).forEach(function (z) {
+  var l = String(ZIP_NAMES[z]);
+  CITY_SET[l] = 1;
+  var parts = l.split(', ');
+  if (parts.length > 1) CITY_SET[parts[parts.length - 1]] = 1;
+});
+Object.keys(PREFIX_METRO).forEach(function (pk) { CITY_SET[PREFIX_METRO[pk]] = 1; });
+var CITY_PREFIXES = ['Downtown ', 'Midtown ', 'Uptown ', 'East ', 'West ', 'North ', 'South ', 'Central ', 'Southeast ', 'Southwest ', 'Northeast ', 'Northwest ', 'Old Town '];
+var CITY_SUFFIXES = [' Bench', ' East', ' West'];
+/* A directional remainder ("Downtown Sacramento" -> "Sacramento") counts as a
+   city when at least two labels point to it, so one-off place names like
+   "West Allis" or "West Valley City" are never split apart. */
+(function () {
+  var counts = {};
+  var distinctLabels = {};
+  Object.keys(ZIP_NAMES).forEach(function (z) { distinctLabels[String(ZIP_NAMES[z])] = 1; });
+  Object.keys(distinctLabels).forEach(function (s) {
+    if (s.indexOf(', ') >= 0 || s.indexOf(' / ') >= 0) return;
+    CITY_PREFIXES.forEach(function (pre) {
+      if (s.indexOf(pre) === 0) { var r = s.slice(pre.length); counts[r] = (counts[r] || 0) + 1; }
+    });
+    CITY_SUFFIXES.forEach(function (suf) {
+      if (s.slice(-suf.length) === suf) { var r2 = s.slice(0, -suf.length); counts[r2] = (counts[r2] || 0) + 1; }
+    });
+  });
+  Object.keys(counts).forEach(function (c) { if (counts[c] >= 2) CITY_SET[c] = 1; });
+})();
+function cityOfLabel(label) {
+  if (!label) return '';
+  var s = String(label);
+  if (s.indexOf(' / ') >= 0) s = s.split(' / ').pop();
+  if (s.indexOf(', ') >= 0) return s.split(', ').pop();
+  for (var i = 0; i < CITY_PREFIXES.length; i++) {
+    if (s.indexOf(CITY_PREFIXES[i]) === 0) {
+      var rest = s.slice(CITY_PREFIXES[i].length);
+      if (CITY_SET[rest]) return rest;
+    }
+  }
+  for (var j = 0; j < CITY_SUFFIXES.length; j++) {
+    var suf = CITY_SUFFIXES[j];
+    if (s.slice(-suf.length) === suf) {
+      var stem = s.slice(0, -suf.length);
+      if (CITY_SET[stem]) return stem;
+    }
+  }
+  return s;
+}
+function metroOfZip(zip) {
+  var n = PREFIX_METRO[String(zip || '').slice(0, 3)];
+  return n ? { name: n, slug: slugify(n) } : null;
+}
+function primaryMetroOf(b) {
+  var zips = b.service_zips || [];
+  return zips.length ? metroOfZip(zips[0]) : null;
+}
+function metroZipCount(b, metro) {
+  return (b.service_zips || []).filter(function (z) {
+    var m = metroOfZip(z);
+    return m && m.slug === metro.slug;
+  }).length;
+}
+function businessInMetro(b, metro) {
+  return metroZipCount(b, metro) > 0;
+}
+function primaryCityOf(b) {
+  var zips = b.service_zips || [];
+  if (!zips.length) return '';
+  var label = ZIP_NAMES[zips[0]];
+  if (label) return cityOfLabel(label);
+  var m = metroOfZip(zips[0]);
+  return m ? m.name : '';
+}
 
 function slugify(name) {
   return String(name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
@@ -936,7 +1156,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261031b">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261031c">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
@@ -1011,7 +1231,7 @@ export async function onRequest({ request, env, params }) {
   var hero = photoAbs ? '<img class="p-hero" src="' + esc(photoAbs) + '" alt="' + esc(b.name) + '">' : '';
   var bannerAbs = b.banner_url ? (String(b.banner_url).indexOf('http') === 0 ? String(b.banner_url) : 'https://vansquads.com/' + String(b.banner_url).replace(/^\//, '')) : '';
   var banner = bannerAbs ? '<img class="p-banner" src="' + esc(bannerAbs) + '" alt="">' : '';
-  var title = b.name + ' — ' + b.category + (primary ? ' in ' + primary : '') + ' | Van Squads';
+  var title = b.name + ' — ' + b.category + (primaryCityOf(b) ? ' in ' + primaryCityOf(b) : '') + ' | Van Squads';
   var desc = (b.description || '').replace(/\s+/g, ' ').trim();
   var metaDesc = desc ? desc.slice(0, 158) :
     (b.name + ' offers mobile ' + String(b.category || 'services').toLowerCase() + ' that comes to you' +
@@ -1041,12 +1261,50 @@ export async function onRequest({ request, env, params }) {
       '</div><div class="p">' + esc(price) + '</div></div>';
   }).join('');
 
-  var related = rows.filter(function (r) { return r.id !== b.id && r.category === b.category; }).slice(0, 3);
-  var relHtml = related.length ?
-    '<div class="prof-sec"><h2>More ' + esc(b.category) + ' businesses</h2><div class="rel-grid">' +
-    related.map(function (r) {
-      return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
-    }).join('') + '</div></div>' : '';
+  /* Internal links: the business's metro x category landing page, up to 6
+     more businesses in the same category and metro, and the metro cost post
+     when one is published. All computed from the rows already fetched. */
+  var metro = primaryMetroOf(b);
+  var relHtml = '';
+  if (metro) {
+    var myZips = {};
+    (b.service_zips || []).forEach(function (z) { myZips[z] = 1; });
+    var cellRows = rows.filter(function (r) { return r.category === b.category && businessInMetro(r, metro); });
+    var others = cellRows.filter(function (r) { return r.id !== b.id; });
+    others.sort(function (a, c) {
+      var sharedA = (a.service_zips || []).filter(function (z) { return myZips[z]; }).length;
+      var sharedC = (c.service_zips || []).filter(function (z) { return myZips[z]; }).length;
+      if (sharedC !== sharedA) return sharedC - sharedA;
+      return metroZipCount(c, metro) - metroZipCount(a, metro);
+    });
+    var catSlug = slugify(b.category);
+    var parts = '';
+    if (cellRows.length >= 3) {
+      parts += '<p>See every listing on one page: <a href="/' + catSlug + '/' + metro.slug + '/">' +
+        esc(b.category) + ' in ' + esc(metro.name) + '</a> — ' + cellRows.length + ' companies that come to you.</p>';
+    }
+    var blogEntry = BLOG_POSTS[metro.slug + '|' + catSlug];
+    if (blogEntry) {
+      parts += '<p>What does ' + esc(String(b.category).toLowerCase()) + ' cost in ' + esc(metro.name) +
+        '? <a href="/blog/' + blogEntry[0] + '/">' + esc(blogEntry[1]) + '</a></p>';
+    }
+    if (others.length) {
+      parts += '<div class="rel-grid">' + others.slice(0, 6).map(function (r) {
+        return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
+      }).join('') + '</div>';
+    }
+    if (parts) {
+      relHtml = '<div class="prof-sec"><h2>More ' + esc(b.category) + ' near ' + esc(metro.name) + '</h2>' + parts + '</div>';
+    }
+  }
+  if (!relHtml) {
+    var related = rows.filter(function (r) { return r.id !== b.id && r.category === b.category; }).slice(0, 3);
+    relHtml = related.length ?
+      '<div class="prof-sec"><h2>More ' + esc(b.category) + ' businesses</h2><div class="rel-grid">' +
+      related.map(function (r) {
+        return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
+      }).join('') + '</div></div>' : '';
+  }
 
   var body = banner + hero +
     '<div class="prof-head"><a class="back" href="/#/browse">← Explore services</a>' +

@@ -5,6 +5,49 @@
 function slugify(name) {
   return String(name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
+
+/* Metro table — mirrors tools/metro-map.mjs (keep in sync). A metro is keyed
+   by the 3-digit ZIP prefix of a business's service ZIPs. */
+var PREFIX_METRO = {
+  '500': 'Des Moines', '501': 'Des Moines', '502': 'Des Moines', '503': 'Des Moines',
+  '507': 'Waterloo', '522': 'Iowa City', '524': 'Cedar Rapids', '528': 'Davenport',
+  '530': 'Milwaukee', '531': 'Milwaukee', '532': 'Milwaukee', '534': 'Racine',
+  '537': 'Madison', '543': 'Green Bay', '549': 'Appleton',
+  '551': 'Saint Paul', '553': 'Minneapolis', '554': 'Minneapolis', '558': 'Duluth',
+  '559': 'Rochester', '565': 'Moorhead', '567': 'Grand Forks',
+  '570': 'Sioux Falls', '571': 'Sioux Falls', '573': 'Mitchell', '574': 'Aberdeen',
+  '575': 'Pierre', '577': 'Rapid City', '580': 'Fargo', '581': 'Fargo',
+  '582': 'Grand Forks', '584': 'Jamestown', '585': 'Bismarck', '586': 'Dickinson',
+  '587': 'Minot', '588': 'Williston',
+  '590': 'Livingston', '591': 'Billings', '594': 'Great Falls', '596': 'Helena',
+  '597': 'Bozeman', '598': 'Missoula', '599': 'Kalispell',
+  '630': 'St. Louis', '631': 'St. Louis', '633': 'St. Louis',
+  '640': 'Kansas City', '641': 'Kansas City', '652': 'Columbia', '658': 'Springfield',
+  '660': 'Lawrence', '661': 'Kansas City', '662': 'Kansas City', '665': 'Manhattan',
+  '666': 'Topeka', '670': 'Wichita', '671': 'Wichita', '672': 'Wichita',
+  '680': 'Omaha', '681': 'Omaha', '685': 'Lincoln', '687': 'Norfolk', '688': 'Grand Island',
+  '700': 'New Orleans', '701': 'New Orleans', '704': 'New Orleans', '705': 'Lafayette',
+  '708': 'Baton Rouge',
+  '720': 'Little Rock', '721': 'Little Rock', '722': 'Little Rock', '724': 'Jonesboro',
+  '727': 'Fayetteville', '729': 'Fort Smith',
+  '730': 'Oklahoma City', '731': 'Oklahoma City', '740': 'Tulsa', '741': 'Tulsa',
+  '750': 'Dallas\u2013Fort Worth', '751': 'Dallas\u2013Fort Worth', '752': 'Dallas\u2013Fort Worth',
+  '760': 'Dallas\u2013Fort Worth', '761': 'Dallas\u2013Fort Worth', '762': 'Dallas\u2013Fort Worth',
+  '765': 'Jarrell',
+  '770': 'Houston', '773': 'Houston', '774': 'Houston', '775': 'Houston',
+  '780': 'San Antonio', '782': 'San Antonio', '786': 'Austin', '787': 'Austin',
+  '800': 'Denver', '802': 'Denver', '803': 'Boulder', '805': 'Fort Collins',
+  '809': 'Colorado Springs', '820': 'Cheyenne', '826': 'Casper',
+  '836': 'Boise', '837': 'Boise',
+  '840': 'Salt Lake City', '841': 'Salt Lake City', '844': 'Ogden', '846': 'Provo',
+  '850': 'Phoenix', '852': 'Phoenix', '853': 'Phoenix',
+  '871': 'Albuquerque', '874': 'Farmington', '875': 'Santa Fe', '880': 'Las Cruces',
+  '881': 'Clovis', '882': 'Roswell', '883': 'Alamogordo',
+  '890': 'Las Vegas', '891': 'Las Vegas',
+  '956': 'Sacramento', '957': 'Sacramento', '958': 'Sacramento',
+  '970': 'Portland', '971': 'Portland', '972': 'Portland',
+  '980': 'Seattle', '981': 'Seattle', '984': 'Tacoma'
+};
 function xmlEsc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
@@ -60,7 +103,7 @@ export async function onRequest({ env }) {
        Mirrors the pagination in functions/business/[slug].js (fixed 2026-10-24). */
     var rows = [], offset = 0;
     while (offset < 10000) {
-      var res = await fetch(env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&select=id,name,created_at&order=created_at.asc&limit=1000&offset=' + offset,
+      var res = await fetch(env.SUPABASE_URL + '/rest/v1/businesses?status=eq.active&select=id,name,created_at,category,service_zips&order=created_at.asc&limit=1000&offset=' + offset,
         { headers: { apikey: env.SUPABASE_ANON_KEY, Authorization: 'Bearer ' + env.SUPABASE_ANON_KEY } });
       if (!res.ok) break;
       var page = await res.json();
@@ -69,6 +112,25 @@ export async function onRequest({ env }) {
       offset += 1000;
     }
     if (rows.length) {
+      /* City x category landing pages: one URL per metro x category cell with
+         >= 3 active businesses (same rule as tools/build-landing-pages.mjs). */
+      var cellCounts = {};
+      rows.forEach(function (b) {
+        var metros = {};
+        (b.service_zips || []).forEach(function (z) {
+          var mn = PREFIX_METRO[String(z).slice(0, 3)];
+          if (mn) metros[slugify(mn)] = 1;
+        });
+        Object.keys(metros).forEach(function (ms) {
+          var key = ms + '|' + slugify(b.category);
+          cellCounts[key] = (cellCounts[key] || 0) + 1;
+        });
+      });
+      Object.keys(cellCounts).sort().forEach(function (key) {
+        if (cellCounts[key] < 3) return;
+        var parts = key.split('|');
+        urls.push('  <url><loc>https://vansquads.com/' + parts[1] + '/' + parts[0] + '/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>');
+      });
       var seen = {};
       rows.forEach(function (b) {
         var s = slugify(b.name) || b.id;
