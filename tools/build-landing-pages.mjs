@@ -1,5 +1,5 @@
 // Van Squads — city × category landing pages.
-// Run: node tools/build-landing-pages.mjs --businesses <dump.json> [--version 20261031c]
+// Run: node tools/build-landing-pages.mjs --businesses <dump.json> [--version 20261031d]
 //   <dump.json> is a full active-businesses dump (id, name, category, phone,
 //   website, service_zips, logo_url, created_at; ordered by created_at asc),
 //   e.g. produced by paging vs_rest.py get calls. The generator is offline and
@@ -20,7 +20,7 @@ function arg(name, dflt) {
   return i >= 0 ? args[i + 1] : dflt;
 }
 const dumpPath = arg('businesses', '');
-const VERSION = arg('version', '20261031c');
+const VERSION = arg('version', '20261031d');
 if (!dumpPath) { console.error('Missing --businesses <dump.json>'); process.exit(2); }
 
 const businesses = JSON.parse(fs.readFileSync(dumpPath, 'utf8'));
