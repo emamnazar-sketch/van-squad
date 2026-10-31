@@ -1019,6 +1019,19 @@ var BLOG_POSTS = {
     "How much does pressure washing cost in Boise?"
   ]
 };
+/* --- Profile upgrade preview (2026-10-31): the upgraded profile layout
+   renders ONLY for the slugs in PREVIEW_SLUGS (one business first, per the
+   approved mock-up). Every other profile renders exactly as before. --- */
+var PREVIEW_SLUGS = { 'scrub-n-bubbles-home-cleaning-llc': 1 };
+/* Service-area marker position: centroid (mean of lat/lng) of the business's
+   service ZIPs. ZIP lat/lng source: GeoNames US postal code database
+   (download.geonames.org/export/zip/US.zip), retrieved 2026-10-31.
+   Scrub 'N Bubbles ZIPs 83702, 83703, 83704, 83705, 83706, 83709, 83712,
+   83713, 83714, 83716 -> centroid 43.6176, -116.2215. */
+var PREVIEW_CENTROIDS = { 'scrub-n-bubbles-home-cleaning-llc': [43.6176, -116.2215] };
+/* State names for the preview breadcrumb, keyed by 3-digit ZIP prefix
+   (the GeoNames places for the 836/837 prefixes are all in Idaho). */
+var PREVIEW_STATE_BY_PREFIX = { '836': 'Idaho', '837': 'Idaho' };
 var CITY_SET = {};
 Object.keys(ZIP_NAMES).forEach(function (z) {
   var l = String(ZIP_NAMES[z]);
@@ -1144,7 +1157,7 @@ function areasOf(b) {
   });
   return out;
 }
-function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
+function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage, headExtra) {
   return '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n' +
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n' +
     '<title>' + esc(title) + '</title>\n' +
@@ -1156,7 +1169,8 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261031d">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261031e">\n' +
+    (headExtra || '') +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +
@@ -1304,6 +1318,117 @@ export async function onRequest({ request, env, params }) {
       related.map(function (r) {
         return '<a href="/business/' + esc(r._slug) + '">' + esc(r.name) + '<span>' + esc(areasOf(r)[0] || '') + '</span></a>';
       }).join('') + '</div></div>' : '';
+  }
+
+  /* --- Upgraded profile layout — PREVIEW_SLUGS only. The shared path below
+     is untouched, so every other profile renders exactly as before. --- */
+  if (PREVIEW_SLUGS[b._slug]) {
+    var claimUrl = 'https://vansquads.com/#/claim/' + b.id;
+    var pvCities = [], pvCitySeen = {};
+    (b.service_zips || []).forEach(function (z) {
+      var c = cityOfLabel(ZIP_NAMES[z] || '');
+      if (c && !pvCitySeen[c]) { pvCitySeen[c] = 1; pvCities.push(c); }
+    });
+    var pvCityText = pvCities.length > 1
+      ? pvCities.slice(0, -1).join(', ') + ' & ' + pvCities[pvCities.length - 1]
+      : (pvCities[0] || '');
+    var pvState = PREVIEW_STATE_BY_PREFIX[String((b.service_zips || [])[0] || '').slice(0, 3)] || '';
+    var pvCity = primaryCityOf(b);
+    var pvDigits = String(b.phone || '').replace(/\D/g, '');
+    if (pvDigits.length === 10) pvDigits = '1' + pvDigits;
+    var pvTel = pvDigits ? 'tel:+' + pvDigits : '';
+    var pvDomain = '';
+    if (b.website) { try { pvDomain = new URL(b.website).hostname.replace(/^www\./, ''); } catch (e2) { pvDomain = ''; } }
+    var pvCentroid = PREVIEW_CENTROIDS[b._slug] || [43.6150, -116.2023];
+    var pvZipChips = (b.service_zips || []).map(function (z) {
+      return '<span class="pv-chip">' + esc(z) + '</span>';
+    }).join('');
+    var pvSvcChips = listings.map(function (l) {
+      return '<span class="pv-chip">' + esc(l.title) + '</span>';
+    }).join('') + '<span class="pv-chip">Mobile — comes to you</span>';
+    var pvDetails =
+      (b.phone ? '<div class="pv-cred"><span class="k">Phone</span><span class="v ok">' + esc(b.phone) + ' — on file</span></div>' : '') +
+      (pvDomain ? '<div class="pv-cred"><span class="k">Website</span><span class="v ok">' + esc(pvDomain) + '</span></div>' : '') +
+      '<div class="pv-cred"><span class="k">Profile claimed by owner</span><span class="v ' + (b.verified ? 'ok' : 'notyet') + '">' + (b.verified ? 'Claimed' : 'Not yet claimed') + '</span></div>' +
+      '<div class="pv-cred"><span class="k">Owner photos</span><span class="v notyet">Not yet added</span></div>';
+    var pvHead =
+      '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">\n' +
+      '<style>' +
+      '.pv-crumbs{font-size:14.5px;color:var(--muted);padding:18px 0 0}.pv-crumbs b{color:var(--ink)}' +
+      '.pv-pills{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 0}' +
+      '.pv-pill{border-radius:999px;padding:6px 14px;font-size:14.5px;font-weight:700}' +
+      '.pv-pill-unclaimed{background:#EDF1F5;color:#1F2B3A;border:1px solid #E2E8EE}' +
+      '.pv-pill-cat{background:#FFF0E6;color:#E2571B;border:1px solid #FFD9C2}' +
+      '.pv-h1{font-size:32px;line-height:1.15;margin:12px 0 6px;color:#1F2B3A}' +
+      '.pv-tagline{font-size:19px;color:var(--muted);margin:0 0 6px}.pv-tagline b{color:var(--ink)}' +
+      '.pv-claim{background:#FFF0E6;border:1.5px dashed #FF6A2B;border-radius:16px;padding:20px 22px;margin:20px 0}' +
+      '.pv-claim h2{margin:0 0 6px;font-size:21px;color:#1F2B3A}' +
+      '.pv-claim p{margin:0 0 14px;color:var(--muted);font-size:16.5px}' +
+      '.pv-claim a{background:#FF6A2B;color:#fff;font-weight:700;padding:12px 22px;border-radius:999px;display:inline-block;font-size:16.5px;text-decoration:none}' +
+      '.pv-cols{display:flex;flex-direction:column}' +
+      '.pv-side{order:-1}' +
+      '.pv-contact{border:1px solid #E2E8EE;border-radius:16px;box-shadow:0 6px 24px rgba(31,43,58,.08);padding:20px 22px;margin:20px 0;background:#fff}' +
+      '.pv-contact h2{margin:0 0 12px;font-size:21px;color:#1F2B3A}' +
+      '.pv-cbtns{display:flex;gap:10px;margin-bottom:10px;flex-wrap:wrap}' +
+      '.pv-btn{flex:1;text-align:center;padding:13px 8px;border-radius:12px;font-weight:700;font-size:16.5px;white-space:nowrap;text-decoration:none}' +
+      '.pv-call{background:#FF6A2B;color:#fff}' +
+      '.pv-web{border:2px solid #1F2B3A;color:#1F2B3A}' +
+      '.pv-quote{display:block;background:#1F2B3A;color:#fff}' +
+      '.pv-straight{font-size:14.5px;color:var(--muted);margin:10px 0 0;text-align:center}' +
+      '.pv-blk{margin:30px 0}.pv-blk h2{font-size:24px;color:#1F2B3A;margin:0 0 10px}.pv-blk p{color:var(--muted)}' +
+      '.pv-chips{display:flex;flex-wrap:wrap;gap:9px}' +
+      '.pv-chip{background:#F6F8FA;border:1px solid #E2E8EE;border-radius:999px;padding:7px 15px;font-size:15px;font-weight:600;color:#2B3B4F}' +
+      '.pv-map{width:100%;height:320px;border-radius:16px;border:1px solid #E2E8EE;z-index:0}' +
+      '.pv-pin{display:block;width:22px;height:22px;border-radius:50%;background:#FF6A2B;border:3px solid #fff;box-shadow:0 2px 8px rgba(31,43,58,.35)}' +
+      '.pv-pin-wrap{background:none;border:none}' +
+      '.pv-attr{font-size:13.5px;color:var(--muted);margin-top:8px}' +
+      '.pv-creds{border:1px solid #E2E8EE;border-radius:16px;overflow:hidden}' +
+      '.pv-cred{display:flex;justify-content:space-between;gap:14px;padding:14px 18px;border-bottom:1px solid #E2E8EE;font-size:16.5px;background:#fff}' +
+      '.pv-cred:last-child{border-bottom:none}' +
+      '.pv-cred .k{color:var(--muted)}.pv-cred .v{font-weight:700;color:#1F2B3A;text-align:right}' +
+      '.pv-cred .v.ok{color:#177245}.pv-cred .v.notyet{color:#E2571B}' +
+      '@media(min-width:900px){.pv-cols{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:28px;align-items:start}.pv-side{order:0;position:sticky;top:20px}.pv-contact{margin:30px 0 20px}}' +
+      '</style>\n';
+    var pvBody =
+      '<nav class="pv-crumbs" aria-label="Breadcrumb"><a href="/">Home</a>' +
+      (pvState ? ' &nbsp;›&nbsp; ' + esc(pvState) : '') +
+      (pvCity ? ' &nbsp;›&nbsp; ' + esc(pvCity) : '') +
+      ' &nbsp;›&nbsp; ' + esc(b.category) +
+      ' &nbsp;›&nbsp; <b>' + esc(b.name) + '</b></nav>' +
+      '<div class="pv-pills"><span class="pv-pill pv-pill-unclaimed">' + (b.verified ? 'Claimed profile' : 'Unclaimed profile') + '</span>' +
+      '<span class="pv-pill pv-pill-cat">' + esc(b.category) + '</span></div>' +
+      '<h1 class="pv-h1">' + esc(b.name) + check + '</h1>' +
+      '<p class="pv-tagline"><b>' + esc(b.category) + ' that comes to your home</b>' + (pvCityText ? ' — ' + esc(pvCityText) : '') + '.</p>' +
+      hero +
+      '<div class="pv-claim"><h2>Is this your business?</h2>' +
+      '<p>Claim this listing for free to update your details, add your own photos, and get quote requests sent straight to you.</p>' +
+      '<a href="' + esc(claimUrl) + '">Claim this free profile</a></div>' +
+      '<div class="pv-cols"><div class="pv-main">' +
+      (desc ? '<section class="pv-blk"><h2>About</h2><p>' + esc(desc) + '</p></section>' : '') +
+      '<section class="pv-blk"><h2>Services</h2><div class="pv-chips">' + pvSvcChips + '</div></section>' +
+      '<section class="pv-blk"><h2>Service area</h2>' +
+      '<div id="pv-map" class="pv-map" aria-label="Map of the service area"></div>' +
+      '<p class="pv-attr">Map © OpenStreetMap contributors — the marker sits in the middle of the ZIP codes this business serves.</p>' +
+      (pvZipChips ? '<div class="pv-chips" style="margin-top:12px">' + pvZipChips + '</div>' : '') +
+      '</section>' +
+      '<section class="pv-blk"><h2>Business details</h2><div class="pv-creds">' + pvDetails + '</div></section>' +
+      relHtml +
+      '</div>' +
+      '<aside class="pv-side"><div class="pv-contact"><h2>Contact this business</h2>' +
+      '<div class="pv-cbtns">' +
+      (b.phone ? '<a class="pv-btn pv-call" href="' + esc(pvTel) + '">Call ' + esc(b.phone) + '</a>' : '') +
+      (b.website ? '<a class="pv-btn pv-web" href="' + esc(b.website) + '" target="_blank" rel="noopener">Visit website</a>' : '') +
+      '</div>' +
+      '<a class="pv-btn pv-quote" href="' + esc(appLink) + '">Send quote request</a>' +
+      '<p class="pv-straight">Goes straight to this business. No obligation, no spam calls.</p>' +
+      '</div></aside></div>' +
+      '<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>' +
+      '<script>if(window.L){var pvMap=L.map("pv-map").setView([' + pvCentroid[0] + ',' + pvCentroid[1] + '],11);' +
+      'L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"&copy; OpenStreetMap contributors"}).addTo(pvMap);' +
+      'L.marker([' + pvCentroid[0] + ',' + pvCentroid[1] + '],{icon:L.divIcon({className:"pv-pin-wrap",html:"<span class=\\"pv-pin\\"></span>",iconSize:[22,22],iconAnchor:[11,11]})}).addTo(pvMap);}</script>';
+    return new Response(pageShell(title, metaDesc, canonical, pvBody, jsonLd, photoAbs, pvHead), {
+      headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=300, s-maxage=3600' }
+    });
   }
 
   var body = banner + hero +
