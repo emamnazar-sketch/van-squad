@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "d27cfa7c-f0fb-42d6-9d33-097cae8491a1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vista Pro Exterior Cleaning",
+      "category": "Pressure washing",
+      "phone": "(262) 675-4102",
+      "website": "https://www.vistaprowi.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "818fa048-71c0-4da1-ba95-f4b97989e226",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DeMark's Window & Pressure Cleaning",
+      "category": "Pressure washing",
+      "phone": "(262) 894-2057",
+      "website": "https://www.demarks.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "30053981-704f-4ce9-8e76-f502a8205759",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Squeegee Squad of Milwaukee",
+      "category": "Pressure washing",
+      "phone": "(262) 437-0384",
+      "website": "https://squeegeesquad.com/milwaukee-wi/residential/pressure-soft-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "45a3d41e-6f49-447f-9238-5d5c3f54eada",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Moxie Pressure Washing LLC",
+      "category": "Pressure washing",
+      "phone": "(414) 852-9992",
+      "website": "http://www.moxiepressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c2870cc8-303d-4b2e-8132-c95c737e9321",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Midwest Fleet Wash",
+      "category": "Pressure washing",
+      "phone": "(414) 323-5610",
+      "website": "https://midwestfleetwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d687179c-0b2e-47aa-b745-81d6f66e7aeb",
+      "business_id": "d27cfa7c-f0fb-42d6-9d33-097cae8491a1",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ca2e0e67-aeac-4946-8d89-8c76faea16a7",
+      "business_id": "818fa048-71c0-4da1-ba95-f4b97989e226",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2bb2909c-7311-45e8-a6b4-cdadca76c01d",
+      "business_id": "30053981-704f-4ce9-8e76-f502a8205759",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a594bb78-dd4d-42b2-b938-283e6f55a9c0",
+      "business_id": "45a3d41e-6f49-447f-9238-5d5c3f54eada",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ad2858c7-4f92-4baa-b6c8-bf0b51095bab",
+      "business_id": "c2870cc8-303d-4b2e-8132-c95c737e9321",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

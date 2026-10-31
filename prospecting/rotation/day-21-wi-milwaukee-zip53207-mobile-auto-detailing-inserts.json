@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "e4125c29-f57e-4a51-9006-e691fb5b44f3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kiko Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(414) 408-4118",
+      "website": "https://www.kikodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8c3fa724-2b5a-4e4f-bdd7-d2b771f5b470",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maj Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(262) 902-3200",
+      "website": "https://majautospa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "289fc4c4-1de1-40a2-9e5f-237ffc152895",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Modern Edge Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(262) 454-4537",
+      "website": "https://www.modernedgedetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fb8c950e-b031-40b0-8ae4-de0d148bfad7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pristine and Clean Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(414) 588-1356",
+      "website": "https://www.pc-autodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d7631d7b-2e80-46c2-af07-f1817a274aab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elite Auto Spa Milwaukee",
+      "category": "Mobile auto detailing",
+      "phone": "(414) 477-8919",
+      "website": "https://eliteautospamke.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "dab4fb8e-b656-4860-ae50-309dc3fdec1a",
+      "business_id": "e4125c29-f57e-4a51-9006-e691fb5b44f3",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "747417a2-6dca-44a7-a025-f5e8d920567b",
+      "business_id": "8c3fa724-2b5a-4e4f-bdd7-d2b771f5b470",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a42bbd0d-df26-405d-8df0-824aa435d95c",
+      "business_id": "289fc4c4-1de1-40a2-9e5f-237ffc152895",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "62df6f65-f93d-4dc1-ae7e-ef965c122b50",
+      "business_id": "fb8c950e-b031-40b0-8ae4-de0d148bfad7",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d8cdf22d-f2eb-4966-aa92-ab4002c5124a",
+      "business_id": "d7631d7b-2e80-46c2-af07-f1817a274aab",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

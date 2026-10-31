@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "04937ce3-d269-4c1e-8ee4-0d0739462d38",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Infinite Zen Room Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(608) 501-4742",
+      "website": "https://www.infinitezenroomgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53717"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fe45a05b-d8ba-489c-8fb1-8012eaab705e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Little Mobile Grooming Shop",
+      "category": "Mobile pet grooming",
+      "phone": "(608) 206-6768",
+      "website": "http://www.littlemobilegroomingshop.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53717"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "52f234d4-a5d7-4704-bbd0-1d157182d6f5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Serenity Pet Spa",
+      "category": "Mobile pet grooming",
+      "phone": "(608) 235-8916",
+      "website": "https://www.serenitypetspamadison.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53717"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "1f762274-e542-42a1-b98c-78b161908de8",
+      "business_id": "04937ce3-d269-4c1e-8ee4-0d0739462d38",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4f1a92c8-4033-475f-ae91-3553e09711f4",
+      "business_id": "fe45a05b-d8ba-489c-8fb1-8012eaab705e",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "750ca59f-2325-4e29-9b81-ce7b8c9c8f35",
+      "business_id": "52f234d4-a5d7-4704-bbd0-1d157182d6f5",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

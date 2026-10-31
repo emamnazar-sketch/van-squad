@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "e51bc3fd-4a11-44b8-9d58-646f3d516fb6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Power Pool Services",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(414) 206-5105",
+      "website": "https://powerpoolservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c1135b09-3d9d-4512-aa58-adff68d399ec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Aqua Tech Pool Professionals",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(414) 704-5804",
+      "website": "http://www.goaquatech.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "17055d46-d9c3-46e3-b7f5-1bc2254c9c84",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Swimming Pool Services",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(262) 544-5500",
+      "website": "https://swimmingpoolservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "884e4bc3-b0b7-4d84-8fb3-e164e8770893",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A-1 Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(262) 334-9493",
+      "website": "https://a1poolfun.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bf131d94-2620-4eb0-8d75-78f3a7e92cd5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Poolside Pools & Spas, LLC",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(262) 968-4365",
+      "website": "https://www.poolsideinfo.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "71ac4c3c-ec9a-46df-9494-ebd98d287f32",
+      "business_id": "e51bc3fd-4a11-44b8-9d58-646f3d516fb6",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9cac9538-3408-45f9-9481-e4a2efb4f6e2",
+      "business_id": "c1135b09-3d9d-4512-aa58-adff68d399ec",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a8f00286-4aef-4c83-b5bf-f554062b25a7",
+      "business_id": "17055d46-d9c3-46e3-b7f5-1bc2254c9c84",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5f401b41-e8bb-4902-876a-b02ab12bd34a",
+      "business_id": "884e4bc3-b0b7-4d84-8fb3-e164e8770893",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5939b508-d922-46a0-a642-1c740950dc1a",
+      "business_id": "bf131d94-2620-4eb0-8d75-78f3a7e92cd5",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Van Squads — Day 21 — Wisconsin × Milwaukee × ZIP 53207 × Mobile auto detailing
+
+- Researched: 2026-10-31, Day 21
+- Cell: Wisconsin | Milwaukee | ZIP 53207 | Mobile auto detailing
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally
+- Sources: each business's own website first, then public listings (Google Business / BBB). Public information only. Mobile/on-site service confirmed from each business's own materials in every case below.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source |
+|---|---|---|---|---|---|---|---|
+| Kiko Detailing | (414) 408-4118 | Mobile auto detailing | Milwaukee | https://www.kikodetailing.com/ | kikodetailingg@gmail.com — https://www.kikodetailing.com/ | High — own site: "We Bring Professional Mobile And In-Shop Car Detailing Services Right To Your Doorstep In Milwaukee" and "We come to you — whether you're at home, work…"; phone, email and 3171 S 14th St, Milwaukee address all on own site (Google listing names it Kiko Mobile Detailing) | Business's own website |
+| Maj Auto Spa | (262) 902-3200 | Mobile auto detailing | Milwaukee | https://majautospa.com/ | majautospa.business@gmail.com — https://majautospa.com/ | High — own site (business name there: Maj Auto Spa & Detailing Co.): "We come fully equipped with our own water & power — straight to your door, job site, or anywhere you park," Milwaukee listed as Primary Service Area; phone and email in own site footer | Business's own website |
+| Modern Edge Detailing | (262) 454-4537 | Mobile auto detailing | Milwaukee | https://www.modernedgedetailing.com/ | info@modernedgedetailing.com — https://www.modernedgedetailing.com/ | High — own site billed as Milwaukee's detailer: "100% Self Sufficient Mobile Detailing — We Come To You," "We come to your home or office," fully equipped vehicle with own power/water; phone and email on own site | Business's own website |
+| Pristine and Clean Auto Detailing | (414) 588-1356 | Mobile auto detailing | Milwaukee | https://www.pc-autodetailing.com/ | none — no email published on own site found (contact form only) | Medium — own site: "Whether you prefer a full in-shop detail or the ease of service at home, our comprehensive mobile detailing options bring our expert care directly to you," and phone 414-588-1356 on own site; mobile is one option alongside a shop (public listings place the shop in West Allis / Franklin serving Milwaukee County), and no ZIP-level service list is published | Business's own website |
+| Elite Auto Spa Milwaukee | (414) 477-8919 | Mobile auto detailing | Milwaukee | https://eliteautospamke.com/ | Info@eliteautospamke.com — https://eliteautospamke.com/ | High — own site FAQ: "Yes, we offer mobile auto detailing in Milwaukee… brings the same professional-grade equipment… directly to your home or workplace," plus in-shop & mobile throughout; phone (shown as 4144778919), email and 9404 N 107th St, Milwaukee, WI 53224 address on own site | Business's own website |
+
+## Dedupe / exclusion notes
+
+- Dedupe checked: every candidate name and phone was checked against ~/workspace/van-squad/prospecting/rotation/day21-dedupe.txt and grepped across all files under ~/workspace/van-squad/prospecting/. No same-name or same-phone match for any of the 5 businesses above.
+- Near-name notes (not duplicates): "Pristine and Clean" in the dedupe file is a different Minneapolis deep-cleaning business, (612) 419-6937, pristineandclean.org — different full name, phone, city and category from Pristine and Clean Auto Detailing, (414) 588-1356, Milwaukee. "Elite Auto Spa" mentions in earlier South Dakota batch files are different Sioux Falls-area shops with different phones, already excluded there — not this Milwaukee business.
+- Bay View Detailing, 205 E Montana St, Milwaukee, WI 53207 — (262) 312-4185 on its Google listing, email bayviewdetail414@gmail.com on its own site — EXCLUDED: it is physically in the target ZIP, but its own website (bayviewautos.com) presents a visit-our-location shop with no mobile / come-to-you service claim, so mobile service could not be confirmed from its own materials; its own fetched site also did not publish a phone.
+- Mobile Detailing Milwaukee (mobiledetailingmilwaukee.com) — EXCLUDED: generic keyword name with no verifiable local operator identity or public phone found on its own site; treated as a lead-gen-style listing.
+- Detail Doctors, Milwaukee Auto Detail / Milwaukee Ceramic Coating, Metro Car Wash & Detailing Centre, Zippy's Car Wash, Milwaukee Auto Spa, Detail Doctors (detaildoctorsmke.com) — EXCLUDED: shop / car-wash operations; mobile come-to-you detailing not confirmed from their own materials.
+- J's Supreme Solution Auto Detailing LLC, (414) 779-2121, Milwaukee, and Jupis Cleanspace Mobile Detailing, (414) 439-5977, 2150 S 13th St, Milwaukee — EXCLUDED for this cell: found only in BBB / directory listings with no verifiable own website/materials to confirm mobile service and phone to the required standard.
+- T & M Cleaning Services (West Allis) — EXCLUDED: its detailing offer is pick-up/drop-off of the car to its own facility, not detailing performed at the customer's location.
+
+## ZIP note
+
+- Target ZIP 53207 (Bay View, Milwaukee). No adjacent-ZIP expansion was needed — 5 qualifying Milwaukee mobile detailers were found whose own materials confirm they come to customers in Milwaukee, which includes 53207 (Maj Auto Spa lists Milwaukee as its Primary Service Area; Kiko, Modern Edge, Pristine & Clean and Elite all confirm Milwaukee mobile service on their own sites).
+- service_zips is ["53207"] for every business: none of the five publishes a ZIP-code service list on its own site (they name Milwaukee / Milwaukee County / surrounding cities and counties instead), so no additional ZIPs were invented.

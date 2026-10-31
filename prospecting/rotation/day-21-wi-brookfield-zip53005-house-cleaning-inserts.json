@@ -1,0 +1,136 @@
+{
+ "businesses": [
+  {
+   "id": "1bbb92c5-2c4b-4c1d-9c0e-a629f3399ada",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Authority - Brookfield",
+   "category": "House cleaning",
+   "phone": "(262) 287-9689",
+   "website": "https://www.thecleaningauthority.com/brookfield",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53005",
+    "53018",
+    "53029",
+    "53045",
+    "53051",
+    "53058",
+    "53066",
+    "53069",
+    "53072",
+    "53089",
+    "53122",
+    "53146",
+    "53151",
+    "53183",
+    "53186",
+    "53188",
+    "53189",
+    "53213",
+    "53226"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ea3e3ead-e332-46a6-9f15-a845cf393fd8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "CHRIStal Clean",
+   "category": "House cleaning",
+   "phone": "(262) 391-1246",
+   "website": "https://christalcleaned.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7a83c193-1c19-4761-b3ae-b9ab87308ecf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleaning by Dulce LLC",
+   "category": "House cleaning",
+   "phone": "(262) 343-3612",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7d7fda57-54f3-41db-ad20-5a4083f422ab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "CottageCare Menomonee Falls",
+   "category": "House cleaning",
+   "phone": "(262) 703-9555",
+   "website": "https://cottagecare.com/locations/menomonee-falls/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "de5f634d-f0cf-4360-a75b-075fd7a0864e",
+   "business_id": "1bbb92c5-2c4b-4c1d-9c0e-a629f3399ada",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "33811bee-4ad0-42b6-ba13-bcf17a806090",
+   "business_id": "ea3e3ead-e332-46a6-9f15-a845cf393fd8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "26e82d3a-a690-4ff2-a228-ce7502f9ac06",
+   "business_id": "7a83c193-1c19-4761-b3ae-b9ab87308ecf",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "393bc5e4-838a-42e3-ba7d-9d30bc2105e7",
+   "business_id": "7d7fda57-54f3-41db-ad20-5a4083f422ab",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "b3c057b0-9d49-4fbf-aaf3-d7be5a145458",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Supreme Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(608) 217-2222",
+      "website": "http://www.smdmadison.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53711"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "02d72663-df02-4dd4-9120-f89ea39e02c6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Extreme Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(608) 405-2061",
+      "website": "http://extremedetailings.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53711"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bb4bb7b0-35ba-41ae-a859-a38b9fdd6d60",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Madison Mobile Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(608) 222-4808",
+      "website": "http://www.madisonautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53711"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f6891a1d-04c3-4363-aee3-e0225fb38d08",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Madison Mobile Detailing & Pressure Washing",
+      "category": "Mobile auto detailing",
+      "phone": "(608) 224-0234",
+      "website": "https://www.madisonmobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53711"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fb34a6ac-897f-4099-8419-576822b6ea2d",
+      "business_id": "b3c057b0-9d49-4fbf-aaf3-d7be5a145458",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "407ffbc4-73b3-4315-8435-095a0f227ff9",
+      "business_id": "02d72663-df02-4dd4-9120-f89ea39e02c6",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a9e3fd95-cf85-44ac-90c9-e18989a20dac",
+      "business_id": "bb4bb7b0-35ba-41ae-a859-a38b9fdd6d60",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6b579888-a043-4f00-a7ac-7cb5027e1506",
+      "business_id": "f6891a1d-04c3-4363-aee3-e0225fb38d08",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

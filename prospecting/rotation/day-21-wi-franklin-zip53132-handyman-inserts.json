@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "42deeb52-4cc5-4dec-8e5c-6ed19ad3afa0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "360 Degree Maintenance",
+      "category": "Handyman",
+      "phone": "(414) 399-6532",
+      "website": "http://www.360maintenancewi.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "642a19a9-c01b-4749-8084-acda2bf186cf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vodnik Handyman Services",
+      "category": "Handyman",
+      "phone": "(414) 759-2331",
+      "website": "http://vodnikhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28365c02-ad3d-4f92-b52f-c1bc977f35b6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ElmBrook Handyman",
+      "category": "Handyman",
+      "phone": "(262) 829-7042",
+      "website": "https://www.elmbrookhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "78dabb4c-aeb7-45ab-ac90-9698a6b46994",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Fresh New Look Home Improvements",
+      "category": "Handyman",
+      "phone": "(414) 448-6228",
+      "website": "https://afreshlookhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cb49eee9-021c-4c0e-b4e8-6850388519e4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Centeno Home Improvement Solutions",
+      "category": "Handyman",
+      "phone": "(414) 379-8167",
+      "website": "http://www.centenosolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b139bfa9-9446-41ed-9a1f-a79f9f2328f7",
+      "business_id": "42deeb52-4cc5-4dec-8e5c-6ed19ad3afa0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9a8ace84-a831-4503-822e-b2c65c01490d",
+      "business_id": "642a19a9-c01b-4749-8084-acda2bf186cf",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1ece1feb-93b7-49bf-b857-69c8b83fc81a",
+      "business_id": "28365c02-ad3d-4f92-b52f-c1bc977f35b6",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9b69081c-582b-4f92-a94c-9b86a7fe149d",
+      "business_id": "78dabb4c-aeb7-45ab-ac90-9698a6b46994",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5a97f606-b012-4bda-bc81-76a90bf1e998",
+      "business_id": "cb49eee9-021c-4c0e-b4e8-6850388519e4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

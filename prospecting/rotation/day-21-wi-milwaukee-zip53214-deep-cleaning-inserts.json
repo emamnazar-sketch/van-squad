@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "47a68121-a5c9-45a1-856e-d1f448e9f2cb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "T&M Cleaning Services Inc.",
+      "category": "Deep cleaning",
+      "phone": "(414) 933-2785",
+      "website": "https://www.tm-cleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "449fc305-6999-4e7f-b795-40e02756bd06",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Divine Touch Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(414) 909-3037",
+      "website": "https://divinetouchclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "328e11a2-eb32-4126-ac82-89668ea60ae9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Marianas Cleaning Services LLC",
+      "category": "Deep cleaning",
+      "phone": "(414) 736-1365",
+      "website": "https://marianascleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0c759b9b-bdb1-44ff-b1b2-a9f9993ef0d3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Magic Maid LLC",
+      "category": "Deep cleaning",
+      "phone": "(414) 389-0287",
+      "website": "http://magicmaidmke.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f56d08c2-a49b-4a82-85be-977f12249e6a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lori Maid’G LLC",
+      "category": "Deep cleaning",
+      "phone": "(414) 426-7075",
+      "website": "https://milwaukeelorimaid.com/contact-us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2f084778-3767-46ff-b1b4-59ecb0475f64",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Brigade of Milwaukee",
+      "category": "Deep cleaning",
+      "phone": "(414) 384-4620",
+      "website": "https://milwaukee.maidbrigade.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a1aefb59-70c3-4365-9015-a3eb66d41c71",
+      "business_id": "47a68121-a5c9-45a1-856e-d1f448e9f2cb",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b4de70b0-05be-4eb0-b2de-df2b1b2e11c6",
+      "business_id": "449fc305-6999-4e7f-b795-40e02756bd06",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77142b43-a101-496a-bd7b-5912d6d20fa2",
+      "business_id": "328e11a2-eb32-4126-ac82-89668ea60ae9",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e249734f-88e9-41b9-b6ad-3673460d9b62",
+      "business_id": "0c759b9b-bdb1-44ff-b1b2-a9f9993ef0d3",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "add29ec6-0cd0-4e50-82da-3bedb99c3f76",
+      "business_id": "f56d08c2-a49b-4a82-85be-977f12249e6a",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6aaad91c-9a74-4584-a0d0-d478b8ac1fa8",
+      "business_id": "2f084778-3767-46ff-b1b4-59ecb0475f64",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

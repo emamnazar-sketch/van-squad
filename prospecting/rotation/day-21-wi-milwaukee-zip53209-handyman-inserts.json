@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "ec7c8464-b53c-4523-a8cd-bfad45198931",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Helper Matt Inc.",
+      "category": "Handyman",
+      "phone": "(262) 283-9132",
+      "website": "https://tcdesignsforyou.wixsite.com/mattcook",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2a051559-824a-46c4-ad3c-6647770f0292",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Milwaukee Handyman",
+      "category": "Handyman",
+      "phone": "(262) 439-8620",
+      "website": "http://www.milwaukee-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1977b0b5-6d2c-450b-836a-2c2202d702aa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Odd Job Todd",
+      "category": "Handyman",
+      "phone": "(414) 349-2334",
+      "website": "http://www.oddjobtodd.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "62832eee-d14f-4779-9bd0-e15764839378",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Milwaukee's Best Handyman LLC",
+      "category": "Handyman",
+      "phone": "(414) 722-4620",
+      "website": "https://jcpmbh2.wixsite.com/milwaukee",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "71104334-df82-4866-aa8a-cf19a6fda536",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman 83",
+      "category": "Handyman",
+      "phone": "(262) 676-1062",
+      "website": "https://h-83services.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6815ec57-e035-47f6-a6a8-6f771efd92d6",
+      "business_id": "ec7c8464-b53c-4523-a8cd-bfad45198931",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "57ea050b-f06e-45e1-a243-f2e6b3393c80",
+      "business_id": "2a051559-824a-46c4-ad3c-6647770f0292",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4a73ff7a-fd04-46a1-b1fa-1d2271d2a892",
+      "business_id": "1977b0b5-6d2c-450b-836a-2c2202d702aa",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77fc9a9a-40f0-489e-b5b0-a6d27a8cbc75",
+      "business_id": "62832eee-d14f-4779-9bd0-e15764839378",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7e77989e-cf21-423e-89ba-96d57af6523a",
+      "business_id": "71104334-df82-4866-aa8a-cf19a6fda536",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

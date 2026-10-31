@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "184ebac3-13cd-4c97-a944-4d4657426d0a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TidyUp Cleaning",
+      "category": "House cleaning",
+      "phone": "(608) 420-4800",
+      "website": "https://tidyupcleaningwi.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3c3b3db5-e940-4f39-9b88-4c2106d9a6df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Legacy Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(608) 438-7516",
+      "website": "https://legacyhousecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d94a15ee-fb45-48b3-a454-176eb0aeacc9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Eco Clean Madison",
+      "category": "House cleaning",
+      "phone": "(608) 215-7432",
+      "website": "https://www.ecocleanmadison.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "299ac97e-193f-45b9-9874-2311f12710b1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Capital Cleaning & Concierge",
+      "category": "House cleaning",
+      "phone": "(608) 444-2082",
+      "website": "http://www.cleaningconciergemadison.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "41b2c263-a97a-4b52-a78c-586d0f0e2e18",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mother Earth Cleaners",
+      "category": "House cleaning",
+      "phone": "(608) 772-8100",
+      "website": "http://www.motherearthcleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5f02856e-13d3-4d3e-855a-1553d67d7434",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Grakei Maids",
+      "category": "House cleaning",
+      "phone": "(608) 278-2972",
+      "website": "http://www.grakei-maids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53704"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d684a4e3-f108-447d-9c41-25f91cfc9d91",
+      "business_id": "184ebac3-13cd-4c97-a944-4d4657426d0a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ef3697b4-9d61-4061-b4a1-227df8fcc17c",
+      "business_id": "3c3b3db5-e940-4f39-9b88-4c2106d9a6df",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "40148a7f-9955-4922-9c3e-7f5bd1cab6bf",
+      "business_id": "d94a15ee-fb45-48b3-a454-176eb0aeacc9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cea684d2-f7bb-4c60-91b6-4bc0736f089f",
+      "business_id": "299ac97e-193f-45b9-9874-2311f12710b1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "635543ff-959b-4915-ba4e-a147b5b39874",
+      "business_id": "41b2c263-a97a-4b52-a78c-586d0f0e2e18",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b93b8c25-b1db-48e1-a6a0-dca2349b48d0",
+      "business_id": "5f02856e-13d3-4d3e-855a-1553d67d7434",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

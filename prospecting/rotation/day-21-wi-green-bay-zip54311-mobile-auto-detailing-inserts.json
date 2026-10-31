@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "22b82617-2d96-46ff-8885-095bb068094e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BK Detailz",
+      "category": "Mobile auto detailing",
+      "phone": "(920) 502-9590",
+      "website": "https://bkdetailz.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08faacd2-3430-415a-be97-2b5aed0da8c4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Polar Precision Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(920) 680-5473",
+      "website": "https://www.facebook.com/polarprecisionmd",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "eddbfd57-7a87-48bd-a7e0-bc6e2b090fa2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Midwest shine mobile detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(920) 360-8424",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c9e173cf-d1a1-4eea-afbd-d7e23b4f048d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Golden Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(920) 585-7253",
+      "website": "https://goldenmobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "edd14936-ffd8-4426-a6b2-22fbf75a085a",
+      "business_id": "22b82617-2d96-46ff-8885-095bb068094e",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "80eb12be-daad-4c6b-bcbf-d3d521fb6d7d",
+      "business_id": "08faacd2-3430-415a-be97-2b5aed0da8c4",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ebd584e5-f801-48b4-938b-9f74b09576ba",
+      "business_id": "eddbfd57-7a87-48bd-a7e0-bc6e2b090fa2",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5198d90f-1a08-4f0a-8df0-9cbe2898697d",
+      "business_id": "c9e173cf-d1a1-4eea-afbd-d7e23b4f048d",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

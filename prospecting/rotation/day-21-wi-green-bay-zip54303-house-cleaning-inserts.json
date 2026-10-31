@@ -1,0 +1,148 @@
+{
+  "businesses": [
+    {
+      "id": "428129fe-ad22-4837-9d9f-6a62802d9a3a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A-Team Cleaners",
+      "category": "House cleaning",
+      "phone": "(920) 776-6655",
+      "website": "http://www.a-teamcleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54303"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3f7db0d9-a5e8-4f2e-9b36-baad2e0179b9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Green Bay",
+      "category": "House cleaning",
+      "phone": "(920) 305-7532",
+      "website": "http://twomaidscleaning.com/green-bay",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54303",
+        "54302"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "58d2949f-d24f-4640-8171-b057ebae631e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Green Bay",
+      "category": "House cleaning",
+      "phone": "(920) 504-2676",
+      "website": "https://merrymaids.com/home-cleaners-green-bay-wi",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54303",
+        "54313"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d4f17bba-736a-4b3a-a672-8df55a2f06da",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Magic Rags",
+      "category": "House cleaning",
+      "phone": "(920) 634-6345",
+      "website": "http://magicragsnew.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54303"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "87d7f3b2-3008-4ff5-b55a-7a6e183e5f1c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Titletown Cleaning & Laundry Service",
+      "category": "House cleaning",
+      "phone": "(920) 288-9604",
+      "website": "http://titletowncl.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54303"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b7f604a9-3e65-4568-8a07-83d5dc9df5ce",
+      "business_id": "428129fe-ad22-4837-9d9f-6a62802d9a3a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "df891926-c843-40d7-8410-e4ab782a8c5d",
+      "business_id": "3f7db0d9-a5e8-4f2e-9b36-baad2e0179b9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "12a978a9-178b-4f28-bf53-cba64a097fc5",
+      "business_id": "58d2949f-d24f-4640-8171-b057ebae631e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e079453f-373a-422b-942c-e6c4e85693da",
+      "business_id": "d4f17bba-736a-4b3a-a672-8df55a2f06da",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "27dc1d44-778a-4b83-8b87-bd2b4174fdae",
+      "business_id": "87d7f3b2-3008-4ff5-b55a-7a6e183e5f1c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

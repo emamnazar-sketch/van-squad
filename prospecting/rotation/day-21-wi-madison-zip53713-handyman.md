@@ -1,0 +1,28 @@
+# Van Squads — Day 21 Cell Research
+
+Researched 2026-10-31, Day 21
+Cell: Wisconsin × Madison × ZIP 53713 × Handyman
+Status: PREPARED, NOT INSERTED — coordinator inserts centrally
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source |
+|---|---|---|---|---|---|---|---|
+| Handy Work Madison LLC | (608) 443-7648 | Handyman | Madison | https://www.handyworkmadison.com/ | None collected — its own site shows its email behind address protection, so the address itself could not be read and was not guessed | High — phone on own site ("Main Number: (608) 443-7648"); own site says it has served Madison, WI for 23+ years with residential and commercial handyman work done at the customer's home or office, with free estimates within a 56-mile radius | Own website; Google Business listing |
+| Handy Andrew, LLC | (608) 220-3149 | Handyman | Madison | https://www.handyandrewllc.com/ | madisonhandyandy@gmail.com — https://www.handyandrewllc.com/ | High — phone and email on own site; own site describes a licensed, insured solo handyman who comes to customers' homes across Madison and surrounding communities for appliance installation, furniture assembly, TV mounting and home repairs | Own website |
+| Foxglove Design & Repair | (608) 574-2767 | Handyman | Madison | https://www.foxgloverepair.com/ | None found | High — phone on own site ("CALL 608-574-2767"); own site bills owner Eric Baker as "your friendly neighborhood handyman" in Madison, licensed and insured, doing repair work at customers' homes | Own website; Google Business listing |
+| Dane County Handyman | (608) 206-2878 | Handyman | Madison | http://danecountyhandyman.com/index.html | None found | High — phone printed on own site; own site describes taking care of repair lists at the customer's home ("If you sell your home, the guarantee will transfer") across Dane County, which includes Madison | Own website; Google Business listing |
+| The Madison Handyman | (608) 395-5198 | Handyman | Madison | https://www.themadisonhandyman.com/ | None found | Medium — phone on own site ("Tel: 608-395-5198") with a Madison address (2113 East Johnson St) and on-site home/business improvement work, but its own site also leans heavily on landscaping and snow removal alongside the handyman work, so Medium | Own website |
+| Floor-To-Ceiling Handyman | (608) 292-2928 | Handyman | Madison | http://ftc-handyman.com/ | None found | Medium — own site confirms a Madison handyman doing routine home maintenance, repairs and punch-list work inside customers' homes (testimonials from Madison, Fitchburg, Middleton and Verona homeowners), but the phone appears on its Google Business listing rather than in the own-site text, so Medium | Own website; Google Business listing |
+
+## Dedupe / exclusion notes
+- All 6 included names and phones were checked against ~/workspace/van-squad/prospecting/rotation/day21-dedupe.txt and grepped across all files under ~/workspace/van-squad/prospecting/ (including today's Day 21 wave-1 and wave-2 cells) — no matches; no skips for duplication.
+- Excluded: Jon's Just Handy, Madison — its listed website jonsjusthandy.com is now a parked/lead-gen page ("Parked domain… Links to independent local providers") showing only toll-free (888) 123-4567 / (877) 813-2829 numbers; no distinct local operator with a local phone could be verified from its own materials.
+- Excluded: 1 Man 2 Hands, Madison — its only published number is toll-free (877) 939-9675; toll-free-only listings are excluded under this cell's rules.
+- Excluded: Hands On Residential, (608) 345-6961, Madison 53713 — despite a "Handyman" secondary category on its Google listing, its own website shows it is a home health care / residential support service ("Home Health Care - Hands On Residential"), not a handyman business.
+- Excluded: Column One Pro, (608) 695-7340, Madison — its own website says only "Launching 2026" with no services described, so mobile/on-site handyman work could not be confirmed from the business's own materials.
+- Excluded: Danzinger Do It, (608) 279-3319, Madison — Google listing only in this run; its own website could not be fetched, and the listing's secondary categories include a carpet & flooring store, so on-site handyman service could not be confirmed from its own materials.
+- Excluded: Ace Handyman Services Madison West, (608) 352-3138 — national franchise booking page; no distinct local operator with its own local phone verified separately from the franchise system in this run.
+- Excluded: Servileno Cleaning Handyman Services, (608) 515-7907, and Handsome Handyman, (608) 345-3542, Madison — listing/social-only candidates with no verifiable own website to confirm mobile/on-site service from their own materials.
+- No toll-free-only (800/888/877) numbers were used; every included phone is a local 608 number found on a public source, preferring the business's own site.
+
+## ZIP note
+- No expansion beyond the target cell was needed: 6 qualifying businesses were found for the Madison 53713 cell. All six are Madison-area handymen whose own materials confirm they travel to customers' homes in Madison (Handy Work Madison cites a 56-mile radius around Madison; Handy Andrew lists Madison first in its service area; Foxglove, The Madison Handyman, Floor-To-Ceiling Handyman and Dane County Handyman are Madison/Dane County based). service_zips in the inserts file is ["53713"] for each business, because none of the businesses' own materials state additional service-area ZIP codes — Handy Andrew names surrounding cities but no ZIPs, and no ZIPs were invented.

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "fd601056-6f4e-4e99-a365-d92e33ff0bf0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Work Madison LLC",
+      "category": "Handyman",
+      "phone": "(608) 443-7648",
+      "website": "https://www.handyworkmadison.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53713"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1591e8d9-fdb5-4e68-8f19-b5daa19b45bc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Andrew, LLC",
+      "category": "Handyman",
+      "phone": "(608) 220-3149",
+      "website": "https://www.handyandrewllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53713"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a559580b-7168-4f17-982d-38f4e240d3e8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Foxglove Design & Repair",
+      "category": "Handyman",
+      "phone": "(608) 574-2767",
+      "website": "https://www.foxgloverepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53713"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "92295d61-42df-4860-bfb0-4c518c3a5fb3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dane County Handyman",
+      "category": "Handyman",
+      "phone": "(608) 206-2878",
+      "website": "http://danecountyhandyman.com/index.html",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53713"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "91d223e5-d1e2-4285-8dca-b71e0d837ba5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Madison Handyman",
+      "category": "Handyman",
+      "phone": "(608) 395-5198",
+      "website": "https://www.themadisonhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53713"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "13bdf3f8-e78b-4c71-b8d8-7efa9dbba588",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Floor-To-Ceiling Handyman",
+      "category": "Handyman",
+      "phone": "(608) 292-2928",
+      "website": "http://ftc-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53713"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a161435a-eb50-4648-8d65-b5a0affba85a",
+      "business_id": "fd601056-6f4e-4e99-a365-d92e33ff0bf0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "04356b67-9d1c-4003-9551-02433ba0c59e",
+      "business_id": "1591e8d9-fdb5-4e68-8f19-b5daa19b45bc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d627cc3d-2a09-44d9-aff3-937c610abb7d",
+      "business_id": "a559580b-7168-4f17-982d-38f4e240d3e8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d339bf44-e597-4e06-abbd-62e3b3dafdc9",
+      "business_id": "92295d61-42df-4860-bfb0-4c518c3a5fb3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cb6937ee-b973-4c24-b52e-5c57c2c9c6ec",
+      "business_id": "91d223e5-d1e2-4285-8dca-b71e0d837ba5",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "764d184e-6fb6-4c52-93e6-68bf8354f55e",
+      "business_id": "13bdf3f8-e78b-4c71-b8d8-7efa9dbba588",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "id": "eb3fd229-7d03-4795-8ece-5c9aced66eb6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Appleton Home Repair",
+      "category": "Handyman",
+      "phone": "(920) 931-2694",
+      "website": "http://appletonhomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54911"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8f72bbe5-e04e-4692-8ae8-5f67288ae8cc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "EZ Home Pros",
+      "category": "Handyman",
+      "phone": "(920) 944-8466",
+      "website": "https://ezhomepros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54911",
+        "54913"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3065d260-13b2-4d3e-9d06-65d5586f820b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Blue Orchid Properties",
+      "category": "Handyman",
+      "phone": "(920) 915-7186",
+      "website": "https://www.blueorchidsolutions.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "54911"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d10afe14-742a-49f1-9118-f264d94b2929",
+      "business_id": "eb3fd229-7d03-4795-8ece-5c9aced66eb6",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fe611cfb-115f-4002-944a-42d423812cb6",
+      "business_id": "8f72bbe5-e04e-4692-8ae8-5f67288ae8cc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "71ba368d-e2bc-44b1-91fa-67c8e63c1125",
+      "business_id": "3065d260-13b2-4d3e-9d06-65d5586f820b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

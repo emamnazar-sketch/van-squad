@@ -833,6 +833,43 @@ var ZIP_NAMES = {
   '70810': 'Baton Rouge',
   '70815': 'Baton Rouge',
   '70816': 'Baton Rouge',
+  '53005': 'Brookfield',
+  '53018': 'Hartford',
+  '53029': 'Hartland',
+  '53045': 'Jackson',
+  '53051': 'Menomonee Falls',
+  '53058': 'Nashotah',
+  '53066': 'Oconomowoc',
+  '53069': 'Oconomowoc',
+  '53072': 'Pewaukee',
+  '53089': 'Sussex',
+  '53122': 'River Hills',
+  '53132': 'Franklin',
+  '53146': 'New Berlin',
+  '53151': 'New Berlin',
+  '53183': 'Wales',
+  '53186': 'Waukesha',
+  '53188': 'Waukesha',
+  '53189': 'Waukesha',
+  '53207': 'Bay View, Milwaukee',
+  '53209': 'North Milwaukee',
+  '53211': 'Shorewood, Milwaukee',
+  '53213': 'Wauwatosa',
+  '53214': 'West Allis',
+  '53215': 'South Side, Milwaukee',
+  '53219': 'Southwest Milwaukee',
+  '53226': 'Wauwatosa',
+  '53403': 'Racine',
+  '53704': 'Madison',
+  '53711': 'Madison',
+  '53713': 'Madison',
+  '53717': 'Madison',
+  '54302': 'Green Bay',
+  '54303': 'Green Bay',
+  '54311': 'Green Bay',
+  '54313': 'Green Bay',
+  '54911': 'Appleton',
+  '54913': 'Appleton',
 
 };
 
@@ -899,7 +936,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage) {
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261030c">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261031a">\n' +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
     '.prof-head{padding:34px 0 6px}.p-hero{width:100%;height:300px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 2px}.p-banner{width:100%;height:230px;object-fit:cover;border-radius:18px;display:block;margin:22px 0 -4px}.prof-cat{font-size:13px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--orange)}' +

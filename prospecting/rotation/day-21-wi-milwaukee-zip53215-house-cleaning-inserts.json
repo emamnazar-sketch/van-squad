@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "fbee6fed-2a43-4661-aee1-ffba6dbe84a1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkle Maids",
+      "category": "House cleaning",
+      "phone": "(414) 640-0072",
+      "website": "https://www.sparklemaidswi.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e26e21c5-35db-4f00-bd4f-371e21329db1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "VNJ Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(414) 614-0038",
+      "website": "http://www.vnjcleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "adda2e81-3a1b-4872-81ea-aa97890b14e8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Diamond Shines Cleaning",
+      "category": "House cleaning",
+      "phone": "(414) 510-1047",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ae6a31d-820f-4cfd-8bab-a5f1edc4de84",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carla & The Girls Cleaning",
+      "category": "House cleaning",
+      "phone": "(414) 775-5518",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "033d4eda-882e-4be5-a493-cb65a77d8804",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning lady and company",
+      "category": "House cleaning",
+      "phone": "(414) 366-2210",
+      "website": "http://www.facebook.com/cleaningladyandcompany",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "96d370b1-7511-42f1-9428-71c8bf78f5d6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Milwaukee Cleaning Solutions",
+      "category": "House cleaning",
+      "phone": "(414) 588-4439",
+      "website": "http://milwaukeecleaningsolutions.com/about-us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "948a5251-ad3f-405a-9c18-6f517a34f2b5",
+      "business_id": "fbee6fed-2a43-4661-aee1-ffba6dbe84a1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5de7d5df-1d95-43ad-a450-10b847c20945",
+      "business_id": "e26e21c5-35db-4f00-bd4f-371e21329db1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7236081d-e4f3-45d0-aa69-9356b93e6527",
+      "business_id": "adda2e81-3a1b-4872-81ea-aa97890b14e8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7e9b8b99-d239-43d1-9c22-83fea07c721e",
+      "business_id": "8ae6a31d-820f-4cfd-8bab-a5f1edc4de84",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5f39fd0a-72c3-4163-a1bb-430e16a80a0a",
+      "business_id": "033d4eda-882e-4be5-a493-cb65a77d8804",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "08727026-61c2-4de0-9b3e-319c25970fcc",
+      "business_id": "96d370b1-7511-42f1-9428-71c8bf78f5d6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

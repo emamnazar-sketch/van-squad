@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "8b94fa6e-8d87-46c7-b176-f82a2afdd197",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wiscon Power Washing",
+   "category": "Pressure washing",
+   "phone": "(262) 358-6337",
+   "website": "http://www.wisconpowerwashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53403"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "989ba7eb-efe2-4865-a05d-fafe33364026",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wash Me Windows",
+   "category": "Pressure washing",
+   "phone": "(262) 705-3026",
+   "website": "https://washmewindows.com/surface-cleaning/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53403"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "31433773-2d81-4565-83b2-d55e7e626b0b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rains Softwash LLC",
+   "category": "Pressure washing",
+   "phone": "(414) 852-5266",
+   "website": "https://rainssoftwashllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53403"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e2df4f32-04c8-43e8-a3e1-52ed62992e18",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Southpaw Exterior Services LLC",
+   "category": "Pressure washing",
+   "phone": "(414) 944-0740",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "53403"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "e08518a3-eb76-4909-8a38-f1f8e3421f97",
+   "business_id": "8b94fa6e-8d87-46c7-b176-f82a2afdd197",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d9401927-f677-4b8e-b491-2d5d8435c0b9",
+   "business_id": "989ba7eb-efe2-4865-a05d-fafe33364026",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "33e6a68c-f6fb-41fc-afa7-e348e7392d8e",
+   "business_id": "31433773-2d81-4565-83b2-d55e7e626b0b",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ce48e0eb-9956-426e-8369-0cbf601a931d",
+   "business_id": "e2df4f32-04c8-43e8-a3e1-52ed62992e18",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

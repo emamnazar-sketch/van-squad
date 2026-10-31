@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "31587479-7748-450f-91f1-39f2de7de260",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Supreme Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(262) 899-8081",
+      "website": "https://supreme-auto-detailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53186"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "00803f67-5716-4375-b40b-8585a7b1593b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Detailing Delivered",
+      "category": "Mobile auto detailing",
+      "phone": "(262) 490-5009",
+      "website": "https://detailingdeliveredwi.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53186"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2b02292d-0cc6-48de-8096-32ba2ca88418",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "5S Detailing LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(641) 330-9625",
+      "website": "https://5sdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53186"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "efbd9b69-fc73-44a5-b9bd-c3bffbecff54",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Frankie's Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(262) 442-5625",
+      "website": "https://www.frankiesautospa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "53186"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "2eb87b9d-8fa3-403c-bf39-01b42b15c6f0",
+      "business_id": "31587479-7748-450f-91f1-39f2de7de260",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b829eb9e-7639-498d-a41b-48d0a31aad61",
+      "business_id": "00803f67-5716-4375-b40b-8585a7b1593b",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "de4d2a34-0355-4cf5-a08a-fb081a5df803",
+      "business_id": "2b02292d-0cc6-48de-8096-32ba2ca88418",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0da5ef0d-6415-48d5-81f2-33425d48366a",
+      "business_id": "efbd9b69-fc73-44a5-b9bd-c3bffbecff54",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
