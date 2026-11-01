@@ -31,3 +31,6 @@ Sources: Business's own website first, then public listings (Google Business / p
 ## ZIP note
 - Expansion was needed: only two included businesses are based in Oak Park itself (HandyHuman at 1015 S Kenilworth Ave, Oak Park 60304, and Sjostrom at 1012 Clinton Ave, Oak Park 60304 — both adjacent Oak Park ZIP 60304), and the rest are tri-village businesses in directly adjacent River Forest (60305) / Forest Park (60130) whose own sites explicitly serve Oak Park. All six serve ZIP 60302.
 - service_zips in inserts.json is ["60302"] only for every business, because none of the businesses publish a specific ZIP list — they publish city/area service names (Oak Park, River Forest, Forest Park, western suburbs / Chicagoland), and ZIPs were not invented.
+
+## Coordinator correction (2026-11-01, post-deploy)
+The Handyman Next Door was inserted on a report-only "PASS" that a later independent verifier and the coordinator's own searches contradicted — zero public trace of the name, phone, or domain. Its row (and listing) was set to status "removed" the same day. The cell's verified contribution is 4: The Oak Park HandyHuman Inc., Oak Park Handy Co., Moore Handyman Solutions LLC, Andy Sjostrom Handyman Services. Kraken Home Services and Near Me Handyman Services LLC remain excluded (verifiers disagreed on Near Me; exclusion is the safe direction).

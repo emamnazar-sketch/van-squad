@@ -43,3 +43,6 @@
 ## ZIP note
 
 No expansion was needed: six businesses qualify for Schaumburg without leaving the cell — three are based in Schaumburg itself and the other three explicitly name Schaumburg in their own stated service areas. No business in this batch publishes its own served-ZIP list, so service_zips = ["60173"] rests on each business's stated Schaumburg service (the target ZIP is Schaumburg's central ZIP); no ZIPs were invented.
+
+## Coordinator correction (2026-11-01, post-deploy)
+Premier Detail's phone was restored to the file's verified (708) 580-8759 (its own site's FAQ and its Places listing) after an in-run "correction" to (708) 981-3351 proved unsupported — that number appears nowhere in connection with the business. Velvaire Auto Detail and Premiere Mobile Car Detailing remain excluded from the run; a later verifier passed their file versions — safe-direction exclusions, may be re-researched on a future night. 4kDetailers was kept: a Places listing confirms its exact name (which itself claims mobile service), phone, Schaumburg address, and category, consistent with listing-only inclusions elsewhere tonight.
