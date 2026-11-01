@@ -20,7 +20,7 @@ function arg(name, dflt) {
   return i >= 0 ? args[i + 1] : dflt;
 }
 const dumpPath = arg('businesses', '');
-const VERSION = arg('version', '20261031d');
+const VERSION = arg('version', '20261031i');
 if (!dumpPath) { console.error('Missing --businesses <dump.json>'); process.exit(2); }
 
 const businesses = JSON.parse(fs.readFileSync(dumpPath, 'utf8'));
@@ -195,7 +195,7 @@ function headerHtml(v) {
 function footerHtml(v) {
   return '<footer class="site-footer"><div class="wrap footer-inner"><div class="footer-brand"><img class="footer-logo-img" src="/img/logo-icon.png?v=' + v + '" alt="" aria-hidden="true"><div><strong>Van Squads</strong><p>Local services. At your door.</p></div></div>' +
     '<nav class="footer-nav" aria-label="Footer"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a><a href="/#/about">About</a><a href="/#/contact">Contact</a><a href="/#/privacy">Privacy</a><a href="/#/terms">Terms</a></nav></div>' +
-    '<div class="wrap footer-fine">Van Squads is a directory, not the service provider. Service and payment terms are arranged directly with each business.</div></footer>' +
+    '<div class="wrap footer-fine">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose. Service and payment terms are arranged directly with each business.</div></footer>' +
     '<script>var b=document.getElementById("menu-btn"),n=document.getElementById("mobile-nav");if(b&&n){b.addEventListener("click",function(){var o=n.classList.toggle("open");b.setAttribute("aria-expanded",o);});}</script>';
 }
 

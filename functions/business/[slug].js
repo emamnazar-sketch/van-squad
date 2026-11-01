@@ -1344,7 +1344,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage, headExtra)
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261031f">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261031i">\n' +
     (headExtra || '') +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
@@ -1550,6 +1550,7 @@ export async function onRequest({ request, env, params }) {
     '.pv-cred:last-child{border-bottom:none}' +
     '.pv-cred .k{color:var(--muted)}.pv-cred .v{font-weight:700;color:#1F2B3A;text-align:right}' +
     '.pv-cred .v.ok{color:#177245}.pv-cred .v.notyet{color:#E2571B}' +
+    '.pv-match{font-size:16px;line-height:1.55;color:#1F2B3A;background:#FFF0E6;border-left:4px solid #FF6A2B;border-radius:12px;padding:16px 18px;margin:-14px 0 30px}' +
     '@media(min-width:900px){.pv-cols{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:28px;align-items:start}.pv-side{order:0;position:sticky;top:20px}.pv-contact{margin:30px 0 20px}}' +
     '</style>\n';
   var pvBody =
@@ -1575,6 +1576,7 @@ export async function onRequest({ request, env, params }) {
     (pvZipChips ? '<div class="pv-chips" style="margin-top:12px">' + pvZipChips + '</div>' : '') +
     '</section>' +
     '<section class="pv-blk"><h2>Business details</h2><div class="pv-creds">' + pvDetails + '</div></section>' +
+    '<p class="pv-match">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.</p>' +
     relHtml +
     '</div>' +
     '<aside class="pv-side"><div class="pv-contact"><h2>Contact this business</h2>' +

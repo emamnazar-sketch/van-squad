@@ -106,7 +106,7 @@ function footerHtml() {
     '<a href="/#/privacy">Privacy</a>' +
     '<a href="/#/terms">Terms</a>' +
     '</nav></div>' +
-    '<div class="wrap footer-fine">Van Squads is a directory, not the service provider. Service and payment terms are arranged directly with each business.</div></footer>';
+    '<div class="wrap footer-fine">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose. Service and payment terms are arranged directly with each business.</div></footer>';
 }
 
 function jsonLd(p, url, img) {
