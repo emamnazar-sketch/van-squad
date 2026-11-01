@@ -36,3 +36,9 @@
 ## Excluded
 
 - **MaidPro Chicago - Lincoln Park — EXCLUDED (phone conflict).** Inserts file phone: (773) 245-0570. That number appears only on a third-party aggregator (trustanalytica.org). The business's OWN website, https://www.maidpro.com/lincoln-park-il, publishes a different phone throughout — (312) 702-2610 (header, footer and contact blocks) — and never shows (773) 245-0570 (checked by full-page read + in-page find). Everything else checks out: locally owned franchise (owner Alan Berni, since 2019), residential house cleaning at the customer's home in Chicago-Lincoln Park, service areas Gold Coast / Lakeview / Edgewater, website correct. Under the own-site-preference rule this business must NOT be inserted with the file's phone; it can be re-added only with the own-site phone (312) 702-2610 after coordinator approval. The verifier did not edit the inserts file.
+
+## Coordinator addendum (2026-11-01, post-verification)
+- Fresh Tech Maid was researched in both the 60614 and Evanston 60201 cells. Inserted ONCE (Evanston row) with its service area merged to include 60614 — no duplicate profile.
+- MaidPro Chicago - Lincoln Park: the phone first filed came from an aggregator listing. Independent verification confirmed the business's own site publishes (312) 702-2610; the profile carries that number.
+- FCS Cleaning Services: its own site publishes two numbers — (872) 302-4040 in the header and (847) 648-1934 on the contact page. The profile carries the contact-page number; the header number should be confirmed at claim time.
+- U Have It Maid appears as "U Have It Maid Chicago" here because an unrelated business with the exact same name already exists in Spring, TX.
