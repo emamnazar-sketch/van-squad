@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "87168f7a-c392-473b-a180-73e49de04596",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gamino's Handyman",
+      "category": "Handyman",
+      "phone": "(708) 539-9296",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "32fac53c-3e5a-4ce6-8b2f-4cab455bf807",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rocinante Repairs",
+      "category": "Handyman",
+      "phone": "(630) 562-6791",
+      "website": "https://rocinante-repairs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aa488d7d-9ac8-41e6-bef5-f8e014d37ba1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AYG Home Service",
+      "category": "Handyman",
+      "phone": "(312) 285-6709",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6c0ca731-0b85-4411-811f-e0a26c3a36a1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fix It People",
+      "category": "Handyman",
+      "phone": "(312) 898-9300",
+      "website": "https://www.fixitpeople.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fc066b6c-ceb9-43cc-b43f-6d6c86898f8c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Samanco Construction",
+      "category": "Handyman",
+      "phone": "(773) 298-0620",
+      "website": "https://samanco.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9126333f-6c1d-4876-a309-f7fed6d0bd05",
+      "business_id": "87168f7a-c392-473b-a180-73e49de04596",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bce05f4c-268f-4a46-b8b3-71828d7a02e1",
+      "business_id": "32fac53c-3e5a-4ce6-8b2f-4cab455bf807",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a4169c47-4853-4bb1-a412-007fc5b97c30",
+      "business_id": "aa488d7d-9ac8-41e6-bef5-f8e014d37ba1",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "70ceee48-a812-4369-b71f-0c766cb48e08",
+      "business_id": "6c0ca731-0b85-4411-811f-e0a26c3a36a1",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3a80d113-4d64-477f-a42f-c1878d7354ec",
+      "business_id": "fc066b6c-ceb9-43cc-b43f-6d6c86898f8c",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

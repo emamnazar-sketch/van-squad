@@ -1,0 +1,176 @@
+{
+ "businesses": [
+  {
+   "id": "a0efef35-5148-4435-9100-497005a29469",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "BTR Wash Pros",
+   "category": "Pressure washing",
+   "phone": "(312) 525-0520",
+   "website": "https://powerwasherswindowcleanersnorthshore.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60634"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b28c692a-413c-4aba-8e01-311d04983571",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "My Window Washing",
+   "category": "Pressure washing",
+   "phone": "(773) 377-4600",
+   "website": "https://www.mywindowwashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60634",
+    "60646"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1b0927c3-6cc9-4b28-b1b1-232dd0ca02bd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Chicagoland Deck Cleaning & Sealing",
+   "category": "Pressure washing",
+   "phone": "(773) 348-4516",
+   "website": "https://deck-sealing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60634",
+    "60656"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e01aff72-f3eb-4ac9-98ee-c526dd0a48db",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Stringer and Sons Power Washing Company",
+   "category": "Pressure washing",
+   "phone": "(312) 521-0626",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60634"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e73d6fd8-bcca-4163-8771-fd83f4b83b4e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bubbles Window Washing & Gutter Cleaning",
+   "category": "Pressure washing",
+   "phone": "(773) 529-6255",
+   "website": "http://www.bubbleswindowcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60634"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "56ea9c0c-21a7-4ef4-8644-6cd3c3980f4f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ClearView Window & Gutter Cleaning, LLC",
+   "category": "Pressure washing",
+   "phone": "(312) 437-3655",
+   "website": "http://clearviewwgc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60634"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d190ab0e-d631-4bdc-b71b-4458c9248310",
+   "business_id": "a0efef35-5148-4435-9100-497005a29469",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "41c15931-078d-4fa3-b9d8-77d5f98504f9",
+   "business_id": "b28c692a-413c-4aba-8e01-311d04983571",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c946ed7b-6e3d-4d82-807d-a3cb6ef9fa05",
+   "business_id": "1b0927c3-6cc9-4b28-b1b1-232dd0ca02bd",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4f310dac-a7f8-413b-973a-8ae9f37f2271",
+   "business_id": "e01aff72-f3eb-4ac9-98ee-c526dd0a48db",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1969375b-ef82-45a4-bc00-b155654daf35",
+   "business_id": "e73d6fd8-bcca-4163-8771-fd83f4b83b4e",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5826ff54-3776-494c-9365-0bdb1a486193",
+   "business_id": "56ea9c0c-21a7-4ef4-8644-6cd3c3980f4f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

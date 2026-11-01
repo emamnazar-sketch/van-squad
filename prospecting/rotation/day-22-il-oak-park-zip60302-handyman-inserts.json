@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "d56d255b-3442-4f4a-9089-2fc9c15b5170",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Oak Park HandyHuman, Inc.",
+   "category": "Handyman",
+   "phone": "(708) 303-8615",
+   "website": "https://www.theoakparkhandyhumaninc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60302"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "253c1dad-456e-48ea-a7bb-5a084e11911d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Oak Park Handy Co.",
+   "category": "Handyman",
+   "phone": "(708) 512-4899",
+   "website": "https://oakparkhandyco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60302"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7a484cc7-aeb2-4dd3-ac39-da62951bdf8e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Moore Handyman Solutions LLC",
+   "category": "Handyman",
+   "phone": "(630) 796-0978",
+   "website": "https://www.moorehandymansolutions.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60302"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4998405d-0ab3-4660-bfe4-ad6f85a96a04",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Andy Sjostrom Handyman Services",
+   "category": "Handyman",
+   "phone": "(708) 833-3830",
+   "website": "http://www.sjoreno.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60302"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f762548c-58be-487f-93ba-c07284d250a1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Handyman Next Door",
+   "category": "Handyman",
+   "phone": "(708) 320-8743",
+   "website": "https://www.handymannextdoor.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60302"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "ca041d83-d4ca-4cc5-a3a0-b4cab0a1948f",
+   "business_id": "d56d255b-3442-4f4a-9089-2fc9c15b5170",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "00af8735-20bc-43a1-b172-5ded1376ea72",
+   "business_id": "253c1dad-456e-48ea-a7bb-5a084e11911d",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9b6a1194-7df5-421c-b3c3-78f6c8f49a4a",
+   "business_id": "7a484cc7-aeb2-4dd3-ac39-da62951bdf8e",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "38a805ae-3053-412e-b7f9-c2cde45892c5",
+   "business_id": "4998405d-0ab3-4660-bfe4-ad6f85a96a04",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "42539942-9f23-4c91-8c35-1b967d0d6064",
+   "business_id": "f762548c-58be-487f-93ba-c07284d250a1",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

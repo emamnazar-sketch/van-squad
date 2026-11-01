@@ -1,0 +1,216 @@
+{
+ "businesses": [
+  {
+   "id": "5a1e0eee-ba85-406a-ac05-23c653a475dc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All Hours Cleaning Services Chicago",
+   "category": "Deep cleaning",
+   "phone": "(219) 946-5746",
+   "website": "https://allhourscleaningchicago.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651",
+    "60607",
+    "60608",
+    "60610",
+    "60612",
+    "60614",
+    "60618",
+    "60622",
+    "60623",
+    "60624",
+    "60634",
+    "60639",
+    "60641",
+    "60644",
+    "60647"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b8c39b22-9822-4a53-b38e-4ef14d2586e1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Always Green Cleaning Services Chicago",
+   "category": "Deep cleaning",
+   "phone": "(872) 356-0166",
+   "website": "https://alwaysgreencleaningserviceschicago.com/house-cleaning-services-humboldt-park",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9258b873-4fe6-4f90-9eff-60559b350775",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean Bean",
+   "category": "Deep cleaning",
+   "phone": "(872) 221-1559",
+   "website": "https://hellocleanbean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "99e63305-e526-43c7-9099-7bf4bdf9cb32",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Deep Cleaning Chicago",
+   "category": "Deep cleaning",
+   "phone": "(224) 777-0083",
+   "website": "https://www.deepcleaningchicago.net/domestic-cleaners",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "02d311d1-67c7-4899-ad54-5b3a49d932bb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "LizMarie Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(773) 798-2008",
+   "website": "https://www.lizmariecleaningservices.com/cleaning-services",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9b6e3a6b-7fc7-43ff-a618-cc5b81545b7b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ramos Quality",
+   "category": "Deep cleaning",
+   "phone": "(312) 522-3219",
+   "website": "https://cleaningservicechicagoill.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "98979ca9-9266-45ff-8c3a-66b3211e8a8b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tidy Nest Services",
+   "category": "Deep cleaning",
+   "phone": "(773) 419-3537",
+   "website": "https://tidynestservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60651"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "8ea9b057-39f9-42b1-a640-56d412d33941",
+   "business_id": "5a1e0eee-ba85-406a-ac05-23c653a475dc",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "54e745ba-f87a-4ea6-9ca3-449349df45a7",
+   "business_id": "b8c39b22-9822-4a53-b38e-4ef14d2586e1",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "91026342-b480-4294-824d-d9c95bb47e34",
+   "business_id": "9258b873-4fe6-4f90-9eff-60559b350775",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6ba2f1fa-afa0-4e0c-a065-86f08815606f",
+   "business_id": "99e63305-e526-43c7-9099-7bf4bdf9cb32",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5a850c9c-416a-443f-b85e-180543592f83",
+   "business_id": "02d311d1-67c7-4899-ad54-5b3a49d932bb",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d9274b75-4ec4-47d8-8738-199db180b2c9",
+   "business_id": "9b6e3a6b-7fc7-43ff-a618-cc5b81545b7b",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1647a961-f134-4074-bfd3-e8839dfb0cb0",
+   "business_id": "98979ca9-9266-45ff-8c3a-66b3211e8a8b",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

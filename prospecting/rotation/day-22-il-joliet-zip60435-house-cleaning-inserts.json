@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "4cf76b09-d879-4694-a093-5b96532cafeb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Minute Maids Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(815) 710-6438",
+      "website": "http://minutemaidscleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "99e5791c-20fd-4f3f-abb1-03d47bb9d7b0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vibrant Home Services",
+      "category": "House cleaning",
+      "phone": "(331) 244-0174",
+      "website": "http://vibranthomeservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c83acafc-06c5-4485-a553-6a45c0ed0534",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prime Polish & Co",
+      "category": "House cleaning",
+      "phone": "(815) 200-9540",
+      "website": "https://www.prime-polish.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3cf503d2-668b-41b2-be98-0251ac62a5fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "It Looks So Amazing LLC",
+      "category": "House cleaning",
+      "phone": "(779) 227-7878",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b6a0d967-e88b-44ff-b100-672a932a1df7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Monae's Blessing Residential and Commercial Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(815) 909-8787",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b43004c2-2457-494d-8451-b3e2a3138a0f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Joliet",
+      "category": "House cleaning",
+      "phone": "(708) 575-5117",
+      "website": "https://www.maidpro.com/joliet",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cd512cac-a0f1-4d9c-9f73-b6a53658983f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kesap Clean House Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(815) 609-4081",
+      "website": "https://kesapclean.com/contact-us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3c1b7b30-5c37-4968-86f5-92cb100021d2",
+      "business_id": "4cf76b09-d879-4694-a093-5b96532cafeb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "218bebd4-d28d-42fa-9759-48bbea922e44",
+      "business_id": "99e5791c-20fd-4f3f-abb1-03d47bb9d7b0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "27cac9ab-7444-4e30-834e-a6ad7342607a",
+      "business_id": "c83acafc-06c5-4485-a553-6a45c0ed0534",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "368b88aa-cac4-4c13-a3ff-9dd0daa8a088",
+      "business_id": "3cf503d2-668b-41b2-be98-0251ac62a5fa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2c215e59-f0e8-426d-bb4f-740a880fa5a6",
+      "business_id": "b6a0d967-e88b-44ff-b100-672a932a1df7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2defead0-1e2b-4b3a-a16c-ce98b4460e3f",
+      "business_id": "b43004c2-2457-494d-8451-b3e2a3138a0f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1a1eabbb-7861-4d0b-acd6-de83f9a7313d",
+      "business_id": "cd512cac-a0f1-4d9c-9f73-b6a53658983f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

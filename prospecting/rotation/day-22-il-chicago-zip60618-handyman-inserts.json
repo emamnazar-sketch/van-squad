@@ -1,0 +1,129 @@
+{
+ "businesses": [
+  {
+   "id": "372c3024-d5a7-40f4-9adf-3cecfceab44a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handy Men & Mrs. Helper",
+   "category": "Handyman",
+   "phone": "(312) 561-5615",
+   "website": "https://www.handymenmrshhelper.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60618",
+    "60657",
+    "60647",
+    "60642",
+    "60639"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ac61da29-9e4f-42cf-96d5-d11da5289f80",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handyman Connection of Lincoln Park",
+   "category": "Handyman",
+   "phone": "(773) 937-8008",
+   "website": "https://handymanconnection.com/lincoln-park/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60618",
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "35ae9035-699d-403d-98ed-ad4300c75c09",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Punch List Pros LLC",
+   "category": "Handyman",
+   "phone": "(773) 819-6161",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60618",
+    "60657",
+    "60614",
+    "60647",
+    "60622",
+    "60642"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "611a3d8e-6671-48f5-a66e-eec1792b7adb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Chicago Handyman",
+   "category": "Handyman",
+   "phone": "(773) 982-5500",
+   "website": "https://chicagohandyman.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60618",
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "82a93343-0d54-4691-b6b5-fab63a4f2fd1",
+   "business_id": "372c3024-d5a7-40f4-9adf-3cecfceab44a",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7814a18a-6dec-4fa6-8ea9-564175d6bef1",
+   "business_id": "ac61da29-9e4f-42cf-96d5-d11da5289f80",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "25e43a72-df98-4875-a1e1-21c73bd30109",
+   "business_id": "35ae9035-699d-403d-98ed-ad4300c75c09",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "99ff3aa0-1669-4838-9416-a186948a3c10",
+   "business_id": "611a3d8e-6671-48f5-a66e-eec1792b7adb",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

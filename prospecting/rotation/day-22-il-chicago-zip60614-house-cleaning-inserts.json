@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "87e25f5a-df22-4893-bc04-159185f54166",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sparkly Maid",
+   "category": "House cleaning",
+   "phone": "(224) 214-0145",
+   "website": "https://sparklymaid.com/chicago-move-out-cleaning-service",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3b57cf3b-62b0-4348-9ced-3e8a23f72920",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "House Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(773) 302-8706",
+   "website": "https://housecleaningserviceschicago.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d41183e6-de25-474f-afc6-a8237517c7b6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "U Have It Maid Chicago",
+   "category": "House cleaning",
+   "phone": "(312) 460-2540",
+   "website": "http://uhaveitmaidchicago.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "96c9795f-7228-49de-8752-94023d8af721",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sunday Cleaners",
+   "category": "House cleaning",
+   "phone": "(224) 505-8992",
+   "website": "https://sundaycleaner.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b40fe63e-4ea5-4bad-8daf-3e2e26575e6b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Detailed Cleaning",
+   "category": "House cleaning",
+   "phone": "(224) 422-6095",
+   "website": "https://clean3b.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5786f580-dc95-44c7-8187-d41ce907c388",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Parker Sky Cleaning Solutions",
+   "category": "House cleaning",
+   "phone": "(312) 544-9466",
+   "website": "http://www.parkersky.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5eb1e4d3-0e81-49b8-84cf-eb012d8eda9f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Chicago - Lincoln Park",
+   "category": "House cleaning",
+   "phone": "(312) 702-2610",
+   "website": "https://www.maidpro.com/lincoln-park-il",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0371e15f-5198-4fb9-8d7f-bc95301030ce",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "FCS Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(847) 648-1934",
+   "website": "https://fcscleaningservicesil.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "767d8dd8-d39f-45bd-8d56-81421b7508ed",
+   "business_id": "87e25f5a-df22-4893-bc04-159185f54166",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0ca980d9-4404-4f7a-8cef-7eb3d7618924",
+   "business_id": "3b57cf3b-62b0-4348-9ced-3e8a23f72920",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9c93ea8e-99a4-4d39-b86f-1333d2a2b089",
+   "business_id": "d41183e6-de25-474f-afc6-a8237517c7b6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c118e615-8390-4b07-b596-a330f1d4e5a5",
+   "business_id": "96c9795f-7228-49de-8752-94023d8af721",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "338911e9-7f1c-484e-b24c-ade86d6cfa2e",
+   "business_id": "b40fe63e-4ea5-4bad-8daf-3e2e26575e6b",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "009d9962-03e8-42b1-b2ea-d80374597bdb",
+   "business_id": "5786f580-dc95-44c7-8187-d41ce907c388",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "34e18c23-1736-4fac-88c2-95c92e4ce3db",
+   "business_id": "5eb1e4d3-0e81-49b8-84cf-eb012d8eda9f",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c0b03e4c-3998-48b6-95e7-f23cf8e630e2",
+   "business_id": "0371e15f-5198-4fb9-8d7f-bc95301030ce",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

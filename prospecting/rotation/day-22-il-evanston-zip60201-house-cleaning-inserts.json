@@ -1,0 +1,210 @@
+{
+ "businesses": [
+  {
+   "id": "0036d1c6-9942-4ae7-ab56-19b96967a8bb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dial A Maid USA",
+   "category": "House cleaning",
+   "phone": "(847) 869-6243",
+   "website": "https://www.dialamaidusa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "10504219-58a0-4242-a6c0-53eb2a360453",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Evanston",
+   "category": "House cleaning",
+   "phone": "(847) 869-2005",
+   "website": "https://www.maidpro.com/evanston/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "40fbc1fe-d8c2-4d85-a94f-732f753f787d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fresh Tech Maid",
+   "category": "House cleaning",
+   "phone": "(847) 392-0888",
+   "website": "https://www.freshtechmaids.com/maid-service-evanston",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201",
+    "60202",
+    "60203",
+    "60204",
+    "60208",
+    "60076",
+    "60077",
+    "60614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "198b4908-64c7-4331-ae6c-7f6a1ee473c6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Maids in Northshore",
+   "category": "House cleaning",
+   "phone": "(847) 328-0079",
+   "website": "https://www.maids.com/92/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c642746e-b063-4d6f-8f9d-834d497e706d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Purify The Cleaning Company",
+   "category": "House cleaning",
+   "phone": "(773) 747-7005",
+   "website": "https://purifyil.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0d9ca0f3-2ff4-4637-b6ac-470d84873b68",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maries Maid Inc",
+   "category": "House cleaning",
+   "phone": "(312) 473-5546",
+   "website": "https://cleaningmariesmaidinc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f29a72bb-0b90-453b-bf1f-66f24a3f2a2d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Evanston Cleaning Company",
+   "category": "House cleaning",
+   "phone": "(847) 440-1423",
+   "website": "https://evanstoncleaningcompany.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60201",
+    "60202"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "67bc582e-6d7c-4467-9729-11756b477be5",
+   "business_id": "0036d1c6-9942-4ae7-ab56-19b96967a8bb",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dbebd349-f4d9-476b-a419-386e7673344e",
+   "business_id": "10504219-58a0-4242-a6c0-53eb2a360453",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b48372f9-74ca-4109-8829-9d3e158461af",
+   "business_id": "40fbc1fe-d8c2-4d85-a94f-732f753f787d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fa1b0676-3700-499a-9a2e-232df4beda01",
+   "business_id": "198b4908-64c7-4331-ae6c-7f6a1ee473c6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3305bf25-8ff9-4342-aebe-1e689a07126e",
+   "business_id": "c642746e-b063-4d6f-8f9d-834d497e706d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b16c8f4c-67bc-4e48-b809-347a9c12c925",
+   "business_id": "0d9ca0f3-2ff4-4637-b6ac-470d84873b68",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "07cde492-d23a-463d-bc05-3cb05c37f28e",
+   "business_id": "f29a72bb-0b90-453b-bf1f-66f24a3f2a2d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

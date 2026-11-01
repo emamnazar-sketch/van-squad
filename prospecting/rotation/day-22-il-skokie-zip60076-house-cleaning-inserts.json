@@ -1,0 +1,176 @@
+{
+ "businesses": [
+  {
+   "id": "624ff043-cfa6-478c-a6c1-4cc527f17d83",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Skokie Maid and Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(847) 679-8548",
+   "website": "http://www.skokiemaid.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60076",
+    "60077"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "81ed7258-7c9c-45d2-b626-3d6d9e6a904b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ravinia Maid Service",
+   "category": "House cleaning",
+   "phone": "(847) 448-0608",
+   "website": "https://www.raviniamaidservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60076",
+    "60077"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4165b336-69fc-4c8b-8b4d-77b1234496c9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Green Maid, Inc.",
+   "category": "House cleaning",
+   "phone": "(847) 329-8686",
+   "website": "http://www.greenmaidinc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60076"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "30c2145f-5ce7-4603-95f0-788ee3b67eff",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Evanston & Skokie",
+   "category": "House cleaning",
+   "phone": "(847) 449-6941",
+   "website": "https://merrymaids.com/home-cleaners-skokie-il",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60076"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "43e4474f-0874-4dd3-83ea-6b84bf495c09",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Val's Services",
+   "category": "House cleaning",
+   "phone": "(773) 698-9497",
+   "website": "https://valsservicescleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60076"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7aca17cf-7350-4037-aa93-bd99f6313123",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Emerald Maids Chicago",
+   "category": "House cleaning",
+   "phone": "(773) 596-1215",
+   "website": "https://emeraldmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60076"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "7fb91842-3a23-47a5-80a0-051a63a16f3f",
+   "business_id": "624ff043-cfa6-478c-a6c1-4cc527f17d83",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d3f7757f-91a0-4f14-8093-e1982360a1ec",
+   "business_id": "81ed7258-7c9c-45d2-b626-3d6d9e6a904b",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6502e237-ceac-4265-b6c0-381cf0b8b9fd",
+   "business_id": "4165b336-69fc-4c8b-8b4d-77b1234496c9",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ca2f2956-aac8-4ed3-a468-52275a4a99a5",
+   "business_id": "30c2145f-5ce7-4603-95f0-788ee3b67eff",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "180e6db4-8235-469e-bc2f-4406e2c24e43",
+   "business_id": "43e4474f-0874-4dd3-83ea-6b84bf495c09",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6a633ec1-2407-4de1-875a-578d275e0bc9",
+   "business_id": "7aca17cf-7350-4037-aa93-bd99f6313123",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

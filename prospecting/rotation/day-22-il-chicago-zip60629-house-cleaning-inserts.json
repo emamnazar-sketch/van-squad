@@ -1,0 +1,121 @@
+{
+ "businesses": [
+  {
+   "id": "9db9feca-78c3-4d21-bfd7-c9bd9e78b04a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Karen's Green Maids",
+   "category": "House cleaning",
+   "phone": "(773) 538-3031",
+   "website": "https://karensgreenmaids.com/maid-service-garfield-ridge-chicago",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60629",
+    "60632",
+    "60638",
+    "60804"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "224425d9-0537-4049-88bd-63ed5a6f8647",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Companion Maids",
+   "category": "House cleaning",
+   "phone": "(773) 346-6714",
+   "website": "https://companionmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60629"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0308b02f-1dcd-4434-8ff3-64f56333eb48",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Flawless Cleaning",
+   "category": "House cleaning",
+   "phone": "(773) 780-8648",
+   "website": "http://www.flawlesshousecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60629"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4ae38977-3d15-4cf7-bf85-d3d84bb2aa5c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lidia's Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(773) 494-7514",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60629"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d235a641-ead1-4723-ae72-fd87b3b0fc62",
+   "business_id": "9db9feca-78c3-4d21-bfd7-c9bd9e78b04a",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "bce7688b-c3cc-451e-b364-99a07e965e77",
+   "business_id": "224425d9-0537-4049-88bd-63ed5a6f8647",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3d9d4104-3671-499a-af38-8214cbf82c03",
+   "business_id": "0308b02f-1dcd-4434-8ff3-64f56333eb48",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "70483324-717b-4d18-a6ca-9146dbfc8643",
+   "business_id": "4ae38977-3d15-4cf7-bf85-d3d84bb2aa5c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

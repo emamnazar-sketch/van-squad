@@ -10788,5 +10788,635 @@
   "image": "images/business/southpaw-exterior-services-llc.jpg",
   "scene": "Worker pressure-washing a concrete driveway in front of a two-story home, wand spray touching the concrete, wheeled washer unit beside him",
   "created": "2026-10-31"
+ },
+ "4b525a5d-29d3-43aa-908d-d777833624d4": {
+  "business": "Chicago Handy",
+  "image": "images/business/chicago-handy.jpg",
+  "scene": "Handyman mounting a TV wall bracket with a level in a Chicago apartment living room",
+  "created": "2026-11-01"
+ },
+ "87e25f5a-df22-4893-bc04-159185f54166": {
+  "business": "Sparkly Maid",
+  "image": "images/business/sparkly-maid.jpg",
+  "scene": "Cleaner wiping a white kitchen island counter in a bright Chicago condo kitchen",
+  "created": "2026-11-01"
+ },
+ "3b57cf3b-62b0-4348-9ced-3e8a23f72920": {
+  "business": "House Cleaning Services",
+  "image": "images/business/house-cleaning-services.jpg",
+  "scene": "Cleaner vacuuming a living-room rug in a Chicago brick two-flat apartment",
+  "created": "2026-11-01"
+ },
+ "d41183e6-de25-474f-afc6-a8237517c7b6": {
+  "business": "U Have It Maid Chicago",
+  "image": "images/business/u-have-it-maid-chicago.jpg",
+  "scene": "Cleaner dusting a wooden staircase banister inside a Chicago greystone",
+  "created": "2026-11-01"
+ },
+ "96c9795f-7228-49de-8752-94023d8af721": {
+  "business": "Sunday Cleaners",
+  "image": "images/business/sunday-cleaners.jpg",
+  "scene": "Cleaner making a bed with white linens in a bright Chicago apartment bedroom",
+  "created": "2026-11-01"
+ },
+ "b40fe63e-4ea5-4bad-8daf-3e2e26575e6b": {
+  "business": "Detailed Cleaning",
+  "image": "images/business/detailed-cleaning.jpg",
+  "scene": "Cleaner scrubbing a white bathtub in a bright tiled Chicago bathroom",
+  "created": "2026-11-01"
+ },
+ "5786f580-dc95-44c7-8187-d41ce907c388": {
+  "business": "Parker Sky Cleaning Solutions",
+  "image": "images/business/parker-sky-cleaning-solutions.jpg",
+  "scene": "Cleaner mopping a hardwood floor in a sunlit high-rise apartment living room",
+  "created": "2026-11-01"
+ },
+ "5eb1e4d3-0e81-49b8-84cf-eb012d8eda9f": {
+  "business": "MaidPro Chicago - Lincoln Park",
+  "image": "images/business/maidpro-chicago-lincoln-park.jpg",
+  "scene": "Cleaner polishing a dining table in a Lincoln Park brownstone dining room",
+  "created": "2026-11-01"
+ },
+ "0371e15f-5198-4fb9-8d7f-bc95301030ce": {
+  "business": "FCS Cleaning Services",
+  "image": "images/business/fcs-cleaning-services.jpg",
+  "scene": "Cleaner wiping glass patio doors inside a bright Chicago home",
+  "created": "2026-11-01"
+ },
+ "66d22909-e987-481f-ad78-f8723a65aec7": {
+  "business": "Brothers and Hands Mobile Detailing Services",
+  "image": "images/business/brothers-and-hands-mobile-detailing-services.jpg",
+  "scene": "Detailer hand-washing a foam-covered red sedan in a Chicago driveway",
+  "created": "2026-11-01"
+ },
+ "72fd0383-e462-4b66-ae32-84ffdea2eb87": {
+  "business": "DetailX Chicago",
+  "image": "images/business/detailx-chicago.jpg",
+  "scene": "Detailer machine-polishing the hood of a black SUV in front of a Chicago bungalow",
+  "created": "2026-11-01"
+ },
+ "3bcefb04-6734-426d-bd67-c1567046fa9e": {
+  "business": "Exquisite Service Solutions",
+  "image": "images/business/exquisite-service-solutions.jpg",
+  "scene": "Detailer cleaning the windshield of a white crossover at a Chicago curb",
+  "created": "2026-11-01"
+ },
+ "b62c17ff-a152-4968-8f42-d5c48f861c45": {
+  "business": "Shine It Up Detailing Specialist",
+  "image": "images/business/shine-it-up-detailing-specialist.jpg",
+  "scene": "Detailer rinsing a blue coupe with a hose on a Chicago alley garage pad",
+  "created": "2026-11-01"
+ },
+ "3d2cbc04-2fcb-4069-a859-46953ae716bd": {
+  "business": "Precision Lab Detailing",
+  "image": "images/business/precision-lab-detailing.jpg",
+  "scene": "Detailer wiping leather seats inside an open-door silver minivan in a Chicago driveway",
+  "created": "2026-11-01"
+ },
+ "372c3024-d5a7-40f4-9adf-3cecfceab44a": {
+  "business": "Handy Men & Mrs. Helper",
+  "image": "images/business/handy-men-mrs-helper.jpg",
+  "scene": "Handyman on his back fixing a kitchen faucet under a bright Chicago apartment sink",
+  "created": "2026-11-01"
+ },
+ "ac61da29-9e4f-42cf-96d5-d11da5289f80": {
+  "business": "Handyman Connection of Lincoln Park",
+  "image": "images/business/handyman-connection-of-lincoln-park.jpg",
+  "scene": "Handyman on a step ladder replacing a ceiling light fixture in a Lincoln Park living room",
+  "created": "2026-11-01"
+ },
+ "35ae9035-699d-403d-98ed-ad4300c75c09": {
+  "business": "Punch List Pros LLC",
+  "image": "images/business/punch-list-pros-llc.jpg",
+  "scene": "Handyman patching a drywall hole with a putty knife in a Chicago condo hallway",
+  "created": "2026-11-01"
+ },
+ "611a3d8e-6671-48f5-a66e-eec1792b7adb": {
+  "business": "Chicago Handyman",
+  "image": "images/business/chicago-handyman.jpg",
+  "scene": "Handyman installing a doorknob on the wooden front door of a Chicago greystone",
+  "created": "2026-11-01"
+ },
+ "fd83b676-6509-4982-8658-afca4354c539": {
+  "business": "BIG Helpers",
+  "image": "images/business/big-helpers.jpg",
+  "scene": "Two handymen carrying a bookshelf through the front doorway of a Chicago bungalow",
+  "created": "2026-11-01"
+ },
+ "20b0a224-aed8-4fe6-8d54-a4762066f32b": {
+  "business": "Knowledgeable Handyman",
+  "image": "images/business/knowledgeable-handyman.jpg",
+  "scene": "Handyman working under a bathroom vanity sink in a bright Chicago home",
+  "created": "2026-11-01"
+ },
+ "5bf16f9f-7a79-455e-b0f0-c6efcb317adb": {
+  "business": "Cutting Edge Property Solutions, LLC",
+  "image": "images/business/cutting-edge-property-solutions-llc.jpg",
+  "scene": "Handyman painting a bedroom wall with a roller in a Chicago two-flat",
+  "created": "2026-11-01"
+ },
+ "4d2d11fc-0315-45a7-808f-1a5b5940f05b": {
+  "business": "Carl & Josiah",
+  "image": "images/business/carl-josiah.jpg",
+  "scene": "Two handymen assembling a wooden deck chair frame on a sunny Chicago patio",
+  "created": "2026-11-01"
+ },
+ "a53c8e39-59e1-42f1-a5f5-bc0933d1bf71": {
+  "business": "Master Handymen",
+  "image": "images/business/master-handymen.jpg",
+  "scene": "Handyman repairing a wooden fence gate in a Chicago backyard",
+  "created": "2026-11-01"
+ },
+ "e8c5e506-939e-4e80-9c19-77b570a083bf": {
+  "business": "Pet Groomer Chicago",
+  "image": "images/business/pet-groomer-chicago.jpg",
+  "scene": "Groomer brushing a golden doodle on a grooming table in a bright Chicago sunroom",
+  "created": "2026-11-01"
+ },
+ "9a261628-eca6-4e7b-a786-a81bca78dc72": {
+  "business": "What a Wonderful Woof",
+  "image": "images/business/what-a-wonderful-woof.jpg",
+  "scene": "Groomer trimming a white bichon inside an unbranded grooming van on a Chicago street",
+  "created": "2026-11-01"
+ },
+ "22771fc9-7f8f-4f29-8fee-f11a4acbfb93": {
+  "business": "Meeow Chicago",
+  "image": "images/business/meeow-chicago.jpg",
+  "scene": "Groomer bathing a tabby cat in a deep kitchen sink of a Chicago apartment",
+  "created": "2026-11-01"
+ },
+ "cb2065cc-947c-409e-b88a-d70dd9a03f64": {
+  "business": "Grime Pushers",
+  "image": "images/business/grime-pushers.jpg",
+  "scene": "Worker pressure washing a concrete driveway in front of a Chicago bungalow",
+  "created": "2026-11-01"
+ },
+ "a26f5f83-c61f-4462-ab2e-16d53f39356c": {
+  "business": "Pressure Cleaning Chicago",
+  "image": "images/business/pressure-cleaning-chicago.jpg",
+  "scene": "Worker pressure washing the siding of a two-story Chicago home from the ground",
+  "created": "2026-11-01"
+ },
+ "299be21f-56bc-4ce3-82e9-5c8753802161": {
+  "business": "Pressure Washing Unlimited",
+  "image": "images/business/pressure-washing-unlimited.jpg",
+  "scene": "Worker pressure washing a wooden backyard deck in Chicago",
+  "created": "2026-11-01"
+ },
+ "0dbbde3d-6fa0-4764-89a0-b50e49f83279": {
+  "business": "Splash Pressure Wash",
+  "image": "images/business/splash-pressure-wash.jpg",
+  "scene": "Worker pressure washing a brick walkway and steps of a Chicago greystone",
+  "created": "2026-11-01"
+ },
+ "4f886fd7-1111-42e3-bcc6-53328eb9e13c": {
+  "business": "J.A. Property Services",
+  "image": "images/business/j-a-property-services.jpg",
+  "scene": "Worker pressure washing a concrete garage apron in a Chicago alley",
+  "created": "2026-11-01"
+ },
+ "0036d1c6-9942-4ae7-ab56-19b96967a8bb": {
+  "business": "Dial A Maid USA",
+  "image": "images/business/dial-a-maid-usa.jpg",
+  "scene": "Cleaner wiping a stainless refrigerator in a bright Evanston kitchen",
+  "created": "2026-11-01"
+ },
+ "10504219-58a0-4242-a6c0-53eb2a360453": {
+  "business": "MaidPro Evanston",
+  "image": "images/business/maidpro-evanston.jpg",
+  "scene": "Cleaner vacuuming a carpeted staircase inside an Evanston home",
+  "created": "2026-11-01"
+ },
+ "40fbc1fe-d8c2-4d85-a94f-732f753f787d": {
+  "business": "Fresh Tech Maid",
+  "image": "images/business/fresh-tech-maid.jpg",
+  "scene": "Cleaner dusting tall bookshelves in a bright Evanston living room",
+  "created": "2026-11-01"
+ },
+ "198b4908-64c7-4331-ae6c-7f6a1ee473c6": {
+  "business": "The Maids in Northshore",
+  "image": "images/business/the-maids-in-northshore.jpg",
+  "scene": "Two cleaners working as a team in a bright Evanston kitchen",
+  "created": "2026-11-01"
+ },
+ "c642746e-b063-4d6f-8f9d-834d497e706d": {
+  "business": "Purify The Cleaning Company",
+  "image": "images/business/purify-the-cleaning-company.jpg",
+  "scene": "Cleaner scrubbing a glass shower door in a bright modern Evanston bathroom",
+  "created": "2026-11-01"
+ },
+ "0d9ca0f3-2ff4-4637-b6ac-470d84873b68": {
+  "business": "Maries Maid Inc",
+  "image": "images/business/maries-maid-inc.jpg",
+  "scene": "Cleaner folding fresh towels on a made bed in a bright Evanston bedroom",
+  "created": "2026-11-01"
+ },
+ "f29a72bb-0b90-453b-bf1f-66f24a3f2a2d": {
+  "business": "Evanston Cleaning Company",
+  "image": "images/business/evanston-cleaning-company.jpg",
+  "scene": "Cleaner polishing a large living-room window inside an Evanston home with a lake glimpse",
+  "created": "2026-11-01"
+ },
+ "b9489ab4-26ae-4df1-b80d-292c24d7f02e": {
+  "business": "MaidPro Naperville",
+  "image": "images/business/maidpro-naperville.jpg",
+  "scene": "Cleaner wiping a granite kitchen island in a bright Naperville home",
+  "created": "2026-11-01"
+ },
+ "4159864f-fa99-4c5a-9db0-f6204bfe9e20": {
+  "business": "Crystal Klear Cleaning",
+  "image": "images/business/crystal-klear-cleaning.jpg",
+  "scene": "Cleaner polishing a glass-top dining table in a bright Naperville dining room",
+  "created": "2026-11-01"
+ },
+ "fdbc0bfb-8b87-4dd6-b56f-86773a1cf2c9": {
+  "business": "Simply Clean",
+  "image": "images/business/simply-clean.jpg",
+  "scene": "Cleaner dusting ceiling-fan blades from a step stool in a Naperville bedroom",
+  "created": "2026-11-01"
+ },
+ "7223920f-207f-4b25-baa4-22c3119ff503": {
+  "business": "EuroMaids",
+  "image": "images/business/euromaids.jpg",
+  "scene": "Cleaner mopping a tile entryway floor in a bright Naperville home",
+  "created": "2026-11-01"
+ },
+ "498e7be6-a674-495a-b156-d38f635d01a3": {
+  "business": "Fresh Day Cleaning Services",
+  "image": "images/business/fresh-day-cleaning-services.jpg",
+  "scene": "Cleaner making a guest bed in a sunny Naperville bedroom",
+  "created": "2026-11-01"
+ },
+ "a0efef35-5148-4435-9100-497005a29469": {
+  "business": "BTR Wash Pros",
+  "image": "images/business/btr-wash-pros.jpg",
+  "scene": "Worker pressure washing a wide concrete driveway with a surface cleaner in Chicago",
+  "created": "2026-11-01"
+ },
+ "b28c692a-413c-4aba-8e01-311d04983571": {
+  "business": "My Window Washing",
+  "image": "images/business/my-window-washing.jpg",
+  "scene": "Worker pressure washing the front steps of a Chicago two-flat",
+  "created": "2026-11-01"
+ },
+ "1b0927c3-6cc9-4b28-b1b1-232dd0ca02bd": {
+  "business": "Chicagoland Deck Cleaning & Sealing",
+  "image": "images/business/chicagoland-deck-cleaning-sealing.jpg",
+  "scene": "Worker pressure washing a large wooden backyard deck in Chicago",
+  "created": "2026-11-01"
+ },
+ "e01aff72-f3eb-4ac9-98ee-c526dd0a48db": {
+  "business": "Stringer and Sons Power Washing Company",
+  "image": "images/business/stringer-and-sons-power-washing-company.jpg",
+  "scene": "Two workers pressure washing a concrete sidewalk in front of Chicago bungalows",
+  "created": "2026-11-01"
+ },
+ "e73d6fd8-bcca-4163-8771-fd83f4b83b4e": {
+  "business": "Bubbles Window Washing & Gutter Cleaning",
+  "image": "images/business/bubbles-window-washing-gutter-cleaning.jpg",
+  "scene": "Worker pressure washing a front stoop and railings in a Chicago neighborhood",
+  "created": "2026-11-01"
+ },
+ "56ea9c0c-21a7-4ef4-8644-6cd3c3980f4f": {
+  "business": "ClearView Window & Gutter Cleaning, LLC",
+  "image": "images/business/clearview-window-gutter-cleaning-llc.jpg",
+  "scene": "Worker pressure washing a paver patio behind a Chicago home",
+  "created": "2026-11-01"
+ },
+ "624ff043-cfa6-478c-a6c1-4cc527f17d83": {
+  "business": "Skokie Maid and Cleaning Services",
+  "image": "images/business/skokie-maid-and-cleaning-services.jpg",
+  "scene": "Cleaner wiping a white farmhouse sink in a bright Skokie kitchen",
+  "created": "2026-11-01"
+ },
+ "81ed7258-7c9c-45d2-b626-3d6d9e6a904b": {
+  "business": "Ravinia Maid Service",
+  "image": "images/business/ravinia-maid-service.jpg",
+  "scene": "Cleaner dusting a piano and frames in a bright Skokie living room",
+  "created": "2026-11-01"
+ },
+ "4165b336-69fc-4c8b-8b4d-77b1234496c9": {
+  "business": "The Green Maid, Inc.",
+  "image": "images/business/the-green-maid-inc.jpg",
+  "scene": "Cleaner wiping a wooden kitchen island in a bright Skokie home",
+  "created": "2026-11-01"
+ },
+ "30c2145f-5ce7-4603-95f0-788ee3b67eff": {
+  "business": "Merry Maids of Evanston & Skokie",
+  "image": "images/business/merry-maids-of-evanston-skokie.jpg",
+  "scene": "Cleaner vacuuming a patterned rug in a Skokie family room",
+  "created": "2026-11-01"
+ },
+ "7aca17cf-7350-4037-aa93-bd99f6313123": {
+  "business": "Emerald Maids Chicago",
+  "image": "images/business/emerald-maids-chicago.jpg",
+  "scene": "Cleaner polishing a bathroom mirror in a bright Skokie bathroom",
+  "created": "2026-11-01"
+ },
+ "d56d255b-3442-4f4a-9089-2fc9c15b5170": {
+  "business": "The Oak Park HandyHuman, Inc.",
+  "image": "images/business/the-oak-park-handyhuman-inc.jpg",
+  "scene": "Handyman repairing a porch step on a classic Oak Park bungalow",
+  "created": "2026-11-01"
+ },
+ "253c1dad-456e-48ea-a7bb-5a084e11911d": {
+  "business": "Oak Park Handy Co.",
+  "image": "images/business/oak-park-handy-co.jpg",
+  "scene": "Handyman planing a sticking interior door in an Oak Park hallway",
+  "created": "2026-11-01"
+ },
+ "7a484cc7-aeb2-4dd3-ac39-da62951bdf8e": {
+  "business": "Moore Handyman Solutions LLC",
+  "image": "images/business/moore-handyman-solutions-llc.jpg",
+  "scene": "Handyman installing a ceiling light fixture on a ladder in an Oak Park bedroom",
+  "created": "2026-11-01"
+ },
+ "4998405d-0ab3-4660-bfe4-ad6f85a96a04": {
+  "business": "Andy Sjostrom Handyman Services",
+  "image": "images/business/andy-sjostrom-handyman-services.jpg",
+  "scene": "Handyman re-caulking a bathtub edge in a bright Oak Park bathroom",
+  "created": "2026-11-01"
+ },
+ "f762548c-58be-487f-93ba-c07284d250a1": {
+  "business": "The Handyman Next Door",
+  "image": "images/business/the-handyman-next-door.jpg",
+  "scene": "Handyman mounting a floating shelf with a drill in an Oak Park living room",
+  "created": "2026-11-01"
+ },
+ "65c7fc6b-06bc-4122-95c7-1556f9fa7dac": {
+  "business": "Downes Swimming Pool Co",
+  "image": "images/business/downes-swimming-pool-co.jpg",
+  "scene": "Pool technician skimming leaves from a backyard pool in Arlington Heights",
+  "created": "2026-11-01"
+ },
+ "35e4980f-28b6-43b5-b0f5-20339cedc601": {
+  "business": "Aqua Time Pool Service Inc",
+  "image": "images/business/aqua-time-pool-service-inc.jpg",
+  "scene": "Pool technician brushing the tile line at a backyard pool in Arlington Heights",
+  "created": "2026-11-01"
+ },
+ "5a1bc1ee-340f-431c-bcdd-303bd73172b5": {
+  "business": "One Stop Pool Care",
+  "image": "images/business/one-stop-pool-care.jpg",
+  "scene": "Pool technician carrying a bucket of supplies across a sunny Arlington Heights pool deck",
+  "created": "2026-11-01"
+ },
+ "c03126e3-3119-411f-ba45-d2cef1f15c11": {
+  "business": "Aqualis Pool Service",
+  "image": "images/business/aqualis-pool-service.jpg",
+  "scene": "Pool technician vacuuming a backyard pool in Arlington Heights",
+  "created": "2026-11-01"
+ },
+ "4e842e62-64af-4ac5-8afe-859dc9b097f0": {
+  "business": "Prestige Pool Services",
+  "image": "images/business/prestige-pool-services.jpg",
+  "scene": "Pool technician testing pool water with a sample vial in Arlington Heights",
+  "created": "2026-11-01"
+ },
+ "b937407b-aab4-4383-85b4-1a9245269c62": {
+  "business": "Hendricks Property Services LLC",
+  "image": "images/business/hendricks-property-services-llc.jpg",
+  "scene": "Technician scrubbing a raised spa attached to a backyard pool in Arlington Heights",
+  "created": "2026-11-01"
+ },
+ "8140e805-e929-4f77-908d-d2f9c0b0996b": {
+  "business": "Pool Spa Guru",
+  "image": "images/business/pool-spa-guru.jpg",
+  "scene": "Technician emptying a pool skimmer basket into a bin in Arlington Heights",
+  "created": "2026-11-01"
+ },
+ "2fc1f648-f113-4634-acb7-25bc8ce21b38": {
+  "business": "Tailored Touch Detailing",
+  "image": "images/business/tailored-touch-detailing.jpg",
+  "scene": "Detailer hand-waxing the door of a silver sedan in a Schaumburg driveway",
+  "created": "2026-11-01"
+ },
+ "eb940cdf-2b34-4749-81d6-55ef21e4c0a3": {
+  "business": "C4 Mobile Car Detailing",
+  "image": "images/business/c4-mobile-car-detailing.jpg",
+  "scene": "Detailer at the open door of a tan SUV in a Schaumburg driveway",
+  "created": "2026-11-01"
+ },
+ "c7192f64-1916-4e50-ba5a-802637c1c847": {
+  "business": "Premier Detail",
+  "image": "images/business/premier-detail.jpg",
+  "scene": "Detailer foam-washing a white SUV in a Schaumburg driveway",
+  "created": "2026-11-01"
+ },
+ "db527b19-a4bb-4b5f-95af-1f8527b41a8e": {
+  "business": "4kDetailers - Mobile Local Detailing Service",
+  "image": "images/business/4kdetailers-mobile-local-detailing-service.jpg",
+  "scene": "Detailer cleaning a compact car at a Schaumburg curb with its doors open",
+  "created": "2026-11-01"
+ },
+ "37bfd5e4-9ab2-40f7-b838-13eb7324ab68": {
+  "business": "Platinum Mobile Detailing and Car Wash",
+  "image": "images/business/platinum-mobile-detailing-and-car-wash.jpg",
+  "scene": "Detailer hand-washing a soapy dark SUV in an Aurora driveway",
+  "created": "2026-11-01"
+ },
+ "591b2fdc-7a62-402a-8314-6ffbee08a074": {
+  "business": "VK Detailing",
+  "image": "images/business/vk-detailing.jpg",
+  "scene": "Detailer polishing the rear of a red sports coupe in an Aurora driveway",
+  "created": "2026-11-01"
+ },
+ "ceb6d547-6c1c-433c-ac1f-a6fb18443fa0": {
+  "business": "Mavs Mobile Detailing",
+  "image": "images/business/mavs-mobile-detailing.jpg",
+  "scene": "Detailer vacuuming the open cargo area of a wagon in an Aurora driveway",
+  "created": "2026-11-01"
+ },
+ "8a2ade99-32ee-4c50-aab5-ce6054dc5d2a": {
+  "business": "Lux Tinting & Detailing",
+  "image": "images/business/lux-tinting-detailing.jpg",
+  "scene": "Detailer wiping the dashboard of a sedan through its open door in Aurora",
+  "created": "2026-11-01"
+ },
+ "71cec5d8-a544-46e8-ac05-e4211773ca05": {
+  "business": "South Side Detail",
+  "image": "images/business/south-side-detail.jpg",
+  "scene": "Detailer rinsing foam off a white pickup truck in an Aurora driveway",
+  "created": "2026-11-01"
+ },
+ "32fac53c-3e5a-4ce6-8b2f-4cab455bf807": {
+  "business": "Rocinante Repairs",
+  "image": "images/business/rocinante-repairs.jpg",
+  "scene": "Handyman repairing a cracked concrete step at a Chicago-area home entrance",
+  "created": "2026-11-01"
+ },
+ "aa488d7d-9ac8-41e6-bef5-f8e014d37ba1": {
+  "business": "AYG Home Service",
+  "image": "images/business/ayg-home-service.jpg",
+  "scene": "Handyman installing a deadbolt on a front door near Cicero",
+  "created": "2026-11-01"
+ },
+ "6c0ca731-0b85-4411-811f-e0a26c3a36a1": {
+  "business": "Fix It People",
+  "image": "images/business/fix-it-people.jpg",
+  "scene": "Handyman hanging a large framed mirror on a Chicago living-room wall",
+  "created": "2026-11-01"
+ },
+ "fc066b6c-ceb9-43cc-b43f-6d6c86898f8c": {
+  "business": "Samanco Construction",
+  "image": "images/business/samanco-construction.jpg",
+  "scene": "Handyman repairing a wooden deck board in a Chicago backyard",
+  "created": "2026-11-01"
+ },
+ "3f2a452c-bfa2-4729-b164-4d0ec5842732": {
+  "business": "Purrfurred Pet Styling",
+  "image": "images/business/purrfurred-pet-styling.jpg",
+  "scene": "Groomer blow-drying a fluffy poodle inside an unbranded mobile grooming van in Downers Grove",
+  "created": "2026-11-01"
+ },
+ "51e72686-b72c-47dd-a718-b1323267ec6f": {
+  "business": "Happy Cat Grooming",
+  "image": "images/business/happy-cat-grooming.jpg",
+  "scene": "Groomer combing a long-haired Persian cat inside a bright grooming truck in Downers Grove",
+  "created": "2026-11-01"
+ },
+ "b2e5bfee-c5ed-43df-b71a-821ec64d79af": {
+  "business": "Wiggle Butts Mobile Dog Grooming",
+  "image": "images/business/wiggle-butts-mobile-dog-grooming.jpg",
+  "scene": "Groomer trimming a corgi\u2019s nails on a table beside an unbranded van in Downers Grove",
+  "created": "2026-11-01"
+ },
+ "4cf76b09-d879-4694-a093-5b96532cafeb": {
+  "business": "Minute Maids Cleaning Service",
+  "image": "images/business/minute-maids-cleaning-service.jpg",
+  "scene": "Cleaner wiping tall kitchen cabinets in a bright Joliet home",
+  "created": "2026-11-01"
+ },
+ "99e5791c-20fd-4f3f-abb1-03d47bb9d7b0": {
+  "business": "Vibrant Home Services",
+  "image": "images/business/vibrant-home-services.jpg",
+  "scene": "Cleaner scrubbing a white farmhouse kitchen sink in a sunny Joliet home",
+  "created": "2026-11-01"
+ },
+ "c83acafc-06c5-4485-a553-6a45c0ed0534": {
+  "business": "Prime Polish & Co",
+  "image": "images/business/prime-polish-co.jpg",
+  "scene": "Cleaner polishing a stainless refrigerator door in a bright Joliet kitchen",
+  "created": "2026-11-01"
+ },
+ "3cf503d2-668b-41b2-be98-0251ac62a5fa": {
+  "business": "It Looks So Amazing LLC",
+  "image": "images/business/it-looks-so-amazing-llc.jpg",
+  "scene": "Cleaner vacuuming a plush living-room carpet in a Joliet home",
+  "created": "2026-11-01"
+ },
+ "b43004c2-2457-494d-8451-b3e2a3138a0f": {
+  "business": "MaidPro Joliet",
+  "image": "images/business/maidpro-joliet.jpg",
+  "scene": "Cleaner mopping a gleaming entryway floor in a Joliet two-story home",
+  "created": "2026-11-01"
+ },
+ "cd512cac-a0f1-4d9c-9f73-b6a53658983f": {
+  "business": "Kesap Clean House Cleaning Service",
+  "image": "images/business/kesap-clean-house-cleaning-service.jpg",
+  "scene": "Cleaner wiping a bathroom mirror in a bright Joliet home bathroom",
+  "created": "2026-11-01"
+ },
+ "5a1e0eee-ba85-406a-ac05-23c653a475dc": {
+  "business": "All Hours Cleaning Services Chicago",
+  "image": "images/business/all-hours-cleaning-services-chicago.jpg",
+  "scene": "Cleaner deep-scrubbing a range hood and stovetop in a Chicago West Side kitchen",
+  "created": "2026-11-01"
+ },
+ "b8c39b22-9822-4a53-b38e-4ef14d2586e1": {
+  "business": "Always Green Cleaning Services Chicago",
+  "image": "images/business/always-green-cleaning-services-chicago.jpg",
+  "scene": "Cleaner deep-cleaning inside an open oven in a Humboldt Park kitchen",
+  "created": "2026-11-01"
+ },
+ "9258b873-4fe6-4f90-9eff-60559b350775": {
+  "business": "Clean Bean",
+  "image": "images/business/clean-bean.jpg",
+  "scene": "Cleaner steam-cleaning bathroom grout in a bright Chicago bathroom",
+  "created": "2026-11-01"
+ },
+ "99e63305-e526-43c7-9099-7bf4bdf9cb32": {
+  "business": "Deep Cleaning Chicago",
+  "image": "images/business/deep-cleaning-chicago.jpg",
+  "scene": "Cleaner on a ladder wiping a ceiling vent in a Chicago living room",
+  "created": "2026-11-01"
+ },
+ "02d311d1-67c7-4899-ad54-5b3a49d932bb": {
+  "business": "LizMarie Cleaning Services",
+  "image": "images/business/lizmarie-cleaning-services.jpg",
+  "scene": "Cleaner deep-cleaning a refrigerator interior in a bright Chicago kitchen",
+  "created": "2026-11-01"
+ },
+ "9b6e3a6b-7fc7-43ff-a618-cc5b81545b7b": {
+  "business": "Ramos Quality",
+  "image": "images/business/ramos-quality.jpg",
+  "scene": "Cleaner scrubbing baseboards along a hardwood hallway in a Humboldt Park home",
+  "created": "2026-11-01"
+ },
+ "98979ca9-9266-45ff-8c3a-66b3211e8a8b": {
+  "business": "Tidy Nest Services",
+  "image": "images/business/tidy-nest-services.jpg",
+  "scene": "Cleaner deep-cleaning a window area in a bright Chicago apartment",
+  "created": "2026-11-01"
+ },
+ "224425d9-0537-4049-88bd-63ed5a6f8647": {
+  "business": "Companion Maids",
+  "image": "images/business/companion-maids.jpg",
+  "scene": "Two cleaners tidying a bright Garfield Ridge living room in Chicago",
+  "created": "2026-11-01"
+ },
+ "0308b02f-1dcd-4434-8ff3-64f56333eb48": {
+  "business": "Flawless Cleaning",
+  "image": "images/business/flawless-cleaning.jpg",
+  "scene": "Cleaner polishing a glass coffee table in a bright Chicago living room",
+  "created": "2026-11-01"
+ },
+ "f775ca2b-62d5-439e-9623-5b154035259b": {
+  "business": "Zenki's Auto Detailing",
+  "image": "images/business/zenkis-auto-detailing.jpg",
+  "scene": "Detailer vacuuming the footwell of a gray hatchback at a Chicago curb",
+  "created": "2026-11-01"
+ },
+ "c0ab0cbb-2ba7-4085-aacd-bee43b9e3a81": {
+  "business": "Devin's Mobile Detailing",
+  "image": "images/business/devins-mobile-detailing.jpg",
+  "scene": "Detailer scrubbing the foamy front wheel of a black pickup in a wide driveway",
+  "created": "2026-11-01"
+ },
+ "d11b8b88-b6e7-4753-a7b0-a85aeb267ee1": {
+  "business": "Ziggy's House Cleaning Service",
+  "image": "images/business/ziggys-house-cleaning-service.jpg",
+  "scene": "Cleaner vacuuming a carpeted great room in a Naperville two-story home",
+  "created": "2026-11-01"
+ },
+ "43e4474f-0874-4dd3-83ea-6b84bf495c09": {
+  "business": "Val's Services",
+  "image": "images/business/vals-services.jpg",
+  "scene": "Cleaner scrubbing a glass stovetop in a bright Skokie kitchen",
+  "created": "2026-11-01"
+ },
+ "87168f7a-c392-473b-a180-73e49de04596": {
+  "business": "Gamino's Handyman",
+  "image": "images/business/gaminos-handyman.jpg",
+  "scene": "Handyman replacing a porch light fixture on a Cicero brick bungalow",
+  "created": "2026-11-01"
+ },
+ "b6a0d967-e88b-44ff-b100-672a932a1df7": {
+  "business": "Monae's Blessing Residential and Commercial Cleaning Services",
+  "image": "images/business/monaes-blessing-residential-and-commercial-cleaning-services.jpg",
+  "scene": "Cleaner dusting high hallway walls with an extendable duster in a Joliet home",
+  "created": "2026-11-01"
+ },
+ "9db9feca-78c3-4d21-bfd7-c9bd9e78b04a": {
+  "business": "Karen's Green Maids",
+  "image": "images/business/karens-green-maids.jpg",
+  "scene": "Cleaner wiping wooden kitchen cabinets in a bright Chicago bungalow kitchen",
+  "created": "2026-11-01"
+ },
+ "4ae38977-3d15-4cf7-bf85-d3d84bb2aa5c": {
+  "business": "Lidia's Cleaning Service",
+  "image": "images/business/lidias-cleaning-service.jpg",
+  "scene": "Cleaner scrubbing a kitchen floor with a brush in a bright Chicago home",
+  "created": "2026-11-01"
  }
 }

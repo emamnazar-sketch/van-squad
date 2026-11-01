@@ -1,0 +1,175 @@
+{
+  "businesses": [
+    {
+      "id": "fd83b676-6509-4982-8658-afca4354c539",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BIG Helpers",
+      "category": "Handyman",
+      "phone": "(312) 757-4420",
+      "website": "https://www.bighelpers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60618"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4b525a5d-29d3-43aa-908d-d777833624d4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chicago Handy",
+      "category": "Handyman",
+      "phone": "(773) 503-0500",
+      "website": "http://www.chicagohandy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60618"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "20b0a224-aed8-4fe6-8d54-a4762066f32b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Knowledgeable Handyman",
+      "category": "Handyman",
+      "phone": "(773) 461-8533",
+      "website": "https://knowledgeablehandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60618"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5bf16f9f-7a79-455e-b0f0-c6efcb317adb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cutting Edge Property Solutions, LLC",
+      "category": "Handyman",
+      "phone": "(773) 234-2218",
+      "website": "https://cuttingedge-llc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60618"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4d2d11fc-0315-45a7-808f-1a5b5940f05b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carl & Josiah",
+      "category": "Handyman",
+      "phone": "(312) 561-6130",
+      "website": "https://carlandjosiahm.wixsite.com/carlandjosiahrepairs",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60618"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a53c8e39-59e1-42f1-a5f5-bc0933d1bf71",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Master Handymen",
+      "category": "Handyman",
+      "phone": "(847) 287-0449",
+      "website": "http://www.masterhandymen.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60618",
+        "60625"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d94e4711-87a1-48fb-813b-6b144c82c81d",
+      "business_id": "fd83b676-6509-4982-8658-afca4354c539",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2489881d-7310-4f62-8dd7-1c99dd8637ac",
+      "business_id": "4b525a5d-29d3-43aa-908d-d777833624d4",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b823aa43-5615-45d3-9cff-e9cca7c46f1b",
+      "business_id": "20b0a224-aed8-4fe6-8d54-a4762066f32b",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "06c8d5b3-7325-4ed7-99ad-e7bd6d691159",
+      "business_id": "5bf16f9f-7a79-455e-b0f0-c6efcb317adb",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "990542cf-4c13-4284-93f6-3e427441bc12",
+      "business_id": "4d2d11fc-0315-45a7-808f-1a5b5940f05b",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "999d3490-7eef-4bed-8c3d-5bb67e976575",
+      "business_id": "a53c8e39-59e1-42f1-a5f5-bc0933d1bf71",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

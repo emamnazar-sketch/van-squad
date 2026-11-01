@@ -1,0 +1,35 @@
+# Day 22 — Illinois — Arlington Heights — ZIP 60004 — Pool cleaning & maintenance
+
+- **Date:** 2026-11-01
+- **Cell:** IL × Arlington Heights × 60004 × "Pool cleaning & maintenance"
+- **Sources consulted:** each business's own website first (homepage, weekly-service and service pages, contact details published on-site), then public Google Business-style listings for cross-checking phones/addresses.
+- **Result:** 6 qualifying businesses. Pool service runs thinner in the Chicago northwest suburbs than in Sun Belt cells; all 6 confirmed weekly/routine cleaning & maintenance at the customer's home pool from their own materials.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source |
+|---|---|---|---|---|---|---|---|
+| Downes Swimming Pool Co | 847-398-7665 | Pool cleaning & maintenance | Arlington Heights | https://downespool.com/ | none published | High — headquartered at 725 W University Dr, Arlington Heights, IL 60004 (in the target ZIP itself); own site has a dedicated "Weekly Full Service Maintenance" page (chemistry, equipment checks, full-service cleaning); phone published on that page | Own website https://downespool.com/services/weekly-pool-service/ |
+| AAA Pool Service | 847-753-9771 | Pool cleaning & maintenance | Arlington Heights | https://www.aaapoolservice.com/ | info@aaapoolservice.com — https://www.aaapoolservice.com/ | High — own site offers weekly maintenance (once/twice weekly) and explicitly lists Arlington Heights in its service-area list; phone and email published on own homepage | Own website https://www.aaapoolservice.com/ |
+| Lotus Pools | 847-907-4995 | Pool cleaning & maintenance | Arlington Heights | https://lotuspools.com/ | support@lotuspools.com — https://lotuspools.com/ | High — own site FAQ states "weekly and commercial pool maintenance"; customer testimonial on own site confirms weekly home service; based in adjacent Rolling Meadows (60008), serves suburban Chicagoland; phone and email published on own homepage | Own website https://lotuspools.com/ |
+| Aqua Time Pool Service Inc | 847-948-8310 | Pool cleaning & maintenance | Arlington Heights | https://aquatimepoolserviceinc.com/ | none verifiable (email on own site is obfuscated in page text; not guessed) | High — own site has a dedicated "Weekly Service Maintenance" service and describes comprehensive weekly maintenance with cleaning, water testing and chemical balancing for residential pools; serves a stated 45-mile radius around Deerfield, IL 60015, which covers Arlington Heights; main phone published on own site | Own website https://aquatimepoolserviceinc.com/ |
+| One Stop Pool Care | 847-325-5013 | Pool cleaning & maintenance | Arlington Heights | http://www.onestoppoolcare.net/ | info@onestoppool.net — http://www.onestoppoolcare.net/ | Medium — own site is titled "Weekly pool maintenance" and lists Swimming Pool & Spa Maintenance (equipment, structure, water chemistry kept balanced) for residential & commercial clients across greater Chicagoland; phone used is the one published on its own site (its Google listing shows a different number, 847-602-2235 — own-site number preferred per rules) | Own website http://www.onestoppoolcare.net/ |
+| Sunset Pools & Spas | 847-285-3220 | Pool cleaning & maintenance | Arlington Heights | https://www.sunsetpools-spas.com/ | none published | Medium — own service page addresses Chicago homeowners, notes "Maintaining your pool every week" and lists routine maintenance among scheduled service-department work, alongside its build/renovation business; based in adjacent Rolling Meadows (60008); phone published on own site. Included because routine home-pool maintenance is confirmed on its own materials, but the offer is repair-heavy with no dedicated weekly cleaning package | Own website https://www.sunsetpools-spas.com/service |
+
+## Dedupe
+
+- Grepped all of ~/workspace/van-squad/prospecting/ for every candidate name and phone (both hyphenated and digit-only forms): no matches for Downes Swimming Pool Co, Lotus Pools, Aqua Time Pool Service Inc, One Stop Pool Care, Sunset Pools & Spas (IL), or any of the six phones.
+- "AAA Pool Services" of Phoenix, AZ (phone (602) 413-9306, day-02 batch) exists in the prospecting files and the live DB — it is a different business (different name form, different state, different phone) from AAA Pool Service of Wheeling, IL; not a duplicate.
+- Live DB check: the stored-connector CLI (vs_rest.py) timed out on this run, so the same live Supabase businesses table was queried read-only via its REST endpoint using the anon key published in ~/workspace/van-squad/js/config.js. All six phones returned no rows (`[]`), and name searches (Downes, Lotus Pools, Aqua Time, One Stop Pool, Sunset Pools) returned no rows; the only "AAA Pool" row is the Phoenix business above.
+- No day-22 files for this cell existed on disk before this batch.
+
+## Excluded
+
+- **Platinum Pool / Platinum Poolcare (Wheeling, IL, 847-537-2525)** — construction/renovation-led; its own site confirms only generic "maintenance services" with no weekly cleaning/maintenance service confirmed. Excluded per gate (builder with no weekly cleaning service confirmed).
+- **Russo's Pool & Spa Inc (Northlake, IL, 708-344-1166)** — own/HomeAdvisor materials list openings, closings, heater and cover repairs and liner replacement only; no weekly cleaning/maintenance service. Excluded.
+- **Ultra Pool (Schaumburg, IL, 847-882-6969)** — own site states it serves commercial aquatic facilities only (apartment communities, condo associations, hotels, municipal pools), not home pools. Excluded.
+- **Dependable Swimming Pool (Grayslake, IL)** — pool-supply store format; weekly cleaning mention appears only in a listing's offerings, not confirmed as a home service route from its own materials, and it sits well outside the Arlington Heights service cell. Excluded.
+- **Leslie's (Palatine, IL)** — national pool-supply retail store; no local weekly home cleaning service. Excluded.
+- **Aquos Pool Services (Arlington Heights landing page)** — national multi-city lead-gen style site; the phone shown for the area is an out-of-state (801) number with no local operator phone for Arlington Heights. Excluded per the no-national-booking-page rule.
+
+## ZIP note
+
+No expansion was needed to reach a reportable cell: 6 businesses qualified for 60004. Only one business (Downes) is headquartered inside 60004 itself — normal for this trade in the northwest suburbs, where routes run from adjacent suburbs. Two included businesses are headquartered in adjacent ZIP 60008 (Rolling Meadows: Lotus Pools, Sunset Pools & Spas); the others are in Wheeling 60090, Deerfield 60015 and Lincolnshire 60069, each confirming Arlington Heights / northwest-suburb home service from its own materials. service_zips in the inserts file contain only 60004 plus ZIPs the business itself publishes (its own HQ ZIP as printed on its site).

@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "2fc1f648-f113-4634-acb7-25bc8ce21b38",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tailored Touch Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(847) 767-0170",
+   "website": "https://tailoredtouchdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60173"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "eb940cdf-2b34-4749-81d6-55ef21e4c0a3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "C4 Mobile Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(224) 288-4977",
+   "website": "http://c4mobiledetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60173"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c7192f64-1916-4e50-ba5a-802637c1c847",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Premier Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(708) 981-3351",
+   "website": "https://www.premier-detail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60173"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "db527b19-a4bb-4b5f-95af-1f8527b41a8e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "4kDetailers - Mobile Local Detailing Service",
+   "category": "Mobile auto detailing",
+   "phone": "(224) 566-1474",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "60173"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "002ca2ad-e51a-442d-8dc1-37d2c87b7381",
+   "business_id": "2fc1f648-f113-4634-acb7-25bc8ce21b38",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2d6416b5-d76c-4500-b629-c6207b9c353f",
+   "business_id": "eb940cdf-2b34-4749-81d6-55ef21e4c0a3",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "00d237e7-94e2-402b-98a0-8bf0b82b29b6",
+   "business_id": "c7192f64-1916-4e50-ba5a-802637c1c847",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "87db425d-12e1-47df-8fd9-3a56ab1ecaf3",
+   "business_id": "db527b19-a4bb-4b5f-95af-1f8527b41a8e",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

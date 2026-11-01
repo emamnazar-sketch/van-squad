@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "b9489ab4-26ae-4df1-b80d-292c24d7f02e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Naperville",
+      "category": "House cleaning",
+      "phone": "(630) 353-1617",
+      "website": "https://maidpro.com/naperville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60540"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d11b8b88-b6e7-4753-a7b0-a85aeb267ee1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ziggy's House Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(630) 922-9588",
+      "website": "http://www.ziggycleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60540"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4159864f-fa99-4c5a-9db0-f6204bfe9e20",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Crystal Klear Cleaning",
+      "category": "House cleaning",
+      "phone": "(847) 722-9659",
+      "website": "http://www.crystalklearcleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60540"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fdbc0bfb-8b87-4dd6-b56f-86773a1cf2c9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simply Clean",
+      "category": "House cleaning",
+      "phone": "(630) 517-0806",
+      "website": "http://www.chicagosimplyclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60540"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7223920f-207f-4b25-baa4-22c3119ff503",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "EuroMaids",
+      "category": "House cleaning",
+      "phone": "(630) 737-1080",
+      "website": "https://www.euro-maids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60540"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "498e7be6-a674-495a-b156-d38f635d01a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fresh Day Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(630) 228-6005",
+      "website": "https://www.myfreshday.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "60540"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "112ee48e-8acb-4333-b6d0-247dafbe8cab",
+      "business_id": "b9489ab4-26ae-4df1-b80d-292c24d7f02e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aefcb7d3-1ed6-47de-92e5-378da0e16344",
+      "business_id": "d11b8b88-b6e7-4753-a7b0-a85aeb267ee1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e639072d-ddb3-4d58-b88a-0b411e2976ee",
+      "business_id": "4159864f-fa99-4c5a-9db0-f6204bfe9e20",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "302beefc-35d6-45b5-b502-7a3bf3fece5f",
+      "business_id": "fdbc0bfb-8b87-4dd6-b56f-86773a1cf2c9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "081bc14b-68c5-40f2-8bd3-606b26a7204e",
+      "business_id": "7223920f-207f-4b25-baa4-22c3119ff503",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8b0a9380-e337-4ac1-8c82-f6e3bd02ecdc",
+      "business_id": "498e7be6-a674-495a-b156-d38f635d01a3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
