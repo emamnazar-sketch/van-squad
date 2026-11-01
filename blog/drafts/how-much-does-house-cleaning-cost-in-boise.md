@@ -93,7 +93,7 @@ Search Van Squads by ZIP. Coverage includes 83702, 83703, 83705, 83706, 83709 an
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Care.com — How much does house cleaning cost in Boise, ID? (Oct 2026: Boise starting $20.38/hr, max $25.41/hr; Idaho starting $20.46/hr; national starting $21.62/hr; nearby starting rates: Meridian $22.74/hr, Eagle $21.45/hr, Nampa $20.08/hr): https://www.care.com/cost/house-cleaning/boise-id

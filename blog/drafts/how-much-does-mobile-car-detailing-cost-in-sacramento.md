@@ -80,7 +80,7 @@ Search Van Squads by your ZIP code to see mobile detailers who come to your home
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Nick's Premium Detailing — Mobile Auto Detailing in Sacramento (Sacramento-area mobile package prices for sedans, $150–$370; headlight restoration $60–$150; brings own water and power): https://nickspremiumdetailing.com/

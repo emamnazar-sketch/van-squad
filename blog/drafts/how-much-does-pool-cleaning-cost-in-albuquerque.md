@@ -86,7 +86,7 @@ Search Van Squads by ZIP — 87114 on the northwest side, covering Ventana Ranch
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeBlue — Pool Cleaning Cost in Albuquerque, New Mexico (Albuquerque per-visit cost around $29, range $27–$31; 2 visits a month $53–$62; 3 visits $80–$94; 4 visits $107–$125; annual maintenance $1,600–$1,900 including cleaning, maintenance, opening and closing; a standard package typically includes measuring chemistry, adding chemicals, adding or removing water, vacuuming, cleaning accessories, checking or backwashing the filter, and checking fixtures; large pool, difficult access, trees dropping debris, sandy location, chlorine pool, and more accessories push prices higher, small or salt water pools lower — published August 10, 2022, from feedback provided by local pool cleaning services): https://www.homeblue.com/pool-cleaning/albuquerque-nm-pool-cleaning-cost.htm

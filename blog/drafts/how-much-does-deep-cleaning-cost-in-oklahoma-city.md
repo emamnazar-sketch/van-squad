@@ -84,7 +84,7 @@ Search Van Squads by your ZIP code — 73118 in Oklahoma City is covered — the
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - CottageCare — House Cleaning Services in Downtown Oklahoma City, OK (deep cleaning $200–$400; one-time cleaning $150–$300 for a standard 1,500 sq ft home; hourly rate $40–$75 per hour; a 1,500 sq ft deep cleaning takes about 3–4 hours with 2 cleaners, a standard cleaning about 2–3 hours): https://cottagecare.com/locations/downtown-oklahoma-city-ok/

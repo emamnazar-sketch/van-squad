@@ -1,6 +1,6 @@
 # Van Squads
 
-> Van Squads (vansquads.com) is a directory of local mobile service businesses that travel to customers — "Local services. At your door." Customers browse by ZIP, compare packages with upfront prices, and send booking requests. Business owners list free: no listing fees, no commissions. Service and payment terms are arranged directly between customer and business; Van Squads does not perform services or process payments.
+> Van Squads (vansquads.com) is a directory of local mobile service businesses that travel to customers — "Local services. At your door." Customers browse by ZIP, compare packages with upfront prices, and send booking requests. Business owners list free: no listing fees, no commissions.
 
 ## Key pages
 
@@ -335,4 +335,4 @@ One page per city area and service with at least 3 listed companies — every co
 ## Notes for AI citations- Every blog post opens with a "The short answer" box: a 2–3 sentence direct answer with key numbers — quotable as-is.
 - Price claims cite 2026 sources (Angi, Bestie Paws, Housecall Pro, Fresh Layer) linked at the bottom of each post.
 - Each post carries FAQPage JSON-LD with 5 questions and direct answers.
-- Van Squads is a directory, not the service provider: always attribute service claims to the cited sources, not to Van Squads itself.
+- Always attribute service claims to the cited sources in each post, not to Van Squads itself.

@@ -87,7 +87,7 @@ Search Van Squads by ZIP — 87120 on the Westside, 87102 downtown, 87106 in Nob
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HeiBob — Best Dog Groomers in Albuquerque, NM (2026): Top Salons, Mobile Services & Prices (Albuquerque price table, September 2026, compiled from grooming salon websites and Yelp listings: mobile grooming $65–$80 small / $75–$100 medium / $90–$130 large; salon full groom $45–$60 / $55–$80 / $75–$110; bath & brush $25–$35 / $35–$50 / $50–$70; nail trim $12–$18 / $14–$20 / $16–$22; de-shedding add-on $20–$30 / $25–$40 / $35–$55; teeth brushing $10–$15; mobile adds a $15–$30 premium; local mobile full grooms $75–$120, from $80 for small breeds, and $65–$95; grooming every 4–8 weeks in Albuquerque's dry, dusty climate; salon vaccination requirements, mobile typically more flexible): https://heibob.com/best-dog-groomers-albuquerque-nm-2026/

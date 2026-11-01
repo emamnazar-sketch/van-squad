@@ -88,7 +88,7 @@ Search Van Squads by ZIP. Coverage for handyman work sits in Meridian ZIPs 83642
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeBlue — Handyman Prices in Boise, Idaho (Boise hourly rate $40–$80; 1 hour $40–$80, 2 hours $90–$160, 3 hours $130–$240, 4 hours $170–$330, 5 hours $220–$410, 6 hours $260–$490, 7 hours $300–$570, 8 hours $350–$650, plus materials; emergency work, licensed-trade work, permits, hard-to-reach locations, and expensive supplies raise the price): https://www.homeblue.com/handyman/boise-id-handyman-prices.htm

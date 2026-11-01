@@ -1,5 +1,5 @@
 // Van Squads — city × category landing pages.
-// Run: node tools/build-landing-pages.mjs --businesses <dump.json> [--version 20261031d]
+// Run: node tools/build-landing-pages.mjs --businesses <dump.json> [--version 20261031j]
 //   <dump.json> is a full active-businesses dump (id, name, category, phone,
 //   website, service_zips, logo_url, created_at; ordered by created_at asc),
 //   e.g. produced by paging vs_rest.py get calls. The generator is offline and
@@ -20,7 +20,7 @@ function arg(name, dflt) {
   return i >= 0 ? args[i + 1] : dflt;
 }
 const dumpPath = arg('businesses', '');
-const VERSION = arg('version', '20261031i');
+const VERSION = arg('version', '20261031j');
 if (!dumpPath) { console.error('Missing --businesses <dump.json>'); process.exit(2); }
 
 const businesses = JSON.parse(fs.readFileSync(dumpPath, 'utf8'));
@@ -187,7 +187,7 @@ const CSS = `
 `;
 
 function headerHtml(v) {
-  return '<div class="top-strip">WELCOME &nbsp;·&nbsp; A real directory of mobile services. Service and payment terms are arranged directly between customer and business owner.</div>' +
+  return '<div class="top-strip">WELCOME &nbsp;·&nbsp; A real directory of mobile services.</div>' +
     '<header class="site-header"><div class="wrap header-inner"><a class="brand" href="/" aria-label="Van Squads home"><img class="brand-logo" src="/img/logo.png?v=' + v + '" alt="Van Squads"></a>' +
     '<nav class="main-nav" aria-label="Main"><a href="/">Home</a><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/#/about">About</a><a href="/blog/">Blog</a><a href="/#/join">List your business <span class="ext" aria-hidden="true">↗</span></a></nav>' +
     '<button class="menu-btn" id="menu-btn" aria-label="Open menu">☰</button></div><div class="mobile-nav" id="mobile-nav"><a href="/">Home</a><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/#/about">About</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a></div></header>';
@@ -195,7 +195,7 @@ function headerHtml(v) {
 function footerHtml(v) {
   return '<footer class="site-footer"><div class="wrap footer-inner"><div class="footer-brand"><img class="footer-logo-img" src="/img/logo-icon.png?v=' + v + '" alt="" aria-hidden="true"><div><strong>Van Squads</strong><p>Local services. At your door.</p></div></div>' +
     '<nav class="footer-nav" aria-label="Footer"><a href="/#/browse">Explore services</a><a href="/#/how-it-works">How it works</a><a href="/blog/">Blog</a><a href="/#/join">List your business</a><a href="/#/about">About</a><a href="/#/contact">Contact</a><a href="/#/privacy">Privacy</a><a href="/#/terms">Terms</a></nav></div>' +
-    '<div class="wrap footer-fine">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose. Service and payment terms are arranged directly with each business.</div></footer>' +
+    '<div class="wrap footer-fine">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.</div></footer>' +
     '<script>var b=document.getElementById("menu-btn"),n=document.getElementById("mobile-nav");if(b&&n){b.addEventListener("click",function(){var o=n.classList.toggle("open");b.setAttribute("aria-expanded",o);});}</script>';
 }
 

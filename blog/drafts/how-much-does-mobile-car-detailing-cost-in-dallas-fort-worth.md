@@ -89,7 +89,7 @@ Search Van Squads by ZIP. Coverage sits in Lower Greenville, Dallas ZIP 75206, F
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - My Detail Guys — Mobile Detailing in Dallas: What It Costs (interior typical $100–$250+, most people $150–$220; exterior typical $100–$250+, most $140–$220; full detail typical $180–$400+, most $220–$350; a "$99 full detail" is usually a fast wash, quick vacuum and light wipe; pet hair is one of the biggest price drivers; sand in carpets is common in Texas; send daylight photos for an accurate quote): https://mydetailguys.com/post/mobile-detailing-dallas-cost

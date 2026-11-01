@@ -78,7 +78,7 @@ Search Van Squads by your ZIP code to see mobile groomers who come to your home 
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Thumbtack — The 10 Best Pet Groomers in Sacramento, CA (mobile groomer cost section): https://www.thumbtack.com/ca/sacramento/pet-grooming

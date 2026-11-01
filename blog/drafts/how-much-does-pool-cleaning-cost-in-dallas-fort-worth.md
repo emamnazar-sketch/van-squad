@@ -87,7 +87,7 @@ Search Van Squads by ZIP. Pool coverage on the directory sits in Plano ZIP 75023
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeBlue — Pool Cleaning Cost in Dallas, Texas (Dallas per-visit cost around $30, range $27–$32; 2 visits a month $55–$64; 3 visits $82–$96; 4 visits $109–$128; annual maintenance $1,600–$1,900 including cleaning, maintenance, opening and closing; a standard package typically includes measuring chemistry, adding chemicals, adding or removing water, vacuuming, cleaning accessories, checking or backwashing the filter, and checking fixtures; large pool, difficult access, trees dropping debris, and more accessories push prices higher, small or salt water pools lower — published August 10, 2022, from feedback provided by local pool cleaning services): https://www.homeblue.com/pool-cleaning/dallas-tx-pool-cleaning-cost.htm

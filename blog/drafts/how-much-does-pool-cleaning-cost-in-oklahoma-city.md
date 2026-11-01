@@ -82,7 +82,7 @@ Search Van Squads by your ZIP code — 73013 in Edmond and 73127 in northwest Ok
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - OKC Pool Cleaning Service — Weekly Pool Maintenance Plans for the Oklahoma City Metro (full-service weekly $55–$75 per visit + chemicals; chemistry-only $30–$45; every-other-week $85–$110; green pool recovery $300–$650; opening or closing $300–$500; chemicals $40–$80/month in summer; serves Oklahoma City, Norman, Edmond, Moore, and Yukon): https://www.okcpoolcleaningservice.com/

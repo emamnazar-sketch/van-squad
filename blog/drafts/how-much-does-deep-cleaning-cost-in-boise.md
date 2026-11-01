@@ -96,7 +96,7 @@ Search Van Squads by ZIP. Coverage for deep cleaning sits in West Boise ZIP 8370
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Lone Star Cleaning Solutions — Deep Cleaning in Treasure Valley (deep clean by home size: 1–2 bed $180–$260, 3–4 bed $280–$420, 5+ bed $400+; recurring $120–$180 / $180–$280 / $280+; recurring includes 10–15% savings vs. one-time cleans; move-in/move-out cleans start at $200; deep clean includes handwashed baseboards, doors and door frames, window sills, light fixtures, ceiling fans, blinds, vents, walls, cabinet fronts and a deeper bathroom scrub; inside oven, refrigerator and cabinets can be added for a small fee; a 3-bedroom home typically takes 4–6 hours with a two-person team; serving Nampa, Boise, Meridian, Caldwell, Eagle, Star, Kuna and Middleton): https://www.lonestarcleaningsolution.com/deep-cleaning-in-treasure-valley/

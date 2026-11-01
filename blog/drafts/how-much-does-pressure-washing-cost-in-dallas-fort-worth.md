@@ -99,7 +99,7 @@ Search Van Squads by ZIP. Coverage sits in Irving ZIP 75061 and Richardson ZIP 7
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Angi — How Much Does It Cost to Pressure Wash a House in Dallas, TX? (Dallas house average $270, range $165–$375; $0.10–$0.50 per square foot depending on the surface; 1,500 sq ft house $150–$750, 2,000 sq ft $200–$1,000, 2,500 sq ft $250–$1,250; driveway $100–$250, patio $100–$200, fence $150–$300, siding $150–$1,400 in Dallas): https://www.angi.com/articles/how-much-does-it-cost-pressure-wash-house/tx/dallas

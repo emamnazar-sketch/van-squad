@@ -71,7 +71,7 @@ Be there to hand your dog over and receive them at the end, and stay home and re
 
 ---
 
-*Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.*
+*Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.*
 
 ## Sources
 

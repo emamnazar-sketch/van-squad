@@ -100,7 +100,7 @@ Search Van Squads by ZIP. Coverage sits in Lakewood, Dallas ZIP 75214, Plano ZIP
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Angi — How Much Does Professional House Cleaning Cost in Dallas, TX? (Dallas average $163 per visit, low around $120 and high $220 on the summary line; hourly average about $50, range $25–$75; standard clean $0.10–$0.20 per sq ft, 1,500 sq ft $150–$300, 2,200 sq ft $220–$440; deep clean about $0.25 per sq ft and $550 at 2,200 sq ft; move-out about $0.35 per sq ft and $770 at 2,200 sq ft; weekly $70–$190 per week, biweekly $95–$240, monthly $120–$290; each extra bathroom adds $10–$40; two cleaners can mean about $100 an hour for the visit; add-ons fridge $10–$40, oven $20–$40, windows $4–$10 per window, laundry $5–$20 per load; Dallas dust and allergens and common tile floors noted; median Dallas home just under 2,200 sq ft; Dallas cleaning costs about 5% below the national average — updated Oct 24, 2025): https://www.angi.com/articles/how-much-does-it-cost-hire-house-cleaner/tx/dallas

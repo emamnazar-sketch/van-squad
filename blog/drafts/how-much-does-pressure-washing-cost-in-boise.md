@@ -92,7 +92,7 @@ Search Van Squads by ZIP. Coverage for pressure washing sits in Meridian ZIP 836
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeBlue — Pressure Washing Prices in Boise, Idaho (Boise prices $70–$1,700 by task; house 1,500–2,000 sq ft $400–$700, average about $500; 2,000–3,000 sq ft $600–$1,000; 3,000–4,000 sq ft $800–$1,300; 4,000–5,000 sq ft $1,000–$1,700; driveway 40 x 20 ft $150–$270, average about $210; 100 x 20 ft $380–$670; deck or patio 200 sq ft $70–$110, average about $90; 600 sq ft $200–$320; power washing with heated water costs 10–15% more than pressure washing; two or more stories, difficult access, limited water access, and heavy dirt, mold, and mildew raise the price): https://www.homeblue.com/pressure-washing/boise-id-pressure-washing-prices.htm

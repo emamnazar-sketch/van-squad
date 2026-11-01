@@ -85,7 +85,7 @@ Search Van Squads by ZIP to see mobile detailers who come to your home — North
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Enchanted Detail Co — Mobile Auto Detailing Pricing, Albuquerque, NM (Basic Detail $160 sedan / $185 SUV or truck, ~2.5–3.5 hours; Full Detail $370 / $455, ~5–6 hours, with clay bar, ceramic sealant, and deep interior shampoo; Showroom $740 / $890 with one-step paint correction and 3-year ceramic coating; own power rig and deionized water, priced above the typical Albuquerque mobile detailer for that reason): https://enchantedetailco.netlify.app/

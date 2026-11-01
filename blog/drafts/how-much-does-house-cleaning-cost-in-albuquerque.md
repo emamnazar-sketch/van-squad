@@ -81,7 +81,7 @@ Search Van Squads by ZIP — 87109 and 87110 are each covered by 7 listed busine
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Care.com — How much does house cleaning cost in Albuquerque, NM? (Albuquerque starting rate $20.53/hr, max rate $24.63/hr; New Mexico $20.53/hr / $24.66/hr; United States $21.61/hr / $26.30/hr; Albuquerque about 5% lower than the national average): https://www.care.com/cost/house-cleaning/albuquerque-nm

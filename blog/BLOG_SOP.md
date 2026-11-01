@@ -12,6 +12,15 @@ Customer-question posts that rank on Google/AI search and convert both sides of 
 - Amam reviews the draft. Nothing is built into `js/blog.js` until he approves the words.
 - STANDING RULES: every post is **max 5 minutes read** (≤1,000 words at 200 wpm — trim, don't pad) and has **at least 2–3 visual images** (see Images below).
 
+## Writing voice — HUMANIZED LANGUAGE (standing rule, Amam 2026-10-24)
+- **Every blog post, every lane, is written in humanized language** — like a knowledgeable local person wrote it, not a content machine.
+- Plain, everyday words a customer actually uses. Short sentences mixed with longer ones — natural rhythm, never metronome-even.
+- Use contractions the way people talk ("you'll", "it's", "don't") and direct address ("you", "your home").
+- Concrete and specific over polished and generic: real numbers, real neighborhoods, real trade-offs ("this is where people overpay").
+- BANNED: AI filler and marketing-speak — "delve", "in today's fast-paced world", "when it comes to", "furthermore / moreover / in conclusion", "unlock", "elevate", "seamless", "robust", "game-changer", "look no further", "rest assured", tidy parallel triplets, and slogan-style summaries.
+- Start sections with the answer or a real observation, never a throat-clearing intro. Let a sentence occasionally be a fragment for emphasis. It's fine.
+- Facts, prices, sources, and structure rules are unchanged — only the voice changes. Never sacrifice a sourced number for style.
+
 ## Post structure (every post, in order)
 1. **Eyebrow:** category · publish date · read time.
 2. **H1:** the customer's question, word for word.
@@ -21,7 +30,7 @@ Customer-question posts that rank on Google/AI search and convert both sides of 
    - *For customers:* ZIP-code search → `#/browse?zip=XXXXX`, plus a "Create a free account" line.
    - *For business owners:* free-listing pitch → `#/join`.
 6. **FAQ section:** 5 questions + direct answers, visible on the page (required for FAQPage schema).
-7. **Disclosure:** "Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner."
+7. **Disclosure:** "Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose."
 8. **Sources:** every price/fact claim gets its 2026 source link.
 
 ## SEO / AI-search (automatic per post)

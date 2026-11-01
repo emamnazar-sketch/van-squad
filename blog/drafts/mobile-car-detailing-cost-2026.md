@@ -88,7 +88,7 @@ Most detailers recommend a full detail every 3 months, which works out to roughl
 
 ---
 
-*Service and payment terms are arranged directly between customer and business owner.*
+*Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.*
 
 ### Sources (2026 pricing data)
 - Fresh Layer, "2026 San Diego Mobile Detailing Prices" — https://www.fresh-layer.com/blog/san-diego-mobile-detailing-prices

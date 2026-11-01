@@ -82,7 +82,7 @@ Search Van Squads by ZIP to see handymen who come to your home — ZIPs 87112 an
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeBlue — Handyman Prices in Albuquerque, New Mexico (average Albuquerque hourly rate $40–$80; 1 hour $40–$80, 2 hours $80–$150, 4 hours $160–$300, 8 hours $320–$610, plus materials; emergency work, licensed-trade work, permits, and hard-to-reach locations raise the price): https://www.homeblue.com/handyman/albuquerque-nm-handyman-prices.htm

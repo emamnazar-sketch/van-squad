@@ -78,7 +78,7 @@ function ctaHtml() {
 }
 
 function headerHtml() {
-  return '<div class="top-strip">WELCOME &nbsp;·&nbsp; A real directory of mobile services. Service and payment terms are arranged directly between customer and business owner.</div>' +
+  return '<div class="top-strip">WELCOME &nbsp;·&nbsp; A real directory of mobile services.</div>' +
   '<header class="site-header"><div class="wrap header-inner">' +
     '<a class="brand" href="/" aria-label="Van Squads home">' +
     '<span class="logo" aria-hidden="true"><svg viewBox="0 0 64 64" width="36" height="36"><rect width="64" height="64" rx="14" fill="#FF6A2B"/><circle cx="32" cy="18" r="7" fill="#fff"/><path d="M18 30 L32 50 L46 30" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></span>' +
@@ -106,7 +106,7 @@ function footerHtml() {
     '<a href="/#/privacy">Privacy</a>' +
     '<a href="/#/terms">Terms</a>' +
     '</nav></div>' +
-    '<div class="wrap footer-fine">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose. Service and payment terms are arranged directly with each business.</div></footer>';
+    '<div class="wrap footer-fine">Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.</div></footer>';
 }
 
 function jsonLd(p, url, img) {
@@ -179,7 +179,6 @@ function renderPost(p) {
     ctaHtml() +
     '<h3>Frequently asked questions</h3>' +
     faqHtml(p) +
-    '<div class="disclosure"><strong>Van Squads is a directory, not the service provider.</strong> Service and payment terms are arranged directly between customer and business owner.</div>' +
     '</div></main>\n' +
     footerHtml() +
     '\n</body>\n</html>\n';

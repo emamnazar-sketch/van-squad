@@ -91,7 +91,7 @@ Search Van Squads by ZIP. Coverage includes 68114 and 68116 in Omaha, 68134 in N
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Care.com — How much does house cleaning cost in Omaha, NE? (Oct 2026: Omaha starting $20.54/hr, max $25.20/hr; Nebraska starting $20.28/hr, max $24.81/hr; national starting $21.62/hr, max $26.28/hr; nearby starting rates: Bellevue $19.16/hr, Elkhorn $22.44/hr, Papillion $23.62/hr, Council Bluffs $21.18/hr): https://www.care.com/cost/house-cleaning/omaha-ne

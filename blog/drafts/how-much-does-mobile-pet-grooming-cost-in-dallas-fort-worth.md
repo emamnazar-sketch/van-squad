@@ -88,7 +88,7 @@ Search Van Squads by ZIP — 76018 in Arlington, 75044 in Garland, and 75067 in 
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - DFW Mobile Dog Grooming — Mobile Dog Grooming Cost in DFW, 2026 Pricing (DFW table: small under 20 lbs bath & brush $65–$88 / full groom $78–$105; medium 20–50 lbs $88–$118 / $105–$145; large 50–80 lbs $132–$178 full, $112–$148 bath; XL 80+ lbs $142–$182 / $165–$222; doodle breeds $98–$145 / $118–$188; pricing consistent across most of the metroplex, travel surcharge may apply to far outer suburbs; Texas summer heat May–Sept, early morning scheduling prioritized; add-ons include de-shedding, teeth brushing, blueberry facial, nail grinding; most appointments 1–2 hours, cage-free one-on-one; most breeds every 6–8 weeks, poodles and doodles every 4–6 weeks; serves Dallas, Fort Worth, Plano, Frisco, McKinney, Arlington, Irving, Garland, Lewisville and beyond within a 40-mile radius): https://dfwmobiledoggrooming.com/

@@ -90,7 +90,7 @@ Search Van Squads by ZIP. Coverage sits in West Boise ZIP 83713, with 9 listed b
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Boise Mobile Auto Detailing — Mobile Detailing in Boise, Idaho (published price guide: most complete details in Boise run $250 to $450 for sedans and $350 to $600 for trucks and SUVs; interior-only service $175 to $400; maintenance exteriors start around $95; ceramic coating packages $600 to $3,000; every quote confirmed before work begins; express detail 1 to 2 hours, full interior and exterior detail 3 to 5 hours, paint correction and ceramic coating 6 to 12+ hours; mobile unit fully self-contained with its own water and onboard generator; serves Boise, Meridian, Eagle, Star, Kuna, Nampa and Caldwell, with travel fees possible outside its core service radius; drop-off at Westgate Plaza, 7964 W Fairview Ave, Boise): http://boisemobiledetailing.com/

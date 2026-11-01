@@ -560,7 +560,6 @@
       '<div class="detail-sec"><h3>Before your visit</h3><ul class="check-list">' +
         (l.beforeVisit || []).map(function (x) { return '<li>' + h(x) + '</li>'; }).join('') + '</ul></div>' +
       (l.cancellation ? '<div class="detail-sec"><h3>Cancellation policy</h3><p class="muted">' + h(l.cancellation) + '</p></div>' : '') +
-      '<div class="disclosure"><strong>Good to know.</strong> Van Squads is a directory, not the service provider. We don’t run background checks or verify licenses — review the business’s own credentials, and agree on service and payment terms directly with them before booking.</div>' +
       '<div class="detail-sec" id="reviews"><h3>Customer reviews</h3>' +
         (reviews || '<p class="muted">No reviews yet — be the first after your visit.</p>') +
         '<div id="review-form-wrap" style="margin-top:18px"></div>' +
@@ -578,7 +577,7 @@
       (b.earliestOpening ? '<p class="small muted">Earliest opening: ' + h(b.earliestOpening) + '</p>' : '') +
       (b.website && /^https?:\/\//i.test(b.website) ? '<a class="btn btn-outline btn-block" href="' + h(b.website) + '" target="_blank" rel="noopener" style="margin-bottom:10px">Visit their website \u2197</a>' : '') +
       '<a class="btn btn-primary btn-block" href="#/book/' + h(b.slug || b.id) + '">Send a request</a>' +
-      '<p class="small muted" style="margin-top:12px">No online checkout — you’ll arrange service and payment directly with the business.</p>' +
+      '<p class="small muted" style="margin-top:12px">No online checkout — the business confirms your appointment before it’s booked.</p>' +
     '</div></aside></div></div>';
   }
 
@@ -624,7 +623,7 @@
       '<p class="lede">Van Squads is a directory of businesses that travel to you. Here is how a request works, step by step.</p>' +
       '<div class="steps four" style="margin-top:30px">' + steps + '</div>' +
       '<div class="disclosure" style="margin-top:34px"><strong>No online checkout.</strong> ' +
-      'Online payments are not part of Van Squads. You agree on the service and payment terms directly with the business — the request just starts the conversation.</div>' +
+      'The request just starts the conversation — the business confirms your appointment before it’s booked.</div>' +
     '</div></section>' +
     '<section class="section band"><div class="wrap">' +
       '<p class="eyebrow">Service guides</p><h2>Find the right service for your job</h2>' +
@@ -642,11 +641,9 @@
       '<p>Finding someone good who comes to you used to mean group-chat recommendations and phone tag. Van Squads puts those businesses in one place: browse by ZIP, compare packages with upfront prices, and send a booking request in minutes.</p>' +
       '<h3>How it works</h3>' +
       '<ul class="check-list">' +
-      '<li><strong>Customers</strong> search by ZIP, compare real packages and prices, and request an appointment. Service and payment terms are agreed directly with the business.</li>' +
+      '<li><strong>Customers</strong> search by ZIP, compare real packages and prices, and request an appointment.</li>' +
       '<li><strong>Business owners</strong> list free — no listing fees, no commissions. You keep every dollar you earn.</li>' +
       '</ul>' +
-      '<h3>What we are not</h3>' +
-      '<p>Van Squads is a directory, not the service provider. We don\u2019t perform the work, process payments, or run background checks — we connect you with local pros and show you what to compare before you book.</p>' +
       '<p class="cta-row"><a class="btn btn-primary" href="#/browse">Explore services →</a><a class="btn btn-navy" href="#/join">List your business →</a></p>' +
     '</div>';
   }
@@ -767,11 +764,9 @@
       '<h1>Terms of service.</h1>' +
       '<p class="muted">Last updated: October 4, 2026.</p>' +
       '<h3>Van Squads is a directory</h3>' +
-      '<p>Van Squads lists independent service businesses; it does not perform services, process payments, or employ the pros listed. Service quality, scheduling, and payment terms are agreed directly between you and the business.</p>' +
-      '<h3>No verification of pros</h3>' +
-      '<p>We don\u2019t run background checks or verify licenses, insurance, or credentials. Review each business\u2019s own credentials and reviews before booking.</p>' +
+      '<p>Van Squads lists independent service businesses; it does not perform services, process payments, or employ the pros listed.</p>' +
       '<h3>No online payments</h3>' +
-      '<p>Van Squads does not handle payments. You agree on price and payment method directly with the business owner.</p>' +
+      '<p>Van Squads does not handle payments — you pay the business you book with.</p>' +
       '<h3>Listings</h3>' +
       '<p>Business owners are responsible for keeping their listing information accurate — services, prices, service area, and availability. Listings that are misleading may be removed.</p>' +
       '<h3>Acceptable use</h3>' +
@@ -988,7 +983,6 @@
       postCta() +
       '<h3>Frequently asked questions</h3>' +
       faqHtml +
-      '<div class="disclosure"><strong>Van Squads is a directory, not the service provider.</strong> Service and payment terms are arranged directly between customer and business owner.</div>' +
     '</div>';
   }
 
@@ -1080,7 +1074,7 @@
           '<div class="field"><label>Sign-in email <span class="req">*</span></label><input name="ownerEmail" type="email" required placeholder="you@example.com"></div></div>' +
         '</div>' +
         '<button class="btn btn-primary btn-block" type="submit" id="su-submit">Create my business listing →</button>' +
-        '<p class="small muted" style="margin-top:12px">No fees to list. No online payments — you arrange service and payment terms directly with each customer.</p>' +
+        '<p class="small muted" style="margin-top:12px">No fees to list, and no commissions — customers pay you, not us.</p>' +
       '</form>' +
     '</div></section>';
   }
@@ -1344,7 +1338,7 @@
           '<span class="hint">A photo of the car, the room, or your pet helps the business quote accurately.</span>' +
           '<div class="req-photos" id="bk-preview"></div></div></div>' +
         '<button class="btn btn-primary btn-block" type="submit" id="bk-submit">Send request →</button>' +
-        '<p class="small muted" style="margin-top:12px">No online checkout — you’ll arrange service and payment terms directly with the business. They must confirm your appointment before it’s booked.</p>' +
+        '<p class="small muted" style="margin-top:12px">No online checkout — the business must confirm your appointment before it’s booked.</p>' +
       '</form></div></div>';
   }
 

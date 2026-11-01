@@ -89,7 +89,7 @@ Usually, yes, if the work adds or alters wiring: new circuits, panel upgrades, r
 
 ---
 
-*Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.*
+*Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.*
 
 ## Sources
 

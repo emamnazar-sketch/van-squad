@@ -84,7 +84,7 @@ Search Van Squads by your ZIP code — 73116 in Oklahoma City is covered — the
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Thumbtack — The 10 Best Outdoor Cleaning in Oklahoma City, OK (pressure washing about $0.10–$0.17 per square foot of property size; wash at least once a year; best time after the rainy, storm season has passed): https://www.thumbtack.com/ok/oklahoma-city/outdoor-cleaning

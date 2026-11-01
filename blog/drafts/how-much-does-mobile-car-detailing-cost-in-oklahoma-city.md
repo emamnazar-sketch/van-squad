@@ -84,7 +84,7 @@ Search Van Squads by your ZIP code — 73132 and 73139 are both covered, and met
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - All Hands On Dash — Mobile Detailing in Oklahoma City (FAQ package prices: Basic $150, Full $250, Premium $300, larger vehicles +$50; ceramic coating from $599; serves Oklahoma City, Edmond, Norman, Moore, Midwest City, Yukon, Del City, Mustang, and Choctaw): https://allhandsondashokc.com/

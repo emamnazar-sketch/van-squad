@@ -93,7 +93,7 @@ Search Van Squads by your ZIP code to see local handyman businesses that come to
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeBlue — Handyman Prices in Oklahoma City, Oklahoma: https://www.homeblue.com/handyman/oklahoma-city-ok-handyman-prices.htm

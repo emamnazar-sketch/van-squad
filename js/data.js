@@ -1337,7 +1337,7 @@
     },
     {
       q: 'Can I pay through Van Squads?',
-      a: 'No. Online payments are not part of Van Squads. Agree service and payment terms directly with the business.'
+      a: 'No — you book and pay with the business you choose.'
     },
     {
       q: 'Is a requested time confirmed?',

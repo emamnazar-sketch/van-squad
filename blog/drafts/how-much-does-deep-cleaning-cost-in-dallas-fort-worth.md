@@ -96,7 +96,7 @@ Search Van Squads by ZIP. Coverage sits in Lake Highlands, Dallas ZIP 75243 and 
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - Dallas Maids — How Much Does House Cleaning Cost in Dallas? (2026 Pricing Guide) (standard cleaning $140–$280, deep cleaning $220–$440, move-out cleaning $350–$600 or more, apartment cleaning $120–$240; most professional companies charge a flat rate averaging around $50 per hour per cleaner; Dallas dust gets in even with windows closed and new construction runs from Frisco to Dallas): https://dallasmaids.com/how-much-does-house-cleaning-cost-in-dallas-2026-pricing-guide/

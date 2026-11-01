@@ -83,7 +83,7 @@ Search Van Squads by your ZIP code — 73162 in northwest Oklahoma City and the 
 
 ---
 
-**Disclosure:** Van Squads is a directory, not the service provider. Service and payment terms are arranged directly between customer and business owner.
+**Disclosure:** Van Squads is here to help you find the right service for your home — we match you with the best possible local businesses in your area, and you book directly with the one you choose.
 
 **Sources:**
 - HomeGuide — The 10 Best Dog Groomers in Oklahoma City, OK (mobile full service about $75 for average-size dogs; salon full service from $40 small / $75 large; add-ons $5–$15; second and third dog significantly lower; tip 15–20%): https://homeguide.com/ok/oklahoma-city/dog-grooming/
