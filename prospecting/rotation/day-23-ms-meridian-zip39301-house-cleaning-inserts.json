@@ -1,0 +1,63 @@
+{
+ "businesses": [
+  {
+   "id": "f1fd7660-a6f5-4feb-b931-bf999167e95c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Southern Maids Housekeeping LLC",
+   "category": "House cleaning",
+   "phone": "(601) 616-8810",
+   "website": "https://southernmaidshousekeeping.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39301"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1859abf4-cd4b-4e15-8282-61eb8e4cecb5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rabbit's Cleaning Services, LLC",
+   "category": "House cleaning",
+   "phone": "(601) 513-4414",
+   "website": "http://rabbitscleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39301",
+    "39305"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "41370b93-4fb8-4a98-8fe6-ca3d7a48cfa7",
+   "business_id": "f1fd7660-a6f5-4feb-b931-bf999167e95c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e15659af-dc1c-46e6-9312-74e8dcfbacfc",
+   "business_id": "1859abf4-cd4b-4e15-8282-61eb8e4cecb5",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

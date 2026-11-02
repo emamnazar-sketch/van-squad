@@ -932,6 +932,29 @@
     '60804': 'Cicero',
 
 
+    '38654': 'Olive Branch',
+    '38671': 'Southaven',
+    '38801': 'Tupelo',
+    '38804': 'Tupelo',
+    '39042': 'Brandon',
+    '39047': 'Brandon',
+    '39056': 'Clinton',
+    '39110': 'Madison',
+    '39157': 'Ridgeland',
+    '39206': 'Jackson',
+    '39208': 'Pearl',
+    '39209': 'Jackson',
+    '39211': 'Jackson',
+    '39212': 'Jackson',
+    '39232': 'Flowood',
+    '39301': 'Meridian',
+    '39305': 'Meridian',
+    '39401': 'Hattiesburg',
+    '39402': 'Hattiesburg',
+    '39501': 'Gulfport',
+    '39503': 'Gulfport',
+    '39532': 'Biloxi',
+    '39564': 'Ocean Springs',
 };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 

@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "f80a900e-2a93-44ac-8658-38839bc8273d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Foster's Cleaning and Moving Services",
+   "category": "House cleaning",
+   "phone": "(601) 291-7936",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39232"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "64c94789-e8b2-40ee-b519-bf3a6e43d648",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Southern Sparkle Cleaning LLC",
+   "category": "House cleaning",
+   "phone": "(601) 808-0819",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39232"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9050f3ff-1520-424c-9468-a1918c7c42c0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Legendary Presence Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(601) 665-7304",
+   "website": "https://www.legendarypresence.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39232"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7dec4d69-b604-47de-b5ad-1167ddec00a8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "DEkADENCE Cleaning",
+   "category": "House cleaning",
+   "phone": "(601) 488-8400",
+   "website": "https://dekadencecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39232"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "3a19f00f-f873-4267-8b6d-a6524aabf2ec",
+   "business_id": "f80a900e-2a93-44ac-8658-38839bc8273d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "22e79290-9889-40af-8677-2bad72396373",
+   "business_id": "64c94789-e8b2-40ee-b519-bf3a6e43d648",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8c7c36c0-0355-480f-8f26-73960c864820",
+   "business_id": "9050f3ff-1520-424c-9468-a1918c7c42c0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f0fa47b5-0bee-4d9b-a3e9-135e33744bc7",
+   "business_id": "7dec4d69-b604-47de-b5ad-1167ddec00a8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "fc11975a-d8d0-4711-a872-e8e43991bc3f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Hattiesburg",
+      "category": "House cleaning",
+      "phone": "(601) 453-4742",
+      "website": "https://www.mollymaid.com/locations/hattiesburg/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "48c8ec4b-bdf1-4478-8b6c-58676b47c74e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mama Fer",
+      "category": "House cleaning",
+      "phone": "(601) 602-5013",
+      "website": "http://mamafer.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cc9bfbb0-7f40-4f1b-9488-f022c51d5f24",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "VIP Cleaning Service of Hattiesburg MS",
+      "category": "House cleaning",
+      "phone": "(601) 577-1411",
+      "website": "http://viphousecleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a5e52feb-c232-436f-848f-700b93a6f5fd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleanovation Services",
+      "category": "House cleaning",
+      "phone": "(601) 436-5665",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39402"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "cdfe6fe9-9b54-4d0e-ba3d-84d10cce7ce7",
+      "business_id": "fc11975a-d8d0-4711-a872-e8e43991bc3f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "030cee2f-01b6-4055-9a12-81b43a055743",
+      "business_id": "48c8ec4b-bdf1-4478-8b6c-58676b47c74e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4e6e641a-5edb-45d8-93d5-7ac69adda26f",
+      "business_id": "cc9bfbb0-7f40-4f1b-9488-f022c51d5f24",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9b0dd49a-a29a-414d-8b54-fea618c8988d",
+      "business_id": "a5e52feb-c232-436f-848f-700b93a6f5fd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

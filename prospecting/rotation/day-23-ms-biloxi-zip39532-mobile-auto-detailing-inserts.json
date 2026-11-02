@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "627b16b0-fb7c-4af4-8a5b-54f487d59aee",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Detailed Auto Spa",
+   "category": "Mobile auto detailing",
+   "phone": "(228) 243-0833",
+   "website": "https://www.detailedautospallc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39532"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9b0fe47a-cc1f-4eb2-883c-0b129e7d4d0d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Coastal Gloss Detailing & Ceramic Coating",
+   "category": "Mobile auto detailing",
+   "phone": "(228) 209-6381",
+   "website": "https://darling-salamander-7762ae.netlify.app/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39532"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cda6c650-50aa-497a-806c-5b37a6bd6b1b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Carbon Auto Spa",
+   "category": "Mobile auto detailing",
+   "phone": "(228) 338-2037",
+   "website": "http://www.carbonautospallc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "39532"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "92de98cd-e5b6-4fb4-b1a5-f185a86fcd9d",
+   "business_id": "627b16b0-fb7c-4af4-8a5b-54f487d59aee",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "675ec130-1ce2-4dce-9337-67b7e99d5fc0",
+   "business_id": "9b0fe47a-cc1f-4eb2-883c-0b129e7d4d0d",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2c557387-dd05-4b0b-8014-d7195c99e329",
+   "business_id": "cda6c650-50aa-497a-806c-5b37a6bd6b1b",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

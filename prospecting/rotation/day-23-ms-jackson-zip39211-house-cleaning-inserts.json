@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "bc4ba5a8-5403-4b07-8959-4ed4c2261c31",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kays Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(769) 251-3705",
+      "website": "http://mykayscleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "348bd2da-f35e-4b0c-bd26-eaf7a8c7be4f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rand's Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(601) 454-3016",
+      "website": "http://www.randcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "781a90a9-a633-4bf3-b2cf-a191bab2cafa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Jackson",
+      "category": "House cleaning",
+      "phone": "(601) 419-3888",
+      "website": "http://twomaidscleaning.com/jackson",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4ecdbaea-798f-4705-b341-eab1192cd247",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in Jackson",
+      "category": "House cleaning",
+      "phone": "(601) 932-7171",
+      "website": "https://www.maids.com/152/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "03e152b9-850f-46b5-9a58-973c2499dbe6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Jackson",
+      "category": "House cleaning",
+      "phone": "(601) 975-4012",
+      "website": "https://www.merrymaids.com/jackson-ms/?L=true",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "74ea7b73-6928-4dfc-aa51-3215950398cb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Magic Maids",
+      "category": "House cleaning",
+      "phone": "(601) 856-4100",
+      "website": "https://magicmaidsms.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8b03b2e6-61a2-4c34-96c9-559d35bde7b9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Princess Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(769) 224-0890",
+      "website": "https://princess-cleaning-services-llc.square.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4c24cf5e-cda7-4ca2-b40f-663b92669430",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Go Green Cleaning",
+      "category": "House cleaning",
+      "phone": "(601) 832-9384",
+      "website": "https://go-green-cleaning-llc.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e1112e26-3893-480d-a1ec-8b1a69e7e100",
+      "business_id": "bc4ba5a8-5403-4b07-8959-4ed4c2261c31",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d27b9643-c7b6-4a83-a49c-2a57d4625c3d",
+      "business_id": "348bd2da-f35e-4b0c-bd26-eaf7a8c7be4f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5e9523ac-599d-4b8b-8732-7c7fd3646390",
+      "business_id": "781a90a9-a633-4bf3-b2cf-a191bab2cafa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "795c41db-b37a-44ef-9d5a-21a3faccf771",
+      "business_id": "4ecdbaea-798f-4705-b341-eab1192cd247",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77377754-9a77-4ca0-96d5-17eab7af351a",
+      "business_id": "03e152b9-850f-46b5-9a58-973c2499dbe6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee39398f-d8c6-4a76-b90c-ee8b108bd985",
+      "business_id": "74ea7b73-6928-4dfc-aa51-3215950398cb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "054da774-a39c-45c1-aabb-c9fc8956dd0a",
+      "business_id": "8b03b2e6-61a2-4c34-96c9-559d35bde7b9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a92ac995-a17d-47ae-8081-de59b9cc5f95",
+      "business_id": "4c24cf5e-cda7-4ca2-b40f-663b92669430",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

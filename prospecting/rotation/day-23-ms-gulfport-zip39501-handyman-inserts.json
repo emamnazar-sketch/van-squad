@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "73151d24-d01b-437b-8141-b72e69ac5621",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Coast Handyman",
+      "category": "Handyman",
+      "phone": "(228) 313-7647",
+      "website": "https://www.yourcoasthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39501"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "eb543594-db88-42d4-b139-5f545d0493ba",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman House Pros LLC",
+      "category": "Handyman",
+      "phone": "(228) 346-4663",
+      "website": "https://handymanhousepros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39501"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "74e2b971-27eb-4bfd-b3f0-6a9b34865311",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Triple J's Cutting Edge Construction",
+      "category": "Handyman",
+      "phone": "(228) 363-0451",
+      "website": "https://calltriplejs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39501"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c8577a01-eaaa-4f86-8978-fdd23a9ac68a",
+      "business_id": "73151d24-d01b-437b-8141-b72e69ac5621",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ca55d554-bbe3-4cec-8b50-4748d06ddfcb",
+      "business_id": "eb543594-db88-42d4-b139-5f545d0493ba",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9a3421f3-7cc1-416d-8696-5795afbf4135",
+      "business_id": "74e2b971-27eb-4bfd-b3f0-6a9b34865311",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

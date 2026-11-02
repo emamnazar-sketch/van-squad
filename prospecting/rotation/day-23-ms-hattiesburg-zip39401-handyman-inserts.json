@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "d7b51327-e88d-4202-a49d-bd83dd591892",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Southern Best Handyman LLC",
+      "category": "Handyman",
+      "phone": "(601) 909-0552",
+      "website": "http://www.southernbesthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d60f177-e411-4839-a8d1-f411089af6c4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "McGrew Pro Services",
+      "category": "Handyman",
+      "phone": "(601) 549-2924",
+      "website": "https://mcgrew-pro-services.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "874a2018-989b-4512-8467-03163171953f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Troy Bobs Professional Handyman Services",
+      "category": "Handyman",
+      "phone": "(601) 602-5006",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "314ca9d0-e7bf-42e2-8bbb-13862a0e7fee",
+      "business_id": "d7b51327-e88d-4202-a49d-bd83dd591892",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f220a41f-abaa-46ea-bcb4-b0a5f4345010",
+      "business_id": "6d60f177-e411-4839-a8d1-f411089af6c4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b09c6d9c-4bf2-4441-9d23-f6479bb1d3d5",
+      "business_id": "874a2018-989b-4512-8467-03163171953f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+ "businesses": [
+  {
+   "id": "d6861208-552a-4287-bfd8-94fb3383cefa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "VersaFinish Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(662) 322-2762",
+   "website": "https://versafinishdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "38804"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "4b1ad9f7-e0ff-497c-956e-8863bf3745ae",
+   "business_id": "d6861208-552a-4287-bfd8-94fb3383cefa",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

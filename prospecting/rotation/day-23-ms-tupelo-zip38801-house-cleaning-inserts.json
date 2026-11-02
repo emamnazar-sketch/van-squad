@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "33f996f3-5570-4246-97c7-4f5765d6f190",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Top to Bottom Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(662) 388-5100",
+      "website": "http://topcleaner.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2056c03a-253a-4117-bfd7-d9f77fcdb88c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Tupelo",
+      "category": "House cleaning",
+      "phone": "(662) 350-8339",
+      "website": "https://www.twomaidscleaning.com/tupelo-ms/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "68e6e60c-7f0e-4383-8bf7-f31379daf768",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kayla's Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(662) 308-7637",
+      "website": "https://kaylascleaningservicellc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9dc6bc54-25d1-41f8-ad8b-eeca403a086e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alyssa's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(662) 397-5405",
+      "website": "https://alyssas-cleaning-service.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ce5cfdef-8b54-4751-88b3-de4c5b1ddbfe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Janitor Inc.",
+      "category": "House cleaning",
+      "phone": "(662) 844-7713",
+      "website": "http://mrjanitortupelo.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fe89b821-fbcc-4f7d-af98-c244d6b59eb0",
+      "business_id": "33f996f3-5570-4246-97c7-4f5765d6f190",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "be4f611b-edcb-4f43-b85f-018d25c80f44",
+      "business_id": "2056c03a-253a-4117-bfd7-d9f77fcdb88c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "193fe9c9-69ce-4b1d-8244-55f7f4ec9015",
+      "business_id": "68e6e60c-7f0e-4383-8bf7-f31379daf768",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a6ab73cc-6f83-4352-ba42-5e8c9fc7acf6",
+      "business_id": "9dc6bc54-25d1-41f8-ad8b-eeca403a086e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a744dbc6-3d0c-4432-a7cc-554b2afc9a73",
+      "business_id": "ce5cfdef-8b54-4751-88b3-de4c5b1ddbfe",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "businesses": [
+    {
+      "id": "e58f26c7-6dde-4375-9890-0278fc7ce9fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Queen Clean Services",
+      "category": "House cleaning",
+      "phone": "(228) 278-5004",
+      "website": "https://queencleanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39503",
+        "39564"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "31a2a357-7ea4-4ecf-a458-8583bcc090f2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Royals Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(228) 229-6513",
+      "website": "http://www.royals-cleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28917fe0-5fc8-45fe-a028-b0db79cf5657",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "PV Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(228) 400-9772",
+      "website": "https://www.patiencevirtuecs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39503",
+        "39532"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "14b8a3f6-05d2-48c5-81bd-bd39d88b8e44",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gulf Coast Elite Cleaning, LLC",
+      "category": "House cleaning",
+      "phone": "(228) 235-0987",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39503",
+        "39564"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d1993f45-036b-43a6-a8f8-44dff7f5e591",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Haney's Housekeeping",
+      "category": "House cleaning",
+      "phone": "(228) 380-0047",
+      "website": "http://www.facebook.com/haneyshousekeeping",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "8229c54e-5d8b-4c16-a057-992ac781492a",
+      "business_id": "e58f26c7-6dde-4375-9890-0278fc7ce9fb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "46132b21-3189-4493-9d5e-852d2aa49db7",
+      "business_id": "31a2a357-7ea4-4ecf-a458-8583bcc090f2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5986d924-5544-468f-92dd-f875405d5726",
+      "business_id": "28917fe0-5fc8-45fe-a028-b0db79cf5657",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b7e5e38-24cd-4929-a1a4-7f2621fdaa1a",
+      "business_id": "14b8a3f6-05d2-48c5-81bd-bd39d88b8e44",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "54179ddf-ec49-4751-a815-84e7855e9e24",
+      "business_id": "d1993f45-036b-43a6-a8f8-44dff7f5e591",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

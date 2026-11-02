@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "06574b9b-9021-4928-944c-400fe4e1318f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "1 Handy Craftsman",
+      "category": "Handyman",
+      "phone": "(901) 907-1917",
+      "website": "https://www.1handycraftsman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38654"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bf02a909-5608-4762-9a27-fce2b99c10fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Services",
+      "category": "Handyman",
+      "phone": "(901) 612-2502",
+      "website": "https://handymanservicesmemphis.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38654"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6b970bfd-9503-4b96-b9e8-77c4de9613d7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Memphis",
+      "category": "Handyman",
+      "phone": "(901) 479-1640",
+      "website": "https://www.mrhandyman.com/memphis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38654"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "457d875d-c6c2-47e6-b9a3-b9377021ebf3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Oliver Home Repairs",
+      "category": "Handyman",
+      "phone": "(901) 871-3327",
+      "website": "http://oliverhomerepairsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38654"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1fa71a7f-e740-4733-8b6a-8ef61752c71e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Desoto's On Call Handyman",
+      "category": "Handyman",
+      "phone": "(901) 485-2786",
+      "website": "https://desotoshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38654"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dc0ef2b8-a85f-4d31-9ac3-ed24ae30b700",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DrHandymanMS",
+      "category": "Handyman",
+      "phone": "(662) 429-2502",
+      "website": "http://drhandymanms.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38654"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b45c7643-77a2-497f-b2b7-3d2431d7ebd4",
+      "business_id": "06574b9b-9021-4928-944c-400fe4e1318f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5fe36b72-86b7-4389-8f84-13b142eb23b7",
+      "business_id": "bf02a909-5608-4762-9a27-fce2b99c10fa",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1cf1ac14-019b-468d-94b4-a7a3d57d8fcd",
+      "business_id": "6b970bfd-9503-4b96-b9e8-77c4de9613d7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b8e321a6-7df5-435b-b746-8d89cccd7ce3",
+      "business_id": "457d875d-c6c2-47e6-b9a3-b9377021ebf3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "128fcd60-e9a2-4513-80e7-266fb253bc10",
+      "business_id": "1fa71a7f-e740-4733-8b6a-8ef61752c71e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c17ddb49-f2ca-4a16-979d-8063f5bcdb94",
+      "business_id": "dc0ef2b8-a85f-4d31-9ac3-ed24ae30b700",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

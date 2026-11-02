@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "42e71532-3062-48df-b6c2-d26a8cab9347",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bailey Heat Air and Home Repair",
+      "category": "Handyman",
+      "phone": "(601) 506-6291",
+      "website": "https://baileyheatairandhomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39110"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "395ee12d-8d7e-4ad3-a7e8-6a9030d716f1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maintenance Man for Seniors",
+      "category": "Handyman",
+      "phone": "(601) 201-1731",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39110"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "31077dd1-37b0-4f3f-9b8d-98fb6effa334",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Round 'Da House Home Repairs",
+      "category": "Handyman",
+      "phone": "(601) 983-8669",
+      "website": "https://rounddahouse.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39110"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "445d51f6-0031-4703-8fd9-da5783656a0c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Daniel's Handyman Services",
+      "category": "Handyman",
+      "phone": "(601) 529-7691",
+      "website": "https://danielhandymanservice.velvetsolutions.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "39110"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "199db25f-c802-4e61-8368-043a533b9949",
+      "business_id": "42e71532-3062-48df-b6c2-d26a8cab9347",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8909f84e-e20b-4d9a-877b-a93eaa5e8f8d",
+      "business_id": "395ee12d-8d7e-4ad3-a7e8-6a9030d716f1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1d700ba5-7b8f-4a62-bb87-2f2ac52bb2cd",
+      "business_id": "31077dd1-37b0-4f3f-9b8d-98fb6effa334",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "773835b5-0090-4f30-b12e-03e87b9f96d1",
+      "business_id": "445d51f6-0031-4703-8fd9-da5783656a0c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
