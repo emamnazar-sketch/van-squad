@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "281b9ecd-f9f6-4ebb-97d2-c2892388300f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Devin's Do It Right Services LLC",
+      "category": "Handyman",
+      "phone": "(517) 918-7267",
+      "website": "https://devindoesitright.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48507"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "af9d6a23-f9d9-4af4-8ac4-d6026808555b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TruBlue of Grand Blanc",
+      "category": "Handyman",
+      "phone": "(810) 243-1050",
+      "website": "https://www.trublueally.com/grand-blanc/About-Us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48507"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "20d11769-7952-47af-be90-560e6f9d17ec",
+      "business_id": "281b9ecd-f9f6-4ebb-97d2-c2892388300f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0ed5d340-623c-4e15-baa0-812ad4ba50f7",
+      "business_id": "af9d6a23-f9d9-4af4-8ac4-d6026808555b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

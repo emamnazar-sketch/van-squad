@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "36105ce8-d495-4ee8-acc1-69f9923579ee",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AutoAllDetailing",
+      "category": "Mobile auto detailing",
+      "phone": "(313) 699-1032",
+      "website": "https://autoalldetailing.setmore.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48126"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "46e83a94-59e1-4816-b679-b261bcc0ef1c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "S&M Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(313) 300-3304",
+      "website": "https://sandmdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48126"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "df87ebce-07dc-415c-ac4c-65d3c0b23384",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Denson Auto Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(248) 214-6777",
+      "website": "http://densonautodetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48126"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bcc41c49-5251-440b-a67e-f91791f70e46",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jazzy Fresh Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(734) 252-9210",
+      "website": "https://www.thejfexp.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48126"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e5525cf8-6adb-4df1-b85d-71a54dffdd22",
+      "business_id": "36105ce8-d495-4ee8-acc1-69f9923579ee",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "423f9ea8-8cbc-4ea4-be05-88ee72695ed1",
+      "business_id": "46e83a94-59e1-4816-b679-b261bcc0ef1c",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "805224d5-2615-4801-b9d3-47cadef74e09",
+      "business_id": "df87ebce-07dc-415c-ac4c-65d3c0b23384",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eeea5dd6-e84a-42b9-8519-e4d36093b5a4",
+      "business_id": "bcc41c49-5251-440b-a67e-f91791f70e46",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

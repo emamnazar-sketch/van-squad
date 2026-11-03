@@ -1,0 +1,300 @@
+{
+  "businesses": [
+    {
+      "id": "58af4a9b-f4be-4a8a-8ef3-53f35a6b9fe5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Inside and Out Home Services",
+      "category": "House cleaning",
+      "phone": "(734) 444-9509",
+      "website": "https://insideouthomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "52b65bff-8538-4282-8198-2a9c709c6d8c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pinnacle Maids",
+      "category": "House cleaning",
+      "phone": "(734) 821-3991",
+      "website": "https://pinnaclemaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0409a37a-2179-4130-a265-28037e52f8e2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Housekeeping Associates",
+      "category": "House cleaning",
+      "phone": "(734) 741-8822",
+      "website": "https://housekeepingassociates.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a6d65d28-32c5-486b-a925-a773360d6d96",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "S&J Cleaning Service, LLC",
+      "category": "House cleaning",
+      "phone": "(734) 477-0022",
+      "website": "https://sandjcleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "97203d16-a3af-4fe6-948d-26bd1ee279bc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Arbor Maid",
+      "category": "House cleaning",
+      "phone": "(734) 257-8080",
+      "website": "https://www.arbormaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "59e237b0-30ab-4fc6-9584-43e0d0b0107f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Ann Arbor",
+      "category": "House cleaning",
+      "phone": "(734) 492-5597",
+      "website": "https://www.twomaidscleaning.com/ann-arbor/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ed4e86ce-252d-4f9c-b98e-2449ff132463",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Ann Arbor",
+      "category": "House cleaning",
+      "phone": "(734) 206-2091",
+      "website": "https://www.thecleaningauthority.com/annarbor",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103",
+        "48104",
+        "48105",
+        "48108",
+        "48111",
+        "48118",
+        "48130",
+        "48160",
+        "48169",
+        "48176",
+        "48188",
+        "48189",
+        "48191",
+        "48197",
+        "48198"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fa7fa2c3-3869-44aa-b7ec-006575117f3c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Ann Arbor",
+      "category": "House cleaning",
+      "phone": "(734) 849-4041",
+      "website": "https://merrymaids.com/home-cleaners-ann-arbor-mi",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ba4a5b4f-4c1b-495a-8685-209229b5f30f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids of Greater Ann Arbor",
+      "category": "House cleaning",
+      "phone": "(734) 926-2640",
+      "website": "https://www.maids.com/374/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ab46ae62-1e5b-4679-ba80-fcc3e3244ba1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Ann Arbor and Washtenaw County",
+      "category": "House cleaning",
+      "phone": "(734) 890-5285",
+      "website": "https://www.mollymaid.com/locations/ann-arbor/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "91c484f1-40f5-4221-9178-a900db6326ed",
+      "business_id": "58af4a9b-f4be-4a8a-8ef3-53f35a6b9fe5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "01934f32-c34f-430f-8f18-574a0da786ba",
+      "business_id": "52b65bff-8538-4282-8198-2a9c709c6d8c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bca6b8fa-e4fa-40a9-a143-931f37035bde",
+      "business_id": "0409a37a-2179-4130-a265-28037e52f8e2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "da684c93-9068-4492-9f9f-08581da9c2ea",
+      "business_id": "a6d65d28-32c5-486b-a925-a773360d6d96",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7335816a-6841-4363-90d5-e7f8ddc7f6bb",
+      "business_id": "97203d16-a3af-4fe6-948d-26bd1ee279bc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a7b9f300-d17c-4f34-bc7f-0f6098721d06",
+      "business_id": "59e237b0-30ab-4fc6-9584-43e0d0b0107f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b95391b-b595-47da-bc46-c74919aefd46",
+      "business_id": "ed4e86ce-252d-4f9c-b98e-2449ff132463",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b77ccb1b-8ded-4c51-bdb7-23edeed460dc",
+      "business_id": "fa7fa2c3-3869-44aa-b7ec-006575117f3c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8c007b92-2211-4123-b1c2-25d309a8d102",
+      "business_id": "ba4a5b4f-4c1b-495a-8685-209229b5f30f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f1e6c5de-314a-45c7-ab3c-d7dc1dd28f48",
+      "business_id": "ab46ae62-1e5b-4679-ba80-fcc3e3244ba1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

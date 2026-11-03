@@ -1,0 +1,219 @@
+{
+  "businesses": [
+    {
+      "id": "08af01ea-d8cc-4b23-be44-7fc71306bece",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Troy",
+      "category": "House cleaning",
+      "phone": "(248) 440-7918",
+      "website": "https://www.thecleaningauthority.com/troy/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084",
+        "48009",
+        "48017",
+        "48067",
+        "48069",
+        "48070",
+        "48072",
+        "48073",
+        "48083",
+        "48085",
+        "48098",
+        "48304",
+        "48307",
+        "48316",
+        "48317"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9e80a0b1-6eba-4b45-9344-c93b4b00406f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Troy",
+      "category": "House cleaning",
+      "phone": "(248) 365-7934",
+      "website": "https://www.mollymaid.com/locations/troy/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "21b5904f-9587-4f8e-aec9-778ce675590e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Rochester Hills",
+      "category": "House cleaning",
+      "phone": "(248) 654-5565",
+      "website": "https://www.twomaidscleaning.com/rochester-hills/about/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "987a8509-ccfa-4f35-8263-7a89b0a1ec62",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Buna Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(586) 864-0869",
+      "website": "http://www.bunaclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "441ba214-9d93-4ead-9894-772e830827de",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dawn to Dusk Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(586) 932-4090",
+      "website": "https://dawntoduskcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d8ff32c4-1c51-47e8-8dfd-ec2999e5654e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rescue Maids, LLC",
+      "category": "House cleaning",
+      "phone": "(248) 242-7745",
+      "website": "https://rescuemaids.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3e57c9c1-dcd6-4798-8ebe-f54af551a568",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BloomBrite Cleaning",
+      "category": "House cleaning",
+      "phone": "(947) 465-4217",
+      "website": "https://www.bloombritecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48084",
+        "48083",
+        "48085",
+        "48098"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "30872e91-45c1-4383-8d32-61775942ca80",
+      "business_id": "08af01ea-d8cc-4b23-be44-7fc71306bece",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "931f1dc1-05d9-42c4-aa64-2fda832340e3",
+      "business_id": "9e80a0b1-6eba-4b45-9344-c93b4b00406f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8b5e7cab-17b5-489e-95c9-212f6109dcc5",
+      "business_id": "21b5904f-9587-4f8e-aec9-778ce675590e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e82903f5-b410-46a7-afc8-e0135cd64aca",
+      "business_id": "987a8509-ccfa-4f35-8263-7a89b0a1ec62",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "abe589b7-1da3-41c6-b78b-ff15db7f2662",
+      "business_id": "441ba214-9d93-4ead-9894-772e830827de",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8e01d9b3-0f00-4531-a03d-c65980d87ae2",
+      "business_id": "d8ff32c4-1c51-47e8-8dfd-ec2999e5654e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "287ac4d4-3960-42cb-b2fc-555dca4bff16",
+      "business_id": "3e57c9c1-dcd6-4798-8ebe-f54af551a568",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

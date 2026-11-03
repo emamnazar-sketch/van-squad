@@ -1,0 +1,286 @@
+{
+  "businesses": [
+    {
+      "id": "1dc3be83-49fd-4526-b993-f3d410224887",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Grand Rapids",
+      "category": "Handyman",
+      "phone": "(616) 288-2287",
+      "website": "https://www.acehandymanservices.com/offices/grand-rapids-se",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d3a92a22-e93a-40f9-a047-d5ccbb579f0f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Grand Rapids Handyman",
+      "category": "Handyman",
+      "phone": "(616) 612-2640",
+      "website": "https://www.grandrapidshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5259dbe4-c439-4bf8-9b09-78ee9d664e2c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Smith Home Improvements",
+      "category": "Handyman",
+      "phone": "(616) 209-9085",
+      "website": "https://sites.google.com/smithhomesgr.com/smith-home-improvements",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "182a6038-1074-4b3e-8af3-9607fcfa4464",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Go To Property Maintenance",
+      "category": "Handyman",
+      "phone": "(616) 406-4745",
+      "website": "http://gotopropertymaintenance.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "befd3cac-068b-4cd8-8dcf-ddaac5b9883b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Deluxe Handyman Service",
+      "category": "Handyman",
+      "phone": "(269) 358-8222",
+      "website": "https://deluxehandymanco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c6a8d92d-b320-414d-ad08-f9e38be11d1a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Connection of Ada Servicing Grand Rapids",
+      "category": "Handyman",
+      "phone": "(616) 520-8777",
+      "website": "https://handymanconnection.com/grand-rapids-ada/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "51972fdf-880c-4723-af42-be210594ba3b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Huizenga Home Repair Services",
+      "category": "Handyman",
+      "phone": "(616) 727-8413",
+      "website": "http://www.huizengahomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9e9abb6d-18c5-40a5-8935-4d02fda6602f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kurtis Building & Repair LLC",
+      "category": "Handyman",
+      "phone": "(616) 490-8596",
+      "website": "http://kurtisbuilders.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "52cee2bd-234b-4403-b7bc-7a471b1e91aa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SJK Handyman Services",
+      "category": "Handyman",
+      "phone": "(616) 514-7522",
+      "website": "https://www.sjkhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "78ae6738-afd5-4025-96c0-9f7c6462cf2e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Greater Grand Rapids",
+      "category": "Handyman",
+      "phone": "(616) 202-3359",
+      "website": "https://www.mrhandyman.com/greater-grand-rapids/?cid=LSTL_MHM000197",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49525"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3cf0f47c-2d80-4d0e-97ea-9e0934eab08b",
+      "business_id": "1dc3be83-49fd-4526-b993-f3d410224887",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "25b1dd6e-0085-419c-b34e-38e8a32e1fcf",
+      "business_id": "d3a92a22-e93a-40f9-a047-d5ccbb579f0f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f5ca693e-12ef-48b7-9465-1cee1ccbb574",
+      "business_id": "5259dbe4-c439-4bf8-9b09-78ee9d664e2c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee872515-525d-4d53-88f0-9a4f19f1e363",
+      "business_id": "182a6038-1074-4b3e-8af3-9607fcfa4464",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "100c2b14-b9d7-4942-a423-80d1ac8a8e26",
+      "business_id": "befd3cac-068b-4cd8-8dcf-ddaac5b9883b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dbbbf78e-4fb2-45ad-a6d3-4fb186a87ae8",
+      "business_id": "c6a8d92d-b320-414d-ad08-f9e38be11d1a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "29c527a9-8bca-46f3-9ae3-d2395e4a2786",
+      "business_id": "51972fdf-880c-4723-af42-be210594ba3b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "11816938-5d05-45a0-b517-7cb0e7175731",
+      "business_id": "9e9abb6d-18c5-40a5-8935-4d02fda6602f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8b7865c1-37dc-44bc-80b8-ef88a657ede3",
+      "business_id": "52cee2bd-234b-4403-b7bc-7a471b1e91aa",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ecf61151-bd4e-4345-abe6-d8fdf0b435db",
+      "business_id": "78ae6738-afd5-4025-96c0-9f7c6462cf2e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "965daa47-8013-4336-b825-c327665f4cbc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning the Mitten",
+      "category": "House cleaning",
+      "phone": "(734) 655-0575",
+      "website": "http://cleaningthemitten.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48152"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "02c778c5-6185-400d-b870-4676100e74b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mop N Broom Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(734) 679-6369",
+      "website": "https://mopnbroom.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48152"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a812354-70d5-476f-b6d0-880546e50e29",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Arbor Trail Cleaning Co",
+      "category": "House cleaning",
+      "phone": "(734) 766-7792",
+      "website": "https://www.arbortrailcleaningco.com/service-area/livonia-mi",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48152"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8bc84710-1a60-4afe-a359-7ab4f17b5138",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Green",
+      "category": "House cleaning",
+      "phone": "(734) 648-6243",
+      "website": "https://maidgreenlivonia.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48152"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "afd90bce-bb01-42e1-8409-180a08587d08",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Livonia",
+      "category": "House cleaning",
+      "phone": "(734) 786-4660",
+      "website": "https://twomaidscleaning.com/livonia/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48152"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "af5c3202-4f24-4631-b525-b8bc587da90a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Western Wayne and Mid Oakland Counties",
+      "category": "House cleaning",
+      "phone": "(734) 389-8752",
+      "website": "https://www.mollymaid.com/locations/western-wayne-mid-oakland-counties/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48152"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3bad63ba-a91a-443d-8ee0-c2e00282edf2",
+      "business_id": "965daa47-8013-4336-b825-c327665f4cbc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7e2eec73-5751-4f12-9aa0-d6067c7aa903",
+      "business_id": "02c778c5-6185-400d-b870-4676100e74b3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "53d2397b-ffbe-4bc3-a756-830239d0f169",
+      "business_id": "7a812354-70d5-476f-b6d0-880546e50e29",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "691e58bb-dcdb-4214-8e9b-3fa91e64bf70",
+      "business_id": "8bc84710-1a60-4afe-a359-7ab4f17b5138",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c42dbe6b-1093-4133-a356-72d80c8b68fc",
+      "business_id": "afd90bce-bb01-42e1-8409-180a08587d08",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "beb83f04-843c-4de5-a0e2-153e034c4917",
+      "business_id": "af5c3202-4f24-4631-b525-b8bc587da90a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

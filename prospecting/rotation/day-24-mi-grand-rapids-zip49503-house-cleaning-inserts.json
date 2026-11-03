@@ -1,0 +1,314 @@
+{
+  "businesses": [
+    {
+      "id": "59556ed7-cab5-4d88-97ca-3e96818bafa9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "City Made Clean",
+      "category": "House cleaning",
+      "phone": "(616) 233-8000",
+      "website": "http://citymadeclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2862fa96-6eae-4849-9ec4-def2d513ede1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Renewed Comfort Cleaning",
+      "category": "House cleaning",
+      "phone": "(616) 952-3315",
+      "website": "https://renewedcomfortcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ed50e0f-4b76-4c86-bd60-bf43d57ca028",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Grand Rapids",
+      "category": "House cleaning",
+      "phone": "(616) 818-7235",
+      "website": "https://www.thecleaningauthority.com/grandrapids/our-cleaning-services/house-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "73793acd-aa37-403d-8773-0f645ed5ee99",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jeannie Cleaning",
+      "category": "House cleaning",
+      "phone": "(616) 236-3655",
+      "website": "https://jeanniecleaning.com/best-cleaning-service-grand-rapids/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "775d7616-2030-4375-8251-8c3fd421627e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaned Grand Rapids",
+      "category": "House cleaning",
+      "phone": "(616) 717-5353",
+      "website": "https://cleanedgr.com/story/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "adc80274-06d6-4b90-9fcf-2149e028a2e3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Grand Rapids",
+      "category": "House cleaning",
+      "phone": "(616) 929-5919",
+      "website": "https://twomaidscleaning.com/grand-rapids/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "09b3ddad-e63f-4c0d-be55-ad9721fb33d6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Blue Lavender Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(616) 219-0466",
+      "website": "https://bluelavendercleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f9fcd52c-3479-4b74-affb-50bd250b0c04",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cascade Fresh Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(616) 451-4424",
+      "website": "http://www.housecleaninggrandrapids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c9b8d20b-4920-4981-bd30-7a022b05d388",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkle and Shine Cleaning Services of West Michigan",
+      "category": "House cleaning",
+      "phone": "(616) 322-1403",
+      "website": "https://sparkleandshinecleaningservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "67e104d9-ce7e-4849-8f3b-4d6a895cd0f5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Oh So Clean",
+      "category": "House cleaning",
+      "phone": "(616) 279-9949",
+      "website": "http://www.ohsocleanegr.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a42370bf-6e28-4d2d-afce-1d94c11d9dbc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of East Ottawa & West Kent Counties",
+      "category": "House cleaning",
+      "phone": "(616) 425-8161",
+      "website": "https://www.mollymaid.com/locations/east-ottawa-west-kent-counties/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "49503"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "14a87eef-096f-4e73-963f-88db6e0b3675",
+      "business_id": "59556ed7-cab5-4d88-97ca-3e96818bafa9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3a30859d-a8f0-40d6-9bab-f451a902c23c",
+      "business_id": "2862fa96-6eae-4849-9ec4-def2d513ede1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "028aef43-9c35-436a-b4bc-e196541a0588",
+      "business_id": "8ed50e0f-4b76-4c86-bd60-bf43d57ca028",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "427d4bc6-0c4c-4592-8fce-8b6c903a96ca",
+      "business_id": "73793acd-aa37-403d-8773-0f645ed5ee99",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f099f1f1-48dc-4e54-b673-4369c55eb195",
+      "business_id": "775d7616-2030-4375-8251-8c3fd421627e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e8e6462f-cf8d-4254-acee-7c1b2291c25e",
+      "business_id": "adc80274-06d6-4b90-9fcf-2149e028a2e3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "73ba3079-1ee2-4c83-9389-6c7cf8b87684",
+      "business_id": "09b3ddad-e63f-4c0d-be55-ad9721fb33d6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0f6cda75-eacc-4fad-a67f-e511bcfe8757",
+      "business_id": "f9fcd52c-3479-4b74-affb-50bd250b0c04",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d04c25fb-c2b4-4b45-ae7f-0d0f4410221c",
+      "business_id": "c9b8d20b-4920-4981-bd30-7a022b05d388",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2b8a91f3-65ec-4c09-a76a-11259e90fd00",
+      "business_id": "67e104d9-ce7e-4849-8f3b-4d6a895cd0f5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b46b7d09-9326-4c6c-aa59-d00808f4e1e7",
+      "business_id": "a42370bf-6e28-4d2d-afce-1d94c11d9dbc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

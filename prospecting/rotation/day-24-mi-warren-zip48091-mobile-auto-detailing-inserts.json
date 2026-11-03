@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "4a0117cd-11e3-4157-a863-107105b98e22",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hutsell's Attention to Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(586) 404-5456",
+      "website": "https://hutsellsdetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48091"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6f61cf55-9a87-486e-9d3b-6445fcb01a36",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Axo Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(248) 275-7750",
+      "website": "https://www.axodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48091"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9845aaa3-4515-48bf-ba3c-85f6397db87d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dripp Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(810) 569-8010",
+      "website": "https://drippdetailing.us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48091"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ddc65833-c142-4a7b-a870-24be81878541",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "YurCar Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(586) 217-8422",
+      "website": "https://yurcardetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48091"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d71d46e-646e-4a6f-a279-c8bb66770709",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "R Premium Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(586) 489-3930",
+      "website": "https://r-premium-detailing-pi.vercel.app/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48091"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "63e62c42-659d-416c-9542-2c83d9255307",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vickie V's Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(313) 398-0354",
+      "website": "https://vickie-vs-detailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48091"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0851bea4-d866-41f9-bcf5-5fd1cc027f4c",
+      "business_id": "4a0117cd-11e3-4157-a863-107105b98e22",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "620b9a8c-7f54-4af9-add7-6faa533befca",
+      "business_id": "6f61cf55-9a87-486e-9d3b-6445fcb01a36",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6647c2bd-4976-4b6e-a6eb-f163599a72fc",
+      "business_id": "9845aaa3-4515-48bf-ba3c-85f6397db87d",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9feaef52-156f-4b81-b824-1d17e74552ff",
+      "business_id": "ddc65833-c142-4a7b-a870-24be81878541",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c352d15f-80c0-49b4-b722-f0f88dea02b9",
+      "business_id": "6d71d46e-646e-4a6f-a279-c8bb66770709",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0611932b-027c-4a88-99e5-c7484ab5886e",
+      "business_id": "63e62c42-659d-416c-9542-2c83d9255307",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

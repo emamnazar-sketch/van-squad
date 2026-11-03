@@ -1,0 +1,286 @@
+{
+  "businesses": [
+    {
+      "id": "c969a221-18d6-4b4f-9246-d774a763f0db",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ann Arbor Handy LLC",
+      "category": "Handyman",
+      "phone": "(734) 383-1450",
+      "website": "https://annarborhandy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "72fcc380-8052-4a10-95ab-8ccc2890ffe7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Ann Arbor",
+      "category": "Handyman",
+      "phone": "(734) 535-1126",
+      "website": "https://www.acehandymanservices.com/offices/ann-arbor",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3c084afe-a5d2-4970-83cf-7c7193bd6a61",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A2 Handyman",
+      "category": "Handyman",
+      "phone": "(734) 652-5775",
+      "website": "https://a2handy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4bf52ec1-d897-4976-bcfd-80876ea034df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "My Handyman of Ann Arbor, Saline, and Chelsea",
+      "category": "Handyman",
+      "phone": "(734) 666-3021",
+      "website": "https://www.mrhandyman.com/ann-arbor-saline-and-chelsea/?cid=LSTL_MHM000197",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4c77a4bb-2bf4-40ef-837e-d35c6eb08007",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Hometown Services",
+      "category": "Handyman",
+      "phone": "(734) 210-1720",
+      "website": "http://handyhometownservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4ca0464b-6b2f-4184-92f5-f49ac8df51ee",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Connection of Ann Arbor",
+      "category": "Handyman",
+      "phone": "(734) 205-9000",
+      "website": "https://handymanconnection.com/ann-arbor/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "52f44d9e-7f91-47d9-93ca-ad27ad69962e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DI4Y",
+      "category": "Handyman",
+      "phone": "(734) 219-1147",
+      "website": "https://di4y.help/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "db278604-d5b5-4dc7-a3ae-4ea6980567de",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ArborServe LLC",
+      "category": "Handyman",
+      "phone": "(734) 926-8334",
+      "website": "http://arborserve.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8b197136-ea93-4943-abed-215a31ebb803",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wiggle My Legs",
+      "category": "Handyman",
+      "phone": "(734) 405-8772",
+      "website": "https://wigglemylegs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c9aaedb0-ccf7-4c12-a23e-ec7120c8ba6b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chris Handyman",
+      "category": "Handyman",
+      "phone": "(734) 210-7948",
+      "website": "http://www.chrishandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fc37ae72-8422-4743-9285-39fac6c0e2af",
+      "business_id": "c969a221-18d6-4b4f-9246-d774a763f0db",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "90bdda74-8611-4f84-911b-fa98edef96bf",
+      "business_id": "72fcc380-8052-4a10-95ab-8ccc2890ffe7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "00705cee-8fae-4f54-a483-cac1bfcb78bc",
+      "business_id": "3c084afe-a5d2-4970-83cf-7c7193bd6a61",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "64dd544e-6fc4-486c-9100-0cb1b0fb6337",
+      "business_id": "4bf52ec1-d897-4976-bcfd-80876ea034df",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "384e8b19-15fe-48d1-a693-cad66a383885",
+      "business_id": "4c77a4bb-2bf4-40ef-837e-d35c6eb08007",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "102da39b-f010-4c46-83b2-a12c8b5fdabe",
+      "business_id": "4ca0464b-6b2f-4184-92f5-f49ac8df51ee",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d5ef1645-7430-4d3c-820f-d4095f49f702",
+      "business_id": "52f44d9e-7f91-47d9-93ca-ad27ad69962e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b1fd398d-e3e8-4274-851b-442a4c65b101",
+      "business_id": "db278604-d5b5-4dc7-a3ae-4ea6980567de",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cad80a25-336a-4f47-92ec-41855fc35dcd",
+      "business_id": "8b197136-ea93-4943-abed-215a31ebb803",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "049a1273-53b2-4786-8aef-51bec59e7284",
+      "business_id": "c9aaedb0-ccf7-4c12-a23e-ec7120c8ba6b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "f691ad26-1fbb-4e08-b1bb-a4d2988ff01d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Crystal Clean Power Washing",
+   "category": "Pressure washing",
+   "phone": "(586) 883-2873",
+   "website": "https://crystalcleanpowerwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "48228"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "23a0644d-4c29-4377-8dde-b6746c1d49c3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eco-Clean Power Washing Solutions LLC",
+   "category": "Pressure washing",
+   "phone": "(313) 763-1147",
+   "website": "http://ecocleanpwsol.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "48228"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4705a244-e1c2-420d-8191-8f89f313a28a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Perfect Power Wash",
+   "category": "Pressure washing",
+   "phone": "(313) 489-2740",
+   "website": "https://perfectpowerwash.com/michigan/detroit/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "48228"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c82449fb-e304-4e01-9c47-f983561e0b83",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wash On Wheels, Inc.",
+   "category": "Pressure washing",
+   "phone": "(734) 782-0100",
+   "website": "https://www.wowwashonwheels.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "48228"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "36f50d4d-b901-47f6-b70a-9ffa3cb41a25",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pro Tek Power Washing",
+   "category": "Pressure washing",
+   "phone": "(734) 404-8684",
+   "website": "https://www.protekpowerwashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "48228"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "0b443f00-7fd8-408f-bfde-a0f82e1d0a66",
+   "business_id": "f691ad26-1fbb-4e08-b1bb-a4d2988ff01d",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ff44eb13-63c3-44d8-ba25-3ced1e603c4e",
+   "business_id": "23a0644d-4c29-4377-8dde-b6746c1d49c3",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d462efa3-d519-42ec-bb06-e621e0c393d1",
+   "business_id": "4705a244-e1c2-420d-8191-8f89f313a28a",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0c3826f3-697d-45e5-b187-923b5109868f",
+   "business_id": "c82449fb-e304-4e01-9c47-f983561e0b83",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "19223b24-790b-4b43-9730-a23405c56cae",
+   "business_id": "36f50d4d-b901-47f6-b70a-9ffa3cb41a25",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

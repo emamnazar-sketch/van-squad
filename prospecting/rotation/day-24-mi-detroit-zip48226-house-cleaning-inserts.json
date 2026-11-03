@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "9021de45-7260-4f09-bdb6-3fed70fe83ed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Maids of Detroit",
+      "category": "House cleaning",
+      "phone": "(313) 636-1233",
+      "website": "https://www.greenmaidsofdetroit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "081a9f9c-65db-4d41-bf17-7cfc9e004210",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dust Til' Dawn Cleaning",
+      "category": "House cleaning",
+      "phone": "(313) 784-0550",
+      "website": "https://dusttildawnmi.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6edd9388-8743-4070-a297-116a7a29931f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Metro Detroit Maids",
+      "category": "House cleaning",
+      "phone": "(313) 307-3327",
+      "website": "https://metrodetroitmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ffc5e30d-008c-4740-ac5f-5962237de7a6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Deep Clean Kings",
+      "category": "House cleaning",
+      "phone": "(313) 728-5432",
+      "website": "https://deepcleankings.biz/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7e7b1093-4ee5-4a4f-86fc-f80d3860ef78",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MAID Detroit",
+      "category": "House cleaning",
+      "phone": "(313) 889-8171",
+      "website": "https://www.maiddetroit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c1ffcee-b6ee-4c6a-bd61-44b77ff8e2cf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BH Cleaning Service Metro Detroit",
+      "category": "House cleaning",
+      "phone": "(248) 487-6646",
+      "website": "https://bhcleaningservicesmetrodetroit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d5b8e10-a608-45ff-adbb-f05c4b36b2fe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ProMaids Co",
+      "category": "House cleaning",
+      "phone": "(586) 747-4578",
+      "website": "https://promaidsco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ae0cc800-e23d-4139-8e49-c7909c00073c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "FreshSpace Cleaning Detroit",
+      "category": "House cleaning",
+      "phone": "(313) 351-8501",
+      "website": "https://freshspacecleaning.com/detroit",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "48226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4a9755aa-697c-4c41-b1b2-fbf6b1b14c6e",
+      "business_id": "9021de45-7260-4f09-bdb6-3fed70fe83ed",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dff3c0b3-eab4-4921-966e-7ea98c433af0",
+      "business_id": "081a9f9c-65db-4d41-bf17-7cfc9e004210",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "447d5c94-afd4-4a2f-b4b2-f22637d8784e",
+      "business_id": "6edd9388-8743-4070-a297-116a7a29931f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ec67d6a2-6750-4b26-a310-36c9f035cf2b",
+      "business_id": "ffc5e30d-008c-4740-ac5f-5962237de7a6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "70bfdaef-580f-4e9a-b093-9202eb43e745",
+      "business_id": "7e7b1093-4ee5-4a4f-86fc-f80d3860ef78",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "21675aa0-52a0-4c66-81a2-1981b135c408",
+      "business_id": "5c1ffcee-b6ee-4c6a-bd61-44b77ff8e2cf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "91a7fc6d-0006-47a8-976b-913bf8a5da4d",
+      "business_id": "6d5b8e10-a608-45ff-adbb-f05c4b36b2fe",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b4ea8ea0-6e05-4238-96d6-2fb9f843c87a",
+      "business_id": "ae0cc800-e23d-4139-8e49-c7909c00073c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
