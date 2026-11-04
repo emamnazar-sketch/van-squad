@@ -214,7 +214,7 @@
         customerName: user ? user.name : 'Guest',
         listingId: data.listingId, businessId: data.businessId,
         message: data.message, zip: data.zip, preferredTime: data.preferredTime || '',
-        photos: data.photos || [], status: 'pending', businessNote: '',
+        photos: data.photos || [], alsoSend: data.alsoSend === true, status: 'pending', businessNote: '',
         createdAt: new Date().toISOString()
       };
       s.requests.push(r);
@@ -577,13 +577,16 @@
         photo_urls: urls, status: 'pending'
       }).select().single();
       if (res.error) throw res.error;
-      this.notifyRequest(res.data && res.data.id);
+      this.notifyRequest(res.data && res.data.id, data.alsoSend === true);
       return res.data;
     },
     /* Fire-and-forget: ask the server to notify the business about the new
        request (Twilio SMS for unclaimed profiles, email for claimed ones).
+       alsoSend carries the customer's tick on "Also send this to up to two
+       similar businesses nearby" — the server copies the request to up to
+       two similar businesses and notifies them the same way.
        Never blocks or breaks the booking flow — all failures are swallowed. */
-    async notifyRequest(requestId) {
+    async notifyRequest(requestId, alsoSend) {
       try {
         if (!requestId) return;
         var t = await this._token();
@@ -591,7 +594,7 @@
         await fetch('/api/notify-request', {
           method: 'POST',
           headers: { 'Authorization': 'Bearer ' + t, 'Content-Type': 'application/json' },
-          body: JSON.stringify({ request_id: requestId })
+          body: JSON.stringify({ request_id: requestId, also_send: !!alsoSend })
         });
       } catch (e) { /* notification is best-effort */ }
     },

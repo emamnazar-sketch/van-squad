@@ -43,6 +43,26 @@ quality gates; as of today they are permanent platform law.)
 3. Email sending needs a sender wired for Van Squads (Resend, domain
    vansquads.com verified) — part of this build.
 
+### Also send to similar businesses (customer opt-in — added 2026-11-04)
+- The booking form carries a tick box, ticked by default: "Also send
+  this to up to two similar businesses nearby". One untick stops it.
+- When ticked, the frontend passes `also_send:true` to
+  `/api/notify-request`, which — after notifying the chosen business
+  exactly as before — also copies the request to up to **two** similar
+  businesses: same category, active, serving the customer's ZIP (exact
+  ZIP first, then the same ZIP3 area), each with an active listing and
+  a working notification route. Claimed businesses sort first in a
+  tier; the original business and the customer's own business are
+  always excluded.
+- Each extra business gets its own copy of the request (it lands in
+  their workspace like a direct request) and the standard notification
+  for their claim status: Flow A SMS if unclaimed, Flow B email if
+  claimed. Same privacy rule: the SMS never carries customer contact
+  details.
+- Amam gets a short admin note naming the extra businesses whenever a
+  request fans out.
+- Unticked = nothing changes: only the chosen business is notified.
+
 ### Customer side
 - Status lives under **My account** (already built): waiting →
   confirmed → messaging with the business.

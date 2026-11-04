@@ -747,7 +747,7 @@
       '<h3>How we use it</h3>' +
       '<p>We use your information to operate the directory: run accounts, deliver booking requests to businesses, and keep the service working. We do not sell your personal information.</p>' +
       '<h3>Sharing</h3>' +
-      '<p>When you send a booking request, the business you contact receives the details you provided so they can respond. We do not share your information with anyone else except as required by law.</p>' +
+      '<p>When you send a booking request, the business you contact receives the details you provided so they can respond. If you tick the box to also send your request to similar businesses nearby, those businesses receive the same details. Apart from that, we do not share your information with anyone else except as required by law.</p>' +
       '<h3>Data storage</h3>' +
       '<p>Account and listing data is stored securely with our hosting providers. You can ask us to delete your account and personal data at any time through the contact page.</p>' +
       '<h3>Cookies</h3>' +
@@ -1337,6 +1337,8 @@
           '<input type="file" id="bk-photos" accept="image/*" multiple>' +
           '<span class="hint">A photo of the car, the room, or your pet helps the business quote accurately.</span>' +
           '<div class="req-photos" id="bk-preview"></div></div></div>' +
+        '<div class="f-row single"><div class="field"><label class="optin-check"><input type="checkbox" name="alsoSend" checked><span>Also send this to up to two similar businesses nearby</span></label>' +
+          '<span class="hint">If this business is slow to reply, up to two more businesses in the same trade who serve your ZIP get the same request — so you have a better chance of hearing back. You still book with whoever you choose.</span></div></div>' +
         '<button class="btn btn-primary btn-block" type="submit" id="bk-submit">Send request →</button>' +
         '<p class="small muted" style="margin-top:12px">No online checkout — the business must confirm your appointment before it’s booked.</p>' +
       '</form></div></div>';
@@ -1397,15 +1399,18 @@
       }
       var btn = document.getElementById('bk-submit');
       btn.disabled = true; btn.textContent = 'Sending…';
+      var alsoSend = fd.get('alsoSend') === 'on';
       try {
         var photos = prev._photos || await readPhotos(input, 5);
         await window.VS.store.createRequest({
           listingId: l.id, businessId: b.id, message: msg, zip: zip,
-          preferredTime: String(fd.get('preferredTime') || '').trim(), photos: photos
+          preferredTime: String(fd.get('preferredTime') || '').trim(), photos: photos,
+          alsoSend: alsoSend
         });
         document.querySelector('#app .article').innerHTML =
           '<p class="eyebrow">Request sent</p><h1>You’re on their list.</h1>' +
-          '<p class="lede">Your request is with ' + h(b.name) + '. They’ll review your details and confirm a time — nothing is booked until they do.</p>' +
+          '<p class="lede">Your request is with ' + h(b.name) + '. They’ll review your details and confirm a time — nothing is booked until they do.' +
+          (alsoSend ? ' We also sent it to up to two similar businesses nearby, so you have a better chance of hearing back.' : '') + '</p>' +
           '<div class="req-card"><div class="req-top"><h3>What happens next</h3><span class="status pending">Waiting for business</span></div>' +
           '<p class="muted">Watch your inbox here under <a class="link-btn" href="#/customer">My account</a>. No payment is due until you agree terms with the business directly.</p></div>' +
           '<a class="btn btn-outline" href="#/browse">Keep exploring</a>';
