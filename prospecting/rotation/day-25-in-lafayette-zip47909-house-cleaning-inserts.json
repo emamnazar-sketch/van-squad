@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "6e6fdb3b-29cc-44b5-9128-c541174d20f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bright Cleaners LLC",
+      "category": "House cleaning",
+      "phone": "(765) 532-9256",
+      "website": "http://www.brightcleanersllc.in/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "71903ea2-6a39-4f22-b653-e1915fb730fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Lemon",
+      "category": "House cleaning",
+      "phone": "(765) 586-7082",
+      "website": "https://clean-lemon.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "878b34aa-1f06-4ad0-83ca-f74d83a61341",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fresh Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(765) 807-9934",
+      "website": "https://www.freshcleaningne.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "13377e20-664b-4347-8951-0f2d07ef4b44",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Happy Housekeeper and Company",
+      "category": "House cleaning",
+      "phone": "(765) 430-2976",
+      "website": "https://www.hhcmanagement.com/residential-cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08407455-2e7b-4bca-ad26-ab990e5bace2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "C&C Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(765) 862-0166",
+      "website": "https://cccleanindiana.com/maid-house-cleaning-services/lafayette/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "dfa71213-faf3-4bc4-a48b-011a3b6b7db9",
+      "business_id": "6e6fdb3b-29cc-44b5-9128-c541174d20f8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f88ef5ee-461b-4518-8c53-394eb437c867",
+      "business_id": "71903ea2-6a39-4f22-b653-e1915fb730fa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d89fdb1a-ed6d-429d-9620-b13ba7f3315e",
+      "business_id": "878b34aa-1f06-4ad0-83ca-f74d83a61341",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1349256a-c4c1-423e-bef2-5b0bc02b425d",
+      "business_id": "13377e20-664b-4347-8951-0f2d07ef4b44",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c8e897b1-a0ac-431b-a3dd-9b6dcdf58cf2",
+      "business_id": "08407455-2e7b-4bca-ad26-ab990e5bace2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

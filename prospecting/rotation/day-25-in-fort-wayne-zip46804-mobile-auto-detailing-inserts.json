@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "ca87723d-958d-4ebf-a768-fa8eadf8e5a7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Don't Sweat The Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(260) 312-7226",
+      "website": "https://detailingfortwayne.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b58cb727-3ad7-4154-bc19-718d6f1af0b2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Faithfully Fitted Auto Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(260) 704-2959",
+      "website": "http://www.faithfullyfitteddetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2d4e5196-3140-4185-9b2c-31d34b741c72",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fort Wayne Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(260) 203-1744",
+      "website": "https://fortwaynemobile.us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "69707f65-8026-4534-b01a-b5748ab7f203",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleanly",
+      "category": "Mobile auto detailing",
+      "phone": "(260) 226-3419",
+      "website": "https://www.drivecleanly.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "015dba2b-3caf-455f-98de-41b3f8676eb1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean A Ride",
+      "category": "Mobile auto detailing",
+      "phone": "(260) 300-0407",
+      "website": "https://cleanaride.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5d510e8b-3307-4a55-9338-70b0b6a9a867",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GlossLabs LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(260) 445-9923",
+      "website": "https://glosslabs-detailing.wj2svjpvjk.chatgpt.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46804"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "40378c46-e600-4527-a2db-66bb585725ef",
+      "business_id": "ca87723d-958d-4ebf-a768-fa8eadf8e5a7",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a7079c35-32bf-4e50-8f33-af064b8d5653",
+      "business_id": "b58cb727-3ad7-4154-bc19-718d6f1af0b2",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eaaceda3-cfc5-4afc-a566-b570a45a7165",
+      "business_id": "2d4e5196-3140-4185-9b2c-31d34b741c72",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "12bc407c-c0aa-4d24-8f48-4e09a989cb70",
+      "business_id": "69707f65-8026-4534-b01a-b5748ab7f203",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7dc14efa-858a-49a3-87ca-baae2001b186",
+      "business_id": "015dba2b-3caf-455f-98de-41b3f8676eb1",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f50b19a-ec34-4c37-be56-0bc147a8d0df",
+      "business_id": "5d510e8b-3307-4a55-9338-70b0b6a9a867",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

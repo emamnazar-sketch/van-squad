@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "f61c51d4-a490-45df-8c49-c0a720b96a36",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Evansville's Best Handyman",
+      "category": "Handyman",
+      "phone": "(812) 585-3611",
+      "website": "http://www.evansvillesbesthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47714"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f3278f1d-caa1-4a79-99f5-bb8dca2dc4d4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JC's Home Repair",
+      "category": "Handyman",
+      "phone": "(812) 760-2039",
+      "website": "https://j-c-s-home-repair.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47714"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e7b2c08b-f4f8-4445-941c-e744f95525e5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AAA Handyman Company",
+      "category": "Handyman",
+      "phone": "(812) 471-9718",
+      "website": "http://www.aaahandymancompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47714"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dc294e9d-21d1-4a02-a6f7-f43395c0f7f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Service Brothers",
+      "category": "Handyman",
+      "phone": "(812) 213-0052",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47714"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5ed5d22d-f065-438a-a86c-586a4ecc622c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Plus Handy Services",
+      "category": "Handyman",
+      "phone": "(812) 431-2829",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47714"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "909af265-b2ec-4ee8-a5ca-884cac26a229",
+      "business_id": "f61c51d4-a490-45df-8c49-c0a720b96a36",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f5095488-7795-4ee8-b168-8ac43cb8edc8",
+      "business_id": "f3278f1d-caa1-4a79-99f5-bb8dca2dc4d4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "019a73de-67d5-43af-a18b-8fe1dbaee341",
+      "business_id": "e7b2c08b-f4f8-4445-941c-e744f95525e5",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4c8d620e-37dc-48e5-a215-c972187af8ac",
+      "business_id": "dc294e9d-21d1-4a02-a6f7-f43395c0f7f8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "390ddbd2-c52f-4a9a-a3b9-22b8734806d7",
+      "business_id": "5ed5d22d-f065-438a-a86c-586a4ecc622c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

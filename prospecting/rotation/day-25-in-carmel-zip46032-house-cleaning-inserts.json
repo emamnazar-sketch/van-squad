@@ -1,0 +1,147 @@
+{
+  "businesses": [
+    {
+      "id": "b4fa7dec-37e7-41bc-8c76-dbc50c5e15b4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Preferred Cleaning Co.",
+      "category": "House cleaning",
+      "phone": "(317) 548-6288",
+      "website": "http://thepreferredcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4a3ac81f-39a3-48e7-97a1-3f58ba36b9fd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Christina's Complete Clean",
+      "category": "House cleaning",
+      "phone": "(317) 733-7751",
+      "website": "https://www.christinascompleteclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ee9d0fae-58cb-4d05-9f93-cf137071130b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rosy's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(317) 938-7729",
+      "website": "http://www.rosyscleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46032",
+        "46033"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cd65db45-5786-406a-9fdc-6bdbdaa29261",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Well Done Services",
+      "category": "House cleaning",
+      "phone": "(317) 575-9300",
+      "website": "http://welldoneservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "37f04897-2490-4668-8131-b264009b7a2f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Executive Home Services",
+      "category": "House cleaning",
+      "phone": "(317) 816-0960",
+      "website": "https://exhs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5718dc07-9312-44e0-8b9b-e89e270b5801",
+      "business_id": "b4fa7dec-37e7-41bc-8c76-dbc50c5e15b4",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c5845d54-2be7-43ce-8642-1bc87102816e",
+      "business_id": "4a3ac81f-39a3-48e7-97a1-3f58ba36b9fd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4a00b09a-3041-48c5-b414-8af4339859df",
+      "business_id": "ee9d0fae-58cb-4d05-9f93-cf137071130b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "49b0ba59-d1c5-450f-a2af-030ebf68d988",
+      "business_id": "cd65db45-5786-406a-9fdc-6bdbdaa29261",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5edf1f9e-bd9f-4d63-9a7e-3fc97cb395d3",
+      "business_id": "37f04897-2490-4668-8131-b264009b7a2f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

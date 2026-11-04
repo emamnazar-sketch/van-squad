@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "42071579-c76b-42b3-ba36-8289fb842470",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dirt Finders Maid Service",
+      "category": "House cleaning",
+      "phone": "(812) 402-3060",
+      "website": "http://dirtfinders.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "624161db-e564-4cc6-a7fb-2505be8db4e8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Evansville",
+      "category": "House cleaning",
+      "phone": "(812) 694-3599",
+      "website": "https://merrymaids.com/home-cleaners-evansville-in",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e043a387-2ee5-4eff-aaf3-51576e73f0aa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Suite",
+      "category": "House cleaning",
+      "phone": "(812) 424-9681",
+      "website": "https://thecleansuite.com/residential-cleaning-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f355114c-48ca-4fe4-b5e7-4d55a6db78f2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "J & C Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(812) 604-8043",
+      "website": "http://www.jandccleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6b4a2b7b-1993-45bc-9892-15595d05eb3b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Evansville Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(812) 401-4333",
+      "website": "http://www.evansvillecleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bf1a037b-3d91-4c9c-96b0-da98866850df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Karcher Cleaners LLC",
+      "category": "House cleaning",
+      "phone": "(812) 316-6340",
+      "website": "http://karchercleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "329f875c-9a89-43c5-9d25-260c765c0c50",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Daylight Cleaning Co.",
+      "category": "House cleaning",
+      "phone": "(812) 419-2463",
+      "website": "https://daylightcleaningco.com/locations/evansville.html",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "47715"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "196998fb-d15f-4dbf-b37f-af8f2244bc96",
+      "business_id": "42071579-c76b-42b3-ba36-8289fb842470",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fc0af1fa-14d7-483d-911c-8d03a92370ce",
+      "business_id": "624161db-e564-4cc6-a7fb-2505be8db4e8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5833a5df-aeab-4928-9be9-9b1248435761",
+      "business_id": "e043a387-2ee5-4eff-aaf3-51576e73f0aa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3b5df07c-5529-4185-83cf-f345dedbac48",
+      "business_id": "f355114c-48ca-4fe4-b5e7-4d55a6db78f2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5fd875cf-2d6f-4c22-876e-76a38fb1240c",
+      "business_id": "6b4a2b7b-1993-45bc-9892-15595d05eb3b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dd4ca6a6-909f-43d9-966a-b3d31098c338",
+      "business_id": "bf1a037b-3d91-4c9c-96b0-da98866850df",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "db452686-c504-4082-baf9-b639e8db80c1",
+      "business_id": "329f875c-9a89-43c5-9d25-260c765c0c50",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

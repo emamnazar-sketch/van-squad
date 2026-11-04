@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "3ecb911c-15d4-4014-a3f8-aef0e057694b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Foster Built LLC",
+      "category": "Handyman",
+      "phone": "(463) 800-8364",
+      "website": "https://fosterbuiltllcindianapolis.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46237"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dcd5506e-91f6-44b3-99b7-c3dc9d9e06b8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nick's Handyman Service, LLC",
+      "category": "Handyman",
+      "phone": "(317) 893-3717",
+      "website": "https://nhsindy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46237"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c429ff00-8574-4f1f-98a9-d82c983aa456",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "HomeHub",
+      "category": "Handyman",
+      "phone": "(317) 669-6838",
+      "website": "https://myhomehub.us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46237"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8f08dc18-c886-4327-90ff-981b6556da94",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "IHP Indy Handyman Pros",
+      "category": "Handyman",
+      "phone": "(317) 696-6771",
+      "website": "https://ihppros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46237"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a1bf4f9c-259e-4849-a5cd-3369ed27ac32",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Davidson Handyman Services",
+      "category": "Handyman",
+      "phone": "(317) 225-1913",
+      "website": "https://davidsonhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46237"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0bc9bb22-58be-4c39-b880-38e4908e6acb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mohr Handyman Services",
+      "category": "Handyman",
+      "phone": "(317) 366-5861",
+      "website": "http://mohrhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46237"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4482c1ec-321e-4380-9313-1fabbb6ee05b",
+      "business_id": "3ecb911c-15d4-4014-a3f8-aef0e057694b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "18e2afde-347e-44b3-acd0-714f88b6d483",
+      "business_id": "dcd5506e-91f6-44b3-99b7-c3dc9d9e06b8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cfaa8efe-9946-4e76-9fab-b77bc9f8f839",
+      "business_id": "c429ff00-8574-4f1f-98a9-d82c983aa456",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d85e4c7d-5142-4f4b-b018-566b82b2c5a2",
+      "business_id": "8f08dc18-c886-4327-90ff-981b6556da94",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "45d3549c-a8e9-482a-a8e4-9bddc0f9d596",
+      "business_id": "a1bf4f9c-259e-4849-a5cd-3369ed27ac32",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "167d01bf-83fb-48dc-905e-1c4a31ebb862",
+      "business_id": "0bc9bb22-58be-4c39-b880-38e4908e6acb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

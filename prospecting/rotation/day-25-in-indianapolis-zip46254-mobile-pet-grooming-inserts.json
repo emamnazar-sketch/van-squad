@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "67e82320-1c62-4151-b866-2b12a6a93d81",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bark & Bone",
+   "category": "Mobile pet grooming",
+   "phone": "(317) 762-4000",
+   "website": "https://www.barkandbone.com/page/mobile-grooming",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46254"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6d4fb20b-02e6-4905-9e60-c819b40310c7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Woofie's of Fishers",
+   "category": "Mobile pet grooming",
+   "phone": "(317) 661-1128",
+   "website": "https://www.woofies.com/fishers/services/mobile-pet-grooming/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46254"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "90a22e5b-c4fb-4cdb-8029-6615368f9ec8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Shag-N-Waggin Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(317) 481-8665",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46254"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2b021e3e-5125-4abb-94d7-0024eacae9c7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Toms Love Mobile Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(317) 859-0605",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46254"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "a567d54b-495d-48b4-8fd1-35f4558910c0",
+   "business_id": "67e82320-1c62-4151-b866-2b12a6a93d81",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d706fe9a-afc0-455e-8aaa-866983161d97",
+   "business_id": "6d4fb20b-02e6-4905-9e60-c819b40310c7",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1a716bc6-1996-4e53-8e47-e02595a9d241",
+   "business_id": "90a22e5b-c4fb-4cdb-8029-6615368f9ec8",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a3048c79-20de-48a7-aada-7a4faee1eac4",
+   "business_id": "2b021e3e-5125-4abb-94d7-0024eacae9c7",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

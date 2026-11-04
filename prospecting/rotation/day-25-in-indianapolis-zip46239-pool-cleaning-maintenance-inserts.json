@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "c5132735-eb1c-4115-8115-8a966aa31f04",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pate's Pool & Spa",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(317) 541-1300",
+      "website": "https://patespoolandspa.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46239"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a0685431-0581-4060-854f-fcccc1d25377",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pyle's Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(317) 288-5317",
+      "website": "https://www.pylespools.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46239"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "40b6f0fc-2272-40ef-9d1b-d71a8fccffc9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pools of Fun",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(463) 238-4131",
+      "website": "https://poolsoffun.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46239"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7311963c-d727-47d6-8fdc-c3dae1f1b40a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Perma Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(317) 782-9956",
+      "website": "https://www.permapools.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46239"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c4f0232f-cfac-48c1-a18a-a945949212af",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ASP - America's Swimming Pool Company of North Indianapolis",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(317) 886-3064",
+      "website": "https://www.asppoolco.com/northindianapolis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46239"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c35c189f-8639-4cb5-82f4-c07f3f2b157a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dream Team Exterior Solutions",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(317) 348-8292",
+      "website": "https://www.dreamteamexterior.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46239"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f3264a2a-36e9-485a-a4d3-11cf69a82885",
+      "business_id": "c5132735-eb1c-4115-8115-8a966aa31f04",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b2b0d83e-edd2-4dce-98c6-3215157db39e",
+      "business_id": "a0685431-0581-4060-854f-fcccc1d25377",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7165f000-c545-4bf8-813f-d2bfb7703f82",
+      "business_id": "40b6f0fc-2272-40ef-9d1b-d71a8fccffc9",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e959e1da-5f05-4ff8-8e84-13557f91fc92",
+      "business_id": "7311963c-d727-47d6-8fdc-c3dae1f1b40a",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3782693e-3be6-43ed-b6d1-cdac57534f57",
+      "business_id": "c4f0232f-cfac-48c1-a18a-a945949212af",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "33b9d975-d22c-4ca4-b2c4-505f7ca4d92c",
+      "business_id": "c35c189f-8639-4cb5-82f4-c07f3f2b157a",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

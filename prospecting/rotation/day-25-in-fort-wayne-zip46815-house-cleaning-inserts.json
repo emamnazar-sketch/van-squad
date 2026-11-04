@@ -1,0 +1,308 @@
+{
+  "businesses": [
+    {
+      "id": "721bcd0d-4723-4cb7-bc8d-ef3558a3fa9a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sullivan's Spring Cleaning",
+      "category": "House cleaning",
+      "phone": "(260) 424-1414",
+      "website": "https://residentialcleaningfortwayne.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "644fe37d-a0d5-4599-9741-ef1e9e94c17b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Spot On Clean, LLC",
+      "category": "House cleaning",
+      "phone": "(260) 403-5372",
+      "website": "https://www.fortwaynecleaninglady.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "538e477b-ebe6-4c7f-af1d-ed7a1a0ab32e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hoosier Maids",
+      "category": "House cleaning",
+      "phone": "(260) 440-8695",
+      "website": "https://hoosiermaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "86191af4-0a1d-4bdf-990a-059cae66dffe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Perfect",
+      "category": "House cleaning",
+      "phone": "(260) 484-8040",
+      "website": "http://www.maidperfect.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aeffd64b-a37a-44bd-a2af-257b42261527",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Purely Fort Wayne Cleaners",
+      "category": "House cleaning",
+      "phone": "(260) 254-8006",
+      "website": "http://www.purelyfortwaynecleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "237bbf7a-5695-4511-b748-aa4c161f979b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Fort Wayne",
+      "category": "House cleaning",
+      "phone": "(260) 527-3065",
+      "website": "https://www.maidpro.com/fort-wayne/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3bf89c0d-61eb-45b6-bd28-7fb859965c11",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maids Perfect Clean",
+      "category": "House cleaning",
+      "phone": "(260) 229-7467",
+      "website": "https://www.maidsperfectclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bd681a29-9548-4cb6-8dc1-c47515fb8a1f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mel's Helpful Hand Cleaning Co.",
+      "category": "House cleaning",
+      "phone": "(260) 417-4491",
+      "website": "https://melshelpfulhand.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "044d5bfd-5470-4cb2-ac77-18ef58936f97",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Fort Wayne",
+      "category": "House cleaning",
+      "phone": "(260) 231-1262",
+      "website": "https://www.thecleaningauthority.com/fort-wayne/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815",
+        "46741",
+        "46743",
+        "46745",
+        "46748",
+        "46765",
+        "46774",
+        "46783",
+        "46802",
+        "46803",
+        "46804",
+        "46805",
+        "46806",
+        "46807",
+        "46808",
+        "46809",
+        "46814",
+        "46816",
+        "46818",
+        "46819",
+        "46825",
+        "46835",
+        "46845"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f177ea04-5075-4e85-a77a-cef32a5eacc3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Fort Wayne",
+      "category": "House cleaning",
+      "phone": "(260) 412-0683",
+      "website": "https://merrymaids.com/home-cleaners-fort-wayne-in",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46815"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "eaa13b96-a11d-414c-b06e-a2a5c8321a25",
+      "business_id": "721bcd0d-4723-4cb7-bc8d-ef3558a3fa9a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "42ed102f-6a8f-498b-b009-71c63a4654d9",
+      "business_id": "644fe37d-a0d5-4599-9741-ef1e9e94c17b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c83a5440-77b0-441c-ae6f-33b413c45107",
+      "business_id": "538e477b-ebe6-4c7f-af1d-ed7a1a0ab32e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6c2f2cd4-1bb9-41d9-828f-f47f5977b718",
+      "business_id": "86191af4-0a1d-4bdf-990a-059cae66dffe",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "acbc675f-60e6-4080-8217-0ef527a8fe6b",
+      "business_id": "aeffd64b-a37a-44bd-a2af-257b42261527",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65cb1ea8-b13e-4b23-9d82-7f9ebc8d62c6",
+      "business_id": "237bbf7a-5695-4511-b748-aa4c161f979b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c190894c-87e0-4257-9b18-790f4ffdb2c8",
+      "business_id": "3bf89c0d-61eb-45b6-bd28-7fb859965c11",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1d051574-c991-46c3-8580-0ebeee7427ea",
+      "business_id": "bd681a29-9548-4cb6-8dc1-c47515fb8a1f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c922b511-5b25-40ff-8e1c-1b5ddf4960e0",
+      "business_id": "044d5bfd-5470-4cb2-ac77-18ef58936f97",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9b0264a7-1fc9-454e-b9e0-147b97fbd93b",
+      "business_id": "f177ea04-5075-4e85-a77a-cef32a5eacc3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

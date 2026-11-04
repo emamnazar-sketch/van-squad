@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "e0621f82-32b1-483f-b2a5-43347b351c20",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "My Guy Services",
+      "category": "Pressure washing",
+      "phone": "(317) 755-6444",
+      "website": "https://myguyservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46250"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "43a7585c-b591-4a53-b34b-3db72e585a91",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pressure Doctor Inc. Power Washing",
+      "category": "Pressure washing",
+      "phone": "(317) 223-5693",
+      "website": "https://pressuredr.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46250"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bbd631d5-80a0-4e87-a4ec-eb7cdc3446b5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "C3 Cleaning Co. LLC",
+      "category": "Pressure washing",
+      "phone": "(765) 227-8694",
+      "website": "https://www.c3exteriorclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46250"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "448b1d1f-1402-47f0-9d28-d3e7b428baa9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Heffernan's Home Services",
+      "category": "Pressure washing",
+      "phone": "(317) 213-8088",
+      "website": "https://heffernanshomeservices.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46250"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "541b5dfe-08c5-4543-897f-282538b28b4f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Onit Painting",
+      "category": "Pressure washing",
+      "phone": "(317) 824-9322",
+      "website": "https://onitpainting.com/residential/power-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46250"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e680e050-5cd6-48d7-af2c-a716284b30aa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Reflection Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(317) 827-9078",
+      "website": "http://reflectionpressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46250"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "e0621f82-32b1-483f-b2a5-43347b351c20",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "id": "31bffcda-1d6b-4495-9397-783f25ca3f3d"
+    },
+    {
+      "business_id": "43a7585c-b591-4a53-b34b-3db72e585a91",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "id": "1e113852-ba78-4625-ad4d-30921e5510c5"
+    },
+    {
+      "business_id": "bbd631d5-80a0-4e87-a4ec-eb7cdc3446b5",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "id": "f158f85a-f677-4c45-afca-ab037690baf6"
+    },
+    {
+      "business_id": "448b1d1f-1402-47f0-9d28-d3e7b428baa9",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "id": "0960f37f-6fb6-4a13-83d8-856baa24aa70"
+    },
+    {
+      "business_id": "541b5dfe-08c5-4543-897f-282538b28b4f",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "id": "d5a1fe24-d112-4780-9459-6ac2ddc042ea"
+    },
+    {
+      "business_id": "e680e050-5cd6-48d7-af2c-a716284b30aa",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false,
+      "id": "79d82c54-6a37-40ca-83bd-02a3de1f532b"
+    }
+  ]
+}

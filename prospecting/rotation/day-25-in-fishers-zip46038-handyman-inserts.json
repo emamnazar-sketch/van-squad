@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "e5465b6f-edc9-46e6-a211-f6245c8d33b7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Indy Pro LLC",
+      "category": "Handyman",
+      "phone": "(463) 701-2878",
+      "website": "https://handyindypro.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "734d7dc6-4772-40d2-bce3-5431f72c2430",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "E.L. Smith, Inc.",
+      "category": "Handyman",
+      "phone": "(317) 339-2418",
+      "website": "http://www.elsmithinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0be16fee-a3bc-49a2-96e1-c54d2fbba50b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "IBO Service Company",
+      "category": "Handyman",
+      "phone": "(260) 278-1136",
+      "website": "http://www.iboservicecompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "75b855eb-c27b-4677-847d-6d3a2288f8ad",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alder Avenue Home LLC",
+      "category": "Handyman",
+      "phone": "(317) 922-6778",
+      "website": "https://www.alderavehome.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0bd5a85c-2e2e-41ea-a4dc-fa8cf8c98357",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Noblesville Handyman",
+      "category": "Handyman",
+      "phone": "(317) 457-8052",
+      "website": "http://Noblesvillehandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4d7927df-cf19-4662-a415-498fc8fa4387",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Hamilton County",
+      "category": "Handyman",
+      "phone": "(317) 537-9641",
+      "website": "https://www.acehandymanservices.com/offices/hamilton-county",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "bca4049c-1250-43ac-a736-2a4f2f630b0b",
+      "business_id": "e5465b6f-edc9-46e6-a211-f6245c8d33b7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ed493523-1dee-4389-a623-5fa6dd034ebd",
+      "business_id": "734d7dc6-4772-40d2-bce3-5431f72c2430",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "52d9e8bd-7589-4cb9-bc42-d2e4ab47a8fd",
+      "business_id": "0be16fee-a3bc-49a2-96e1-c54d2fbba50b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3c45a593-cd17-4f56-b4c8-0bcc51e3d499",
+      "business_id": "75b855eb-c27b-4677-847d-6d3a2288f8ad",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "88c7793e-e16d-4cb8-b8dc-bb12ee35cced",
+      "business_id": "0bd5a85c-2e2e-41ea-a4dc-fa8cf8c98357",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "384fa1e0-fe23-4b71-95e9-5e95f5e462bf",
+      "business_id": "4d7927df-cf19-4662-a415-498fc8fa4387",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

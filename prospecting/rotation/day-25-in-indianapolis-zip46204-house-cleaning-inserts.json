@@ -1,0 +1,214 @@
+{
+  "businesses": [
+    {
+      "id": "bed805a2-0b4d-47c8-af7a-591e5f3f7054",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Housekeeping Maid Easy",
+      "category": "House cleaning",
+      "phone": "(317) 579-1988",
+      "website": "https://www.housekeepingmaideasy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204",
+        "46203",
+        "46220",
+        "46202",
+        "46208",
+        "46219",
+        "46032",
+        "46037",
+        "46077",
+        "46123"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "140820b6-99da-4994-9d6e-c0155ef667e8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Indianapolis Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(463) 213-3374",
+      "website": "https://indianapoliscleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c521919d-42da-480c-934d-33a214927e37",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DeluxeMaid",
+      "category": "House cleaning",
+      "phone": "(317) 721-1105",
+      "website": "https://www.deluxemaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204",
+        "46202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1e7d981f-e36b-4663-ae9b-512adc46fb78",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Method Cleaning",
+      "category": "House cleaning",
+      "phone": "(317) 993-9186",
+      "website": "https://methodcleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204",
+        "46201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4ff19626-62d6-4550-9716-0d81e084dab1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Dust Devils",
+      "category": "House cleaning",
+      "phone": "(317) 268-8639",
+      "website": "https://indydustdevils.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204",
+        "46219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0b96daaf-1d7c-4f78-80e1-5b8b393c5341",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Indy Clean Team",
+      "category": "House cleaning",
+      "phone": "(317) 794-2499",
+      "website": "https://www.indycleanteam.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ed85a568-1c26-4896-a749-82d33a235b7b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid 2 Clean 317",
+      "category": "House cleaning",
+      "phone": "(812) 606-2196",
+      "website": "https://maid2clean317.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46204"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a1b3971b-8ac4-47ac-96c8-6193c886722b",
+      "business_id": "bed805a2-0b4d-47c8-af7a-591e5f3f7054",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "875304ba-03bb-4155-9c70-23f5bd8c10fc",
+      "business_id": "140820b6-99da-4994-9d6e-c0155ef667e8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8e651e48-d5cf-4ef5-a6b8-03649b555a13",
+      "business_id": "c521919d-42da-480c-934d-33a214927e37",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9c94011a-246e-41f3-94a5-ee904d0649b5",
+      "business_id": "1e7d981f-e36b-4663-ae9b-512adc46fb78",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1b0eefee-6152-4606-b74e-1244d45d6d93",
+      "business_id": "4ff19626-62d6-4550-9716-0d81e084dab1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d7de5519-5fb1-458f-9d09-d24047de159f",
+      "business_id": "0b96daaf-1d7c-4f78-80e1-5b8b393c5341",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e2ee15c1-2132-4082-8124-b62c93b5f66e",
+      "business_id": "ed85a568-1c26-4896-a749-82d33a235b7b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

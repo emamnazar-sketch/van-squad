@@ -1,0 +1,219 @@
+{
+  "businesses": [
+    {
+      "id": "8908d97c-8c72-4f9d-bd2a-b5ab84cde192",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Indianapolis",
+      "category": "Deep cleaning",
+      "phone": "(317) 586-4573",
+      "website": "https://www.thecleaningauthority.com/indianapolis",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46214",
+        "46032",
+        "46074",
+        "46075",
+        "46077",
+        "46112",
+        "46123",
+        "46220",
+        "46234",
+        "46240",
+        "46254",
+        "46260",
+        "46268",
+        "46278",
+        "46280",
+        "46290"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "161a57b2-82ef-48a3-912a-dc7768c5f54f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Orange Glow LLC",
+      "category": "Deep cleaning",
+      "phone": "(754) 703-1101",
+      "website": "https://www.tryorangeglow.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46214",
+        "46201",
+        "46202",
+        "46204",
+        "46205",
+        "46208",
+        "46217",
+        "46218",
+        "46220",
+        "46221",
+        "46225",
+        "46226",
+        "46227",
+        "46228",
+        "46234",
+        "46236",
+        "46240",
+        "46250",
+        "46254",
+        "46256",
+        "46260",
+        "46268",
+        "46280",
+        "46032",
+        "46038",
+        "46060",
+        "46077",
+        "46107",
+        "46143"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "845ccd22-8936-4069-ae77-2a050b6e56ba",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Correa's Cleaning Service",
+      "category": "Deep cleaning",
+      "phone": "(317) 650-8031",
+      "website": "https://www.correascleaningservices.com/cleaning-services-in-indianapolis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f56b4a1a-ad00-459e-96f1-4c1f20d05dc9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Becht Pride",
+      "category": "Deep cleaning",
+      "phone": "(317) 783-2390",
+      "website": "https://bechtpride.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46214",
+        "46241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bd7c06d7-9854-4f54-93bd-b27af781cb8e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Brigade of Indianapolis",
+      "category": "Deep cleaning",
+      "phone": "(317) 781-6243",
+      "website": "https://www.maidbrigade.com/in/indianapolis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "101f854d-d512-40b2-b114-6ad5f9e6bd4a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Greater Indianapolis",
+      "category": "Deep cleaning",
+      "phone": "(317) 483-0391",
+      "website": "https://www.mollymaid.com/locations/greater-indianapolis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46214",
+        "46241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a996bff5-cc19-4ee1-9bcd-5c9596f83655",
+      "business_id": "8908d97c-8c72-4f9d-bd2a-b5ab84cde192",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9841d3dc-b4e9-49a7-af46-cddef07535da",
+      "business_id": "161a57b2-82ef-48a3-912a-dc7768c5f54f",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "37b83d62-e596-41cf-b5e9-5f7d5d64f30e",
+      "business_id": "845ccd22-8936-4069-ae77-2a050b6e56ba",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dd075a96-bc29-411c-987c-8b97a7aa6ccb",
+      "business_id": "f56b4a1a-ad00-459e-96f1-4c1f20d05dc9",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1262375d-b458-4c68-af23-777cff551c30",
+      "business_id": "bd7c06d7-9854-4f54-93bd-b27af781cb8e",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "24f4e783-f630-43cd-a05c-d04da4660e9d",
+      "business_id": "101f854d-d512-40b2-b114-6ad5f9e6bd4a",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

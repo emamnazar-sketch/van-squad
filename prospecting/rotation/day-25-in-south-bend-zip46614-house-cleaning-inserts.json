@@ -1,0 +1,255 @@
+{
+ "businesses": [
+  {
+   "id": "39faeebd-0774-47a4-b6d3-e2f41a889498",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Authority - South Bend",
+   "category": "House cleaning",
+   "phone": "(574) 297-0716",
+   "website": "https://www.thecleaningauthority.com/south-bend/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614",
+    "46346",
+    "46350",
+    "46360",
+    "46365",
+    "46371",
+    "46391",
+    "46514",
+    "46516",
+    "46517",
+    "46536",
+    "46544",
+    "46545",
+    "46552",
+    "46554",
+    "46561",
+    "46572",
+    "46601",
+    "46613",
+    "46615",
+    "46616",
+    "46617",
+    "46619",
+    "46628",
+    "46635",
+    "46637"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "45b3f739-4f65-4369-9a94-2a101da81e83",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro South Bend",
+   "category": "House cleaning",
+   "phone": "(574) 213-5689",
+   "website": "https://www.maidpro.com/south-bend/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d73ba6f6-732d-41db-afa8-71ef64a91425",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "CottageCare South Bend",
+   "category": "House cleaning",
+   "phone": "(574) 299-1103",
+   "website": "https://cottagecare.com/locations/south-bend/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "99d5cc57-c4c3-4c70-8166-34186180f486",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Molly Maid of South Bend",
+   "category": "House cleaning",
+   "phone": "(574) 406-0306",
+   "website": "https://www.mollymaid.com/locations/south-bend/?cid=LSTL_MLY000192",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d252589d-0cbc-4c6f-9b9e-e520b08d4e49",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ash N Dash Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(574) 931-6898",
+   "website": "https://ash-n-dash-cleaning-service.ueniweb.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "420bdf0f-7fbb-4510-9104-0a599da0245c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "KM Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(574) 344-6358",
+   "website": "https://msha.ke/kmcleaningservice/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9a803f74-2300-4072-b1f3-85638af8372a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Magenta Cleaning",
+   "category": "House cleaning",
+   "phone": "(574) 742-1213",
+   "website": "http://magentacleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bb8685ac-9949-4406-a177-708b7a4e002c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "My Main Maid",
+   "category": "House cleaning",
+   "phone": "(574) 551-4415",
+   "website": "https://www.mymainmaid.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "46614"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "fddcf98a-5e65-43ec-88fe-6ac58d8d3f4d",
+   "business_id": "39faeebd-0774-47a4-b6d3-e2f41a889498",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "80c3d30f-715f-42e6-96a2-09e329be7175",
+   "business_id": "45b3f739-4f65-4369-9a94-2a101da81e83",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e210b3aa-293c-4c56-ab1a-5367a3efab6a",
+   "business_id": "d73ba6f6-732d-41db-afa8-71ef64a91425",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "88c36f31-9a60-4823-9d3b-409b5e30ca18",
+   "business_id": "99d5cc57-c4c3-4c70-8166-34186180f486",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7ee8f191-697a-4b33-907f-b4ee8597192e",
+   "business_id": "d252589d-0cbc-4c6f-9b9e-e520b08d4e49",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "52cb20e2-9b98-4caa-a81a-40a1e048c374",
+   "business_id": "420bdf0f-7fbb-4510-9104-0a599da0245c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "45d3c429-1fa1-4e3a-aee9-1b1a27cf5753",
+   "business_id": "9a803f74-2300-4072-b1f3-85638af8372a",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fed288dd-5879-442b-bcf3-6aab462132e2",
+   "business_id": "bb8685ac-9949-4406-a177-708b7a4e002c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

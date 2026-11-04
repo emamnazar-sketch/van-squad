@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "aa9dc5b0-23ca-41d9-88a6-f6216676284e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Deece Home Services",
+      "category": "Handyman",
+      "phone": "(260) 999-1327",
+      "website": "http://www.deecehomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46825"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8e09dd44-22ca-4acf-9bfa-e4c555b4b8e2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Trusted Home Solutions LLC",
+      "category": "Handyman",
+      "phone": "(260) 408-5215",
+      "website": "https://www.trustedhomesolutionsfw.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46825"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6b584073-e421-4e44-bd42-da93249631ee",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Heartland Handyman Services",
+      "category": "Handyman",
+      "phone": "(260) 205-2561",
+      "website": "https://www.heartlandhandymanindiana.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46825"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "179d2f16-62e3-4c6f-a545-f2de3065228a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A.D. Does It All LLC",
+      "category": "Handyman",
+      "phone": "(260) 467-9455",
+      "website": "https://www.ad-doesitall.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46825"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4093c618-0168-47d7-b226-395ffc7863a4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "FwMrfixit",
+      "category": "Handyman",
+      "phone": "(260) 312-9920",
+      "website": "https://fwmrfixit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46825"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f9967c46-ab41-4515-aa68-64ed1311997b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Summit City",
+      "category": "Handyman",
+      "phone": "(260) 287-0970",
+      "website": "https://www.acehandymanservices.com/offices/summit-city",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46825"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "dd591060-35ff-4239-a5fe-fa4804977149",
+      "business_id": "aa9dc5b0-23ca-41d9-88a6-f6216676284e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7d62b18d-9d8c-46b0-8a4c-206efb9a8aef",
+      "business_id": "8e09dd44-22ca-4acf-9bfa-e4c555b4b8e2",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "54ae6a47-c6b3-4a02-8194-c19a76d7af3e",
+      "business_id": "6b584073-e421-4e44-bd42-da93249631ee",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "52ce927f-fe11-46ee-b196-11a573e0738c",
+      "business_id": "179d2f16-62e3-4c6f-a545-f2de3065228a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "891e72c9-a5ef-4830-914c-d6da6ea4ff21",
+      "business_id": "4093c618-0168-47d7-b226-395ffc7863a4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "642ada04-bf4c-406e-b00d-955127970b4d",
+      "business_id": "f9967c46-ab41-4515-aa68-64ed1311997b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

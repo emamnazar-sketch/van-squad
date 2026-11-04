@@ -1,0 +1,163 @@
+{
+  "businesses": [
+    {
+      "id": "aa453157-4d2d-4e4c-ba8a-52a579a09ddb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pristine House Cleaning",
+      "category": "House cleaning",
+      "phone": "(317) 886-1033",
+      "website": "https://pristinehouseclean.com/greenwood-in",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46142",
+        "46143"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "df86fb5a-196f-477b-b20a-b8af8e14ecde",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Reed's Cleaning Solutions",
+      "category": "House cleaning",
+      "phone": "(317) 358-9844",
+      "website": "https://www.reedscleaningsolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46142"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "21789f00-b464-4abf-a4b0-c15e3e4519a0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Indianapolis South",
+      "category": "House cleaning",
+      "phone": "(317) 494-7865",
+      "website": "https://www.thecleaningauthority.com/indianapolissouth",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46142",
+        "46106",
+        "46107",
+        "46113",
+        "46131",
+        "46143",
+        "46158",
+        "46168",
+        "46184",
+        "46217",
+        "46221",
+        "46227",
+        "46231",
+        "46237",
+        "46241",
+        "46259"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6eb0ad29-2144-422c-808d-799f1917c129",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of South Indianapolis",
+      "category": "House cleaning",
+      "phone": "(317) 659-8235",
+      "website": "https://merrymaids.com/home-cleaners-south-indianapolis-in",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46142"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7524ef1d-82e5-4f41-99f5-d408ea9b5ed3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AJ's Picture Perfect Cleaning Inc.",
+      "category": "House cleaning",
+      "phone": "(317) 530-8148",
+      "website": "http://ajsppc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "46142",
+        "46184"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6effefcd-c08f-4a41-9471-ac797d2dbfe2",
+      "business_id": "aa453157-4d2d-4e4c-ba8a-52a579a09ddb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "82fa21c5-9480-4580-b502-c3c71a58f49e",
+      "business_id": "df86fb5a-196f-477b-b20a-b8af8e14ecde",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "54edaa91-36be-4f8c-9d7a-3a8898819e79",
+      "business_id": "21789f00-b464-4abf-a4b0-c15e3e4519a0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bc73e413-ff1e-4773-8404-985dbd84fa42",
+      "business_id": "6eb0ad29-2144-422c-808d-799f1917c129",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2ae36e49-27be-4040-9765-2a046bb00b70",
+      "business_id": "7524ef1d-82e5-4f41-99f5-d408ea9b5ed3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
