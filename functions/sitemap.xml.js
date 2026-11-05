@@ -100,6 +100,7 @@ var STATIC_URLS = [
   ['https://vansquads.com/blog/how-much-does-pressure-washing-cost-in-sioux-falls/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-house-cleaning-cost-in-portland/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-pressure-washing-cost-in-portland/', 'monthly', '0.7'],
+  ['https://vansquads.com/blog/how-much-does-mobile-car-detailing-cost-in-portland/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-car-detailing/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-pet-grooming/', 'monthly', '0.7'],
   ['https://vansquads.com/services/home-cleaning/', 'monthly', '0.7']
