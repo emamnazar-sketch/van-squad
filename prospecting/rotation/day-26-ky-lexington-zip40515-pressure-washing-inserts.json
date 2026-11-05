@@ -1,0 +1,207 @@
+{
+  "businesses": [
+    {
+      "id": "5fdf185c-532b-42bb-85c7-182a08721e9c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Men In Kilts Lexington",
+      "category": "Pressure washing",
+      "phone": "(859) 203-7829",
+      "website": "https://www.meninkilts.com/lexington-ky/residential/pressure-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5158a895-68e7-4cdf-9bee-a1025e780b05",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "High Fidelity Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(859) 410-3404",
+      "website": "http://highfidelitypressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515",
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3178de2b-bec1-4274-bf7f-898d4b132c0d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simply Clean Pressure Washing & Window Cleaning",
+      "category": "Pressure washing",
+      "phone": "(859) 806-6122",
+      "website": "https://www.simplycleankentucky.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515",
+        "40511"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d31c42aa-a046-4392-96fb-9766fceecb0e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Holloman Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(859) 327-5531",
+      "website": "https://www.hollomanpressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515",
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ce149792-128e-4146-a00c-bc9a5da13028",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Xtreme Clean Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(859) 379-5171",
+      "website": "http://xcpressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515",
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bac47200-c564-4ed7-96cd-3679124e7315",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Inman ProWash LLC",
+      "category": "Pressure washing",
+      "phone": "(859) 312-0704",
+      "website": "https://prowash.llc/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515",
+        "40513"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1423467e-76d3-410e-94a5-521a0d6691ef",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "No Bull Home Services",
+      "category": "Pressure washing",
+      "phone": "(859) 421-9511",
+      "website": "https://www.nobullhome.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40515"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5f92ad89-8a2d-4f2d-b993-01f2c6968b4b",
+      "business_id": "5fdf185c-532b-42bb-85c7-182a08721e9c",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0e9233a5-5d2a-41e0-8744-0cd233e27661",
+      "business_id": "5158a895-68e7-4cdf-9bee-a1025e780b05",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "547970b2-05af-4fea-8b31-5db4250e5930",
+      "business_id": "3178de2b-bec1-4274-bf7f-898d4b132c0d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f70e8350-db37-46cb-b8f9-188659110664",
+      "business_id": "d31c42aa-a046-4392-96fb-9766fceecb0e",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "789f935e-f9f7-437a-a3ef-e640c7e3fdaa",
+      "business_id": "ce149792-128e-4146-a00c-bc9a5da13028",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5b5e710d-6bbe-410e-8838-c2a3724e729c",
+      "business_id": "bac47200-c564-4ed7-96cd-3679124e7315",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e8b12c4-843e-489e-aa05-64e4f8bebdec",
+      "business_id": "1423467e-76d3-410e-94a5-521a0d6691ef",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

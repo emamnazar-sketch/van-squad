@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "fdc7b57e-8938-4376-8e57-a62713a0cecf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "PoolReady of Louisville",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(502) 265-6215",
+      "website": "https://poolready.com/locations/kentucky/louisville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40272"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e5178f91-f391-4709-9511-dc9178229ae8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Suntime Pools West",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(502) 426-8907",
+      "website": "https://www.suntimepoolswest.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40272"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "21ae0456-76d9-46e8-a3a5-cdfc4235c8f7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Steele Blades",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(502) 231-8684",
+      "website": "https://www.steeleblades.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40272"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a66e4371-fa05-4890-87fb-bbd964d1a3f3",
+      "business_id": "fdc7b57e-8938-4376-8e57-a62713a0cecf",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7920f66f-2e04-43ee-abee-80303a588060",
+      "business_id": "e5178f91-f391-4709-9511-dc9178229ae8",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "abdee727-0e4c-4bbe-806a-d3d13fda960d",
+      "business_id": "21ae0456-76d9-46e8-a3a5-cdfc4235c8f7",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

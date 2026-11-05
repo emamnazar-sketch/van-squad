@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "9bca4644-6c28-4d66-b75a-29e558e973ec",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "The Maids in Southern Louisville",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(502) 795-0110",
+      "phone_verified": false,
+      "service_zips": [
+        "40218"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.maids.com/314/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "a6b36bd9-bb83-4523-a318-180e0556bbdb",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Olivia Cleans",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(502) 417-8686",
+      "phone_verified": false,
+      "service_zips": [
+        "40218"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.oliviacleansky.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "3356a50b-cafc-43f9-a198-11f2460dc88c",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Cleaning Maid EZ, LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(502) 551-9473",
+      "phone_verified": false,
+      "service_zips": [
+        "40218",
+        "40219"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": ""
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "9bca4644-6c28-4d66-b75a-29e558e973ec",
+      "id": "9e8db9b6-6203-41bd-a893-93f673b5b801",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "a6b36bd9-bb83-4523-a318-180e0556bbdb",
+      "id": "bc95d94b-cca6-4fb8-883c-96022657f76f",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "3356a50b-cafc-43f9-a198-11f2460dc88c",
+      "id": "7a8be04a-7b97-42c8-9ecd-8b05c740e1a2",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

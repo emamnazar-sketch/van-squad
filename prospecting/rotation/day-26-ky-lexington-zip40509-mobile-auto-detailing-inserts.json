@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "fb4b9736-2cc5-410a-82da-a763d98b0953",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carpenter's Mobile Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 588-3843",
+      "website": "https://carpentersmobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "01f4fd31-5bcf-4a26-aa8b-8787a2264a22",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lex Express Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 559-8022",
+      "website": "https://www.lexexpressdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bb8c189b-77fb-4518-ad49-2a311eff37ca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Right Choice Mobile Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 420-5461",
+      "website": "https://therightchoicemobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bb9c5bd6-3a65-4b5b-85ba-3dc21b954a05",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Triple Threat Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 421-0692",
+      "website": "https://triplethreatdetails.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e5899d08-0060-40f7-af6a-467e4e136906",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Soft Touch Auto Detail LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 421-6121",
+      "website": "https://www.softtouchautodetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8622f2f9-fd94-4c14-85da-aef1962726a6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kleen Mobile Car Wash and Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 982-9152",
+      "website": "http://www.kleenmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "625e830e-7339-4267-b183-c1c9b515cb6e",
+      "business_id": "fb4b9736-2cc5-410a-82da-a763d98b0953",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "865ae73d-4b0a-415a-846b-1b75ca2134e3",
+      "business_id": "01f4fd31-5bcf-4a26-aa8b-8787a2264a22",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8a99b56c-ab55-4f31-bb88-021e11078802",
+      "business_id": "bb8c189b-77fb-4518-ad49-2a311eff37ca",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ca0c24f5-2358-4e8c-9f2b-e3f9a3a6fd63",
+      "business_id": "bb9c5bd6-3a65-4b5b-85ba-3dc21b954a05",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "70d23d45-7adb-42c5-9aa5-c0307ffcf4ce",
+      "business_id": "e5899d08-0060-40f7-af6a-467e4e136906",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4bcdf364-8104-4619-a3fe-50469aeee060",
+      "business_id": "8622f2f9-fd94-4c14-85da-aef1962726a6",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

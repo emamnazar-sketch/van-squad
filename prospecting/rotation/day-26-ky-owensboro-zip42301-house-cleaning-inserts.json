@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "bf424d2e-2e1c-478f-af70-7ad780b1e537",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Owensboro",
+      "category": "House cleaning",
+      "phone": "(270) 414-4853",
+      "website": "https://merrymaids.com/home-cleaners-owensboro-ky",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "99e2efee-21a4-42dc-85ca-7b60f0e7f4e6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Happy House Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(270) 281-4502",
+      "website": "http://www.hhcsowensboro.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9620e76b-7bcf-42a9-858d-bf1609bc8ebd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Owensboro Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(270) 713-7181",
+      "website": "https://owensborocleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ae50b27c-ec08-484d-9a11-c6cfece0377e",
+      "business_id": "bf424d2e-2e1c-478f-af70-7ad780b1e537",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "db8ea98c-2290-4d8a-bd22-703e77bd15e0",
+      "business_id": "99e2efee-21a4-42dc-85ca-7b60f0e7f4e6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "550dfad6-e961-45be-bd03-4c0421550ae7",
+      "business_id": "9620e76b-7bcf-42a9-858d-bf1609bc8ebd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "59482c0a-d6db-4f08-ab86-735b9c7b6f58",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Professional Handyman",
+      "category": "Handyman",
+      "phone": "(502) 271-0090",
+      "website": "https://professionalhandymanky.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "da33d6a6-3e74-417d-85c1-607efbc34cea",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "HomeWise Handyman",
+      "category": "Handyman",
+      "phone": "(502) 503-5050",
+      "website": "http://www.homewise.work/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "976040bd-0ebd-4d69-ac3b-184e9862cb47",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "My Best Handyman",
+      "category": "Handyman",
+      "phone": "(502) 531-5744",
+      "website": "https://www.mybesthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9ea9373b-a601-41c1-9ffb-4f7ad9e12c76",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Step Fixin LLC",
+      "category": "Handyman",
+      "phone": "(502) 643-2759",
+      "website": "https://first-step-fixin-llc.b12sites.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ff124db4-eea6-4bf8-bdb4-f6cf65cd562b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tryumf Home Services",
+      "category": "Handyman",
+      "phone": "(502) 403-3498",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f2722b3e-6e1d-4cc8-a354-2997a5f233ff",
+      "business_id": "59482c0a-d6db-4f08-ab86-735b9c7b6f58",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65328d13-d7f1-480f-b57e-5fbe154dc63d",
+      "business_id": "da33d6a6-3e74-417d-85c1-607efbc34cea",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "adde5432-1dff-4203-9a31-584f615a1264",
+      "business_id": "976040bd-0ebd-4d69-ac3b-184e9862cb47",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5c76cc00-3ece-4b2c-9a84-a7fd1dce72a4",
+      "business_id": "9ea9373b-a601-41c1-9ffb-4f7ad9e12c76",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65a89847-5daa-4296-9b17-b31c9a2a7152",
+      "business_id": "ff124db4-eea6-4bf8-bdb4-f6cf65cd562b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

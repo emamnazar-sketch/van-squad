@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "43f21142-cd92-41e0-9b33-3fd3d6b17220",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cincinnati Handyman Eugene",
+      "category": "Handyman",
+      "phone": "(859) 486-7730",
+      "website": "http://cincinnatihandymaneugene.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "45a0cb6c-6c47-4889-b8aa-032c545b5604",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Northern Kentucky and West Cincinnati",
+      "category": "Handyman",
+      "phone": "(859) 459-0951",
+      "website": "https://www.mrhandyman.com/northern-kentucky-west-cincinnati/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "113aa8f5-38cd-4ac1-a612-09da0dbd68f6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fix It-Cincy",
+      "category": "Handyman",
+      "phone": "(513) 202-3349",
+      "website": "https://www.fixit-cincy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "de0b63cb-21b3-4994-9efa-3d0051cc4d4f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hoffman Home Services",
+      "category": "Handyman",
+      "phone": "(859) 992-6115",
+      "website": "http://www.hoffmanhomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b7b9befa-58fb-452b-8a53-967824d4e277",
+      "business_id": "43f21142-cd92-41e0-9b33-3fd3d6b17220",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aee3f04b-2f12-4af4-b40a-19f70372284e",
+      "business_id": "45a0cb6c-6c47-4889-b8aa-032c545b5604",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "61f9de1a-aa91-46a8-86c9-639908dafa5a",
+      "business_id": "113aa8f5-38cd-4ac1-a612-09da0dbd68f6",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "62c7e536-39a0-4fe7-b5cd-828714cda161",
+      "business_id": "de0b63cb-21b3-4994-9efa-3d0051cc4d4f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

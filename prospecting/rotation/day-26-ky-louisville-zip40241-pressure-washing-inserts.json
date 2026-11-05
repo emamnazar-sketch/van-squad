@@ -1,0 +1,147 @@
+{
+  "businesses": [
+    {
+      "id": "1aba6ca8-b155-4fe9-82df-44bab7bd0e9e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "EasyPro Property Services",
+      "category": "Pressure washing",
+      "phone": "(502) 732-6363",
+      "website": "https://www.myeasypro.com/faqs/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40241",
+        "40223"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aa40dbab-d4b3-42df-9847-4c2353ab7a29",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Island Exterior Services",
+      "category": "Pressure washing",
+      "phone": "(502) 676-8469",
+      "website": "https://islandexteriorservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0c7992a1-52cc-4d7d-9dd9-bd4982c9757a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Louisville Housewash",
+      "category": "Pressure washing",
+      "phone": "(502) 777-8024",
+      "website": "https://louisvillehousewash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "595a6296-16fe-4c54-a551-0e8ba6976893",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prestige Exterior Services",
+      "category": "Pressure washing",
+      "phone": "(502) 663-1858",
+      "website": "https://www.myprestigeservice.com/power-washing-company-in-louisville-kentucky/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "29006be2-4663-4493-baab-57f43408e074",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "That 1 Painter Louisville",
+      "category": "Pressure washing",
+      "phone": "(502) 287-1747",
+      "website": "https://that1painter.com/louisville/pressure-washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a124756c-8505-488a-93bc-2d9ba89657cf",
+      "business_id": "1aba6ca8-b155-4fe9-82df-44bab7bd0e9e",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6165d3df-6ee5-4dfd-9364-d35a4f571f78",
+      "business_id": "aa40dbab-d4b3-42df-9847-4c2353ab7a29",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eb16a2b8-3612-438b-9d47-42f56c8f02a5",
+      "business_id": "0c7992a1-52cc-4d7d-9dd9-bd4982c9757a",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8be71523-4e25-4c09-a802-63018dc6b0ff",
+      "business_id": "595a6296-16fe-4c54-a551-0e8ba6976893",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3f2aa715-e205-47b6-b2cd-c8c17c453d13",
+      "business_id": "29006be2-4663-4493-baab-57f43408e074",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "businesses": [
+    {
+      "id": "1e581701-039b-452e-9c99-83e2fabad08b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Top Mops Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(859) 276-2222",
+      "website": "http://topmopscleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40502",
+        "40503",
+        "40504",
+        "40505",
+        "40506",
+        "40507",
+        "40508",
+        "40509",
+        "40510",
+        "40511",
+        "40513",
+        "40514",
+        "40515",
+        "40516",
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f802bc53-6588-4e23-944e-cdd5142f7c93",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Lexington",
+      "category": "House cleaning",
+      "phone": "(859) 274-4083",
+      "website": "https://www.thecleaningauthority.com/lexington/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40502",
+        "40324",
+        "40356",
+        "40503",
+        "40504",
+        "40505",
+        "40507",
+        "40508",
+        "40509",
+        "40510",
+        "40511",
+        "40513",
+        "40514",
+        "40515",
+        "40516",
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ec522c3-cff6-48fe-abca-121928a05cd8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "LexClean LLC",
+      "category": "House cleaning",
+      "phone": "(859) 689-3991",
+      "website": "https://lexclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40502",
+        "40507"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "110c9537-f735-473a-a9be-04b6c1bd8323",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Lexington",
+      "category": "House cleaning",
+      "phone": "(859) 568-5440",
+      "website": "http://twomaidscleaning.com/lexington",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40502",
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4116135c-7a30-4a6f-adeb-cfc26a1a3b34",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Lexington",
+      "category": "House cleaning",
+      "phone": "(859) 470-8138",
+      "website": "https://merrymaids.com/home-cleaners-lexington-ky",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40502",
+        "40509"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5638035e-3b99-47c4-8214-38c666c11cef",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prime Cleaning & Maintenance LLC",
+      "category": "House cleaning",
+      "phone": "(859) 536-9292",
+      "website": "https://www.primecleaningmaintenance.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e690c03e-a252-4e1f-8531-df28e275ccab",
+      "business_id": "1e581701-039b-452e-9c99-83e2fabad08b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ba74429c-677f-409f-981f-646f19dc3550",
+      "business_id": "f802bc53-6588-4e23-944e-cdd5142f7c93",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "92f32a72-4c4d-4652-803f-7ef62056e815",
+      "business_id": "8ec522c3-cff6-48fe-abca-121928a05cd8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6508e02d-4fe4-4d76-ac50-31feb0218587",
+      "business_id": "110c9537-f735-473a-a9be-04b6c1bd8323",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b7a7b9c6-eb76-4699-8c51-8752523083b7",
+      "business_id": "4116135c-7a30-4a6f-adeb-cfc26a1a3b34",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c62a956-a7a0-485b-9943-bbb8eefacfd6",
+      "business_id": "5638035e-3b99-47c4-8214-38c666c11cef",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

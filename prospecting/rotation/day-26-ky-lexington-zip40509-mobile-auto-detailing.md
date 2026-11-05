@@ -1,0 +1,54 @@
+# Day 26 — Kentucky × Lexington × ZIP 40509 × Mobile auto detailing
+
+- **Cell:** KY | Lexington | 40509 | Mobile auto detailing (exact label)
+- **Date:** 2026-11-05 (Day 26 run)
+- **Expansion:** None needed — 6 qualifying businesses found serving Lexington / 40509 (40509 is the Hamburg / northeast Lexington area; every business below serves Lexington / Fayette County from its own materials, and Kleen Mobile Car Wash and Detail's own Kentucky Secretary of State record puts its principal office at 316 Forest Hill Dr, Lexington, KY 40509 — inside the target ZIP). No adjacent-ZIP expansion.
+- **Dedupe:** Every candidate name AND phone checked against (a) `~/workspace/goals/van-squad-directory-website/hidden_files/day26-open-dump.json` (2,217 businesses) and (b) `grep -r` across all of `~/workspace/van-squad/prospecting/` (including tonight's Day-26 Louisville files). No name or phone matches for the 6 businesses below.
+- **Phone rule:** All phones are Lexington local (859) numbers. Five are verified on the business's own website; Kleen Mobile's phone is verified on its Google listing because its own website prints no phone number (noted in its row). None is toll-free-only.
+- **Mobile/on-site:** Each business's own materials confirm detailing performed at the customer's home/driveway/office in Lexington (see reasons; Soft Touch Auto Detail LLC and Kleen Mobile Car Wash and Detail are graded Medium for the caveats noted).
+- **service_zips:** No business below publishes a ZIP list on its own site, so all get ["40509"] only — city/neighborhood service-area names were NOT converted into ZIPs.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source URL (phone) |
+|---|---|---|---|---|---|---|---|
+| Carpenter's Mobile Detail | (859) 588-3843 | Mobile auto detailing | Lexington | https://carpentersmobiledetail.com/ | — none published on its own site that could be verified (site is call/text-to-book; no email printed) | High — own site: "Carpenter's Mobile Detail is a fully mobile auto detailing service based in Lexington and Georgetown, Kentucky… you pick a time and we come to you, at home, at your apartment, at the office or on a job site. Our rig carries its own water and power," "Get detailed in your driveway," service-area list includes Lexington, and "Phone: +18595883843" / "(859) 588-3843 · Text us" printed on the site | https://carpentersmobiledetail.com/ |
+| Lex Express Detailing | (859) 559-8022 | Mobile auto detailing | Lexington | https://www.lexexpressdetailing.com/ | info@lexexpressdetailing.com — https://www.lexexpressdetailing.com/ (own site Contact Us block) | High — own site: "Mobile and In-Shop Auto Detailing… in Lexington, KY," "with mobile service available for detailing," "book an in-shop appointment or a full-service mobile detailing appointment, where we come to you," "We Come to You" section, "serves Lexington, Fayette County, and the surrounding areas," shop at 182 Turner Commons Way, Suite 130, Lexington, KY 40508, and "Call (859) 559-8022" with the email printed in its Contact Us block | https://www.lexexpressdetailing.com/ |
+| The Right Choice Mobile Detail | (859) 420-5461 | Mobile auto detailing | Lexington | https://therightchoicemobiledetail.com/ | — none used (its site shows only an "Email Us" button; no readable address is published, so per rule none was recorded) | High — own site: "Professional Mobile Detailing Services in Lexington, KY," "we bring professional detailing directly to your home, workplace, apartment community, or approved location," FAQ "We cover Lexington, Nicholasville, and surrounding areas" and "we frequently come to offices and work places to detail cars and trucks… We bring everything we need including water and electric," with "Phone: 8594205461" printed on the site; its Google description adds "a fully contained mobile detailing service that… performs high quality detailing onsite at your location" | https://therightchoicemobiledetail.com/services/ |
+| Triple Threat Detailing | (859) 421-0692 | Mobile auto detailing | Lexington | https://triplethreatdetails.com/ | triplethreatdetails@gmail.com — https://triplethreatdetails.com/ (own site booking/footer block) | High — own site: header "Nicholasville & Lexington, KY," "Mobile — We Come To You," "No drop-off needed. We bring everything to your driveway across Nicholasville, Lexington, and surrounding Central Kentucky," "Mobile detailing across Nicholasville, Lexington & surrounding Central Kentucky. We come to you," and "(859) 421-0692" with the email printed on the site | https://triplethreatdetails.com/ |
+| Soft Touch Auto Detail LLC | (859) 421-6121 | Mobile auto detailing | Lexington | https://www.softtouchautodetail.com/ | softtouchautodetail@outlook.com — https://www.softtouchautodetail.com/ (own site Connect with Us block) | Medium — own site: "the mobile detailing unit brings select services to your driveway seasonally, weather permitting," "whether they visit the Floyd Drive shop or request mobile service closer to home," business block "Soft Touch Auto Detail, 1051 Floyd Drive, STE 180, Lexington, Kentucky 40505. (859) 421-6121" with the email printed on the site; graded Medium because it is a shop-first business and its mobile unit covers only select services, seasonally | https://www.softtouchautodetail.com/ |
+| Kleen Mobile Car Wash and Detail | (859) 982-9152 | Mobile auto detailing | Lexington | http://www.kleenmobile.com/ | — none published on its own site that could be verified | Medium — own site: "WE COME TO YOU — We'll meet at your requested location prepared to provide our services," with Exterior Wash, Interior Kleen and Full Detail services, and its Kentucky Secretary of State record for KLEEN Mobile Car Wash LLC puts its principal office at 316 Forest Hill Dr, Lexington, KY 40509 (the target ZIP); graded Medium because its own website prints no phone number — the phone was verified on its Google listing instead — and the site is dated in appearance | http://www.kleenmobile.com/ |
+
+## Email leads
+
+Published emails only, from the business's own website — kept separate, never on profiles:
+
+| Business | Email | Source URL |
+|---|---|---|
+| Lex Express Detailing | info@lexexpressdetailing.com | https://www.lexexpressdetailing.com/ |
+| Triple Threat Detailing | triplethreatdetails@gmail.com | https://triplethreatdetails.com/ |
+| Soft Touch Auto Detail LLC | softtouchautodetail@outlook.com | https://www.softtouchautodetail.com/ |
+
+3 leads — see `day-26-ky-lexington-zip40509-mobile-auto-detailing-leads.json`.
+
+Note on Tornado Shine's email: its site footer email renders only as an obfuscated "[email protected]" placeholder in the readable page, so per rule it was NOT recorded as a lead (the business itself was excluded for this cell in any case — see below).
+
+## Excluded
+
+- **Tornado Shine** — genuinely mobile on its own site ("Central Kentucky Mobile Auto Detailing," "We Come To You… at work or home, we have our own source of water and power," phone (859) 334-0665 on the site), but based in Georgetown, KY, not Lexington: its Google/Birdeye listings give Georgetown, KY 40324 and its Kentucky Secretary of State record puts its principal office at 509 Estill Court, Georgetown, KY 40324, and its own materials name only "Central KY" / Georgetown — not a Lexington-city business for this Lexington cell; excluded for this cell.
+- **Central Kentucky Mobile Detailing** — Google listing address is in the target ZIP (1890 Star Shoot Pkwy Ste. 170 PMB 208, Lexington) with phone (859) 667-1236 and a listing description ("the car wash in Lexington, Ky that comes to you… right in your driveway"), but no own website could be found in repeated searches, so mobile service could not be confirmed from the business's own website to this cell's standard; excluded.
+- **Trouts Detailing** — Google listing calls it a "Mobile Car Detailing Service in the Lexington area," phone (937) 272-2043 (a non-local Ohio area code), but its own website (troutsdetailing.com) currently serves a placeholder/spam template page in Russian with no detailing content, no phone and no mobile confirmation; excluded as unverifiable.
+- **SV Car Detailing** — own site (svcardetailingky.com) prints phone (859) 327-1225 and hello@svcardetailing.com in Lexington, but its own materials never claim mobile / come-to-you detailing — the only on-site signal is one process line, "select a convenient time for our team to visit your location," against multi-hour luxury packages ($600–$5,000) that read as shop work; mobile/on-site not confirmed from its own materials; excluded.
+- **OCDetailing LLC** — own site (ocdetailinglex.com) describes cars that "come through our doors" at its Lexington shop (1709 Eastland Dr, (859) 202-0016 on its listing); no mobile service on its own materials; excluded as fixed shop.
+- **KD Auto Detailing (No Dirty Cars)** — listing description mentions service "at one of our central ky locations and mobile," but its published phone is a non-local (502) Louisville number and mobile detailing in Lexington could not be confirmed clearly from its own materials; excluded.
+- **Prime Shine Mobile Detailing; Shirley's Mobile Detail; D&M Mobile Car detailing** — listing/social-only presences with no verifiable own website confirming mobile detailing and a Lexington phone to the standard above (Shirley's listing is also marked "Possibly Temporarily Closed"; D&M is based in Richmond, KY); excluded.
+- **National Detail Pros (Lexington)** — national lead-gen network (800 number, nationwide detailer network); excluded by rule.
+- **On Point Details; LexPro Auto Spa; Lexington Detailing LLC; Triple D Detailing; Dings Dents 'N Details; KY Car Therapy; GorillaShine Detailing Co** — Lexington detail shops/studios whose own materials show fixed-shop service with no mobile/come-to-you detailing confirmed; excluded as fixed shops.
+- **Clean Sweep; Zips Car Wash; WhiteWater Express Car Wash; Jerry's / Soapy Joe's; Lexington Auto Spa; Sami's Car Wash** — fixed car-wash locations/chains, no mobile detailing; excluded.
+- Note: a second, older Google listing for The Right Choice at 3336 Tahoe Rd, Lexington is marked "Permanently Closed" — it is a stale duplicate listing for the same phone/business, not a separate business; the included business's own website is live and current and its other listing is active, so the business is included above on its own site's evidence.
+
+## Files
+
+- `day-26-ky-lexington-zip40509-mobile-auto-detailing.md` (this file)
+- `day-26-ky-lexington-zip40509-mobile-auto-detailing-inserts.json` — 6 businesses + 6 listings, validated with `python3 -m json.tool`
+- `day-26-ky-lexington-zip40509-mobile-auto-detailing-leads.json` — 3 leads, validated with `python3 -m json.tool`
+
+No database inserts were made; no files outside this cell's batch files were edited.

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "d242d08c-0fce-4f83-be01-269a22e3b62e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lancelot and Son Handyman Service",
+      "category": "Handyman",
+      "phone": "(859) 474-1236",
+      "website": "http://www.lexkyhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "54b210c6-934a-4e17-b4d0-30270e75d7a7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Services Lex LLC",
+      "category": "Handyman",
+      "phone": "(859) 346-9129",
+      "website": "http://handymanserviceslex.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "60159c30-c41f-4741-8964-69a9e2147161",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paul's Handyman Solutions",
+      "category": "Handyman",
+      "phone": "(859) 227-8314",
+      "website": "https://www.paulhandymansolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e18dfe24-f6de-4a23-954e-cef9aa450ec9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "My Old Kentucky Home Repair",
+      "category": "Handyman",
+      "phone": "(859) 940-3376",
+      "website": "https://www.myoldkyhomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4300a7c7-c1a1-490f-b8d9-b6d9514469d0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Higher Hands Handyman",
+      "category": "Handyman",
+      "phone": "(859) 279-1951",
+      "website": "https://thehigherhands.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "51dc061b-6db6-452b-a003-67d960e9373a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Lexington",
+      "category": "Handyman",
+      "phone": "(859) 318-1006",
+      "website": "https://www.mrhandyman.com/lexington/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40517"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9aa81aed-64c7-49bf-a088-8b2597bfd613",
+      "business_id": "d242d08c-0fce-4f83-be01-269a22e3b62e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "001478ea-4b2b-44da-a8dc-f1391da44f09",
+      "business_id": "54b210c6-934a-4e17-b4d0-30270e75d7a7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7e4ff8bc-5033-499a-af71-11ea1ec5d28a",
+      "business_id": "60159c30-c41f-4741-8964-69a9e2147161",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7f0b54e4-621a-4c4b-aabf-50c943395ff5",
+      "business_id": "e18dfe24-f6de-4a23-954e-cef9aa450ec9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "93fbdf62-e586-4f77-ba48-d6d206493ef6",
+      "business_id": "4300a7c7-c1a1-490f-b8d9-b6d9514469d0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d9f780e2-9c00-497b-ad44-bafa0d030588",
+      "business_id": "51dc061b-6db6-452b-a003-67d960e9373a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

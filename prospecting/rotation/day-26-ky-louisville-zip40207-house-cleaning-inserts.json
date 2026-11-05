@@ -1,0 +1,249 @@
+{
+  "businesses": [
+    {
+      "id": "3f88c563-53b5-4eae-9fd3-593f1d9a100d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rocking Robins Maids LLC",
+      "category": "House cleaning",
+      "phone": "(502) 488-8685",
+      "website": "https://rrmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f8b4ce33-b034-4eb0-b1ab-21ee973c3454",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Cleaning Krew",
+      "category": "House cleaning",
+      "phone": "(502) 618-9964",
+      "website": "https://yourcleaningkrew.com/louisville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79027a23-8c92-46f4-b48d-637870be0e69",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid in the Ville",
+      "category": "House cleaning",
+      "phone": "(502) 553-9575",
+      "website": "https://maidintheville.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207",
+        "40205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f67d5e36-5cae-4bca-ba32-f163e68cacbb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maids In Apron",
+      "category": "House cleaning",
+      "phone": "(502) 202-7542",
+      "website": "https://maidsinapron.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207",
+        "40205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a8aecc18-ff1a-41d9-a159-eb9f7250d866",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Louisville",
+      "category": "House cleaning",
+      "phone": "(502) 337-3518",
+      "website": "https://www.thecleaningauthority.com/louisville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207",
+        "40025",
+        "40041",
+        "40059",
+        "40204",
+        "40205",
+        "40206",
+        "40218",
+        "40220",
+        "40222",
+        "40223",
+        "40241",
+        "40242",
+        "40243",
+        "40245",
+        "40299"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "195f9033-cfd6-4df2-ac08-b809b00301f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Louisville",
+      "category": "House cleaning",
+      "phone": "(502) 369-0887",
+      "website": "https://merrymaids.com/home-cleaners-louisville-ky",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207",
+        "40299"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3badbcfb-e3d9-488a-af82-3a8bebaf1a20",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Louisville",
+      "category": "House cleaning",
+      "phone": "(502) 254-9979",
+      "website": "https://www.maidpro.com/louisville-ky",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207",
+        "40241"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6e6fc595-b983-458f-86f7-7f79fe297cd8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kentucky Maid",
+      "category": "House cleaning",
+      "phone": "(502) 520-5223",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "40207"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ead6a412-55e5-4dc5-9139-62b9138478c6",
+      "business_id": "3f88c563-53b5-4eae-9fd3-593f1d9a100d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dfaac23c-cd59-4e38-91d9-d359230794db",
+      "business_id": "f8b4ce33-b034-4eb0-b1ab-21ee973c3454",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4f8a0db5-b8c0-49a3-8410-53ea5658969e",
+      "business_id": "79027a23-8c92-46f4-b48d-637870be0e69",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "427fe52a-a7bc-42e3-ada6-4f2f2d0406d3",
+      "business_id": "f67d5e36-5cae-4bca-ba32-f163e68cacbb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a9608a50-0341-4fad-a437-ea0ecf304c9b",
+      "business_id": "a8aecc18-ff1a-41d9-a159-eb9f7250d866",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b12e247c-d582-4698-ac0a-d9ae9da22abe",
+      "business_id": "195f9033-cfd6-4df2-ac08-b809b00301f8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "244624dc-6773-4c7e-bb72-aab54095ee78",
+      "business_id": "3badbcfb-e3d9-488a-af82-3a8bebaf1a20",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6cca6e91-9892-4af9-bbbf-0113394e80af",
+      "business_id": "6e6fc595-b983-458f-86f7-7f79fe297cd8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "businesses": [
+    {
+      "id": "10582a7e-2b2d-4a92-9a27-71da92a597b0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean and Dusted",
+      "category": "House cleaning",
+      "phone": "(859) 443-0941",
+      "website": "http://cleananddusted.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "35a02353-0ebd-44de-96a9-e42d89e1f0ad",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Florence",
+      "category": "House cleaning",
+      "phone": "(859) 282-6474",
+      "website": "https://www.maidpro.com/nky",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "69eb4031-4cab-4e0c-b64d-c2a4e8ce7892",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Northern Kentucky",
+      "category": "House cleaning",
+      "phone": "(859) 903-5712",
+      "website": "https://www.thecleaningauthority.com/northern-kentucky",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042",
+        "41001",
+        "41005",
+        "41007",
+        "41011",
+        "41014",
+        "41015",
+        "41016",
+        "41017",
+        "41018",
+        "41048",
+        "41051",
+        "41059",
+        "41063",
+        "41071",
+        "41073",
+        "41074",
+        "41075",
+        "41076",
+        "41085",
+        "41091",
+        "41094"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7d3ef4df-18e2-4ba9-864a-9792ba16a2d7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Big Blue Cleaning Crew",
+      "category": "House cleaning",
+      "phone": "(859) 216-2114",
+      "website": "https://www.bigbluecleaningcrewky.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0753914c-239a-4df4-834a-9beaf99b84ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DustBusters Home Services",
+      "category": "House cleaning",
+      "phone": "(859) 816-1386",
+      "website": "https://dustbustershomeservicesnky.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3bf0822a-3de4-4052-b725-d1095caa5b3e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ecomaids of East Cincinnati-Fort Mitchell-Florence",
+      "category": "House cleaning",
+      "phone": "(513) 506-2529",
+      "website": "https://ecomaids.com/eastcincinnati-oh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "96546bad-fdf4-45ba-bb50-64b9162dd05e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Total Cleaning Pro Martínez LLC",
+      "category": "House cleaning",
+      "phone": "(513) 780-0835",
+      "website": "https://xn--totalcleaningpromartnezllc-xoc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "41042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d7ced622-3bc5-4ae8-9a75-82aba97ca3f5",
+      "business_id": "10582a7e-2b2d-4a92-9a27-71da92a597b0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b8ac3ab-b32d-46fb-8d15-f3df7d93554b",
+      "business_id": "35a02353-0ebd-44de-96a9-e42d89e1f0ad",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e95a7ba5-5f1d-437b-9fc4-d14356d05278",
+      "business_id": "69eb4031-4cab-4e0c-b64d-c2a4e8ce7892",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6cb3863d-69e8-4fe6-b72d-b7e47dbf6b01",
+      "business_id": "7d3ef4df-18e2-4ba9-864a-9792ba16a2d7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ea0bb924-49af-46fc-9911-923f18dc809b",
+      "business_id": "0753914c-239a-4df4-834a-9beaf99b84ab",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c9327e03-194f-4e3c-a35d-03300cbbcd7a",
+      "business_id": "3bf0822a-3de4-4052-b725-d1095caa5b3e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d20d253a-20e5-4617-8801-575ee56fcf7b",
+      "business_id": "96546bad-fdf4-45ba-bb50-64b9162dd05e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

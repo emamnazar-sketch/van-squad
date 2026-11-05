@@ -1,0 +1,38 @@
+# Day 26 — Kentucky × Louisville × ZIP 40272 × Pool cleaning & maintenance
+
+- **Cell:** KY | Louisville | 40272 | Pool cleaning & maintenance (exact label, verified in `~/workspace/van-squad/js/data.js`)
+- **Date:** 2026-11-05 (Day 26 run)
+- **Expansion:** None needed — 3 qualifying businesses found. No adjacent-ZIP expansion was required to reach 3. Every business below is a Louisville / Greater Louisville operator whose own materials explicitly state Louisville service, which includes the 40272 area (southwest Louisville / Valley Station–Pleasure Ridge Park). None publishes a ZIP-code list, so no ZIPs were invented. Louisville's pool-service market is thin — most other names found were retail pool stores, builders with no cleaning route, or directory-only listings (see Excluded).
+- **Dedupe:** Every candidate name AND phone checked against (a) the Day-26 live-DB snapshot `~/workspace/goals/van-squad-directory-website/hidden_files/day26-open-dump.json` (2,217 rows) and (b) `grep -r` across all of `~/workspace/van-squad/prospecting/`. Zero name or phone matches for the 3 businesses below, and no dedupe-driven exclusions. Note on ASP: there is **no operating ASP location in Louisville** — the only ASP Louisville material is a franchise-opportunity spotlight seeking an owner (see Excluded), so no Louisville ASP was listed.
+- **service_zips:** No business below publishes a ZIP-code list, so every business gets ["40272"] only. City-name service areas were NOT converted into ZIPs.
+- **Mobile/on-site:** Each business's own materials confirm recurring pool cleaning/maintenance performed at the customer's home pool (weekly visits: skimming, vacuuming, brushing, chemical testing/balancing, basket/filter/equipment checks).
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source URL (phone) |
+|---|---|---|---|---|---|---|---|
+| PoolReady of Louisville | (502) 265-6215 | Pool cleaning & maintenance | Louisville | https://poolready.com/locations/kentucky/louisville | — none published on its own site that could be verified verbatim | Medium — own Louisville location page: "Pool Cleaning — Weekly or one-time service", "Pool Maintenance — including skimming, vacuuming, balancing, and inspections", weekly testing & balancing, serving all residential pool owners in Louisville; locally owned & operated by Robert & Darian Rust (owners named on the page), phone "Call Us 502-265-6215" printed on its own page. Graded Medium because it is a franchise location (PoolReady franchise system); name and phone are its own Louisville location's and no PoolReady row exists in the DB | https://poolready.com/locations/kentucky/louisville |
+| Suntime Pools West | (502) 426-8907 | Pool cleaning & maintenance | Louisville | https://www.suntimepoolswest.com | — none published on its own site (contact is form-only) | High — own Service page has a standalone "Weekly Service" department: "keep your water sparkling and your equipment running smoothly, all season long! From skimming and vacuuming to balancing chemicals and inspecting systems"; Louisville, KY company with retail locations at 12334 Shelbyville Road, Louisville, KY 40243 and Crestwood, phone 502-426-8907 printed on its own Service and Contact pages. Note: some third-party listings show older/other numbers ((502) 245-1262, (502) 241-2263) — the number used here is the one on the business's own current website | https://www.suntimepoolswest.com/service/ |
+| Steele Blades | (502) 231-8684 | Pool cleaning & maintenance | Louisville | https://www.steeleblades.com | — none published on its own site that could be verified verbatim | Medium — own swimming-pools page: "Professional Pool Maintenance & Seasonal Care … whether you require weekly service, seasonal openings and closings, or periodic inspections", and its maintenance pricing lists "Weekly maintenance service: $150–$300/month, covering chemical balancing, cleaning, and equipment checks" for Greater Louisville; phone (502) 231-8684 printed on its own page. Graded Medium because the company is primarily a landscaping/outdoor-living company and pool maintenance is one service line | https://www.steeleblades.com/swimming-pools |
+
+## Email leads
+
+No published business emails could be verified verbatim for the included businesses (PoolReady and Steele Blades publish none on their own sites; Suntime Pools West's own contact page is form-only).
+
+0 leads — see `day-26-ky-louisville-zip40272-pool-cleaning-maintenance-leads.json` (empty array).
+
+## Excluded
+
+- **ASP - America's Swimming Pool Company (Louisville)** — no operating Louisville location exists to list: the only Louisville ASP material found is an ASP Franchising spotlight ("ASP Louisville: A New Pool Cleaning Franchise Opportunity", aspfranchising.com) recruiting a future franchise owner. No local operator, no local phone — excluded. (ASP locations for other cities in the DB are unaffected.)
+- **All America Pool ((502) 448-0300, 4646 Dixie Highway, Louisville, KY 40216, allamericapool.com)** — family-owned since 1971 and its own site does say it offers pool "installation and maintenance for homes in Louisville", but the maintenance its own materials describe is opening/closing and equipment work (pump, motor, filter replacement); no recurring/weekly at-home cleaning service is clearly offered on its own site, so it fails the recurring-cleaning gate. Its email link was also masked/obfuscated in the fetched text and could not be verified verbatim, so it is not a lead either.
+- **Aquaman Pools of Louisville ((502) 235-2724, aquamanpoolslouisville.com)** — its own website presents it as a pool builder/contractor ("Pool Contractor for the Greater Louisville Area — Let Us Build your Dream POOL"); cleaning/maintenance wording appears only in a Google listing description, not confirmed in the business's own materials fetched — builder-only per the gate.
+- **Collegiate Pools ((502) 836-6626)** — weekly/bi-weekly cleaning and maintenance is attested on HomeAdvisor/Angi ("bi-weekly clean and maintenance", family-owned since 2018), but no own website could be found, so it fails the own-website-first gate (same treatment as directory-only candidates in earlier batches).
+- **Code Blue Pools & Supplies (10930 Dixie Hwy, Louisville — in 40272 itself; also a Preston Hwy store)** — retail pool-supply store (hot tubs, chemicals, free water testing, closing kits); no own-site confirmation of a recurring at-home pool cleaning route — retail storefront, excluded.
+- **Leslie's Pool Supplies (South Louisville store, 8000 Dixie Hwy, (502) 933-3500, and other Louisville stores)** — national retail chain storefront; in-store services only (water testing, in-store cleaner repairs, installation services), no at-home weekly cleaning route.
+- **The Pool Doctor (Louisville) / Sobek Pools, Inc.** — surfaced only in HomeAdvisor category copy with no verifiable own website carrying a public phone and own-materials confirmation of weekly home pool cleaning.
+- **Penguin Pool Service LLC** — a Google Forms quote page describes a weekly pool service, but no Louisville location or verifiable public phone tying it to Louisville could be confirmed.
+- **Angi / HomeAdvisor / Thumbtack listings in general** — used only as discovery pointers; every included business was verified on its own website.
+
+## Files
+
+- Batch: `day-26-ky-louisville-zip40272-pool-cleaning-maintenance.md` (this file)
+- Inserts: `day-26-ky-louisville-zip40272-pool-cleaning-maintenance-inserts.json` — 3 businesses + 3 listings
+- Leads: `day-26-ky-louisville-zip40272-pool-cleaning-maintenance-leads.json` — 0 published emails (empty array)

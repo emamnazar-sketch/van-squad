@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "7b58a30e-371f-432e-8beb-93850a05a905",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Maidmasters",
+      "category": "House cleaning",
+      "phone": "(270) 763-1287",
+      "website": "http://amaidmastershardincounty.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "63959af5-cc33-4c2f-94cd-ae2cc0a8d891",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mighty Mess Maid",
+      "category": "House cleaning",
+      "phone": "(270) 370-2121",
+      "website": "http://www.mightymessmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "88332d31-9be8-4108-8f90-bfeca962d68c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clarks Cleaners LLC",
+      "category": "House cleaning",
+      "phone": "(270) 300-5019",
+      "website": "https://clarkscleanersllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f1b2db67-126b-418c-b444-d7403499975f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Round The Clock Kleaning",
+      "category": "House cleaning",
+      "phone": "(270) 312-1908",
+      "website": "https://www.round-the-clock-kleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "42701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5c895b47-e270-4319-8721-ed539c1919e9",
+      "business_id": "7b58a30e-371f-432e-8beb-93850a05a905",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "db5a9270-2b23-4ba4-b21f-e6527799fcc9",
+      "business_id": "63959af5-cc33-4c2f-94cd-ae2cc0a8d891",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f6abe17a-1a2c-499e-a75d-32ae6246dce7",
+      "business_id": "88332d31-9be8-4108-8f90-bfeca962d68c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "edf37ac3-7dc0-49a0-9f4c-7f43e5565fe3",
+      "business_id": "f1b2db67-126b-418c-b444-d7403499975f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
