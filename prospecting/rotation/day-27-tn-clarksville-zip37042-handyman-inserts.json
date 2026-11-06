@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "05bdc020-1fc2-4418-8970-33cf17164398",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mission Ready Home Services",
+      "category": "Handyman",
+      "phone": "(270) 228-0995",
+      "website": "https://www.missionreadyhomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a35a1716-f944-44a3-b85c-d77a5b33b927",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JoJo's Construction LLC",
+      "category": "Handyman",
+      "phone": "(931) 343-5899",
+      "website": "https://jojosconstructionllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ea3ebc19-6446-41e1-9505-b88b724f2199",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Miceli's Home Improvement",
+      "category": "Handyman",
+      "phone": "(931) 305-5616",
+      "website": "https://micelis-home-improvement.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "13c1e910-5bc6-4882-8bc3-15036e63fa93",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pokk Services",
+      "category": "Handyman",
+      "phone": "(931) 278-9562",
+      "website": "http://www.pswegotyou.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37042",
+        "37043"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d7066a1b-b19c-4a33-9f92-660968bcf25f",
+      "business_id": "05bdc020-1fc2-4418-8970-33cf17164398",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8db8c897-b987-4cd6-b1a4-ea7d36aa55f8",
+      "business_id": "a35a1716-f944-44a3-b85c-d77a5b33b927",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9bb8ca99-3ac4-4aa7-ae2a-8f803dd347d9",
+      "business_id": "ea3ebc19-6446-41e1-9505-b88b724f2199",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "099b71dc-bf58-47df-9e0f-632eb077bd03",
+      "business_id": "13c1e910-5bc6-4882-8bc3-15036e63fa93",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

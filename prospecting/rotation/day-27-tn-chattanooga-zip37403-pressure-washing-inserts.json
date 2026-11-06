@@ -1,0 +1,176 @@
+{
+  "businesses": [
+    {
+      "id": "2c9b71e3-d392-4000-bc05-3eb8b478f489",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chattanooga Washing Co.",
+      "category": "Pressure washing",
+      "phone": "(423) 633-1116",
+      "website": "https://chattanoogawashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37403"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ea46dc37-f822-445f-b07f-004801a9e72b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SparClean Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(423) 402-0606",
+      "website": "https://sparcleanchattanooga.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37403"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a190e1d3-7927-4749-860c-57823afaf798",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tennessee Valley Surface Cleaning",
+      "category": "Pressure washing",
+      "phone": "(423) 508-2380",
+      "website": "https://tennesseevalleysurfacecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37403"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "53baa4bc-10a7-4d26-a5e5-ac0fe5e73c68",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Precision Exterior Services Chattanooga",
+      "category": "Pressure washing",
+      "phone": "(423) 255-5295",
+      "website": "http://precisionexteriorchattanooga.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37403",
+        "30741"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3a571959-542a-4be3-8820-d3ed58d4650d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "QualityPRO Power Washing",
+      "category": "Pressure washing",
+      "phone": "(423) 463-0376",
+      "website": "https://www.getpowerwashed.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37403",
+        "37407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "626e6181-a809-47bb-8e59-efcba3edeb36",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Veterans Vision Exterior Washing & Handyman",
+      "category": "Pressure washing",
+      "phone": "(706) 483-3151",
+      "website": "https://www.veteransvis.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37403"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a187b030-63bd-4c87-904d-0cb4dcada16f",
+      "business_id": "2c9b71e3-d392-4000-bc05-3eb8b478f489",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e867e1c3-63a4-4fcd-af53-289f519d4fc2",
+      "business_id": "ea46dc37-f822-445f-b07f-004801a9e72b",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bf8e4baf-9273-46b6-bde5-5320e084b2c0",
+      "business_id": "a190e1d3-7927-4749-860c-57823afaf798",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2b4bf968-44c9-4ddd-b913-102e46060641",
+      "business_id": "53baa4bc-10a7-4d26-a5e5-ac0fe5e73c68",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "49a8b77c-fec2-47da-a898-837a093782b8",
+      "business_id": "3a571959-542a-4be3-8820-d3ed58d4650d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "565fd116-2d45-446d-b802-450ce4c613fb",
+      "business_id": "626e6181-a809-47bb-8e59-efcba3edeb36",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

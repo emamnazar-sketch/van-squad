@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "b9019925-e7e2-4284-a393-ac34b05f132a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pool Ninjas",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(629) 249-1872",
+      "website": "https://www.poolninjastn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5bb92bce-95e0-4565-84aa-a5d42bf98ca7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Best Day Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(615) 282-5350",
+      "website": "https://bestdaypools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3e9fca58-bec6-4646-a6cc-9e506f424227",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ASP - America's Swimming Pool Company of Nashville",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(615) 412-5485",
+      "website": "https://www.asppoolco.com/nashville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c0a3ca51-a444-42f0-a5f6-f19d866b2861",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pool Scouts of Nashville",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(615) 558-4141",
+      "website": "https://poolscouts.com/nashville/pool-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a0fb3a6-483d-42e2-9640-25bb0ec36945",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Passion Pool Care LLC",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(615) 624-7624",
+      "website": "https://brentwoodpoolservice.biz/areas-of-service/nashville-pool-maintenance/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4b2816b0-2332-42c8-b903-f7b89764341b",
+      "business_id": "b9019925-e7e2-4284-a393-ac34b05f132a",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cb94b628-3af4-4890-946f-a88bd3622401",
+      "business_id": "5bb92bce-95e0-4565-84aa-a5d42bf98ca7",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "770cc353-1fbb-4152-ad63-772301f98d55",
+      "business_id": "3e9fca58-bec6-4646-a6cc-9e506f424227",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "560480d9-d829-42b4-91c9-75ac0c7f2a99",
+      "business_id": "c0a3ca51-a444-42f0-a5f6-f19d866b2861",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2d6ac582-19e7-4cd4-826a-c822fcff46a6",
+      "business_id": "9a0fb3a6-483d-42e2-9640-25bb0ec36945",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

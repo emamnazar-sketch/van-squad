@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "c3acfbef-0dc3-41d7-8f55-8c7f22c161dd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Russ'll Fix It",
+      "category": "Handyman",
+      "phone": "(865) 310-1574",
+      "website": "https://knoxvillehandymanservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37918"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "81fd39f1-c787-452c-be35-21f14fd12049",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Done Right Home Improvements, LLC",
+      "category": "Handyman",
+      "phone": "(865) 396-0335",
+      "website": "https://www.knoxvillehomefixers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37918"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4b1a8664-f29d-4bb7-b87e-55e81bdf125d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Faithful Hands Home Repairs",
+      "category": "Handyman",
+      "phone": "(865) 564-3093",
+      "website": "https://fhhomerepairs.netlify.app/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37918"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "006927d0-cf82-4a05-91e2-44c18339f6c5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Knoxville Pro Handyman",
+      "category": "Handyman",
+      "phone": "(865) 369-8147",
+      "website": "http://knoxvilleprohandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37918"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ee4441f5-6220-41bf-93fd-6e4e7438c8bb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Knoxville LLC",
+      "category": "Handyman",
+      "phone": "(865) 284-2323",
+      "website": "https://www.handymanknoxville.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37918"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "67fce17c-5554-47fa-8377-ac51e5865a0e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Top Knox Home Services",
+      "category": "Handyman",
+      "phone": "(865) 221-7237",
+      "website": "https://topknox.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37918"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "1baa6b82-9591-47fa-8ada-03ff132ec2fc",
+      "business_id": "c3acfbef-0dc3-41d7-8f55-8c7f22c161dd",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "666f9fd3-e850-4390-bfc0-7408d8dc8975",
+      "business_id": "81fd39f1-c787-452c-be35-21f14fd12049",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9282fb1a-669a-46a7-a014-f45e770e0327",
+      "business_id": "4b1a8664-f29d-4bb7-b87e-55e81bdf125d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "20089405-a624-4d8a-85c7-bb46bb8d68d0",
+      "business_id": "006927d0-cf82-4a05-91e2-44c18339f6c5",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f3348b5f-7eba-4360-9f2a-cba067c8c206",
+      "business_id": "ee4441f5-6220-41bf-93fd-6e4e7438c8bb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "106bf7dc-df5b-4bca-8d6c-0a6fc1fe0376",
+      "business_id": "67fce17c-5554-47fa-8377-ac51e5865a0e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

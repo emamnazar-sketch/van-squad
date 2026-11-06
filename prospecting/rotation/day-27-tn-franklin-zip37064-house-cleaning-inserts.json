@@ -1,0 +1,286 @@
+{
+  "businesses": [
+    {
+      "id": "b17f194d-03c7-4296-b22a-2b6e1053cf39",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Right of Williamson County",
+      "category": "House cleaning",
+      "phone": "(615) 437-7052",
+      "website": "https://www.maidright.com/williamson-county/our-cleaning-services/recurring-home-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2f096262-2aa2-4b70-8dee-0b6b70a48140",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Unique Cleaning Company of Middle Tennessee",
+      "category": "House cleaning",
+      "phone": "(629) 219-2424",
+      "website": "https://uniquecleancompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4cea9c4d-bd06-48c3-afd7-1aff46595d51",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brighthouse Green Home Cleaning",
+      "category": "House cleaning",
+      "phone": "(615) 208-9557",
+      "website": "https://brighthousecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4650ac2a-9719-4c7a-82a8-4f55a7402188",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maria's Mighty Maids",
+      "category": "House cleaning",
+      "phone": "(629) 305-9724",
+      "website": "https://www.mariasmightymaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5b45bf86-2898-4847-9586-f8c063f92a0b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simply Pure Home",
+      "category": "House cleaning",
+      "phone": "(615) 415-4688",
+      "website": "https://simplypurehome.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a9983f3-add0-4aa7-ba18-3314d1b0a6a8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gold Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(615) 282-8315",
+      "website": "https://www.goldcleaningtn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "194b6953-662d-490e-aa4f-a6d4bbb07da5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "De-Luxe Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(615) 400-6424",
+      "website": "https://maidnashville.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e3ca3e58-db32-44d3-a363-42ece0a5f61b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prestigious Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(615) 319-7599",
+      "website": "https://www.prestigiouscleaners.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1e246eac-60a4-425d-9eea-7aa1a9e7fe25",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of South Davidson, Williamson & Maury Counties",
+      "category": "House cleaning",
+      "phone": "(615) 794-0200",
+      "website": "https://www.mollymaid.com/locations/s-davidson-williamson-maury-counties/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "04b869b5-7b0b-468a-aace-a9546108517d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elevated Home",
+      "category": "House cleaning",
+      "phone": "(615) 638-0974",
+      "website": "https://elevatedhome.setmore.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37064"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "920a1e2d-d0b8-4b5e-abf3-2962ef6a745a",
+      "business_id": "b17f194d-03c7-4296-b22a-2b6e1053cf39",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3899d5ed-4113-46e6-abdb-c95cb1f8f88e",
+      "business_id": "2f096262-2aa2-4b70-8dee-0b6b70a48140",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "421019a6-4faa-4e13-88e5-6cd81c156827",
+      "business_id": "4cea9c4d-bd06-48c3-afd7-1aff46595d51",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "06f16dff-766e-4fe9-85be-20b238eeea13",
+      "business_id": "4650ac2a-9719-4c7a-82a8-4f55a7402188",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b95e1c13-420f-4d7b-a42d-7153354248c5",
+      "business_id": "5b45bf86-2898-4847-9586-f8c063f92a0b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bd367b7b-358f-4d2a-b052-47b59c626896",
+      "business_id": "9a9983f3-add0-4aa7-ba18-3314d1b0a6a8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "693b130a-1a16-48a7-8175-ae98cbc7fd99",
+      "business_id": "194b6953-662d-490e-aa4f-a6d4bbb07da5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4c90170c-1e9a-44f6-b343-e3ad17ff2033",
+      "business_id": "e3ca3e58-db32-44d3-a363-42ece0a5f61b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5ee23c46-9e1b-4af7-94ea-2d71cc60fa4f",
+      "business_id": "1e246eac-60a4-425d-9eea-7aa1a9e7fe25",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "deaaeac0-1634-48ac-ac2b-10cb7a06ae04",
+      "business_id": "04b869b5-7b0b-468a-aace-a9546108517d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

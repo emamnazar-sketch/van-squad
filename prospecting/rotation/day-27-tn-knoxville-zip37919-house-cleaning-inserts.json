@@ -1,0 +1,385 @@
+{
+  "businesses": [
+    {
+      "id": "5bbdee98-cafc-43c3-b125-ccff5475b31a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Knoxville",
+      "category": "House cleaning",
+      "phone": "(865) 531-1996",
+      "website": "https://www.twomaidscleaning.com/knoxville/about/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1924a346-ce3e-46cf-8371-14118c8c9311",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Knoxville",
+      "category": "House cleaning",
+      "phone": "(865) 896-9071",
+      "website": "https://merrymaids.com/home-cleaners-knoxville-tn",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b2d7a6be-0b90-474e-b446-07230b037ee0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Knoxville",
+      "category": "House cleaning",
+      "phone": "(865) 940-0586",
+      "website": "https://www.thecleaningauthority.com/knoxville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919",
+        "37771",
+        "37772",
+        "37777",
+        "37804",
+        "37830",
+        "37849",
+        "37909",
+        "37912",
+        "37918",
+        "37921",
+        "37922",
+        "37923",
+        "37931",
+        "37932",
+        "37934"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5f976d71-e7af-4a00-b217-791cdc70d6b6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GoodHands Home Cleaning",
+      "category": "House cleaning",
+      "phone": "(865) 320-3838",
+      "website": "https://www.goodhandshomecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e224c223-edb3-4b4e-ad13-2964414e7b4c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Impressions Cleaning",
+      "category": "House cleaning",
+      "phone": "(865) 336-0800",
+      "website": "https://firstimpressionsknoxville.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2d5c4413-69d0-4c6b-bfb5-65db9ba469c7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Raia's Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(865) 585-1601",
+      "website": "https://raiascleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c7d2e05-3b9c-4801-9c21-5573c3894688",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Neat Home Cleaning Company - Knoxville",
+      "category": "House cleaning",
+      "phone": "(865) 238-5654",
+      "website": "https://www.neathomecleaningco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ee87f1c2-e8c4-48fb-a884-4bef09827b66",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A & C Cleaning",
+      "category": "House cleaning",
+      "phone": "(865) 454-0309",
+      "website": "https://www.kalssonclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "efa27a46-18e2-4704-bc82-9cbad1fab3cf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brite Spot Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(865) 214-7526",
+      "website": "https://www.britespotcleaning.com/services",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7980053c-7b6e-4b0a-bee9-1bb0d257ef39",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid To Conquer LLC",
+      "category": "House cleaning",
+      "phone": "(865) 973-5099",
+      "website": "https://maidtoconquer.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7ff4a920-d8e3-4d64-a388-92311cb2aa1a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TaylorMaid Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(865) 272-9117",
+      "website": "http://Knoxvilletaylormaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "75fc5f8b-ec82-4735-b40d-c19cbce79d20",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning Services Knoxville LLC",
+      "category": "House cleaning",
+      "phone": "(865) 422-5665",
+      "website": "http://cleaningservicesknoxvillellc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "45a4d7e2-a33f-4a7c-803c-882055dd930b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Magic Hands Cleaning",
+      "category": "House cleaning",
+      "phone": "(865) 404-4241",
+      "website": "https://magichands-cleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37919"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f90a2117-a598-47cd-96e3-e22ef174c2b2",
+      "business_id": "5bbdee98-cafc-43c3-b125-ccff5475b31a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d0c457c9-eccc-443b-b907-87d055071b44",
+      "business_id": "1924a346-ce3e-46cf-8371-14118c8c9311",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c139135c-1cc7-47c7-b2f0-4860fa7542f1",
+      "business_id": "b2d7a6be-0b90-474e-b446-07230b037ee0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cd3d7c0c-24cd-4229-a63b-6115ecf64b02",
+      "business_id": "5f976d71-e7af-4a00-b217-791cdc70d6b6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "374604f6-7914-40d7-a4d1-9be58668a81b",
+      "business_id": "e224c223-edb3-4b4e-ad13-2964414e7b4c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9fa84385-d3a5-414a-9cba-85116f7b5edf",
+      "business_id": "2d5c4413-69d0-4c6b-bfb5-65db9ba469c7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4aaba6fd-223c-4f8d-b382-0b826f2a4f4d",
+      "business_id": "9c7d2e05-3b9c-4801-9c21-5573c3894688",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "198587bc-8b81-47ef-8333-5ecb9b343d4d",
+      "business_id": "ee87f1c2-e8c4-48fb-a884-4bef09827b66",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e29ccf0d-fdae-4458-b40c-baabe54c9111",
+      "business_id": "efa27a46-18e2-4704-bc82-9cbad1fab3cf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b44fb406-a477-4172-abe6-997f61133202",
+      "business_id": "7980053c-7b6e-4b0a-bee9-1bb0d257ef39",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c5ec4ec-88fc-49e9-9400-e4cdbefd660e",
+      "business_id": "7ff4a920-d8e3-4d64-a388-92311cb2aa1a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "389b6564-dbc3-46f5-9ebf-b59843efff0a",
+      "business_id": "75fc5f8b-ec82-4735-b40d-c19cbce79d20",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "29b01d4c-fc43-4e49-8e56-8b4dc1a281bb",
+      "business_id": "45a4d7e2-a33f-4a7c-803c-882055dd930b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

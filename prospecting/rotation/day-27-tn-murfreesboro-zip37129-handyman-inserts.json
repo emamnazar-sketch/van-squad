@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "b80425d1-a947-4e96-90f8-59541733079b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Murfreesboro, Franklin and Brentwood",
+      "category": "Handyman",
+      "phone": "(615) 241-2564",
+      "website": "https://www.mrhandyman.com/murfreesboro-smyrna/?cid=LSTL_MHM000197",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ef9ccbe4-549d-483f-8656-eecadff2c249",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Murfreesboro",
+      "category": "Handyman",
+      "phone": "(615) 900-5315",
+      "website": "https://www.acehandymanservices.com/offices/murfreesboro",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b21ad341-aebd-4a8b-bd29-bd52f0361df7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Happy Home Services",
+      "category": "Handyman",
+      "phone": "(615) 589-8787",
+      "website": "https://happyhomeservicestn.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5335fb1e-0a11-49f1-90a7-b48c38a7f055",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Services Plus 615",
+      "category": "Handyman",
+      "phone": "(615) 987-2237",
+      "website": "https://www.servicesplus615.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cdd1e9e7-553f-430a-aed7-b0d6815a75d8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "HM Handyman Services",
+      "category": "Handyman",
+      "phone": "(615) 389-4365",
+      "website": "https://hmhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37129"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7e012d0a-bed1-408e-84b2-aa3a4c45b5ed",
+      "business_id": "b80425d1-a947-4e96-90f8-59541733079b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bf9454a9-6b69-4d2c-8675-e03af0e2468f",
+      "business_id": "ef9ccbe4-549d-483f-8656-eecadff2c249",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8c40e83f-4ca3-4dce-9203-632b49e6ff69",
+      "business_id": "b21ad341-aebd-4a8b-bd29-bd52f0361df7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "21ca9e89-3147-4c81-a0de-30fa12f6afb2",
+      "business_id": "5335fb1e-0a11-49f1-90a7-b48c38a7f055",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e807cc34-0b83-400a-9ff9-60e36f1282a9",
+      "business_id": "cdd1e9e7-553f-430a-aed7-b0d6815a75d8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "b367e62f-d60e-451d-8413-4a217228ddc2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Guthrie's Ace Handyman Services",
+      "category": "Handyman",
+      "phone": "(615) 237-8631",
+      "website": "https://www.acehandymanservices.com/offices/west-nashville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0b4ff44d-6638-4393-8d95-af42610c68c1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of W. Nashville, Belle Meade, Clarksville",
+      "category": "Handyman",
+      "phone": "(615) 558-5092",
+      "website": "https://www.mrhandyman.com/nashville-west-south-central/?cid=LSTL_MHM000197",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "62f09085-d4b1-4529-85d3-edfe069196cb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ER Handyman Services",
+      "category": "Handyman",
+      "phone": "(615) 709-6010",
+      "website": "http://www.erhandymanservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f43077e3-1012-4475-8087-cc26d1cd263f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Home Solutions",
+      "category": "Handyman",
+      "phone": "(629) 325-3433",
+      "website": "http://handymannashville.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c0f1f022-ffdb-439d-975d-231803c364e1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Pros",
+      "category": "Handyman",
+      "phone": "(615) 263-9898",
+      "website": "https://yourpros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e7b58647-f90f-4469-9741-d2d26cde6f3e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Truly Handy",
+      "category": "Handyman",
+      "phone": "(931) 219-7164",
+      "website": "https://trulyhandy.us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6ff81463-3ecc-4a6b-9c47-a25057fcbf8f",
+      "business_id": "b367e62f-d60e-451d-8413-4a217228ddc2",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "76d8823f-ad13-4227-8481-1fb2282d0aba",
+      "business_id": "0b4ff44d-6638-4393-8d95-af42610c68c1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "17368370-2624-4e7a-9b82-8252596471d1",
+      "business_id": "62f09085-d4b1-4529-85d3-edfe069196cb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e463de6-a911-46d8-8f22-0887acafb36e",
+      "business_id": "f43077e3-1012-4475-8087-cc26d1cd263f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "51a8e48f-d8b3-435d-8539-52c702689b60",
+      "business_id": "c0f1f022-ffdb-439d-975d-231803c364e1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ef796632-cb09-4477-8c82-5ebfcc1213c1",
+      "business_id": "e7b58647-f90f-4469-9741-d2d26cde6f3e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

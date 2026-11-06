@@ -1,0 +1,271 @@
+{
+  "businesses": [
+    {
+      "id": "63353194-b47e-4f4c-bf28-2cf5c1d118dd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "M.I.L. Cleaners of East Memphis and Germantown",
+      "category": "House cleaning",
+      "phone": "(901) 899-7032",
+      "website": "https://business.google.com/v/_/AKsrIN1JZoM0EqIl1THkUw4HP5s7R6sJHGvWxwI941dggldX7j4KW3Me4-JM/4d3f/_",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "60b2ca67-e50f-4f74-8ba9-ad6a1949d8a0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Memphis",
+      "category": "House cleaning",
+      "phone": "(901) 334-1065",
+      "website": "https://www.thecleaningauthority.com/memphis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117",
+        "38002",
+        "38016",
+        "38017",
+        "38018",
+        "38028",
+        "38060",
+        "38119",
+        "38120",
+        "38133",
+        "38134",
+        "38135",
+        "38138",
+        "38139"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "985415c9-6eb7-4c56-b727-ff55c871cab4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Memphis",
+      "category": "House cleaning",
+      "phone": "(901) 499-4105",
+      "website": "https://merrymaids.com/home-cleaners-memphis-tn",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3fdac10d-1162-442b-92ef-08fb20cce1d3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Memphis",
+      "category": "House cleaning",
+      "phone": "(901) 425-1078",
+      "website": "https://www.mollymaid.com/locations/east-memphis/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28df02da-e8a7-4f05-b9a1-3094b0f8dbc5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Lady 901, LLC",
+      "category": "House cleaning",
+      "phone": "(901) 550-4634",
+      "website": "https://www.thecleaninglady901.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5afe1370-55e8-4d06-af49-b95f6b214bee",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Sweep of America",
+      "category": "House cleaning",
+      "phone": "(901) 861-3967",
+      "website": "https://www.cleansweepofamerica.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79a5882b-7740-46c7-b444-60a847d08035",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Memphis Maids",
+      "category": "House cleaning",
+      "phone": "(901) 831-2077",
+      "website": "https://memphis-maids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "36937b5a-cf59-45fa-8328-b39ddc172823",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Not Just Dust Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(901) 656-2443",
+      "website": "https://notjustdustcleaning.com/house-cleaning/memphis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95a39da4-1bbb-4168-aa08-8f112cbe6726",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TRUSTED Clean",
+      "category": "House cleaning",
+      "phone": "(901) 337-4290",
+      "website": "https://trustedclean.pagesmack.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f0a86fa0-30df-46ee-888e-b66f46431ffd",
+      "business_id": "63353194-b47e-4f4c-bf28-2cf5c1d118dd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "69ee1760-41d8-48cd-aec2-131d34539624",
+      "business_id": "60b2ca67-e50f-4f74-8ba9-ad6a1949d8a0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "07ceed50-6aab-40eb-99f4-cdac3e762637",
+      "business_id": "985415c9-6eb7-4c56-b727-ff55c871cab4",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "22be5ebe-9eaa-422d-89f9-79ae18d90b36",
+      "business_id": "3fdac10d-1162-442b-92ef-08fb20cce1d3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee2cd924-5258-4dcd-b530-64aa6d8797e1",
+      "business_id": "28df02da-e8a7-4f05-b9a1-3094b0f8dbc5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ccb0eaab-8371-46ac-bc80-64b188624dbb",
+      "business_id": "5afe1370-55e8-4d06-af49-b95f6b214bee",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8d78bf35-6412-4467-b9fb-1878220ee798",
+      "business_id": "79a5882b-7740-46c7-b444-60a847d08035",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "934b6aa5-2ff5-4dfb-9fc1-6f73bcc2db27",
+      "business_id": "36937b5a-cf59-45fa-8328-b39ddc172823",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8f7e0c75-3d65-4084-90ea-8b77fb10c8a6",
+      "business_id": "95a39da4-1bbb-4168-aa08-8f112cbe6726",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

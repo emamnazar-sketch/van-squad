@@ -1,0 +1,164 @@
+{
+ "businesses": [
+  {
+   "id": "822ae9fd-782f-4f1d-840d-bccebcb06a33",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dimples Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(629) 317-0515",
+   "website": "https://dimplescleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37212",
+    "37027",
+    "37064",
+    "37067",
+    "37069",
+    "37135",
+    "37174",
+    "37179",
+    "37014",
+    "37046",
+    "37062",
+    "37215",
+    "37205",
+    "37211",
+    "37013",
+    "37221",
+    "37220",
+    "37204",
+    "37217"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "00884620-0682-406a-812f-4bdc3a5665d4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maidattendants",
+   "category": "Deep cleaning",
+   "phone": "(615) 857-4150",
+   "website": "https://maidattendants.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37212"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ad7ee76a-547b-471c-93fb-8e0dafd0e0ef",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Stella's Cleaning Crew",
+   "category": "Deep cleaning",
+   "phone": "(615) 788-0692",
+   "website": "https://stellascleaningcrew.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37212"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "92f643b4-9429-4c81-9381-cc39061c0ca0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Valley Clean Team",
+   "category": "Deep cleaning",
+   "phone": "(615) 510-1427",
+   "website": "https://thevalleycleanteam.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37212"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "76f748ed-00b7-4451-8063-73412f43a10f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sunbright Cleaning and Services",
+   "category": "Deep cleaning",
+   "phone": "(615) 506-4810",
+   "website": "http://www.sunbrightcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37212"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "dc8a8609-b0a1-4ee8-a81f-b094b1cf00f4",
+   "business_id": "822ae9fd-782f-4f1d-840d-bccebcb06a33",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dba61f38-fa58-404d-bec7-7f8d1a23a0ff",
+   "business_id": "00884620-0682-406a-812f-4bdc3a5665d4",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c2371a7b-8183-4997-b044-e8cd5d7c0ca1",
+   "business_id": "ad7ee76a-547b-471c-93fb-8e0dafd0e0ef",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d38967b9-3d42-4884-a908-7d1160386d50",
+   "business_id": "92f643b4-9429-4c81-9381-cc39061c0ca0",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "88eb02fe-f428-452d-9c22-c9dc3a6cddec",
+   "business_id": "76f748ed-00b7-4451-8063-73412f43a10f",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

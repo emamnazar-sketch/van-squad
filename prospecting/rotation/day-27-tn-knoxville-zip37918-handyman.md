@@ -1,0 +1,42 @@
+# Day 27 — Tennessee × Knoxville × ZIP 37918 × Handyman
+
+- **Cell:** TN | Knoxville | 37918 | Handyman (exact label, verified in ~/workspace/van-squad/js/data.js — "Handyman" in Home services & trades)
+- **Date:** 2026-11-06 (Day 27 run)
+- **Expansion:** None needed — 6 qualifying businesses found serving Knoxville. One, Russ'll Fix It, is addressed in the target ZIP itself (3810 Longwood Drive Northeast, Knoxville, TN 37918, printed on its own site). No adjacent-ZIP expansion was required to reach 3+.
+- **Dedupe:** Every candidate name AND phone checked against (a) the Day-27 DB dump `~/workspace/goals/van-squad-directory-website/hidden_files/day27-open-dump.json` (2,308 active businesses — it contains ZERO Tennessee / 37xxx-ZIP businesses) and (b) `grep -r` across all of `~/workspace/van-squad/prospecting/`. Zero name or phone matches for the 6 businesses below.
+- **service_zips:** No business below publishes a ZIP-code list, so every business gets ["37918"] only. City/neighbourhood service areas (Knoxville and surrounding areas, East Tennessee, Fountain City, Halls, Powell, etc.) and base addresses in other ZIPs were NOT converted into ZIPs. Russ'll Fix It's own stated address is in 37918 itself.
+- **Mobile/on-site:** Each business's own website confirms handyman work performed at the customer's home in Knoxville.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source URL (phone) |
+|---|---|---|---|---|---|---|---|
+| Russ'll Fix It | (865) 310-1574 | Handyman | Knoxville | https://knoxvillehandymanservice.com/ | — none published on its own site that could be verified | High — own site: "COMPREHENSIVE HANDYMAN SERVICE IN KNOXVILLE, TN", handyman work around customers' houses (drywall, decks, doors, flooring, plumbing repair), contact block prints "3810 Longwood Drive Northeast, Knoxville, TN 37918 — 865-310-1574" — in the target ZIP itself; same phone on its Google listing | https://knoxvillehandymanservice.com/ |
+| Done Right Home Improvements, LLC | (865) 396-0335 | Handyman | Knoxville | https://www.knoxvillehomefixers.com/ | — email on its own site is shown only in protected/obscured form, so no address could be verified and none is recorded | High — own site: "trusted partner for high-quality handyman, home repair, and renovation services in Knoxville, TN", a dedicated "General Handyman Services" section for small in-home jobs (fixing a loose doorknob, assembling furniture, mounting a TV — not remodel-only), prints "Phone: (865)396-0335"; same phone and name (as "Done Right Home Improvements,LLC") on its Google listing | https://www.knoxvillehomefixers.com/ |
+| Faithful Hands Home Repairs | (865) 564-3093 | Handyman | Knoxville | https://fhhomerepairs.netlify.app/ | fhhomerepairs@gmail.com — published in the "Email Us" block of its own site, https://fhhomerepairs.netlify.app/ | High — own site (branded "Faithful Hands Home Repair" / "FH Home Repairs"): "Serving Knoxville, Tennessee and surrounding areas with dependable home repair, maintenance and improvement services", Handyman Services and General Home Repairs performed at customers' homes, prints "Call 865-564-3093" and "Email Us: fhhomerepairs@gmail.com"; Google listing uses the plural name "Faithful Hands Home Repairs" with the same phone | https://fhhomerepairs.netlify.app/ |
+| Knoxville Pro Handyman | (865) 369-8147 | Handyman | Knoxville | http://knoxvilleprohandyman.com/ | knoxvilleprohandyman@gmail.com — published in the Contact Us block of its own site, http://knoxvilleprohandyman.com/ | High — own site: "Knoxville's Trusted Handyman", "Local Handyman — Proudly serving East Tennessee, including Knoxville", professional handyman repairs/installations/assembly at homes, Contact Us block prints "(865) 369-8147 — knoxvilleprohandyman@gmail.com"; same phone on its Google listing (as "KnoxvilleProHandyman") | http://knoxvilleprohandyman.com/ |
+| Handyman Knoxville LLC | (865) 284-2323 | Handyman | Knoxville | https://www.handymanknoxville.com/ | — its own site's "Email Us" link address could not be verified in fetched text, so none is recorded | High — own site: "Handyman Services in Knoxville, TN", "Handyman Knoxville provides professional handyman services throughout Knoxville and the surrounding areas" (drywall, carpentry, TV mounting, flooring, plumbing repairs, painting at clients' homes, with project photos in West Knoxville homes), footer prints "(865) 284-2323 — Handyman Knoxville LLC, P.O. Box 22682, Knoxville, TN 37933" and "© 2026 Handyman Knoxville LLC"; same phone on its Google listing | https://www.handymanknoxville.com/ |
+| Top Knox Home Services | (865) 221-7237 | Handyman | Knoxville | https://topknox.pro/ | office@topknox.pro — published in the footer of its own site, https://topknox.pro/ | High — own site: "Handyman & Home Repair Services | Knoxville, TN", "When something in your house needs fixing… we are the crew that shows up", free on-site estimates at the customer's house, handyman small-job list (grab bars, shelves, TV mounting, repairs), footer prints "Business: Top Knox Home Services — Locally owned and operated in Knoxville, Tennessee — Call or text 865-221-7237 — office@topknox.pro" | https://topknox.pro/ |
+
+## Email leads
+
+3 published addresses collected, all from the businesses' own websites (see table): fhhomerepairs@gmail.com (Faithful Hands Home Repairs), knoxvilleprohandyman@gmail.com (Knoxville Pro Handyman), office@topknox.pro (Top Knox Home Services). Recorded in `day-27-tn-knoxville-zip37918-handyman-leads.json`.
+
+## Excluded
+
+- **Handyman for a Day, Google listing phone (865) 566-2848, 5620 Tazewell Pike, Knoxville** — EXCLUDED on a name/phone/area mismatch: its own domain (handymanforaday.org) now presents a Syracuse, NY nonprofit ("Service Area: Syracuse, NY & Surrounding Areas", "Call Anytime (315) WE-HELP-U"), which does not verify a Knoxville handyman operator or the listing phone.
+- **Scout's Home Consultants, Google listing phone (865) 441-0101, 2531 Keystone Ave, Knoxville** — EXCLUDED on a mismatch: its own domain (scoutshomeconsultants.com) now presents "Scout's Deck Co.", a Denver & Foothills, Colorado deck builder (owner Ryan Waddell, Littleton, CO, phone (720) 392-4334) — not a Knoxville handyman, and a deck-builder rather than a general handyman.
+- **Pinpoint Pro Services, (865) 217-6824 (Google listing only), 5936 Clearbrook Dr, Knoxville** — its own site (pinpointpro.com) as fetched shows only a "Precision in Every Job" heading and a contact form — no phone and no handyman services — so on-site handyman service and the phone could not be confirmed from its own materials.
+- **Knoxville Handyman, (865) 898-0913 (Google listing only), 3515 Lyle Ave, Knoxville** — its own site (knoxville-handyman.com) as fetched shows only "Your trusted local handyman" and a contact form — no phone and no service detail — so the phone and on-site handyman work could not be confirmed from its own materials.
+- **Labor Solution Painting Handyman Services, (865) 973-7062** — Instagram page only, no own website whose materials could confirm handyman service at Knoxville homes; painting-led listing.
+- **Property Professionals Inc., (865) 978-0592** — listing phone only, no own website found whose materials could confirm handyman work at customers' homes.
+- **HandyMonkey, 1117 Cornelia St, Knoxville** — no verifiable public phone found (Instagram only) and its listing description is "House Remodeling" — no-phone + remodel-led, excluded.
+- **The Premier Handyman, (865) 206-5375** — its listed website is a Facebook page only; no own website whose materials could confirm handyman service for this cell in this run.
+- **Hicks Services, (865) 275-6438** — primary category is plumbing (own site hicksplumbingtn.com is a plumbing business); handyman is only a secondary listing category, so it does not belong in the Handyman cell.
+- **Thumbtack / HomeAdvisor / Angi / Yelp marketplace listings (e.g. ProHandy on Thumbtack)** — national lead-gen / marketplace listings, never used as a source for a business.
+
+## Files
+
+- `day-27-tn-knoxville-zip37918-handyman.md` (this file)
+- `day-27-tn-knoxville-zip37918-handyman-inserts.json` — 6 businesses + 6 listings, validated with `python3 -m json.tool`
+- `day-27-tn-knoxville-zip37918-handyman-leads.json` — 3 leads, validated with `python3 -m json.tool`
+
+No database inserts were made; no files outside this cell's batch files were edited.

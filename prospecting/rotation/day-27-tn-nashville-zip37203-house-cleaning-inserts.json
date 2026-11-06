@@ -1,0 +1,294 @@
+{
+  "businesses": [
+    {
+      "id": "6f973c7f-cb44-4a51-a7c8-3897ba5403c5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Cleaning Nashville",
+      "category": "House cleaning",
+      "phone": "(615) 290-5566",
+      "website": "https://www.maidcleaningnashville.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203",
+        "37206",
+        "37216",
+        "37207",
+        "37213",
+        "37208",
+        "37219",
+        "37201",
+        "37210",
+        "37228",
+        "37212",
+        "37204",
+        "37211",
+        "37220",
+        "37215",
+        "37209",
+        "37205",
+        "37218",
+        "37217",
+        "37214"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "86350a08-4e40-490e-b4c0-ab6cfd008fad",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Sisters Maid to Clean",
+      "category": "House cleaning",
+      "phone": "(870) 277-4562",
+      "website": "https://twosistersmaidtoclean.com/house-cleaning-services-nashville-tn/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203",
+        "37204",
+        "37205",
+        "37206",
+        "37207",
+        "37208",
+        "37209",
+        "37210",
+        "37211",
+        "37212",
+        "37214",
+        "37215",
+        "37216",
+        "37217",
+        "37218",
+        "37219",
+        "37220",
+        "37221"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28269569-1b82-40b8-ac88-e9591035a3a2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Music City Maid Service",
+      "category": "House cleaning",
+      "phone": "(615) 965-4011",
+      "website": "https://musiccitymaidservice.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "db14ee06-a237-40d9-8bba-b9104c443187",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid in Nashville",
+      "category": "House cleaning",
+      "phone": "(615) 604-7524",
+      "website": "https://www.maidinnash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bce583c6-003a-468b-99b2-cc525e76064b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid4You",
+      "category": "House cleaning",
+      "phone": "(615) 674-6595",
+      "website": "https://themaid4you.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "103f0450-52fd-456b-b0b0-1f63ab8a1e21",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Grandeur Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(615) 572-7614",
+      "website": "https://www.grandeurcleaningservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b105b781-209e-4e5a-b2bd-4c30c908c525",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkly Nashville",
+      "category": "House cleaning",
+      "phone": "(615) 208-4271",
+      "website": "https://sparklycleaningnashville.com/?p=106",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1bc75579-0e0f-4682-9a1c-e25ee04907c7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Nashville",
+      "category": "House cleaning",
+      "phone": "(615) 654-6783",
+      "website": "https://www.thecleaningauthority.com/nashville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79458b41-2f32-41a0-a4c2-7b1375ed55fc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Nashville",
+      "category": "House cleaning",
+      "phone": "(615) 819-4432",
+      "website": "https://www.maidpro.com/nashville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37203"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7aa6ab06-dbd5-4b76-b8e4-bfb4b381bd7d",
+      "business_id": "6f973c7f-cb44-4a51-a7c8-3897ba5403c5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "99cfbb64-2123-48e7-bcd0-4c4e5bcd03f5",
+      "business_id": "86350a08-4e40-490e-b4c0-ab6cfd008fad",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "83110d8a-7050-4596-9e0d-1b607222f37d",
+      "business_id": "28269569-1b82-40b8-ac88-e9591035a3a2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bb159b29-d632-4402-acf8-301d275fef25",
+      "business_id": "db14ee06-a237-40d9-8bba-b9104c443187",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "99b23937-dbcf-4ec6-8fa9-9ab53d182fae",
+      "business_id": "bce583c6-003a-468b-99b2-cc525e76064b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f58c87fb-748a-41ac-8754-4eeac9d760ec",
+      "business_id": "103f0450-52fd-456b-b0b0-1f63ab8a1e21",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4ae469cd-3f6f-442d-9419-09ecf482bf4f",
+      "business_id": "b105b781-209e-4e5a-b2bd-4c30c908c525",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6561632c-5b4f-4cd7-97ea-3ca6e6dcb4ed",
+      "business_id": "1bc75579-0e0f-4682-9a1c-e25ee04907c7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "69b47b4b-443b-42cb-947b-71b074095162",
+      "business_id": "79458b41-2f32-41a0-a4c2-7b1375ed55fc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

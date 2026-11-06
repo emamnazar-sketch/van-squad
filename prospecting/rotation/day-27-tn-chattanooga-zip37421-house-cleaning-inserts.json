@@ -1,0 +1,255 @@
+{
+  "businesses": [
+    {
+      "id": "40d47fc8-f8ae-4a3f-bab2-29419082f5fe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nooga Home Cleaning",
+      "category": "House cleaning",
+      "phone": "(423) 218-6900",
+      "website": "https://www.noogahomecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f0c87930-57cc-4ff8-8685-9e34a58e9f0b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Chattanooga",
+      "category": "House cleaning",
+      "phone": "(423) 894-0346",
+      "website": "http://twomaidscleaning.com/chattanooga",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9af99a36-3e83-41c6-9c5b-0314fac1b5c8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Chattanooga",
+      "category": "House cleaning",
+      "phone": "(423) 244-0414",
+      "website": "https://www.maidpro.com/chattanooga/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dd7a0750-356a-4912-ac15-63cade3e26da",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Chattanooga",
+      "category": "House cleaning",
+      "phone": "(423) 205-2854",
+      "website": "https://merrymaids.com/home-cleaners-chattanooga-tn",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bf0b053b-6e50-479f-be0e-14008693c874",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Chattanooga",
+      "category": "House cleaning",
+      "phone": "(423) 482-0736",
+      "website": "https://www.thecleaningauthority.com/chattanooga",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30736",
+        "30741",
+        "30742",
+        "37302",
+        "37312",
+        "37323",
+        "37341",
+        "37343",
+        "37350",
+        "37353",
+        "37363",
+        "37377",
+        "37379",
+        "37403",
+        "37404",
+        "37405",
+        "37406",
+        "37408",
+        "37409",
+        "37410",
+        "37411",
+        "37412",
+        "37415",
+        "37416",
+        "37419",
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5e81d57c-39cf-4c47-8457-8464f5c84fd4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Chatt Fresh",
+      "category": "House cleaning",
+      "phone": "(423) 785-6360",
+      "website": "https://cleanchattfresh.wixsite.com/website",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "475288c8-2ba7-46c7-b96e-ecc4ded45f86",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Scenic City Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(423) 800-5967",
+      "website": "http://sceniccitycleaningco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "eb41f002-99e2-4473-ab83-35e0488b1b00",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Scenic City Sparkle",
+      "category": "House cleaning",
+      "phone": "(423) 653-0515",
+      "website": "https://www.sceniccitysparkle.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "37421"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "125d2c8d-7deb-40ab-b633-33278aa5dcd7",
+      "business_id": "40d47fc8-f8ae-4a3f-bab2-29419082f5fe",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a428a4b3-d6f0-4816-aee2-e6ddc437fb05",
+      "business_id": "f0c87930-57cc-4ff8-8685-9e34a58e9f0b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e05ab9c8-6c4d-4ed4-8475-3d4c66ca24f3",
+      "business_id": "9af99a36-3e83-41c6-9c5b-0314fac1b5c8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5d1decf7-2697-4449-902b-793100e5bef7",
+      "business_id": "dd7a0750-356a-4912-ac15-63cade3e26da",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9afe0548-af0b-479b-8855-580aa9780fe8",
+      "business_id": "bf0b053b-6e50-479f-be0e-14008693c874",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c6fc04ea-4125-452a-84c9-8adad157860e",
+      "business_id": "5e81d57c-39cf-4c47-8457-8464f5c84fd4",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e20ad803-0fa1-4e9e-accc-97c680eb20b8",
+      "business_id": "475288c8-2ba7-46c7-b96e-ecc4ded45f86",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a7de336b-2c3a-415b-b325-76044f3774b5",
+      "business_id": "eb41f002-99e2-4473-ab83-35e0488b1b00",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

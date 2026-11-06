@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "ed04563f-854a-4f33-b33b-60c07c10cdc2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Top Tier Repair Services, Inc.",
+      "category": "Handyman",
+      "phone": "(901) 350-1804",
+      "website": "https://memphishandymanservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e1f3b1d0-66cf-49fb-b001-d233090e76d0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Volunteer Home Services",
+      "category": "Handyman",
+      "phone": "(731) 694-6101",
+      "website": "https://volunteerhomeservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ae0b2406-0a27-486e-b4f6-46b151b008b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mike's Home Maintenance",
+      "category": "Handyman",
+      "phone": "(901) 690-6577",
+      "website": "http://mikeshomemaintenance.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f6a6a288-b90a-499b-adb3-f48f54976e96",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "East Memphis Handyman",
+      "category": "Handyman",
+      "phone": "(662) 205-6235",
+      "website": "https://eastmemphishandyman.com/handyman-services-memphis/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "38119"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "259329a7-8ee2-4b91-b7c3-d9489b976d9d",
+      "business_id": "ed04563f-854a-4f33-b33b-60c07c10cdc2",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2ec631de-2eca-4af4-8400-cf788e2ee5ff",
+      "business_id": "e1f3b1d0-66cf-49fb-b001-d233090e76d0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5c54d213-282c-4b64-ada7-c9c169adf08e",
+      "business_id": "ae0b2406-0a27-486e-b4f6-46b151b008b3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e9d952e6-1c5f-43e1-aa6c-d6aca33c4432",
+      "business_id": "f6a6a288-b90a-499b-adb3-f48f54976e96",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

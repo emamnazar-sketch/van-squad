@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "e1f882bc-5f81-446e-979c-9c686597561f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Big Dog Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(423) 203-0833",
+   "website": "https://www.bigdogdetailtn.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37415"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "223f3051-7c12-4ea6-8e65-681a4c9d9338",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dixie Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(423) 380-9120",
+   "website": "https://www.dixiedetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37415"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7fe6169a-a95f-41f8-abf7-e281849a4cf9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Driven Detail Chattanooga",
+   "category": "Mobile auto detailing",
+   "phone": "(423) 250-6171",
+   "website": "https://www.drivendetailchattanooga.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37415"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "efe43d9f-3f9d-4976-8d4f-87d9ce21daa6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Chattanooga Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(423) 777-6319",
+   "website": "https://www.chattanoogamobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37415"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b6522bb2-bf2e-45ee-8eca-4a6068c88260",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pace Car Services",
+   "category": "Mobile auto detailing",
+   "phone": "(423) 605-3486",
+   "website": "https://c8d89cb5.godaddysites.com/contact",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "37415"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "766c0ce1-cf31-428f-96f3-a56f5aa167b4",
+   "business_id": "e1f882bc-5f81-446e-979c-9c686597561f",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "57c7b839-077f-483c-907a-ad2c3a047fdb",
+   "business_id": "223f3051-7c12-4ea6-8e65-681a4c9d9338",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f24870d5-a3b8-44f4-8c77-8ab274dbcc43",
+   "business_id": "7fe6169a-a95f-41f8-abf7-e281849a4cf9",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "43777009-7307-4b60-b677-aeacc3e8f9d6",
+   "business_id": "efe43d9f-3f9d-4976-8d4f-87d9ce21daa6",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4f3449f6-4e4f-455e-9182-ee59bcc6f392",
+   "business_id": "b6522bb2-bf2e-45ee-8eca-4a6068c88260",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
