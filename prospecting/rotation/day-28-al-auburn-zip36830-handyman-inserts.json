@@ -1,0 +1,34 @@
+{
+  "businesses": [
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "87133e3d-5214-4422-a127-5297a70bc433",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Auburn Home Maintenance LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(334) 539-7000",
+      "phone_verified": false,
+      "service_zips": [
+        "36830"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://auburnhomemaintenance.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "87133e3d-5214-4422-a127-5297a70bc433",
+      "id": "cc5868db-96ce-48f6-88cf-423d774a70eb",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

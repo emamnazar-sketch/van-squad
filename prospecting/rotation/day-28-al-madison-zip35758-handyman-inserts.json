@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "4b9c5f8c-673a-4258-a7fc-d504c4d39750",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rittenworx",
+      "category": "Handyman",
+      "phone": "(256) 221-0373",
+      "website": "https://www.rittenworxhandyman.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35758"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cae94c92-27e5-4dc7-a90a-55753a24890c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SANDOVAL PRO SERVICE",
+      "category": "Handyman",
+      "phone": "(256) 542-8200",
+      "website": "https://sandovalproservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35758"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a8a7ec2a-0e81-4530-a480-daf9046c893c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chamblee Home Services",
+      "category": "Handyman",
+      "phone": "(256) 424-5813",
+      "website": "http://www.chambleehandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35758"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d75d4efb-e2db-480a-955c-9c582c8b1b2f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JG Handyman Services LLC",
+      "category": "Handyman",
+      "phone": "(256) 468-3701",
+      "website": "http://www.thehuntsvillemadisonhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35758"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3d49322c-77fc-4ac8-86b2-1a79e57dc866",
+      "business_id": "4b9c5f8c-673a-4258-a7fc-d504c4d39750",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3f36a9d6-11fa-413c-960c-bb1cd6634ef4",
+      "business_id": "cae94c92-27e5-4dc7-a90a-55753a24890c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0a027aa4-a5c0-4a07-ba3f-e140e5cc879c",
+      "business_id": "a8a7ec2a-0e81-4530-a480-daf9046c893c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "38dcaed4-e393-4840-90a5-32cd2cec7f74",
+      "business_id": "d75d4efb-e2db-480a-955c-9c582c8b1b2f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

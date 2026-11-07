@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "5404f3e7-7b63-45d0-9809-4c6053adaa97",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ECA Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(205) 703-1680",
+      "website": "http://www.ecacleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35173"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "361f8346-d159-49ea-8d60-89e17bc00b13",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Reina's Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(205) 266-8144",
+      "website": "https://reinascleaningcompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35173"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e98abdac-0f4a-4e65-a125-7471216e3b92",
+      "business_id": "5404f3e7-7b63-45d0-9809-4c6053adaa97",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "56edd4e0-103a-4b89-92d3-e1dc99b19f68",
+      "business_id": "361f8346-d159-49ea-8d60-89e17bc00b13",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

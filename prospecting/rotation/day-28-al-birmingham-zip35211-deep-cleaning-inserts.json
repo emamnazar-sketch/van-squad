@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "b916ed54-8969-4f4b-853d-1bc160076381",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "JML Cleaning Company",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(205) 955-0951",
+      "phone_verified": false,
+      "service_zips": [
+        "35211"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://sparkle-shine-solution.lovable.app/?utm_id=97757_v0_s00_e0_tv2_a1demo0dmv27dq"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "96f8b9b1-a500-4841-ab7d-1df9305bbd57",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Mel's Sparkle Cleaning Services",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(205) 475-4207",
+      "phone_verified": false,
+      "service_zips": [
+        "35211"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.mels-sparkle-cleaning-services.org/"
+    },
+    {
+      "category": "Deep cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "e335dbfd-bd64-42b8-b9ba-313156c0325e",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Lemon & Love Cleaning Club",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(659) 348-0081",
+      "phone_verified": false,
+      "service_zips": [
+        "35211"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://lemonlovecleaningclub.com/"
+    },
+    {
+      "id": "77667d7d-7cb1-4360-9d9d-36cd84f26116",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Technique",
+      "category": "Deep cleaning",
+      "phone": "(205) 838-2601",
+      "website": "http://cleantechnique.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35211"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "b916ed54-8969-4f4b-853d-1bc160076381",
+      "id": "a6857b5d-6e19-452f-b840-ebf545516eb5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "96f8b9b1-a500-4841-ab7d-1df9305bbd57",
+      "id": "de834fd2-96fc-43f6-bdce-aa020734f8d5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "business_id": "e335dbfd-bd64-42b8-b9ba-313156c0325e",
+      "id": "fa774d63-ca1f-4719-848f-3270f3fd2d58",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Deep cleaning at your location"
+    },
+    {
+      "id": "fadef637-8041-4ac0-8569-f0ca66dbb1c8",
+      "business_id": "77667d7d-7cb1-4360-9d9d-36cd84f26116",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

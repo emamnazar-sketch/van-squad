@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "dfab5f86-03eb-4aba-958c-4d597a399df1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Scout Home Services",
+      "category": "Handyman",
+      "phone": "(205) 687-0994",
+      "website": "https://scouthome.services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "24086191-1b85-4098-ad04-f793357fae8b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Serve One Construction",
+      "category": "Handyman",
+      "phone": "(205) 313-0132",
+      "website": "https://www.serveoneconstruction.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6a7bc41d-392e-4c01-a0c9-93d02fd1285f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Do-Gooders Solutions",
+      "category": "Handyman",
+      "phone": "(205) 259-8816",
+      "website": "https://dogoodersolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b0910b6a-5bb8-4123-8e14-a4f7feefb1b7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "On Demand Handyman",
+      "category": "Handyman",
+      "phone": "(205) 730-6894",
+      "website": "https://on-demand-handyman.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "cf2d93d7-040c-4222-a17f-685bf7299e28",
+      "business_id": "dfab5f86-03eb-4aba-958c-4d597a399df1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "82ad3eb0-0b9d-4ca2-92fa-e2e0de12533d",
+      "business_id": "24086191-1b85-4098-ad04-f793357fae8b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "91c1b45b-e9d9-4a7b-b592-50a31cf572bb",
+      "business_id": "6a7bc41d-392e-4c01-a0c9-93d02fd1285f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9d614dad-e06f-44db-b0a0-ea885005e6e8",
+      "business_id": "b0910b6a-5bb8-4123-8e14-a4f7feefb1b7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "businesses": [
+    {
+      "id": "fd51d750-d5f2-47a8-83f6-ddf18740707d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in Montgomery",
+      "category": "House cleaning",
+      "phone": "(334) 277-7749",
+      "website": "https://www.maids.com/84/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36117"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c87386f-1134-4fe4-a3f9-705f86ae88f2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vibe Revival Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(334) 224-8251",
+      "website": "https://vibe-revival-cleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36117",
+        "36116"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "977db3c5-7e40-4a38-b091-37e318fe66cd",
+      "business_id": "fd51d750-d5f2-47a8-83f6-ddf18740707d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f1a498b5-e6bb-43c9-89ee-6a92fca563a3",
+      "business_id": "5c87386f-1134-4fe4-a3f9-705f86ae88f2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

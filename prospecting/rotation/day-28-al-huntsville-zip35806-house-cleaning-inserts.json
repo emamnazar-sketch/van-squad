@@ -1,0 +1,115 @@
+{
+  "businesses": [
+    {
+      "id": "ea9fe127-417e-4aeb-a469-99c2880e7af6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Huntsville",
+      "category": "House cleaning",
+      "phone": "(256) 850-4580",
+      "website": "https://www.thecleaningauthority.com/huntsville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35806",
+        "35613",
+        "35620",
+        "35647",
+        "35671",
+        "35739",
+        "35749",
+        "35750",
+        "35756",
+        "35757",
+        "35758",
+        "35759",
+        "35773",
+        "35775",
+        "35805",
+        "35808",
+        "35810",
+        "35816",
+        "35824",
+        "35896"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7bf51f4a-ecda-4116-9172-df317f7bbf13",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home Clean Heroes of Huntsville",
+      "category": "House cleaning",
+      "phone": "(256) 417-6380",
+      "website": "https://homecleanheroes.com/huntsville/house-cleaning-services-in-huntsville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9f1c928f-12de-46f6-8c05-e0966fcc00dc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mojo Cleaning Service Huntsville",
+      "category": "House cleaning",
+      "phone": "(256) 418-8199",
+      "website": "http://mojocleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35806",
+        "35801",
+        "35802",
+        "35803",
+        "35805",
+        "35810",
+        "35811"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "2b98fcba-b5e0-4ecf-9a09-e9c8ca621ba4",
+      "business_id": "ea9fe127-417e-4aeb-a469-99c2880e7af6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "758893f5-af20-4ebd-9568-a5cc22cc0c37",
+      "business_id": "7bf51f4a-ecda-4116-9172-df317f7bbf13",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0755cd1a-5160-4865-82bf-ad7bf10938de",
+      "business_id": "9f1c928f-12de-46f6-8c05-e0966fcc00dc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

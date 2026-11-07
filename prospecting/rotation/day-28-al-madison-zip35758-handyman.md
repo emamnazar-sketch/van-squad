@@ -1,0 +1,36 @@
+# Day 28 — Alabama × Madison × ZIP 35758 × Handyman
+
+Researched 2026-11-07
+Status: PREPARED, NOT INSERTED
+Cell: Madison, AL 35758 — Category: Handyman (exact label)
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source |
+|---|---|---|---|---|---|---|---|
+| Rittenworx | (256) 221-0373 | Handyman | Madison | https://www.rittenworxhandyman.net/ | None published (quote form / call / text only) | High — own site heads "Local handyman serving Madison & Huntsville," says "Rittenworx is locally based in Madison," "Madison is our primary service area," and "Small jobs welcome; we don't have minimums," lists drywall repair, painting, flooring, finish carpentry, gutter cleaning and everyday repairs at homes, family-owned ("This is not a franchise"), and gives phone (256) 221-0373 on its own Madison page | Own website https://www.rittenworxhandyman.net/ and https://www.rittenworxhandyman.net/locations/madison |
+| SANDOVAL PRO SERVICE | (256) 542-8200 | Handyman | Madison | https://sandovalproservice.com/ | sandovalproservice@gmail.com — https://sandovalproservice.com/ (site contact/footer) | High — own site is titled "Painting, Roofing & Handyman in Madison, AL," says it is "an owner-operated home service company based in Madison, Alabama," offers "Handyman Services — The repair list you've been putting off, handled in one visit" and "general handyman repairs," stresses "You talk to Josué, the person who walks your job and does the work, not a call center," offers free on-site estimates, and gives phone (256) 542-8200 and email on its own site | Own website https://sandovalproservice.com/ |
+| Chamblee Home Services | (256) 424-5813 | Handyman | Madison | http://www.chambleehandymanservices.com/ | chambleehomeservices@gmail.com — http://www.chambleehandymanservices.com/ (site footer, as published) | Medium — own site offers home Repair ("replacing a leaky faucet or finally getting that sticky door unstuck, let us tackle your must get done list"), Update and Maintain work at homes, and gives phone (256) 424-5813 and email in its own footer; its Google listing address is 153 Landers Dr, Madison, AL (the Landers Road corridor is ZIP 35758), while its own site heads "PROUDLY SERVING HUNTSVILLE & SURROUNDING AREAS" — Madison coverage rests on that Madison base plus the surrounding-areas claim, hence Medium | Own website http://www.chambleehandymanservices.com/ ; Google listing (Madison address) |
+| JG Handyman Services LLC | (256) 468-3701 | Handyman | Madison | http://www.thehuntsvillemadisonhandyman.com/ | None published (contact/consult form only) | Medium — own site heads "Proudly Serving Huntsville, Madison, and Surrounding Areas," says "I'm John with JG Handyman Services, LLC… From small repairs to larger improvement projects" for homeowners, and lists furniture assembly, lock repairs and smart-home install among its services; phone (256) 468-3701 is from its Google listing, not its own homepage, and its own site carries template filler sections, hence Medium | Own website http://www.thehuntsvillemadisonhandyman.com/ ; Google listing (phone) |
+
+## ZIP note
+Target ZIP 35758 yielded 4 qualifying businesses, so no adjacent-ZIP expansion was needed. Service_zips in inserts are ["35758"] only for every business — no business published a service-area ZIP list on its own materials, so no ZIPs were added beyond the target. Note the Chamblee email is reproduced exactly as published on its own site ("chambleehomeservices@gmail.com").
+
+## Dedupe
+- Checked every included name and phone against ~/workspace/goals/van-squad-directory-website/hidden_files/day28-open-dump.json (2,459 businesses): no exact name matches and no phone matches for any included business. Near-name hits in the dump are unrelated businesses in other states (e.g. a generic "Handyman Service" in SD, "Precision Handyman" in MI).
+- Grepped all included names and phones against every file in ~/workspace/van-squad/prospecting/ (including tonight's day-28-* files in rotation/): no matches.
+- No duplicates within this cell.
+
+## Exclusions
+- Mr. Handyman of Huntsville / Madison — (256) 841-7206 — national franchise (Neighborly / Mr. Handyman), excluded per franchise rule.
+- Precision Home Solutions — (256) 617-8718 — own site confirms Madison service, phone and email branden@precisionhomesal.com, and a property-maintenance line (light fixtures, doors, general repairs, "from smaller repairs to larger remodeling projects"), but the offer is remodel-led ("Home Remodeling & Improvements," kitchen/bathroom remodeling headlined) — a remodeling contractor, not a dedicated handyman/odd-job offer; held out on the strict gate.
+- Professional Home Repair & Maintenance Services LLC — (256) 337-8116 — own site confirms Madison in its service list and a "General Home Repairs — The handyman list you never get to" line, but it identifies itself on its own site as "a licensed general contractor, not a fly-by-night handyman," led by roofing, remodels and additions; held out as a general-contractor offer.
+- Lee Company (Huntsville) — Madison, AL 35756 address, local number 256-567-9681 alongside (615) 567-1000 / toll-free 800-801-0901 — large multi-state HVAC/plumbing/electrical company whose handyman service is one division; not a local handyman operator.
+- Itz Done Service — (256) 489-3663 on its own site — own site confirms odd jobs at homes ("those odd jobs you've been planning… a door that sticks, a window that won't open") in Huntsville / North Alabama, but never names Madison in its own materials; Madison service not confirmed from own materials.
+- TaskPro — listing phone (256) 858-1412 conflicts with its own thin site, which gives +1 334-750-2479 and jeff@spinswing.com and a Huntsville address with no Madison service naming; phones conflict and Madison not confirmed from own materials.
+- HomeReady Helpers LLC — own site gives only an unformatted 951-area-code number (9515261636) and "Serving North Alabama" with no city list; Madison service not confirmed from own materials and no local verifiable phone.
+- Dimora Renovations and Handyman Services — (256) 412-1385 (listing), Madison address — own site fetched as a renovations-led page ("Transforming Spaces") with no verifiable handyman small-job detail, phone, or Madison service-area statement in its own materials.
+- Affordable Foundation & Home Repairs - The Crack Guys — (256) 297-4490 — foundation/foundation-repair specialist in Madison, not a general handyman/odd-job offer.
+- Handyman Sam — (256) 684-0262 — and C C Your Handyman — (256) 631-5138 — Madison listings only, no verifiable own website confirming services or Madison coverage.
+- InstaService Madison handyman page — lead-gen / marketplace platform, not a local operator.
+
+## Leads summary
+2 published emails collected (see -leads.json): SANDOVAL PRO SERVICE (sandovalproservice@gmail.com) and Chamblee Home Services (chambleehomeservices@gmail.com, as published) — each published on the business's own website, source URL recorded per lead. Rittenworx and JG Handyman Services LLC publish no email (form/call only). Emails are leads only — never written into the businesses table or profiles.

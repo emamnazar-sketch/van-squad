@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "337e71bb-fa93-487e-a7f4-15ec26433254",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Birmingham",
+      "category": "House cleaning",
+      "phone": "(205) 530-6223",
+      "website": "https://www.thecleaningauthority.com/birmingham",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0c7cfde1-5063-42d6-9383-335a5cc57301",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Birmingham",
+      "category": "House cleaning",
+      "phone": "(205) 940-2292",
+      "website": "https://www.twomaidscleaning.com/birmingham/about/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c7713dd-0cf5-467f-a519-1050aa1e22f7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Moppers",
+      "category": "House cleaning",
+      "phone": "(205) 566-7520",
+      "website": "https://www.themoppers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b22b2ba3-acbf-4457-b930-092605b6b2ca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in Birmingham",
+      "category": "House cleaning",
+      "phone": "(205) 871-9338",
+      "website": "https://www.maids.com/83/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "407c4bd4-e959-4231-8ee9-69dd7662b109",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Verity Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(205) 946-0304",
+      "website": "https://www.veritycleaning.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35209"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6b502350-98c8-4c20-9f53-69d469cd04ac",
+      "business_id": "337e71bb-fa93-487e-a7f4-15ec26433254",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dfa9d1a4-70c0-4556-a02d-930af26e00a4",
+      "business_id": "0c7cfde1-5063-42d6-9383-335a5cc57301",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "92fc1c46-8578-4863-a1b5-428e76e2211b",
+      "business_id": "5c7713dd-0cf5-467f-a519-1050aa1e22f7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8b3a960a-c8e2-47f3-adbe-2a467c44a7a4",
+      "business_id": "b22b2ba3-acbf-4457-b930-092605b6b2ca",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "982bd2b5-5794-4fe7-b04e-942149e25c29",
+      "business_id": "407c4bd4-e959-4231-8ee9-69dd7662b109",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

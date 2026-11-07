@@ -1,0 +1,147 @@
+{
+  "businesses": [
+    {
+      "id": "e725680b-82e0-4020-89d7-76fa919fbf60",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dunn It All Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(256) 945-2759",
+      "website": "https://www.dunnitallautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c2b07c6-843c-435c-9b52-de76a0b31fe6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "PAM Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(256) 865-6077",
+      "website": "https://pamdetailing.com/en",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "16709b5e-c468-4b75-9115-a5026fe5d6cc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Show Your Shine Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(256) 682-9782",
+      "website": "https://showyourshinehsv.com/auto-detailing-madison",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "869b4f53-29cb-46f3-ad7b-d3a2b49be11e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Swords Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(938) 463-1463",
+      "website": "https://swordsmobiledetailing.com/5-reasons-mobile-auto-detailing-in-huntsville-saves-time-and-protects-your-vehicle/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1b9d373a-8cbe-4d1b-9d31-9f1f7c9134c5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "On The Spot",
+      "category": "Mobile auto detailing",
+      "phone": "(256) 721-4200",
+      "website": "http://www.onthespotautodetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35801",
+        "35758"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3fa9c777-78be-48a8-a9a2-17edcb723ee3",
+      "business_id": "e725680b-82e0-4020-89d7-76fa919fbf60",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1df0c61a-44cc-48cb-ade7-3f3293c610a9",
+      "business_id": "5c2b07c6-843c-435c-9b52-de76a0b31fe6",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f37be3a5-ff01-4db3-9af2-d49a58637b3c",
+      "business_id": "16709b5e-c468-4b75-9115-a5026fe5d6cc",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c71050e3-67d3-4e0e-8e2e-08650a6c6240",
+      "business_id": "869b4f53-29cb-46f3-ad7b-d3a2b49be11e",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "607c0ea3-0e1f-4a07-92d1-9e74069b1872",
+      "business_id": "1b9d373a-8cbe-4d1b-9d31-9f1f7c9134c5",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

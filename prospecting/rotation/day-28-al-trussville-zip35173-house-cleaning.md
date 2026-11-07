@@ -1,0 +1,56 @@
+# Rotation Day 28 — Alabama: Trussville × House cleaning × ZIP 35173
+
+- Researched: 2026-11-07 (nightly rotation, Day 28)
+- Cell note: Trussville (35173) is a residential suburb northeast of Birmingham, split between Jefferson and St. Clair counties. House cleaning is done inside the customer's home, so on-site residential service is the business model itself.
+- **THIN-CELL FINDING + ADJACENT-ZIP EXPANSION (read first):** No business based in 35173 itself passed all gates. Every operator whose OWN site explicitly names Trussville was blocked by a separate gate: The Maids in Birmingham and Two Maids are duplicates of businesses already in the live DB / tonight's earlier Day-28 cell (same phone — see Exclusions), Bear Brothers Cleaning is a referral agency, Pristine Professional Cleaning Services LLC is toll-free-only, and Homeaglow is lead-gen. Per the cell rule (fewer than 3 qualify → expand to adjacent ZIP in the same city/metro), this cell was completed with residential cleaners based in ADJACENT Birmingham-metro ZIPs — Pinson 35126 and Birmingham 35235 — whose own sites confirm residential house cleaning for the Jefferson County / Birmingham metro area that includes Trussville. Both are therefore Medium confidence, and the coordinator should treat this cell as an expansion cell, not a direct-35173 cell. A third expansion candidate (Clean Technique) was removed at final verification because a parallel Day-28 cell claimed the same name + phone tonight (see Exclusions) — the cell ships with 2 businesses rather than padding it with a weaker listing.
+- Sources: each business's own website first, then public listings (Google Business). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers were taken from public sources; never invented.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source |
+|---|---|---|---|---|---|---|---|
+| ECA Cleaning Services | (205) 703-1680 | House cleaning | Pinson | http://www.ecacleaningservices.com/ | — none published on its own site that could be verified | Medium — own site is titled "Residential Cleaning in Jefferson County, AL": family-owned house cleaning for homes (standard/deep/recurring/move-in-out) with free in-home walkthroughs, gives this phone, and states it serves Jefferson County and surrounding areas; Trussville is a Jefferson County city and the business is based in adjacent Pinson (35126) — included under the adjacent-ZIP expansion, with no explicit Trussville naming on its own site | Business's own website (homepage + services page) |
+| Reina's Cleaning Company | (205) 266-8144 | House cleaning | Birmingham | https://reinascleaningcompany.com/ | — none published on its own site that could be verified | Medium — own site: dedicated House Cleaning section ("keep your house always clean"), locally owned and operated in Birmingham, licensed/insured/bonded, and gives this phone; based at 740 Gable Dr, Birmingham (35235, Huffman — the ZIP directly adjacent to 35173) — included under the adjacent-ZIP expansion, with no explicit Trussville naming on its own site | Business's own website (homepage) |
+
+## Dedupe
+
+- Checked against the live DB dump at ~/workspace/goals/van-squad-directory-website/hidden_files/day28-open-dump.json (2,459 businesses): no included name or phone matches any DB row.
+- Checked against tonight's Day-28 files in ~/workspace/van-squad/prospecting/rotation/ (Birmingham 35209 / 35211 / 35215 / 35242, Hoover 35226 / 35244, Vestavia Hills 35243, Huntsville / Madison cells): no included name or phone matches. Final re-verification caught one collision — Clean Technique had been claimed by the Birmingham 35211 Deep cleaning cell — and it was removed from this cell (see Exclusions).
+- Grepped every prior file in ~/workspace/van-squad/prospecting/ for every included name and phone: no included-business matches. One mention only: Reina's Cleaning Company appears in the Day-28 Birmingham 35211 Deep cleaning cell as an EXCLUSION there (its own site does not name deep cleaning) — it was not inserted in that cell, and that cell independently confirms the same own-site phone (205) 266-8144 and house-cleaning offer used here.
+
+## Exclusions
+
+- Clean Technique (2774 Ruffner Rd, Birmingham, AL 35210; (205) 838-2601; http://cleantechnique.net/) — REMOVED AT FINAL VERIFICATION AS A SAME-NIGHT DUPLICATE: its own site confirms Birmingham-metro house cleaning and it was initially included here under the expansion, but the parallel Day-28 Birmingham 35211 Deep cleaning cell (day-28-al-birmingham-zip35211-deep-cleaning-inserts.json) contains the same name and the same phone — same name OR same phone = skip.
+- AJs Cleaning Services (Birmingham; https://www.ajs-cleaning-services.com/) — EXCLUDED: its own site confirms residential home cleaning in Birmingham but publishes no phone number at all — no verifiable public phone.
+- Green Clean Birmingham ((205) 276-5285 per listing) — EXCLUDED: its own Square site could not be verified for residential house cleaning or a phone in this check (only a checkout/cart page was returned).
+- The Maids in Birmingham (1601 12th Ave South, Birmingham, AL 35205; (205) 871-9338) — EXCLUDED AS DUPLICATE: its own Birmingham page and its dedicated Trussville page (maids.com/al/trussville) explicitly confirm Trussville house cleaning, but the same name and same phone were already added in tonight's Birmingham 35209 cell and are present in the Day-28 open dump — same name OR same phone = skip. Its Trussville page otherwise shows only the toll-free 1-800-843-6243.
+- Two Maids — Trussville page (twomaidsandamop.com/trussville) — EXCLUDED AS DUPLICATE OPERATOR: a Google listing shows a Trussville address (12 Office Park, Trussville) with phone (205) 655-4045, but the business's OWN Trussville page — the preferred source — gives phone (205) 940-2292 and a Birmingham address (201 London Pkwy Suite 200, Birmingham, AL 35211), i.e. the same phone as Two Maids Birmingham, already in the DB dump and tonight's 35209 cell. The listing phone was NOT used to circumvent the duplicate.
+- Bear Brothers Cleaning of Birmingham (2100 Southbridge Pkwy #650, Birmingham, AL 35209; (205) 608-6333) — EXCLUDED: referral agency. Its own site has a dedicated Trussville page and explicitly names Trussville, but its own About wording (recorded in the Day-28 Birmingham 35209 cell) states it is a referral agency that connects clients with vetted cleaners and does not directly employ the cleaners sent — referral agencies are excluded on the standing gates. Same phone as recorded in that cell.
+- Pristine Professional Cleaning Services LLC (117 Lakeland Ridge, Chelsea, AL 35043) — EXCLUDED: toll-free-only contact. Its own site explicitly lists "Hoover, Pelham, Trussville & Irondale Communities" and residential cleaning, but the only phone it publishes is 1-866-280-6833 — no local phone. Same exclusion as the Day-28 Birmingham 35209 cell.
+- The Cleaning Authority - Birmingham (25 West Oxmoor Rd, Birmingham, AL 35209; (205) 530-6223) — EXCLUDED: duplicate phone (already in the DB dump / 35209 cell), and its own Birmingham pages list Birmingham, Hoover, Homewood, Vestavia Hills, Mountain Brook, Chelsea, Helena, Pelham and Sterrett — no Trussville confirmation.
+- MaidPro Birmingham (2531 Meadowview Ln Suite D, Pelham, AL 35124; (205) 358-1800) — EXCLUDED: its own Birmingham page lists its service areas as Alabaster, Chelsea, Helena, Pelham, Indian Springs and Hoover only — no Trussville / 35173 confirmation.
+- Merry Maids of Hoover (2159 Rocky Ridge Rd, Suite 123, Hoover, AL 35216) — EXCLUDED: its own Hoover page lists service areas Birmingham, Hoover, Helena, Pelham, Mt Brook and Indian Springs — no Trussville confirmation; phones also conflict (own site 205-316-4701 vs listing (205) 202-1981).
+- Molly Maid of Birmingham (2969 Pelham Pkwy Ste 1, Pelham, AL 35124; (205) 649-3549 per listing) — EXCLUDED: Trussville / 35173 service could not be confirmed from its own materials in this check (no Trussville naming found on its own Birmingham pages).
+- Verity Cleaning LLC (Pelham; (205) 946-0304) — EXCLUDED for this cell: its own site confirms only Hoover, Vestavia Hills, Mountain Brook, Homewood & Pelham — no Trussville confirmation. (It was included in the 35209 cell, where Homewood is named.)
+- Dust Bunny Cleaning LLC (161 Charleston Way, Trussville, AL; (205) 876-3678 per listing) — EXCLUDED: no verifiable own website confirming residential house cleaning could be found in this check; a listing alone does not meet the own-materials gate.
+- Kleen Homes LLC (104 Kay Ave, Trussville, AL; (205) 655-4060 per listing) — EXCLUDED: residential house cleaning could not be confirmed from its own materials — its own website could not be fetched in this check (403), and its listing categories (Rental Shop, Contractor) do not confirm house cleaning. This is an unverified exclusion, not a claim about what it does.
+- Semper Fi Cleaning Services (1430 Gadsden Hwy Ste 116, Trussville, AL; (659) 223-5038 per listing) — EXCLUDED: no own website confirming residential house cleaning could be found in this check.
+- Polston Clean-A-Lot Services (6240 Service Rd, Trussville, AL; (205) 655-0871 per listing) — EXCLUDED: surfaced only as a janitorial listing with no verifiable own website confirming residential house cleaning.
+- Royal Steamer LLC (Trussville; (205) 531-1837), Regency Carpet Cleaners (Birmingham; (205) 853-1234), SERVPRO of Birmingham — EXCLUDED: carpet / restoration-first businesses, not house cleaning.
+- Andan Home & Business (7107 Gadsden Hwy, Trussville; (205) 994-2716), Pure Pressure Pro, Sparkle Power Washing LLC, 212 Pressure and Steam Cleaning — EXCLUDED: exterior services only (gutter / window / power washing / roofing) on their own materials, not house cleaning.
+- Stewart Facility Services (Trussville), Office Pride of Birmingham-Trussville, Vanguard Cleaning Systems of Birmingham — EXCLUDED: commercial / janitorial only.
+- Homeaglow (Trussville pages) — EXCLUDED: national lead-gen / marketplace platform with no named local operator.
+
+## Leads summary
+
+- 0 published-email leads collected (see -leads.json, empty array).
+- No included business publishes an email address on its own site that could be verified. No email was guessed or taken from a third-party roundup.
+- Emails are leads only — never written to a business profile.
+
+## ZIP note
+
+- Target ZIP 35173 is in every business's service_zips. No included business publishes an explicit ZIP list on its own site, so no additional service ZIPs were added — inclusion rests on the adjacent-ZIP expansion documented above (Pinson 35126 / Birmingham 35235 bases; Jefferson County / Birmingham-metro coverage on the businesses' own sites).
+- Count: 2 businesses, 2 listings, 0 published-email leads (see -leads.json).
+
+## Coordinator note (Day 28 coordinator)
+Clean Technique was removed from BOTH this cell and the Birmingham 35211 Deep cleaning cell (mutual removal). The coordinator restored it once, in the 35211 Deep cleaning cell only — it remains excluded here. This cell stands at 2 businesses.

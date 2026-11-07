@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "8e0f2491-d79e-416e-920c-f1f591031b26",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Perfecting That Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(251) 634-3450",
+      "website": "https://perfectingthatcleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "68163771-ef34-4e41-a2cd-64f40026c038",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Aunt Candy's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(251) 206-0459",
+      "website": "https://auntcandyscleaningservice.com/residential-cleaning-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "51c9b911-7b18-45ef-81ce-e502411387c0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Gals & A Mop, LLC",
+      "category": "House cleaning",
+      "phone": "(251) 662-5000",
+      "website": "https://2galsandamop.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "127bdae7-04b8-4933-9d14-f6448542e606",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids of Mobile",
+      "category": "House cleaning",
+      "phone": "(251) 344-6626",
+      "website": "https://www.maids.com/7/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b137e7fa-03d6-4ebc-bdb8-a9d73bf5aae9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Mobile",
+      "category": "House cleaning",
+      "phone": "(251) 551-3903",
+      "website": "https://merrymaids.com/home-cleaners-mobile-al?L=true",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4465819c-2dd7-4021-88b3-6297c56f9264",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mandy's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(251) 533-0616",
+      "website": "http://www.mandysclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "55b600af-f571-444f-ac25-b7fcf7862995",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maids a la Mode",
+      "category": "House cleaning",
+      "phone": "(251) 298-8007",
+      "website": "https://maidsalamode.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "36608"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f619e279-67c9-45de-a529-5a2455637ab1",
+      "business_id": "8e0f2491-d79e-416e-920c-f1f591031b26",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "367222d3-4199-446b-bd60-e9e82a72e70d",
+      "business_id": "68163771-ef34-4e41-a2cd-64f40026c038",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b392e6c9-bec0-43c0-ae18-d309f2c779a3",
+      "business_id": "51c9b911-7b18-45ef-81ce-e502411387c0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3441b249-a139-41ab-9b08-0182dbba34d0",
+      "business_id": "127bdae7-04b8-4933-9d14-f6448542e606",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e20944c-8d2e-4740-b9c4-08812ea8a2de",
+      "business_id": "b137e7fa-03d6-4ebc-bdb8-a9d73bf5aae9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1035fa5a-1964-4a47-acbf-d3400144808d",
+      "business_id": "4465819c-2dd7-4021-88b3-6297c56f9264",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ca0ed60a-4711-4ed8-a2f2-f577f72fbbc9",
+      "business_id": "55b600af-f571-444f-ac25-b7fcf7862995",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

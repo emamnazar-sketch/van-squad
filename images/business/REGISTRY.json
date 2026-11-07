@@ -14478,5 +14478,425 @@
   "file": "big-dog-detail.jpg",
   "scene": "Bearded detailer in a cap hand-washing the soapy rear fender of a red pickup truck, suds bucket beside him",
   "date": "2026-11-06"
+ },
+ "337e71bb-fa93-487e-a7f4-15ec26433254": {
+  "business": "The Cleaning Authority - Birmingham",
+  "image": "images/business/the-cleaning-authority-birmingham.jpg",
+  "scene": "Cleaner wiping a kitchen island counter in a bright suburban kitchen",
+  "created": "2026-11-07"
+ },
+ "0c7cfde1-5063-42d6-9383-335a5cc57301": {
+  "business": "Two Maids Birmingham",
+  "image": "images/business/two-maids-birmingham.jpg",
+  "scene": "Cleaner vacuuming a sunlit living room rug with an upright vacuum",
+  "created": "2026-11-07"
+ },
+ "5c7713dd-0cf5-467f-a519-1050aa1e22f7": {
+  "business": "The Moppers",
+  "image": "images/business/the-moppers.jpg",
+  "scene": "Cleaner mopping a bright tiled entryway, bucket beside",
+  "created": "2026-11-07"
+ },
+ "b22b2ba3-acbf-4457-b930-092605b6b2ca": {
+  "business": "The Maids in Birmingham",
+  "image": "images/business/the-maids-in-birmingham.jpg",
+  "scene": "Cleaner dusting a light wood bedroom dresser in a bright bedroom",
+  "created": "2026-11-07"
+ },
+ "407c4bd4-e959-4231-8ee9-69dd7662b109": {
+  "business": "Verity Cleaning LLC",
+  "image": "images/business/verity-cleaning-llc.jpg",
+  "scene": "Cleaner polishing a bathroom mirror in a bright single-vanity bathroom",
+  "created": "2026-11-07"
+ },
+ "4a5a1e2d-d0af-425a-a144-ce094761602e": {
+  "business": "Eli's Elite Mobile Car Detailing",
+  "image": "images/business/eli-s-elite-mobile-car-detailing.jpg",
+  "scene": "Detailer hand-washing a silver sedan with a soapy mitt in a sunny driveway",
+  "created": "2026-11-07"
+ },
+ "6aaa480f-c6d9-4248-af65-e6872190335e": {
+  "business": "Bright Mobile Detailing",
+  "image": "images/business/bright-mobile-detailing.jpg",
+  "scene": "Detailer vacuuming a hatchback front seat, doors open, beside the car",
+  "created": "2026-11-07"
+ },
+ "07269fba-6c8a-424b-9199-dd1f3d01823a": {
+  "business": "Prestige on Wheels Mobile Detailing",
+  "image": "images/business/prestige-on-wheels-mobile-detailing.jpg",
+  "scene": "Detailer polishing a white SUV hood in a sunny driveway",
+  "created": "2026-11-07"
+ },
+ "2bcd39ce-8e46-42cc-b5e2-ed293166bb14": {
+  "business": "Fast Garage Mobile Detail",
+  "image": "images/business/fast-garage-mobile-detail.jpg",
+  "scene": "Detailer waxing the side panel of a red pickup truck in a driveway",
+  "created": "2026-11-07"
+ },
+ "fb861ee8-63cf-42e4-a428-b2db22c03daf": {
+  "business": "Driven 2 Shine Auto Detail",
+  "image": "images/business/driven-2-shine-auto-detail.jpg",
+  "scene": "Detailer rinsing a silver hatchback with a garden hose in a driveway",
+  "created": "2026-11-07"
+ },
+ "bbd5a17e-35eb-42ae-9ba5-4e73a7229de8": {
+  "business": "Car Wash 2Go!",
+  "image": "images/business/car-wash-2go.jpg",
+  "scene": "Detailer kneeling beside a blue coupe scrubbing its front wheel",
+  "created": "2026-11-07"
+ },
+ "1ffb83fd-f65f-4cf9-be2e-38581bd29ce2": {
+  "business": "Car Armor Mobile Detailing",
+  "image": "images/business/car-armor-mobile-detailing.jpg",
+  "scene": "Detailer wiping a white crossover SUV windshield in a driveway",
+  "created": "2026-11-07"
+ },
+ "dfab5f86-03eb-4aba-958c-4d597a399df1": {
+  "business": "Scout Home Services",
+  "image": "images/business/scout-home-services.jpg",
+  "scene": "Handyman mounting a curtain rod with a drill in a bright living room",
+  "created": "2026-11-07"
+ },
+ "24086191-1b85-4098-ad04-f793357fae8b": {
+  "business": "Serve One Construction",
+  "image": "images/business/serve-one-construction.jpg",
+  "scene": "Handyman repairing a porch railing, toolbox open beside him",
+  "created": "2026-11-07"
+ },
+ "6a7bc41d-392e-4c01-a0c9-93d02fd1285f": {
+  "business": "Do-Gooders Solutions",
+  "image": "images/business/do-gooders-solutions.jpg",
+  "scene": "Handywoman fixing a kitchen cabinet hinge, door open",
+  "created": "2026-11-07"
+ },
+ "b0910b6a-5bb8-4123-8e14-a4f7feefb1b7": {
+  "business": "On Demand Handyman",
+  "image": "images/business/on-demand-handyman.jpg",
+  "scene": "Handyman painting one bedroom wall with a roller, tray on drop cloth",
+  "created": "2026-11-07"
+ },
+ "c8792313-c4e7-45f7-bae0-ad42c0461089": {
+  "business": "Whaley's Essential Pressure Washing",
+  "image": "images/business/whaley-s-essential-pressure-washing.jpg",
+  "scene": "Worker pressure washing a concrete driveway in front of a brick ranch home",
+  "created": "2026-11-07"
+ },
+ "185f1c9b-f83e-4862-8405-fbc57da93ba3": {
+  "business": "I Need Pressure Washing",
+  "image": "images/business/i-need-pressure-washing.jpg",
+  "scene": "Worker soft-washing light house siding from the yard with a long wand",
+  "created": "2026-11-07"
+ },
+ "907b69b0-2de3-43ec-b525-87c8d741e7bb": {
+  "business": "HydroForce Washing Services",
+  "image": "images/business/hydroforce-washing-services.jpg",
+  "scene": "Worker pressure washing a wooden backyard deck",
+  "created": "2026-11-07"
+ },
+ "af7c6d99-705f-48c9-9524-2b3beca1475e": {
+  "business": "Attention To Details Pressure & Soft washing services",
+  "image": "images/business/attention-to-details-pressure-soft-washing-services.jpg",
+  "scene": "Worker pressure washing a concrete front walkway to a covered porch",
+  "created": "2026-11-07"
+ },
+ "96515693-58cb-4e00-805e-142913920413": {
+  "business": "Xtreme Cleanz",
+  "image": "images/business/xtreme-cleanz.jpg",
+  "scene": "Worker pressure washing a red brick backyard patio",
+  "created": "2026-11-07"
+ },
+ "25e46ee6-3da7-48f7-b53c-d4617ebb6260": {
+  "business": "Magnus Home Services",
+  "image": "images/business/magnus-home-services.jpg",
+  "scene": "Worker pressure washing a concrete garage apron in front of an open garage",
+  "created": "2026-11-07"
+ },
+ "6ab20a7a-d6ae-4ef3-a588-db4ba1fdd303": {
+  "business": "Southern Power Washing",
+  "image": "images/business/southern-power-washing.jpg",
+  "scene": "Worker soft-washing white vinyl siding from the lawn with a long wand",
+  "created": "2026-11-07"
+ },
+ "1d86b215-e5c2-4f95-ac68-1495c20cc6b7": {
+  "business": "Birmingham Power Washing",
+  "image": "images/business/birmingham-power-washing.jpg",
+  "scene": "Worker pressure washing a concrete pool deck surround, no person in water",
+  "created": "2026-11-07"
+ },
+ "e0e37705-1abc-42f8-a8c1-cafbc1e213ca": {
+  "business": "Clear Swim Pool Care",
+  "image": "images/business/clear-swim-pool-care.jpg",
+  "scene": "Technician on dry deck skimming leaves from a rectangular backyard pool",
+  "created": "2026-11-07"
+ },
+ "6842d687-648d-4ee0-8d35-9ea5e5dd52a2": {
+  "business": "Elite Pool Services",
+  "image": "images/business/elite-pool-services.jpg",
+  "scene": "Technician on dry deck brushing pool steps, brush head in the water",
+  "created": "2026-11-07"
+ },
+ "c9b8ffdc-adc1-4d30-bcf3-9a5a024f2f68": {
+  "business": "Swimrite Pool Services",
+  "image": "images/business/swimrite-pool-services.jpg",
+  "scene": "Technician crouched on dry deck testing pool water beside a kidney-shaped pool",
+  "created": "2026-11-07"
+ },
+ "b916ed54-8969-4f4b-853d-1bc160076381": {
+  "business": "JML Cleaning Company",
+  "image": "images/business/jml-cleaning-company.jpg",
+  "scene": "Cleaner in yellow gloves scrubbing a bright kitchen stovetop",
+  "created": "2026-11-07"
+ },
+ "96f8b9b1-a500-4841-ab7d-1df9305bbd57": {
+  "business": "Mel's Sparkle Cleaning Services",
+  "image": "images/business/mel-s-sparkle-cleaning-services.jpg",
+  "scene": "Cleaner scrubbing a white tiled shower wall with a brush",
+  "created": "2026-11-07"
+ },
+ "e335dbfd-bd64-42b8-b9ba-313156c0325e": {
+  "business": "Lemon & Love Cleaning Club",
+  "image": "images/business/lemon-love-cleaning-club.jpg",
+  "scene": "Cleaner kneeling wiping hallway baseboards with a cloth",
+  "created": "2026-11-07"
+ },
+ "77667d7d-7cb1-4360-9d9d-36cd84f26116": {
+  "business": "Clean Technique",
+  "image": "images/business/clean-technique.jpg",
+  "scene": "Cleaner steam-cleaning a living room sofa, nozzle on the cushion",
+  "created": "2026-11-07"
+ },
+ "5404f3e7-7b63-45d0-9809-4c6053adaa97": {
+  "business": "ECA Cleaning Services",
+  "image": "images/business/eca-cleaning-services.jpg",
+  "scene": "Cleaner on a step stool dusting ceiling-fan blades in a bright living room",
+  "created": "2026-11-07"
+ },
+ "361f8346-d159-49ea-8d60-89e17bc00b13": {
+  "business": "Reina's Cleaning Company",
+  "image": "images/business/reina-s-cleaning-company.jpg",
+  "scene": "Cleaner making a bed with fresh white linens in a bright bedroom",
+  "created": "2026-11-07"
+ },
+ "ea9fe127-417e-4aeb-a469-99c2880e7af6": {
+  "business": "The Cleaning Authority - Huntsville",
+  "image": "images/business/the-cleaning-authority-huntsville.jpg",
+  "scene": "Cleaner wiping a wooden dining table in a bright dining room",
+  "created": "2026-11-07"
+ },
+ "7bf51f4a-ecda-4116-9172-df317f7bbf13": {
+  "business": "Home Clean Heroes of Huntsville",
+  "image": "images/business/home-clean-heroes-of-huntsville.jpg",
+  "scene": "Cleaner squeegeeing a glass shower door in a bright bathroom",
+  "created": "2026-11-07"
+ },
+ "9f1c928f-12de-46f6-8c05-e0966fcc00dc": {
+  "business": "Mojo Cleaning Service Huntsville",
+  "image": "images/business/mojo-cleaning-service-huntsville.jpg",
+  "scene": "Cleaner vacuuming carpeted stairs with a handheld vacuum",
+  "created": "2026-11-07"
+ },
+ "e725680b-82e0-4020-89d7-76fa919fbf60": {
+  "business": "Dunn It All Auto Detailing",
+  "image": "images/business/dunn-it-all-auto-detailing.jpg",
+  "scene": "Detailer buffing a silver sedan roof panel with a polisher in a driveway",
+  "created": "2026-11-07"
+ },
+ "5c2b07c6-843c-435c-9b52-de76a0b31fe6": {
+  "business": "PAM Detailing",
+  "image": "images/business/pam-detailing.jpg",
+  "scene": "Detailer cleaning an SUV side window with a squeegee in a driveway",
+  "created": "2026-11-07"
+ },
+ "16709b5e-c468-4b75-9115-a5026fe5d6cc": {
+  "business": "Show Your Shine Detailing",
+  "image": "images/business/show-your-shine-detailing.jpg",
+  "scene": "Detailer kneeling applying tire dressing to an SUV front wheel",
+  "created": "2026-11-07"
+ },
+ "869b4f53-29cb-46f3-ad7b-d3a2b49be11e": {
+  "business": "Swords Mobile Detailing",
+  "image": "images/business/swords-mobile-detailing.jpg",
+  "scene": "Detailer hand-drying a dark sedan door with a microfiber towel",
+  "created": "2026-11-07"
+ },
+ "1b9d373a-8cbe-4d1b-9d31-9f1f7c9134c5": {
+  "business": "On The Spot",
+  "image": "images/business/on-the-spot.jpg",
+  "scene": "Detailer polishing a hatchback headlight in a driveway",
+  "created": "2026-11-07"
+ },
+ "4b9c5f8c-673a-4258-a7fc-d504c4d39750": {
+  "business": "Rittenworx",
+  "image": "images/business/rittenworx.jpg",
+  "scene": "Handyman on a step ladder installing a ceiling light fixture",
+  "created": "2026-11-07"
+ },
+ "cae94c92-27e5-4dc7-a90a-55753a24890c": {
+  "business": "SANDOVAL PRO SERVICE",
+  "image": "images/business/sandoval-pro-service.jpg",
+  "scene": "Handyman repairing drywall with a trowel on a bright interior wall",
+  "created": "2026-11-07"
+ },
+ "a8a7ec2a-0e81-4530-a480-daf9046c893c": {
+  "business": "Chamblee Home Services",
+  "image": "images/business/chamblee-home-services.jpg",
+  "scene": "Handyman replacing a front-door lockset on a sunny brick porch",
+  "created": "2026-11-07"
+ },
+ "d75d4efb-e2db-480a-955c-9c582c8b1b2f": {
+  "business": "JG Handyman Services LLC",
+  "image": "images/business/jg-handyman-services-llc.jpg",
+  "scene": "Handywoman assembling a wooden deck chair on a sunny patio",
+  "created": "2026-11-07"
+ },
+ "fd1fe293-7056-4393-92b9-1630fc675141": {
+  "business": "North Alabama Grooming",
+  "image": "images/business/north-alabama-grooming.jpg",
+  "scene": "Groomer brushing a brown dog on a table beside an unbranded grooming van",
+  "created": "2026-11-07"
+ },
+ "4285721e-e391-4c07-8ee0-d756dc17e8a3": {
+  "business": "Bark & Mane of Huntsville",
+  "image": "images/business/bark-mane-of-huntsville.jpg",
+  "scene": "Groomer blow-drying a fluffy white dog inside a bright grooming van doorway",
+  "created": "2026-11-07"
+ },
+ "8e0f2491-d79e-416e-920c-f1f591031b26": {
+  "business": "Perfecting That Cleaning Service",
+  "image": "images/business/perfecting-that-cleaning-service.jpg",
+  "scene": "Cleaner wiping kitchen cabinets in a bright kitchen",
+  "created": "2026-11-07"
+ },
+ "68163771-ef34-4e41-a2cd-64f40026c038": {
+  "business": "Aunt Candy's Cleaning Service",
+  "image": "images/business/aunt-candy-s-cleaning-service.jpg",
+  "scene": "Cleaner vacuuming a sunlit bedroom carpet, closed-toe shoes",
+  "created": "2026-11-07"
+ },
+ "51c9b911-7b18-45ef-81ce-e502411387c0": {
+  "business": "Two Gals & A Mop, LLC",
+  "image": "images/business/two-gals-a-mop-llc.jpg",
+  "scene": "Cleaner mopping a bright hardwood living room floor",
+  "created": "2026-11-07"
+ },
+ "127bdae7-04b8-4933-9d14-f6448542e606": {
+  "business": "The Maids of Mobile",
+  "image": "images/business/the-maids-of-mobile.jpg",
+  "scene": "Cleaner dusting a wooden table in a bright plant-filled sunroom",
+  "created": "2026-11-07"
+ },
+ "b137e7fa-03d6-4ebc-bdb8-a9d73bf5aae9": {
+  "business": "Merry Maids of Mobile",
+  "image": "images/business/merry-maids-of-mobile.jpg",
+  "scene": "Cleaner polishing a bathroom vanity mirror at a bright double vanity",
+  "created": "2026-11-07"
+ },
+ "4465819c-2dd7-4021-88b3-6297c56f9264": {
+  "business": "Mandy's Cleaning Service",
+  "image": "images/business/mandy-s-cleaning-service.jpg",
+  "scene": "Cleaner wiping a glass patio door in a bright family room",
+  "created": "2026-11-07"
+ },
+ "55b600af-f571-444f-ac25-b7fcf7862995": {
+  "business": "Maids a la Mode",
+  "image": "images/business/maids-a-la-mode.jpg",
+  "scene": "Cleaner folding white towels on a bright laundry room counter",
+  "created": "2026-11-07"
+ },
+ "215bafa9-4ebe-4a68-993f-b588627e2754": {
+  "business": "Sho-Nuff Clean Auto Spa",
+  "image": "images/business/sho-nuff-clean-auto-spa.jpg",
+  "scene": "Detailer foam-washing a sedan with a foam cannon in a sunny driveway",
+  "created": "2026-11-07"
+ },
+ "2550fbf7-6cb3-4958-b876-6e6ced61baa6": {
+  "business": "Ryza Mobile Detailing",
+  "image": "images/business/ryza-mobile-detailing.jpg",
+  "scene": "Detailer clay-polishing a silver coupe door panel in a driveway",
+  "created": "2026-11-07"
+ },
+ "fd51d750-d5f2-47a8-83f6-ddf18740707d": {
+  "business": "The Maids in Montgomery",
+  "image": "images/business/the-maids-in-montgomery.jpg",
+  "scene": "Cleaner scrubbing a kitchen sink in a bright white kitchen",
+  "created": "2026-11-07"
+ },
+ "5c87386f-1134-4fe4-a3f9-705f86ae88f2": {
+  "business": "Vibe Revival Cleaning Service",
+  "image": "images/business/vibe-revival-cleaning-service.jpg",
+  "scene": "Cleaner wiping a bright entryway console table",
+  "created": "2026-11-07"
+ },
+ "dd665b33-f548-46ec-a16f-1297cb3ba651": {
+  "business": "Robinson Handy and Technology Services",
+  "image": "images/business/robinson-handy-and-technology-services.jpg",
+  "scene": "Handyman mounting a TV wall bracket with a level, bracket only, no TV",
+  "created": "2026-11-07"
+ },
+ "35a026b8-ab5c-4b01-833a-846b60aafa23": {
+  "business": "Kaylamaid",
+  "image": "images/business/kaylamaid.jpg",
+  "scene": "Handywoman with a wrench at a bathroom sink trap under an open vanity",
+  "created": "2026-11-07"
+ },
+ "c4a68fc3-027f-48ed-800c-ab5daae87e8f": {
+  "business": "As Salaam Enterprises",
+  "image": "images/business/as-salaam-enterprises.jpg",
+  "scene": "Handyman repairing a wooden fence gate hinge in a sunny backyard",
+  "created": "2026-11-07"
+ },
+ "655fa40e-6fa1-41a9-b31a-541b1841dd35": {
+  "business": "Two Maids Tuscaloosa",
+  "image": "images/business/two-maids-tuscaloosa.jpg",
+  "scene": "Cleaner vacuuming a bright suburban family room rug with a canister vacuum",
+  "created": "2026-11-07"
+ },
+ "7ec30777-a773-4686-983f-6fe64550ace7": {
+  "business": "Suyen's Cleaning Service",
+  "image": "images/business/suyen-s-cleaning-service.jpg",
+  "scene": "Cleaner wiping ceiling cobwebs with an extendable duster in a bright hallway",
+  "created": "2026-11-07"
+ },
+ "0a7b3223-57fd-468c-a144-1f28d2c422c0": {
+  "business": "Maids In America",
+  "image": "images/business/maids-in-america.jpg",
+  "scene": "Cleaner dusting wooden bookshelves in a bright home office",
+  "created": "2026-11-07"
+ },
+ "adf8aab3-b3f2-427e-a827-6e1b19a4c79d": {
+  "business": "Long's Cleaning Service, LLC",
+  "image": "images/business/long-s-cleaning-service-llc.jpg",
+  "scene": "Cleaner mopping a bright kitchen tile floor",
+  "created": "2026-11-07"
+ },
+ "2f842981-0c0c-49e0-92c1-626d17040cb6": {
+  "business": "Alabama Extra Mile",
+  "image": "images/business/alabama-extra-mile.jpg",
+  "scene": "Cleaner wiping a bright bathroom countertop beside a chrome faucet",
+  "created": "2026-11-07"
+ },
+ "c4d57916-7784-4e22-95d1-3f96acac4bb8": {
+  "business": "Eliza Cleaning Service",
+  "image": "images/business/eliza-cleaning-service.jpg",
+  "scene": "Cleaner changing striped bed linens in a bright guest bedroom, side view",
+  "created": "2026-11-07"
+ },
+ "815fea79-1013-472b-aec6-a6ac891c3fa4": {
+  "business": "Alabama's American Maid LLC",
+  "image": "images/business/alabama-s-american-maid-llc.jpg",
+  "scene": "Cleaner polishing a wooden staircase handrail in a bright foyer",
+  "created": "2026-11-07"
+ },
+ "7253af98-c0ca-4b8a-864a-af090e4955c7": {
+  "business": "Mowery Cleaning LLC",
+  "image": "images/business/mowery-cleaning-llc.jpg",
+  "scene": "Cleaner wiping a sunroom window from inside, full body in frame",
+  "created": "2026-11-07"
+ },
+ "87133e3d-5214-4422-a127-5297a70bc433": {
+  "business": "Auburn Home Maintenance LLC",
+  "image": "images/business/auburn-home-maintenance-llc.jpg",
+  "scene": "Handyman on a step stool replacing a porch light fixture beside a front door",
+  "created": "2026-11-07"
  }
 }

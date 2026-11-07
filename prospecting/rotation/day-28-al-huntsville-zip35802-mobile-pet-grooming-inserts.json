@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "fd1fe293-7056-4393-92b9-1630fc675141",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "North Alabama Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(256) 446-1075",
+      "website": "https://northalabamagrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35802"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4285721e-e391-4c07-8ee0-d756dc17e8a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bark & Mane of Huntsville",
+      "category": "Mobile pet grooming",
+      "phone": "(256) 479-6007",
+      "website": "https://www.barkandmane.com/pet-groomers/huntsville-al/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35802"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "19cf7332-d996-4eb7-8913-044de8c43cae",
+      "business_id": "fd1fe293-7056-4393-92b9-1630fc675141",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6ae28ea4-3865-4884-83cb-d4e0e40e21bc",
+      "business_id": "4285721e-e391-4c07-8ee0-d756dc17e8a3",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

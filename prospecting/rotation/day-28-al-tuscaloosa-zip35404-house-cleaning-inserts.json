@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "655fa40e-6fa1-41a9-b31a-541b1841dd35",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Tuscaloosa",
+      "category": "House cleaning",
+      "phone": "(205) 562-3196",
+      "website": "https://www.twomaidscleaning.com/tuscaloosa/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7ec30777-a773-4686-983f-6fe64550ace7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Suyen's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(205) 310-3429",
+      "website": "https://suyenscleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0a7b3223-57fd-468c-a144-1f28d2c422c0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maids In America",
+      "category": "House cleaning",
+      "phone": "(205) 409-0140",
+      "website": "https://maidsinamericanow.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "adf8aab3-b3f2-427e-a827-6e1b19a4c79d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Long's Cleaning Service, LLC",
+      "category": "House cleaning",
+      "phone": "(659) 261-7999",
+      "website": "https://longs-cleaning-servicellc.zarlasites.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2f842981-0c0c-49e0-92c1-626d17040cb6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alabama Extra Mile",
+      "category": "House cleaning",
+      "phone": "(256) 452-6796",
+      "website": "https://alabamaextramile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c4d57916-7784-4e22-95d1-3f96acac4bb8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Eliza Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(205) 286-8381",
+      "website": "https://elizacleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "815fea79-1013-472b-aec6-a6ac891c3fa4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alabama's American Maid LLC",
+      "category": "House cleaning",
+      "phone": "(205) 203-6683",
+      "website": "https://alabamasamericanmaid.pages.dev/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7253af98-c0ca-4b8a-864a-af090e4955c7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mowery Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(205) 435-0681",
+      "website": "https://www.mowerycleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "35404"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "2d934a95-dfc1-4b3b-a606-1b37d2c9e070",
+      "business_id": "655fa40e-6fa1-41a9-b31a-541b1841dd35",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9be3679c-6ff9-4144-ac89-fcd4aaeebe2e",
+      "business_id": "7ec30777-a773-4686-983f-6fe64550ace7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c84f959-8ba6-4578-94c6-87194dfe74f0",
+      "business_id": "0a7b3223-57fd-468c-a144-1f28d2c422c0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7f5aa2c1-ebdd-4c64-af0e-60b99816c59e",
+      "business_id": "adf8aab3-b3f2-427e-a827-6e1b19a4c79d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1d48448c-d737-4b12-a675-cff88c76dbea",
+      "business_id": "2f842981-0c0c-49e0-92c1-626d17040cb6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "31b3bbc8-a90f-43c9-a135-95c49ae0e9cf",
+      "business_id": "c4d57916-7784-4e22-95d1-3f96acac4bb8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6230e230-cc3c-4550-ab8f-983c07130e9f",
+      "business_id": "815fea79-1013-472b-aec6-a6ac891c3fa4",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77a7e7a3-8ec9-4f5d-ae35-c82e8b6dcd23",
+      "business_id": "7253af98-c0ca-4b8a-864a-af090e4955c7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
