@@ -106,6 +106,7 @@ var STATIC_URLS = [
   ['https://vansquads.com/blog/how-much-does-a-handyman-cost-in-denver/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-house-cleaning-cost-in-denver/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-mobile-car-detailing-cost-in-salt-lake-city/', 'monthly', '0.7'],
+  ['https://vansquads.com/blog/how-much-does-house-cleaning-cost-in-salt-lake-city/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-car-detailing/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-pet-grooming/', 'monthly', '0.7'],
   ['https://vansquads.com/services/home-cleaning/', 'monthly', '0.7']
