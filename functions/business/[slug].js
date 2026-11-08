@@ -1539,6 +1539,31 @@ var BLOG_POSTS = {
     "How much does pressure washing cost in Boise?"
   ]
 };
+/* --- Typical cost ranges (2026-11-08, Amam approved): a national typical
+   range per trade, shown on every profile next to Services. These are
+   published U.S. market ranges, NEVER a business's own price — the profile
+   wording says so plainly and names the source. Sources (checked 2026-11-08):
+   House cleaning $118-$238/visit, Deep cleaning $180-$375, Handyman
+   $50-$150/hr, Pressure washing $213-$449/house wash, Pool cleaning
+   $80-$150/visit (routine cleaning), Carpet cleaning $123-$242 — Angi 2026
+   cost data (angi.com cost guides). Mobile auto detailing $150-$350/full
+   detail — Angi/HomeGuide detailing guides via Jobber's 2026 pricing roundup.
+   Mobile pet grooming $75-$150/groom — HomeGuide mobile grooming data
+   (full service ~$75 for an average dog, more for large dogs) cross-checked
+   against Van Squads' own city grooming guides. E-bike repair $100-$200 for
+   a basic tune-up — 2026 e-bike repair cost guides. A category with no entry
+   here renders no cost card at all — never guess a number. */
+var COST_RANGES = {
+  'House cleaning': { range: '$118–$238', unit: 'per visit', label: 'house cleaning', source: 'Angi, 2026' },
+  'Deep cleaning': { range: '$180–$375', unit: 'per visit', label: 'deep cleaning', source: 'Angi, 2026' },
+  'Handyman': { range: '$50–$150', unit: 'per hour', label: 'handyman work', source: 'Angi, 2026' },
+  'Mobile auto detailing': { range: '$150–$350', unit: 'for a full detail', label: 'mobile car detailing', source: 'Angi / HomeGuide, 2026' },
+  'Pressure washing': { range: '$213–$449', unit: 'for a house wash', label: 'pressure washing', source: 'Angi, 2026' },
+  'Mobile pet grooming': { range: '$75–$150', unit: 'per groom', label: 'mobile pet grooming', source: 'HomeGuide, 2026' },
+  'Pool cleaning & maintenance': { range: '$80–$150', unit: 'per visit', label: 'pool cleaning', source: 'Angi, 2026' },
+  'Carpet & rug cleaning': { range: '$123–$242', unit: '', label: 'carpet cleaning', source: 'Angi, 2026' },
+  'E-bike repair': { range: '$100–$200', unit: 'for a basic tune-up', label: 'e-bike repair', source: 'published 2026 repair guides' }
+};
 /* --- Profile upgrade rollout (2026-10-31): the upgraded profile layout,
    approved by Amam on the Scrub 'N Bubbles preview, now renders for EVERY
    business. The service-area marker sits at the centroid (mean lat/lng) of
@@ -2177,9 +2202,23 @@ export async function onRequest({ request, env, params }) {
     '.pv-cred:last-child{border-bottom:none}' +
     '.pv-cred .k{color:var(--muted)}.pv-cred .v{font-weight:700;color:#1F2B3A;text-align:right}' +
     '.pv-cred .v.ok{color:#177245}.pv-cred .v.notyet{color:#E2571B}' +
+    '.pv-cost{background:#FFF0E6;border:1px solid #FFD9C2;border-radius:16px;padding:20px 22px}' +
+    '.pv-cost h2{margin:0 0 6px}.pv-cost-range{font-size:26px;font-weight:800;color:#1F2B3A;margin:0 0 6px}.pv-cost-range span{font-size:16.5px;font-weight:600;color:var(--muted)}' +
+    '.pv-cost-note{font-size:16px;line-height:1.5;color:#2B3B4F;margin:0}.pv-cost-note a{color:#E2571B;font-weight:700}' +
     '.pv-match{font-size:16px;line-height:1.55;color:#1F2B3A;background:#FFF0E6;border-left:4px solid #FF6A2B;border-radius:12px;padding:16px 18px;margin:-14px 0 30px}' +
     '@media(min-width:900px){.pv-cols{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:28px;align-items:start}.pv-side{order:0;position:sticky;top:20px}.pv-contact{margin:30px 0 20px}}' +
     '</style>\n';
+  /* Typical cost card — national range for this trade, never this
+     business's own price; links the city's own cost guide when one exists. */
+  var pvCost = COST_RANGES[b.category] || null;
+  var pvCostBlog = (pvCost && metro) ? BLOG_POSTS[metro.slug + '|' + slugify(b.category)] : null;
+  var pvCostHtml = pvCost ?
+    '<section class="pv-blk pv-cost"><h2>Typical cost</h2>' +
+    '<p class="pv-cost-range">' + esc(pvCost.range) + (pvCost.unit ? ' <span>' + esc(pvCost.unit) + '</span>' : '') + '</p>' +
+    '<p class="pv-cost-note">Typical U.S. range for ' + esc(pvCost.label) + ' — from ' + esc(pvCost.source) + ' cost data. ' +
+    'This is not this business\u2019s price, and your quote may differ — ask them for a price for your job.' +
+    (pvCostBlog ? ' <a href="/blog/' + pvCostBlog[0] + '/">See what ' + esc(pvCost.label) + ' costs in ' + esc(metro.name) + ' \u2192</a>' : '') +
+    '</p></section>' : '';
   var pvBody =
     '<nav class="pv-crumbs" aria-label="Breadcrumb"><a href="/">Home</a>' +
     (pvState ? ' &nbsp;›&nbsp; ' + esc(pvState) : '') +
@@ -2196,6 +2235,7 @@ export async function onRequest({ request, env, params }) {
     '<a href="' + esc(claimUrl) + '">Claim this free profile</a></div>') +
     '<div class="pv-cols"><div class="pv-main">' +
     (desc ? '<section class="pv-blk"><h2>About</h2><p>' + esc(desc) + '</p></section>' : '') +
+    pvCostHtml +
     '<section class="pv-blk"><h2>Services</h2><div class="pv-chips">' + pvSvcChips + '</div></section>' +
     '<section class="pv-blk"><h2>Service area</h2>' +
     (pvCentroid ? '<div id="pv-map" class="pv-map" aria-label="Map of the service area"></div>' +
