@@ -1562,7 +1562,7 @@ var COST_RANGES = {
   'Mobile pet grooming': { range: '$75–$150', unit: 'per groom', label: 'mobile pet grooming', source: 'HomeGuide, 2026' },
   'Pool cleaning & maintenance': { range: '$80–$150', unit: 'per visit', label: 'pool cleaning', source: 'Angi, 2026' },
   'Carpet & rug cleaning': { range: '$123–$242', unit: '', label: 'carpet cleaning', source: 'Angi, 2026' },
-  'E-bike repair': { range: '$100–$200', unit: 'for a basic tune-up', label: 'e-bike repair', source: 'published 2026 repair guides' }
+  'E-bike repair': { range: '$100–$200', unit: 'for a basic tune-up', label: 'e-bike repair', source: 'LeoGuar Bikes, 2026' }
 };
 /* --- Profile upgrade rollout (2026-10-31): the upgraded profile layout,
    approved by Amam on the Scrub 'N Bubbles preview, now renders for EVERY
