@@ -1,0 +1,176 @@
+{
+  "businesses": [
+    {
+      "id": "4d39d387-2126-4a5a-8729-37cda0e1c827",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Curbside Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(937) 539-0335",
+      "website": "https://curbsidemobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43220"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9f2c157d-8d7c-4eca-b1a5-7dad009964eb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KC Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(614) 448-8116",
+      "website": "https://www.kcautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43220",
+        "43232"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "00c2511e-6275-469e-9a87-2e683ab2e5c0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lionheart Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(614) 620-6039",
+      "website": "https://lionheartdetailing.com/columbus-ohio-detailing-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43220",
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0206752d-6f80-4a56-ba6e-271894f9d78d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dublin Auto Shine",
+      "category": "Mobile auto detailing",
+      "phone": "(740) 602-7303",
+      "website": "https://dublinautoshine.com/mobile-car-detailing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43220"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4371d4cb-6d63-4aa2-9c6b-02bcb24b51ea",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Outshine Detail and Ceramic Coating",
+      "category": "Mobile auto detailing",
+      "phone": "(614) 665-1988",
+      "website": "https://www.outshinedetail.com/full-detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43220"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95c987af-0eca-4d1e-aa18-06dff3367ed9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dublin Detailers",
+      "category": "Mobile auto detailing",
+      "phone": "(614) 967-6600",
+      "website": "https://dublindetailers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43220"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c8f55538-712b-4b10-a4b6-d0ff9bdbfe08",
+      "business_id": "4d39d387-2126-4a5a-8729-37cda0e1c827",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "815bf35e-57df-413b-83f7-b6fa15cb1f78",
+      "business_id": "9f2c157d-8d7c-4eca-b1a5-7dad009964eb",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bb2fa2e3-46d3-4aaa-ba43-118512ccc10b",
+      "business_id": "00c2511e-6275-469e-9a87-2e683ab2e5c0",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "71aa3c10-cdb1-4d9d-a0f9-c6f6b223ecee",
+      "business_id": "0206752d-6f80-4a56-ba6e-271894f9d78d",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "782dd65c-e84e-47ef-ad13-46556f417cf1",
+      "business_id": "4371d4cb-6d63-4aa2-9c6b-02bcb24b51ea",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "82e5b514-45e5-4de4-bee2-b57aab0121d6",
+      "business_id": "95c987af-0eca-4d1e-aa18-06dff3367ed9",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

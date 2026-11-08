@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "461a2a10-8c07-4c95-979e-8000830536f6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lakewood Heritage",
+      "category": "Mobile auto detailing",
+      "phone": "(216) 307-2995",
+      "website": "https://heritagedetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fd2e768b-5616-4182-986e-6ee168a9b7bf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zayas Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(216) 302-7996",
+      "website": "https://www.zayasmobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "48f9a3b3-c0df-4277-ac10-ead56ba0b9db",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "All Things Fresh Mobile Car Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(440) 841-8189",
+      "website": "https://allthingsfreshcardetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7c54372e-53e8-4b05-8a79-59123f14c7c7",
+      "business_id": "461a2a10-8c07-4c95-979e-8000830536f6",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "96b54010-5727-4482-95d3-b1b2915d73c3",
+      "business_id": "fd2e768b-5616-4182-986e-6ee168a9b7bf",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "718b8bbb-8f82-4ce7-8f18-785eec7d9661",
+      "business_id": "48f9a3b3-c0df-4277-ac10-ead56ba0b9db",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

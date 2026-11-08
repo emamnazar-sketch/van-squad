@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "6b9182c1-5948-4aa1-82e6-990d5b1e8db1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rev & Rinse Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(513) 432-2052",
+      "website": "https://www.revandrinseauto.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45236"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cb36c893-416a-41ee-989e-636093decea4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Avalon Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(513) 549-7676",
+      "website": "https://www.avalondetailing.com/about",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45236"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "529c6a55-442f-4673-85ee-929d3c3f3186",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Value Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(513) 202-4423",
+      "website": "https://www.cleanvaluedetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45236"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "274b63b6-9ba1-4e89-a5d0-59ebdc73fd5f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Slick Ride Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(513) 703-7441",
+      "website": "https://slickridedetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45236"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a5880b3-11c1-43f6-a058-848c118658bd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Shine Masters Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(859) 279-2050",
+      "website": "https://shinemastersmobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45236"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a933bbc-79e8-4ffe-84cf-165f533044fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "OCG Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(513) 443-6947",
+      "website": "https://www.ocgautodetailing.com/liberty-township-wash-and-wax",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45236"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ea1ebd04-3bc1-4451-98ec-43c7f3873b93",
+      "business_id": "6b9182c1-5948-4aa1-82e6-990d5b1e8db1",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6c8004a9-dc6c-403b-8b80-c537d1223821",
+      "business_id": "cb36c893-416a-41ee-989e-636093decea4",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a8eb68ae-679f-4561-99a5-65c6424aae1c",
+      "business_id": "529c6a55-442f-4673-85ee-929d3c3f3186",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "87706146-f6de-4dfe-a976-2e975a1a2e94",
+      "business_id": "274b63b6-9ba1-4e89-a5d0-59ebdc73fd5f",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "21405a8c-024b-4fdf-b5a3-37b6cb49168a",
+      "business_id": "7a5880b3-11c1-43f6-a058-848c118658bd",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6dda2394-8fab-4f57-9861-203b4aa98cfc",
+      "business_id": "7a933bbc-79e8-4ffe-84cf-165f533044fb",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "3192b628-e1f1-41fd-98fd-595eb5af9529",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Greenstone Exteriors",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(614) 734-4344",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://greenstoneoh.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "3e4cfd8e-6730-4a0a-905b-93ae3f5eb43f",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Strong Cleaning Company",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(614) 477-3460",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://strongcleaningco.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "2f3db2e4-523a-466b-8402-1abca0ad1908",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Clear Water Prowash",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(614) 425-9395",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.clearwaterprowash.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "993398ef-79c3-4998-9dbc-8e8281fba47d",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Clean Life",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(380) 220-3868",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://cleanlifecleaningco.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "45b567cf-3cdb-4e8c-be4d-2e9831aedc5a",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Upscale Pressure Washing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(614) 541-8180",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.upscalepressurewashing.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "ba572647-b524-4fd2-b629-e1fb1fba033d",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Capital City Pressure Washing",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(419) 566-5665",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.capitalcitypowerwash.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "44684356-0c35-4111-a1cd-6f0a36003994",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Pristine Clean",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(440) 454-7041",
+      "phone_verified": false,
+      "service_zips": [
+        "43017"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://pristineclean.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "3192b628-e1f1-41fd-98fd-595eb5af9529",
+      "id": "ef0318e8-c04d-4bf9-bd65-6c9e637d649b",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "3e4cfd8e-6730-4a0a-905b-93ae3f5eb43f",
+      "id": "5d4d2b85-4f49-448b-a631-2c13ef8b90ee",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "2f3db2e4-523a-466b-8402-1abca0ad1908",
+      "id": "c2812a9d-f4b2-4d36-8ee8-805fe769f750",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "993398ef-79c3-4998-9dbc-8e8281fba47d",
+      "id": "56a1afc2-0eba-4198-b52b-c8b53e8e086d",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "45b567cf-3cdb-4e8c-be4d-2e9831aedc5a",
+      "id": "ef3d7ba1-ea2b-4846-9761-661a7cf90cba",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "ba572647-b524-4fd2-b629-e1fb1fba033d",
+      "id": "053a8f6a-1dd3-408d-bdd5-7c1b95e07b52",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "44684356-0c35-4111-a1cd-6f0a36003994",
+      "id": "e33392d4-0125-4c9c-a2d1-aa120ec471e2",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    }
+  ]
+}

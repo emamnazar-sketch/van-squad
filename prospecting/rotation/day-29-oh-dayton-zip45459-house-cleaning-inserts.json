@@ -1,0 +1,209 @@
+{
+  "businesses": [
+    {
+      "id": "13af9d01-e327-4a0f-a555-fbd47372b6bb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gem City Cleaning Crew",
+      "category": "House cleaning",
+      "phone": "(937) 892-4157",
+      "website": "https://gemcitycleaningcrew.com/locations/dayton/house-cleaning-services",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459",
+        "45402",
+        "45405",
+        "45406",
+        "45410",
+        "45417"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "473005df-ee9f-4da2-a090-72088ec4478d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Swifty Cleaning",
+      "category": "House cleaning",
+      "phone": "(937) 829-4816",
+      "website": "https://www.swiftycleaningco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "907eac59-dfa8-4d3f-8ae0-a2953e46eee0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean & Serene Dayton",
+      "category": "House cleaning",
+      "phone": "(937) 637-3976",
+      "website": "https://cleanandserenedayton.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459",
+        "45458",
+        "45440"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "51c968a7-d1dd-443c-8f8b-b7ade4c013ed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "iHeart Cleaning, LLC",
+      "category": "House cleaning",
+      "phone": "(937) 478-5729",
+      "website": "https://www.iheartcleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "515557d5-3aa5-4211-ae5d-1049ced767d0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Dayton",
+      "category": "House cleaning",
+      "phone": "(937) 350-6105",
+      "website": "https://www.maidpro.com/dayton-oh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "76486658-a443-429c-917a-6939e6ebceb6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Liberty Maids Inc",
+      "category": "House cleaning",
+      "phone": "(937) 433-2378",
+      "website": "https://www.libertymaidsinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0057e2b3-4236-42a2-9091-d5bc33c9b48e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Scrubs Cleaning Pros",
+      "category": "House cleaning",
+      "phone": "(937) 885-1958",
+      "website": "http://scrubspros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45459"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6d2df7dd-1fc7-4886-9c69-356e39a7155f",
+      "business_id": "13af9d01-e327-4a0f-a555-fbd47372b6bb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f5420e40-c2f2-4d91-bdf5-fd0319b9c972",
+      "business_id": "473005df-ee9f-4da2-a090-72088ec4478d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d2fbf076-3970-47bc-8fb1-03f42dd921cf",
+      "business_id": "907eac59-dfa8-4d3f-8ae0-a2953e46eee0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5ee1d594-a47a-414f-8023-6e0cbfa19aee",
+      "business_id": "51c968a7-d1dd-443c-8f8b-b7ade4c013ed",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fa282127-e171-4bda-8849-1f5d0eaa1400",
+      "business_id": "515557d5-3aa5-4211-ae5d-1049ced767d0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2e6d12ae-5bf0-4c56-b2e6-109b1e83a254",
+      "business_id": "76486658-a443-429c-917a-6939e6ebceb6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ed94a4f6-42fd-4ba6-adfc-f213166046a4",
+      "business_id": "0057e2b3-4236-42a2-9091-d5bc33c9b48e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "6218b256-a8cf-4273-9e48-cd3d4e1f09ed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handy Hubby Home Repairs and Remodeling",
+      "category": "Handyman",
+      "phone": "(419) 754-1150",
+      "website": "http://handyhubbytoledo.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "046e7cca-0dd8-4146-8378-3a356e820304",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lee's Hands LLC",
+      "category": "Handyman",
+      "phone": "(567) 868-5565",
+      "website": "http://leeshands.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "66b68966-1f67-4710-997b-668017344348",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Smithers Home Maintenance",
+      "category": "Handyman",
+      "phone": "(419) 250-1797",
+      "website": "https://www.smithershomemaintenance.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e9ef5869-5432-4d63-a408-1d6897e88a96",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hatfield Handyman Service LLC",
+      "category": "Handyman",
+      "phone": "(419) 807-7265",
+      "website": "http://hatfieldhandyman.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "df164381-edc6-4d39-984f-e7a5446b3e54",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mershon Handyman Services LLC",
+      "category": "Handyman",
+      "phone": "(567) 218-3479",
+      "website": "http://www.mershonhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c156c4a7-e016-4b64-ae39-3367c9d2e2c3",
+      "business_id": "6218b256-a8cf-4273-9e48-cd3d4e1f09ed",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "439f0b3f-91fa-4907-bfb3-54764e5ec211",
+      "business_id": "046e7cca-0dd8-4146-8378-3a356e820304",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "abcc625e-dbba-4386-bbe8-6f6eec7fa125",
+      "business_id": "66b68966-1f67-4710-997b-668017344348",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "66c01e32-9c77-40ba-9681-ba52306a8a45",
+      "business_id": "e9ef5869-5432-4d63-a408-1d6897e88a96",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e70ce85f-a589-4b50-bf9f-a5fd14df34f6",
+      "business_id": "df164381-edc6-4d39-984f-e7a5446b3e54",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

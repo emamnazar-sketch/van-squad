@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "id": "4a3e1ed3-e3bb-4406-a5e0-607b2d523ae1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Furry Land of Central Ohio",
+      "category": "Mobile pet grooming",
+      "phone": "(614) 333-9030",
+      "website": "https://furryland.us/locations/central-ohio-mobile-pet-groomers/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43219",
+        "43230"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f6f9b69f-abab-45d9-a3a6-58c1786c8ca8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Emi Pet - Columbus Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(614) 914-4468",
+      "website": "https://emipet.com/columbus/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4ad81b6d-abc3-4f4b-ac50-f15dedea5a43",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zoomin Groomin - Northeast Columbus, OH",
+      "category": "Mobile pet grooming",
+      "phone": "(614) 797-0058",
+      "website": "https://www.zoomingroomin.com/locations/ohio/northeast-columbus/areas-served/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43219"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9fdee263-61b2-466f-bf85-eb0aa2df834b",
+      "business_id": "4a3e1ed3-e3bb-4406-a5e0-607b2d523ae1",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2b856b89-23e2-4e5b-b975-1a5de12354e5",
+      "business_id": "f6f9b69f-abab-45d9-a3a6-58c1786c8ca8",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b065d869-23ba-4bc6-b8f2-bb47a62ed3e6",
+      "business_id": "4ad81b6d-abc3-4f4b-ac50-f15dedea5a43",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

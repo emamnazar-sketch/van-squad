@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "987b0ef5-aeac-47da-8f15-0c6d76ef623b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home Project Support",
+      "category": "Handyman",
+      "phone": "(440) 773-9896",
+      "website": "https://homeprojectsupport.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44134"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ceceb2a7-d256-45bf-ba52-e79829614637",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Ohio Handyman",
+      "category": "Handyman",
+      "phone": "(440) 477-1220",
+      "website": "https://business.google.com/v/your-ohio-handyman/011237449304426013861/9d39/_",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44134"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d6fa6554-33b9-4392-86ff-9d8d63b1a917",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MacGyver Handyman Service",
+      "category": "Handyman",
+      "phone": "(216) 702-2305",
+      "website": "https://www.mymacgyverhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44134"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "06bb0198-70d9-4681-bea9-622072cbddce",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elite Cleveland Handyman",
+      "category": "Handyman",
+      "phone": "(216) 428-0116",
+      "website": "https://eliteclevelandhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44134"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "a66c448f-8f3e-4542-a006-829ca00a297f",
+      "business_id": "987b0ef5-aeac-47da-8f15-0c6d76ef623b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0ed8db4d-7f53-415e-9554-9b7fcfcc5599",
+      "business_id": "ceceb2a7-d256-45bf-ba52-e79829614637",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2047496a-da09-4990-b352-840fdb989e10",
+      "business_id": "d6fa6554-33b9-4392-86ff-9d8d63b1a917",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d7d678e3-f0f6-472a-8db0-bed90ccda11e",
+      "business_id": "06bb0198-70d9-4681-bea9-622072cbddce",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "businesses": [
+    {
+      "id": "892973f4-5b58-4c04-ad36-36419060cbc7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Cincinnati",
+      "category": "House cleaning",
+      "phone": "(513) 217-9260",
+      "website": "https://www.thecleaningauthority.com/cincinnati/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45249",
+        "45140",
+        "45150",
+        "45174",
+        "45208",
+        "45227",
+        "45230",
+        "45236",
+        "45237",
+        "45242",
+        "45243",
+        "45244",
+        "45245",
+        "45255"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ddf4a340-1723-4b36-81bf-32f5ee0dd862",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "My Maid Service of Cincinnati",
+      "category": "House cleaning",
+      "phone": "(513) 934-3254",
+      "website": "https://mymaidservice.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45249"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5d5c16fa-e04c-4add-8669-f8fa29c2a905",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Montgomery",
+      "category": "House cleaning",
+      "phone": "(513) 314-7665",
+      "website": "http://twomaidscleaning.com/montgomery-oh",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45249"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bfb97155-f257-4cd8-80dc-f31ea7aa4263",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sweet Comfort Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(513) 275-6380",
+      "website": "https://www.sweetcomfortcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45249"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "10d2949b-227b-4c9d-b664-2b17ac3591b9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hall-Mark Premier House Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(513) 654-4358",
+      "website": "https://hall-markpremiercleaning.com/house-cleaning-service-loveland-oh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45249"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "633b594c-405e-4779-b0c6-cd5be4fede77",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Real World Cleaning Services of Cincinnati",
+      "category": "House cleaning",
+      "phone": "(513) 788-4939",
+      "website": "https://realworldcleaningservices.com/service-areas/blue-ash/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "45249"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "904801d7-7e47-48c2-bf3d-b343ba3e2a6b",
+      "business_id": "892973f4-5b58-4c04-ad36-36419060cbc7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1f6a3657-f487-4bc9-8ccd-bc2111a13120",
+      "business_id": "ddf4a340-1723-4b36-81bf-32f5ee0dd862",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8c4bf468-4b6e-47e4-91b5-241abd897e75",
+      "business_id": "5d5c16fa-e04c-4add-8669-f8fa29c2a905",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "56d2d654-ec56-4e1a-80e4-65fc70e7565a",
+      "business_id": "bfb97155-f257-4cd8-80dc-f31ea7aa4263",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8264a551-6341-4718-aec8-ee399c36322d",
+      "business_id": "10d2949b-227b-4c9d-b664-2b17ac3591b9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "818bb15e-c570-40e3-943f-372bab05a076",
+      "business_id": "633b594c-405e-4779-b0c6-cd5be4fede77",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

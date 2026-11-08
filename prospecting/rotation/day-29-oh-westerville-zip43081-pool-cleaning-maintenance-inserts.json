@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "11e276f1-cafa-4914-8d53-1f0afed9c185",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Columbus Pool Cleaners",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(614) 636-4663",
+      "website": "http://www.columbuspoolcleaner.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43081"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "80cc2158-bad6-49b3-b928-c058d36feb0e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pool Scouts of Columbus",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(614) 559-8627",
+      "website": "https://poolscouts.com/columbus/pool-cleaning-service-in-westerville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43081"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8b0dce44-760c-4019-9c0f-dc1a753bf597",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "614 Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(614) 219-2020",
+      "website": "https://614pools.com/pool_cleanings",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43081"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cc946739-38f4-4090-8378-1116b4906a9c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pool Professionals Ohio",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(740) 963-0045",
+      "website": "https://www.poolprosohio.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43081"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "11e276f1-cafa-4914-8d53-1f0afed9c185",
+      "id": "600e1d47-2c87-4790-9d35-93548072bde7",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "80cc2158-bad6-49b3-b928-c058d36feb0e",
+      "id": "2fb48b03-a125-4de9-8ac8-314f38a3f133",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "8b0dce44-760c-4019-9c0f-dc1a753bf597",
+      "id": "92050c7a-f462-4c0a-9441-6bba94423141",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    },
+    {
+      "business_id": "cc946739-38f4-4090-8378-1116b4906a9c",
+      "id": "33590ad2-71f9-425f-8490-0d788b456286",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pool cleaning & maintenance at your location"
+    }
+  ]
+}

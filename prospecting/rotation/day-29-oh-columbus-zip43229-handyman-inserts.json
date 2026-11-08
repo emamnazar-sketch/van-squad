@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "671b9b82-58f3-4853-b79a-4a1c99d93697",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Storms Handyman Services",
+      "category": "Handyman",
+      "phone": "(380) 206-4753",
+      "website": "https://stormshandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3ca73688-7138-41b9-9c5b-d670bc4bba1e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Columbus Handyman",
+      "category": "Handyman",
+      "phone": "(614) 263-2479",
+      "website": "https://www.columbushandyman.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7b8e1fa3-b9d2-4e22-965c-2f5eec728ba1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Blend",
+      "category": "Handyman",
+      "phone": "(614) 622-5327",
+      "website": "https://www.handymanblend.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c45d63f2-ad9c-42cc-bd35-f46233c67f11",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rannebarger Home Maintenance",
+      "category": "Handyman",
+      "phone": "(614) 370-1958",
+      "website": "https://rhmaintenance.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0145e010-fd3c-4947-bc33-449ea8e799c9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "RHR Home Repair and Improvements",
+      "category": "Handyman",
+      "phone": "(614) 427-3602",
+      "website": "http://rhrhomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "105d1b44-ac69-4b18-b30f-c1340025795e",
+      "business_id": "671b9b82-58f3-4853-b79a-4a1c99d93697",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "22a67f15-5078-41f6-9202-73edffb0f885",
+      "business_id": "3ca73688-7138-41b9-9c5b-d670bc4bba1e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "21c86f3a-686d-422a-9329-951485d9619a",
+      "business_id": "7b8e1fa3-b9d2-4e22-965c-2f5eec728ba1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eed0e08b-15d5-4907-bb31-c5fc8363cb2e",
+      "business_id": "c45d63f2-ad9c-42cc-bd35-f46233c67f11",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6183a170-fd86-43c3-83bb-03afb0dd77e9",
+      "business_id": "0145e010-fd3c-4947-bc33-449ea8e799c9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

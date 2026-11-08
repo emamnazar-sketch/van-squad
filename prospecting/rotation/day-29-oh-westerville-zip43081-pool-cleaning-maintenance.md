@@ -1,0 +1,37 @@
+# Day 29 — Westerville, OH · ZIP 43081 · Pool cleaning & maintenance
+
+- Researched: 2026-11-08 (public web sources only)
+- Cell target: Westerville, Ohio × ZIP 43081 × "Pool cleaning & maintenance" (Columbus metro)
+- Result: **4 qualifying businesses** (2 High, 2 Medium confidence)
+- Category label verified in ~/workspace/van-squad/js/data.js: "Pool cleaning & maintenance"
+
+## ZIP expansion note
+
+No expansion was needed. Four businesses met the ≥3 threshold for 43081/Westerville: one is listed in Westerville itself, and the other three state on their own materials that they serve Westerville (a dedicated Westerville page, a served-cities list naming Westerville, and a Central Ohio list naming Westerville within a stated 45-mile radius). service_zips is ["43081"] only for all four — no business stated any other specific service ZIP, so none was added.
+
+## Businesses (4)
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source |
+|---|---|---|---|---|---|---|---|
+| Columbus Pool Cleaners | (614) 636-4663 | Pool cleaning & maintenance | Westerville | http://www.columbuspoolcleaner.com/ | — none published found | Medium — own site is titled "Pool Cleaning and Maintenance, Columbus, OH," offers weekly visits ("We can go to your pool on a weekly basis"), regular maintenance plans, filter/tile cleaning and pump maintenance, and prints "CALL US NOW: 614-636-4663" on its own site; its Google listing address is 355 MacIntosh Way, Westerville, OH (Swimming Pool Cleaner) with the same phone, so it is Westerville-based — Westerville service is by base, not by an explicit own-site Westerville wording, hence Medium | Own website http://www.columbuspoolcleaner.com/ + Google Business listing |
+| Pool Scouts of Columbus | (614) 559-8627 | Pool cleaning & maintenance | Westerville | https://poolscouts.com/columbus/pool-cleaning-service-in-westerville/ | columbus@poolscouts.com — https://poolscouts.com/columbus/pool-cleaning-service-in-westerville/ (CONTACT section on own Westerville page) | High — own dedicated Westerville page offers "Recurring Pool Cleaning," Green Pool, Filter and Hot Tub & Spa Cleaning in Westerville, says it will "service your pool weekly" in Westerville, and prints phone + email on that page; the Columbus location is independently owned and operated by local owner Heather Pontius (named on the page) — a local franchise operator, not a call-center/lead-gen listing | Own website https://poolscouts.com/columbus/pool-cleaning-service-in-westerville/ |
+| 614 Pools | (614) 219-2020 | Pool cleaning & maintenance | Westerville | https://614pools.com/pool_cleanings | sales@614pools.com — https://614pools.com/pool_cleanings (CONTACT INFO on own cleaning page) | High — own cleaning page offers a Full Cleaning Service (skim, vacuum, brush, test/balance chemistry, baskets, filter) with weekly/monthly/one-time service and weekly/bi-weekly maintenance plans, and prints phone + email on its own site; its own repair page lists Westerville among the Columbus-area cities it serves ("including Westerville, Powell, Hilliard…") | Own websites https://614pools.com/pool_cleanings and https://614pools.com/pool_repair |
+| Pool Professionals Ohio | (740) 963-0045 | Pool cleaning & maintenance | Westerville | https://www.poolprosohio.com/ | — none published found (contact form only) | Medium — own site lists a distinct "Pool Cleaning" service ("Skimming, brushing, vacuuming, filter maintenance, and water chemistry testing and adjustment — weekly or as needed"), names Westerville in its own service list ("from Pataskala and Reynoldsburg to Columbus, Westerville, Dublin, and beyond") within a stated 45-mile Central Ohio radius, and prints 740-963-0045 on its own site; construction is its primary focus, hence Medium not High — cleaning is a separately listed recurring service, not builder-only | Own website https://www.poolprosohio.com/ |
+
+## Email leads (2)
+
+Collected in the matching -leads.json, kept separate from the directory profiles: Pool Scouts of Columbus (columbus@poolscouts.com), 614 Pools (sales@614pools.com). Columbus Pool Cleaners and Pool Professionals Ohio publish no email that could be verified on their own sites.
+
+## Dedupe / exclusion notes
+
+- Every included name and phone was checked against ~/workspace/goals/van-squad-directory-website/hidden_files/day29-open-dump.json (2,502 businesses), ~/workspace/goals/van-squad-directory-website/hidden_files/day29-open-leads.json (934 leads), and a grep of all of ~/workspace/van-squad/prospecting/ for each name, phone, and email. No name, phone, or email collision for any of the four.
+- **Best Pool Services LLC** (Grove City, (614) 560-4525, bestpoolservices.pro) — EXCLUDED, unverifiable own materials: its own website could not be read (fetch returned no extractable content), so recurring cleaning and Westerville service could not be confirmed from the business's own materials; only a Google listing (Swimming Pool Cleaner, Grove City) was verifiable.
+- **Omni Pools & Scapes** (Hilliard, omnipoolsandscapes.com) — EXCLUDED, toll-free-only headline phone: own site's main phone is 1-800-237-6664; weekly maintenance is offered in Columbus/surrounding areas, but no explicit Westerville service was confirmed from its own materials.
+- **Reliable Pool Service** (Lewis Center, (740) 548-6473, reliablepoolserviceoh.com) — EXCLUDED, unverifiable own materials: its own domain now serves unrelated news content, so cleaning/maintenance and Westerville service could not be confirmed from the business's own materials (a listing description mentioning Westerville and maintenance was not sufficient).
+- **A2Z Swimming Pool Service** (Columbus, (614) 475-6826, a2zswimmingpoolservice.net) — EXCLUDED, no recurring cleaning / no Westerville: own site covers installation, restoration/liner/leak repair, and opening/closing only, with no Westerville service stated.
+- **Fox Pool Service** (Columbus, (614) 429-9786) — EXCLUDED, unverifiable own materials: no own website found (Instagram / directory listings only, email only via a third-party directory), so recurring cleaning and Westerville service could not be confirmed from the business's own materials.
+- **Premier Pools & Spas of Westerville / Grove City** ((614) 350-7480) — EXCLUDED, builder-only: own Westerville page is pool building (gunite/fiberglass) only, with no pool cleaning/maintenance service confirmed.
+- **Zaber Pools of Columbus Inc** (6175 Maxtown Rd, Westerville, (614) 476-6111) — EXCLUDED, builder/storefront: own description is custom in-ground pool building and a supply store, listed as possibly temporarily closed; no recurring cleaning confirmed.
+- **Poolwerx North Columbus** — EXCLUDED, no verifiable local phone/own site: launch coverage (2025) describes a locally owned franchise offering maintenance in North Columbus, but no local phone or readable own location page with Westerville service could be verified (only a corporate 1-888 media number).
+- **Splash Promotion** (Columbus, (833) 977-5274) — EXCLUDED, lead-gen / toll-free: its own description is digital marketing/lead generation for pool service providers, not a pool cleaner, and it is listed as possibly temporarily closed.
+- **Aquos Pool Service** — EXCLUDED, national multi-city SEO service-area pages with no verifiable local Westerville operator; lead-gen style (pattern excluded in prior cells).

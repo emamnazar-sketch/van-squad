@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "961f13f6-8717-4161-8fa9-a1446b1463e2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brightstone Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(614) 768-6086",
+      "website": "https://brightstonecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3718ee48-95e0-4fed-a8e2-2820d1990ef8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alba Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(614) 369-8090",
+      "website": "https://cleanwithalba.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0a74d3e2-2edc-43d0-9021-14ba9182d832",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MH Cleaning Columbus",
+      "category": "House cleaning",
+      "phone": "(614) 401-6370",
+      "website": "https://www.mhcleaningcolumbus.com/cleaning-services-hilliard-oh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4796623c-e2fa-48f8-a154-fa527b5cd1dc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkle Machine Clean",
+      "category": "House cleaning",
+      "phone": "(614) 639-5122",
+      "website": "https://sparklecleancompany.com/standard-home-clean-hilliard-ohio",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08c5b919-64a0-4899-b009-7220a1802820",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Olentangy Maids",
+      "category": "House cleaning",
+      "phone": "(614) 421-7747",
+      "website": "https://olentangymaids.com/faq/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d4d2d5d0-7d05-41c0-8984-e2712234c0ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Signature Shines Cleaning",
+      "category": "House cleaning",
+      "phone": "(740) 217-4445",
+      "website": "https://signatureshinescleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9791d884-169c-4ffe-b353-bb68ae27b419",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Dublin",
+      "category": "House cleaning",
+      "phone": "(614) 756-2493",
+      "website": "https://www.thecleaningauthority.com/dublin/areas-we-serve/hilliard/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a47419c3-87e1-418c-9aec-0d8bdc3fd702",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of NW Columbus",
+      "category": "House cleaning",
+      "phone": "(614) 980-0839",
+      "website": "https://www.mollymaid.com/locations/nw-columbus/?cid=LSTL_MLY000192",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "2673faaf-65fd-4fd1-839b-d816b5c6e723",
+      "business_id": "961f13f6-8717-4161-8fa9-a1446b1463e2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c68bbd26-4b73-42a9-8f0a-f7cbb2f5d5de",
+      "business_id": "3718ee48-95e0-4fed-a8e2-2820d1990ef8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "00cdc6c2-30bc-401d-b9fe-193fb40d77db",
+      "business_id": "0a74d3e2-2edc-43d0-9021-14ba9182d832",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "96f5f750-4257-4069-b9c7-82273ac47539",
+      "business_id": "4796623c-e2fa-48f8-a154-fa527b5cd1dc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c669bf51-cf20-4cee-ba67-de48191b79cf",
+      "business_id": "08c5b919-64a0-4899-b009-7220a1802820",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3a351652-8c8a-464d-aec1-5ce7d9a1d722",
+      "business_id": "d4d2d5d0-7d05-41c0-8984-e2712234c0ab",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65c6cf3b-bbfd-4afb-86f8-c933e00c9c3f",
+      "business_id": "9791d884-169c-4ffe-b353-bb68ae27b419",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d4bd7408-ab51-4455-a203-b5d04c5004cc",
+      "business_id": "a47419c3-87e1-418c-9aec-0d8bdc3fd702",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

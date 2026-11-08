@@ -1,0 +1,187 @@
+{
+  "businesses": [
+    {
+      "id": "f675feb4-cf07-4357-b4d4-58f19411536e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Cleveland",
+      "category": "House cleaning",
+      "phone": "(440) 499-4930",
+      "website": "https://www.thecleaningauthority.com/cleveland",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44111",
+        "44011",
+        "44012",
+        "44039",
+        "44054",
+        "44070",
+        "44107",
+        "44116",
+        "44126",
+        "44138",
+        "44140",
+        "44145"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "022f123b-f771-4ee8-9a28-280ccd3cd46f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "West Cleveland Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(216) 483-3249",
+      "website": "https://westclevelandcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44111",
+        "44107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d5746138-167d-4cd1-8e17-34208dbd0f09",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "All 4 You Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(216) 832-4658",
+      "website": "https://all4you.cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44111",
+        "44107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e169d0d7-c3c8-44e4-b02c-639d6be58775",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "La Rosa's Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(216) 551-3650",
+      "website": "https://larosascleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "31a015f3-009e-43a8-a319-7cd34a829faa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Westlake",
+      "category": "House cleaning",
+      "phone": "(440) 557-3244",
+      "website": "https://www.merrymaids.com/home-cleaners-westlake-oh",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "44afd3a5-f452-4d8b-89d9-3e5f45b44ae0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Summit Maids",
+      "category": "House cleaning",
+      "phone": "(216) 877-8835",
+      "website": "https://summitmaids.com/services/house-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "44111"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "51bfc575-8307-4ba9-8906-afb143c575aa",
+      "business_id": "f675feb4-cf07-4357-b4d4-58f19411536e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e91af37d-dd61-420c-a251-42769aac65f1",
+      "business_id": "022f123b-f771-4ee8-9a28-280ccd3cd46f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65853174-9e2a-40e0-93a1-01c9c01d46fe",
+      "business_id": "d5746138-167d-4cd1-8e17-34208dbd0f09",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4a3ecb53-282c-453d-b939-60964ced65f6",
+      "business_id": "e169d0d7-c3c8-44e4-b02c-639d6be58775",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "15338790-53f9-4374-b9b4-58627d83ffae",
+      "business_id": "31a015f3-009e-43a8-a319-7cd34a829faa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "327169a1-be9a-4238-9bfd-0234524a1dc1",
+      "business_id": "44afd3a5-f452-4d8b-89d9-3e5f45b44ae0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

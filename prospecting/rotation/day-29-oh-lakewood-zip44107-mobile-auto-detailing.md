@@ -1,0 +1,40 @@
+# Day 29 — Ohio | Lakewood | ZIP 44107 | Mobile auto detailing
+
+Cell: OH / Lakewood / 44107 / "Mobile auto detailing" (exact label verified in ~/workspace/van-squad/js/data.js). 3 qualifying businesses found — no adjacent-ZIP expansion was needed. ZIP 44107 is Lakewood, a dense inner-ring suburb on Cleveland's West Side. Every included business confirms come-to-you MOBILE detailing from its OWN website and confirms service to Lakewood from its own materials (its own title/service-area list naming Lakewood, or a dedicated Lakewood page on its own site).
+
+Every included business was verified from its own website first (mobile/on-site detailing at the customer's home or office + public local phone on the site), then deduped against ~/workspace/goals/van-squad-directory-website/hidden_files/day29-open-dump.json (2,502 active businesses — name AND phone checked for every candidate) and a grep of ~/workspace/van-squad/prospecting/ for every candidate name, phone, and domain — no name or phone matches for any included business (see Dedupe notes). Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+## Included (3)
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source URL | Dedupe / notes |
+|---|---|---|---|---|---|---|---|---|
+| Lakewood Heritage | (216) 307-2995 | Mobile auto detailing | Lakewood | https://heritagedetailing.com/ | None published on own site (phone + booking only) | High — own homepage title is "Mobile Car Detailing in Cleveland & Lakewood, OH," heads "Serving Cleveland & Lakewood, OH," calls itself "a family-owned mobile car detailing service," has a "We Come to You / Mobile service across Cleveland's West Side" block, and says "We'll come to your home or office anywhere in greater Cleveland," with the booking phone 216.307.2995 displayed on the page | https://heritagedetailing.com/ | No DB/prospecting match for name, phone, or domain. Note: the page footer also renders a +1 (216) 555-0123 schema-style number — a 555 placeholder, NOT used; the number listed here is the site's displayed booking phone 216.307.2995. service_zips = [44107] (target only; own site names cities, not ZIPs) |
+| Zayas Mobile Detailing | (216) 302-7996 | Mobile auto detailing | Lakewood | https://www.zayasmobiledetailing.com/ | zmd@zayasmobiledetailing.com — own homepage footer, https://www.zayasmobiledetailing.com/ | High — own site: "We Come to You — Professional mobile detailing at your home or workplace anywhere in the Cleveland area," "On-Site Service," and its own service list reads "Serving Cleveland, Parma, Lakewood, Strongsville, Westlake, Berea, and surrounding communities" with "our fully equipped mobile detailing team delivers professional care directly to your location"; phone (216) 302-7996 and email in its own footer | https://www.zayasmobiledetailing.com/ | No DB/prospecting match for name, phone, email, or domain. service_zips = [44107] |
+| All Things Fresh Mobile Car Detailing | (440) 841-8189 | Mobile auto detailing | Lakewood | https://allthingsfreshcardetailing.com/ | None published on own site (phone + booking only; a Gmail address appears only on a third-party review aggregator, not counted) | High — own homepage: "Mobile detailing … At your home. On your schedule," "We come to your driveway. Mobile detailing throughout Lorain County and Cuyahoga County," "We arrive fully self-contained — our own water, power, and products," its own Cuyahoga County locations list names Lakewood, and its own dedicated Lakewood page (allthingsfreshcardetailing.com/service-area/lakewood-oh) is titled "Mobile Car Detailing in Lakewood, OH" and states "All Things Fresh serves Lakewood, OH … We bring the full shop to your driveway," with phone 440-841-8189 on both pages | https://allthingsfreshcardetailing.com/ and https://www.allthingsfreshcardetailing.com/service-area/lakewood-oh | No DB/prospecting match for name, phone, or domain. Note: older press releases / listings show other numbers for this business ((216) 677-0790, (440) 385-5070, +1 440-714-8131) — NOT used; the number listed here is the phone its own current website publishes (440-841-8189). It also mentions a shop fallback on its Lakewood page, but mobile come-to-you service in Lakewood is its primary published offer. service_zips = [44107] |
+
+## Dedupe
+
+- Live DB: checked all 3 names and all 3 phones against day29-open-dump.json (2,502 active businesses) — zero name hits, zero phone hits. No Cleveland/Lakewood business and no 44107 service ZIP exists in the dump.
+- Prospecting files: grepped ~/workspace/van-squad/prospecting/ for each name, phone, and domain — zero hits for any included business. The only 44107 hits in prospecting are tonight's separate Cleveland 44111 house-cleaning cell, whose Lakewood-based cleaning businesses (West Cleveland Cleaning Services, All 4 You Cleaning Services, The Cleaning Authority - Cleveland) are different businesses, different phones, different category — not duplicates.
+
+## Exclusions
+
+- **Suds Mobile Detailing (Northeast Ohio; (216) 677-8721, sudsohio@gmail.com, sudsdetailingohio.com)** — EXCLUDED for this cell: genuinely mobile from its own site ("Every service performed at your location … Greater Cleveland"), but its own service-area lists name east-side communities (Willoughby, Mentor, Eastlake, Wickliffe, Euclid, Painesville, Chardon, Ashtabula, Cleveland) with no Lakewood / West Side / 44107 confirmation from its own materials.
+- **Prestige Mobile Detailing / PSTG Detailing (Elyria, OH 44035; (440) 577-5917, info@pstgdetailing.com, pstgdetailing.com)** — EXCLUDED for this cell: genuinely mobile from its own site ("We come to you … anywhere in our Northeast Ohio service area"), but its own materials confirm only a generic Cleveland / Northeast Ohio area with no Lakewood / 44107 confirmation.
+- **Detail Studio (1620 Chesterland Ave, Lakewood, OH 44107; 216-505-4360, detailstudio216.com)** — EXCLUDED: fixed Lakewood studio; its own site offers pickup and drop-off and garaged overnight storage, not mobile detailing at the customer's location — shop-only under the gate.
+- **Pro Mobil Detailing (Bay Village; (440) 668-1656, pro-mobil-detailing.com)** — EXCLUDED: its own website returned no verifiable content in this run (copyright line only), so mobile service and Lakewood service area could not be confirmed from the business's own materials.
+- **NorthShore Detail and Coating (northshoredetailandcoating.com)** — EXCLUDED: own site limits its mobile service area to Lake, Geauga and Ashtabula counties (Mentor / Painesville / Perry / Geneva area) — east of Cleveland, no Lakewood / Cuyahoga service.
+- **Prestige WorldWide CLE (Google Business listing, Lakewood location)** — EXCLUDED: Google-listing entry only; no own website with a verifiable public phone could be found, so it fails the own-materials gate.
+- **Mr. Detail – Ceramic Pro Cleveland (Bedford, OH; (440) 669-0587), A2 Finishes (2171 W 117th St, Cleveland; (216) 785-5526), Diamond Finish Detailing (3964 Rocky River Dr, Cleveland; (216) 440-7445), Luminix Detailing (Rocky River), Detail Club Garage (Westlake), Madison Ave Car Wash / Lakewood LaserWash / Sgt. Clean Car Wash (Lakewood)** — EXCLUDED: fixed-shop detailers / car washes at published street addresses; no mobile come-to-you detailing confirmed from their own materials.
+- **Panda Hub / No-H2O-style national platforms and Sudsmen-type toll-free listings** — EXCLUDED under the standing rule: national lead-gen / app platforms and toll-free-only listings are never included.
+
+## Leads summary
+
+1 published email collected (see matching -leads.json): Zayas Mobile Detailing (zmd@zayasmobiledetailing.com — own homepage footer). Emails are leads only — never written to business profiles. The other 2 included businesses publish no email on their own sites (phone / booking only).
+
+## Files
+
+- day-29-oh-lakewood-zip44107-mobile-auto-detailing-inserts.json — 3 businesses + 3 listings, exact coordinator shape.
+- day-29-oh-lakewood-zip44107-mobile-auto-detailing-leads.json — 1 lead.
+
+**Count: 3 businesses, 1 lead.**

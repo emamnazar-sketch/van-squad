@@ -1,0 +1,205 @@
+{
+  "businesses": [
+    {
+      "id": "70a1466f-977a-49dd-b40d-a1aacaa1a277",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid For Homes",
+      "category": "House cleaning",
+      "phone": "(614) 412-3979",
+      "website": "https://maidforhomes.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "199fc827-bd72-423e-91d3-70ab40ab7971",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Real World Cleaning Services of Columbus",
+      "category": "House cleaning",
+      "phone": "(614) 808-6243",
+      "website": "https://realworldcleaningservices.com/service-areas/columbus/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cfe82dbd-313f-4567-ae16-5b76d6650404",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Serenity Clean",
+      "category": "House cleaning",
+      "phone": "(614) 686-7576",
+      "website": "https://serenityclean.com/columbus/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43215",
+        "43085",
+        "43199",
+        "43201",
+        "43202",
+        "43203",
+        "43204",
+        "43205",
+        "43206",
+        "43207",
+        "43209",
+        "43210",
+        "43211",
+        "43212",
+        "43213",
+        "43214",
+        "43217",
+        "43218",
+        "43219",
+        "43220",
+        "43221",
+        "43222",
+        "43223",
+        "43224",
+        "43227",
+        "43228",
+        "43229",
+        "43230",
+        "43231",
+        "43232",
+        "43235",
+        "43240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8de35e6b-63e1-4f3e-9e8a-af0d4bb68516",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Great Opportunity Cleaning",
+      "category": "House cleaning",
+      "phone": "(614) 353-3641",
+      "website": "https://www.greatopportunitycleaning.com/columbuscleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08351b34-b318-42f5-b63f-f62f35da7f86",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Columbus",
+      "category": "House cleaning",
+      "phone": "(614) 452-5703",
+      "website": "https://merrymaids.com/home-cleaners-columbus-oh",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "817198eb-5a0e-4175-9ce3-b097a36b017a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid to Satisfy Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(614) 592-7878",
+      "website": "https://maid2satisfy.com/ohio/central",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "43215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4cea4fdd-e5cd-4897-acf9-df46d1185a05",
+      "business_id": "70a1466f-977a-49dd-b40d-a1aacaa1a277",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "95de1ef2-3bf4-4fc9-a94b-ed6a51713656",
+      "business_id": "199fc827-bd72-423e-91d3-70ab40ab7971",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a4c1a814-441b-47fe-9423-91d3754648c1",
+      "business_id": "cfe82dbd-313f-4567-ae16-5b76d6650404",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6dc83320-a0a3-4066-9209-5addf98c4aa3",
+      "business_id": "8de35e6b-63e1-4f3e-9e8a-af0d4bb68516",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a4053b1d-b616-4559-bd23-a81a47ed8a4c",
+      "business_id": "08351b34-b318-42f5-b63f-f62f35da7f86",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "586a6075-20cb-4447-9b93-66749f88a202",
+      "business_id": "817198eb-5a0e-4175-9ce3-b097a36b017a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
