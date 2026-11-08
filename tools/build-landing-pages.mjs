@@ -165,10 +165,11 @@ const CSS = `
 .lp-cardbody{padding:16px 18px 18px}
 .lp-card h3{margin:0 0 4px;font-size:20px;line-height:1.25;color:var(--navy)}
 .lp-card .lp-area{color:var(--muted);font-size:15.5px;margin:0 0 14px}
-.lp-btns{display:flex;gap:10px}
+.lp-btns{display:flex;gap:10px;flex-wrap:wrap}
 .lp-btn{flex:1;text-align:center;padding:12px 8px;border-radius:12px;font-weight:700;font-size:16px;text-decoration:none}
 .lp-btn-call{background:var(--orange);color:#fff}
 .lp-btn-view{border:2px solid var(--navy);color:var(--navy)}
+.lp-btn-quote{flex:1 1 100%;background:var(--navy);color:#fff}
 .lp-areas{background:#F6F8FA;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:36px;padding:30px 0}
 .lp-areas h2{font-size:25px;color:var(--navy);margin:0 0 8px}
 .lp-areas p{color:var(--muted);margin:0 0 14px;max-width:760px}
@@ -244,7 +245,8 @@ cells.forEach((cell) => {
       : '';
     return '<article class="lp-card">' + img + '<div class="lp-cardbody"><h3>' + esc(b.name) + '</h3>' +
       '<p class="lp-area">' + esc(areaLine) + '</p><div class="lp-btns">' + call +
-      '<a class="lp-btn lp-btn-view" href="/business/' + esc(b._slug) + '">View profile</a></div></div></article>';
+      '<a class="lp-btn lp-btn-view" href="/business/' + esc(b._slug) + '">View profile</a>' +
+      '<a class="lp-btn lp-btn-quote" href="/#/business/' + esc(b.id) + '">Send quote request</a></div></div></article>';
   }).join('\n    ');
 
   const chips = areaPairs.slice(0, 30).map((p) => '<span class="lp-chip">' + esc(p.label) + ' ' + p.zip + '</span>').join('');
