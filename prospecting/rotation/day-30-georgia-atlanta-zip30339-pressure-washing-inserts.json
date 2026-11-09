@@ -1,0 +1,184 @@
+{
+ "businesses": [
+  {
+   "id": "67cc2d3d-c9ab-40ac-8f61-27bcfc1fa2ed",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Proline Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(770) 652-0499",
+   "website": "https://www.prolinepressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30339",
+    "30066"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "deb01d81-65b2-4661-b5fd-9d181195a38c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "WiseGuys Pro-Wash",
+   "category": "Pressure washing",
+   "phone": "(404) 596-5334",
+   "website": "https://wiseguysprowash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30339",
+    "30342"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "348564b9-31b5-4751-8510-311571560549",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "JR Pressure Pros",
+   "category": "Pressure washing",
+   "phone": "(470) 607-2938",
+   "website": "https://jrpressurepros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30339"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0c8709da-4ab5-4c6b-acea-dc290f3a625c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Squeegee Squad of Atlanta & Fulton County, GA",
+   "category": "Pressure washing",
+   "phone": "(770) 625-1881",
+   "website": "https://squeegeesquad.com/atlanta-fulton-county-ga/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30339",
+    "30342",
+    "30327",
+    "30080",
+    "30305",
+    "30363",
+    "30067"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f5d08ef0-95f9-43fe-8d32-a075bf2f59b7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sunshine Cleaning Service",
+   "category": "Pressure washing",
+   "phone": "(678) 458-6305",
+   "website": "https://sunshinecleaningservices.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30339",
+    "30066"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "309264b7-5802-4109-990d-cc43d2d14aca",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Hot Pressure Solutions",
+   "category": "Pressure washing",
+   "phone": "(770) 882-5226",
+   "website": "https://www.hotpressuresolutions.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30339",
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "29e8b7f4-a7d6-46f9-8aac-bcfdace665ef",
+   "business_id": "67cc2d3d-c9ab-40ac-8f61-27bcfc1fa2ed",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f4cbb6b0-c6a1-4fcf-87a7-1b82b127559a",
+   "business_id": "deb01d81-65b2-4661-b5fd-9d181195a38c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3cf43da5-fb14-450c-bb3c-4b7b0c04a78e",
+   "business_id": "348564b9-31b5-4751-8510-311571560549",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4fc4de8c-7e24-42e9-849d-52cb7a8666a6",
+   "business_id": "0c8709da-4ab5-4c6b-acea-dc290f3a625c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "067cf1e2-dd2d-47bd-b401-04c196c5e494",
+   "business_id": "f5d08ef0-95f9-43fe-8d32-a075bf2f59b7",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "225422a2-6ab7-492a-aa25-63285ddb8220",
+   "business_id": "309264b7-5802-4109-990d-cc43d2d14aca",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

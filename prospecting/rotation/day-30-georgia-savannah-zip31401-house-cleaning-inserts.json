@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "3b501d34-dcd2-4a05-866c-c117cd050166",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hubbard's Maid Service",
+      "category": "House cleaning",
+      "phone": "(912) 961-9131",
+      "website": "http://hubbardsmaidservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f35463d9-d726-4e58-96f5-949ab5f6988e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mama Lyons",
+      "category": "House cleaning",
+      "phone": "(912) 429-3276",
+      "website": "https://www.mamalyons.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c31190b9-6e67-4c90-a80c-7e4b3d291fa6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkling Queens",
+      "category": "House cleaning",
+      "phone": "(912) 417-9677",
+      "website": "https://sparklingqueens912.com/about-us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8a06f73c-ba04-4e31-8fad-1f6cd8c1496c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Crisp",
+      "category": "House cleaning",
+      "phone": "(912) 272-5530",
+      "website": "https://crisp.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "71c986c3-3b2d-443e-a1b4-626deefce1e1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bellklean Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(912) 238-1753",
+      "website": "https://bellklean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c04bdd52-1f57-4ea0-bb40-5f4003a4ba91",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Savannah",
+      "category": "House cleaning",
+      "phone": "(912) 233-7558",
+      "website": "https://www.twomaidscleaning.com/savannah/about/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ff56d695-fab1-4152-b349-8b71ff44ef9f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Savannah",
+      "category": "House cleaning",
+      "phone": "(912) 205-2959",
+      "website": "https://merrymaids.com/home-cleaners-savannah-ga",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "31401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "90f6e983-1a0e-4dfc-89f0-6c445ef7c640",
+      "business_id": "3b501d34-dcd2-4a05-866c-c117cd050166",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9f431dc6-01b8-4c7d-8bbb-454d983758b4",
+      "business_id": "f35463d9-d726-4e58-96f5-949ab5f6988e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2f744386-32dd-4f87-9150-d1d6c258313e",
+      "business_id": "c31190b9-6e67-4c90-a80c-7e4b3d291fa6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "be5c7abd-1d90-4489-b81e-e78a7359f84c",
+      "business_id": "8a06f73c-ba04-4e31-8fad-1f6cd8c1496c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "64c710e9-e25d-44c7-b74b-c67839159e37",
+      "business_id": "71c986c3-3b2d-443e-a1b4-626deefce1e1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4f47544b-9ab3-4e56-9c0f-e7cab99c3198",
+      "business_id": "c04bdd52-1f57-4ea0-bb40-5f4003a4ba91",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4d7b48a9-f518-4be7-9024-6a6fc753578c",
+      "business_id": "ff56d695-fab1-4152-b349-8b71ff44ef9f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

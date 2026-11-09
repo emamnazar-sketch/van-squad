@@ -1,0 +1,238 @@
+{
+  "businesses": [
+    {
+      "id": "f1c4e90f-6f8b-4eb6-986b-8055893f93c6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lakes Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(678) 820-5201",
+      "website": "https://lakescleaningco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4ea1bf95-ec9a-4712-acb5-ab915ce71ba1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JJ Clean Place",
+      "category": "House cleaning",
+      "phone": "(470) 354-0318",
+      "website": "https://jjcleanplace.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096",
+        "30097"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c0865dfd-53f4-4abf-921d-f573a83a20f7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "It's Maid Day",
+      "category": "House cleaning",
+      "phone": "(770) 790-4979",
+      "website": "http://itsmaidday.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5d1b79dd-434b-4271-ad02-9b4b56b36993",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ultracleaner Solution",
+      "category": "House cleaning",
+      "phone": "(404) 913-9653",
+      "website": "http://ultracleanersolution.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a3be6a72-d1c7-4452-b19d-dccc8888c790",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bumble Bee Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(678) 394-3696",
+      "website": "https://www.qbclean.com/house-cleaning-services-atlanta/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cae856a7-1466-471c-9781-57ccf9e6b571",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A+ Cleaning Team Home Organization",
+      "category": "House cleaning",
+      "phone": "(678) 683-8303",
+      "website": "https://www.apluscleaningorganization.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "805457a3-7220-4628-8608-7df88dd3b338",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in Alpharetta",
+      "category": "House cleaning",
+      "phone": "(678) 539-6665",
+      "website": "https://www.maids.com/341/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aea29fde-01a3-4b03-82af-c7184a43be52",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Duluth",
+      "category": "House cleaning",
+      "phone": "(678) 929-2936",
+      "website": "https://www.thecleaningauthority.com/duluth",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30096",
+        "30024",
+        "30043",
+        "30071",
+        "30092",
+        "30097",
+        "30518",
+        "30519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4a03bfc3-d7a7-43b2-ae12-60cad34a80eb",
+      "business_id": "f1c4e90f-6f8b-4eb6-986b-8055893f93c6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e2dd425-ac64-42dd-a91c-9f200ef65b12",
+      "business_id": "4ea1bf95-ec9a-4712-acb5-ab915ce71ba1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5b7973e7-09a5-42e9-940b-e0073f1e5b59",
+      "business_id": "c0865dfd-53f4-4abf-921d-f573a83a20f7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b6032aac-cdec-4c61-a5c6-63523c26aeda",
+      "business_id": "5d1b79dd-434b-4271-ad02-9b4b56b36993",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "13cbf8f4-5c43-4d55-8f43-8914663e4401",
+      "business_id": "a3be6a72-d1c7-4452-b19d-dccc8888c790",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "661be871-9e8a-481b-9f67-4d38e5aa9836",
+      "business_id": "cae856a7-1466-471c-9781-57ccf9e6b571",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "366f35db-51a4-4517-886b-2bb2d9b90854",
+      "business_id": "805457a3-7220-4628-8608-7df88dd3b338",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "de8276bc-ff86-49d3-8826-a47922b5e026",
+      "business_id": "aea29fde-01a3-4b03-82af-c7184a43be52",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

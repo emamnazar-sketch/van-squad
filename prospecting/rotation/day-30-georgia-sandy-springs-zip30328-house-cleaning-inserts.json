@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "a2c248d5-52d1-4a9e-9470-1214962d6da3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Amazon Cleaning",
+      "category": "House cleaning",
+      "phone": "(770) 906-4001",
+      "website": "https://amazoncleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30328"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0279a2aa-3a5b-4aa4-b9fc-bd34082fc582",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "LCS Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(404) 932-0960",
+      "website": "https://lcscleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30328"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "571d4b81-837f-44c6-955e-d0c984668256",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alora Home",
+      "category": "House cleaning",
+      "phone": "(678) 833-1998",
+      "website": "https://alorateam.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30328"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "20105282-d184-455d-afe6-8ab9665a7d94",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Ready Cleaning",
+      "category": "House cleaning",
+      "phone": "(678) 799-4669",
+      "website": "https://www.maidreadycleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30328"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ed97786f-6fcd-4780-88d4-7eb4d27efecf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Marie's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(770) 479-6121",
+      "website": "https://mariescleaningatl.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30328"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "96e72be3-989f-4e12-a42d-6a1a4e1aa984",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Atlanta Green Maids",
+      "category": "House cleaning",
+      "phone": "(678) 653-0541",
+      "website": "https://www.atlantagreenmaids.com/house-cleaning-service-atlanta/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30328"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "bd244183-26fd-44da-a11e-f1e5719bdd25",
+      "business_id": "a2c248d5-52d1-4a9e-9470-1214962d6da3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "48ad1f49-07a1-429a-a632-3cfac76592a5",
+      "business_id": "0279a2aa-3a5b-4aa4-b9fc-bd34082fc582",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0a990bcf-3372-4817-af83-919316deb7e7",
+      "business_id": "571d4b81-837f-44c6-955e-d0c984668256",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "74f0946b-0a25-485a-ad30-437d04bb532d",
+      "business_id": "20105282-d184-455d-afe6-8ab9665a7d94",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0e2386e8-4a20-470c-be9b-ee024beb8664",
+      "business_id": "ed97786f-6fcd-4780-88d4-7eb4d27efecf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "416d52fe-b674-4567-bf31-686d9b01f807",
+      "business_id": "96e72be3-989f-4e12-a42d-6a1a4e1aa984",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

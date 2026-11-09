@@ -1,0 +1,233 @@
+{
+  "businesses": [
+    {
+      "id": "47d5b191-1a52-46d1-ac2b-126ab929e6d9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handiwork Hero",
+      "category": "Handyman",
+      "phone": "(678) 368-6544",
+      "website": "http://handiworkhero.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a80c58e7-949d-443a-adac-f8b640dbc3e5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Atlanta Handyman",
+      "category": "Handyman",
+      "phone": "(678) 763-1137",
+      "website": "https://atlanta-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a141f5c4-288b-4c06-8492-24f772ca57a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bardin Construction",
+      "category": "Handyman",
+      "phone": "(404) 889-9446",
+      "website": "https://www.bardinconstruction.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030",
+        "30002"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "70425886-429d-497e-bea1-1cf321e3b38c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hands You Demand",
+      "category": "Handyman",
+      "phone": "(404) 804-5485",
+      "website": "https://handsyoudemand.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030",
+        "30084"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "671f4ab1-232f-4318-8be3-44d222dd8732",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SQ-SCAPE",
+      "category": "Handyman",
+      "phone": "(404) 663-9097",
+      "website": "https://sites.google.com/view/sq-scape/home",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c4f9eb7e-9508-408b-9a6c-1edda98be63a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Handyman Atlanta",
+      "category": "Handyman",
+      "phone": "(404) 585-1856",
+      "website": "http://www.yourhandymanatlanta.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95e3a464-2bc4-40a6-beff-16191f69b555",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "685 Collective",
+      "category": "Handyman",
+      "phone": "(404) 482-2691",
+      "website": "https://www.685collective.com/decatur-handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "36271d40-373f-4a76-8337-88aaaf437bd0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Sandy Springs, Dunwoody, and N Atlanta",
+      "category": "Handyman",
+      "phone": "(404) 795-4325",
+      "website": "https://www.mrhandyman.com/sandy-springs-dunwoody/geo/decatur/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30030",
+        "30338"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0e1d2f96-c365-45e7-b338-879f8bb24311",
+      "business_id": "47d5b191-1a52-46d1-ac2b-126ab929e6d9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "396fabfb-72b0-41f8-a9d4-c179a014dea6",
+      "business_id": "a80c58e7-949d-443a-adac-f8b640dbc3e5",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4312c932-d994-41cc-a522-06002c0ef18f",
+      "business_id": "a141f5c4-288b-4c06-8492-24f772ca57a3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a3b29d4d-69a3-42d5-8891-26a038953031",
+      "business_id": "70425886-429d-497e-bea1-1cf321e3b38c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3aada989-d99d-4323-bd1e-e4e0fa71623b",
+      "business_id": "671f4ab1-232f-4318-8be3-44d222dd8732",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "78eecc50-8cf1-4167-b365-3cad13a03a4e",
+      "business_id": "c4f9eb7e-9508-408b-9a6c-1edda98be63a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a3380c5e-ab64-47a9-8567-5deae8d0ddad",
+      "business_id": "95e3a464-2bc4-40a6-beff-16191f69b555",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7eb3d889-16f7-425f-8d0a-f4abf364f214",
+      "business_id": "36271d40-373f-4a76-8337-88aaaf437bd0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

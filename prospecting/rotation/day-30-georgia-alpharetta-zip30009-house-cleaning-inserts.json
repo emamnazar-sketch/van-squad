@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "5560dae0-22e9-4298-bbb9-c77e7c01f394",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Easy Breezy Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(678) 768-1234",
+      "website": "http://easybreezynet.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c1b33637-0375-4280-bd10-afddc9b85938",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Minty Clean ATL",
+      "category": "House cleaning",
+      "phone": "(678) 562-5636",
+      "website": "https://www.mintycleanatl.com/house-cleaning-alpharetta-atlanta/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e986bf8e-b4d4-4543-9225-128cf90ebf8e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Grace & Shine Cleaning",
+      "category": "House cleaning",
+      "phone": "(470) 418-5935",
+      "website": "https://graceandshinega.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7ce0e8d5-f699-4b4c-a6b4-71ad8c155e1e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Image Maids",
+      "category": "House cleaning",
+      "phone": "(770) 627-4670",
+      "website": "https://www.imagemaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c4dee2f7-a93d-40db-9f16-6c270d2b9a76",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Alpharetta",
+      "category": "House cleaning",
+      "phone": "(678) 242-0040",
+      "website": "https://www.maidpro.com/alpharetta",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "529a4d6f-16d5-4c7f-8a4e-a5026b625b93",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ecomaids of Suwanee-Alpharetta-Cumming",
+      "category": "House cleaning",
+      "phone": "(770) 830-3726",
+      "website": "https://ecomaids.com/cumming-ga/cleaning-services-in-alpharetta/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b5afa179-759c-45ea-86c3-64f3e778aab6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "ATL Clean",
+      "category": "House cleaning",
+      "phone": "(404) 390-4082",
+      "website": "https://atlclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3f46d070-113c-479b-a995-5a5a33463e05",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Alpharetta",
+      "category": "House cleaning",
+      "phone": "(770) 758-9482",
+      "website": "https://merrymaids.com/home-cleaners-alpharetta-ga",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30009"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9bbc8aae-2838-4a80-b31e-d0e4dad344e4",
+      "business_id": "5560dae0-22e9-4298-bbb9-c77e7c01f394",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d0d3aebe-ca2b-4cb6-809b-10d5b4edf0ea",
+      "business_id": "c1b33637-0375-4280-bd10-afddc9b85938",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "62e50eef-6946-4771-8e0e-dc052eb1ebcb",
+      "business_id": "e986bf8e-b4d4-4543-9225-128cf90ebf8e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee56cc96-105e-4c3c-b1c3-f53baa608e95",
+      "business_id": "7ce0e8d5-f699-4b4c-a6b4-71ad8c155e1e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "50f8125e-68d6-41a5-81d4-6b280c99d292",
+      "business_id": "c4dee2f7-a93d-40db-9f16-6c270d2b9a76",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c39cd9a6-9558-490a-9487-df2946ac669f",
+      "business_id": "529a4d6f-16d5-4c7f-8a4e-a5026b625b93",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9bae3961-b48e-4d57-b314-0de1974fd06d",
+      "business_id": "b5afa179-759c-45ea-86c3-64f3e778aab6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f01a3bbf-f526-4db4-9bba-bc37e1bdfb1f",
+      "business_id": "3f46d070-113c-479b-a995-5a5a33463e05",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

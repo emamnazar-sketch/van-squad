@@ -1,0 +1,177 @@
+{
+ "businesses": [
+  {
+   "id": "755faf4d-b157-4f7a-ba9f-e91a4edd3774",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Thrare Contracting",
+   "category": "Pressure washing",
+   "phone": "(678) 748-3578",
+   "website": "https://www.thrarecontracting.com/pressure-washing-atlanta",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30350"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "99f09ce2-ee93-4051-ace4-88bd5fc026d7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Xtreme Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(678) 472-2561",
+   "website": "https://www.xtremepressurewashing.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30350",
+    "30328"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b9be2d77-83c9-4bd4-ad9b-da2f8d60f49c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sunnyside Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(678) 791-5927",
+   "website": "http://sunnysidewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30350"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6fb873f5-122f-481c-b117-e88a14f6e77a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Win Clean Plus",
+   "category": "Pressure washing",
+   "phone": "(678) 907-7971",
+   "website": "https://wincleanplus.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30350",
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "222ca98f-8dfd-4b7d-a86a-f4469f787e5d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Power Washing Squad",
+   "category": "Pressure washing",
+   "phone": "(404) 793-9293",
+   "website": "https://www.pwsquad.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30350"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "29498d72-14a3-4c89-be01-b74e34919314",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "UzbServices",
+   "category": "Pressure washing",
+   "phone": "(678) 534-9124",
+   "website": "https://uzbservicespro.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30350",
+    "30144"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "fda8ba7d-f98e-4150-bb6d-047bfa70bf37",
+   "business_id": "755faf4d-b157-4f7a-ba9f-e91a4edd3774",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1e8f6b6a-a062-493f-aa97-2b35993f5cfc",
+   "business_id": "99f09ce2-ee93-4051-ace4-88bd5fc026d7",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d0473a89-025e-4c2f-bfb5-03d5c9c4ea15",
+   "business_id": "b9be2d77-83c9-4bd4-ad9b-da2f8d60f49c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "002074cd-3e25-40e3-9532-6e34615712c2",
+   "business_id": "6fb873f5-122f-481c-b117-e88a14f6e77a",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b132a5cd-9e1e-45d9-aa6e-22728b433732",
+   "business_id": "222ca98f-8dfd-4b7d-a86a-f4469f787e5d",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3623f53f-dbde-441b-9fc1-e98ec49d1675",
+   "business_id": "29498d72-14a3-4c89-be01-b74e34919314",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+  "businesses": [
+    {
+      "id": "0ec76df7-d8a3-4d67-9ecf-b87dd34f9000",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Augusta",
+      "category": "House cleaning",
+      "phone": "(706) 890-4300",
+      "website": "https://www.thecleaningauthority.com/augusta",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907",
+        "30809",
+        "30813",
+        "30815",
+        "30901",
+        "30904",
+        "30906",
+        "30909"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b13ed9ad-f71e-4ea0-9895-a48e22702db6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids of Augusta",
+      "category": "House cleaning",
+      "phone": "(706) 550-1858",
+      "website": "http://twomaidscleaning.com/augusta",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8e3d0a82-ca0d-4514-b345-0500244470bd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Augusta",
+      "category": "House cleaning",
+      "phone": "(706) 405-7968",
+      "website": "https://www.merrymaids.com/augusta/?L=true",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1c60e8d5-0a1b-4245-a4a9-1f3fec76bed5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home Clean Heroes of Augusta",
+      "category": "House cleaning",
+      "phone": "(706) 400-6370",
+      "website": "https://homecleanheroes.com/augusta/house-cleaning-services-in-martinez/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "388691ef-87b8-45f9-ac29-915dc72c9a30",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TruLight Cleaning",
+      "category": "House cleaning",
+      "phone": "(706) 878-6344",
+      "website": "https://www.trulightcleaning.com/about-us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ab38a35-3941-4e78-8e6f-afc1c9a34a74",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Keepers",
+      "category": "House cleaning",
+      "phone": "(706) 339-6075",
+      "website": "http://www.thecleankeepersevans.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "54d7f2e0-6bf3-4308-98c0-d377cfcf3876",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MDSM Solutions",
+      "category": "House cleaning",
+      "phone": "(706) 750-0674",
+      "website": "https://www.mdsmco.com/faq",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30907"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6d8c8eb7-9957-4483-b03e-aab468467dcc",
+      "business_id": "0ec76df7-d8a3-4d67-9ecf-b87dd34f9000",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ccad5331-a0d0-4031-9187-8da2377ddbf5",
+      "business_id": "b13ed9ad-f71e-4ea0-9895-a48e22702db6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3fbea46e-ae12-4bb7-b41e-f4e9acd11986",
+      "business_id": "8e3d0a82-ca0d-4514-b345-0500244470bd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dac4f38b-ec08-4cb0-81e8-5900183e1dc9",
+      "business_id": "1c60e8d5-0a1b-4245-a4a9-1f3fec76bed5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b38af11-496b-4608-8720-a53f51e22465",
+      "business_id": "388691ef-87b8-45f9-ac29-915dc72c9a30",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b1bc5896-4550-4fc1-a995-98485ba1809f",
+      "business_id": "8ab38a35-3941-4e78-8e6f-afc1c9a34a74",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "20bfe40e-e3fa-494c-916e-ce2612d33b59",
+      "business_id": "54d7f2e0-6bf3-4308-98c0-d377cfcf3876",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

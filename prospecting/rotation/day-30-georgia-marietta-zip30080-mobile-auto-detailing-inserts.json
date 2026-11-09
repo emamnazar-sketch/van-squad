@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "45d1df63-f8ef-467e-9f2b-9a69f133c2c8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "QLEAN Auto Care",
+   "category": "Mobile auto detailing",
+   "phone": "(678) 501-5653",
+   "website": "https://www.qleanautocare.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d799805d-22af-4e7b-8a73-fb5ada4793fb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "PeachLine Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(404) 856-3626",
+   "website": "https://www.peachlinemobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b6934094-fa46-4c57-adaf-7e85e416ed2b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Blue Knight Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(470) 540-0307",
+   "website": "https://www.blueknightcardetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3474ced7-046c-4a92-b9ae-c15eabb355b9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Three Kings Mobile Detailing, LLC",
+   "category": "Mobile auto detailing",
+   "phone": "(678) 761-1829",
+   "website": "http://3kingsdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a98add08-f12b-42b2-a28b-dd3423de20c0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pine & Polish Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(404) 430-6174",
+   "website": "https://pineandpolishdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cbd51956-7e48-4506-98e3-32a7f17d11d0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Marietta Luxury X Auto Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(770) 764-6393",
+   "website": "http://lxdatl.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bcd3767d-389b-45c2-bff0-137491be39da",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ATL Best Detailers",
+   "category": "Mobile auto detailing",
+   "phone": "(470) 563-1288",
+   "website": "https://atlbestdetailers.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30080"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "5a30374c-fd86-4bf6-bbfb-ab0b445d19d1",
+   "business_id": "45d1df63-f8ef-467e-9f2b-9a69f133c2c8",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "17b3b56b-d986-40c3-9f2e-41e209e8343b",
+   "business_id": "d799805d-22af-4e7b-8a73-fb5ada4793fb",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "87a663c9-00a2-4a86-afc4-81233a3cf470",
+   "business_id": "b6934094-fa46-4c57-adaf-7e85e416ed2b",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9d8a451a-40d9-4c46-b569-0ada53bc06b8",
+   "business_id": "3474ced7-046c-4a92-b9ae-c15eabb355b9",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4facfe9d-e79e-4ee9-89dd-12334cc64912",
+   "business_id": "a98add08-f12b-42b2-a28b-dd3423de20c0",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7b2d321e-4969-4ddc-b2dc-a2a18d1c3dce",
+   "business_id": "cbd51956-7e48-4506-98e3-32a7f17d11d0",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "153ecbef-58e0-496d-a7c1-b810b4a829dc",
+   "business_id": "bcd3767d-389b-45c2-bff0-137491be39da",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "businesses": [
+  {
+   "id": "04c5d9a6-7e0a-4229-8ac2-9abf027f0dce",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Zoomin Groomin - South West Cobb",
+   "category": "Mobile pet grooming",
+   "phone": "(678) 515-5501",
+   "website": "https://www.zoomingroomin.com/locations/georgia/southwest-cobb/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30067",
+    "30008",
+    "30060",
+    "30063",
+    "30064",
+    "30080",
+    "30082",
+    "30090",
+    "30106",
+    "30126",
+    "30127",
+    "30168",
+    "30339"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a7551262-1ae1-48fd-80c8-ec89d4286421",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Primp My Pet",
+   "category": "Mobile pet grooming",
+   "phone": "(470) 331-5456",
+   "website": "https://www.primpmypetatl.com/faq",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30067"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "54384e67-0d45-44ac-b62c-53617ee6e9d1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bark & Mane of Marietta",
+   "category": "Mobile pet grooming",
+   "phone": "(770) 609-4593",
+   "website": "https://www.barkandmane.com/pet-groomers/marietta-ga/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30067",
+    "30066"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "62961929-6f86-45f0-bbb7-5e5aed159c4e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Woofie's of Smyrna-Mableton",
+   "category": "Mobile pet grooming",
+   "phone": "(470) 289-7239",
+   "website": "https://www.woofies.com/smyrna-mableton/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30067"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "58b81ebd-5d4e-47f9-8053-20500c5af848",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maddie's Mobile Makeovers",
+   "category": "Mobile pet grooming",
+   "phone": "(470) 318-3977",
+   "website": "https://www.maddiesmobile.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30067"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "41baabc1-d3ce-44fe-aa6a-1821f496040b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Professional Pet Spa",
+   "category": "Mobile pet grooming",
+   "phone": "(770) 710-9003",
+   "website": "https://www.professionalpetspa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30067"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "38d6b0e4-f1d9-4e8a-bdb1-837b4e87398f",
+   "business_id": "04c5d9a6-7e0a-4229-8ac2-9abf027f0dce",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "387cbac5-4141-43a7-8ae9-64b4706679e8",
+   "business_id": "a7551262-1ae1-48fd-80c8-ec89d4286421",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2f59b306-de46-43c5-a5a3-a8bf99eb7df2",
+   "business_id": "54384e67-0d45-44ac-b62c-53617ee6e9d1",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "30687d5f-a952-4fd9-97bd-b9817aa9d845",
+   "business_id": "62961929-6f86-45f0-bbb7-5e5aed159c4e",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d197f791-3853-4ca5-ae10-3a9b8c09e108",
+   "business_id": "58b81ebd-5d4e-47f9-8053-20500c5af848",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2827a793-688f-4e26-a93a-3c682d4e2e2d",
+   "business_id": "41baabc1-d3ce-44fe-aa6a-1821f496040b",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

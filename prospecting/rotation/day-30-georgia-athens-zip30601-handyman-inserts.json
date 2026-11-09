@@ -1,0 +1,149 @@
+{
+  "businesses": [
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "ad10c454-54ed-496f-9594-f49f8a6623f0",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Smart Home Repair, LLC",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(706) 970-9267",
+      "phone_verified": false,
+      "service_zips": [
+        "30601"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.shomerepair.com/services/tree_removal_athens"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "c0720429-a936-464b-b7c0-2560f73003bf",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Ace Handyman Services Northeast Georgia",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(706) 251-8811",
+      "phone_verified": false,
+      "service_zips": [
+        "30601",
+        "30606"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.acehandymanservices.com/offices/northeast-georgia"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "2401293f-050b-490f-a0c1-11c87b22a1b1",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Athens Property Maintenance",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(706) 436-4586",
+      "phone_verified": false,
+      "service_zips": [
+        "30601",
+        "30605"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://athenspropertymaintenance.com/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "8f92fe0d-dbc0-492c-80a5-25cff0f68f7f",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "The Trusted Toolbox Of Athens",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(706) 621-6010",
+      "phone_verified": false,
+      "service_zips": [
+        "30601",
+        "30606"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.thetrustedtoolbox-athens.com/"
+    },
+    {
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "acc69b6e-02b4-43cb-bb3a-1aa33bcc42eb",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "JOMA Construction",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(706) 372-1052",
+      "phone_verified": false,
+      "service_zips": [
+        "30601"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.jomaconstruction.com/watkinsville-ga-home-repairs"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "ad10c454-54ed-496f-9594-f49f8a6623f0",
+      "id": "2231413a-83a1-4026-a2c8-a2946793c81a",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "c0720429-a936-464b-b7c0-2560f73003bf",
+      "id": "c09298fd-b9a2-4b85-9b71-de8fa939d822",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "2401293f-050b-490f-a0c1-11c87b22a1b1",
+      "id": "9e651cd5-456d-47d7-8133-d56250554188",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "8f92fe0d-dbc0-492c-80a5-25cff0f68f7f",
+      "id": "690ae2e9-cbd0-48d1-9a1f-046e20801712",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "business_id": "acc69b6e-02b4-43cb-bb3a-1aa33bcc42eb",
+      "id": "e5ccb167-a4c2-4a0a-80c8-47bb34f024f5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

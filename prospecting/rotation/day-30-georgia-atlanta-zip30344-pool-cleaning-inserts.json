@@ -1,0 +1,207 @@
+{
+ "businesses": [
+  {
+   "id": "8faaa586-73ec-4eb0-9ffe-a2584c8084f8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Andy's Pool Service",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(404) 355-8218",
+   "website": "https://www.andyspoolservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344",
+    "30339"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2fa42ad9-1a14-453a-9346-a09e013c88ad",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ASP - America's Swimming Pool Company of Atlanta",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(404) 905-3475",
+   "website": "https://www.ASPPOOLCO.COM/atlanta/services/pool-cleaning/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344",
+    "30324"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5ee8eb60-7054-4af2-ad59-9bcd1530d1a5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pool Troopers",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(470) 802-4493",
+   "website": "https://pooltroopers.com/locations/atlanta-ga-pool-service/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344",
+    "30340"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "be5919a5-38c6-46de-8ed3-a7ba8a3b39d0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "iClean Pools Atlanta",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(404) 790-9032",
+   "website": "https://www.icleanpoolsatlanta.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344",
+    "30338"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7add36bd-f4a3-43c4-8a94-79984002fb1c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sweetwater Pool Service",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(770) 939-5757",
+   "website": "http://www.sweetwaterpools.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344",
+    "30084"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "10fcbcd3-604a-41f6-9d13-53920e711a87",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Suave Pools",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(770) 203-9079",
+   "website": "https://www.suavepools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b95f2d9a-61ce-4029-af2c-922f1b0f238a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Premier Pool Service of Atlanta South",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(470) 730-1888",
+   "website": "https://premierpoolservice.com/pool-service/georgia/atlanta-south/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "30344"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "c78452aa-0011-4d56-a6da-7511a8ca4903",
+   "business_id": "8faaa586-73ec-4eb0-9ffe-a2584c8084f8",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "406d2727-acd0-42ca-9ce4-2d7acb63c653",
+   "business_id": "2fa42ad9-1a14-453a-9346-a09e013c88ad",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f2d40e22-3121-4ef6-981e-71dbcd8dac35",
+   "business_id": "5ee8eb60-7054-4af2-ad59-9bcd1530d1a5",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d14c7aa2-0abc-49f5-843e-def034df1565",
+   "business_id": "be5919a5-38c6-46de-8ed3-a7ba8a3b39d0",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2d73777d-1aee-4829-aa03-1c3b4fae91a7",
+   "business_id": "7add36bd-f4a3-43c4-8a94-79984002fb1c",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "aa5c4cbe-f452-40db-9309-3cd3155f7932",
+   "business_id": "10fcbcd3-604a-41f6-9d13-53920e711a87",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7c72f5b0-5da1-4387-bdb2-d1ef67a6146a",
+   "business_id": "b95f2d9a-61ce-4029-af2c-922f1b0f238a",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

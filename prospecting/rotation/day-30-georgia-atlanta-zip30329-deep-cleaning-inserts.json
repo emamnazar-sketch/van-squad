@@ -1,0 +1,203 @@
+{
+  "businesses": [
+    {
+      "id": "0f626507-33fa-440b-8ce0-ba8daa6180f9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Haven Method",
+      "category": "Deep cleaning",
+      "phone": "(678) 740-3589",
+      "website": "https://www.myhavenmethod.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "35e4cd63-4703-436c-a9bb-226ae9f01a67",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prime Home Experience",
+      "category": "Deep cleaning",
+      "phone": "(470) 418-1841",
+      "website": "https://primehomeexperienc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "065f1741-2415-4d91-8e7a-cd59faba998b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gomes Cleaning LLC",
+      "category": "Deep cleaning",
+      "phone": "(404) 454-5910",
+      "website": "https://www.gomescleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329",
+        "30358"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "05551e85-9436-4f56-8800-bbf83975fadf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "IKO Cleaning Services",
+      "category": "Deep cleaning",
+      "phone": "(404) 770-9352",
+      "website": "https://ikocleaningservicesga.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ab9d791d-41b0-4b96-b979-d0e35a0448f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Immaculate Cleans",
+      "category": "Deep cleaning",
+      "phone": "(770) 568-3138",
+      "website": "https://immaculatecleans.com/services/deep-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "813d3f08-3123-4948-a059-12a599348ce7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zenny's Cleaning LLC",
+      "category": "Deep cleaning",
+      "phone": "(404) 436-3693",
+      "website": "https://zennyscleaningsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ee68735d-a6b4-4083-8ac5-7b7d96a644d6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "PolishLane",
+      "category": "Deep cleaning",
+      "phone": "(470) 631-6333",
+      "website": "https://polishlane.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "30329"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "09021a4b-f185-45ec-a869-fd52e3073b69",
+      "business_id": "0f626507-33fa-440b-8ce0-ba8daa6180f9",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "de129a52-5d14-4849-aba8-5e729433608f",
+      "business_id": "35e4cd63-4703-436c-a9bb-226ae9f01a67",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dc89f741-7693-41ec-8bdd-d25ebd51c905",
+      "business_id": "065f1741-2415-4d91-8e7a-cd59faba998b",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d9953c84-259c-46ec-9d78-35f851bd104a",
+      "business_id": "05551e85-9436-4f56-8800-bbf83975fadf",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7ddbd2f4-afcb-4f6d-ac76-81ff0b1c4005",
+      "business_id": "ab9d791d-41b0-4b96-b979-d0e35a0448f8",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "902045af-313b-4ddc-a055-fe54231dc8a3",
+      "business_id": "813d3f08-3123-4948-a059-12a599348ce7",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f8479519-8f0c-41d3-a824-e0458619191c",
+      "business_id": "ee68735d-a6b4-4083-8ac5-7b7d96a644d6",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
