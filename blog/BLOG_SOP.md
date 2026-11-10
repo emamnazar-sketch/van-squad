@@ -91,5 +91,9 @@ nothing builds or publishes without his approval.
   5 FAQs, disclosure, sources) and stays ≤1,000 words / 5-minute read, with 2–3 planned images
   noted in the draft (simple, ultra-realistic, bright — the standing image hard rule; new scenes,
   never repeated from an earlier post).
+- **NO SOURCES BOX on the published page (Amam, 2026-11-09 — hard rule):** The published page
+  carries NO Sources box/section — sources live in the draft file only. Drafts still record every
+  source with its full URL; the built post (js/blog.js body + static page) never renders a sources
+  section — the article ends with the FAQs plus the standard CTA / Keep-reading blocks.
 - **The old generic nationwide daily draft is retired** (job disabled Oct 23, 2026). The 8 existing
   nationwide posts stay live; this series is all new production.
