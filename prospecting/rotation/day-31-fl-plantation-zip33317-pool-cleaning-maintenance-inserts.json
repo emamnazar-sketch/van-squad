@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "b1cd4cce-f6a2-43ff-b435-5e5cef682311",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Plantation Pools LLC",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(954) 395-0773",
+   "website": "http://www.plantationpoolsllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4423c7dc-510a-48af-a691-1edb7fbeefc1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Hydro Blue Services",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(754) 444-9511",
+   "website": "https://hydroblueservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "46309606-1272-40ec-b0f2-72551a6e7872",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Florida Pool Sharks",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(954) 376-4793",
+   "website": "https://floridapoolshark.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cec07de3-a230-41eb-9388-6c0ca32b583a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Master Touch Outdoor Living",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(561) 674-6909",
+   "website": "https://mastertouchpools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d9f8616c-bcfc-4229-b788-3a8637b05b5c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Men and a Skimmer LLC",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(954) 608-9595",
+   "website": "http://www.twomenandaskimmer.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "106c42ac-0679-42fd-b198-9d52d27a10e3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "General Pool And Spa, Inc.",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(954) 803-4923",
+   "website": "https://www.generalpoolspa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "38d7926b-79b6-4bd4-8ec5-b47a464843b0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sublime Pools & Spa",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(754) 260-7193",
+   "website": "https://sublimepools.net/pool-services/commercial-pool-maintenance/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5ead0828-fbef-4ad3-bedb-edd9f4fc1d8a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Aqua King Pool Services",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(954) 547-7300",
+   "website": "https://aquakingpoolservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33317"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "3019177b-9d65-40d1-82d7-6541ebd35e4f",
+   "business_id": "b1cd4cce-f6a2-43ff-b435-5e5cef682311",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "04f848ba-e3d5-4082-9303-417233261422",
+   "business_id": "4423c7dc-510a-48af-a691-1edb7fbeefc1",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "44ec2210-4742-4b2b-bf5e-b135f58f2bc4",
+   "business_id": "46309606-1272-40ec-b0f2-72551a6e7872",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "db0ce5ff-4314-494c-bb00-e34a950c858c",
+   "business_id": "cec07de3-a230-41eb-9388-6c0ca32b583a",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7262a87a-ef8e-4179-b585-1207d1f6c1b8",
+   "business_id": "d9f8616c-bcfc-4229-b788-3a8637b05b5c",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a5d93ddb-6e34-492a-8538-d2c38fae1626",
+   "business_id": "106c42ac-0679-42fd-b198-9d52d27a10e3",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "346e9a96-8c37-435b-9bae-01e1ee807083",
+   "business_id": "38d7926b-79b6-4bd4-8ec5-b47a464843b0",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4403cfb8-681a-4752-ad81-91e4915c5fff",
+   "business_id": "5ead0828-fbef-4ad3-bedb-edd9f4fc1d8a",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

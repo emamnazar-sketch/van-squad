@@ -1,0 +1,258 @@
+{
+ "businesses": [
+  {
+   "id": "a9ec2045-bd01-4c09-b4c4-7d250ad29284",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Jay's Spray Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(754) 971-6403",
+   "website": "https://jaysspray.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c760cdd4-08a1-40c0-af8f-dd748d415364",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Marathon Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(786) 832-1854",
+   "website": "http://marathonmobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "42322b22-3583-4e21-a03c-e14d181e41a2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "JC Mobile Complete Car Wash",
+   "category": "Mobile auto detailing",
+   "phone": "(954) 394-0851",
+   "website": "https://jcmobilecompletcarwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "762cca53-606c-42bc-9418-21d9fa27ee5a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wet Mobile Car Wash",
+   "category": "Mobile auto detailing",
+   "phone": "(786) 278-5382",
+   "website": "https://www.wetmobilecarwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f5a953f5-0332-4b3c-a6c4-f0cbb85dbc0c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eco Car Care",
+   "category": "Mobile auto detailing",
+   "phone": "(954) 944-2906",
+   "website": "https://www.ecocarcarefl.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f936a87c-b600-4d97-a3fc-057aefae4081",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Nside Out Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(352) 256-0572",
+   "website": "https://www.nsideoutdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7d4803df-ed78-40c7-8def-a90b72cbd268",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Magic City Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(305) 306-8078",
+   "website": "https://www.magiccitydetailingmiami.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "985b0325-db49-4989-beac-a25d20549495",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Andres Detail and Wash",
+   "category": "Mobile auto detailing",
+   "phone": "(754) 465-4110",
+   "website": "https://andresdetailandwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c17e6f28-fda0-4c60-b37b-5c0e16f59f27",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "True Wash",
+   "category": "Mobile auto detailing",
+   "phone": "(561) 428-5826",
+   "website": "https://www.truewash.us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33020"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "8d42b1d3-ec6c-4ed2-864c-931b6b322a74",
+   "business_id": "a9ec2045-bd01-4c09-b4c4-7d250ad29284",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3de3a7ba-e049-4f5e-b003-4104d451382d",
+   "business_id": "c760cdd4-08a1-40c0-af8f-dd748d415364",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ecd535e7-baa9-4919-998d-bbbb99206fa9",
+   "business_id": "42322b22-3583-4e21-a03c-e14d181e41a2",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7c033c2a-3c02-4c6d-bc04-de57d46ebefd",
+   "business_id": "762cca53-606c-42bc-9418-21d9fa27ee5a",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "897f4489-7ff1-4cb7-8f3f-aa516635bd8a",
+   "business_id": "f5a953f5-0332-4b3c-a6c4-f0cbb85dbc0c",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "730d789d-e4f3-4e02-a10c-832cff9696ae",
+   "business_id": "f936a87c-b600-4d97-a3fc-057aefae4081",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6b1e35db-5da8-46ac-b847-f08a7dff9286",
+   "business_id": "7d4803df-ed78-40c7-8def-a90b72cbd268",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8919ff59-0fbe-4ebb-9519-f9cfd88bb7c0",
+   "business_id": "985b0325-db49-4989-beac-a25d20549495",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "03de67de-2e7c-43a9-8da4-f759e059122d",
+   "business_id": "c17e6f28-fda0-4c60-b37b-5c0e16f59f27",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

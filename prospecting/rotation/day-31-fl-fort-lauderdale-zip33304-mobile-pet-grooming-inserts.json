@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "f5e35190-fc94-4d43-9be7-51ea22424b66",
+      "name": "Top Dog Mobile Grooming",
+      "phone": "(954) 849-0280",
+      "category": "Mobile pet grooming",
+      "website": "http://topdogmobile.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "7bf09faf-d82e-4983-ac4d-0d6f275ad4b4",
+      "name": "Le Paw Spa",
+      "phone": "(954) 907-5482",
+      "category": "Mobile pet grooming",
+      "website": "https://lepawspa.us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "be23858f-c0ee-4107-a2ec-aebffd2c4764",
+      "name": "Fluffy Paws Mobile Pet Grooming",
+      "phone": "(561) 900-8549",
+      "category": "Mobile pet grooming",
+      "website": "https://fluffypawspetmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "a093bbd6-84e6-4b70-9be0-c0fc4404161c",
+      "name": "Fluffy Crew Grooming",
+      "phone": "(754) 264-0807",
+      "category": "Mobile pet grooming",
+      "website": "https://www.fluffycrewgrooming.pet/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "a866a3a9-a34a-487b-9f08-f4a95497b44e",
+      "name": "Splendid Pet Spa",
+      "phone": "(754) 231-5829",
+      "category": "Mobile pet grooming",
+      "website": "https://splendidpetspa.com/mobile-pet-spa/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "9bd71df4-a4b0-4790-a7d4-bffe282bf523",
+      "name": "Fuzzy Friends Mobile Pet Spa",
+      "phone": "(954) 320-6480",
+      "category": "Mobile pet grooming",
+      "website": "http://www.fuzzyfriendsmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "c232bdfe-3b54-410b-96d8-26ced6931278",
+      "name": "Happy Paws Mobile Grooming",
+      "phone": "(954) 643-2440",
+      "category": "Mobile pet grooming",
+      "website": "https://www.happypawsgrooming21.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33304"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "fe155686-376f-4003-a454-bd2fc7077dff",
+      "business_id": "f5e35190-fc94-4d43-9be7-51ea22424b66",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "442a8a7c-6bd7-4673-8a7c-6a423f2118b0",
+      "business_id": "7bf09faf-d82e-4983-ac4d-0d6f275ad4b4",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "75e94a79-4a7c-4345-b178-d97dbbaece5b",
+      "business_id": "be23858f-c0ee-4107-a2ec-aebffd2c4764",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "620640cf-6869-48b6-b5c3-97c388c9e41e",
+      "business_id": "a093bbd6-84e6-4b70-9be0-c0fc4404161c",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d65a0fd3-f463-441a-900f-5f5abc9d02eb",
+      "business_id": "a866a3a9-a34a-487b-9f08-f4a95497b44e",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "71cb6d4a-5aa4-4df5-8196-4e5266163ce3",
+      "business_id": "9bd71df4-a4b0-4790-a7d4-bffe282bf523",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "052a0be0-328c-4405-b8d1-8387cc7daf4c",
+      "business_id": "c232bdfe-3b54-410b-96d8-26ced6931278",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

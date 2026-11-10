@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "310461e4-49ec-455e-b366-8f07f6884a5e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Fort Lauderdale",
+      "category": "House cleaning",
+      "phone": "(954) 606-6311",
+      "website": "https://www.maidpro.com/fort-lauderdale/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "27e05020-f597-4a7f-a7ae-30e3a1581799",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Super Cleaning Woman Services",
+      "category": "House cleaning",
+      "phone": "(954) 670-7527",
+      "website": "https://supercleaningwomanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4cb13fc8-dfb3-4784-b6d1-e516765bda05",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Butlers Home Services",
+      "category": "House cleaning",
+      "phone": "(954) 812-8005",
+      "website": "https://butlershomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c4250bb-14dc-4ac5-8d89-bad807e0eea6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Talent Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(561) 766-0049",
+      "website": "https://talentcleaningfl.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ead0de58-5b03-4497-adad-39c3d7c6e29e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Angela's Angels LLC",
+      "category": "House cleaning",
+      "phone": "(954) 552-2315",
+      "website": "https://angelasangel.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6a1af7ff-e6ca-4492-aaac-bd2771edd13c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Millia Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(954) 859-9400",
+      "website": "https://www.milliacleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "42cf7140-cfb2-49fc-b1f5-f01d1def8b87",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elevated Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(754) 354-4442",
+      "website": "https://elevated.cleaning/cleaning-services-fort-lauderdale/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33311"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3ee6d121-8740-49a9-8389-5dec95281619",
+      "business_id": "310461e4-49ec-455e-b366-8f07f6884a5e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5ce6e1a7-bee5-4607-9311-5ec7cc46d299",
+      "business_id": "27e05020-f597-4a7f-a7ae-30e3a1581799",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b73ceddc-3d62-47a5-ae2e-364787040c97",
+      "business_id": "4cb13fc8-dfb3-4784-b6d1-e516765bda05",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3a8d57bc-f3bf-44ce-b5ef-77e3218fd6fd",
+      "business_id": "9c4250bb-14dc-4ac5-8d89-bad807e0eea6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a77029bb-40a5-48a2-b23d-83156cb145ae",
+      "business_id": "ead0de58-5b03-4497-adad-39c3d7c6e29e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8ad20470-b0e4-477e-8bb2-08dfe26b75da",
+      "business_id": "6a1af7ff-e6ca-4492-aaac-bd2771edd13c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "557d9fda-6dec-44ed-afb8-f18eb2396e7e",
+      "business_id": "42cf7140-cfb2-49fc-b1f5-f01d1def8b87",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

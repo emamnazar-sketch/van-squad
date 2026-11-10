@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "c2c8dd2a-5f7b-4959-a2ec-6359ec13c100",
+      "name": "4 Paws Mobile Dog Grooming",
+      "phone": "(786) 505-0616",
+      "category": "Mobile pet grooming",
+      "website": "https://terri4paws.my.canva.site/terri-website-4-paws",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33189"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "a589666d-38f4-4e7f-a1bf-282b49a3422e",
+      "name": "Poochie On Your Block",
+      "phone": "(305) 666-4669",
+      "category": "Mobile pet grooming",
+      "website": "https://poochieonyourblock.com/services/mobile-grooming/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33189"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "977ebc32-c2ff-45a4-9ab2-c5664cd89835",
+      "name": "The Hammocks Mobile Pet Grooming",
+      "phone": "(305) 614-5838",
+      "category": "Mobile pet grooming",
+      "website": "https://mobilepetgroomermiami.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33189"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "bd75f334-b499-4cd1-8212-c3d0e16cd272",
+      "name": "Exclusive Pet Grooming",
+      "phone": "(786) 202-0404",
+      "category": "Mobile pet grooming",
+      "website": "https://exclusivepetgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33189"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "2d81b3bb-25cc-412c-8fe3-d3849b2ed05e",
+      "name": "Kontota Mobile Dog Grooming - Cutler Bay, FL",
+      "phone": "(786) 310-3228",
+      "category": "Mobile pet grooming",
+      "website": "https://kontota.com/mobile-dog-grooming-cutler-bay-fl/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33189"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "ff4c62e6-8dea-41e8-9439-0ceeb6dfc86c",
+      "name": "The Doggy Machine",
+      "phone": "(786) 872-6077",
+      "category": "Mobile pet grooming",
+      "website": "https://www.thedoggymachine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33189"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "80bafdeb-7270-460d-aa0c-af9556afaf46",
+      "business_id": "c2c8dd2a-5f7b-4959-a2ec-6359ec13c100",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2b637c0c-8c26-4f58-8e58-255bcf1e0e26",
+      "business_id": "a589666d-38f4-4e7f-a1bf-282b49a3422e",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "11a178b8-76ef-44ab-971e-917aa9e2aca5",
+      "business_id": "977ebc32-c2ff-45a4-9ab2-c5664cd89835",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "08cfd47d-09ba-46e0-8a40-14b1dab8ee59",
+      "business_id": "bd75f334-b499-4cd1-8212-c3d0e16cd272",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f690cc7-7ff1-4be7-94b7-0f77d4c7eaa0",
+      "business_id": "2d81b3bb-25cc-412c-8fe3-d3849b2ed05e",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "df8263ba-0a85-420c-ac3f-0ad068e30d3b",
+      "business_id": "ff4c62e6-8dea-41e8-9439-0ceeb6dfc86c",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

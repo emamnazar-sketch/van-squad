@@ -1,0 +1,235 @@
+{
+ "businesses": [
+  {
+   "id": "8bffd500-e361-43f2-a6a7-7e0819b845ac",
+   "name": "Pro Handyman Miami",
+   "phone": "(305) 832-1140",
+   "category": "Handyman",
+   "website": "https://www.prohandymanmia.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "374ee742-f7ae-4a69-a27d-d9022a4090d8",
+   "name": "Pratt Brothers Handyman Services",
+   "phone": "(786) 531-1578",
+   "category": "Handyman",
+   "website": "https://handymanpratt.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175",
+    "33173"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "47885021-ea44-47b0-b39d-6107e303cfe7",
+   "name": "Alma Maintenance & Services",
+   "phone": "(786) 251-5106",
+   "category": "Handyman",
+   "website": "http://www.almamaintenance.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175",
+    "33173"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "308ccaf9-8e6c-4bb5-a025-af57a8c379fc",
+   "name": "Mr. Handyman serving Miami, and Aventura to Kendall",
+   "phone": "(305) 417-6049",
+   "category": "Handyman",
+   "website": "https://www.mrhandyman.com/miami-aventura-kendall/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175",
+    "33156"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "0b6116fe-6e80-4649-bf80-1d575fa21c8c",
+   "name": "Ace Handyman Services Miami Kendall",
+   "phone": "(305) 570-0910",
+   "category": "Handyman",
+   "website": "https://www.acehandymanservices.com/miami-kendall",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175",
+    "33176"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "29acef98-f332-4521-a531-5a8c19013791",
+   "name": "Kaminskiy Care + Repair",
+   "phone": "(786) 527-2055",
+   "category": "Handyman",
+   "website": "https://careandrepair.com/fl/miami-handyman-service/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175",
+    "33134"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "7a1cfdea-78f2-4846-b7fd-c104d7884b1c",
+   "name": "Green Check Handyman Services",
+   "phone": "(786) 719-5097",
+   "category": "Handyman",
+   "website": "https://greencheckhandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "82e8365d-d16d-49b6-96f2-0a03077b82b2",
+   "name": "USA HANDY Solutions",
+   "phone": "(305) 610-0859",
+   "category": "Handyman",
+   "website": "https://usahandyllc.wixsite.com/my-site-2",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33175"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "d330876c-ce56-49a3-a486-67d8929bfc5f",
+   "business_id": "8bffd500-e361-43f2-a6a7-7e0819b845ac",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e128b0c6-4ecc-44af-8992-315ecefc8a83",
+   "business_id": "374ee742-f7ae-4a69-a27d-d9022a4090d8",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2daa8636-f551-4f00-b835-6b630710f1f4",
+   "business_id": "47885021-ea44-47b0-b39d-6107e303cfe7",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "25b4e7fe-6feb-4eb1-bb03-657e80665386",
+   "business_id": "308ccaf9-8e6c-4bb5-a025-af57a8c379fc",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5a8928f4-4f6a-40c9-8500-474e1ba3b307",
+   "business_id": "0b6116fe-6e80-4649-bf80-1d575fa21c8c",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dbae4c71-2061-47c5-8f00-cd3739c63043",
+   "business_id": "29acef98-f332-4521-a531-5a8c19013791",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "16ff3afe-b3e9-45a6-bd3d-17b50f21b327",
+   "business_id": "7a1cfdea-78f2-4846-b7fd-c104d7884b1c",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3ab1d8e2-442e-42a1-95b4-3d972ff4f9cf",
+   "business_id": "82e8365d-d16d-49b6-96f2-0a03077b82b2",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+  "businesses": [
+    {
+      "id": "31e4c48c-a7ad-41e2-81ed-cf127c4467e9",
+      "name": "Boca's Best Handyman",
+      "phone": "(561) 599-2901",
+      "category": "Handyman",
+      "website": "https://bocasbesthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "8d7c902d-3fb8-4f20-973b-2b219ba24b0e",
+      "name": "Lang Repairs & Maintenance",
+      "phone": "(561) 206-8812",
+      "category": "Handyman",
+      "website": "http://langrepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "9ed93f30-e279-4731-80f4-3fb5da0280df",
+      "name": "Trav's Handyman Service LLC",
+      "phone": "(561) 299-8025",
+      "category": "Handyman",
+      "website": "http://handymanboca.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "2e6da4be-80bd-48e2-921b-daaef88c3877",
+      "name": "Home Dudes Florida",
+      "phone": "(561) 336-1231",
+      "category": "Handyman",
+      "website": "https://www.homedudesflorida.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "ed4db0ac-41ab-497f-95c4-16405ef7aea3",
+      "name": "Palm Beach FL Handyman",
+      "phone": "(561) 203-5929",
+      "category": "Handyman",
+      "website": "https://palmbeachflhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "f8922754-2d47-4c0a-8dda-37174866a5f1",
+      "name": "Handyman Home Repair Services S. Fla. LLC",
+      "phone": "(954) 817-3134",
+      "category": "Handyman",
+      "website": "https://handymanhomerepairservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "15a19d1e-bc98-4482-ad4e-0c15ee122722",
+      "name": "Tarpon Tools",
+      "phone": "(561) 228-4342",
+      "category": "Handyman",
+      "website": "https://tarpontools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33432",
+        "33426"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "035f1f08-61de-4e97-a0f5-e9f2b2c55996",
+      "business_id": "31e4c48c-a7ad-41e2-81ed-cf127c4467e9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "16db9a56-e412-4434-9c00-341f5160fdf4",
+      "business_id": "8d7c902d-3fb8-4f20-973b-2b219ba24b0e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "13295773-a172-4e44-90a2-82aa93b13e03",
+      "business_id": "9ed93f30-e279-4731-80f4-3fb5da0280df",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "39110e5e-de16-462d-bfca-a9d8e6d1bfe3",
+      "business_id": "2e6da4be-80bd-48e2-921b-daaef88c3877",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "810f5f73-e45b-4905-8396-4a1383f41487",
+      "business_id": "ed4db0ac-41ab-497f-95c4-16405ef7aea3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d216677d-016c-43be-98a6-0118d2ecfbdc",
+      "business_id": "f8922754-2d47-4c0a-8dda-37174866a5f1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7dc91eeb-3f0c-487e-8038-1bfbf7b2fdbc",
+      "business_id": "15a19d1e-bc98-4482-ad4e-0c15ee122722",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

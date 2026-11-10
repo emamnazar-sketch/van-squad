@@ -1,0 +1,234 @@
+{
+ "businesses": [
+  {
+   "id": "88aa05bf-2088-4392-8853-ec59d37a7682",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "GWS Pressure Cleaning",
+   "category": "Pressure washing",
+   "phone": "(786) 780-7189",
+   "website": "https://www.gwspressurecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186",
+    "33166"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e7aa66c9-f03a-4d46-aa30-435c700f0cb0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Precision ProWash of Miami",
+   "category": "Pressure washing",
+   "phone": "(305) 281-7253",
+   "website": "https://www.precisionprowashmiami.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3be84185-bf6f-4809-882e-40f49f547fd9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Miami Softwash & Pressure Cleaning",
+   "category": "Pressure washing",
+   "phone": "(786) 550-4483",
+   "website": "http://www.bookmiamisoftwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186",
+    "33155"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4b01d578-b587-48d7-b130-477af26bc8d2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bison Soft and Pressure Wash",
+   "category": "Pressure washing",
+   "phone": "(786) 957-0050",
+   "website": "https://www.bisonsoftandpressurewash.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3580788e-af38-462c-9ebf-72fdbe8eb3fa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Washing South FL",
+   "category": "Pressure washing",
+   "phone": "(305) 390-1540",
+   "website": "https://www.pressurewashingsouthfl.com/service-areas/kendall/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a52f447a-1e88-4fc3-8ffd-abcf7b627801",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "LZ Pressure Cleaning LLC",
+   "category": "Pressure washing",
+   "phone": "(786) 720-3759",
+   "website": "https://lzexteriors.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186",
+    "33157"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "02ccf0db-fe4d-4c67-b212-dedb14f0ba35",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Washed Florida",
+   "category": "Pressure washing",
+   "phone": "(786) 747-2333",
+   "website": "https://washedflorida.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "12e4261c-8b68-4529-be57-b2ca56a2783c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Kleanway Cleaning Services",
+   "category": "Pressure washing",
+   "phone": "(305) 247-3532",
+   "website": "https://www.kleanwaypressurecleaning.com/kendall-roof-cleaning/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33186",
+    "33033"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "97f635b0-4046-4611-973a-e91c5df43904",
+   "business_id": "88aa05bf-2088-4392-8853-ec59d37a7682",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "722a3542-b626-4f33-935d-c1b0ba453e93",
+   "business_id": "e7aa66c9-f03a-4d46-aa30-435c700f0cb0",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d634ec18-1081-4403-8843-6e2d79290d34",
+   "business_id": "3be84185-bf6f-4809-882e-40f49f547fd9",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d9736254-9fb6-4a2e-9207-97b184ac95ae",
+   "business_id": "4b01d578-b587-48d7-b130-477af26bc8d2",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "74277f37-ef88-4443-ad59-807480f3c64e",
+   "business_id": "3580788e-af38-462c-9ebf-72fdbe8eb3fa",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "db0e88a7-bc6b-4bac-ba10-cc7469275c49",
+   "business_id": "a52f447a-1e88-4fc3-8ffd-abcf7b627801",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1f6f5219-448f-4456-9e43-a613f869971d",
+   "business_id": "02ccf0db-fe4d-4c67-b212-dedb14f0ba35",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f8d7e5db-dd29-4e61-81bb-4d7886aa2d94",
+   "business_id": "12e4261c-8b68-4529-be57-b2ca56a2783c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

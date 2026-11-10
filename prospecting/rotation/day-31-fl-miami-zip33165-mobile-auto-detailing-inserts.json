@@ -1,0 +1,258 @@
+{
+ "businesses": [
+  {
+   "id": "5656baed-abd8-4e3f-b685-2c4827585a5a",
+   "name": "Ale's Mobile Detailing",
+   "phone": "(728) 203-0637",
+   "category": "Mobile auto detailing",
+   "website": "https://www.alesmobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "a57436d4-2918-4f86-af76-b3f4be232446",
+   "name": "Miami Prestige Mobile Detailing",
+   "phone": "(305) 300-6059",
+   "category": "Mobile auto detailing",
+   "website": "https://www.miamiprestigemobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "550f573c-9158-4a99-bbe4-9c2cb2a504cf",
+   "name": "S Class Auto Aesthetics",
+   "phone": "(786) 983-4824",
+   "category": "Mobile auto detailing",
+   "website": "https://sclassautoaesthetics.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "9a70c864-1e8c-49b1-a5d2-b3436626d00a",
+   "name": "First Class Detail",
+   "phone": "(305) 337-0998",
+   "category": "Mobile auto detailing",
+   "website": "https://first-class-detail.vercel.app/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "ab8c4d3f-71b6-4c91-89ed-90b702435dab",
+   "name": "DShine Details",
+   "phone": "(786) 438-6517",
+   "category": "Mobile auto detailing",
+   "website": "https://www.dshinedetails.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "6bc3b99e-8cf1-4fc2-81d1-129baef886e2",
+   "name": "Mobile Car Wash Miami",
+   "phone": "(305) 306-4882",
+   "category": "Mobile auto detailing",
+   "website": "https://www.mobilecarwashmiami.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "a3774144-90f0-4410-a767-5579e8cf8358",
+   "name": "Highest Details",
+   "phone": "(786) 303-5059",
+   "category": "Mobile auto detailing",
+   "website": "https://highestdetails.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "f035d6ee-738b-4562-9b43-9f839693f5fa",
+   "name": "WUSH",
+   "phone": "(786) 305-8769",
+   "category": "Mobile auto detailing",
+   "website": "https://www.carwush.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "00107e33-bca1-4144-a967-7f6bc6622f69",
+   "name": "Shelb Detailing",
+   "phone": "(786) 917-0584",
+   "category": "Mobile auto detailing",
+   "website": "http://shelb-detailing.tilda.ws",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33165"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "25451861-ab1c-4720-a890-84dd78ddb3e2",
+   "business_id": "5656baed-abd8-4e3f-b685-2c4827585a5a",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f3965ef2-ebf2-449e-9366-ad2df646baab",
+   "business_id": "a57436d4-2918-4f86-af76-b3f4be232446",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ac603b61-ff2f-4e55-8367-869d6de0e50d",
+   "business_id": "550f573c-9158-4a99-bbe4-9c2cb2a504cf",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5a5cf84d-855f-4666-b4d5-8c3f64063e1c",
+   "business_id": "9a70c864-1e8c-49b1-a5d2-b3436626d00a",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "96970afc-50f9-4967-b234-3053217be511",
+   "business_id": "ab8c4d3f-71b6-4c91-89ed-90b702435dab",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d79982ae-9820-4ffd-bab7-7f7d4c3aaf1f",
+   "business_id": "6bc3b99e-8cf1-4fc2-81d1-129baef886e2",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c6c7fdf7-6c9e-446c-b991-1009ebe6c936",
+   "business_id": "a3774144-90f0-4410-a767-5579e8cf8358",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "47300cea-dfa6-4aed-97df-e966b1f238ac",
+   "business_id": "f035d6ee-738b-4562-9b43-9f839693f5fa",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fcc52bd5-9b4e-453a-adf9-c7d896f6a1e8",
+   "business_id": "00107e33-bca1-4144-a967-7f6bc6622f69",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

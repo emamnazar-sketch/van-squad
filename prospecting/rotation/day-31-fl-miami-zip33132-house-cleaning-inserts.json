@@ -1,0 +1,265 @@
+{
+  "businesses": [
+    {
+      "id": "92477311-c69e-4358-b2a5-316e97b63843",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Ready Miami",
+      "category": "House cleaning",
+      "phone": "(786) 275-3076",
+      "website": "https://cleanreadymiami.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "17ba951d-af59-4742-9cfb-a649713cfafb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SoClean Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(786) 780-7039",
+      "website": "http://miamisoclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "088f061c-2da5-411a-b410-55be0bf9b37e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Svc",
+      "category": "House cleaning",
+      "phone": "(305) 800-6243",
+      "website": "https://www.maidsvc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fc00d98f-37be-4c3a-aaeb-a6dd061525f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "305 Cleaning",
+      "category": "House cleaning",
+      "phone": "(786) 930-7427",
+      "website": "https://305cleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08525722-3beb-4b0f-8e4e-8d68e0db067d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Prime Cleaner",
+      "category": "House cleaning",
+      "phone": "(305) 575-2776",
+      "website": "http://www.theprimecleaner.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f46982c5-a7e7-41eb-929e-fc2fdb5f6923",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sweet Maid Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(305) 851-6959",
+      "website": "https://www.sweetmaidcleaning.com/miami-fl/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132",
+        "33129",
+        "33130",
+        "33131",
+        "33133",
+        "33137",
+        "33146",
+        "33156"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "37231de9-f34b-4cb0-ad23-bb2435f5b2e1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkly Maid Miami",
+      "category": "House cleaning",
+      "phone": "(305) 990-1669",
+      "website": "https://www.sparklymaidmiami.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "effc2376-2a4a-489a-8051-449a350eacf1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Miami Beach",
+      "category": "House cleaning",
+      "phone": "(305) 759-6011",
+      "website": "https://www.maidpro.com/miami-beach/maid-services-miami-beach-fl",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1f18701d-cd51-4ec4-95bd-75ca44cd9a13",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "HomeClean Cleaning Service Miami",
+      "category": "House cleaning",
+      "phone": "(786) 565-5758",
+      "website": "https://homecleanco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33132"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c7272c66-ebb5-4799-a1aa-5bb9847fab0b",
+      "business_id": "92477311-c69e-4358-b2a5-316e97b63843",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d1a25fec-8500-4360-9207-d739dd5951ce",
+      "business_id": "17ba951d-af59-4742-9cfb-a649713cfafb",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "94085587-08cc-4666-b133-6ff9929ed12f",
+      "business_id": "088f061c-2da5-411a-b410-55be0bf9b37e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "193b76b7-51c9-441d-bec4-49217b354dc6",
+      "business_id": "fc00d98f-37be-4c3a-aaeb-a6dd061525f8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "29fe2516-ad30-4b62-b6d7-c64a32e2d120",
+      "business_id": "08525722-3beb-4b0f-8e4e-8d68e0db067d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8f996f28-f8f8-4389-9299-706540454272",
+      "business_id": "f46982c5-a7e7-41eb-929e-fc2fdb5f6923",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "27974d02-0242-42fa-a3d7-7a991ad9cb56",
+      "business_id": "37231de9-f34b-4cb0-ad23-bb2435f5b2e1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3643d1d8-b9fa-4dce-832f-7bc20b097e39",
+      "business_id": "effc2376-2a4a-489a-8051-449a350eacf1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d58e8554-b7e1-4c54-8c2d-436f60038dc4",
+      "business_id": "1f18701d-cd51-4ec4-95bd-75ca44cd9a13",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

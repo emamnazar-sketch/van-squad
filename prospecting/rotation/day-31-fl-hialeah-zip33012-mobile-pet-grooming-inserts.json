@@ -1,0 +1,179 @@
+{
+  "businesses": [
+    {
+      "id": "67f7bb37-d825-4b58-9541-119d1670b34a",
+      "name": "Boujee Mobile Pet Grooming",
+      "phone": "(305) 522-2013",
+      "category": "Mobile pet grooming",
+      "website": "https://boujeepetservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33012"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "998cb491-859a-4d8c-89cb-ed519dbd86df",
+      "name": "Deluxe Mobile Pet Grooming",
+      "phone": "(786) 715-1891",
+      "category": "Mobile pet grooming",
+      "website": "https://deluxepetgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33012"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "ff24a529-0724-4fec-a8e5-e70935968d9c",
+      "name": "Mobile Dog Grooming Miami",
+      "phone": "(305) 916-6008",
+      "category": "Mobile pet grooming",
+      "website": "https://petgroominghialeah.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33012",
+        "33010",
+        "33013",
+        "33014",
+        "33016",
+        "33018"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "b5102e45-d53a-4379-bbff-86235df7e37a",
+      "name": "Galerias Mobile Pet Grooming",
+      "phone": "(786) 634-7664",
+      "category": "Mobile pet grooming",
+      "website": "https://galeriasgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33012"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "d31e2220-a86c-43fa-9d46-d07f2adeec48",
+      "name": "Minna Mobile Pet Spa",
+      "phone": "(786) 962-7310",
+      "category": "Mobile pet grooming",
+      "website": "https://www.minnamobilespa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33012"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "a89a4e86-6d94-430c-8317-5a9d75aec49b",
+      "name": "Miami Mobile Grooming",
+      "phone": "(786) 396-8593",
+      "category": "Mobile pet grooming",
+      "website": "https://miamimobilegrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "33012"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "0a22802f-22d2-4e2a-812e-3e0b3c3f3718",
+      "business_id": "67f7bb37-d825-4b58-9541-119d1670b34a",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65f603dd-85f9-4c55-9966-5e794c25e7f5",
+      "business_id": "998cb491-859a-4d8c-89cb-ed519dbd86df",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b045350a-b413-49da-a7a7-3feb779a747a",
+      "business_id": "ff24a529-0724-4fec-a8e5-e70935968d9c",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "876aa1d1-ce0d-40b2-874a-bc93f8c22ad3",
+      "business_id": "b5102e45-d53a-4379-bbff-86235df7e37a",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b86bdede-5194-4d8d-9cf6-eb0f06a09d0e",
+      "business_id": "d31e2220-a86c-43fa-9d46-d07f2adeec48",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e54fcdb0-b9c0-425b-a341-deaeffc7f918",
+      "business_id": "a89a4e86-6d94-430c-8317-5a9d75aec49b",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

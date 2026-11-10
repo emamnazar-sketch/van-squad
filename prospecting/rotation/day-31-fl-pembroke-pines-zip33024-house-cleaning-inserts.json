@@ -1,0 +1,195 @@
+{
+ "businesses": [
+  {
+   "id": "3aeea4ea-a0c5-4099-9108-a24fa8dba91e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pembroke Pines Clean",
+   "category": "House cleaning",
+   "phone": "(954) 800-2198",
+   "website": "https://www.pembrokepinesclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2e515e31-5106-4efd-b50a-1f0c56f42557",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Cooper City",
+   "category": "House cleaning",
+   "phone": "(954) 533-0234",
+   "website": "https://www.maidpro.com/pembroke-pines",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ab8d8092-0294-452d-a990-bd0b5cd7c190",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Home Sweet Home Maid",
+   "category": "House cleaning",
+   "phone": "(954) 348-8149",
+   "website": "https://www.homesweethomemaid.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ec06b064-7022-46eb-a641-a361627c7ae0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maids in Pink",
+   "category": "House cleaning",
+   "phone": "(754) 242-7849",
+   "website": "https://themaidsinpink.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e07c7ee0-ffe1-43df-84f9-d272895a6167",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Authority - Coral Springs",
+   "category": "House cleaning",
+   "phone": "(954) 505-8013",
+   "website": "https://www.thecleaningauthority.com/coral-springs/areas-we-serve/pembroke-pines/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0cf4782d-4690-484a-87a0-652aca905bf8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "eMaids of Broward County",
+   "category": "House cleaning",
+   "phone": "(954) 271-8311",
+   "website": "https://emaidsinc.com/pembroke-pines-fl/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5c4d2c65-da2b-4392-b09a-fdf3d40a9797",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Keen Maids",
+   "category": "House cleaning",
+   "phone": "(954) 479-4780",
+   "website": "http://www.keenmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33024"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "3aeea4ea-a0c5-4099-9108-a24fa8dba91e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "2e515e31-5106-4efd-b50a-1f0c56f42557",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "ab8d8092-0294-452d-a990-bd0b5cd7c190",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "ec06b064-7022-46eb-a641-a361627c7ae0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "e07c7ee0-ffe1-43df-84f9-d272895a6167",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "0cf4782d-4690-484a-87a0-652aca905bf8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "5c4d2c65-da2b-4392-b09a-fdf3d40a9797",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

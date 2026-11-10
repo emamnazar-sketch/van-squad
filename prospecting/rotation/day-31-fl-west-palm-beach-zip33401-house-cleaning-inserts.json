@@ -1,0 +1,258 @@
+{
+ "businesses": [
+  {
+   "id": "79272628-e217-429a-974f-0619be3f9e1a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Faithful Cleaning Company",
+   "category": "House cleaning",
+   "phone": "(561) 220-2317",
+   "website": "https://www.thefaithfulcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2d796789-2a01-4f7c-8c94-0d76dc653768",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Woman's Touch Residential Cleaning Service, LLC",
+   "category": "House cleaning",
+   "phone": "(561) 899-6446",
+   "website": "https://www.awtrcs.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "76d3beaa-d3a5-4704-afc4-7589f788c004",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Magic Maid",
+   "category": "House cleaning",
+   "phone": "(561) 460-4288",
+   "website": "http://www.magicmaidus.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "871c0f8a-8bad-4330-95e1-7838b93aee83",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Anna's Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(561) 850-9499",
+   "website": "https://annascleaningservicesfl.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a825a8fb-f866-45d6-a2e0-5522c4f37bd1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "KCF Cleaning",
+   "category": "House cleaning",
+   "phone": "(728) 900-2486",
+   "website": "https://kcfcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b315f492-8f00-4a32-b181-4d23c71e9fd4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Neidys Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(561) 396-3390",
+   "website": "https://neidyscleaningservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "58530722-8e11-4010-9ac0-b1eee56fb869",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Inti Premium Cleaning Services LLC",
+   "category": "House cleaning",
+   "phone": "(561) 440-7313",
+   "website": "https://intipremiumcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "dccc951b-7be7-40c9-83ce-fd2bd2db8743",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro West Palm Beach",
+   "category": "House cleaning",
+   "phone": "(561) 684-6556",
+   "website": "https://www.maidpro.com/westpalm/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "76fe8a77-d1be-4681-bff1-9fdd78bb6ace",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleanira West Palm Beach",
+   "category": "House cleaning",
+   "phone": "(561) 652-0332",
+   "website": "https://cleanira.com/locations/west-palm-beach",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "36c0583a-0e03-4fb5-a3ef-1ba366896ec8",
+   "business_id": "79272628-e217-429a-974f-0619be3f9e1a",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "484322fe-ad34-44f4-9090-74b066ec1e17",
+   "business_id": "2d796789-2a01-4f7c-8c94-0d76dc653768",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e8cda2ae-10e4-42ba-ab00-f6a978bb9d9e",
+   "business_id": "76d3beaa-d3a5-4704-afc4-7589f788c004",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "13fc610d-f598-4e59-97fb-f1f58f68cb92",
+   "business_id": "871c0f8a-8bad-4330-95e1-7838b93aee83",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "63ce180e-083e-4ceb-9be7-48cf752d1068",
+   "business_id": "a825a8fb-f866-45d6-a2e0-5522c4f37bd1",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "786a89f6-d2b0-4cad-9461-3b728fea1388",
+   "business_id": "b315f492-8f00-4a32-b181-4d23c71e9fd4",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5056c16a-0fd0-470e-b3a4-14d9b70c32c0",
+   "business_id": "58530722-8e11-4010-9ac0-b1eee56fb869",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f21b6b34-c2f3-483a-8f61-541ac399a2bb",
+   "business_id": "dccc951b-7be7-40c9-83ce-fd2bd2db8743",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b46051c1-6662-48e7-816b-23b9fda98345",
+   "business_id": "76fe8a77-d1be-4681-bff1-9fdd78bb6ace",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

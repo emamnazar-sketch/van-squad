@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "20be48cf-7409-4404-9f09-a6f8e82a97d2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "D&D Cleaning Services USA",
+   "category": "Deep cleaning",
+   "phone": "(786) 731-5533",
+   "website": "http://www.dndcleaningservicesusa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33177"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "dbfb9247-1b57-4946-835c-0d464f17a386",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spotless Miami Cleaning Co.",
+   "category": "Deep cleaning",
+   "phone": "(786) 833-4283",
+   "website": "https://spotlessmiamicleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33177"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b3dbc426-b762-46d3-a57e-90a624239d34",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "South Florida Home Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(954) 787-2027",
+   "website": "https://southfloridahomecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33177"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e9a3aa47-f506-4e3c-a38a-acd7df394a27",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mita Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(754) 269-9647",
+   "website": "https://mitacleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "33177"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "39ff1e4b-f494-4386-9660-81dcd0a49da7",
+   "business_id": "20be48cf-7409-4404-9f09-a6f8e82a97d2",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0c10c59c-220c-42d8-a70d-baf2cc6d06d0",
+   "business_id": "dbfb9247-1b57-4946-835c-0d464f17a386",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e92810b7-e6ee-4ae1-abe2-2d97c2afcf59",
+   "business_id": "b3dbc426-b762-46d3-a57e-90a624239d34",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "51a55c93-c777-474c-a500-22dd13ddd545",
+   "business_id": "e9a3aa47-f506-4e3c-a38a-acd7df394a27",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

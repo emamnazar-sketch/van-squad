@@ -1,0 +1,206 @@
+{
+ "businesses": [
+  {
+   "id": "1a9da651-63ba-40cc-91dc-53b4ad78f4a1",
+   "name": "Ace Handyman Services South Miami Dade",
+   "phone": "(786) 698-4527",
+   "category": "Handyman",
+   "website": "https://www.acehandymanservices.com/offices/south-miami-dade/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176",
+    "33157"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "37bcaad8-55d7-4043-9d3e-b79d741c322d",
+   "name": "FixMasters Handyman",
+   "phone": "(305) 608-8820",
+   "category": "Handyman",
+   "website": "http://www.fixmastershandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "3f72451e-6f57-4df1-88ee-f618f40eac35",
+   "name": "Todo Fix Miami",
+   "phone": "(786) 451-1955",
+   "category": "Handyman",
+   "website": "https://www.todofixmiami.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "5cc65375-320d-4217-81d2-5674d8b2cedd",
+   "name": "The Grove Handyman Inc",
+   "phone": "(305) 834-1304",
+   "category": "Handyman",
+   "website": "http://www.thegrovehandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176",
+    "33143"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "dad4427b-fed8-478e-8883-41c217c66bed",
+   "name": "TRI Miami Handyman Services",
+   "phone": "(305) 744-6038",
+   "category": "Handyman",
+   "website": "https://trimiamihandymanservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "51b6c0b2-8a48-4e2e-8cba-dd2918c5b0b2",
+   "name": "Andromeda Handyman Services",
+   "phone": "(305) 799-0982",
+   "category": "Handyman",
+   "website": "https://www.andromedahandymanservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176",
+    "33142"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "7633fc3e-e8f7-4a34-b9b7-6e8d8bdd7da7",
+   "name": "Art Global Services",
+   "phone": "(786) 397-1216",
+   "category": "Handyman",
+   "website": "https://www.artglobalservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "33176",
+    "33181"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "73ca8f87-1b11-40a8-b7fd-3ae0d1dcc466",
+   "business_id": "1a9da651-63ba-40cc-91dc-53b4ad78f4a1",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f6807119-2c2d-4e47-8012-d3d4d4e80e6a",
+   "business_id": "37bcaad8-55d7-4043-9d3e-b79d741c322d",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "34ead319-8344-45a6-8e87-6efcad079f11",
+   "business_id": "3f72451e-6f57-4df1-88ee-f618f40eac35",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b813fde6-7e53-4e6e-b41d-b72340c69ee6",
+   "business_id": "5cc65375-320d-4217-81d2-5674d8b2cedd",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "96634c8f-0074-40ea-9a1f-58285c2572b4",
+   "business_id": "dad4427b-fed8-478e-8883-41c217c66bed",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ec212b92-b793-4419-aedc-d7b5d2360c3e",
+   "business_id": "51b6c0b2-8a48-4e2e-8cba-dd2918c5b0b2",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2d2c3644-3970-4544-a1db-59ec33760c90",
+   "business_id": "7633fc3e-e8f7-4a34-b9b7-6e8d8bdd7da7",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "1977f62c-5bc2-43bb-aa2d-932361f75994",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Well Clean Services",
+      "category": "House cleaning",
+      "phone": "(561) 674-8309",
+      "website": "https://wellcleanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e14053b7-67bb-437a-9d31-5eb412c1424d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Quality Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(786) 706-0501",
+      "website": "https://qualitycleaningmiami.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "98edb8f8-096d-4b3b-b2ce-13ca28bc417d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Casa Pristine",
+      "category": "House cleaning",
+      "phone": "(305) 507-3450",
+      "website": "http://www.casapristine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4cfa1fa5-b9ea-4d6c-a63a-71feff5dc98e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Shine Sisters Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(786) 574-0916",
+      "website": "https://shinesisterscorp.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c592f847-0cdf-4e20-9186-4767b2082f52",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Casa Miami",
+      "category": "House cleaning",
+      "phone": "(954) 237-8725",
+      "website": "https://cleancasamiami.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "17f41801-7b87-4eb2-ac96-ad4a44ac441b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BPS Multiservices",
+      "category": "House cleaning",
+      "phone": "(786) 867-1351",
+      "website": "http://www.bpsmultiservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c2041359-cf34-419b-b89a-57ec58b22ae6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Extreme Cleaning Lux - Miami",
+      "category": "House cleaning",
+      "phone": "(786) 538-5258",
+      "website": "https://www.extremecleaninglux.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33178"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7c880a94-0d47-4278-b19f-d7119fcbcad6",
+      "business_id": "1977f62c-5bc2-43bb-aa2d-932361f75994",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6d7c7018-72e6-4c53-a7f5-6ae924a360ce",
+      "business_id": "e14053b7-67bb-437a-9d31-5eb412c1424d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "58b5410a-f3cb-4b25-8fef-8b7c1bbb9670",
+      "business_id": "98edb8f8-096d-4b3b-b2ce-13ca28bc417d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d29f1efb-faf9-4bd3-9fe0-b34af3fb3235",
+      "business_id": "4cfa1fa5-b9ea-4d6c-a63a-71feff5dc98e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "af8ef2ff-d303-46ff-8512-8991f86f40ce",
+      "business_id": "c592f847-0cdf-4e20-9186-4767b2082f52",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b135e1e1-58ee-4a51-ad23-50b4aeb53f80",
+      "business_id": "17f41801-7b87-4eb2-ac96-ad4a44ac441b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2afcbcdb-4e4a-4dbd-b871-e6822564f824",
+      "business_id": "c2041359-cf34-419b-b89a-57ec58b22ae6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
