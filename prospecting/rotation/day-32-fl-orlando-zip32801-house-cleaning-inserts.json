@@ -1,0 +1,291 @@
+{
+  "businesses": [
+    {
+      "id": "ec1b70a2-c54a-498a-a9af-d8f35361068e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Breathe Maids",
+      "category": "House cleaning",
+      "phone": "(407) 974-7926",
+      "website": "https://breathemaids.com/orlando/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801",
+        "32789",
+        "32802",
+        "32803",
+        "32804",
+        "32805",
+        "32806",
+        "32807",
+        "32808",
+        "32809",
+        "32810",
+        "32811",
+        "32812",
+        "32814",
+        "32819",
+        "32822",
+        "32824",
+        "32827",
+        "32829",
+        "32832",
+        "32834",
+        "32835",
+        "32839",
+        "32853",
+        "32854",
+        "32855",
+        "32856",
+        "32861",
+        "32862",
+        "32878",
+        "32885",
+        "32886",
+        "32891",
+        "32897"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aeddbd4d-98ed-41e1-aa8a-92ad0f241101",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Extreme Maids",
+      "category": "House cleaning",
+      "phone": "(407) 613-2077",
+      "website": "https://www.extrememaids.com/orlando",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a3607814-09ff-4eb8-9695-969efb692d0e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Living To The Greenest",
+      "category": "House cleaning",
+      "phone": "(407) 917-2956",
+      "website": "http://www.livingtothegreenest.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0ef8a14f-f2e6-4103-8676-64f1284a9daf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkly Maid Orlando",
+      "category": "House cleaning",
+      "phone": "(321) 270-9680",
+      "website": "https://www.sparklymaidorlando.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6aee790b-f033-427e-8842-88bd35e24e79",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Original Dust Bunny Maid Service",
+      "category": "House cleaning",
+      "phone": "(407) 985-3006",
+      "website": "http://www.originaldustbunny.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "97cb598f-40d1-435d-bbc9-de6321c01b98",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Angela Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(407) 504-7376",
+      "website": "https://www.angelacleaningcompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fd8b1a50-15b0-4bf5-995b-0fe3f3812351",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Royal Maid Service",
+      "category": "House cleaning",
+      "phone": "(407) 679-6243",
+      "website": "https://royalmaidorlando.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f80c2bb1-b2f9-4ac0-8f9e-436341d98fed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Orlando East",
+      "category": "House cleaning",
+      "phone": "(407) 767-5758",
+      "website": "https://www.maidpro.com/orlando-east",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "777960c0-19da-498b-b7bd-53638b67aa80",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Orlando",
+      "category": "House cleaning",
+      "phone": "(407) 440-4074",
+      "website": "https://twomaidscleaning.com/orlando",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4e465a3a-d6ae-4991-b1f3-19eb79f4ae21",
+      "business_id": "ec1b70a2-c54a-498a-a9af-d8f35361068e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2b7fe3cd-92b0-4976-9723-1271d9018f42",
+      "business_id": "aeddbd4d-98ed-41e1-aa8a-92ad0f241101",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d12493b2-9087-43fe-b2ae-4b2c70780694",
+      "business_id": "a3607814-09ff-4eb8-9695-969efb692d0e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5f403c21-5d0a-48a9-be5d-41a352f7edd2",
+      "business_id": "0ef8a14f-f2e6-4103-8676-64f1284a9daf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2b8c1694-f677-40a2-8ffc-7d9dc3404f60",
+      "business_id": "6aee790b-f033-427e-8842-88bd35e24e79",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7f02d83c-4ef2-479f-ab1b-d865e301bdf7",
+      "business_id": "97cb598f-40d1-435d-bbc9-de6321c01b98",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4edec225-9267-43ee-942b-9d898aa293dc",
+      "business_id": "fd8b1a50-15b0-4bf5-995b-0fe3f3812351",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee4be25d-d126-4c22-bd2e-27b97fb710b6",
+      "business_id": "f80c2bb1-b2f9-4ac0-8f9e-436341d98fed",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c765a0b3-20cc-46e6-8804-f63a4387aa7f",
+      "business_id": "777960c0-19da-498b-b7bd-53638b67aa80",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

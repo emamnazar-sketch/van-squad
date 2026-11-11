@@ -1,0 +1,258 @@
+{
+  "businesses": [
+    {
+      "id": "835db2bb-cc46-4a7b-bb54-e52d4357b95f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tampa Handy Helper",
+      "category": "Handyman",
+      "phone": "(352) 232-2239",
+      "website": "https://www.tampahandyhelper.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "11645978-144d-4134-a1e7-ef443e50ba5e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman North Tampa",
+      "category": "Handyman",
+      "phone": "(813) 258-3339",
+      "website": "https://handymannorthtampa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2811b341-95f0-4034-951d-a75d5bf50ee0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman in Tampa Florida",
+      "category": "Handyman",
+      "phone": "(813) 526-2369",
+      "website": "https://handymanintampaflorida.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c342774a-ffef-43db-b1a8-d343f1b2a866",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Monty's Handyman Services Tampa",
+      "category": "Handyman",
+      "phone": "(813) 296-6661",
+      "website": "https://getmontys.com/tampa",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e7413e61-ab45-4650-bd6b-e4e708f6bb8a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handyman Company",
+      "category": "Handyman",
+      "phone": "(813) 626-3663",
+      "website": "https://the-handyman-company.com/locations/tampa",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a7b52fce-003f-49f2-8d0c-ea555b4e6df4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "McCann Handyman Services",
+      "category": "Handyman",
+      "phone": "(813) 697-5789",
+      "website": "https://www.mccannrepairs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e3150d4a-666c-4fb9-a383-f4dc5a321874",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tampa Works Handyman",
+      "category": "Handyman",
+      "phone": "(813) 205-5822",
+      "website": "http://tampaworkshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b38e87c3-e727-4a44-b0a7-cdf54b9150ec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Tampa",
+      "category": "Handyman",
+      "phone": "(813) 485-4985",
+      "website": "https://acehandymanservices.com/offices/tampa",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "96531073-a6d8-4849-8d0c-8cc5271c298e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "High Quality Handyman Services LLC",
+      "category": "Handyman",
+      "phone": "(813) 693-1074",
+      "website": "http://highqualityhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33604"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "71f521d8-3fc9-4b38-b86c-fd8288dbd40b",
+      "business_id": "835db2bb-cc46-4a7b-bb54-e52d4357b95f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65db7baf-7920-42b9-af4b-6e76977fbe65",
+      "business_id": "11645978-144d-4134-a1e7-ef443e50ba5e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "df72ea47-a02c-491d-9b11-4ab7b6e08787",
+      "business_id": "2811b341-95f0-4034-951d-a75d5bf50ee0",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a0924662-db30-4e83-acdb-85af11225463",
+      "business_id": "c342774a-ffef-43db-b1a8-d343f1b2a866",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d33ad918-6e7f-4b63-b6cb-40a252a937c7",
+      "business_id": "e7413e61-ab45-4650-bd6b-e4e708f6bb8a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d6c22dd0-11e3-4cb1-9a56-919ef5d4ebfd",
+      "business_id": "a7b52fce-003f-49f2-8d0c-ea555b4e6df4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "83e3ce60-9c72-4813-8f87-baf0a05b3c24",
+      "business_id": "e3150d4a-666c-4fb9-a383-f4dc5a321874",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3c593589-97f0-47a8-844e-f7cebd9f4bee",
+      "business_id": "b38e87c3-e727-4a44-b0a7-cdf54b9150ec",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "12c1c04b-f821-4f3c-aadf-a8f38ab3cd8d",
+      "business_id": "96531073-a6d8-4849-8d0c-8cc5271c298e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

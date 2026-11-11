@@ -1,0 +1,234 @@
+{
+  "businesses": [
+    {
+      "id": "145fe5e4-eb97-4412-8ec4-7c78d9077871",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Response Pressure Wash",
+      "category": "Pressure washing",
+      "phone": "(813) 600-8043",
+      "website": "https://www.firstresponsepressurewash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626",
+        "33625"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ed719497-ace0-406c-8ba1-ea54955eef7c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kyle's A1 Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(813) 294-2115",
+      "website": "https://kylesa1pressurewashing.com/areas-served/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "801c4a4f-4f59-48a0-942d-3482825dc61a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tampa Home Wash",
+      "category": "Pressure washing",
+      "phone": "(656) 219-1566",
+      "website": "https://pressurewashingtampa.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626",
+        "33619"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1c300908-d957-4b40-b839-60a70fe00546",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pink Flamingo Power Wash",
+      "category": "Pressure washing",
+      "phone": "(813) 458-0864",
+      "website": "https://www.pinkflamingopowerwash.com/residential-pressure-washing-tampa/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626",
+        "33618"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fbc10c5e-e1a3-4f2e-8672-8622c9034bdd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Blue Stream Roof Cleaning & Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(813) 748-0709",
+      "website": "https://bluestreamroofcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "64c1c06c-2bc8-42b8-9732-2587be765a2b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Super Dave's Pressure Cleaning",
+      "category": "Pressure washing",
+      "phone": "(727) 433-1670",
+      "website": "https://superdavecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "349a6b59-9a05-4e60-b6af-5d04f0db31ac",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tampa Pressure Washing Pro",
+      "category": "Pressure washing",
+      "phone": "(813) 576-0938",
+      "website": "https://tampapressurewashingpro.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "41be9b19-30f3-494b-906a-afe1b1ed2cf9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Washy Bear Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(813) 921-2823",
+      "website": "https://www.washybear.com/pressure-washing-citrus-park-fl/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33626",
+        "33647"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4552a5f1-2ff9-4f40-902a-7914c03e3d51",
+      "business_id": "145fe5e4-eb97-4412-8ec4-7c78d9077871",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b876841e-09df-45f5-9a28-c0ba650917da",
+      "business_id": "ed719497-ace0-406c-8ba1-ea54955eef7c",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "00b49350-adf1-45b0-a0af-790adbbe08dc",
+      "business_id": "801c4a4f-4f59-48a0-942d-3482825dc61a",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c8999ed3-dfb8-429a-b937-b5275b0fb6af",
+      "business_id": "1c300908-d957-4b40-b839-60a70fe00546",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ce06a983-ca9f-4632-89f2-99541658b0b6",
+      "business_id": "fbc10c5e-e1a3-4f2e-8672-8622c9034bdd",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0250da3a-8101-4b63-895a-980586cef1d1",
+      "business_id": "64c1c06c-2bc8-42b8-9732-2587be765a2b",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "44185008-d715-49a8-99a1-c59241ad0878",
+      "business_id": "349a6b59-9a05-4e60-b6af-5d04f0db31ac",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4e556acb-bd3d-4759-9c96-63fb54b80a3b",
+      "business_id": "41be9b19-30f3-494b-906a-afe1b1ed2cf9",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

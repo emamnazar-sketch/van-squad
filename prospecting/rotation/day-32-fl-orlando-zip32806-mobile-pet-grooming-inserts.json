@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "2db661f9-545d-4692-9fcc-c45a7484c094",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Buddy Mobile Pet Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(689) 303-3396",
+      "website": "https://www.buddypetsgrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "27369d7d-2f1e-4426-8c60-f2ddf3598b7f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "PupLuxe Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(407) 907-4079",
+      "website": "https://pupluxegrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ab28414-a053-461c-b7b3-16ee304b70c3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mufasa Pets Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(407) 800-3103",
+      "website": "https://www.mufasapetsfamily.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9ae17351-e3d5-418a-9bd4-3c0b41c5275e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Oh My Boss Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(407) 325-0203",
+      "website": "https://www.ohmybossmobilegrooming.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2797c884-8e00-4cfe-986c-f27c236ddf64",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wonder Pets Florida",
+      "category": "Mobile pet grooming",
+      "phone": "(954) 336-0735",
+      "website": "https://wonderpetsflorida.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b85bf043-060a-46d4-9c2f-396a4f841b47",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bark & Mane of Greater Orlando",
+      "category": "Mobile pet grooming",
+      "phone": "(407) 595-8798",
+      "website": "https://www.barkandmane.com/pet-groomers/greater-orlando-fl/about-us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "12c56be3-4a27-4de4-8dc5-71ea88d57480",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fluffy Pet Wash",
+      "category": "Mobile pet grooming",
+      "phone": "(407) 513-2935",
+      "website": "https://www.fluffypetwash.com/orlando",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "92c9b009-3202-4646-90cd-2d06ca33928b",
+      "business_id": "2db661f9-545d-4692-9fcc-c45a7484c094",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f7cf13c6-b371-4807-a2d3-4fefc00d1cc0",
+      "business_id": "27369d7d-2f1e-4426-8c60-f2ddf3598b7f",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6d03850d-7291-4e1c-88c6-3e2c8372441e",
+      "business_id": "8ab28414-a053-461c-b7b3-16ee304b70c3",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1184c7e8-eabc-4116-94d2-03ba87cab336",
+      "business_id": "9ae17351-e3d5-418a-9bd4-3c0b41c5275e",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a24d514b-9da0-490f-8b58-bc1c5315465a",
+      "business_id": "2797c884-8e00-4cfe-986c-f27c236ddf64",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fe0c904d-1d9c-4108-befe-cf9e6e424355",
+      "business_id": "b85bf043-060a-46d4-9c2f-396a4f841b47",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "53c715f4-8e4a-45f9-a314-fd5155b87927",
+      "business_id": "12c56be3-4a27-4de4-8dc5-71ea88d57480",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "businesses": [
+    {
+      "id": "a47da84c-cc3a-4e17-be24-d700523f47e7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Army of Maids",
+      "category": "House cleaning",
+      "phone": "(407) 205-2769",
+      "website": "https://www.armyofmaids.com/locations/altamonte-springs/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32701",
+        "32714"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dde0be61-837a-456a-9b04-269db237e598",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alma's Commercial and Residential Cleaning",
+      "category": "House cleaning",
+      "phone": "(689) 207-2368",
+      "website": "http://www.almascleaningco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1c7a934d-33f6-4823-ba6d-888d3b9556a9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Orlando and Seminole County",
+      "category": "House cleaning",
+      "phone": "(407) 966-4067",
+      "website": "https://www.mollymaid.com/locations/orlando-seminole-county/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c27df7ee-e7a9-4333-b62c-f6c21785d320",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Sanford",
+      "category": "House cleaning",
+      "phone": "(407) 589-5231",
+      "website": "https://www.merrymaids.com/seminole-county/cleaning-services/maid-service/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9e65c97b-7fb2-4ed7-a825-398d1b8b1f84",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Apopka",
+      "category": "House cleaning",
+      "phone": "(321) 461-3138",
+      "website": "https://www.thecleaningauthority.com/apopka/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32701",
+        "32703",
+        "32707",
+        "32714",
+        "32730",
+        "32751",
+        "32801",
+        "32803",
+        "32804",
+        "32805",
+        "32808",
+        "32810",
+        "32811",
+        "32818",
+        "34734",
+        "34761"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6e113712-9f8e-421d-a160-fcf975e5a764",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GoldMaids Team Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(407) 732-0332",
+      "website": "https://goldmaidsteam.com/maid-service-altamonte-springs-fl-reset/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "b6e1b65e-4619-445b-aff5-c4470018cf57",
+      "business_id": "a47da84c-cc3a-4e17-be24-d700523f47e7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c8c387f6-5177-41f7-9e23-07691ad25104",
+      "business_id": "dde0be61-837a-456a-9b04-269db237e598",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9eb8ba01-16d1-473a-85a6-8465c47b52f9",
+      "business_id": "1c7a934d-33f6-4823-ba6d-888d3b9556a9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fb3c6dee-6735-4462-8003-a6e27a22bee1",
+      "business_id": "c27df7ee-e7a9-4333-b62c-f6c21785d320",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9a5b4fd0-2283-446d-b246-14931a55525f",
+      "business_id": "9e65c97b-7fb2-4ed7-a825-398d1b8b1f84",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c5ea2a08-ea0c-4bbb-b00a-26f6dbba2f8a",
+      "business_id": "6e113712-9f8e-421d-a160-fcf975e5a764",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

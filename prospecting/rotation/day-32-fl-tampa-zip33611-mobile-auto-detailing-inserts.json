@@ -1,0 +1,258 @@
+{
+  "businesses": [
+    {
+      "id": "f173f778-856c-4242-832d-60495336564c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fred's Mobile Car Wash & Auto Detailing LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(813) 635-6160",
+      "website": "https://fredsmobilecardetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d588369-1b5d-4648-9b04-2787913edd9a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SDS Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(813) 553-1553",
+      "website": "https://sdsdetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c287d72f-47fb-453c-8f14-04c109b24700",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Legit Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(413) 405-1213",
+      "website": "http://www.legitmobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "98ad48ef-db56-44d4-8e81-7c731cd9b558",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The White Glove Detailer",
+      "category": "Mobile auto detailing",
+      "phone": "(813) 993-5939",
+      "website": "https://thewhiteglovedetailer.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aec4e75a-9ed9-4900-a87f-ab28679f6068",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ray's Luxury Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(656) 223-9600",
+      "website": "https://raysluxurydetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1c9132d3-2487-4c40-9324-8fd3122009a7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "T-Fat's Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(813) 358-0608",
+      "website": "https://tfatsautospa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bb362f85-8086-4eba-b357-39e2cf950ae4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Flawlezz Car Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(786) 301-3071",
+      "website": "http://www.flawlezzcardetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "55f6310d-6794-41d7-b6e9-81b7614b9541",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tampa Bay Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(813) 331-5127",
+      "website": "https://www.detailtampabay.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "04a1a2fb-fcdf-4f45-a0c8-b9018c81b86b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Auto Spa of Tampa Bay",
+      "category": "Mobile auto detailing",
+      "phone": "(813) 955-2544",
+      "website": "https://autospaoftampabay.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "bab024b3-64ee-49db-a79e-eb5147ad8479",
+      "business_id": "f173f778-856c-4242-832d-60495336564c",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7c7d5210-e72d-4983-a06a-fbb833acb82f",
+      "business_id": "6d588369-1b5d-4648-9b04-2787913edd9a",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b27dd7c9-a1fb-489f-a0f3-4589327c02e9",
+      "business_id": "c287d72f-47fb-453c-8f14-04c109b24700",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3833b521-6455-40b5-9e62-8d7d23903cd0",
+      "business_id": "98ad48ef-db56-44d4-8e81-7c731cd9b558",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4e951d26-651b-4bd6-83e5-5c33260b1a2c",
+      "business_id": "aec4e75a-9ed9-4900-a87f-ab28679f6068",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d4639387-5c35-48d1-b6c7-dd641c22e32e",
+      "business_id": "1c9132d3-2487-4c40-9324-8fd3122009a7",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "900e5205-e1e3-4c22-9cd0-9d3c99a45b76",
+      "business_id": "bb362f85-8086-4eba-b357-39e2cf950ae4",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c40e9168-8668-44b0-a7e1-07f2f974ccdb",
+      "business_id": "55f6310d-6794-41d7-b6e9-81b7614b9541",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b813a2d-5144-4083-aa94-0b453561318f",
+      "business_id": "04a1a2fb-fcdf-4f45-a0c8-b9018c81b86b",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

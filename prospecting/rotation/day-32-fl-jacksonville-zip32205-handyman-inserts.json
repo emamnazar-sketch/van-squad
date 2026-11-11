@@ -1,0 +1,229 @@
+{
+  "businesses": [
+    {
+      "id": "9f2cb3f5-6f39-438c-9920-d456a8903e85",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Coast Home Pros",
+      "category": "Handyman",
+      "phone": "(904) 383-7721",
+      "website": "https://www.firstcoasthomepros.com/areas-we-serve/jacksonville-fl/handyman-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205",
+        "32202",
+        "32204",
+        "32206",
+        "32207",
+        "32208",
+        "32209",
+        "32210",
+        "32211",
+        "32216",
+        "32217",
+        "32218",
+        "32219",
+        "32220",
+        "32221",
+        "32222",
+        "32223",
+        "32224",
+        "32225",
+        "32226",
+        "32234",
+        "32244",
+        "32246",
+        "32254",
+        "32256",
+        "32257",
+        "32258",
+        "32277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3908ac9e-4448-48ae-aba8-6fd0ffbd5ae6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hometown Pro Handyman",
+      "category": "Handyman",
+      "phone": "(904) 229-5020",
+      "website": "https://hometownprohandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "21a964d8-2f74-4d11-b4a6-5b6fdf89865f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Monty's Handyman Services Jacksonville",
+      "category": "Handyman",
+      "phone": "(904) 852-8330",
+      "website": "https://getmontys.com/jacksonville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6c6a8224-cd24-4cad-85b2-a57532648a54",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jax Beach Handyman",
+      "category": "Handyman",
+      "phone": "(904) 478-8901",
+      "website": "http://jaxbeachhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6b58db37-ec5b-422a-9c43-43ce092387fe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "In&Out You Name It LLC",
+      "category": "Handyman",
+      "phone": "(904) 495-3727",
+      "website": "https://inandouthandymanservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "747a140d-a7df-4fc8-b815-dc221ec5f1eb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jax Handyman Solutions",
+      "category": "Handyman",
+      "phone": "(904) 740-3028",
+      "website": "https://jaxhandymansolutions.jobbersites.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "be5d433e-b379-4551-afd5-6e64325fbe5a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handyman Company Jacksonville",
+      "category": "Handyman",
+      "phone": "(904) 567-8333",
+      "website": "https://the-handyman-company.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d2dc95d7-cafd-439d-8dc6-581dc88bd5e4",
+      "business_id": "9f2cb3f5-6f39-438c-9920-d456a8903e85",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6c0d5a02-0f97-4cd8-89a9-e970ea7562d0",
+      "business_id": "3908ac9e-4448-48ae-aba8-6fd0ffbd5ae6",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d56c333e-0f86-45df-99bc-62d0440c2f48",
+      "business_id": "21a964d8-2f74-4d11-b4a6-5b6fdf89865f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4ded5cb6-3f54-4f16-b9d9-915d5cf0a8b6",
+      "business_id": "6c6a8224-cd24-4cad-85b2-a57532648a54",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b710e436-8ad1-46fe-942e-c21b22b0ee00",
+      "business_id": "6b58db37-ec5b-422a-9c43-43ce092387fe",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "34770345-fff4-4524-a53c-605f4eaf1b21",
+      "business_id": "747a140d-a7df-4fc8-b815-dc221ec5f1eb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f2779a29-f47a-4752-9d8d-784986dc35cc",
+      "business_id": "be5d433e-b379-4551-afd5-6e64325fbe5a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

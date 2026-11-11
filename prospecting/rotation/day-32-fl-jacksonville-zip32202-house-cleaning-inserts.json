@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "e3e2a9b5-d455-46ad-be42-37cb5c296445",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean4Real",
+      "category": "House cleaning",
+      "phone": "(904) 274-0084",
+      "website": "http://www.clean4real.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4bf2284b-01ae-4527-930c-19f817f217a6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kitty's Custom Cleaning",
+      "category": "House cleaning",
+      "phone": "(904) 616-4643",
+      "website": "http://www.kittyscustomcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3a7010c8-1f53-4b1f-9154-9d313a5d304c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bela Maids Housecleaning Services",
+      "category": "House cleaning",
+      "phone": "(904) 380-1702",
+      "website": "https://belamaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ff2415bd-4189-4b88-a55e-f40742845a7a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Happy Cleaning Services of Jacksonville, FL",
+      "category": "House cleaning",
+      "phone": "(904) 240-4640",
+      "website": "https://www.happycleaningservicesjacksonville.com/index.html",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7db65950-61b6-4441-a172-0d59aa4807ce",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in Jacksonville",
+      "category": "House cleaning",
+      "phone": "(904) 928-0559",
+      "website": "https://www.maids.com/137/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "34bdf7c7-2727-48e8-9e6a-c69231180d60",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Jacksonville",
+      "category": "House cleaning",
+      "phone": "(904) 822-5323",
+      "website": "https://merrymaids.com/home-cleaners-jacksonville-fl",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08026d4a-a9a2-49c5-9cd3-c0a355d85fde",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Brigade of Jacksonville",
+      "category": "House cleaning",
+      "phone": "(904) 886-7415",
+      "website": "https://www.maidbrigade.com/fl/jacksonville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "979ab865-e0a7-451f-9bc3-35f3ec51210c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Jacksonville",
+      "category": "House cleaning",
+      "phone": "(904) 739-9476",
+      "website": "https://www.twomaidscleaning.com/jacksonville/about/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "32202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e61bf2ed-602b-428d-8994-d99820d6a1b6",
+      "business_id": "e3e2a9b5-d455-46ad-be42-37cb5c296445",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4137e908-b81e-48d0-80ef-08eabe8ad8da",
+      "business_id": "4bf2284b-01ae-4527-930c-19f817f217a6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8441fb48-1559-49ca-b23f-966610980780",
+      "business_id": "3a7010c8-1f53-4b1f-9154-9d313a5d304c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "50f1839e-b3a7-4ea6-9359-0485ac0c3c6e",
+      "business_id": "ff2415bd-4189-4b88-a55e-f40742845a7a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dd49e808-9030-4804-8bb2-b581c6d4b256",
+      "business_id": "7db65950-61b6-4441-a172-0d59aa4807ce",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aae5906b-2400-47d6-aab6-5c681f56e41d",
+      "business_id": "34bdf7c7-2727-48e8-9e6a-c69231180d60",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "831243cf-4e5f-48d9-ae54-7642343b1d20",
+      "business_id": "08026d4a-a9a2-49c5-9cd3-c0a355d85fde",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ac6c6bb6-08cb-4a6a-b2c6-40fe971d02eb",
+      "business_id": "979ab865-e0a7-451f-9bc3-35f3ec51210c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

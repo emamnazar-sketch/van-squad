@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "b416b862-11be-4b46-9775-280fed7fb676",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Clean Pool USA",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 610-7665",
+   "website": "https://acleanpoolusa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4760652a-1b04-4f82-a351-bafd34a47e12",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Orlando Pool & Spa",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 600-7872",
+   "website": "https://orlandopoolspa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2b4b6b68-8e9b-46d0-b1a0-e0f82d306d85",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Swim Solutions",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 696-6660",
+   "website": "https://www.swimmsolutions.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "81285d53-e361-4f41-a48a-2182b38125ee",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clear Ripples Pool Service, LLC",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 617-2515",
+   "website": "https://www.clearripplespools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f095b08d-0484-4a7b-abcb-87d537c4ca08",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "PoolReady Orlando",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 205-7889",
+   "website": "https://poolready.com/locations/florida/orlando",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7cfa01c8-cdc0-4948-98d5-3e4c8dd19b82",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "American Eagle Pool Services",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 848-8185",
+   "website": "https://aeaglepools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "252ed257-49be-4cc3-80cd-1109a3ea7572",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pure and Simple Poolcare",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(407) 538-0284",
+   "website": "https://www.pureandsimplepoolcare.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32819"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "3862a73b-9ea4-47e2-a467-4d16232de927",
+   "business_id": "b416b862-11be-4b46-9775-280fed7fb676",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2ac6c9ee-5b4d-4855-9a00-a26386d2f6ed",
+   "business_id": "4760652a-1b04-4f82-a351-bafd34a47e12",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "da6aab68-0c62-4afc-805b-daf84f454cd9",
+   "business_id": "2b4b6b68-8e9b-46d0-b1a0-e0f82d306d85",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f05ebc53-3fce-4f2e-be50-61e8a22ae1ec",
+   "business_id": "81285d53-e361-4f41-a48a-2182b38125ee",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "65e66dd9-afd0-475f-990b-651eb58413f8",
+   "business_id": "f095b08d-0484-4a7b-abcb-87d537c4ca08",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e7a86ae8-cc0a-4ac9-8f02-b12c330af9ad",
+   "business_id": "7cfa01c8-cdc0-4948-98d5-3e4c8dd19b82",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9d5e874c-aaad-4c0b-baab-0674159084ca",
+   "business_id": "252ed257-49be-4cc3-80cd-1109a3ea7572",
+   "title": "Pool cleaning & maintenance at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

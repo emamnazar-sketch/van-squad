@@ -1,0 +1,207 @@
+{
+ "businesses": [
+  {
+   "id": "b98066c0-fc51-464d-8f23-196446b7b02e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Piro's High Pressure Hero's",
+   "category": "Pressure washing",
+   "phone": "(407) 615-9880",
+   "website": "https://pressurehero.com/orlando.html",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808",
+    "32809"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2dfef1ba-5a87-4f5f-a580-299132c39be8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Orlando Pressure Wash & More",
+   "category": "Pressure washing",
+   "phone": "(407) 716-1959",
+   "website": "https://orlandopressurewashandmore.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808",
+    "32835"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c3123806-80a7-4bb6-b9e5-c8f74aaf8e1b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Washing Guys",
+   "category": "Pressure washing",
+   "phone": "(407) 412-4015",
+   "website": "https://www.pressurewashingguysflorida.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808",
+    "32811"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8914e19f-9648-44e9-a1f8-4a6c428ea07c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Essentials Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(407) 284-9438",
+   "website": "https://essentialspressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d3634199-df69-41f4-aab6-1ad96cc06a07",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean Spray Corporation",
+   "category": "Pressure washing",
+   "phone": "(321) 256-0523",
+   "website": "https://www.cleanspray.net/services-us",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "eb800bac-efa1-47f5-9eeb-98c27cbb8965",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "JBC Pressure Washings Inc.",
+   "category": "Pressure washing",
+   "phone": "(407) 821-1863",
+   "website": "https://jbcpressurewashings.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808",
+    "32803"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "95ec29fc-9246-464c-85b3-236dd01f5fea",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sunfire Specialty Cleaning",
+   "category": "Pressure washing",
+   "phone": "(407) 641-0811",
+   "website": "https://sunfirespecialtycleaning.com/about-us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "32808",
+    "32825"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "ac16f054-25c2-4bd4-89f4-bcf7c197ab77",
+   "business_id": "b98066c0-fc51-464d-8f23-196446b7b02e",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f2c4a35b-2cf9-467e-908c-8ede08a55d7e",
+   "business_id": "2dfef1ba-5a87-4f5f-a580-299132c39be8",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d71a88be-3ece-4f19-af5a-3a0062852462",
+   "business_id": "c3123806-80a7-4bb6-b9e5-c8f74aaf8e1b",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f7758b12-a1ca-4fe1-b41f-6ca712ac245e",
+   "business_id": "8914e19f-9648-44e9-a1f8-4a6c428ea07c",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "302f41bc-70d8-44d7-8f99-a1b6e070d399",
+   "business_id": "d3634199-df69-41f4-aab6-1ad96cc06a07",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "70e54583-5345-4d5a-8b92-31022701ebbc",
+   "business_id": "eb800bac-efa1-47f5-9eeb-98c27cbb8965",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ff3ca770-1b42-4893-8171-c387fe440615",
+   "business_id": "95ec29fc-9246-464c-85b3-236dd01f5fea",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

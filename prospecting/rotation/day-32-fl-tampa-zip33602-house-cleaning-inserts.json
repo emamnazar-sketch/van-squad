@@ -1,0 +1,266 @@
+{
+  "businesses": [
+    {
+      "id": "9389e540-e36e-4c0a-b0ab-e91e5ab3011a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pure Perfection Cleaning",
+      "category": "House cleaning",
+      "phone": "(813) 545-1621",
+      "website": "https://pureperfectioncleaningfl.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602",
+        "33603",
+        "33604",
+        "33605",
+        "33610",
+        "33612",
+        "33613",
+        "33617",
+        "33637"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cabbbb54-04a5-4229-836e-13928abc1f62",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wow Now Cleaning",
+      "category": "House cleaning",
+      "phone": "(813) 519-5335",
+      "website": "https://wownowcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3c796052-11f5-42ed-8c97-c5503fa4d9cd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chery Maids",
+      "category": "House cleaning",
+      "phone": "(813) 666-3630",
+      "website": "https://cherymaids.com/tampa/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9ce6efec-b313-40be-9fe6-d807222d3de1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Peridot Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(813) 694-5699",
+      "website": "https://www.peridotcleanco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1c21b863-bbb6-4e7d-af90-a3350e4933ca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sunshine Clean & Care",
+      "category": "House cleaning",
+      "phone": "(727) 207-2119",
+      "website": "https://www.sunshinecleancarefl.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "379e67d0-9855-4199-b4ce-1921d8a5639c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Tampa",
+      "category": "House cleaning",
+      "phone": "(813) 624-3776",
+      "website": "https://www.maidpro.com/tampa/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c250a184-376b-4941-a176-82389b79d34a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Tampa",
+      "category": "House cleaning",
+      "phone": "(813) 379-9900",
+      "website": "https://twomaidscleaning.com/tampa",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "635f44ef-4bac-46e5-b6ff-989489702736",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Tampa",
+      "category": "House cleaning",
+      "phone": "(813) 694-1083",
+      "website": "https://merrymaids.com/home-cleaners-tampa-fl",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8989d4a8-d4f9-47ba-92c9-1740b01485ed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids in South Tampa",
+      "category": "House cleaning",
+      "phone": "(813) 871-9700",
+      "website": "https://www.maids.com/157/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "33602"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9a4f6e64-a344-4ea9-8cb3-461d2bbd0c13",
+      "business_id": "9389e540-e36e-4c0a-b0ab-e91e5ab3011a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e230b905-cc46-40a9-9c52-46fd62cdda8a",
+      "business_id": "cabbbb54-04a5-4229-836e-13928abc1f62",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "61e8a81c-e7d2-44f6-af94-316130ad17dc",
+      "business_id": "3c796052-11f5-42ed-8c97-c5503fa4d9cd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "643c0255-a228-4a9e-958a-898174071766",
+      "business_id": "9ce6efec-b313-40be-9fe6-d807222d3de1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "794d02cc-09bb-4886-b3d3-e4d14f9b34f6",
+      "business_id": "1c21b863-bbb6-4e7d-af90-a3350e4933ca",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "130fd411-2eb3-4f68-a393-d42656e0363d",
+      "business_id": "379e67d0-9855-4199-b4ce-1921d8a5639c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "158289e5-b6c9-4458-b1d9-a6b57ce77f33",
+      "business_id": "c250a184-376b-4941-a176-82389b79d34a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "585be835-e656-45e1-918f-5b5122ac7886",
+      "business_id": "635f44ef-4bac-46e5-b6ff-989489702736",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c95f0588-b625-421e-ab72-bc01f7b26d07",
+      "business_id": "8989d4a8-d4f9-47ba-92c9-1740b01485ed",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
