@@ -17748,5 +17748,29 @@
     "image": "howclean-florida-llc.jpg",
     "scene": "Cleaner scrubbing a kitchen tile floor on her knees with a brush and bucket",
     "created": "2026-11-11"
+  },
+  "1cd230b4-f36f-492d-ac92-25ab4f85c60c": {
+    "business": "CleanMyPool",
+    "image": "cleanmypool.jpg",
+    "scene": "Technician skimming leaves from a backyard pool with a long net pole",
+    "created": "2026-11-11"
+  },
+  "4be020cb-09d1-4710-8e8f-a4693b4260a3": {
+    "business": "Neptune Reliable Pool Service",
+    "image": "neptune-reliable-pool-service.jpg",
+    "scene": "Technician brushing the waterline tiles of a backyard pool",
+    "created": "2026-11-11"
+  },
+  "37c56f1a-ca35-46dc-ac53-876565d9e45a": {
+    "business": "Piranha Pool Care",
+    "image": "piranha-pool-care.jpg",
+    "scene": "Technician kneeling at a screened lanai pool dipping a water test vial",
+    "created": "2026-11-11"
+  },
+  "5cc68317-d40c-4828-b615-5c23798b2dc9": {
+    "business": "North Tampa Pool Care",
+    "image": "north-tampa-pool-care.jpg",
+    "scene": "Technician vacuuming the floor of a backyard pool from the deck",
+    "created": "2026-11-11"
   }
 }
