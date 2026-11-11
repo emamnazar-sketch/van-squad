@@ -17772,5 +17772,23 @@
     "image": "north-tampa-pool-care.jpg",
     "scene": "Technician vacuuming the floor of a backyard pool from the deck",
     "created": "2026-11-11"
+  },
+  "801c4a4f-4f59-48a0-942d-3482825dc61a": {
+    "business": "Tampa Home Wash",
+    "image": "tampa-home-wash.jpg",
+    "scene": "Worker soft-washing house siding from the front lawn",
+    "created": "2026-11-11"
+  },
+  "1c300908-d957-4b40-b839-60a70fe00546": {
+    "business": "Pink Flamingo Power Wash",
+    "image": "pink-flamingo-power-wash.jpg",
+    "scene": "Worker pressure washing a paver pool deck inside a screened pool cage",
+    "created": "2026-11-11"
+  },
+  "fbc10c5e-e1a3-4f2e-8672-8622c9034bdd": {
+    "business": "Blue Stream Roof Cleaning & Pressure Washing",
+    "image": "blue-stream-roof-cleaning-pressure-washing.jpg",
+    "scene": "Worker on an extension ladder soft-washing a shingle roof at the eave",
+    "created": "2026-11-11"
   }
 }
