@@ -17790,5 +17790,713 @@
     "image": "blue-stream-roof-cleaning-pressure-washing.jpg",
     "scene": "Worker on an extension ladder soft-washing a shingle roof at the eave",
     "created": "2026-11-11"
+  },
+  "bb362f85-8086-4eba-b357-39e2cf950ae4": {
+    "business": "Flawlezz Car Detailing",
+    "image": "images/business/flawlezz-car-detailing.jpg",
+    "scene": "Detailer crouching, hand-washing a white sedan with a wash mitt in a sunny South Tampa driveway, soapy bucket and hose in foreground, palm trees in background",
+    "created": "2026-11-12"
+  },
+  "55f6310d-6794-41d7-b6e9-81b7614b9541": {
+    "business": "Tampa Bay Mobile Detailing",
+    "image": "images/business/tampa-bay-mobile-detailing.jpg",
+    "scene": "Woman detailer in an apron polishing the hood of a dark blue SUV with a microfiber cloth in a bright residential driveway",
+    "created": "2026-11-12"
+  },
+  "04a1a2fb-fcdf-4f45-a0c8-b9018c81b86b": {
+    "business": "Auto Spa of Tampa Bay",
+    "image": "images/business/auto-spa-of-tampa-bay.jpg",
+    "scene": "Older man vacuuming the open interior of a silver hatchback at a customer's home, vacuum nozzle touching the front seat, doors open and attached, bright daylight",
+    "created": "2026-11-12"
+  },
+  "b154752c-fdad-443b-84f8-92b0da7c6e22": {
+    "business": "The Cleaning Crew Charleston",
+    "image": "images/business/the-cleaning-crew-charleston.jpg",
+    "scene": "Woman with dark curly hair wiping a wooden kitchen island counter with a cloth, spray bottle in other hand, bright Charleston kitchen",
+    "created": "2026-11-12"
+  },
+  "88690906-dfe7-46ce-80b1-c1ee79bcd366": {
+    "business": "Prestige Cleaning",
+    "image": "images/business/prestige-cleaning.jpg",
+    "scene": "Graying-haired man vacuuming a living-room rug, vacuum head flat on the rug, sunny shiplap living room",
+    "created": "2026-11-12"
+  },
+  "4a5443f4-6a86-4d7c-8120-084c38629a53": {
+    "business": "Prestige Janitorial Services LLC",
+    "image": "images/business/prestige-janitorial-services-llc.jpg",
+    "scene": "Blonde woman in a ponytail mopping a hardwood hallway, flat mop head touching the floor",
+    "created": "2026-11-12"
+  },
+  "69306dd4-9a9d-46eb-b649-dfc9513ef936": {
+    "business": "Little Palm Cleaning",
+    "image": "images/business/little-palm-cleaning.jpg",
+    "scene": "Young man with wavy brown hair dusting a bedroom windowsill, duster touching the sill, palm tree outside the window",
+    "created": "2026-11-12"
+  },
+  "83ce9dec-e3a0-4e3e-9374-3e1939ddb1fa": {
+    "business": "Merry Maids of Charleston",
+    "image": "images/business/merry-maids-of-charleston.jpg",
+    "scene": "Blonde cleaner in her 50s making a bed in a sunny bedroom, hands smoothing the white sheet",
+    "created": "2026-11-12"
+  },
+  "40072924-954b-417a-b497-7518c96400c0": {
+    "business": "Palm Wash Mobile Car Detailing",
+    "image": "images/business/palm-wash-mobile-car-detailing.jpg",
+    "scene": "Man hand-washing a red SUV in a Charleston driveway, wash mitt with suds touching the door, bucket beside, palm trees behind",
+    "created": "2026-11-12"
+  },
+  "2c17935d-0076-4c64-8784-340a6d6573f1": {
+    "business": "PalmettoRevive Mobile Detailing",
+    "image": "images/business/palmettorevive-mobile-detailing.jpg",
+    "scene": "Woman with a dark braid polishing a silver sedan door in a wide driveway shot, microfiber cloth touching the door, sedan fully in frame",
+    "created": "2026-11-12"
+  },
+  "504c24b7-b538-4250-ad48-8cf6f34c1729": {
+    "business": "PrimeShine Mobile Detailing",
+    "image": "images/business/primeshine-mobile-detailing.jpg",
+    "scene": "Detailer vacuuming the open front interior of a silver sedan in a Charleston driveway, shop vacuum beside him",
+    "created": "2026-11-12"
+  },
+  "1b1db4fb-8f5b-44d1-a838-85e4df320cc0": {
+    "business": "DI Mobile Car Wash",
+    "image": "images/business/di-mobile-car-wash.jpg",
+    "scene": "Woman detailer rinsing a black pickup truck with a hose in a sunny driveway",
+    "created": "2026-11-12"
+  },
+  "5619b37d-328c-4720-a5c2-b5ede1c2e8e3": {
+    "business": "Stono River Auto Spa",
+    "image": "images/business/stono-river-auto-spa.jpg",
+    "scene": "Older detailer wiping the windshield of a white convertible with a cloth in a driveway",
+    "created": "2026-11-12"
+  },
+  "1cd0c368-c89e-41d9-945d-10fe941ac945": {
+    "business": "Executive Auto Luxury & Exotic Detailing",
+    "image": "images/business/executive-auto-luxury-exotic-detailing.jpg",
+    "scene": "Young woman detailer buffing the hood of a dark luxury sedan with a polisher in an elegant home driveway",
+    "created": "2026-11-12"
+  },
+  "3fc3bd0e-da3e-49ab-ba7a-723f33d31ee7": {
+    "business": "Illustrious Mobile Detailing",
+    "image": "images/business/illustrious-mobile-detailing.jpg",
+    "scene": "Detailer crouched beside a blue sedan in a Charleston driveway, brush touching the soapy front wheel rim",
+    "created": "2026-11-12"
+  },
+  "542298c7-93f0-4df5-8136-09596f69cbed": {
+    "business": "Rapid Repairs",
+    "image": "images/business/rapid-repairs.jpg",
+    "scene": "Gray-haired handyman crouched on a bright porch, screwdriver touching the bottom hinge of an open white front door",
+    "created": "2026-11-12"
+  },
+  "c00cb343-b514-41dc-82f9-6fbda50357fa": {
+    "business": "Charleston Home Repair Services",
+    "image": "images/business/charleston-home-repair-services.jpg",
+    "scene": "Young handyman mounting a towel bar in a bright bathroom, cordless drill touching the wall bracket",
+    "created": "2026-11-12"
+  },
+  "fbbf011b-ad33-4806-a967-50b980f717bc": {
+    "business": "AZ Smart Fix",
+    "image": "images/business/az-smart-fix.jpg",
+    "scene": "Latina handywoman standing on a step ladder in a bright living room, both hands on a ceiling light fixture being replaced",
+    "created": "2026-11-12"
+  },
+  "d5c48a64-84f2-42ae-b666-07187d17345d": {
+    "business": "Carolina Home Mender",
+    "image": "images/business/carolina-home-mender.jpg",
+    "scene": "Handyman smoothing a drywall patch with a putty knife in a bright Charleston living room",
+    "created": "2026-11-12"
+  },
+  "c837e8ea-f3fd-4fe9-93af-61f57998a860": {
+    "business": "Sea Islands Home Repair",
+    "image": "images/business/sea-islands-home-repair.jpg",
+    "scene": "Handyman hammering a wooden porch railing at a white coastal home with palms behind",
+    "created": "2026-11-12"
+  },
+  "74be9150-5845-4515-98a2-3294b992fb43": {
+    "business": "Walter Handyman LLC",
+    "image": "images/business/walter-handyman-llc.jpg",
+    "scene": "Older gray-haired handyman kneeling under a kitchen sink, wrench on the faucet fitting",
+    "created": "2026-11-12"
+  },
+  "1d5f018c-ae2e-4b96-8fb2-42f9e58795dc": {
+    "business": "Bluetape Solutions",
+    "image": "images/business/bluetape-solutions.jpg",
+    "scene": "Woman painter cutting in a bedroom wall edge with a brush above blue painter's tape on the trim",
+    "created": "2026-11-12"
+  },
+  "4433833c-190b-4a3e-91f6-5b6a91159ca2": {
+    "business": "Punchlist Unlimited LLC",
+    "image": "images/business/punchlist-unlimited-llc.jpg",
+    "scene": "Handyman adjusting a light-wood cabinet door hinge with a screwdriver in a bright sunlit kitchen",
+    "created": "2026-11-12"
+  },
+  "2e686f02-0d03-4f4b-866b-c80aa362a38f": {
+    "business": "Pepper's Pressure Washing & Window Cleaning",
+    "image": "images/business/pepper-s-pressure-washing-window-cleaning.jpg",
+    "scene": "Worker pressure washing a concrete driveway, home and Spanish-moss oaks behind in Charleston",
+    "created": "2026-11-12"
+  },
+  "74477b06-34cb-4d6c-9be1-f9a33a8ba54e": {
+    "business": "Pressure Wash Charleston",
+    "image": "images/business/pressure-wash-charleston.jpg",
+    "scene": "Woman soft-washing house siding from the ground with a long wand, garden below",
+    "created": "2026-11-12"
+  },
+  "303d1df6-8847-4aea-931f-f26d00423e91": {
+    "business": "Ambassador Window Cleaning & Maintenance",
+    "image": "images/business/ambassador-window-cleaning-maintenance.jpg",
+    "scene": "Older man cleaning a tall window with a water-fed pole from a lawn, brush on glass of a brick house",
+    "created": "2026-11-12"
+  },
+  "50c13f61-c879-4e8b-8535-8222e69fb595": {
+    "business": "Pressure Washing Charleston",
+    "image": "images/business/pressure-washing-charleston.jpg",
+    "scene": "Worker pressure washing a wooden backyard deck, wand spray on boards, screened porch behind",
+    "created": "2026-11-12"
+  },
+  "6640e7cc-6063-47ae-8d5a-8f0cd411bbf5": {
+    "business": "Water Boys Pressure Washing & Window Cleaning",
+    "image": "images/business/water-boys-pressure-washing-window-cleaning.jpg",
+    "scene": "Woman squeegeeing a large patio sliding window, bucket below on a stone patio",
+    "created": "2026-11-12"
+  },
+  "16d60001-0e59-4b04-bf02-db2079aeec7b": {
+    "business": "Charleston Shine Pressure Washing",
+    "image": "images/business/charleston-shine-pressure-washing.jpg",
+    "scene": "Older worker rinsing a red brick walkway with a pressure wand, historic Charleston home behind",
+    "created": "2026-11-12"
+  },
+  "6866ac7a-b6f8-4b01-a8c1-2b2cdcd2d2c1": {
+    "business": "All-Star Cleaning Co.",
+    "image": "images/business/all-star-cleaning-co.jpg",
+    "scene": "Young worker pressure washing a garage apron and driveway edge, wheeled washer unit beside him",
+    "created": "2026-11-12"
+  },
+  "2bce24ca-1844-4b94-a8bf-3ec4507e426e": {
+    "business": "MaidPure",
+    "image": "images/business/maidpure.jpg",
+    "scene": "Woman with ponytail wiping a white marble kitchen island, cloth touching the counter, coastal windows behind",
+    "created": "2026-11-12"
+  },
+  "efdf59f5-6716-4091-b4c8-cd35d09dab16": {
+    "business": "Sweet Clean of Charleston",
+    "image": "images/business/sweet-clean-of-charleston.jpg",
+    "scene": "Cleaner vacuuming a carpeted staircase, vacuum head flat on a step, sunlit landing",
+    "created": "2026-11-12"
+  },
+  "236886bb-eeed-47e7-b1f6-44e1ef5f2739": {
+    "business": "Castle Keepers House Cleaning",
+    "image": "images/business/castle-keepers-house-cleaning.jpg",
+    "scene": "Bearded man dusting tall wooden bookshelves, feather duster against the books, bright living room",
+    "created": "2026-11-12"
+  },
+  "7052f70e-b988-4c90-99db-141bc8b1ce6f": {
+    "business": "Tidy + Bright Cleaning Co.",
+    "image": "images/business/tidy-bright-cleaning-co.jpg",
+    "scene": "Latina woman polishing a large bathroom mirror with a cloth touching the glass, bright marble vanity below",
+    "created": "2026-11-12"
+  },
+  "f076cf27-75aa-4c22-a884-f3d91b0f2496": {
+    "business": "Star Cleaning SC",
+    "image": "images/business/star-cleaning-sc.jpg",
+    "scene": "Latina cleaner mopping a tile kitchen floor, mop head flat on the floor, supply caddy nearby",
+    "created": "2026-11-12"
+  },
+  "242b3b42-8208-4a1f-a0e9-3838278ade6d": {
+    "business": "Maid My Week Cleaning Service",
+    "image": "images/business/maid-my-week-cleaning-service.jpg",
+    "scene": "Cleaner smoothing a fresh white sheet with both hands on a bed in a bright bedroom",
+    "created": "2026-11-12"
+  },
+  "e0d5a383-48c0-4dfd-968b-221e6c9eeb9a": {
+    "business": "Pup In The Tub Mobile Dog Grooming",
+    "image": "images/business/pup-in-the-tub-mobile-dog-grooming.jpg",
+    "scene": "Groomer bathing a small wet dog in a stainless tub inside a bright grooming van, handheld sprayer on the dog",
+    "created": "2026-11-12"
+  },
+  "aa44921d-3be4-4dbf-a17b-45c4a8fab970": {
+    "business": "Bark & Mane of South Carolina",
+    "image": "images/business/bark-mane-of-south-carolina.jpg",
+    "scene": "Older man with glasses brushing a golden retriever on a grooming table beside an open unbranded white van in a sunny driveway",
+    "created": "2026-11-12"
+  },
+  "26e6a190-bb2e-48f3-9cbb-b74038e7c1ec": {
+    "business": "Pawsitively Pretty Pups",
+    "image": "images/business/pawsitively-pretty-pups.jpg",
+    "scene": "Curly dark-haired woman groomer trimming a white poodle's coat with clippers on a table inside a bright grooming van",
+    "created": "2026-11-12"
+  },
+  "d19dc79a-a7f3-4e5a-a14b-f99b704f4fa9": {
+    "business": "4 Paws & A Tail",
+    "image": "images/business/4-paws-a-tail.jpg",
+    "scene": "Graying bearded man blow-drying a fluffy cream doodle on a table at the open rear of an unbranded van in a sunny driveway",
+    "created": "2026-11-12"
+  },
+  "5979891a-71b7-4484-a0da-bb28ae50f894": {
+    "business": "Cruisin' Kuts",
+    "image": "images/business/cruisin-kuts.jpg",
+    "scene": "Blonde ponytailed young woman trimming a beagle's nails on a grooming table beside a van, clippers at the paw",
+    "created": "2026-11-12"
+  },
+  "22517fd6-cc92-4fc0-b6b1-a2abacc7d5a2": {
+    "business": "The Cleaning Authority - Charleston",
+    "image": "images/business/the-cleaning-authority-charleston.jpg",
+    "scene": "Bearded man in his late 30s scrubbing white shower wall tiles with a brush touching the tile in a bright bathroom, supply bucket on the floor (regenerated after coordinator reject of face-similar v1)",
+    "created": "2026-11-12"
+  },
+  "32539678-8a9d-458e-a50b-c624976adf0a": {
+    "business": "Deserved Comfort House Cleaning",
+    "image": "images/business/deserved-comfort-house-cleaning.jpg",
+    "scene": "Cleaner with ponytail in teal scrubs wiping a granite kitchen island counter, cloth touching granite, bright Columbia home",
+    "created": "2026-11-12"
+  },
+  "1ec7ac05-22d8-4aa5-b683-d5ee82dc5538": {
+    "business": "Sunflower Cleaning Group",
+    "image": "images/business/sunflower-cleaning-group.jpg",
+    "scene": "Cleaner with curly black hair vacuuming a hardwood living room, vacuum head on floor, sunflowers in a vase on a side table",
+    "created": "2026-11-12"
+  },
+  "410d0a63-5785-4312-97e0-f99586ace81b": {
+    "business": "Soul Cleaning",
+    "image": "images/business/soul-cleaning.jpg",
+    "scene": "Blonde cleaner in navy scrubbing a glass shower door, sponge touching soapy glass, bright white-tile bathroom",
+    "created": "2026-11-12"
+  },
+  "552f0039-8273-49f8-a26f-c8bc143b85ff": {
+    "business": "The Dirty Work of SC",
+    "image": "images/business/the-dirty-work-of-sc.jpg",
+    "scene": "Bearded man in dark green mopping a kitchen tile floor, mop head touching tile, bright sunlit kitchen",
+    "created": "2026-11-12"
+  },
+  "2487316c-d2f9-4e33-b5fe-44d00ca31a46": {
+    "business": "Aqua Care Pool Service",
+    "image": "images/business/aqua-care-pool-service.jpg",
+    "scene": "Man in his 30s kneeling on deck testing pool water with a handheld kit at the pool edge",
+    "created": "2026-11-12"
+  },
+  "1a947326-e3dd-4398-bbb2-f617e0271203": {
+    "business": "Crystal Pools LLC",
+    "image": "images/business/crystal-pools-llc.jpg",
+    "scene": "Woman in her 40s with curly ponytail vacuuming the pool floor with a pole vacuum, hose in clear blue water",
+    "created": "2026-11-12"
+  },
+  "f4603733-0522-411f-9ed0-62747a79ea52": {
+    "business": "Soda City Pools and Spas",
+    "image": "images/business/soda-city-pools-and-spas.jpg",
+    "scene": "Bald man in his 50s brushing the pool tile waterline from the deck, brush touching the tile",
+    "created": "2026-11-12"
+  },
+  "fcba2ce3-d057-4486-933c-8b8c60844380": {
+    "business": "All Season Pools, LLC",
+    "image": "images/business/all-season-pools-llc.jpg",
+    "scene": "Young woman with straight black hair emptying a skimmer basket into a bucket beside the open deck skimmer",
+    "created": "2026-11-12"
+  },
+  "1d25513e-6d32-4cae-aebc-446f7dda003e": {
+    "business": "Precision Clean",
+    "image": "images/business/precision-clean.jpg",
+    "scene": "Cleaner in light blue on a step stool dusting ceiling fan blades with a yellow duster touching the blade in a sunlit living room",
+    "created": "2026-11-12"
+  },
+  "55b3ba45-b04d-428c-9740-09c58714ca43": {
+    "business": "Two Maids Columbia",
+    "image": "images/business/two-maids-columbia.jpg",
+    "scene": "Cleaner in gray polishing a stainless refrigerator with a yellow cloth touching its door in a bright white kitchen",
+    "created": "2026-11-12"
+  },
+  "63a37add-6515-479b-8cc3-86b55aff0e2c": {
+    "business": "The Cleaning Authority - West Columbia",
+    "image": "images/business/the-cleaning-authority-west-columbia.jpg",
+    "scene": "Cleaner in white with a long braid making a bed, both hands smoothing the blanket in a bright bedroom",
+    "created": "2026-11-12"
+  },
+  "df312e5f-f6d1-4edf-8d6f-ac3fab16771f": {
+    "business": "CottageCare Columbia",
+    "image": "images/business/cottagecare-columbia.jpg",
+    "scene": "Man in navy wiping tall living-room windows with a squeegee blade pressed against the soapy glass",
+    "created": "2026-11-12"
+  },
+  "1fb01781-e673-4139-a415-b36a0d910084": {
+    "business": "Code Blue Detailing",
+    "image": "images/business/code-blue-detailing.jpg",
+    "scene": "Detailer in navy shirt hand-washing a foam-covered blue sedan with a foam mitt touching the rear door, blue wash bucket beside him in a sunlit driveway",
+    "created": "2026-11-12"
+  },
+  "73279a8b-7abd-4501-be30-f755ada29e2e": {
+    "business": "Obsessive Car Detailing",
+    "image": "images/business/obsessive-car-detailing.jpg",
+    "scene": "Woman with curly ponytail in gray shirt polishing a black coupe hood with an orbital polisher, pad touching the hood, in front of a brick house",
+    "created": "2026-11-12"
+  },
+  "d776e61a-bba3-489c-a91f-c66e8f8745b9": {
+    "business": "3M's Mobile Auto Detailing",
+    "image": "images/business/3m-s-mobile-auto-detailing.jpg",
+    "scene": "Young blond man in red shirt vacuuming an open gray SUV rear seat, nozzle touching the seat, doors attached and open, one consistent gray interior",
+    "created": "2026-11-12"
+  },
+  "d285b142-296c-4aee-bfd1-4fc4c1be40c0": {
+    "business": "EF Professional Detailing",
+    "image": "images/business/ef-professional-detailing.jpg",
+    "scene": "Older gray-haired man with glasses in black polo wiping a white pickup truck rear door with a gray microfiber cloth touching the door, whole truck in frame in a wide driveway shot",
+    "created": "2026-11-12"
+  },
+  "be8e5aaf-f68d-4c64-b330-18b8436f4c10": {
+    "business": "Ultra Gloss Mobile Detailing",
+    "image": "images/business/ultra-gloss-mobile-detailing.jpg",
+    "scene": "Detailer rinsing a silver hatchback with a hose in a driveway, water touching the car",
+    "created": "2026-11-12"
+  },
+  "96290182-168c-4b9b-a791-3a0af84dfa20": {
+    "business": "Fenters Auto Detailing",
+    "image": "images/business/fenters-auto-detailing.jpg",
+    "scene": "Woman with curly ponytail cleaning a car wheel with a brush touching the rim, crouched beside a gray SUV",
+    "created": "2026-11-12"
+  },
+  "ee533404-7d0b-4e89-91f5-6e22e50d2bf0": {
+    "business": "Mad Dog Mobile Detailing",
+    "image": "images/business/mad-dog-mobile-detailing.jpg",
+    "scene": "Bald man with glasses foam-washing a red pickup with a foam cannon, foam on the truck in one single moment",
+    "created": "2026-11-12"
+  },
+  "39960c5e-52c9-424e-bb20-25a05a0734d7": {
+    "business": "Pool Patrol Service",
+    "image": "images/business/pool-patrol-service.jpg",
+    "scene": "Pool technician in work shoes skimming leaves from a backyard pool surface with a pole net touching the water",
+    "created": "2026-11-12"
+  },
+  "e3b98dcf-0441-44bd-b5c8-ab61f8febebe": {
+    "business": "Carolinas Premier Softwash",
+    "image": "images/business/carolinas-premier-softwash.jpg",
+    "scene": "Woman in her 40s with a dark ponytail soft-washing the vinyl siding of a two-story suburban home from the lawn with a long extension wand, spray striking the siding",
+    "created": "2026-11-12"
+  },
+  "b365ec1b-9d54-489c-a613-d0359d6c6c0b": {
+    "business": "Spruce Services and Solutions",
+    "image": "images/business/spruce-services-and-solutions.jpg",
+    "scene": "Man in his early 30s in a cap and navy polo pressure washing a wide concrete driveway in front of a brick ranch home, water jet on the concrete, unbranded washer unit beside him",
+    "created": "2026-11-12"
+  },
+  "96e767b4-b176-44d7-bcf7-827d98db8b15": {
+    "business": "That Guy with a Hammer",
+    "image": "images/business/that-guy-with-a-hammer.jpg",
+    "scene": "Gray-bearded man in his late 50s with glasses kneeling on a wooden porch, hammering a nail into a railing post, open toolbox and spare boards beside him",
+    "created": "2026-11-12"
+  },
+  "9ae330f5-6aed-418c-bea0-7cd66bf457b7": {
+    "business": "Karni Handyman",
+    "image": "images/business/karni-handyman.jpg",
+    "scene": "Man in his late 20s with curly black hair kneeling at an open under-sink kitchen cabinet, wrench on the drain pipe fitting, tool bag and bucket beside him",
+    "created": "2026-11-12"
+  },
+  "fe695256-2197-4df1-b257-aa10ac7ba492": {
+    "business": "Kompulsive Kleaners",
+    "image": "images/business/kompulsive-kleaners.jpg",
+    "scene": "Cleaner in a navy polo and apron wiping a white kitchen island with a yellow microfiber cloth, unbranded spray bottle on the counter, sunlit kitchen with wood cabinets",
+    "created": "2026-11-12"
+  },
+  "7eda7fbe-6231-4fc6-aa92-d2d275f729c1": {
+    "business": "Tidy Care",
+    "image": "images/business/tidy-care.jpg",
+    "scene": "Cleaner vacuuming a beige living-room carpet with an upright vacuum, gray sofa and floor-to-ceiling windows behind him",
+    "created": "2026-11-12"
+  },
+  "94ffc93a-9d49-4e4b-b4e9-87dd1021bd58": {
+    "business": "SC Professional Cleaning",
+    "image": "images/business/sc-professional-cleaning.jpg",
+    "scene": "Cleaner in a teal scrub top flat-mopping a hardwood foyer, mop bucket beside her, sunlight streaming through the open front door",
+    "created": "2026-11-12"
+  },
+  "296372f3-bdfb-4e97-b023-4ffa8e07b149": {
+    "business": "Two Maids Greenville",
+    "image": "images/business/two-maids-greenville.jpg",
+    "scene": "Cleaner in a burgundy top smoothing fresh white linens on a made bed in a bright bedroom, basket of folded towels on the floor",
+    "created": "2026-11-12"
+  },
+  "fe8a5f51-8141-45bf-9add-e76f7c2de19e": {
+    "business": "Carolina Pressure Washers",
+    "image": "images/business/carolina-pressure-washers.jpg",
+    "scene": "Man in his mid-40s with short graying hair and a tan cap pressure washing a wide concrete driveway in front of a brick suburban home, wheeled washer unit and coiled hoses beside him",
+    "created": "2026-11-12"
+  },
+  "86180689-9323-402a-bf28-bdb6b0e8ef67": {
+    "business": "Eco Blast Pressure Washing",
+    "image": "images/business/eco-blast-pressure-washing.jpg",
+    "scene": "Woman in her early 30s with a dark ponytail soft-washing a two-story home light siding from the lawn with a long extension wand, garden beds below",
+    "created": "2026-11-12"
+  },
+  "a17b8e14-c32d-41c8-a51a-0f1dd2d33b9a": {
+    "business": "Two Guys and a Squeegee",
+    "image": "images/business/two-guys-and-a-squeegee.jpg",
+    "scene": "Two workers on a stone patio cleaning tall glass patio doors, curly-haired man in his late 20s pulling a squeegee down the glass while a bald man in his 50s stands by with a soapy bucket and applicator",
+    "created": "2026-11-12"
+  },
+  "66bf5eba-deaf-4c94-9edf-7df5b6174080": {
+    "business": "C3 Wash Pros LLC",
+    "image": "images/business/c3-wash-pros-llc.jpg",
+    "scene": "Black woman in her late 30s with braided hair pressure washing a wooden backyard deck, wand spray striking the boards, patio chairs stacked aside by the fence",
+    "created": "2026-11-12"
+  },
+  "6f98b6fd-50f7-489d-b42f-2f377052a3fc": {
+    "business": "Grindtime Mobile Detailing",
+    "image": "images/business/grindtime-mobile-detailing.jpg",
+    "scene": "Detailer in a navy t-shirt vacuuming the open interior of a silver SUV in a sunny driveway, unbranded white van behind, bucket and folded towels beside the vehicle",
+    "created": "2026-11-12"
+  },
+  "15cf2bdb-5864-4c34-bbda-502812de5018": {
+    "business": "Sunset Pressure Washing",
+    "image": "images/business/sunset-pressure-washing.jpg",
+    "scene": "Woman with a ponytail and cap pressure washing a concrete driveway in front of a red brick home, spray jet striking the concrete, washer unit and coiled hose on the grass",
+    "created": "2026-11-12"
+  },
+  "d57611cd-81ae-4b69-80bf-dc8990f7f81a": {
+    "business": "Tolley's Pressure Washing",
+    "image": "images/business/tolley-s-pressure-washing.jpg",
+    "scene": "Gray-haired bearded worker in a green polo soft-washing the upper vinyl siding of a two-story house from the lawn with a long extension wand, washer unit on the grass",
+    "created": "2026-11-12"
+  },
+  "a7af3657-870e-4ebb-92d6-0a5836a8fb1d": {
+    "business": "Matt The Driveway Guy LLC",
+    "image": "images/business/matt-the-driveway-guy-llc.jpg",
+    "scene": "Bald worker in sunglasses pushing a round surface-cleaner disc across a large concrete driveway in front of a beige stucco home with palm trees",
+    "created": "2026-11-12"
+  },
+  "63578514-b74b-4e23-88d5-40bd4fbed0c6": {
+    "business": "MaidPro Greenville",
+    "image": "images/business/maidpro-greenville.jpg",
+    "scene": "Cleaner in a teal polo vacuuming a beige living-room carpet in a sunlit home, supply caddy with plain spray bottles beside her",
+    "created": "2026-11-12"
+  },
+  "73bfa428-792a-471b-9695-267ffaf10cea": {
+    "business": "MEE&Me Cleaning LLC",
+    "image": "images/business/mee-me-cleaning-llc.jpg",
+    "scene": "Bearded cleaner in a gray t-shirt and blue gloves wiping a white quartz kitchen island with a microfiber cloth, spray bottle in his other hand",
+    "created": "2026-11-12"
+  },
+  "5f9a5628-76e8-4dff-a527-e73c2ada467f": {
+    "business": "Suds on Stone",
+    "image": "images/business/suds-on-stone.jpg",
+    "scene": "Detailer in a black t-shirt and shorts hand-washing a suds-covered silver sedan with a wash mitt in a sunny driveway, soapy bucket and hose on the ground, unbranded white van behind",
+    "created": "2026-11-12"
+  },
+  "d70acb2a-4383-4026-bfee-8dc203cde6b1": {
+    "business": "Munoz Mobile Detailing",
+    "image": "images/business/munoz-mobile-detailing.jpg",
+    "scene": "Woman detailer in a navy cap machine-polishing the hood of a dark blue SUV in a tree-lined driveway, detailing cart with folded towels and plain bottles beside her",
+    "created": "2026-11-12"
+  },
+  "eab9c17d-9c7f-452c-a277-76812849bcfc": {
+    "business": "Bark & Mane of East Greenville County",
+    "image": "images/business/bark-mane-of-east-greenville-county.jpg",
+    "scene": "Woman in her mid-30s with a ponytail and dark apron blow-drying a golden retriever on a hydraulic grooming table beside the open side door of an unbranded white grooming van in a sunny driveway",
+    "created": "2026-11-12"
+  },
+  "93d6dc2b-ef5e-4243-a83c-98153505abc3": {
+    "business": "Dog Gone Hairy Mobile Grooming",
+    "image": "images/business/dog-gone-hairy-mobile-grooming.jpg",
+    "scene": "Bearded man in his mid-40s in a navy t-shirt rinsing a soapy white bichon frise with a handheld sprayer in a stainless tub at the open rear doors of an unbranded grooming trailer",
+    "created": "2026-11-12"
+  },
+  "9fd534b8-5e79-4e60-b0a2-8c792c8c4bfe": {
+    "business": "Zoomin Groomin - Greenville, SC",
+    "image": "images/business/zoomin-groomin-greenville-sc.jpg",
+    "scene": "Young woman with curly dark hair in teal scrubs clipping a black standard poodle on a portable grooming table on a front lawn, unbranded gray grooming van at the curb",
+    "created": "2026-11-12"
+  },
+  "1c2589f7-6c4d-4380-9218-05d44976ff6b": {
+    "business": "Woofie's of SE Greenville",
+    "image": "images/business/woofie-s-of-se-greenville.jpg",
+    "scene": "White-haired man in his late 50s with glasses and a burgundy polo brushing out a Pembroke Welsh corgi on a grooming table on a concrete driveway, unbranded white van and brick house behind him",
+    "created": "2026-11-12"
+  },
+  "2a31909b-f852-48a0-bf44-b4a28c3a256a": {
+    "business": "CastroShines Mobile Detailing",
+    "image": "images/business/castroshines-mobile-detailing.jpg",
+    "scene": "Detailer in his 30s in a black t-shirt foam-cannon washing a white pickup truck in a sunny suburban driveway, unbranded white work van and brick house behind",
+    "created": "2026-11-12"
+  },
+  "9a065a53-67c2-4eb3-a674-5cd8eee0fb57": {
+    "business": "Modern Detailing",
+    "image": "images/business/modern-detailing.jpg",
+    "scene": "Blonde woman in her 40s machine-polishing the hood of a dark blue sedan with a dual-action polisher, unbranded supply cart beside her, craftsman house behind",
+    "created": "2026-11-12"
+  },
+  "97ff8726-a37f-4b76-bff9-8f30ac666cd9": {
+    "business": "Pristine Shine Detailing",
+    "image": "images/business/pristine-shine-detailing.jpg",
+    "scene": "Gray-haired man in his 50s with glasses vacuuming the back seat of a silver SUV through its open door, shop vacuum on the driveway, two-story home behind",
+    "created": "2026-11-12"
+  },
+  "1a4bd764-2006-4496-a904-451251da771b": {
+    "business": "The Bird Bath - Air & Auto Detailing",
+    "image": "images/business/the-bird-bath-air-auto-detailing.jpg",
+    "scene": "Young man with curly brown hair in a red t-shirt hand-washing a red hatchback front fender with a soapy mitt, suds bucket at his feet, coiled hose and unbranded trailer nearby",
+    "created": "2026-11-12"
+  },
+  "f3eb81e4-993f-4a59-9911-befaa0993c4a": {
+    "business": "Greenville House Cleaning",
+    "image": "images/business/greenville-house-cleaning.jpg",
+    "scene": "Red-haired woman in a teal polo vacuuming a light area rug in a sunlit living room with a beige sofa, wooden coffee table, and tall windows",
+    "created": "2026-11-12"
+  },
+  "36919eb8-8128-4a3c-a8d7-0f59f46b5931": {
+    "business": "Homemaid Professional Cleaning Services",
+    "image": "images/business/homemaid-professional-cleaning-services.jpg",
+    "scene": "Gray-haired man with glasses in a navy polo wiping a granite kitchen island with a yellow microfiber cloth, plain spray bottle beside him, white cabinets behind",
+    "created": "2026-11-12"
+  },
+  "b1b7de5b-b231-4e37-a3c7-a7f459824900": {
+    "business": "MOPPS Cleaning Company of Greenville",
+    "image": "images/business/mopps-cleaning-company-of-greenville.jpg",
+    "scene": "Young woman with a dark ponytail in a gray polo flat-mopping a tile bathroom floor, gray bucket beside a freestanding tub, white vanity and glass shower in frame",
+    "created": "2026-11-12"
+  },
+  "16c4c826-7707-4235-b703-2c08d246d5a5": {
+    "business": "Castle Keepers House Cleaning - Greenville",
+    "image": "images/business/castle-keepers-house-cleaning-greenville.jpg",
+    "scene": "Black woman in her early 50s in a burgundy polo smoothing crisp white linens while making a large bed in a bright bedroom",
+    "created": "2026-11-12"
+  },
+  "6d9f7994-65c0-45f7-be60-519ae128d680": {
+    "business": "Psalm 23 Handyman",
+    "image": "images/business/psalm-23-handyman.jpg",
+    "scene": "Gray-bearded handyman with glasses kneeling on a sunny front porch, driving a screw into a wooden porch railing with a cordless drill, bit on the wood, open toolbox beside him",
+    "created": "2026-11-12"
+  },
+  "6e71706e-935c-4b9a-af72-8b2ad6a66e45": {
+    "business": "Honey Dos Done Right",
+    "image": "images/business/honey-dos-done-right.jpg",
+    "scene": "Woman handyman with a ponytail lying on a drop cloth under an open kitchen sink cabinet, adjustable wrench gripping the chrome P-trap fitting, flashlight and tool tote on the floor",
+    "created": "2026-11-12"
+  },
+  "16535c57-be61-451e-863b-977287b78237": {
+    "business": "Home & Happy",
+    "image": "images/business/home-happy.jpg",
+    "scene": "Young handyman in a green polo fitting a brushed-nickel door handle onto a white interior door in a bright hallway, screwdriver tip on the handle screw",
+    "created": "2026-11-12"
+  },
+  "ac85a1ae-5147-44e1-a57e-1a792f3e79dc": {
+    "business": "Sparkles Welding and Handyman Services",
+    "image": "images/business/sparkles-welding-and-handyman-services.jpg",
+    "scene": "Welder in helmet and gloves kneeling on a driveway, welding the bottom rail of a black metal gate with sparks at the single torch contact point, welding machine and cables beside him",
+    "created": "2026-11-12"
+  },
+  "c5efd004-7c51-457a-8dbe-503c7595a297": {
+    "business": "Zoomin Groomin - Lexington & Richland Counties",
+    "image": "images/business/zoomin-groomin-lexington-richland-counties.jpg",
+    "scene": "Curly-haired groomer bathing a fluffy white and tan dog in a soapy tub inside a bright grooming van",
+    "created": "2026-11-12"
+  },
+  "6c6db4c8-7a6b-4d17-a16b-21947d2caf6d": {
+    "business": "Dogs Best Friend",
+    "image": "images/business/dogs-best-friend.jpg",
+    "scene": "Bearded groomer brushing a yellow Labrador on a table beside an open unbranded van in a sunny driveway",
+    "created": "2026-11-12"
+  },
+  "0bc94ed5-855a-40f2-b81d-0086a8a78105": {
+    "business": "Doggy Stylz Mobile Pet Spa",
+    "image": "images/business/doggy-stylz-mobile-pet-spa.jpg",
+    "scene": "Groomer with ponytail trimming a small gray dog coat with clippers on a table inside a bright van",
+    "created": "2026-11-12"
+  },
+  "d6a0b6fe-6338-4355-b33e-52c756717510": {
+    "business": "Southern Comfort Cleaning",
+    "image": "images/business/southern-comfort-cleaning.jpg",
+    "scene": "Blonde cleaner crouched scrubbing an oven front, sponge touching the oven door, bright white Charleston kitchen",
+    "created": "2026-11-12"
+  },
+  "9a20b73a-a7e1-425d-8b89-4acbc8199e1f": {
+    "business": "Katherine's Cleaning Services",
+    "image": "images/business/katherine-s-cleaning-services.jpg",
+    "scene": "Dark-haired cleaner wiping inside an open empty refrigerator, glass shelves resting beside the sink",
+    "created": "2026-11-12"
+  },
+  "6bd1da84-761d-414a-9d03-32c85144c7d1": {
+    "business": "Heidi's Green Cleaning and Organizing",
+    "image": "images/business/heidi-s-green-cleaning-and-organizing.jpg",
+    "scene": "Short gray-haired cleaner organizing a pantry shelf, hands placing a plain jar, bright kitchen",
+    "created": "2026-11-12"
+  },
+  "e96d32ba-4423-4d25-ac2b-d26a4daac229": {
+    "business": "Max Home Solutions",
+    "image": "images/business/max-home-solutions.jpg",
+    "scene": "Handyman on a ladder in a bright bedroom, both hands on the ceiling fan fixture he is installing",
+    "created": "2026-11-12"
+  },
+  "7d5d19f5-1890-454d-81cb-6ffc38baed1a": {
+    "business": "Handyman Husbands LLC",
+    "image": "images/business/handyman-husbands-llc.jpg",
+    "scene": "Handyman kneeling on a sunny front porch, screwdriver touching the front door latch plate, toolbox open beside him",
+    "created": "2026-11-12"
+  },
+  "7773f5fa-31cf-4adc-8016-9a599e10fadb": {
+    "business": "Express Home Services",
+    "image": "images/business/express-home-services.jpg",
+    "scene": "Older handyman with glasses crouching in a bright living room, putty knife touching the drywall patch, drop cloth below",
+    "created": "2026-11-12"
+  },
+  "3b693df9-7e0d-4452-9c80-ec4a2941ada7": {
+    "business": "Patriot Handyman Services",
+    "image": "images/business/patriot-handyman-services.jpg",
+    "scene": "Red-haired handyman mounting a brass bathroom vanity light above a mirror, screwdriver at the fixture base",
+    "created": "2026-11-12"
+  },
+  "d50e3155-0aff-48cb-bcef-8bee8bcbfe3a": {
+    "business": "Wise Guys Home Improvement",
+    "image": "images/business/wise-guys-home-improvement.jpg",
+    "scene": "Handyman kneeling in a bright empty room laying vinyl plank flooring, mallet in hand and yellow tapping block on the plank edge",
+    "created": "2026-11-12"
+  },
+  "84350efc-0db3-4cd3-959f-c31b1dc80c12": {
+    "business": "No-Prints Professional Cleaning Service",
+    "image": "images/business/no-prints-professional-cleaning-service.jpg",
+    "scene": "Cleaner in plain unbranded work clothes wiping a wooden coffee table with a microfiber cloth in a bright sunlit living room, supply caddy on the floor beside her",
+    "created": "2026-11-12"
+  },
+  "288769d4-cbf9-4cc3-8b63-cd526466f047": {
+    "business": "Pawsitively Southern",
+    "image": "images/business/pawsitively-southern.jpg",
+    "scene": "Red-haired groomer in her mid-40s in teal scrubs blow-drying a fluffy golden doodle on a grooming table at the open rear doors of a plain white grooming van in a sunny driveway",
+    "created": "2026-11-12"
+  },
+  "04dcc9fa-0bfb-4e88-84a8-33aa6079c44b": {
+    "business": "Amoria's Cleaning Services",
+    "image": "images/business/amoria-s-cleaning-services.jpg",
+    "scene": "Black cleaner in her early 30s with a high bun, gray tee and apron, wiping a white quartz kitchen island with a yellow microfiber cloth in a bright modern kitchen",
+    "created": "2026-11-12"
+  },
+  "121dbda4-6e36-4287-94fa-16ce24184eb0": {
+    "business": "Just Relax Cleaning Services",
+    "image": "images/business/just-relax-cleaning-services.jpg",
+    "scene": "Gray-haired man in his mid-50s with glasses in a navy polo vacuuming a large light area rug with an upright vacuum, shot through a living-room doorway",
+    "created": "2026-11-12"
+  },
+  "20f77bc6-4ef4-4e08-8374-16bb02e14c9b": {
+    "business": "A MoM's Touch Cleaning Service",
+    "image": "images/business/a-mom-s-touch-cleaning-service.jpg",
+    "scene": "Latina cleaner in her late 20s with a ponytail in a pink tee flat-mopping a hardwood entryway, metal mop bucket beside her, sunlight through the open front door",
+    "created": "2026-11-12"
+  },
+  "5704a752-0ebf-4cd0-a3e4-e48bb904cee7": {
+    "business": "Lowry Details",
+    "image": "images/business/lowry-details.jpg",
+    "scene": "Detailer in his 40s with gray-flecked hair foam-cannon spraying a foam-covered white SUV, whole vehicle in frame on a driveway, unbranded white work van behind",
+    "created": "2026-11-12"
+  },
+  "2c4c7a20-2418-40a5-b1e8-1c25b1160fd2": {
+    "business": "Shine Auto",
+    "image": "images/business/shine-auto.jpg",
+    "scene": "Woman in her early 30s with a dark ponytail machine-polishing the hood of a dark blue sedan with a dual-action polisher, pad flat on the paint, supply cart beside her",
+    "created": "2026-11-12"
+  },
+  "7d68c16f-02e1-4cac-9d40-e72e1eff9c31": {
+    "business": "Swamp Rabbit Mobile Detailing",
+    "image": "images/business/swamp-rabbit-mobile-detailing.jpg",
+    "scene": "Man in his mid-20s with curly brown hair vacuuming the driver seat of a silver pickup through its open door, nozzle touching the seat, portable vacuum unit on the driveway",
+    "created": "2026-11-12"
+  },
+  "4d32c7bb-2d93-4a8e-8684-87d00cf24ec7": {
+    "business": "Krystal Klear Car Detailing",
+    "image": "images/business/krystal-klear-car-detailing.jpg",
+    "scene": "Man in his 50s with a salt-and-pepper beard hand-drying the roof of a freshly washed red coupe with a large microfiber towel, two wash buckets on the driveway",
+    "created": "2026-11-12"
   }
 }

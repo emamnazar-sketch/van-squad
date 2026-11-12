@@ -1,0 +1,32 @@
+# Day 33 — South Carolina | Mount Pleasant | ZIP 29464 | House cleaning
+
+- Date: 2026-11-12 (Day 33 rotation)
+- Cell: Mount Pleasant, SC — ZIP 29464 — Category: House cleaning
+- Count: 6 businesses prepared
+- Method: public information only; business's own website first, then Google Business listings. Phones and emails taken from public sources; never invented.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+- ZIP expansion: not needed — 6 qualifying businesses found serving Mount Pleasant homes in 29464 from their own materials.
+- Service ZIPs: only Star Cleaning SC published an explicit ZIP list on the page checked (29464 and 29466), so its service_zips = ["29464", "29466"]. All others = ["29464"] only — no ZIPs invented. MaidPure's own site prints its address as 1220 Ben Sawyer Blvd Suite W, Mt Pleasant, SC 29464.
+- Dedupe: checked against /tmp/vs_active_day33_open.json (2,991 active businesses) on name and phone, AND a grep of every file in ~/workspace/van-squad/prospecting/ for every name and phone below. All 6 are clear on exact name and phone at write time. Substring hits in the DB (Lone Star Cleaning Solutions, Fluffy Paws / Fluffy Crew / Fluffy Pet Wash pet groomers) are different businesses with different phones — not duplicates.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence | Source |
+|---|---|---|---|---|---|---|---|
+| MaidPure | (843) 284-8272 | House cleaning | Mount Pleasant | https://www.maidpure.com/ | None found on own site | High — own website: "Founded in Mount Pleasant in 2007, MaidPure now cleans homes across the Lowcountry," recurring / deep / move-in-out house cleaning in customers' homes with plant-based products, address "1220 Ben Sawyer Blvd Suite W Mt Pleasant, SC 29464" and phone (843) 284-8272 printed on the page | Business's own website |
+| Sweet Clean of Charleston | (843) 834-4442 | House cleaning | Mount Pleasant | https://sweetcleanofcharleston.com/mt-pleasant-location/ | None found | High — own Mt Pleasant page: "Mount Pleasant based professional cleaning company serving the Lowcountry," "high end residential home cleaning" delivered in homes from Sullivans Island to Kiawah Island, phone (843) 834-4442 printed on the page; Google listing address 757 Johnnie Dodds Blvd, Mt Pleasant | Business's own website (Mt Pleasant location page) |
+| Castle Keepers House Cleaning | (843) 569-4400 | House cleaning | Mount Pleasant | https://castle-keepers.com/mount-pleasant-house-cleaning/ | None found | High — own Mount Pleasant page: recurring eco-friendly house cleaning in Mount Pleasant homes since 1994, Same Team Promise returning to the home every visit, neighborhoods listed include Old Village, I'On, Park West, Dunes West, Carolina Park and Rivertowne, local phone "call (843) 569-4400" printed on the page (the 888 number elsewhere on the site was NOT recorded) | Business's own website (Mount Pleasant page) |
+| Tidy + Bright Cleaning Co. | (854) 227-3434 | House cleaning | Mount Pleasant | https://www.tidyandbrightcleaningco.com/ | None published as an address (mailto link only, address not visible in page text — not recorded) | High — own website: "A locally rooted team — not a national franchise," recurring / deep / move-in-out house cleaning, "Our vetted Lowcountry team arrives on time" at customers' homes, service areas explicitly include Mount Pleasant, phone +1-854-227-3434 printed on the page | Business's own website |
+| Star Cleaning SC | (843) 297-9935 | House cleaning | Mount Pleasant | https://www.starcleaningsc.com/ | admin@starcleaningsc.com — own website: https://www.starcleaningsc.com/blog/mount-pleasant-sc-thanksgiving-house-cleaning-checklist | High — own Mount Pleasant page: veteran-owned residential cleaning, "Star Cleaning SC regularly serves every major community in Mount Pleasant (29464 and 29466), including Carolina Park, Park West, Dunes West, RiverTowne, Old Village, I'On, Belle Hall, Brickyard Plantation, and Hamlin Plantation," phone (843) 297-9935 and email admin@starcleaningsc.com printed on the page | Business's own website (Mount Pleasant page) |
+| Maid My Week Cleaning Service | (843) 259-2392 | House cleaning | Mount Pleasant | https://maidmyweek.com/ | info@maidmyweekcleaningservice.com — own website: https://maidmyweek.com/ | High — own website: title "trusted residential and commercial cleaning in Mount Pleasant," "Trusted home cleaning tailored to your schedule," residential / deep / recurring / move-out cleaning in customers' homes, service areas list Mount Pleasant first, phone (843) 259-2392 and email info@maidmyweekcleaningservice.com published on the site | Business's own website |
+
+## Exclusions / dedupe notes
+
+- Fluffy (fluffychs.com; (843) 268-8511; 75 Port City Landing Ste 110, Mount Pleasant, SC 29464) — EXCLUDED for this category: its own website says it is housekeeping/laundry for short-term rentals, vacation rentals and boutique hotels, "Clients are hosts, property managers and hotels rather than private homeowners" and "We focus on hospitality properties rather than private homes" — not residential house cleaning for homeowners.
+- You've Got Maids of East Cooper ((843) 883-6243, Mt Pleasant listing) — EXCLUDED: national franchise system with no verifiable own local website/phone confirmed from the operator's own materials in this run.
+- Emerald Home Solutions (emeraldsolutions-chs.com; (843) 350-5035) — EXCLUDED for this category: its own materials center on air duct cleaning and related home services, not general house cleaning.
+- Stratus Clean Charleston, Hoodz of Charleston, SERVPRO of Mount Pleasant — EXCLUDED: commercial janitorial / commercial kitchen / restoration focus, not residential house cleaning.
+- Walmart House Cleaning Services, Clutter Cleaner of South Carolina (estate cleanouts/downsizing), Window Hero Charleston, Coastal Pros Powerwashing, Carolina Floor Solutions — EXCLUDED: storefront/national, specialty cleanout, or exterior/floor specialty, not house cleaning.
+- A MaidPure email seen on a third-party review aggregator (info@maidpurecleaningservices.com, with a Tampa 813 phone) belongs to a different operation and was NOT recorded.
+
+## Leads
+
+2 published emails collected (see -leads.json): Star Cleaning SC (admin@starcleaningsc.com), Maid My Week Cleaning Service (info@maidmyweekcleaningservice.com). No email was written into any business profile.

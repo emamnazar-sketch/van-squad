@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "32539678-8a9d-458e-a50b-c624976adf0a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Deserved Comfort House Cleaning",
+      "category": "House cleaning",
+      "phone": "(803) 739-9700",
+      "website": "http://www.deservedcomfort.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1ec7ac05-22d8-4aa5-b683-d5ee82dc5538",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sunflower Cleaning Group",
+      "category": "House cleaning",
+      "phone": "(803) 776-9955",
+      "website": "https://www.sunflowercleaninggroup.com/home",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "410d0a63-5785-4312-97e0-f99586ace81b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Soul Cleaning",
+      "category": "House cleaning",
+      "phone": "(803) 665-6243",
+      "website": "http://www.soulcleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "552f0039-8273-49f8-a26f-c8bc143b85ff",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Dirty Work of SC",
+      "category": "House cleaning",
+      "phone": "(803) 446-1020",
+      "website": "http://www.thedirtyworkllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1d25513e-6d32-4cae-aebc-446f7dda003e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Precision Clean",
+      "category": "House cleaning",
+      "phone": "(803) 995-9748",
+      "website": "https://www.precisioncleanllc.com/residential-cleaning-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "55b3ba45-b04d-428c-9740-09c58714ca43",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Columbia",
+      "category": "House cleaning",
+      "phone": "(803) 630-5806",
+      "website": "http://twomaidscleaning.com/columbia",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "63a37add-6515-479b-8cc3-86b55aff0e2c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - West Columbia",
+      "category": "House cleaning",
+      "phone": "(803) 599-3137",
+      "website": "https://www.thecleaningauthority.com/west-columbia/our-cleaning-services/house-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "df312e5f-f6d1-4edf-8d6f-ac3fab16771f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CottageCare Columbia",
+      "category": "House cleaning",
+      "phone": "(803) 799-0150",
+      "website": "https://cottagecare.com/locations/columbia/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "11e4c844-6652-4055-8208-d6d9aed566aa",
+      "business_id": "32539678-8a9d-458e-a50b-c624976adf0a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "50c599a7-496d-41f7-90e6-8250ba3117de",
+      "business_id": "1ec7ac05-22d8-4aa5-b683-d5ee82dc5538",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7aec89e8-4f2e-4fc3-8e61-7619a6aa6302",
+      "business_id": "410d0a63-5785-4312-97e0-f99586ace81b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fc10db4f-d449-4d57-9540-c81e5cfaa712",
+      "business_id": "552f0039-8273-49f8-a26f-c8bc143b85ff",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "58c6dbed-3938-41c3-95e6-3574b8ed2d9e",
+      "business_id": "1d25513e-6d32-4cae-aebc-446f7dda003e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5157dbb4-e887-47e9-9b66-b692ba67da89",
+      "business_id": "55b3ba45-b04d-428c-9740-09c58714ca43",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "308e63d8-203c-4558-8626-c3a43dd03b9c",
+      "business_id": "63a37add-6515-479b-8cc3-86b55aff0e2c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4681651f-3503-466a-bdc6-84de4728ce53",
+      "business_id": "df312e5f-f6d1-4edf-8d6f-ac3fab16771f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

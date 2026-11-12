@@ -1,0 +1,205 @@
+{
+ "businesses": [
+  {
+   "id": "2e686f02-0d03-4f4b-866b-c80aa362a38f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pepper's Pressure Washing & Window Cleaning",
+   "category": "Pressure washing",
+   "phone": "(843) 480-8113",
+   "website": "https://pepperspressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414",
+    "29407"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "74477b06-34cb-4d6c-9be1-f9a33a8ba54e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Wash Charleston",
+   "category": "Pressure washing",
+   "phone": "(843) 696-4739",
+   "website": "https://pressurewashcharleston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414",
+    "29401"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "303d1df6-8847-4aea-931f-f26d00423e91",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ambassador Window Cleaning & Maintenance",
+   "category": "Pressure washing",
+   "phone": "(843) 766-6890",
+   "website": "https://awc.cc/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "50c13f61-c879-4e8b-8535-8222e69fb595",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Washing Charleston",
+   "category": "Pressure washing",
+   "phone": "(843) 801-8008",
+   "website": "https://www.pressurewashingchs.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6640e7cc-6063-47ae-8d5a-8f0cd411bbf5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Water Boys Pressure Washing & Window Cleaning",
+   "category": "Pressure washing",
+   "phone": "(843) 801-4181",
+   "website": "http://waterboyscharleston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "16d60001-0e59-4b04-bf02-db2079aeec7b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Charleston Shine Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(843) 608-9216",
+   "website": "https://www.charleston-shine.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414",
+    "29407"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6866ac7a-b6f8-4b01-a8c1-2b2cdcd2d2c1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All-Star Cleaning Co.",
+   "category": "Pressure washing",
+   "phone": "(843) 779-9597",
+   "website": "https://www.allstarcleaningcosc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29414"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "100b5d4a-f02c-47e3-ad12-fc871bdb3fec",
+   "business_id": "2e686f02-0d03-4f4b-866b-c80aa362a38f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3a14749c-f47c-4159-8028-c624a385264b",
+   "business_id": "74477b06-34cb-4d6c-9be1-f9a33a8ba54e",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5752785c-f1d3-4999-bc21-cec1bc2d3167",
+   "business_id": "303d1df6-8847-4aea-931f-f26d00423e91",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2c4b3f39-e328-45f4-a039-2a95725a9541",
+   "business_id": "50c13f61-c879-4e8b-8535-8222e69fb595",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "48396f02-b6eb-415d-8ab8-cef320a42c83",
+   "business_id": "6640e7cc-6063-47ae-8d5a-8f0cd411bbf5",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0c8716f5-1b6b-41b3-9bb1-a279cfe50f36",
+   "business_id": "16d60001-0e59-4b04-bf02-db2079aeec7b",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1b9ce665-0687-4887-a0c0-961a75b41bb0",
+   "business_id": "6866ac7a-b6f8-4b01-a8c1-2b2cdcd2d2c1",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

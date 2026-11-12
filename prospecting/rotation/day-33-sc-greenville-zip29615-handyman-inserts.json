@@ -1,0 +1,177 @@
+{
+  "businesses": [
+    {
+      "id": "96e767b4-b176-44d7-bcf7-827d98db8b15",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "That Guy with a Hammer",
+      "category": "Handyman",
+      "phone": "(864) 434-7024",
+      "website": "https://guywithahammer.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29615",
+        "29609"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9ae330f5-6aed-418c-bea0-7cd66bf457b7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Karni Handyman",
+      "category": "Handyman",
+      "phone": "(864) 999-1963",
+      "website": "https://www.karnihandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d9f7994-65c0-45f7-be60-519ae128d680",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Psalm 23 Handyman",
+      "category": "Handyman",
+      "phone": "(864) 735-8483",
+      "website": "http://www.psalm23handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6e71706e-935c-4b9a-af72-8b2ad6a66e45",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Honey Dos Done Right",
+      "category": "Handyman",
+      "phone": "(864) 400-1770",
+      "website": "http://honeydosdoneright.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29615",
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "16535c57-be61-451e-863b-977287b78237",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home & Happy",
+      "category": "Handyman",
+      "phone": "(864) 652-6740",
+      "website": "https://homeandhappy.us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ac85a1ae-5147-44e1-a57e-1a792f3e79dc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sparkles Welding and Handyman Services",
+      "category": "Handyman",
+      "phone": "(864) 406-6406",
+      "website": "https://sparkleshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29615",
+        "29611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "de2511ce-18c8-4031-8059-b3122f63f918",
+      "business_id": "96e767b4-b176-44d7-bcf7-827d98db8b15",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "acdb4255-7139-40ec-9697-e1dae3236be0",
+      "business_id": "9ae330f5-6aed-418c-bea0-7cd66bf457b7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5d5541a8-3a4f-424a-9d04-1a381c9bfdcd",
+      "business_id": "6d9f7994-65c0-45f7-be60-519ae128d680",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "16b87129-8a42-479a-9810-dca260676501",
+      "business_id": "6e71706e-935c-4b9a-af72-8b2ad6a66e45",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4af341aa-583a-48a0-bc37-7531d781d095",
+      "business_id": "16535c57-be61-451e-863b-977287b78237",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3f7cbe41-966e-4bd0-94f9-3c29ebef7b5f",
+      "business_id": "ac85a1ae-5147-44e1-a57e-1a792f3e79dc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

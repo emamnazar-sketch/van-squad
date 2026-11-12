@@ -1,0 +1,148 @@
+{
+  "businesses": [
+    {
+      "id": "e96d32ba-4423-4d25-ac2b-d26a4daac229",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Max Home Solutions",
+      "category": "Handyman",
+      "phone": "(803) 606-5486",
+      "website": "https://maxhomesolutionsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7d5d19f5-1890-454d-81cb-6ffc38baed1a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Husbands LLC",
+      "category": "Handyman",
+      "phone": "(803) 518-8888",
+      "website": "http://www.handymanhusbands.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29210",
+        "29229"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7773f5fa-31cf-4adc-8016-9a599e10fadb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Express Home Services",
+      "category": "Handyman",
+      "phone": "(839) 228-4792",
+      "website": "https://www.xpresshomesservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3b693df9-7e0d-4452-9c80-ec4a2941ada7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Patriot Handyman Services",
+      "category": "Handyman",
+      "phone": "(803) 250-5441",
+      "website": "http://patriothandymansc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d50e3155-0aff-48cb-bcef-8bee8bcbfe3a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wise Guys Home Improvement",
+      "category": "Handyman",
+      "phone": "(803) 622-5235",
+      "website": "https://www.wiseguyscolumbia.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29210",
+        "29201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5b1ebe10-a152-46ee-93a5-551a2e930ccf",
+      "business_id": "e96d32ba-4423-4d25-ac2b-d26a4daac229",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "28d8185b-5221-4540-ba92-9f672c24925a",
+      "business_id": "7d5d19f5-1890-454d-81cb-6ffc38baed1a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3691d140-6884-4cfd-9d0b-b62ac73eb502",
+      "business_id": "7773f5fa-31cf-4adc-8016-9a599e10fadb",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0726d89c-d1e4-4b4b-98f9-38d6fd040d0e",
+      "business_id": "3b693df9-7e0d-4452-9c80-ec4a2941ada7",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c08f214-355d-432e-b331-03bb768c064e",
+      "business_id": "d50e3155-0aff-48cb-bcef-8bee8bcbfe3a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

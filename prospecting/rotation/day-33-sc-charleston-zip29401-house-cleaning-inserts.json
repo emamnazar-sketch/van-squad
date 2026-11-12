@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "b154752c-fdad-443b-84f8-92b0da7c6e22",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Crew Charleston",
+      "category": "House cleaning",
+      "phone": "(843) 608-8409",
+      "website": "http://www.thecleaningcrewcharleston.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "88690906-dfe7-46ce-80b1-c1ee79bcd366",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prestige Cleaning",
+      "category": "House cleaning",
+      "phone": "(843) 696-9021",
+      "website": "https://prestigecleaningandservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4a5443f4-6a86-4d7c-8120-084c38629a53",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prestige Janitorial Services LLC",
+      "category": "House cleaning",
+      "phone": "(843) 704-6003",
+      "website": "https://www.prestigejanitors.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "69306dd4-9a9d-46eb-b649-dfc9513ef936",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Little Palm Cleaning",
+      "category": "House cleaning",
+      "phone": "(843) 380-3033",
+      "website": "http://www.littlepalmcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "22517fd6-cc92-4fc0-b6b1-a2abacc7d5a2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Charleston",
+      "category": "House cleaning",
+      "phone": "(843) 605-4478",
+      "website": "https://www.thecleaningauthority.com/charleston/our-cleaning-services/house-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "83ce9dec-e3a0-4e3e-9374-3e1939ddb1fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Charleston",
+      "category": "House cleaning",
+      "phone": "(843) 286-4886",
+      "website": "https://merrymaids.com/home-cleaners-north-charleston-sc",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7190d3b5-c1e5-4184-b4bc-2e01b990864e",
+      "business_id": "b154752c-fdad-443b-84f8-92b0da7c6e22",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "805a0a01-734c-4b34-8809-ac827e7764bb",
+      "business_id": "88690906-dfe7-46ce-80b1-c1ee79bcd366",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "670119c3-1178-49c5-b6e9-8a4ee65277e3",
+      "business_id": "4a5443f4-6a86-4d7c-8120-084c38629a53",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "44192713-cfb4-4be8-b2c4-d3ee1f7f8e33",
+      "business_id": "69306dd4-9a9d-46eb-b649-dfc9513ef936",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7f8e9f2d-a098-4116-9905-d54afbbdb2ac",
+      "business_id": "22517fd6-cc92-4fc0-b6b1-a2abacc7d5a2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2e385176-f6e0-4ff6-bb70-eea296cf3297",
+      "business_id": "83ce9dec-e3a0-4e3e-9374-3e1939ddb1fa",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

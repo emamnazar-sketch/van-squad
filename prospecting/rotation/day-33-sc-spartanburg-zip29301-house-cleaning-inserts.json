@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "04dcc9fa-0bfb-4e88-84a8-33aa6079c44b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Amoria's Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(864) 586-0895",
+      "website": "http://amoriascleaning.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "121dbda4-6e36-4287-94fa-16ce24184eb0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Just Relax Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(864) 990-1747",
+      "website": "http://www.justrelaxcleaningservices.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "20f77bc6-4ef4-4e08-8374-16bb02e14c9b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A MoM's Touch Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(864) 279-7986",
+      "website": "https://www.momstouchcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29301",
+        "29316"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "84350efc-0db3-4cd3-959f-c31b1dc80c12",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "No-Prints Professional Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(864) 504-4328",
+      "website": "http://no-prints.weebly.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "11ec7b7d-eede-4ffc-9abc-64f71d1a7288",
+      "business_id": "04dcc9fa-0bfb-4e88-84a8-33aa6079c44b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "88db2d49-d767-4d6b-8d9f-b0805040aae9",
+      "business_id": "121dbda4-6e36-4287-94fa-16ce24184eb0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "db7d0a9b-e12a-419b-b5f3-f78b616af10b",
+      "business_id": "20f77bc6-4ef4-4e08-8374-16bb02e14c9b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "475f1f86-9036-4d45-95ec-a870323db2f3",
+      "business_id": "84350efc-0db3-4cd3-959f-c31b1dc80c12",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

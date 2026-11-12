@@ -1,0 +1,117 @@
+{
+ "businesses": [
+  {
+   "id": "c5efd004-7c51-457a-8dbe-503c7595a297",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Zoomin Groomin - Lexington & Richland Counties",
+   "category": "Mobile pet grooming",
+   "phone": "(803) 832-1717",
+   "website": "https://www.zoomingroomin.com/locations/south-carolina/lexington-richland-counties/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29223",
+    "29006",
+    "29016",
+    "29044",
+    "29052",
+    "29061",
+    "29123",
+    "29147",
+    "29160",
+    "29172",
+    "29201",
+    "29203",
+    "29204",
+    "29205",
+    "29206",
+    "29207",
+    "29208",
+    "29209",
+    "29225",
+    "29229",
+    "29033",
+    "29036",
+    "29053",
+    "29054",
+    "29063",
+    "29070",
+    "29072",
+    "29073"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6c6db4c8-7a6b-4d17-a16b-21947d2caf6d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dogs Best Friend",
+   "category": "Mobile pet grooming",
+   "phone": "(803) 691-6753",
+   "website": "http://www.dogsbestfriend.biz/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0bc94ed5-855a-40f2-b81d-0086a8a78105",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Doggy Stylz Mobile Pet Spa",
+   "category": "Mobile pet grooming",
+   "phone": "(980) 240-3243",
+   "website": "https://www.doggystylzmobilepetspa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29223"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "599bb1b7-b594-461f-949c-bd76738e237e",
+   "business_id": "c5efd004-7c51-457a-8dbe-503c7595a297",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a8f3fce7-aafa-4c47-b75f-5a82d291ad72",
+   "business_id": "6c6db4c8-7a6b-4d17-a16b-21947d2caf6d",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dc0b5a9f-2224-4937-ac42-02560b374c1b",
+   "business_id": "0bc94ed5-855a-40f2-b81d-0086a8a78105",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

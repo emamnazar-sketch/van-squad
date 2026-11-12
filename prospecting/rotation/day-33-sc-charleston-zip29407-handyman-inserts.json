@@ -1,0 +1,233 @@
+{
+  "businesses": [
+    {
+      "id": "542298c7-93f0-4df5-8136-09596f69cbed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rapid Repairs",
+      "category": "Handyman",
+      "phone": "(843) 905-3929",
+      "website": "https://rapidrepairs247.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c00cb343-b514-41dc-82f9-6fbda50357fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Charleston Home Repair Services",
+      "category": "Handyman",
+      "phone": "(843) 922-1397",
+      "website": "https://www.chshomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fbbf011b-ad33-4806-a967-50b980f717bc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AZ Smart Fix",
+      "category": "Handyman",
+      "phone": "(843) 364-7828",
+      "website": "https://azsmartfix.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407",
+        "29414"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d5c48a64-84f2-42ae-b666-07187d17345d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carolina Home Mender",
+      "category": "Handyman",
+      "phone": "(843) 990-2434",
+      "website": "https://carolinahomemender.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c837e8ea-f3fd-4fe9-93af-61f57998a860",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sea Islands Home Repair",
+      "category": "Handyman",
+      "phone": "(843) 793-1813",
+      "website": "https://www.seaislandshomerepair.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "74be9150-5845-4515-98a2-3294b992fb43",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Walter Handyman LLC",
+      "category": "Handyman",
+      "phone": "(941) 323-8919",
+      "website": "https://walterhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407",
+        "29405"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1d5f018c-ae2e-4b96-8fb2-42f9e58795dc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bluetape Solutions",
+      "category": "Handyman",
+      "phone": "(843) 410-9249",
+      "website": "https://bluetapesolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407",
+        "29464"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4433833c-190b-4a3e-91f6-5b6a91159ca2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Punchlist Unlimited LLC",
+      "category": "Handyman",
+      "phone": "(843) 981-6515",
+      "website": "https://www.punchlistunlimited.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4898724f-7f40-43bf-9ded-21f4963ba2f3",
+      "business_id": "542298c7-93f0-4df5-8136-09596f69cbed",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d91cb63e-8267-45e1-abf9-8c44130460cc",
+      "business_id": "c00cb343-b514-41dc-82f9-6fbda50357fa",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "74a879b5-68cf-48c3-a79e-35b4f22aa6c9",
+      "business_id": "fbbf011b-ad33-4806-a967-50b980f717bc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b837a15d-4d46-45de-9cd5-caebd3e84522",
+      "business_id": "d5c48a64-84f2-42ae-b666-07187d17345d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1e24ee83-d46b-49b0-badd-f3ac7e83617f",
+      "business_id": "c837e8ea-f3fd-4fe9-93af-61f57998a860",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a14c05d2-7335-442a-9338-b0679a7986d2",
+      "business_id": "74be9150-5845-4515-98a2-3294b992fb43",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d907efc3-87e1-4bb0-90e6-f525ea2c6337",
+      "business_id": "1d5f018c-ae2e-4b96-8fb2-42f9e58795dc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8782d918-43ed-4dd3-98c1-7f51c063455f",
+      "business_id": "4433833c-190b-4a3e-91f6-5b6a91159ca2",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

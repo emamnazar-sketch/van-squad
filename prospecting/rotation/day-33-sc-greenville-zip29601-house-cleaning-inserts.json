@@ -1,0 +1,286 @@
+{
+  "businesses": [
+    {
+      "id": "f3eb81e4-993f-4a59-9911-befaa0993c4a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Greenville House Cleaning",
+      "category": "House cleaning",
+      "phone": "(864) 715-2532",
+      "website": "https://greenvillehousecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "36919eb8-8128-4a3c-a8d7-0f59f46b5931",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Homemaid Professional Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(864) 232-2202",
+      "website": "https://homemaid1.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b1b7de5b-b231-4e37-a3c7-a7f459824900",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MOPPS Cleaning Company of Greenville",
+      "category": "House cleaning",
+      "phone": "(864) 906-2048",
+      "website": "https://mymopps.com/locations/house-cleaning-services-in-greenville-sc/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "16c4c826-7707-4235-b703-2c08d246d5a5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Castle Keepers House Cleaning - Greenville",
+      "category": "House cleaning",
+      "phone": "(864) 200-2550",
+      "website": "https://castle-keepers.com/greenville-house-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fe695256-2197-4df1-b257-aa10ac7ba492",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kompulsive Kleaners",
+      "category": "House cleaning",
+      "phone": "(864) 660-3839",
+      "website": "https://www.kompulsivekleaners.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7eda7fbe-6231-4fc6-aa92-d2d275f729c1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tidy Care",
+      "category": "House cleaning",
+      "phone": "(864) 451-9543",
+      "website": "https://tidycarecleaning.com/contact-tidy-care.php",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "94ffc93a-9d49-4e4b-b4e9-87dd1021bd58",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SC Professional Cleaning",
+      "category": "House cleaning",
+      "phone": "(864) 395-0782",
+      "website": "https://www.scprofessionalcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "296372f3-bdfb-4e97-b023-4ffa8e07b149",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Two Maids Greenville",
+      "category": "House cleaning",
+      "phone": "(864) 626-3343",
+      "website": "https://twomaidsandamop.com/greenville",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "63578514-b74b-4e23-88d5-40bd4fbed0c6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Greenville",
+      "category": "House cleaning",
+      "phone": "(864) 614-8082",
+      "website": "https://www.maidpro.com/greer",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "73bfa428-792a-471b-9695-267ffaf10cea",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MEE&Me Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(864) 625-1389",
+      "website": "https://meemecleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "29601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "28902de9-48d8-4a6e-b15d-f6abf76b0382",
+      "business_id": "f3eb81e4-993f-4a59-9911-befaa0993c4a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "05d54a41-b803-42ab-bbab-ef5f9f4b9054",
+      "business_id": "36919eb8-8128-4a3c-a8d7-0f59f46b5931",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f9194cae-7c22-4a1d-8f9d-b9596c2c29c2",
+      "business_id": "b1b7de5b-b231-4e37-a3c7-a7f459824900",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "41ba7d5c-801f-4782-8620-f6822f978a00",
+      "business_id": "16c4c826-7707-4235-b703-2c08d246d5a5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "43a03aa9-2ee9-4c7f-95ef-df9acf4da632",
+      "business_id": "fe695256-2197-4df1-b257-aa10ac7ba492",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1bbd3c43-ae5a-4473-8f67-b649b7286d53",
+      "business_id": "7eda7fbe-6231-4fc6-aa92-d2d275f729c1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "10ebdf31-0d03-4715-a324-cf6b924e996f",
+      "business_id": "94ffc93a-9d49-4e4b-b4e9-87dd1021bd58",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ab9d7ca8-884d-4811-9acc-b2143cca7db6",
+      "business_id": "296372f3-bdfb-4e97-b023-4ffa8e07b149",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8ef4f28e-502b-47c7-bcf2-f6e215d728a9",
+      "business_id": "63578514-b74b-4e23-88d5-40bd4fbed0c6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a4273f69-bc66-4b0b-8b14-94ff7fe6de2d",
+      "business_id": "73bfa428-792a-471b-9695-267ffaf10cea",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

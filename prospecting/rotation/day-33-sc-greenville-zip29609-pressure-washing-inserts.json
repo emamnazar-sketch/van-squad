@@ -1,0 +1,263 @@
+{
+ "businesses": [
+  {
+   "id": "15cf2bdb-5864-4c34-bbda-502812de5018",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sunset Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(864) 991-9192",
+   "website": "https://sunsetpressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609",
+    "29607"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d57611cd-81ae-4b69-80bf-dc8990f7f81a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tolley's Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(864) 242-1555",
+   "website": "https://www.tolleyspressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609",
+    "29605"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a7af3657-870e-4ebb-92d6-0a5836a8fb1d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Matt The Driveway Guy LLC",
+   "category": "Pressure washing",
+   "phone": "(864) 420-4172",
+   "website": "https://mattthedrivewayguy.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fe8a5f51-8141-45bf-9add-e76f7c2de19e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Carolina Pressure Washers",
+   "category": "Pressure washing",
+   "phone": "(864) 214-5832",
+   "website": "https://carolinapressurewashers.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "86180689-9323-402a-bf28-bdb6b0e8ef67",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eco Blast Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(864) 310-3916",
+   "website": "https://ecoblastsc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a17b8e14-c32d-41c8-a51a-0f1dd2d33b9a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Guys and a Squeegee",
+   "category": "Pressure washing",
+   "phone": "(864) 660-9918",
+   "website": "https://twoguysandasqueegee.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "66bf5eba-deaf-4c94-9edf-7df5b6174080",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "C3 Wash Pros LLC",
+   "category": "Pressure washing",
+   "phone": "(864) 907-1624",
+   "website": "http://c3washpros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609",
+    "29611"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e3b98dcf-0441-44bd-b5c8-ab61f8febebe",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Carolinas Premier Softwash",
+   "category": "Pressure washing",
+   "phone": "(864) 381-8048",
+   "website": "https://www.carolinaspremiersoftwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609",
+    "29607"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b365ec1b-9d54-489c-a613-d0359d6c6c0b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spruce Services and Solutions",
+   "category": "Pressure washing",
+   "phone": "(864) 483-4300",
+   "website": "https://sprucepro.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "29609",
+    "29607"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "7484b059-f6aa-4973-8673-187d0c672d9b",
+   "business_id": "15cf2bdb-5864-4c34-bbda-502812de5018",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0bbda61d-6e2f-42f6-bb3e-e7dd841c778d",
+   "business_id": "d57611cd-81ae-4b69-80bf-dc8990f7f81a",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "30df1d4f-ef1c-428f-8250-ee49da5c1ee4",
+   "business_id": "a7af3657-870e-4ebb-92d6-0a5836a8fb1d",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d8de612d-3685-4700-ad7a-515c6d9080e9",
+   "business_id": "fe8a5f51-8141-45bf-9add-e76f7c2de19e",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "230c6f6b-9d9f-4295-ab25-75b6369f2559",
+   "business_id": "86180689-9323-402a-bf28-bdb6b0e8ef67",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6ad9eeaa-405a-4f79-ae66-178c51c7a333",
+   "business_id": "a17b8e14-c32d-41c8-a51a-0f1dd2d33b9a",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "312353a1-ec06-426f-a9e4-21f31cff3024",
+   "business_id": "66bf5eba-deaf-4c94-9edf-7df5b6174080",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a6d3bc5e-cbf3-478a-acbc-5c3e72a9d2be",
+   "business_id": "e3b98dcf-0441-44bd-b5c8-ab61f8febebe",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "541f486d-c2a9-40b1-af3b-2cf632561d28",
+   "business_id": "b365ec1b-9d54-489c-a613-d0359d6c6c0b",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
