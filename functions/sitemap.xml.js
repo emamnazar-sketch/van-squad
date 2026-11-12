@@ -125,6 +125,7 @@ var STATIC_URLS = [
   ['https://vansquads.com/blog/how-much-does-mobile-car-detailing-cost-in-kansas-city/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-house-cleaning-cost-in-kansas-city/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/how-much-does-pool-cleaning-cost-in-kansas-city/', 'monthly', '0.7'],
+  ['https://vansquads.com/blog/how-much-does-mobile-pet-grooming-cost-in-kansas-city/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-car-detailing/', 'monthly', '0.7'],
   ['https://vansquads.com/services/mobile-pet-grooming/', 'monthly', '0.7'],
   ['https://vansquads.com/services/home-cleaning/', 'monthly', '0.7']
