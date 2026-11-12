@@ -2358,7 +2358,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage, headExtra)
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261112a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261112b">\n' +
     (headExtra || '') +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
