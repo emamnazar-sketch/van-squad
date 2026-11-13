@@ -1,0 +1,180 @@
+{
+  "businesses": [
+    {
+      "id": "248a376c-b12b-4629-a984-592ca035ebaf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Poolwerx Charlotte",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(980) 776-4808",
+      "website": "https://www.poolwerx.com/locations/north-carolina/poolwerx-charlotte/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28262",
+        "28213",
+        "28205",
+        "28269",
+        "28207",
+        "28280",
+        "28079"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3f2dc17d-ca1e-41c1-afb7-68adadff91da",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Escape Pool Cleaning",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(704) 740-2751",
+      "website": "http://escapepoolcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28262"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "59ee9404-31b0-46a4-9296-8e95154bfe3d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tideline Pools & Patio",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(704) 937-1210",
+      "website": "https://www.tidelinepools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28262"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f48704a3-caf0-4cfe-838e-7c87fed4a713",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elite Pool Professionals",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(704) 989-5191",
+      "website": "https://www.elitepoolprofessionals.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28262"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "65719151-8233-49de-9acf-5537cc302ea7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pool Scouts of Lake Norman & South Charlotte",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(704) 912-0515",
+      "website": "https://poolscouts.com/lakenorman/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28262"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "40428446-5b82-44a9-b90b-f9c660db2e83",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carolina Pool King",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(704) 271-9702",
+      "website": "http://www.carolinapoolking.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28262"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0bc5203d-3dd7-4e7d-8217-d9c777d5d9e3",
+      "business_id": "248a376c-b12b-4629-a984-592ca035ebaf",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cfc7b1b0-384a-467a-b0c3-4807843cdf7d",
+      "business_id": "3f2dc17d-ca1e-41c1-afb7-68adadff91da",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5a083e8f-a4f3-4f06-84ad-710bd421bca9",
+      "business_id": "59ee9404-31b0-46a4-9296-8e95154bfe3d",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9c00e8ad-7d93-435c-ad7c-4dfc2efebcbc",
+      "business_id": "f48704a3-caf0-4cfe-838e-7c87fed4a713",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e0d2bcb-8336-437b-9408-b3ee6101c270",
+      "business_id": "65719151-8233-49de-9acf-5537cc302ea7",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "364e6b67-5885-4e86-853f-efaca4c6b1dc",
+      "business_id": "40428446-5b82-44a9-b90b-f9c660db2e83",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "9d7338e1-7c4c-44b4-bc12-2499d01d24b8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Romeo's Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 488-7225",
+      "website": "https://romeosdetailingnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "81ec76f3-4096-4e0d-9a69-06b577fd1675",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dash Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 575-3344",
+      "website": "https://dashmobiledetailingws.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "641eb27b-dbfc-4c37-b047-6c02ff382189",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DOS I BROS Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 934-0104",
+      "website": "http://dosibros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0443fee7-c531-454d-beb8-e7ed0ff4fd8b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Drive by Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 705-4095",
+      "website": "https://www.drivebydetail.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0e85f1e5-272c-4828-a491-d5267c06f310",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Armenta's Mobile Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 644-5766",
+      "website": "https://armentasautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cbed17d4-b3d3-4673-ab3c-0d98cb665e59",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Flawless Finish Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 986-4000",
+      "website": "https://www.flawlessnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "73b78ed1-cb73-48f3-9967-667eaccd9ee3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Faith-fully Clean",
+      "category": "Mobile auto detailing",
+      "phone": "(781) 535-7413",
+      "website": "https://www.faith-fullyclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f424f160-bb37-473f-b663-d8127819e5f7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pro Mobile Detail & Carwash LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(336) 567-7146",
+      "website": "https://promobiledetailandcarwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27127"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "8c84fd43-2910-4e06-9f71-06579cb755d8",
+      "business_id": "9d7338e1-7c4c-44b4-bc12-2499d01d24b8",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b0d22fca-aa20-42c7-ac67-1ed42d069fc9",
+      "business_id": "81ec76f3-4096-4e0d-9a69-06b577fd1675",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a361e243-7cb7-4975-87f6-335542e5795f",
+      "business_id": "641eb27b-dbfc-4c37-b047-6c02ff382189",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "895f4dda-cd9c-4159-a999-8c542dc08ab7",
+      "business_id": "0443fee7-c531-454d-beb8-e7ed0ff4fd8b",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aadcb0fc-52d1-46d3-b37d-dc7600d2252d",
+      "business_id": "0e85f1e5-272c-4828-a491-d5267c06f310",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "376b73c9-d477-424a-ab3e-e2a90a918518",
+      "business_id": "cbed17d4-b3d3-4673-ab3c-0d98cb665e59",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0670f676-6289-4c30-83aa-5343fd7461b2",
+      "business_id": "73b78ed1-cb73-48f3-9967-667eaccd9ee3",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8d8d0bae-35e1-4a17-8cd7-5c21a712f338",
+      "business_id": "f424f160-bb37-473f-b663-d8127819e5f7",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

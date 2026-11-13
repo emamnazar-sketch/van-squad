@@ -1,0 +1,176 @@
+{
+  "businesses": [
+    {
+      "id": "77bf8b29-9df0-44ff-a546-2c2b0f4b91d4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mike's Home Repairs & Remodeling",
+      "category": "Handyman",
+      "phone": "(704) 661-3937",
+      "website": "https://mikesrepairs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28027"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dc0c5d79-79d7-4525-a6f9-7ea46ab2251c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Primetime Creations Handyman Services",
+      "category": "Handyman",
+      "phone": "(704) 396-3730",
+      "website": "http://primetimecreation.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28027"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4bc01901-bf86-4246-adde-701ad0e37a89",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cabco Handyman Services",
+      "category": "Handyman",
+      "phone": "(704) 918-5512",
+      "website": "http://cabcohandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28027"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "640e9da5-25c6-4397-8208-ccebd2dbaf4e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "D. Moore General Maintenance",
+      "category": "Handyman",
+      "phone": "(980) 234-8242",
+      "website": "http://www.dmoorepro.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28027",
+        "28025"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2285c4c9-970b-46ab-a5eb-7d55eb8b02b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A N J Construction",
+      "category": "Handyman",
+      "phone": "(704) 609-4445",
+      "website": "http://anjcarpentry.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28027"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "08e7a78b-6d50-4196-a0ca-4b8e4c35e96f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Volcom Construction",
+      "category": "Handyman",
+      "phone": "(704) 707-4298",
+      "website": "http://www.volcomconstruction.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28027",
+        "28026"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "037c8c6d-134b-48b8-9a60-45c45c386feb",
+      "business_id": "77bf8b29-9df0-44ff-a546-2c2b0f4b91d4",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e2ae28b7-ab3f-4fd6-9f0f-978377cdf03b",
+      "business_id": "dc0c5d79-79d7-4525-a6f9-7ea46ab2251c",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "91066cbb-4c51-477a-9243-4515ebbb3839",
+      "business_id": "4bc01901-bf86-4246-adde-701ad0e37a89",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "36bcfd49-a76e-484e-bf44-9ef3c71b9111",
+      "business_id": "640e9da5-25c6-4397-8208-ccebd2dbaf4e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7b6d5cad-f42e-470a-9fa8-a62512ef2934",
+      "business_id": "2285c4c9-970b-46ab-a5eb-7d55eb8b02b3",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "85ad6f7d-5fa2-4acc-a0d2-9203ca56fb67",
+      "business_id": "08e7a78b-6d50-4196-a0ca-4b8e4c35e96f",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

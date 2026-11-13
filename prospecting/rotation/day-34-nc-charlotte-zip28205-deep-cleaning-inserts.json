@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "6d10af14-b745-4173-885e-51fe19032c61",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Minit Maids",
+      "category": "Deep cleaning",
+      "phone": "(704) 367-9931",
+      "website": "http://www.minitmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4c56c46e-4077-49c4-8dd0-c1db0471676f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Organic Maids",
+      "category": "Deep cleaning",
+      "phone": "(704) 266-1150",
+      "website": "https://theorganicmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b410a8a1-ba56-4bf6-8871-d2aa42c85f95",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "EasyClean",
+      "category": "Deep cleaning",
+      "phone": "(980) 580-7474",
+      "website": "https://bookeasyclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3dd8f06a-3de3-4abb-8801-91956a14cd63",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Smiley Cleaner Charlotte",
+      "category": "Deep cleaning",
+      "phone": "(980) 500-0084",
+      "website": "http://smileycleaner.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "94d7c8f0-7734-4655-a942-04e28a894a47",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Queen",
+      "category": "Deep cleaning",
+      "phone": "(704) 448-0000",
+      "website": "https://thegreenqueencleaning.com/contact-us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a4d626e3-0721-4887-8875-66d48a3a2d79",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sunday Clean Co",
+      "category": "Deep cleaning",
+      "phone": "(980) 446-2750",
+      "website": "https://www.sundayclean.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "711609db-e39b-4857-8177-34e241aaf6b5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Queen City Cleaners",
+      "category": "Deep cleaning",
+      "phone": "(704) 741-1332",
+      "website": "https://www.queencitycleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cccc68e8-a722-4e10-b672-db668417851e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Crown Point Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(980) 326-4477",
+      "website": "https://crownpointcleaning.com/deep-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28205"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ad64f8ec-71ff-49fb-8038-a6a5d039af70",
+      "business_id": "6d10af14-b745-4173-885e-51fe19032c61",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "709a7154-173c-4492-a4fd-7bbf28328722",
+      "business_id": "4c56c46e-4077-49c4-8dd0-c1db0471676f",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "08e1ff50-d46f-4ab2-88f4-29ff2b956d65",
+      "business_id": "b410a8a1-ba56-4bf6-8871-d2aa42c85f95",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6c18ff07-4763-4f63-82f1-557a0612102d",
+      "business_id": "3dd8f06a-3de3-4abb-8801-91956a14cd63",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "abf37461-3f9f-4a9e-81e0-fdad01e1a948",
+      "business_id": "94d7c8f0-7734-4655-a942-04e28a894a47",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b46ddcb8-079f-44b3-a68c-51c43043ec80",
+      "business_id": "a4d626e3-0721-4887-8875-66d48a3a2d79",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8a4c590e-2df1-4a6f-a61a-2ad081d1f477",
+      "business_id": "711609db-e39b-4857-8177-34e241aaf6b5",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c3fad74c-f010-4849-8390-17e805ddbbf2",
+      "business_id": "cccc68e8-a722-4e10-b672-db668417851e",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

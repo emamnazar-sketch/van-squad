@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "b00b6c4c-836d-4471-9105-ac0ab2a85227",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Queen City Power Washing",
+      "category": "Pressure washing",
+      "phone": "(980) 888-8283",
+      "website": "https://www.queencitypowerwashing.com/service-areas/university-city/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "438b6c52-4706-47b5-89ff-2ca5ae9a58f1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zap It Wash",
+      "category": "Pressure washing",
+      "phone": "(704) 919-9730",
+      "website": "https://zapitwash.com/service-areas/north-carolina/huntersville-nc/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b12de05e-a3e7-4cd2-bc77-cd3b101c3db3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Absolute Pressure Wash",
+      "category": "Pressure washing",
+      "phone": "(704) 420-0862",
+      "website": "https://www.absolutepressurewash.net/locations/huntersville-nc",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d50a6b76-d33b-416b-95d7-d47a1a795a6f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pressure Washing Charlotte",
+      "category": "Pressure washing",
+      "phone": "(704) 552-8949",
+      "website": "http://www.pressurewashingcharlotte.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fbd5e01c-9084-48a7-bb77-cd2aef1cca8a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pressure Specific Improvements Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(803) 319-3539",
+      "website": "https://www.psipressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "35b890d3-946a-49ca-b18a-dd9a0aad201e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Premier Power Wash, LLC",
+      "category": "Pressure washing",
+      "phone": "(704) 648-8662",
+      "website": "https://www.premierppw.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6df3c1ca-21e5-4e42-8695-a8d217e89b38",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Living Waters Pro Wash",
+      "category": "Pressure washing",
+      "phone": "(704) 620-2355",
+      "website": "https://livingwatersprowashnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "256757e0-d9b6-4f05-9896-95bfc6bff9b9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carolina Premier Power Wash",
+      "category": "Pressure washing",
+      "phone": "(704) 288-0235",
+      "website": "https://carolinapremierpowerwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28269"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ecd3eb5b-b822-4d6d-ac2b-477de9bd6bef",
+      "business_id": "b00b6c4c-836d-4471-9105-ac0ab2a85227",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cb8a5d94-1763-415b-82e3-aab3439a9326",
+      "business_id": "438b6c52-4706-47b5-89ff-2ca5ae9a58f1",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b6b44ef7-8781-40ed-a782-a86dac629228",
+      "business_id": "b12de05e-a3e7-4cd2-bc77-cd3b101c3db3",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f139a54b-42f1-426a-a72c-33c91f1b509a",
+      "business_id": "d50a6b76-d33b-416b-95d7-d47a1a795a6f",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "36582b68-4e8a-42dc-8144-b1ace13acbb0",
+      "business_id": "fbd5e01c-9084-48a7-bb77-cd2aef1cca8a",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b3aebc2b-7b71-4671-a2ad-1d846eb60b0e",
+      "business_id": "35b890d3-946a-49ca-b18a-dd9a0aad201e",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "24ddee8c-00ee-4fdd-a6dd-bc937dbceec9",
+      "business_id": "6df3c1ca-21e5-4e42-8695-a8d217e89b38",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "97cf5a06-3c21-4c52-822c-e74ba11d952c",
+      "business_id": "256757e0-d9b6-4f05-9896-95bfc6bff9b9",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

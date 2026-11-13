@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "aba0ddb1-241d-4252-bc9b-428fb0c856d1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Parahome Handyman Service",
+      "category": "Handyman",
+      "phone": "(336) 867-3187",
+      "website": "http://parahomesolutionsnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3e0f2a02-4dd7-40c7-b0e3-2321bc607533",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Guilford Handyman Service",
+      "category": "Handyman",
+      "phone": "(336) 383-0011",
+      "website": "https://www.guilford-handyman-service.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7708e74a-3b28-4177-b21d-b363e6e2c0a2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Busy Beaver Handyman",
+      "category": "Handyman",
+      "phone": "(336) 688-0089",
+      "website": "https://busybeavernc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6f7a5719-0724-409e-8a22-eaf5771bd0af",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman of Greensboro",
+      "category": "Handyman",
+      "phone": "(336) 901-9055",
+      "website": "https://www.handymangso.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "07e432a0-7779-4145-bee7-21d9baac1e4d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Quid Pro Quo Services Inc",
+      "category": "Handyman",
+      "phone": "(336) 938-4490",
+      "website": "http://quidproquoservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b061e2cd-3de4-4684-a86d-0d8670741226",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Exceptional Home Improvements, LLC",
+      "category": "Handyman",
+      "phone": "(336) 340-2571",
+      "website": "https://exceptionalhomeimprovements.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "57f45d9d-bb8a-4976-be4b-6339bb40c1af",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Krafted Handyman and Repair",
+      "category": "Handyman",
+      "phone": "(336) 690-2706",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27407"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "734dd5df-e28f-483b-b15b-c3ab09b610ee",
+      "business_id": "aba0ddb1-241d-4252-bc9b-428fb0c856d1",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a5110609-7a8d-4177-ac93-0450c7938702",
+      "business_id": "3e0f2a02-4dd7-40c7-b0e3-2321bc607533",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f558a8e8-b4ce-4cad-867f-0f3ee213baba",
+      "business_id": "7708e74a-3b28-4177-b21d-b363e6e2c0a2",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0881ec21-6a4b-457a-97a3-78a31cdc55bc",
+      "business_id": "6f7a5719-0724-409e-8a22-eaf5771bd0af",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e49f2964-a0df-423f-823b-afe96a5ea14f",
+      "business_id": "07e432a0-7779-4145-bee7-21d9baac1e4d",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e3e7b24e-b279-426b-ac7e-c4dc26122b48",
+      "business_id": "b061e2cd-3de4-4684-a86d-0d8670741226",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2d980ba0-0547-4bd3-8173-0d1862194958",
+      "business_id": "57f45d9d-bb8a-4976-be4b-6339bb40c1af",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

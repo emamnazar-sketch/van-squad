@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "a9704860-5bae-4883-9437-b987db79696d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Power Washing Services LLC and Home Maintenance",
+      "category": "Pressure washing",
+      "phone": "(919) 337-7561",
+      "website": "https://powerwashingllcnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a3ea7701-89ab-491c-8b82-ada26eb2817d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Surface Cleaning Management",
+      "category": "Pressure washing",
+      "phone": "(919) 599-2210",
+      "website": "https://www.surfacecleaningmgt.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5906876d-de37-4789-b83e-11c3df579fd7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pink Pro Wash",
+      "category": "Pressure washing",
+      "phone": "(919) 672-0303",
+      "website": "https://www.pinkprowash.com/power-washing/raleigh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3dbbb014-c203-4784-8892-58e4cb904c04",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carolina Sky Softwash",
+      "category": "Pressure washing",
+      "phone": "(984) 363-7162",
+      "website": "https://carolinaskysoftwashnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4cda9736-7802-4e1d-bac0-486f46c4a5ed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paramount Power Washing",
+      "category": "Pressure washing",
+      "phone": "(919) 418-9199",
+      "website": "https://paramountpowerwashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "285c60f3-348e-4cee-b03e-f3988b348195",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elite Pressure Washing Raleigh",
+      "category": "Pressure washing",
+      "phone": "(919) 890-9074",
+      "website": "https://www.elitepressurewashingraleigh.com/service-areas/raleigh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c5c97242-b3de-4fc7-a534-4c10dee5b359",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Prestige Power Washing",
+      "category": "Pressure washing",
+      "phone": "(919) 520-4521",
+      "website": "https://prestigepowerwashingllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27502"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "10befc9c-b490-4d5a-87d0-5e4d46cff427",
+      "business_id": "a9704860-5bae-4883-9437-b987db79696d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "953f9f5f-7e37-4253-9220-b6f3218e4f19",
+      "business_id": "a3ea7701-89ab-491c-8b82-ada26eb2817d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9bf3611c-ce8b-471f-9880-6652d701d619",
+      "business_id": "5906876d-de37-4789-b83e-11c3df579fd7",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "67e9e89b-629c-4e70-860a-9991ba74d953",
+      "business_id": "3dbbb014-c203-4784-8892-58e4cb904c04",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "61183852-3bca-421f-b6d9-6ab8a2c756a4",
+      "business_id": "4cda9736-7802-4e1d-bac0-486f46c4a5ed",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "65484ba9-b428-4cbf-9806-6492061c503a",
+      "business_id": "285c60f3-348e-4cee-b03e-f3988b348195",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ad198dba-a805-4c5c-afc9-038fdcacb65d",
+      "business_id": "c5c97242-b3de-4fc7-a534-4c10dee5b359",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

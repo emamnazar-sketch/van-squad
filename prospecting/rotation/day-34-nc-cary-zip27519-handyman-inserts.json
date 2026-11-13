@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "c453c1fe-02ab-4207-b3af-9a20ab16c982",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gary The Handyman",
+      "category": "Handyman",
+      "phone": "(919) 414-7941",
+      "website": "https://garythehandyman-nc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ab4292bb-3a55-415a-89f8-3f8d4b9ba54e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Six A's Handyman Service",
+      "category": "Handyman",
+      "phone": "(919) 271-8229",
+      "website": "http://sixashandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "99f3dd5f-7c0a-4635-ad5d-7a8df14978ff",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "You First Repairs LLC",
+      "category": "Handyman",
+      "phone": "(919) 283-1177",
+      "website": "http://www.youfirstrepairs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "29007ff5-0db6-4418-bd80-797aa5b52f9e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CRG Home Services",
+      "category": "Handyman",
+      "phone": "(919) 412-2272",
+      "website": "https://crghomeservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5f2a9b3a-784a-4687-9740-4de11638d945",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Warriors LLC",
+      "category": "Handyman",
+      "phone": "(919) 971-5217",
+      "website": "https://www.handymanwarriors.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9b336581-8aef-4d79-8b45-dea90f4e57f1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Craftsman Direct",
+      "category": "Handyman",
+      "phone": "(919) 612-9000",
+      "website": "https://www.craftsmandirect.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27519"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4cd2e451-c859-461f-8475-be973714030d",
+      "business_id": "c453c1fe-02ab-4207-b3af-9a20ab16c982",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3cf3e428-b1e4-401d-a218-df22cc726a4c",
+      "business_id": "ab4292bb-3a55-415a-89f8-3f8d4b9ba54e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3813b0f8-8fe8-459d-89ab-bcb222d7520f",
+      "business_id": "99f3dd5f-7c0a-4635-ad5d-7a8df14978ff",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5bfccaa6-685e-4aae-b06b-60d77f4dc7d7",
+      "business_id": "29007ff5-0db6-4418-bd80-797aa5b52f9e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e9a64c84-2f75-4e07-b0b2-32dc039385a1",
+      "business_id": "5f2a9b3a-784a-4687-9740-4de11638d945",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "be47ab9c-9aff-4261-9834-25f48b34012c",
+      "business_id": "9b336581-8aef-4d79-8b45-dea90f4e57f1",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

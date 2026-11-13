@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "0eef2fed-a1c8-40d3-a627-0dab2031fc23",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Loren's Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(980) 319-4400",
+      "website": "https://lorenascleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28216"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bdbfa5e9-97ec-402a-8d25-5ffd9e2dfbf1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gleny's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(704) 712-3167",
+      "website": "https://glenycleaning.wixsite.com/glenycleaningservice",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28216"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2d4c4af6-17e4-471b-98ae-1c0f74968ea5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mas Brazilian Services",
+      "category": "House cleaning",
+      "phone": "(704) 218-9722",
+      "website": "https://mymaid.app/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28216"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e816ef9e-2b4b-4667-b89b-ae3ed9783b48",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pristine Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(980) 422-7340",
+      "website": "http://pristinecleaningclt.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28216"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6a2597c9-5c36-4d0a-8979-2d4402d7bc4a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dust and Mop House Cleaning",
+      "category": "House cleaning",
+      "phone": "(704) 741-2727",
+      "website": "https://dustandmop.com/charlotte-nc/house-cleaning-maid/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28216"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c64129f-787d-4189-a637-b314b07b3b3c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ascend Point Clean Co",
+      "category": "House cleaning",
+      "phone": "(980) 540-3109",
+      "website": "https://ascendpointhousecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28216"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d8a16eb3-c9be-476b-b7de-1b844fd1266f",
+      "business_id": "0eef2fed-a1c8-40d3-a627-0dab2031fc23",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a9b14af0-4129-4518-9540-7f170a01111a",
+      "business_id": "bdbfa5e9-97ec-402a-8d25-5ffd9e2dfbf1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7b416cb1-e12f-4ca4-94f8-fd05445812b7",
+      "business_id": "2d4c4af6-17e4-471b-98ae-1c0f74968ea5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c95f35a4-f279-4d8b-83bd-10b5b8cf35ac",
+      "business_id": "e816ef9e-2b4b-4667-b89b-ae3ed9783b48",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5d87aeea-79c8-4968-9f1e-7cc4ad5ce8c7",
+      "business_id": "6a2597c9-5c36-4d0a-8979-2d4402d7bc4a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7bbbf8ba-7d58-46c0-bdb5-a59c35c7ccda",
+      "business_id": "5c64129f-787d-4189-a637-b314b07b3b3c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

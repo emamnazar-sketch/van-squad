@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "80c69d4e-ded4-4bad-a211-14c33b7f29f3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cura Maids",
+      "category": "House cleaning",
+      "phone": "(919) 480-1051",
+      "website": "https://www.curamaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bba8d0ce-96b9-4ed0-99c6-c13b2536394d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Go 2 Girls",
+      "category": "House cleaning",
+      "phone": "(919) 909-8093",
+      "website": "https://go-2-girls.com/raleigh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c0a15eb-a600-4309-b31c-b9b973cbd581",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Raleigh North",
+      "category": "House cleaning",
+      "phone": "(919) 871-9996",
+      "website": "https://www.maidpro.com/raleigh-north/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b963411c-a281-430f-b29b-2e19dc21f94c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Brigade of Raleigh",
+      "category": "House cleaning",
+      "phone": "(919) 877-1050",
+      "website": "https://www.maidbrigade.com/nc/raleigh/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6d997c33-c747-4aac-b0f8-babc61e9a3cf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Enovana Green Cleaning",
+      "category": "House cleaning",
+      "phone": "(919) 801-8588",
+      "website": "https://enovanagreencleaning.com/raleigh-cleaning-services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a76ed5ab-71e5-4955-baba-e0d4ca69159d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Raleigh Cleaning Company",
+      "category": "House cleaning",
+      "phone": "(919) 925-2378",
+      "website": "https://www.raleighcleaningcompany.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e6a0cc52-342e-4421-983a-4724acb00cf1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Carolina Maids",
+      "category": "House cleaning",
+      "phone": "(919) 829-9200",
+      "website": "http://www.carolinamaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a3b1560b-f5e4-4229-a839-501b0cae0fbd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SparkNest Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(984) 412-2684",
+      "website": "https://www.sparknestcleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27615"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "888804ed-c111-4ec3-85a5-e6544fa97eaa",
+      "business_id": "80c69d4e-ded4-4bad-a211-14c33b7f29f3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5e06a458-39b3-4a4f-81c8-feca827f9f9a",
+      "business_id": "bba8d0ce-96b9-4ed0-99c6-c13b2536394d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "37fafd6a-2f34-4ab8-8ce8-39e62a864c29",
+      "business_id": "5c0a15eb-a600-4309-b31c-b9b973cbd581",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d3832a46-dc54-4e78-b5d5-9da925634b63",
+      "business_id": "b963411c-a281-430f-b29b-2e19dc21f94c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c2a66a93-6f3b-4bc0-863d-ee0e8ebd602e",
+      "business_id": "6d997c33-c747-4aac-b0f8-babc61e9a3cf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "da1bc14e-4bb2-421d-af67-ca9fdd786ad1",
+      "business_id": "a76ed5ab-71e5-4955-baba-e0d4ca69159d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ec6e53df-49b4-4929-9cd9-d0c0202368d9",
+      "business_id": "e6a0cc52-342e-4421-983a-4724acb00cf1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f696efa4-fa4a-4148-a2af-bde2d8350cf4",
+      "business_id": "a3b1560b-f5e4-4229-a839-501b0cae0fbd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

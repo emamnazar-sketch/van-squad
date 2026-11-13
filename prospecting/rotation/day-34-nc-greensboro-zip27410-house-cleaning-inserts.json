@@ -1,0 +1,258 @@
+{
+  "businesses": [
+    {
+      "id": "86823b43-ae5b-4239-9e3d-8bb1c1945eca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Maids of The Triad",
+      "category": "House cleaning",
+      "phone": "(336) 292-7800",
+      "website": "https://www.themaidstriad.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f79ddf26-d8e9-4930-ab48-793f018cfb4d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maids of Honor Cleaning",
+      "category": "House cleaning",
+      "phone": "(336) 274-2800",
+      "website": "https://www.maidsofhonorcleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "daaa5592-07f0-4c09-bc82-5c39dc0840fc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KleenItUp",
+      "category": "House cleaning",
+      "phone": "(336) 510-7643",
+      "website": "https://kleenitup.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e783666b-453e-4c10-b004-63ab2c9dfede",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Moppers, Inc.",
+      "category": "House cleaning",
+      "phone": "(336) 203-9847",
+      "website": "https://moppersinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9a4233a4-857b-4f1b-8df5-0275dc2dd093",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Greensboro",
+      "category": "House cleaning",
+      "phone": "(336) 298-2992",
+      "website": "https://www.maidpro.com/greensboro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b334762d-60b8-4d8d-912e-d843cd040121",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Cleaning Authority - Greensboro",
+      "category": "House cleaning",
+      "phone": "(336) 429-5914",
+      "website": "https://www.thecleaningauthority.com/greensboro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95a1d942-f326-48ae-bcf9-49de891619ca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Greensboro",
+      "category": "House cleaning",
+      "phone": "(336) 568-8427",
+      "website": "https://merrymaids.com/home-cleaners-greensboro-nc",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1dd44dc2-3dec-4c22-a8ec-d04280052fab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Greensboro and High Point",
+      "category": "House cleaning",
+      "phone": "(336) 792-5974",
+      "website": "https://www.mollymaid.com/greensboro-high-point/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "39dbd604-675a-4e8c-88a2-9a7a91c963b3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid To EcoClean",
+      "category": "House cleaning",
+      "phone": "(336) 690-1048",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27410"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "19cb11cd-46e3-4e00-89e8-ac794a6b589c",
+      "business_id": "86823b43-ae5b-4239-9e3d-8bb1c1945eca",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "234c7d16-d517-4837-8a84-6eba63b1cf09",
+      "business_id": "f79ddf26-d8e9-4930-ab48-793f018cfb4d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "817d1bfa-9e3e-4992-85f1-6e7a9ad267e9",
+      "business_id": "daaa5592-07f0-4c09-bc82-5c39dc0840fc",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3a231bf2-c156-419c-9de1-ded1a219520a",
+      "business_id": "e783666b-453e-4c10-b004-63ab2c9dfede",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "87e8d692-b945-4fe1-8895-a8c28b835265",
+      "business_id": "9a4233a4-857b-4f1b-8df5-0275dc2dd093",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "abaccbe6-bcdf-4ac5-a580-a93fbc0be48e",
+      "business_id": "b334762d-60b8-4d8d-912e-d843cd040121",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6665dda0-efbd-4a2b-8d40-db35b10a06af",
+      "business_id": "95a1d942-f326-48ae-bcf9-49de891619ca",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c3853610-baec-4c91-914f-0594d288ab83",
+      "business_id": "1dd44dc2-3dec-4c22-a8ec-d04280052fab",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "02cecf62-3321-418b-bd6e-9f8f444b19ce",
+      "business_id": "39dbd604-675a-4e8c-88a2-9a7a91c963b3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

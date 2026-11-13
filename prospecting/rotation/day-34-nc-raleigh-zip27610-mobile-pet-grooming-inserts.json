@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "a413a7be-b56d-4ac0-931e-ca80a5c5f2b4",
+      "name": "Glowing Mobile Pet Spa",
+      "phone": "(919) 438-3346",
+      "category": "Mobile pet grooming",
+      "website": "https://www.glowingmobilepetspa.com/",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c1bc04e-8a3d-4ad1-9d9d-881f930ad57d",
+      "name": "Carolina Mobile Spaw",
+      "phone": "(919) 274-4470",
+      "category": "Mobile pet grooming",
+      "website": "https://carolinamobilespaw.com/",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7ef25c56-afe4-494b-9c31-dbee3aa68252",
+      "name": "Zoomin Groomin North Raleigh",
+      "phone": "(919) 944-4707",
+      "category": "Mobile pet grooming",
+      "website": "https://www.zoomingroomin.com/locations/north-carolina/north-raleigh/mobile-pet-salon-spa/",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "af2dc5f3-2d78-4d71-9976-b27389f20933",
+      "name": "Woofie's of Northwest Raleigh-Cary",
+      "phone": "(984) 377-5080",
+      "category": "Mobile pet grooming",
+      "website": "https://www.woofies.com/northwest-raleigh-cary/durham/mobile-pet-grooming/",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79336f3d-b425-4739-8ea1-e0a778d88bb9",
+      "name": "Top Dog Pet Services",
+      "phone": "(919) 267-5130",
+      "category": "Mobile pet grooming",
+      "website": "https://www.topdogpetservices.com/",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "42163fb1-0ef4-4cd2-9d22-ef8452530b38",
+      "name": "Next Level Pet Resort",
+      "phone": "(252) 915-1989",
+      "category": "Mobile pet grooming",
+      "website": "https://nextlevelpetresort.com/grooming/",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27610"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "df4209f3-1294-4f21-8981-2a72ad969180",
+      "business_id": "a413a7be-b56d-4ac0-931e-ca80a5c5f2b4",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b6b29e68-1929-4a3a-bd84-f45eb523c035",
+      "business_id": "5c1bc04e-8a3d-4ad1-9d9d-881f930ad57d",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f2de681c-f46f-4c05-b343-6f5ca82571d1",
+      "business_id": "7ef25c56-afe4-494b-9c31-dbee3aa68252",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "778f7ea5-e4dd-437a-9a76-0a1b6228e4f7",
+      "business_id": "af2dc5f3-2d78-4d71-9976-b27389f20933",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77019b35-34aa-4720-9578-3786b1e71a59",
+      "business_id": "79336f3d-b425-4739-8ea1-e0a778d88bb9",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b0a592d5-030b-48d3-bd12-c105b3636a25",
+      "business_id": "42163fb1-0ef4-4cd2-9d22-ef8452530b38",
+      "title": "Mobile pet grooming at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

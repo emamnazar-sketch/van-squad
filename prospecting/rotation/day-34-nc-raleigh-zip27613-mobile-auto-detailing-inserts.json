@@ -1,0 +1,258 @@
+{
+  "businesses": [
+    {
+      "id": "66c488f1-64d3-4030-aef3-d85b675fe70d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lee's Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(984) 777-1527",
+      "website": "https://leesmobiledetailing.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d7e26ba3-7249-4374-ad4b-c11d3f522dd4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mobile Car Detailers of Raleigh",
+      "category": "Mobile auto detailing",
+      "phone": "(919) 649-8039",
+      "website": "http://www.mobilecardetailers.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "75ebc712-a28b-4914-9bf9-ba649c109e33",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Royal Touch Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(919) 525-4946",
+      "website": "https://royaltouchmdllc.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7410faee-4cdb-42b4-bcac-8a09df6db857",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Detail Genie",
+      "category": "Mobile auto detailing",
+      "phone": "(919) 708-2733",
+      "website": "https://detailgenierdu.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95ec5be1-e4f9-48dc-a729-9f81e0e11f0a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tang Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(919) 670-6062",
+      "website": "https://www.tangdetailing.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "88551567-e2ad-44de-b0c9-2db3acb5dcbb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ras Car Care Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(919) 527-9229",
+      "website": "https://rascarcare.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9f9d23dc-7c9b-4d5d-8d34-70ee55388a32",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "PWAC Servicing",
+      "category": "Mobile auto detailing",
+      "phone": "(919) 703-8155",
+      "website": "https://pwacservicing.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ca34abe0-81ce-4e8f-99d8-e49c77f6cb92",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MobileGlo Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(984) 833-2442",
+      "website": "https://detailingnc.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "39efb54c-2310-4299-8ead-536940487d49",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mobile Detail Doctor",
+      "category": "Mobile auto detailing",
+      "phone": "(984) 370-3768",
+      "website": "https://mobiledetaildr.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "27613"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "af9744aa-7e02-413c-897a-6a496373d7f2",
+      "business_id": "66c488f1-64d3-4030-aef3-d85b675fe70d",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ceeb499b-4308-4dc8-a154-60194b28ee05",
+      "business_id": "d7e26ba3-7249-4374-ad4b-c11d3f522dd4",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2989691b-5f7d-4aa3-9824-f7f55950ed1f",
+      "business_id": "75ebc712-a28b-4914-9bf9-ba649c109e33",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a1d259fd-7ab7-4c34-a940-d4808aae8cca",
+      "business_id": "7410faee-4cdb-42b4-bcac-8a09df6db857",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4737e137-f247-41d2-9402-b3e13ed413ab",
+      "business_id": "95ec5be1-e4f9-48dc-a729-9f81e0e11f0a",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "150ba3a3-ae0e-4d6d-af37-fe8d7cae8027",
+      "business_id": "88551567-e2ad-44de-b0c9-2db3acb5dcbb",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "171847d9-ce0f-401b-98f5-280c065118c4",
+      "business_id": "9f9d23dc-7c9b-4d5d-8d34-70ee55388a32",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "78e24afd-6eef-4be3-993d-69cced8b6ab2",
+      "business_id": "ca34abe0-81ce-4e8f-99d8-e49c77f6cb92",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bfdb14fb-93c4-4638-b27f-408bc15dcf2b",
+      "business_id": "39efb54c-2310-4299-8ead-536940487d49",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

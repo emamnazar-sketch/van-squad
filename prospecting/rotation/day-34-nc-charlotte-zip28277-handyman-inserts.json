@@ -1,0 +1,232 @@
+{
+  "businesses": [
+    {
+      "id": "dfe23244-b223-48b7-95c8-9359379d13ae",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "FixCraft VP Handyman Services",
+      "category": "Handyman",
+      "phone": "(980) 201-6705",
+      "website": "https://www.fixcraftvp.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "78160b18-e41d-4dfa-86c2-357101cf6204",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Toolbox NC",
+      "category": "Handyman",
+      "phone": "(980) 257-0675",
+      "website": "https://mrtoolboxnc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2dd1e0e4-d134-4c05-a5c4-e6e0e9f6d1e9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman of South Charlotte",
+      "category": "Handyman",
+      "phone": "(980) 316-7792",
+      "website": "https://www.handymanofsouthcharlotte.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9e487f10-3b71-4fc6-a706-c6d4e2f2206d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SkillFlow",
+      "category": "Handyman",
+      "phone": "(980) 776-6528",
+      "website": "https://skillflowclt.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "708c79f0-22ed-4f6a-a514-d5c071e5859c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "USA-Handyman",
+      "category": "Handyman",
+      "phone": "(980) 383-0161",
+      "website": "https://usa-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "124e11f0-fd3a-457c-bc33-ff5da41c4830",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Charlotte Handyman",
+      "category": "Handyman",
+      "phone": "(704) 713-7331",
+      "website": "https://www.charlottehandyman.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277",
+        "28226"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3fc8a333-af66-450c-a3f7-e5789b932a88",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "South Charlotte Services",
+      "category": "Handyman",
+      "phone": "(704) 442-7019",
+      "website": "https://southcharlotteservices.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277",
+        "28210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3e625f9a-119d-4f7d-8cdc-8e096087c76d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman CLT",
+      "category": "Handyman",
+      "phone": "(980) 313-1914",
+      "website": "https://www.handymanclt.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28277"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "25c41aea-c76b-4903-b203-84540d9d5163",
+      "business_id": "dfe23244-b223-48b7-95c8-9359379d13ae",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c1f125a-fa36-4c05-accd-8cd085c3d0db",
+      "business_id": "78160b18-e41d-4dfa-86c2-357101cf6204",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9e3d84dd-4823-4da2-8940-0e670abea8f9",
+      "business_id": "2dd1e0e4-d134-4c05-a5c4-e6e0e9f6d1e9",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6b3113ad-8706-455c-a50b-988f655a389b",
+      "business_id": "9e487f10-3b71-4fc6-a706-c6d4e2f2206d",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5c10623e-8678-465b-845e-6bf7fc219dc9",
+      "business_id": "708c79f0-22ed-4f6a-a514-d5c071e5859c",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d9165bfe-0715-4625-933d-5103d95ec487",
+      "business_id": "124e11f0-fd3a-457c-bc33-ff5da41c4830",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2626cfd7-3ae5-4bdb-a47f-19d1e95ea3cb",
+      "business_id": "3fc8a333-af66-450c-a3f7-e5789b932a88",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2d93d63d-34e4-43e0-b973-03b012bc645c",
+      "business_id": "3e625f9a-119d-4f7d-8cdc-8e096087c76d",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

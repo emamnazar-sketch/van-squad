@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "bc0f4b10-0f03-4318-8f97-f371b57bdf6f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Stevian Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(980) 255-2595",
+      "website": "http://www.steviancleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28078"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c9bf27e9-6ffe-4925-b1c0-fd28ab63e3c4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Upscale Professional Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(704) 875-1463",
+      "website": "http://uspcsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28078"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c7f3e0fa-3e84-47c0-8dcd-6967a150838e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fantastic Maids LLC",
+      "category": "House cleaning",
+      "phone": "(704) 507-8079",
+      "website": "https://www.fantasticmaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28078"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "48773857-de96-4148-b479-4f197fc9c6d2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Peachy Clean Maids",
+      "category": "House cleaning",
+      "phone": "(704) 892-1145",
+      "website": "https://peachycleanmaidsinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28078"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6c8f83d7-d941-4320-ba2b-ea362752f17e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lake Norman EcoClean",
+      "category": "House cleaning",
+      "phone": "(980) 842-7767",
+      "website": "http://lakenormanecoclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28078"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3227357a-a5fa-4994-9a66-dd1cc2f9ef7c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Greener Clean",
+      "category": "House cleaning",
+      "phone": "(704) 765-2035",
+      "website": "https://agreenerclean.net/huntersville/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "28078"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "aef041a8-9860-47f6-b2e7-a1197950fe48",
+      "business_id": "bc0f4b10-0f03-4318-8f97-f371b57bdf6f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5847687e-e0e7-40f2-8439-3c425644005a",
+      "business_id": "c9bf27e9-6ffe-4925-b1c0-fd28ab63e3c4",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "85f2eb51-ce42-4036-b339-7e2edce29a15",
+      "business_id": "c7f3e0fa-3e84-47c0-8dcd-6967a150838e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "07acefe8-3623-4028-b388-758d277a7e3b",
+      "business_id": "48773857-de96-4148-b479-4f197fc9c6d2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "77db4710-b495-4047-84b3-885fb858d78a",
+      "business_id": "6c8f83d7-d941-4320-ba2b-ea362752f17e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1427b072-fdc2-4bc8-939b-03028519a3e8",
+      "business_id": "3227357a-a5fa-4994-9a66-dd1cc2f9ef7c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
