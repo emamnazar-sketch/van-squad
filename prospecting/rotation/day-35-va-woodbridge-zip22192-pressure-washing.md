@@ -1,0 +1,21 @@
+# Day 35 — Virginia × Woodbridge × ZIP 22192 × Pressure washing
+
+Cell: VA | Woodbridge | 22192 | Pressure washing. ≥3 qualified in/ serving 22192, so no adjacent-ZIP expansion was needed for the cell itself; Pro Exterior Wash Plus is headquartered in adjacent Woodbridge ZIP 22191 and explicitly serves Woodbridge (noted per row).
+
+| # | Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Blue Touch Pressure Washing | (703) 232-7364 | Pressure washing | Woodbridge | https://bluetouchwash.com/ | info@bluetouchwash.com — https://bluetouchwash.com/ | High — own site lists its address as 2518 Pembroke Ct, Woodbridge, VA 22192 with phone and email, and residential house soft wash / power wash at properties in Prince William County | Business's own website | Not in open-dump.json or any prospecting/ file by name or phone |
+| 2 | Pressure Wash Pros LLC | (703) 717-1603 | Pressure washing | Woodbridge | https://pressureprosva.com/ | — none published on site — | High — own site: residential house washing, roof and concrete cleaning at homes, phone 703 717 1603 on own site; public listing gives Woodbridge address 2277 Kew Gardens Dr | Business's own website + public listing | Not in open-dump.json or prospecting/ by name or phone |
+| 3 | Pro Exterior Wash Plus | (703) 596-9446 | Pressure washing | Woodbridge | https://proexteriorwash.com/ | jeff@proexteriorwash.com — https://proexteriorwash.com/services/driveway-cleaning-services/ | High — own site: "Trusted Pressure Washing Services in Woodbridge, VA", HQ 13168 Putnam Circle, Woodbridge, VA 22191 (adjacent ZIP), phone and email on own site; residential soft/pressure washing at homes. Note: own site announces it is joining Diamond Power Washers, but it remains a distinct name/phone/website | Business's own website | Not in open-dump.json or prospecting/ by name or phone; distinct from Diamond Power Washers (different name and phone) |
+| 4 | Ultimate Powerwash | (703) 599-2191 | Pressure washing | Woodbridge | https://www.theultimatepowerwash.com/faq/ | — none published on site (form + phone only) — | High — own FAQ: pressure/house washing for homes since 2005, phone on own site, and service-area answers explicitly list Woodbridge and Prince William County communities including Woodbridge, Dale City and Lake Ridge | Business's own website | Not in open-dump.json or prospecting/ by name or phone |
+| 5 | A Better View Inc | (703) 214-2137 | Pressure washing | Woodbridge | https://betterviewinc.com/ | — none published on site — | Medium — own site: family-owned home-wash company, pressure washing for driveways/sidewalks/patios at homes, and its coverage list names Woodbridge under Prince William County; phone is from its public Sterling listing, not shown in the homepage text fetched, so downgraded to Medium | Business's own website + public listing | Not in open-dump.json or prospecting/ by name or phone |
+
+## Exclusions
+- Diamond Power Washers — SKIPPED AS DUPLICATE: same name and phone (703) 853-4738 already in open-dump.json and in day-35 Falls Church pressure-washing cell, even though its Woodbridge page lists a Woodbridge location at 13512 Minnieville Rd #271, Woodbridge, VA 22192 with a different local number.
+- EnviroFresh Services / Power Wash Woodbridge (powerwashwoodbridge.com, listing phone (703) 398-9993) — excluded: its own site says it "connects homeowners … with experienced professionals" and will "match your request with a pro" — a matching/lead-gen model with no local operator of its own, and no phone on its own site.
+- Bright Exterior Cleaning VA — excluded: own site positions it as commercial & government pressure washing specialists only; no residential at-home service confirmed.
+- That 1 Painter Manassas-Woodbridge and Mr. Handyman — excluded: painting/handyman franchises, pressure washing is ancillary, not a dedicated pressure-washing operator.
+- Ventura Painting LLC, Salvador's Painting, Daniel painting service — excluded: painting businesses with power washing as a side offering, no dedicated pressure-washing materials.
+
+## Summary
+5 qualifying businesses, 2 published email leads. No inserts performed (coordinator inserts centrally).

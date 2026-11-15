@@ -1,0 +1,239 @@
+{
+ "businesses": [
+  {
+   "id": "8ef07b63-4b29-4820-ab23-8eb9a846201a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Authority - Chantilly",
+   "category": "House cleaning",
+   "phone": "(571) 252-5307",
+   "website": "https://www.thecleaningauthority.com/chantilly",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151",
+    "20105",
+    "20109",
+    "20110",
+    "20111",
+    "20120",
+    "20121",
+    "20124",
+    "20136",
+    "20143",
+    "20152",
+    "20155",
+    "20169",
+    "20170",
+    "20171",
+    "20190",
+    "20191",
+    "22033",
+    "22124"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7b218127-eafd-4faa-9846-5e1cfbf449ab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Western Fairfax",
+   "category": "House cleaning",
+   "phone": "(703) 350-4167",
+   "website": "https://merrymaids.com/home-cleaners-fairfax-va",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "42e46f83-786e-4ca2-8471-5b6b9fab31f8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Molly Maid of Western Fairfax Co.",
+   "category": "House cleaning",
+   "phone": "(703) 832-0303",
+   "website": "https://www.mollymaid.com/western-fairfax-co/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "07e63859-b1aa-4bea-bb85-b5ad10a25257",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleanables",
+   "category": "House cleaning",
+   "phone": "(571) 877-8326",
+   "website": "https://thecleanables.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5923baf8-618d-44ab-b281-0baf7e4d0e70",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid Brigade of Loudoun and Western Fairfax Counties",
+   "category": "House cleaning",
+   "phone": "(703) 661-6464",
+   "website": "https://loudoun-county.maidbrigade.com/va/chantilly/house-cleaners/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "191c7cf8-82d7-4cb5-9b83-158cd8234481",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Katie's Cleaning Service Inc.",
+   "category": "House cleaning",
+   "phone": "(703) 330-4724",
+   "website": "https://katiecleans.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151",
+    "20109",
+    "20110",
+    "20119",
+    "20120",
+    "20121",
+    "20124",
+    "20136",
+    "20155",
+    "20169",
+    "20181",
+    "20186",
+    "20187",
+    "22026",
+    "22030",
+    "22031",
+    "22032",
+    "22033",
+    "22171"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9999a000-a2ca-4146-b0ac-cee3118337cc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Maids Chantilly",
+   "category": "House cleaning",
+   "phone": "(703) 910-3600",
+   "website": "http://twomaidscleaning.com/chantilly",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20151",
+    "20152"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "9652cd2a-e4a1-44fb-8ba4-ca2d37d0bae8",
+   "business_id": "8ef07b63-4b29-4820-ab23-8eb9a846201a",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3e43c939-3216-4c4b-a830-e458bcc4be26",
+   "business_id": "7b218127-eafd-4faa-9846-5e1cfbf449ab",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c2282b23-219b-43fb-9fa7-96afa2424dfb",
+   "business_id": "42e46f83-786e-4ca2-8471-5b6b9fab31f8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b4560338-b469-4fb0-b55f-1a2ceae53182",
+   "business_id": "07e63859-b1aa-4bea-bb85-b5ad10a25257",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "16440e65-c17f-431e-a272-95b6fd356991",
+   "business_id": "5923baf8-618d-44ab-b281-0baf7e4d0e70",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "635ea338-f272-43ea-a763-2a53e2895a49",
+   "business_id": "191c7cf8-82d7-4cb5-9b83-158cd8234481",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "24b22520-9aa6-4fc0-a63d-2c80ab6a3117",
+   "business_id": "9999a000-a2ca-4146-b0ac-cee3118337cc",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

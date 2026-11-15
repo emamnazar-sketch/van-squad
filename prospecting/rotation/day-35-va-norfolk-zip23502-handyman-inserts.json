@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "6b179dbf-7b26-40a1-a0e4-8a018a8f1874",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Beach Handyman",
+   "category": "Handyman",
+   "phone": "(757) 353-4343",
+   "website": "http://757handy.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d9232daf-5d0b-43cb-8838-2334443f7f76",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "NFA CREW",
+   "category": "Handyman",
+   "phone": "(757) 909-7626",
+   "website": "https://nfacrew.sintra.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e16a4a81-25d6-4522-9997-72925fb00117",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Your Property Partners LLC",
+   "category": "Handyman",
+   "phone": "(757) 219-2214",
+   "website": "https://www.goypp.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4cd66f37-99dd-42f8-aaad-af541482d9db",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mustang Home Services",
+   "category": "Handyman",
+   "phone": "(757) 275-4253",
+   "website": "https://mustanghomeservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fececd6a-71f3-4ffd-ae2b-8bce7b8c0a80",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Legacy Handyman LLC",
+   "category": "Handyman",
+   "phone": "(757) 828-7044",
+   "website": "https://alegacyhandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2be904e5-4918-4aaf-b70e-faafae155584",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Works Pro Services, LLC",
+   "category": "Handyman",
+   "phone": "(757) 799-9321",
+   "website": "https://theworksproservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2d32e8c4-8a37-4bda-9922-0a5e457cd93c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "TB Homes LLC",
+   "category": "Handyman",
+   "phone": "(757) 672-1882",
+   "website": "https://tbhomesllcva.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23502"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2707a389-38b9-4ae0-b3c3-81f7d3ed8bdf",
+   "business_id": "6b179dbf-7b26-40a1-a0e4-8a018a8f1874",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f36c67c5-305e-481e-99e6-5bdedc3748e1",
+   "business_id": "d9232daf-5d0b-43cb-8838-2334443f7f76",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "26302404-7ca0-4abc-9b13-0d6a964895ed",
+   "business_id": "e16a4a81-25d6-4522-9997-72925fb00117",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3ec8f338-3632-4d83-ab16-537f3bb4a56f",
+   "business_id": "4cd66f37-99dd-42f8-aaad-af541482d9db",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9c17a873-3346-4d59-9b72-f0389e6cdd56",
+   "business_id": "fececd6a-71f3-4ffd-ae2b-8bce7b8c0a80",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "542b2807-c179-4c45-98c7-05a31c236f5d",
+   "business_id": "2be904e5-4918-4aaf-b70e-faafae155584",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d89d093e-2001-4df8-af32-0642de8bf99d",
+   "business_id": "2d32e8c4-8a37-4bda-9922-0a5e457cd93c",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

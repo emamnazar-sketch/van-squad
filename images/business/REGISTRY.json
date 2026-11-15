@@ -19290,5 +19290,737 @@
   "image": "images/business/maidpro-raleigh-north.jpg",
   "scene": "Cleaner in an apron and sneakers vacuuming a carpeted living room with an upright vacuum, bright windows, sofa at frame edge",
   "created": "2026-11-13"
+ },
+ "310f0b77-d13d-4013-b0d2-a1862aa30e04": {
+  "business": "TrustyHands Repairs LLC",
+  "image": "images/business/trustyhands-repairs-llc.jpg",
+  "scene": "Handyman mounting a wooden shelf on a living-room wall, level in hand, bright sunlit home",
+  "created": "2026-11-15"
+ },
+ "8a3fe377-6bb1-45b6-a448-2e3d33311887": {
+  "business": "Harry Braswell, Inc. Concierge Home Services",
+  "image": "images/business/harry-braswell-inc-concierge-home-services.jpg",
+  "scene": "Handyman replacing a ceiling light fixture on a step ladder in a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "02ad0e44-fcb6-42c3-89e6-04b07fcf16d9": {
+  "business": "Local Expert Handyman",
+  "image": "images/business/local-expert-handyman.jpg",
+  "scene": "Handyman repairing a wooden deck railing in a sunny backyard, drill in hand",
+  "created": "2026-11-15"
+ },
+ "31b99adc-eb51-49d0-bad1-29a7987c05c6": {
+  "business": "Sam & Sons Services LLC",
+  "image": "images/business/sam-sons-services-llc.jpg",
+  "scene": "Handyman patching drywall in a bright hallway, trowel on the patch",
+  "created": "2026-11-15"
+ },
+ "c0487645-4418-412b-b1f0-0e93f670866b": {
+  "business": "NCG LLC",
+  "image": "images/business/ncg-llc.jpg",
+  "scene": "Handyman installing a door handle on a front door, sunny porch",
+  "created": "2026-11-15"
+ },
+ "c55f9058-74d8-4db7-8611-14c81bc1d49c": {
+  "business": "JEB Of All Trades LLC",
+  "image": "images/business/jeb-of-all-trades-llc.jpg",
+  "scene": "Handyman assembling a wooden bookshelf in a bright living room",
+  "created": "2026-11-15"
+ },
+ "91d4929d-cfc2-43d1-b196-a2da4b29e4a4": {
+  "business": "Alexandria Home Improvement",
+  "image": "images/business/alexandria-home-improvement.jpg",
+  "scene": "Handyman caulking a bathtub edge in a bright white bathroom",
+  "created": "2026-11-15"
+ },
+ "a0233594-f897-4c5e-9244-fdf74ca784f6": {
+  "business": "Platinum Handyman",
+  "image": "images/business/platinum-handyman.jpg",
+  "scene": "Handyman tightening under-sink faucet fittings with a wrench in a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "6681c4cf-61ea-4358-accb-b90e4d6fb47e": {
+  "business": "Arlington Cleaning Services",
+  "image": "images/business/arlington-cleaning-services.jpg",
+  "scene": "Cleaner wiping a kitchen counter, spray bottle in hand, bright sunlit kitchen",
+  "created": "2026-11-15"
+ },
+ "2a231335-01a0-47e3-931c-d4b1e708606d": {
+  "business": "Virginia Housekeepers",
+  "image": "images/business/virginia-housekeepers.jpg",
+  "scene": "Cleaner vacuuming a living-room rug in bright daylight",
+  "created": "2026-11-15"
+ },
+ "8beaa797-2019-4ee8-ac19-b885bb0b2772": {
+  "business": "Potomac Maids",
+  "image": "images/business/potomac-maids.jpg",
+  "scene": "Cleaner making a bed with fresh white linens in a bright bedroom",
+  "created": "2026-11-15"
+ },
+ "278de64e-a89a-447c-bfa1-83941a9dfa9f": {
+  "business": "Costina Cleaning Services",
+  "image": "images/business/costina-cleaning-services.jpg",
+  "scene": "Cleaner mopping a hardwood entryway in a sunlit home",
+  "created": "2026-11-15"
+ },
+ "6fec5e80-1199-42f0-9251-62d8eae8c25e": {
+  "business": "WellNest Professional Cleaning",
+  "image": "images/business/wellnest-professional-cleaning.jpg",
+  "scene": "Cleaner dusting wooden shelves in a bright living room",
+  "created": "2026-11-15"
+ },
+ "ec3aa370-d9ba-4aa5-83b9-aceb5dc8b03e": {
+  "business": "Maids in Brown",
+  "image": "images/business/maids-in-brown.jpg",
+  "scene": "Cleaner polishing a bathroom mirror, bright bathroom",
+  "created": "2026-11-15"
+ },
+ "c0a749ea-d73f-4799-a960-cdb5565546c2": {
+  "business": "Merry Maids of Arlington",
+  "image": "images/business/merry-maids-of-arlington.jpg",
+  "scene": "Cleaner wiping glass patio doors in a sunlit dining room",
+  "created": "2026-11-15"
+ },
+ "0ef1b46e-668b-4627-848e-0a0ae2ee1734": {
+  "business": "Maid Brigade of Arlington",
+  "image": "images/business/maid-brigade-of-arlington.jpg",
+  "scene": "Cleaner carrying a supply caddy into a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "4d608f2a-2c1d-4f7b-88c9-9d21170ca3a8": {
+  "business": "The Maids of Alexandria & Arlington and DC",
+  "image": "images/business/the-maids-of-alexandria-arlington-and-dc.jpg",
+  "scene": "Cleaner scrubbing a kitchen sink in a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "9869ad50-a80c-40a6-9fc0-24db5d555299": {
+  "business": "Caribbean Mobile Detailing LLC",
+  "image": "images/business/caribbean-mobile-detailing-llc.jpg",
+  "scene": "Detailer polishing a sedan hood with a microfiber cloth in a sunny driveway",
+  "created": "2026-11-15"
+ },
+ "9f2e1446-7984-4b69-917b-a09263cfc2af": {
+  "business": "Autodetail DMV",
+  "image": "images/business/autodetail-dmv.jpg",
+  "scene": "Detailer vacuuming a car interior through an open rear door, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "82ca1b6e-6bf8-466c-beb7-c0c05e1e6812": {
+  "business": "Nova Gloss Detailing",
+  "image": "images/business/nova-gloss-detailing.jpg",
+  "scene": "Detailer foam-washing an SUV with a foam cannon in a bright driveway",
+  "created": "2026-11-15"
+ },
+ "b1750da4-2d2f-416a-89d1-a61c4697610a": {
+  "business": "MOD Mobile Detailing",
+  "image": "images/business/mod-mobile-detailing.jpg",
+  "scene": "Detailer cleaning a car windshield with a squeegee in a sunny driveway",
+  "created": "2026-11-15"
+ },
+ "b9fb5ab2-f6a0-4c52-b803-b55d162e4207": {
+  "business": "C&S Car Detailing",
+  "image": "images/business/c-s-car-detailing.jpg",
+  "scene": "Detailer wiping a car dashboard through the open driver door, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "0d5dcc13-ac13-493c-96eb-0dbfb8553478": {
+  "business": "Ecosteamobile",
+  "image": "images/business/ecosteamobile.jpg",
+  "scene": "Detailer steam-cleaning a car seat, steam tool touching the seat, driveway",
+  "created": "2026-11-15"
+ },
+ "68342c0d-2921-4d12-aa95-979ac861fbe9": {
+  "business": "JR Mobile Auto Detailing",
+  "image": "images/business/jr-mobile-auto-detailing.jpg",
+  "scene": "Detailer rinsing a pickup truck with a garden hose in a bright driveway",
+  "created": "2026-11-15"
+ },
+ "afcccfb1-a404-4a33-9a25-7bd4963dc3e4": {
+  "business": "Rana Mobile Car Detailing & Interior Cleaning",
+  "image": "images/business/rana-mobile-car-detailing-interior-cleaning.jpg",
+  "scene": "Detailer shampooing a car rear seat with an extractor, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "d5be7d96-0ba6-498f-9d55-9c1fe368d252": {
+  "business": "Catoctin AutoEdge",
+  "image": "images/business/catoctin-autoedge.jpg",
+  "scene": "Detailer buffing a sports coupe fender with an orbital polisher, bright driveway",
+  "created": "2026-11-15"
+ },
+ "fc1492a9-eb31-4718-9b82-9c6508cf8222": {
+  "business": "washd",
+  "image": "images/business/washd.jpg",
+  "scene": "Worker pressure-washing a concrete driveway, sunny suburban home",
+  "created": "2026-11-15"
+ },
+ "6f2b6751-ead2-49b3-ad0a-86fc78605ae9": {
+  "business": "First Arrival Exterior Services",
+  "image": "images/business/first-arrival-exterior-services.jpg",
+  "scene": "Worker pressure-washing home vinyl siding from the yard, bright day",
+  "created": "2026-11-15"
+ },
+ "0b74369e-5d05-4aa7-912b-50dcef6e9dca": {
+  "business": "Diamond Power Washers",
+  "image": "images/business/diamond-power-washers.jpg",
+  "scene": "Worker pressure-washing a brick walkway in a sunny front yard",
+  "created": "2026-11-15"
+ },
+ "cc8d75a7-6558-4b8e-98d8-59bb6dfb9b3b": {
+  "business": "Revitalized Solutions LLC",
+  "image": "images/business/revitalized-solutions-llc.jpg",
+  "scene": "Worker pressure-washing a wooden deck in a bright backyard",
+  "created": "2026-11-15"
+ },
+ "5c9d3aea-3b71-4d3c-8fe7-d98d4da832b0": {
+  "business": "Velocity Washers",
+  "image": "images/business/velocity-washers.jpg",
+  "scene": "Worker pressure-washing a garage door exterior, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "b1715d3a-cd69-4278-9680-f22e288f2a96": {
+  "business": "Wilson's Power Washing & Sealing",
+  "image": "images/business/wilson-s-power-washing-sealing.jpg",
+  "scene": "Worker applying patio sealant with a pump sprayer, bright backyard",
+  "created": "2026-11-15"
+ },
+ "c6804ec6-156d-49ce-84fa-bf0ddd27170f": {
+  "business": "A&C Outstanding Services LLC",
+  "image": "images/business/a-c-outstanding-services-llc.jpg",
+  "scene": "Worker pressure-washing a concrete front porch and steps, sunny day",
+  "created": "2026-11-15"
+ },
+ "3e7be318-66ea-4590-947e-d96d2ddb3c12": {
+  "business": "MobileDog",
+  "image": "images/business/mobiledog.jpg",
+  "scene": "Groomer brushing a golden retriever on a table beside an unbranded grooming van, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "64dee834-591f-4dec-8c2f-4ee1d9b77789": {
+  "business": "Woofie's of Reston-Herndon-Sterling",
+  "image": "images/business/woofie-s-of-reston-herndon-sterling.jpg",
+  "scene": "Groomer bathing a small white dog in a tub inside a bright grooming van",
+  "created": "2026-11-15"
+ },
+ "398b3ac9-bd06-406b-8c78-4e1bc9d3f991": {
+  "business": "Esther Pro Cleaning Services",
+  "image": "images/business/esther-pro-cleaning-services.jpg",
+  "scene": "Cleaner deep-cleaning an open oven in a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "0d496dba-37c9-4117-a038-ab6dad5fd94c": {
+  "business": "Virginia Skilled Maids",
+  "image": "images/business/virginia-skilled-maids.jpg",
+  "scene": "Cleaner scrubbing bathroom tile grout with a brush, bright bathroom",
+  "created": "2026-11-15"
+ },
+ "1df8872f-d963-4b60-8928-847ccfd5b5a7": {
+  "business": "Pretty Please Cleaning",
+  "image": "images/business/pretty-please-cleaning.jpg",
+  "scene": "Cleaner wiping inside a refrigerator, bright kitchen",
+  "created": "2026-11-15"
+ },
+ "e618d8a9-bdab-434f-ba83-71cb79355e84": {
+  "business": "Smart Choice Cleaning",
+  "image": "images/business/smart-choice-cleaning.jpg",
+  "scene": "Cleaner steam-mopping a kitchen floor, bright kitchen",
+  "created": "2026-11-15"
+ },
+ "76164b54-8b28-46b1-afc2-b1dab122e32e": {
+  "business": "Noble Cleaning Services",
+  "image": "images/business/noble-cleaning-services.jpg",
+  "scene": "Cleaner dusting ceiling-fan blades with a long duster, bright living room",
+  "created": "2026-11-15"
+ },
+ "5bfbcd19-ea70-4a51-b350-ecd7432caca0": {
+  "business": "MaidPro McLean",
+  "image": "images/business/maidpro-mclean.jpg",
+  "scene": "Cleaner wiping a marble kitchen island in a bright upscale kitchen",
+  "created": "2026-11-15"
+ },
+ "4ccab198-237c-4aa2-97d7-331d9ef9874f": {
+  "business": "Maids Prime Cleaning Services",
+  "image": "images/business/maids-prime-cleaning-services.jpg",
+  "scene": "Cleaner vacuuming a carpeted staircase in a bright home",
+  "created": "2026-11-15"
+ },
+ "e120f9c3-513e-4ef4-8a98-2755f2848953": {
+  "business": "DayOne Cleaning",
+  "image": "images/business/dayone-cleaning.jpg",
+  "scene": "Cleaner wiping a stainless refrigerator in a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "6b7f56e5-24bf-4a94-8d18-e74daf695d89": {
+  "business": "HouseCare Cleaning Services",
+  "image": "images/business/housecare-cleaning-services.jpg",
+  "scene": "Cleaner dusting a grand piano in a bright living room",
+  "created": "2026-11-15"
+ },
+ "055449b3-9484-4988-bc39-98ea9d85b88e": {
+  "business": "Absolute Shine Cleaning Services",
+  "image": "images/business/absolute-shine-cleaning-services.jpg",
+  "scene": "Cleaner polishing a glass dining table in a bright dining room",
+  "created": "2026-11-15"
+ },
+ "e2fa2e09-e9bd-4f86-b33e-698ff4da8ac1": {
+  "business": "Capital Clean Care",
+  "image": "images/business/capital-clean-care.jpg",
+  "scene": "Cleaner mopping a tile kitchen floor, bright kitchen",
+  "created": "2026-11-15"
+ },
+ "b7b59088-2cf4-48eb-b82f-adb3873c1778": {
+  "business": "Luxury Touch Cleaning Services",
+  "image": "images/business/luxury-touch-cleaning-services.jpg",
+  "scene": "Cleaner arranging sofa cushions in a bright living room",
+  "created": "2026-11-15"
+ },
+ "198b3edf-70c3-4a2d-b28d-5fd343d05c01": {
+  "business": "Merry Maids of Vienna",
+  "image": "images/business/merry-maids-of-vienna.jpg",
+  "scene": "Cleaner wiping a marble bathroom counter in a bright bathroom",
+  "created": "2026-11-15"
+ },
+ "a8ef87a0-cc6e-41a7-8466-96556c8ca154": {
+  "business": "In And Out Mobile Auto Cleaning",
+  "image": "images/business/in-and-out-mobile-auto-cleaning.jpg",
+  "scene": "Detailer wiping a minivan sliding-door panel in a sunny driveway",
+  "created": "2026-11-15"
+ },
+ "07b58139-fc3c-45d7-9d28-dacec92659c0": {
+  "business": "Ducky Detailing",
+  "image": "images/business/ducky-detailing.jpg",
+  "scene": "Detailer hand-washing a blue hatchback with a mitt, bright driveway",
+  "created": "2026-11-15"
+ },
+ "c3a6a3f2-9c50-4271-a18b-2b60493106c9": {
+  "business": "Reflections Auto Salon",
+  "image": "images/business/reflections-auto-salon.jpg",
+  "scene": "Detailer waxing a black sedan roof in a sunny driveway",
+  "created": "2026-11-15"
+ },
+ "8573d4b5-627d-46d7-806f-1a8f292e585c": {
+  "business": "F1 Auto Detailing & Ceramic Coating",
+  "image": "images/business/f1-auto-detailing-ceramic-coating.jpg",
+  "scene": "Detailer wiping a dark sports car door with a microfiber towel, bright driveway",
+  "created": "2026-11-15"
+ },
+ "5c9e5034-7d6b-4663-83fa-9bda0f16fed7": {
+  "business": "Street Details",
+  "image": "images/business/street-details.jpg",
+  "scene": "Detailer brushing a car alloy wheel in a sunny driveway",
+  "created": "2026-11-15"
+ },
+ "6b763df0-e067-4831-8da9-830dff0cef04": {
+  "business": "GPI Enterprises",
+  "image": "images/business/gpi-enterprises.jpg",
+  "scene": "Handyman replacing a porch light fixture beside a front door, sunny day",
+  "created": "2026-11-15"
+ },
+ "92fb0676-5eed-42c7-a23b-259ae4a1d19e": {
+  "business": "Mcpro Handyman",
+  "image": "images/business/mcpro-handyman.jpg",
+  "scene": "Handyman installing a ceiling fan from a ladder in a bright bedroom",
+  "created": "2026-11-15"
+ },
+ "97116f68-60b3-4b9f-81ad-2330a5e09c33": {
+  "business": "JD Home Pros LLC",
+  "image": "images/business/jd-home-pros-llc.jpg",
+  "scene": "Handyman repairing a fence gate with a drill in a sunny backyard",
+  "created": "2026-11-15"
+ },
+ "96424746-5868-42fd-b832-4d3000ff66f3": {
+  "business": "Ace Handyman Services NoVa West",
+  "image": "images/business/ace-handyman-services-nova-west.jpg",
+  "scene": "Handyman mounting a flat-screen TV in a bright living room",
+  "created": "2026-11-15"
+ },
+ "1af7b176-33e2-4d8b-adf5-92b15f56484d": {
+  "business": "M&D Home Repairs and Remodeling",
+  "image": "images/business/m-d-home-repairs-and-remodeling.jpg",
+  "scene": "Handywoman laying a tile backsplash in a bright kitchen",
+  "created": "2026-11-15"
+ },
+ "63e6a827-0d3b-4ac1-ab30-83e4adcc8957": {
+  "business": "C.M. Hunter inc.",
+  "image": "images/business/c-m-hunter-inc.jpg",
+  "scene": "Handyman sanding a wooden stair handrail in a bright entryway",
+  "created": "2026-11-15"
+ },
+ "8ef07b63-4b29-4820-ab23-8eb9a846201a": {
+  "business": "The Cleaning Authority - Chantilly",
+  "image": "images/business/the-cleaning-authority-chantilly.jpg",
+  "scene": "Cleaner wiping a granite kitchen counter, bright kitchen",
+  "created": "2026-11-15"
+ },
+ "7b218127-eafd-4faa-9846-5e1cfbf449ab": {
+  "business": "Merry Maids of Western Fairfax",
+  "image": "images/business/merry-maids-of-western-fairfax.jpg",
+  "scene": "Cleaner vacuuming a hardwood living room in bright daylight",
+  "created": "2026-11-15"
+ },
+ "42e46f83-786e-4ca2-8471-5b6b9fab31f8": {
+  "business": "Molly Maid of Western Fairfax Co.",
+  "image": "images/business/molly-maid-of-western-fairfax-co.jpg",
+  "scene": "Cleaner making a bed in a bright guest bedroom",
+  "created": "2026-11-15"
+ },
+ "07e63859-b1aa-4bea-bb85-b5ad10a25257": {
+  "business": "The Cleanables",
+  "image": "images/business/the-cleanables.jpg",
+  "scene": "Cleaner dusting window blinds in a bright sunroom",
+  "created": "2026-11-15"
+ },
+ "5923baf8-618d-44ab-b281-0baf7e4d0e70": {
+  "business": "Maid Brigade of Loudoun and Western Fairfax Counties",
+  "image": "images/business/maid-brigade-of-loudoun-and-western-fairfax-counties.jpg",
+  "scene": "Cleaner carrying a supply bucket up bright front steps",
+  "created": "2026-11-15"
+ },
+ "191c7cf8-82d7-4cb5-9b83-158cd8234481": {
+  "business": "Katie's Cleaning Service Inc.",
+  "image": "images/business/katie-s-cleaning-service-inc.jpg",
+  "scene": "Cleaner wiping a bathroom glass panel in a bright bathroom",
+  "created": "2026-11-15"
+ },
+ "9999a000-a2ca-4146-b0ac-cee3118337cc": {
+  "business": "Two Maids Chantilly",
+  "image": "images/business/two-maids-chantilly.jpg",
+  "scene": "Cleaner mopping a bright foyer with a curved staircase",
+  "created": "2026-11-15"
+ },
+ "71e49c76-4bc2-4792-be2c-dcc4f3be01f0": {
+  "business": "Doggies Mobile Day Spa",
+  "image": "images/business/doggies-mobile-day-spa.jpg",
+  "scene": "Groomer blow-drying a poodle on a table beside an unbranded grooming van, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "84f60d66-cf4c-4ec1-80dd-67ba23e7e899": {
+  "business": "VIP Pet Elite",
+  "image": "images/business/vip-pet-elite.jpg",
+  "scene": "Groomer trimming a shih tzu with clippers inside a bright grooming van",
+  "created": "2026-11-15"
+ },
+ "67eb27a8-7969-461a-b6c3-02dbf108bc9a": {
+  "business": "All Around Town Mobile Pet Spa",
+  "image": "images/business/all-around-town-mobile-pet-spa.jpg",
+  "scene": "Groomer brushing a husky beside an unbranded grooming trailer, sunny driveway",
+  "created": "2026-11-15"
+ },
+ "6b85e549-4f37-4caf-b61c-67f0c85b62b6": {
+  "business": "Blue Touch Pressure Washing",
+  "image": "images/business/blue-touch-pressure-washing.jpg",
+  "scene": "Worker pressure-washing a home's front siding, sunny day",
+  "created": "2026-11-15"
+ },
+ "1fd3e1a8-869a-423f-a305-0b7fac9d7bb7": {
+  "business": "Pressure Wash Pros LLC",
+  "image": "images/business/pressure-wash-pros-llc.jpg",
+  "scene": "Worker pressure-washing a concrete patio, bright day",
+  "created": "2026-11-15"
+ },
+ "c1a5840a-8446-41d9-a870-0ead8c067ebf": {
+  "business": "Pro Exterior Wash Plus",
+  "image": "images/business/pro-exterior-wash-plus.jpg",
+  "scene": "Worker pressure-washing a driveway apron at the curb, sunny street",
+  "created": "2026-11-15"
+ },
+ "3478a353-daad-45e0-b815-8ab83a39d40d": {
+  "business": "Ultimate Powerwash",
+  "image": "images/business/ultimate-powerwash.jpg",
+  "scene": "Worker pressure-washing a vinyl fence in a bright backyard",
+  "created": "2026-11-15"
+ },
+ "35cb638b-b484-4b49-9e62-41dabfb41d7f": {
+  "business": "A Better View Inc",
+  "image": "images/business/a-better-view-inc.jpg",
+  "scene": "Worker pressure-washing a stone retaining wall, sunny front yard",
+  "created": "2026-11-15"
+ },
+ "1050c248-7031-49e8-af6c-a5392a27c9ef": {
+  "business": "Patriot Cleaning Services",
+  "image": "images/business/patriot-cleaning-services.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "2c60fe03-a477-4f05-ad27-49fde049a316": {
+  "business": "New Image Cleaning Service",
+  "image": "images/business/new-image-cleaning-service.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "49046380-9602-4225-9a5c-e29f2697899e": {
+  "business": "The Cleaning Authority - Richmond",
+  "image": "images/business/the-cleaning-authority-richmond.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "5372181f-3201-4836-8a9f-942eae669214": {
+  "business": "Two Maids Richmond",
+  "image": "images/business/two-maids-richmond.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "a70576d8-9985-4ec9-82d7-0bffccc12be2": {
+  "business": "MaidPro Mechanicsville",
+  "image": "images/business/maidpro-mechanicsville.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "a1c39050-c199-4a5f-865a-fa9ae72c344c": {
+  "business": "RVA Maids",
+  "image": "images/business/rva-maids.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "5f34f702-8bad-4135-afe3-9dc9a441638f": {
+  "business": "HandiMaids Inc",
+  "image": "images/business/handimaids-inc.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "6d5fb43a-c24e-4ae9-ae88-6dd5c44b4ce4": {
+  "business": "Classic Touch Cleaning",
+  "image": "images/business/classic-touch-cleaning.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "0dd3c734-cc78-495f-9602-cf5415a304bf": {
+  "business": "Maid Crew House Cleaning of Richmond",
+  "image": "images/business/maid-crew-house-cleaning-of-richmond.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "e1178c82-88a1-41cc-bc2c-d0ee56a8b5d4": {
+  "business": "Nash Mobile Detailing",
+  "image": "images/business/nash-mobile-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "a87ecb41-e3ba-4fde-9d23-914029fcdf80": {
+  "business": "What's Up Washes",
+  "image": "images/business/what-s-up-washes.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "cc817abb-51f7-4fdf-bfc4-2f19c3e25e93": {
+  "business": "Arvos Mobile Detailing LLC",
+  "image": "images/business/arvos-mobile-detailing-llc.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "34f6b285-996d-4c83-9b77-fa73d11605c7": {
+  "business": "Driveway Detail RVA",
+  "image": "images/business/driveway-detail-rva.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "513dc6d3-a308-439c-b188-c14aebe41e0a": {
+  "business": "SprayRVA",
+  "image": "images/business/sprayrva.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "e800889d-077c-4bdd-954d-083ba1ba19ba": {
+  "business": "Quality Control Auto Detailing",
+  "image": "images/business/quality-control-auto-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "cb97bafe-d0d9-4560-b75c-bdb96ffc6b11": {
+  "business": "A Tender Touch Mobile Detailing",
+  "image": "images/business/a-tender-touch-mobile-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "7f0d06fe-01fd-4046-8af9-3f43c158b6a8": {
+  "business": "Small Jobs Handyman Service",
+  "image": "images/business/small-jobs-handyman-service.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "ea13cd99-3501-40eb-b4fa-c882487262a3": {
+  "business": "Handy Vibes Mobile RV and Home Repair LLC",
+  "image": "images/business/handy-vibes-mobile-rv-and-home-repair-llc.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "f12215ae-b007-48b0-a553-ff1938f13a3c": {
+  "business": "Mr. Handyman of Richmond",
+  "image": "images/business/mr-handyman-of-richmond.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "253aba25-328e-4723-a394-c4da695bb36f": {
+  "business": "TruBlue of Midlothian",
+  "image": "images/business/trublue-of-midlothian.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "4a7624c7-76a4-4f75-8477-fdba7fb4cf75": {
+  "business": "Henry Homes",
+  "image": "images/business/henry-homes.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "40ef8614-4522-42b1-8ddc-6bfda2859f11": {
+  "business": "Rivermark Handyman",
+  "image": "images/business/rivermark-handyman.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "c9522af1-da1d-4544-bb46-8b0af963f775": {
+  "business": "Fix & Paint",
+  "image": "images/business/fix-paint.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "50c71e32-41ab-4033-8f7d-111e41886607": {
+  "business": "Inside / Outside Handyman Services",
+  "image": "images/business/inside-outside-handyman-services.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "d0799357-a66b-49d2-a5d7-fcd4dd39e6ac": {
+  "business": "The Cleaning Authority - Virginia Beach",
+  "image": "images/business/the-cleaning-authority-virginia-beach.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "59da9551-4665-4503-9884-5db9edc65417": {
+  "business": "Paragon Cleaning LLC",
+  "image": "images/business/paragon-cleaning-llc.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "70bcd97b-715b-4a1e-9af2-e85b45bd69ba": {
+  "business": "MaidPro Virginia Beach",
+  "image": "images/business/maidpro-virginia-beach.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "8a6b181d-a56a-43da-97b0-11322073854b": {
+  "business": "Home Clean Heroes of Virginia Beach",
+  "image": "images/business/home-clean-heroes-of-virginia-beach.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "ee94670f-ac35-4494-9a8f-651433c5c391": {
+  "business": "Clean Fitz",
+  "image": "images/business/clean-fitz.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "bfa055c8-bf3b-49f5-b388-ca20d88dcbdf": {
+  "business": "Merry Maids of Virginia Beach",
+  "image": "images/business/merry-maids-of-virginia-beach.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "c1b4a239-f83d-4253-87ec-4976bda750d5": {
+  "business": "Mandy's Maid for You",
+  "image": "images/business/mandy-s-maid-for-you.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "86cf774e-f9f1-4e0e-8e96-86ab0db95331": {
+  "business": "A Maven Maid",
+  "image": "images/business/a-maven-maid.jpg",
+  "scene": "House cleaning \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "6752b81a-5032-4fb8-b169-66816e64e323": {
+  "business": "Chop's Mobile Detailing",
+  "image": "images/business/chop-s-mobile-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "45ba3f4e-92ef-46eb-808a-639d5b2ca261": {
+  "business": "Ride & Revive Mobile Detailing",
+  "image": "images/business/ride-revive-mobile-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "3c5637c1-618d-4059-a11f-34222a561c34": {
+  "business": "Shine My Ride 757",
+  "image": "images/business/shine-my-ride-757.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "3ea470a6-afad-4a05-bf44-1bdef16066c0": {
+  "business": "Details on Wheels in VB",
+  "image": "images/business/details-on-wheels-in-vb.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "c6be052f-3687-4559-8599-e94915cf1dca": {
+  "business": "OAuto Detailing",
+  "image": "images/business/oauto-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "35e953b1-2672-4c2d-a685-ed55ab7b7958": {
+  "business": "Executive Detailing",
+  "image": "images/business/executive-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "c4c7ed56-80f8-4b90-8b3d-7dcd13551d80": {
+  "business": "Mj Luxury Detailing",
+  "image": "images/business/mj-luxury-detailing.jpg",
+  "scene": "Mobile auto detailing \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "6b179dbf-7b26-40a1-a0e4-8a018a8f1874": {
+  "business": "Beach Handyman",
+  "image": "images/business/beach-handyman.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "d9232daf-5d0b-43cb-8838-2334443f7f76": {
+  "business": "NFA CREW",
+  "image": "images/business/nfa-crew.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "e16a4a81-25d6-4522-9997-72925fb00117": {
+  "business": "Your Property Partners LLC",
+  "image": "images/business/your-property-partners-llc.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "4cd66f37-99dd-42f8-aaad-af541482d9db": {
+  "business": "Mustang Home Services",
+  "image": "images/business/mustang-home-services.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "fececd6a-71f3-4ffd-ae2b-8bce7b8c0a80": {
+  "business": "A Legacy Handyman LLC",
+  "image": "images/business/a-legacy-handyman-llc.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "2be904e5-4918-4aaf-b70e-faafae155584": {
+  "business": "The Works Pro Services, LLC",
+  "image": "images/business/the-works-pro-services-llc.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "2d32e8c4-8a37-4bda-9922-0a5e457cd93c": {
+  "business": "TB Homes LLC",
+  "image": "images/business/tb-homes-llc.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "e358ebea-0991-4f02-a922-0fec5fd6dde1": {
+  "business": "Mr. Handyman of Fairfax and Eastern Loudoun Counties",
+  "image": "images/business/mr-handyman-of-fairfax-and-eastern-loudoun-counties.jpg",
+  "scene": "Handyman \u2014 Working scene at a customer's home in Virginia (scene detail in Day-35 run log)",
+  "created": "2026-11-15"
+ },
+ "a5cfd3ed-c4b2-45a3-a7b5-f53da7bd563e": {
+  "business": "Molly Maid of Virginia Beach",
+  "image": "images/business/molly-maid-of-virginia-beach.jpg",
+  "scene": "Cleaner polishing a wooden dining table in a bright dining room",
+  "created": "2026-11-15"
  }
 }

@@ -1,0 +1,147 @@
+{
+  "businesses": [
+    {
+      "id": "6b85e549-4f37-4caf-b61c-67f0c85b62b6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Blue Touch Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(703) 232-7364",
+      "website": "https://bluetouchwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22192"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1fd3e1a8-869a-423f-a305-0b7fac9d7bb7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pressure Wash Pros LLC",
+      "category": "Pressure washing",
+      "phone": "(703) 717-1603",
+      "website": "https://pressureprosva.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22192"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c1a5840a-8446-41d9-a870-0ead8c067ebf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pro Exterior Wash Plus",
+      "category": "Pressure washing",
+      "phone": "(703) 596-9446",
+      "website": "https://proexteriorwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22192",
+        "22191"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3478a353-daad-45e0-b815-8ab83a39d40d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ultimate Powerwash",
+      "category": "Pressure washing",
+      "phone": "(703) 599-2191",
+      "website": "https://www.theultimatepowerwash.com/faq/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22192"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "35cb638b-b484-4b49-9e62-41dabfb41d7f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A Better View Inc",
+      "category": "Pressure washing",
+      "phone": "(703) 214-2137",
+      "website": "https://betterviewinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22192"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "06ab9b62-94ca-4d5c-baeb-be6001ea3bf1",
+      "business_id": "6b85e549-4f37-4caf-b61c-67f0c85b62b6",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b05f1cd6-7380-412c-b506-8b1735f6e5bd",
+      "business_id": "1fd3e1a8-869a-423f-a305-0b7fac9d7bb7",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "01eb1969-a968-436c-a9f0-b206101bcbc6",
+      "business_id": "c1a5840a-8446-41d9-a870-0ead8c067ebf",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f9ed5e91-7cc6-4fde-8738-71213df215fa",
+      "business_id": "3478a353-daad-45e0-b815-8ab83a39d40d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "47e6d96c-1c3b-4f2f-bb0d-9a54529030e8",
+      "business_id": "35cb638b-b484-4b49-9e62-41dabfb41d7f",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

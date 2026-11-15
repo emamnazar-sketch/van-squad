@@ -1,0 +1,232 @@
+{
+ "businesses": [
+  {
+   "id": "5bfbcd19-ea70-4a51-b350-ecd7432caca0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro McLean",
+   "category": "House cleaning",
+   "phone": "(571) 899-4477",
+   "website": "https://www.maidpro.com/mclean/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4ccab198-237c-4aa2-97d7-331d9ef9874f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maids Prime Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(202) 808-1166",
+   "website": "https://maidsprime.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e120f9c3-513e-4ef4-8a98-2755f2848953",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "DayOne Cleaning",
+   "category": "House cleaning",
+   "phone": "(571) 703-7808",
+   "website": "https://dayonecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101",
+    "22102"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6b7f56e5-24bf-4a94-8d18-e74daf695d89",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HouseCare Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(703) 533-9222",
+   "website": "http://www.wecleanwecare.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "055449b3-9484-4988-bc39-98ea9d85b88e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Absolute Shine Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(571) 480-3584",
+   "website": "https://absoluteshines.com/service-area/mclean/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e2fa2e09-e9bd-4f86-b33e-698ff4da8ac1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Capital Clean Care",
+   "category": "House cleaning",
+   "phone": "(240) 704-2551",
+   "website": "https://capitalcleancare.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b7b59088-2cf4-48eb-b82f-adb3873c1778",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Luxury Touch Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(571) 842-2770",
+   "website": "https://www.luxurytouchcleaningsvcs.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "198b3edf-70c3-4a2d-b28d-5fd343d05c01",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Vienna",
+   "category": "House cleaning",
+   "phone": "(703) 342-0093",
+   "website": "https://merrymaids.com/home-cleaners-vienna-va",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22101",
+    "22180"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "7682934e-4f75-484d-a19c-c375db6e89c0",
+   "business_id": "5bfbcd19-ea70-4a51-b350-ecd7432caca0",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7de8c966-d72e-41b1-9c08-03976bdbac5a",
+   "business_id": "4ccab198-237c-4aa2-97d7-331d9ef9874f",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "71500fd8-5fc9-400b-bd59-166345a920fe",
+   "business_id": "e120f9c3-513e-4ef4-8a98-2755f2848953",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "14a8e934-3c64-4f70-91b1-5ac738d6b88e",
+   "business_id": "6b7f56e5-24bf-4a94-8d18-e74daf695d89",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6b89e8d9-939c-4815-b49a-dbbb985c75fa",
+   "business_id": "055449b3-9484-4988-bc39-98ea9d85b88e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "989982ec-11c2-4449-b402-17c86a257630",
+   "business_id": "e2fa2e09-e9bd-4f86-b33e-698ff4da8ac1",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e464394d-c638-49c1-be63-eac3a458b454",
+   "business_id": "b7b59088-2cf4-48eb-b82f-adb3873c1778",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3501b6c6-d0ff-4cae-9728-8bd854a8a39e",
+   "business_id": "198b3edf-70c3-4a2d-b28d-5fd343d05c01",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "businesses": [
+  {
+   "id": "3e7be318-66ea-4590-947e-d96d2ddb3c12",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MobileDog",
+   "category": "Mobile pet grooming",
+   "phone": "(571) 334-6486",
+   "website": "https://mobiledog.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20190",
+    "20191",
+    "20194",
+    "20170",
+    "20171",
+    "20164",
+    "20165",
+    "20147",
+    "20148",
+    "22066"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "64dee834-591f-4dec-8c2f-4ee1d9b77789",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Woofie's of Reston-Herndon-Sterling",
+   "category": "Mobile pet grooming",
+   "phone": "(703) 827-1665",
+   "website": "https://www.woofies.com/reston-herndon/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "20190",
+    "20191",
+    "20194",
+    "20170",
+    "20171",
+    "20164",
+    "20165",
+    "22180",
+    "22182",
+    "22066"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "7fb42947-3bcc-4280-a836-231f3ce38666",
+   "business_id": "3e7be318-66ea-4590-947e-d96d2ddb3c12",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a816f2f2-4e89-4be1-a32e-d8c73c2ec36b",
+   "business_id": "64dee834-591f-4dec-8c2f-4ee1d9b77789",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

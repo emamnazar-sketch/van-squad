@@ -1,0 +1,277 @@
+{
+ "businesses": [
+  {
+   "id": "d0799357-a66b-49d2-a5d7-fcd4dd39e6ac",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Authority - Virginia Beach",
+   "category": "House cleaning",
+   "phone": "(757) 941-7802",
+   "website": "https://www.thecleaningauthority.com/virginiabeach/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452",
+    "23320",
+    "23322",
+    "23325",
+    "23451",
+    "23453",
+    "23454",
+    "23455",
+    "23456",
+    "23462",
+    "23464"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "59da9551-4665-4503-9884-5db9edc65417",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Paragon Cleaning LLC",
+   "category": "House cleaning",
+   "phone": "(757) 768-1888",
+   "website": "https://paragoncleaningllc.com/virginia-beach-house-cleaning-maid-services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452",
+    "23451",
+    "23453",
+    "23454",
+    "23455",
+    "23456",
+    "23457",
+    "23462",
+    "23464"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "70bcd97b-715b-4a1e-9af2-e85b45bd69ba",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Virginia Beach",
+   "category": "House cleaning",
+   "phone": "(757) 644-4880",
+   "website": "https://www.maidpro.com/virginia-beach",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8a6b181d-a56a-43da-97b0-11322073854b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Home Clean Heroes of Virginia Beach",
+   "category": "House cleaning",
+   "phone": "(757) 819-4930",
+   "website": "https://homecleanheroes.com/vb/about-us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ee94670f-ac35-4494-9a8f-651433c5c391",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean Fitz",
+   "category": "House cleaning",
+   "phone": "(757) 654-5900",
+   "website": "http://www.cleanfitz.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452",
+    "23455"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bfa055c8-bf3b-49f5-b388-ca20d88dcbdf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Virginia Beach",
+   "category": "House cleaning",
+   "phone": "(757) 540-2187",
+   "website": "https://merrymaids.com/home-cleaners-virginia-beach-va",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a5cfd3ed-c4b2-45a3-a7b5-f53da7bd563e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Molly Maid of Virginia Beach",
+   "category": "House cleaning",
+   "phone": "(757) 320-5815",
+   "website": "https://www.mollymaid.com/locations/virginia-beach/?cid=LSTL_MLY000192",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c1b4a239-f83d-4253-87ec-4976bda750d5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mandy's Maid for You",
+   "category": "House cleaning",
+   "phone": "(757) 235-3894",
+   "website": "http://www.mandysmaidforyou.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "86cf774e-f9f1-4e0e-8e96-86ab0db95331",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Maven Maid",
+   "category": "House cleaning",
+   "phone": "(757) 639-8833",
+   "website": "http://amavenmaid.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "301a986b-9c39-4d25-a858-939131e85e2b",
+   "business_id": "d0799357-a66b-49d2-a5d7-fcd4dd39e6ac",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7133d332-fc6c-4c21-8ee7-fe34496ab6ab",
+   "business_id": "59da9551-4665-4503-9884-5db9edc65417",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "65a27df7-dcd2-42e7-bd28-a9b1b51f7d3b",
+   "business_id": "70bcd97b-715b-4a1e-9af2-e85b45bd69ba",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "436987ac-9811-42ed-b7a9-c2b3f12385c9",
+   "business_id": "8a6b181d-a56a-43da-97b0-11322073854b",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "346ce78b-72e6-4bd2-bdfc-97f0d5b6f070",
+   "business_id": "ee94670f-ac35-4494-9a8f-651433c5c391",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2b8066b0-552a-4fa2-94a3-4912714fa579",
+   "business_id": "bfa055c8-bf3b-49f5-b388-ca20d88dcbdf",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "96beb538-7388-48c9-94ee-9d9b61a298bb",
+   "business_id": "a5cfd3ed-c4b2-45a3-a7b5-f53da7bd563e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6d50cf1a-324e-45dd-b2d9-923713cd39a8",
+   "business_id": "c1b4a239-f83d-4253-87ec-4976bda750d5",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e65981f1-689a-4859-87e3-404fbe4b99a0",
+   "business_id": "86cf774e-f9f1-4e0e-8e96-86ab0db95331",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

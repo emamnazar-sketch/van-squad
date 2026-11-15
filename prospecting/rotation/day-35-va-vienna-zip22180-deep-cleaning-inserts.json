@@ -1,0 +1,147 @@
+{
+  "businesses": [
+    {
+      "id": "398b3ac9-bd06-406b-8c78-4e1bc9d3f991",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Esther Pro Cleaning Services",
+      "category": "Deep cleaning",
+      "phone": "(571) 241-8884",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22180"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0d496dba-37c9-4117-a038-ab6dad5fd94c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Virginia Skilled Maids",
+      "category": "Deep cleaning",
+      "phone": "(703) 459-4286",
+      "website": "https://skilledmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22180",
+        "22182"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1df8872f-d963-4b60-8928-847ccfd5b5a7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pretty Please Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(571) 571-1454",
+      "website": "https://www.prettypleasecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22180"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e618d8a9-bdab-434f-ba83-71cb79355e84",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Smart Choice Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(703) 750-2626",
+      "website": "https://www.smartchoicecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22180"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "76164b54-8b28-46b1-afc2-b1dab122e32e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Noble Cleaning Services",
+      "category": "Deep cleaning",
+      "phone": "(240) 515-0150",
+      "website": "http://noblecleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22180"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "30998e9e-0c4c-474d-8306-ab04320e873e",
+      "business_id": "398b3ac9-bd06-406b-8c78-4e1bc9d3f991",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4741fdb7-c7de-4f7c-92a8-f0bd770ea5f2",
+      "business_id": "0d496dba-37c9-4117-a038-ab6dad5fd94c",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7cb08446-823c-4fe3-9957-3a6a8593f5ca",
+      "business_id": "1df8872f-d963-4b60-8928-847ccfd5b5a7",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "26b5ae96-0576-4755-ab58-0a532ff45a17",
+      "business_id": "e618d8a9-bdab-434f-ba83-71cb79355e84",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "24a41e47-666d-461c-bd45-8e31643b9b7b",
+      "business_id": "76164b54-8b28-46b1-afc2-b1dab122e32e",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

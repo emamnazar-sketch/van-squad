@@ -1,0 +1,301 @@
+{
+ "businesses": [
+  {
+   "id": "6681c4cf-61ea-4358-accb-b90e4d6fb47e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Arlington Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(703) 677-0662",
+   "website": "https://arlingtoncleaningdmv.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2a231335-01a0-47e3-931c-d4b1e708606d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Virginia Housekeepers",
+   "category": "House cleaning",
+   "phone": "(703) 858-2266",
+   "website": "https://virginiahousekeepers.com/arlington-va-house-cleaning-maid-services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201",
+    "22204",
+    "22207",
+    "22202",
+    "22203",
+    "22229",
+    "22205",
+    "22223",
+    "22206",
+    "22234",
+    "22218",
+    "22209",
+    "22213",
+    "22211",
+    "22214",
+    "22222",
+    "22210",
+    "22212",
+    "22215",
+    "22217",
+    "22216",
+    "22219",
+    "22226",
+    "22225",
+    "22227",
+    "22230",
+    "22241",
+    "22240",
+    "22243",
+    "22242",
+    "22245",
+    "22244",
+    "22246"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8beaa797-2019-4ee8-ac19-b885bb0b2772",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Potomac Maids",
+   "category": "House cleaning",
+   "phone": "(703) 998-0700",
+   "website": "https://www.potomacmaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201",
+    "22202",
+    "22203",
+    "22204",
+    "22205",
+    "22206",
+    "22207",
+    "22209",
+    "22213"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "278de64e-a89a-447c-bfa1-83941a9dfa9f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Costina Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(571) 697-8300",
+   "website": "https://costinacleaningservices.com/arlington-va/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201",
+    "22204"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6fec5e80-1199-42f0-9251-62d8eae8c25e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "WellNest Professional Cleaning",
+   "category": "House cleaning",
+   "phone": "(571) 749-2121",
+   "website": "https://gowellnest.com/house-cleaning/arlington/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ec3aa370-d9ba-4aa5-83b9-aceb5dc8b03e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maids in Brown",
+   "category": "House cleaning",
+   "phone": "(571) 466-6900",
+   "website": "https://maidsinbrown.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201",
+    "22204"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c0a749ea-d73f-4799-a960-cdb5565546c2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Arlington",
+   "category": "House cleaning",
+   "phone": "(703) 215-9577",
+   "website": "https://merrymaids.com/home-cleaners-arlington-va",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201",
+    "22209"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0ef1b46e-668b-4627-848e-0a0ae2ee1734",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid Brigade of Arlington",
+   "category": "House cleaning",
+   "phone": "(703) 823-1726",
+   "website": "https://arlington.maidbrigade.com/residential-house-cleaning-services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4d608f2a-2c1d-4f7b-88c9-9d21170ca3a8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Maids of Alexandria & Arlington and DC",
+   "category": "House cleaning",
+   "phone": "(703) 212-0100",
+   "website": "https://www.maids.com/4/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "22201"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "f4de16a7-cc37-4666-a666-fb790b10576d",
+   "business_id": "6681c4cf-61ea-4358-accb-b90e4d6fb47e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "015f36ed-e5e4-44f5-b7e8-54d4e992c315",
+   "business_id": "2a231335-01a0-47e3-931c-d4b1e708606d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6de3c441-8668-4be3-9b39-0e77c936ecab",
+   "business_id": "8beaa797-2019-4ee8-ac19-b885bb0b2772",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "be012eaa-c003-4088-9f4b-81adcb7e95f6",
+   "business_id": "278de64e-a89a-447c-bfa1-83941a9dfa9f",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "233dd5e7-f951-412a-90a9-0abd68b079ec",
+   "business_id": "6fec5e80-1199-42f0-9251-62d8eae8c25e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ed18fcd4-2758-442a-88c9-d5fbff5a766a",
+   "business_id": "ec3aa370-d9ba-4aa5-83b9-aceb5dc8b03e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "380a13db-3bc2-4ac7-85f3-ee16ea6f56c0",
+   "business_id": "c0a749ea-d73f-4799-a960-cdb5565546c2",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3246d5d1-11fb-4401-a115-33d28321fbb7",
+   "business_id": "0ef1b46e-668b-4627-848e-0a0ae2ee1734",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "840b20a9-345c-400e-8a89-5c5b19b49d5d",
+   "business_id": "4d608f2a-2c1d-4f7b-88c9-9d21170ca3a8",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+# Day 35 — Virginia × Falls Church × ZIP 22046 × Pressure washing
+
+Cell: VA | Falls Church | 22046 | Pressure washing. ≥3 qualified in 22046, so no expansion was needed; two businesses are based in adjacent Falls Church ZIP 22042 / nearby Fairfax County and explicitly serve 22046/Falls Church from their own materials (noted per row).
+
+| # | Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | washd | (571) 200-8999 | Pressure washing | Falls Church | https://www.washdpros.com/pressure-washing-falls-church-va | hello@washdpros.com — https://www.washdpros.com/pressure-washing-falls-church-va | High — own site: "Local, owner-operated pressure washing in Falls Church, VA (22046). Driveways, patios, brick, and pool decks"; phone and email on own Falls Church page | Business's own website | Not in DB (/tmp/db_existing.json) or prospecting/ by name or phone |
+| 2 | First Arrival Exterior Services | (571) 616-9616 | Pressure washing | Falls Church | https://firstarrivalexteriorservices.com/ | info@firstarrivalexteriorservices.com — https://firstarrivalexteriorservices.com/ | High — own site: "Soft washing and pressure washing for homes and businesses across the DMV", driveway/sidewalk/patio pressure washing, service list includes Falls Church; phone and email on own site | Business's own website | Not in DB or prospecting/ by name or phone |
+| 3 | Diamond Power Washers | (703) 853-4738 | Pressure washing | Falls Church | https://diamondpowerwashers.com/ | — none published on site — | High — own site: veteran-owned Fairfax company, house/driveway/deck pressure washing at homes, FAQ "we serve all of Fairfax County including … Falls Church"; phone on own site | Business's own website | Not a duplicate: DB has "Diamond Powerwashing & Contracting" (605) 510-8234, Rapid City SD — different business/phone/state. No match in prospecting/ |
+| 4 | Revitalized Solutions LLC | (240) 644-2420 | Pressure washing | Falls Church | https://revitalizedsolutionsmd.com/ | revitalizedsolutions1@gmail.com — https://revitalizedsolutionsmd.com/ | High — own site: pressure washing for driveways/sidewalks/homes, service-area list explicitly includes Falls Church, East Falls Church and West Falls Church; phone and email on own site | Business's own website | Not in DB or prospecting/ by name or phone |
+| 5 | Velocity Washers | (703) 382-5848 | Pressure washing | Falls Church | https://velocitywashers.com/service-areas/falls-church | — none published on site — | High — own dedicated Falls Church page: "We serve residential and commercial properties throughout Falls Church", pressure reserved for durable hard surfaces / exterior cleaning at the property; phone on own page | Business's own website | Not in DB or prospecting/ by name or phone |
+| 6 | Wilson's Power Washing & Sealing | (571) 969-7761 | Pressure washing | Falls Church | https://prowasher.com/ | wilsons@prowasher.com — https://prowasher.com/ | Medium — own site: mobile/truck-based pressure washing ("every truck … commercial thermal hot-water systems", "leader in the mobile pressure washing industry" per its listing), residential services across DC & Virginia / Northern Virginia suburbs; Falls Church not named individually on own site, so downgraded to Medium; phone and email on own site | Business's own website | Not in DB or prospecting/ by name or phone |
+| 7 | A&C Outstanding Services LLC | (202) 717-3351 | Pressure washing | Falls Church | https://outstandingcleanservices.com/ | — none published on site — | Medium — own site based in Falls Church (3034 Graham Ct, Falls Church, VA 22042 — adjacent ZIP), lists "PRESSURE WASHING … pristine home exterior … removing dirt, mold, and grime"; phone on own site; downgraded to Medium because the site is primarily commercial cleaning and publishes no explicit 22046 service-area list | Business's own website | Not in DB or prospecting/ by name or phone |
+
+## Exclusions
+- Kennedy Exterior Cleaning — Houzz listing only (Falls Church 22046, phone (812) 369-3683, an Indiana area code); no verifiable own website found — excluded, weak/single-source.
+- Barcroft Power Washing — only a directory listing (uahot.com), no own website/materials confirming on-site service — excluded.
+- Deluxe Power Washing, LLC — HomeAdvisor listing only, no verifiable public phone on an own/public source found — excluded.
+- That 1 Painter Fairfax-McLean — painting franchise, pressure washing is ancillary; excluded as not a dedicated pressure-washing operator.
+- Clearline Exterior Cleaning — own site states commercial only, "we don't offer … residential properties" — excluded for this residential cell.
+- National lead-gen / toll-free listings — excluded per rules; none used.
+
+## Summary
+7 qualifying businesses, 4 published email leads. No inserts performed (coordinator inserts centrally).

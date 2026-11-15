@@ -1,0 +1,205 @@
+{
+  "businesses": [
+    {
+      "id": "6b763df0-e067-4831-8da9-830dff0cef04",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GPI Enterprises",
+      "category": "Handyman",
+      "phone": "(571) 926-9269",
+      "website": "https://gpienterprises.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "92fb0676-5eed-42c7-a23b-259ae4a1d19e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mcpro Handyman",
+      "category": "Handyman",
+      "phone": "(571) 471-8453",
+      "website": "https://www.mcprohandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "97116f68-60b3-4b9f-81ad-2330a5e09c33",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JD Home Pros LLC",
+      "category": "Handyman",
+      "phone": "(571) 831-2030",
+      "website": "https://jdhandypro.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164",
+        "20165"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "96424746-5868-42fd-b832-4d3000ff66f3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services NoVa West",
+      "category": "Handyman",
+      "phone": "(571) 293-2990",
+      "website": "https://www.acehandymanservices.com/offices/ashburn",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1af7b176-33e2-4d8b-adf5-92b15f56484d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "M&D Home Repairs and Remodeling",
+      "category": "Handyman",
+      "phone": "(703) 574-0059",
+      "website": "https://mdhomerepairsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164",
+        "20165"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e358ebea-0991-4f02-a922-0fec5fd6dde1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Fairfax and Eastern Loudoun Counties",
+      "category": "Handyman",
+      "phone": "(703) 962-1202",
+      "website": "https://www.mrhandyman.com/fairfax-eastern-loudoun-counties/geo/sterling/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "63e6a827-0d3b-4ac1-ab30-83e4adcc8957",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "C.M. Hunter inc.",
+      "category": "Handyman",
+      "phone": "(703) 307-4613",
+      "website": "http://cmhunterinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "20164",
+        "20165"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "becb07bd-42cd-48a7-a82f-6647814c36db",
+      "business_id": "6b763df0-e067-4831-8da9-830dff0cef04",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e25a50f-ea63-4666-b584-711025204960",
+      "business_id": "92fb0676-5eed-42c7-a23b-259ae4a1d19e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4e5992e7-3742-49a6-9214-c41c6306d7b6",
+      "business_id": "97116f68-60b3-4b9f-81ad-2330a5e09c33",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fc9ebb05-fade-4c48-b380-5f9ca5796535",
+      "business_id": "96424746-5868-42fd-b832-4d3000ff66f3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ec4eaf45-a780-4936-b73d-312a11f97af7",
+      "business_id": "1af7b176-33e2-4d8b-adf5-92b15f56484d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a7235d9b-538a-4f0e-acdc-eb549f932fb2",
+      "business_id": "e358ebea-0991-4f02-a922-0fec5fd6dde1",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ade29878-ba49-421c-b910-7d19b4013246",
+      "business_id": "63e6a827-0d3b-4ac1-ab30-83e4adcc8957",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

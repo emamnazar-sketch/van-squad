@@ -1,0 +1,206 @@
+{
+  "businesses": [
+    {
+      "id": "fc1492a9-eb31-4718-9b82-9c6508cf8222",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "washd",
+      "category": "Pressure washing",
+      "phone": "(571) 200-8999",
+      "website": "https://www.washdpros.com/pressure-washing-falls-church-va",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6f2b6751-ead2-49b3-ad0a-86fc78605ae9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "First Arrival Exterior Services",
+      "category": "Pressure washing",
+      "phone": "(571) 616-9616",
+      "website": "https://firstarrivalexteriorservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0b74369e-5d05-4aa7-912b-50dcef6e9dca",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Diamond Power Washers",
+      "category": "Pressure washing",
+      "phone": "(703) 853-4738",
+      "website": "https://diamondpowerwashers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046",
+        "22030"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cc8d75a7-6558-4b8e-98d8-59bb6dfb9b3b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Revitalized Solutions LLC",
+      "category": "Pressure washing",
+      "phone": "(240) 644-2420",
+      "website": "https://revitalizedsolutionsmd.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046",
+        "20850"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c9d3aea-3b71-4d3c-8fe7-d98d4da832b0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Velocity Washers",
+      "category": "Pressure washing",
+      "phone": "(703) 382-5848",
+      "website": "https://velocitywashers.com/service-areas/falls-church",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046",
+        "20121"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b1715d3a-cd69-4278-9680-f22e288f2a96",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Wilson's Power Washing & Sealing",
+      "category": "Pressure washing",
+      "phone": "(571) 969-7761",
+      "website": "https://prowasher.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c6804ec6-156d-49ce-84fa-bf0ddd27170f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "A&C Outstanding Services LLC",
+      "category": "Pressure washing",
+      "phone": "(202) 717-3351",
+      "website": "https://outstandingcleanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "22046",
+        "22042"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ee989454-6690-47d1-9e38-451667f40188",
+      "business_id": "fc1492a9-eb31-4718-9b82-9c6508cf8222",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9a22f5db-84f7-4876-a146-36d0228da69e",
+      "business_id": "6f2b6751-ead2-49b3-ad0a-86fc78605ae9",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8e49fef1-c455-4ed6-932d-1c5c3e4751ba",
+      "business_id": "0b74369e-5d05-4aa7-912b-50dcef6e9dca",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4d58d8f0-fc5a-4b7a-a676-77d6a639b2b9",
+      "business_id": "cc8d75a7-6558-4b8e-98d8-59bb6dfb9b3b",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2c9b1ed4-ccb7-42cc-a9b7-a6cfd549d36b",
+      "business_id": "5c9d3aea-3b71-4d3c-8fe7-d98d4da832b0",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4bc65099-0453-4eeb-b1c3-49917471bf13",
+      "business_id": "b1715d3a-cd69-4278-9680-f22e288f2a96",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "47db7daf-e0cb-4494-b0c4-358c97f7d302",
+      "business_id": "c6804ec6-156d-49ce-84fa-bf0ddd27170f",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

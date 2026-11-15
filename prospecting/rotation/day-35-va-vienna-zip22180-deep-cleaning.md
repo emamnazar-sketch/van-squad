@@ -1,0 +1,46 @@
+# Rotation Day 35 — Virginia: Vienna × Deep cleaning × ZIP 22180
+
+- Researched: 2026-11-14 (nightly rotation, Day 35)
+- Cell: VA | Vienna | 22180 | Deep cleaning — category label verified verbatim in ~/workspace/van-squad/js/data.js ("Deep cleaning", blurb "Top-to-bottom one-time cleans.").
+- Cell note: 22180 is the Town of Vienna / south Vienna. Deep cleaning is performed inside the customer's home, so on-site service is the business model itself. Every business below explicitly offers deep cleaning on its own materials (own website, or its own Google Business profile services list where no website exists), and either is based in Vienna or names Vienna in its own stated service areas.
+- Adjacent-ZIP note: EXPANSION USED — one business (Virginia Skilled Maids) is based in adjacent Vienna ZIP 22182 (1934 Old Gallows Rd, per its Google listing); all other entries are in 22180 or name Vienna/22180 in their own service areas. 22182 is included in that business's service_zips.
+- Sources: each business's own website first, then public listings (Google Business). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers were taken from public sources; never invented. No toll-free numbers are used.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source | Dedupe notes |
+|---|---|---|---|---|---|---|---|---|
+| Esther Pro Cleaning Services | (571) 241-8884 | Deep cleaning | Vienna | — none found | — none published found | Medium — its own Google Business profile gives its location as Vienna, VA 22180, lists "Deep clean" as a service, and prints this phone; reviews on the same profile describe thorough home cleaning for Vienna-area homes; no own website could be found, so the gate rests on the Google profile alone | Google Business profile (business.google.com/v/esther-pro-cleaning-services) | No match by name or phone in ~/workspace/van-squad/prospecting/ or /tmp/db_existing.json |
+| Virginia Skilled Maids | (703) 459-4286 | Deep cleaning | Vienna | https://skilledmaids.com/ | info@skilledmaids.com — https://skilledmaids.com/ (business's own website, contact block: "Virginia: (703) 459-4286", info@skilledmaids.com) | High — own site offers a "meticulous deep clean" plus a full Top-To-Bottom cleaning checklist and prints this Virginia phone and email; its Google listing places it at 1934 Old Gallows Rd, Vienna, VA (22182 — adjacent-ZIP expansion, see note) | Business's own website + Google listing | No match by name or phone in prospecting files or /tmp/db_existing.json |
+| Pretty Please Cleaning | (571) 571-1454 | Deep cleaning | Vienna | https://www.prettypleasecleaning.com/ | hello@prettypleasecleaning.com — https://www.prettypleasecleaning.com/ (business's own website, "Get in Touch" block, with Phone: (571) 571-1454) | High — own site has a dedicated Deep Clean checklist ("a top-to-bottom reset with baseboards, cabinet fronts, tile and grout, and buildup removal") and its FAQ names Vienna in its service areas; phone and email printed on the site | Business's own website | No match by name or phone in prospecting files or /tmp/db_existing.json |
+| Smart Choice Cleaning | (703) 750-2626 | Deep cleaning | Vienna | https://www.smartchoicecleaning.com/ | info@smartchoicecleaning.com — https://www.smartchoicecleaning.com/tile-grout/ (business's own website, contact block on its service pages: (703) 750-2626, info@smartchoicecleaning.com) | Medium — own Areas We Serve page has a Vienna VA section offering home cleanings for residential buildings, and the site states it offers "all types of cleaning services from deep cleaning" plus deep-house-cleaning pages; marked Medium because the deep-cleaning line is site-wide rather than on the Vienna page itself, and an older number, (703) 455-1440, appears on some of its pages — the current site footer / Google number (703) 750-2626 was used | Business's own website (Areas We Serve + service pages) | No match by name or phone in prospecting files or /tmp/db_existing.json |
+| Noble Cleaning Services | (240) 515-0150 | Deep cleaning | Vienna | http://noblecleaningservice.com/ | info@noblecleaningservice.com — http://noblecleaningservice.com/ (business's own website, "Get in Touch" block: Phone (240) 515-0150, Email info@noblecleaningservice.com) | Medium — own site's service areas include "Fairfax, Tysons & Vienna" and its FAQ describes the initial deep cleaning every home gets before recurring visits, and its Google profile lists "Deep clean" as a service; marked Medium because the deep clean is described as its first-visit clean rather than on a named service page, the published phone is a Maryland (240) number for a local DMV operator (not toll-free), and its Google profile shows a different number, (703) 705-7646 — the own-site number was preferred per the rules | Business's own website + Google profile | No match by name or phone in prospecting files or /tmp/db_existing.json |
+
+## Dedupe
+
+- All prior prospecting files in ~/workspace/van-squad/prospecting/ and the live-DB snapshot /tmp/db_existing.json (3,238 businesses) were grepped for every name and phone in this batch — no matches.
+- REMOVED AS DUPLICATE (tonight's Arlington ZIP 22201 house-cleaning cell): Virginia Housekeepers, (703) 858-2266 — it fully qualifies here (its own One Time Deep Cleaning page names Vienna in its service list and prints this phone), BUT the same name + same phone was already used tonight in day-35-va-arlington-zip22201-house-cleaning-inserts.json. Skipped here per the same-name/same-phone rule, including any lead entry.
+- Also in tonight's Arlington 22201 cell and therefore NOT reused here: Arlington Cleaning Services, Potomac Maids (its own site lists Vienna ZIPs 22180, 22181, 22182 — same name/phone rule), Costina Cleaning Services, WellNest Professional Cleaning, Maids in Brown, Merry Maids of Arlington, Maid Brigade of Arlington, The Maids of Alexandria & Arlington and DC.
+- Cross-check within tonight's other Day 35 cells (Alexandria handyman, Fairfax auto detailing, Falls Church pressure washing, Reston pet grooming): no name or phone overlap with this batch.
+- Cross-check within this batch: all five names and phones are distinct.
+
+## Excluded (checked, did not pass the gates)
+
+- Merry Maids of Vienna ((703) 342-0093 on its own site; (703) 879-2825 on its Google listing) and MaidPro of Fairfax/Vienna ((703) 552-8882) — EXCLUDED: national franchises (same treatment as the Day 13 Arlington, TX deep-cleaning cell, which excluded Merry Maids / Molly Maid / MaidPro).
+- Arlington Home Cleaning ((571) 350-0866) — EXCLUDED for this cell: its own Vienna page prices Deep Cleaning at $210+, but the business is based at 4650 Washington Blvd, Arlington, VA 22201 — the exact ZIP of tonight's Arlington house-cleaning cell — so it was left to that cell's territory to avoid a same-night cross-cell clash.
+- ADR Cleaning Services, Vienna ((703) 362-2249) — EXCLUDED: locally owned since 1998 and Vienna-based, but an explicit deep-cleaning offer could not be confirmed from its own materials on the pages checked (residential/commercial cleaning in Northern Virginia only).
+- Samah Mukhtar Cleaning Services / Shine Spotless, Vienna ((703) 870-8282) — EXCLUDED: own site lists house, kitchen, bathroom and office cleaning, but no explicit deep-cleaning offer could be confirmed from its own materials.
+- Erin's Cleaning, Vienna ((347) 525-2414) — EXCLUDED: own site shows only general home cleaning (no explicit deep cleaning) and the published phone is a non-local 347 number.
+- Better Cleaning Solutions, Vienna 22182 ((571) 630-4923) — EXCLUDED: its website returned a directory listing (no usable site content) at check time, so a deep-cleaning offer could not be confirmed from its own materials.
+- NOVAclean24, Oakton ((703) 855-6654) — EXCLUDED: own homepage confirms Fairfax County house cleaning, but no explicit deep-cleaning offer and no explicit Vienna service confirmation on the pages checked.
+- Deysi Cleaning, Falls Church ((571) 506-7665) — EXCLUDED: own site names Vienna in its service area, but no explicit deep-cleaning offer on the pages checked (scope is set at an in-person estimate).
+- V Maids (vmaids.com) — EXCLUDED: own services page lists a priced Deep Cleaning service, but no verifiable public phone or explicit Vienna service confirmation could be found on the pages checked.
+- Buswell & Bennett Commercial Cleaning, Alpha Air Duct Cleaning, Maple Carpet Care — EXCLUDED: commercial janitorial / duct / carpet-only, not whole-home deep cleaning. Homeaglow Vienna listings — EXCLUDED: national lead-gen platform, no local operator.
+
+## ZIP note
+
+- Target ZIP 22180 is in every business's service_zips. The only additional ZIP is 22182 for Virginia Skilled Maids, evidenced by its own Google-listed Vienna address (1934 Old Gallows Rd, Vienna, VA 22182) — the adjacent-ZIP expansion noted above. No other service ZIPs were added: the remaining businesses state service by city name (Vienna) rather than by ZIP list, so no ZIPs were invented.
+
+## Count
+
+- 5 businesses, 5 listings, 4 published-email leads (see -leads.json).

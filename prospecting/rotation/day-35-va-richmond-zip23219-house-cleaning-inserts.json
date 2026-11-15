@@ -1,0 +1,279 @@
+{
+ "businesses": [
+  {
+   "id": "1050c248-7031-49e8-af6c-a5392a27c9ef",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Patriot Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(804) 322-9284",
+   "website": "https://www.patriotcleaningservicesllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2c60fe03-a477-4f05-ad27-49fde049a316",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "New Image Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(804) 239-6790",
+   "website": "https://newimagecleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "49046380-9602-4225-9a5c-e29f2697899e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Cleaning Authority - Richmond",
+   "category": "House cleaning",
+   "phone": "(804) 616-3967",
+   "website": "https://www.thecleaningauthority.com/richmond",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219",
+    "23059",
+    "23060",
+    "23103",
+    "23112",
+    "23113",
+    "23114",
+    "23120",
+    "23220",
+    "23221",
+    "23224",
+    "23225",
+    "23226",
+    "23228",
+    "23229",
+    "23230",
+    "23233",
+    "23235",
+    "23236",
+    "23238",
+    "23294",
+    "23298"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5372181f-3201-4836-8a9f-942eae669214",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Two Maids Richmond",
+   "category": "House cleaning",
+   "phone": "(804) 320-0066",
+   "website": "http://twomaidscleaning.com/richmond",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a70576d8-9985-4ec9-82d7-0bffccc12be2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Mechanicsville",
+   "category": "House cleaning",
+   "phone": "(804) 781-9594",
+   "website": "https://www.maidpro.com/richmond",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a1c39050-c199-4a5f-865a-fa9ae72c344c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "RVA Maids",
+   "category": "House cleaning",
+   "phone": "(804) 218-8709",
+   "website": "http://www.rvamaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5f34f702-8bad-4135-afe3-9dc9a441638f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HandiMaids Inc",
+   "category": "House cleaning",
+   "phone": "(804) 330-0270",
+   "website": "https://handimaidsinc.com/services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6d5fb43a-c24e-4ae9-ae88-6dd5c44b4ce4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Classic Touch Cleaning",
+   "category": "House cleaning",
+   "phone": "(804) 262-6979",
+   "website": "https://classictouchcleaning.com/services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0dd3c734-cc78-495f-9602-cf5415a304bf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid Crew House Cleaning of Richmond",
+   "category": "House cleaning",
+   "phone": "(804) 644-6243",
+   "website": "https://themaidcrew.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23219"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "40a8d677-b7f2-4d5e-b82c-ecfcc3d1dc76",
+   "business_id": "1050c248-7031-49e8-af6c-a5392a27c9ef",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "92eabf31-d81d-4af9-9ff9-51a63d910a02",
+   "business_id": "2c60fe03-a477-4f05-ad27-49fde049a316",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7f7ddb0e-30d1-4a9f-8f75-b01d1175cdcd",
+   "business_id": "49046380-9602-4225-9a5c-e29f2697899e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e9c756e8-1c39-42f9-8b44-1fd86f84e5fb",
+   "business_id": "5372181f-3201-4836-8a9f-942eae669214",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b1d06d33-6c45-443e-a1ff-38de69a0b29d",
+   "business_id": "a70576d8-9985-4ec9-82d7-0bffccc12be2",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3dd1e255-50df-4e00-a649-2690815691a3",
+   "business_id": "a1c39050-c199-4a5f-865a-fa9ae72c344c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "47f78acd-d265-4e6b-a5ae-49f480a5a8a3",
+   "business_id": "5f34f702-8bad-4135-afe3-9dc9a441638f",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1c738cac-9cd2-427e-87a9-62125d8d8a7d",
+   "business_id": "6d5fb43a-c24e-4ae9-ae88-6dd5c44b4ce4",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9e6a8caf-98ce-417a-8039-5f871012bbc3",
+   "business_id": "0dd3c734-cc78-495f-9602-cf5415a304bf",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

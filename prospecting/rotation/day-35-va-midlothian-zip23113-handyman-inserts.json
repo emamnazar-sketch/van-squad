@@ -1,0 +1,230 @@
+{
+ "businesses": [
+  {
+   "id": "7f0d06fe-01fd-4046-8af9-3f43c158b6a8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Small Jobs Handyman Service",
+   "category": "Handyman",
+   "phone": "(804) 928-4475",
+   "website": "http://www.smalljobshs.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ea13cd99-3501-40eb-b4fa-c882487262a3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handy Vibes Mobile RV and Home Repair LLC",
+   "category": "Handyman",
+   "phone": "(804) 216-2149",
+   "website": "http://www.handyvibesmobilerv.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f12215ae-b007-48b0-a553-ff1938f13a3c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mr. Handyman of Richmond",
+   "category": "Handyman",
+   "phone": "(804) 372-3084",
+   "website": "https://www.mrhandyman.com/richmond/geo/midlothian/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "253aba25-328e-4723-a394-c4da695bb36f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "TruBlue of Midlothian",
+   "category": "Handyman",
+   "phone": "(804) 767-6035",
+   "website": "https://www.trublueally.com/midlothian/about-trublue/areas-served",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4a7624c7-76a4-4f75-8477-fdba7fb4cf75",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Henry Homes",
+   "category": "Handyman",
+   "phone": "(804) 735-0873",
+   "website": "https://henryhomes.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "40ef8614-4522-42b1-8ddc-6bfda2859f11",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rivermark Handyman",
+   "category": "Handyman",
+   "phone": "(804) 404-3727",
+   "website": "https://rivermark-handyman.pages.dev/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c9522af1-da1d-4544-bb46-8b0af963f775",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fix & Paint",
+   "category": "Handyman",
+   "phone": "(804) 441-8278",
+   "website": "https://fixandpaint.net/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "50c71e32-41ab-4033-8f7d-111e41886607",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Inside / Outside Handyman Services",
+   "category": "Handyman",
+   "phone": "(804) 929-3123",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "23113"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "35feb77a-5131-486b-81d9-53eb9ccd03e9",
+   "business_id": "7f0d06fe-01fd-4046-8af9-3f43c158b6a8",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "83685b6c-2bcd-40b9-b79c-0b10f669cf8f",
+   "business_id": "ea13cd99-3501-40eb-b4fa-c882487262a3",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e9759d0b-3a88-4703-933b-b82581c8d2a2",
+   "business_id": "f12215ae-b007-48b0-a553-ff1938f13a3c",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fafc87d9-577d-49aa-971d-7c3847c0dc01",
+   "business_id": "253aba25-328e-4723-a394-c4da695bb36f",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c3286f6e-88ff-4392-938b-03cd7c4d24fc",
+   "business_id": "4a7624c7-76a4-4f75-8477-fdba7fb4cf75",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "76245071-270b-487e-97c7-97fc031262b0",
+   "business_id": "40ef8614-4522-42b1-8ddc-6bfda2859f11",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0097934a-5ea8-4a62-bfdb-679147520059",
+   "business_id": "c9522af1-da1d-4544-bb46-8b0af963f775",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "35a81fe8-8b23-4b2b-a9c8-c6b1663204b3",
+   "business_id": "50c71e32-41ab-4033-8f7d-111e41886607",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
