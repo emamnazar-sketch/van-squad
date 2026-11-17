@@ -108,6 +108,10 @@
       var s = local(); s.sessionUserId = null; saveLocal(s);
     },
 
+    /* Local preview mode has no OAuth callback to consume. */
+    async completeOAuthFromFragment() { return null; },
+    onAuthChange() {},
+
     async requestEmailCode() { return { sent: true, demo: true }; },
     async verifyEmailCode(businessId) {
       var s = local();
@@ -373,6 +377,33 @@
         options: { redirectTo: cfg.SITE_URL || window.location.origin + window.location.pathname } });
     },
     async logout() { (await this._sb()).auth.signOut(); },
+    /* Consume a Supabase OAuth return fragment (#access_token=...).
+       The hash router used to swallow this fragment as an unknown
+       route ("Page not found") before any Supabase client existed, so
+       the session was never stored and sign-in appeared broken.
+       setSession validates the tokens with the auth server and stores
+       the session in localStorage like any other sign-in. */
+    async completeOAuthFromFragment() {
+      var sb = await this._sb();
+      var raw = location.hash.replace(/^#\/?/, '');
+      var q = {};
+      raw.split('&').forEach(function (pair) {
+        var kv = pair.split('=');
+        if (kv[0]) {
+          try { q[decodeURIComponent(kv[0])] = decodeURIComponent((kv[1] || '').replace(/\+/g, ' ')); } catch (e) {}
+        }
+      });
+      if (q.error) throw new Error(q.error_description || q.error);
+      if (!q.access_token) return null;
+      var r = await sb.auth.setSession({ access_token: q.access_token, refresh_token: q.refresh_token || '' });
+      if (r.error) throw r.error;
+      return (r.data && r.data.session) || null;
+    },
+    onAuthChange(cb) {
+      this._sb().then(function (sb) {
+        sb.auth.onAuthStateChange(function () { cb(); });
+      }).catch(function () {});
+    },
     async _token() {
       var sb = await this._sb();
       var s = await sb.auth.getSession();

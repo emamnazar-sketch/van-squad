@@ -2571,7 +2571,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage, headExtra)
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261117a">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261117b">\n' +
     (headExtra || '') +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
@@ -2764,6 +2764,11 @@ export async function onRequest({ request, env, params }) {
     '.pv-call{background:#FF6A2B;color:#fff}' +
     '.pv-web{border:2px solid #1F2B3A;color:#1F2B3A}' +
     '.pv-quote{display:block;background:#1F2B3A;color:#fff}' +
+    '.pv-emailbox{margin-top:14px;border-top:1px solid #E2E8EE;padding-top:14px}' +
+    '.pv-email-prompt{font-size:15.5px;color:var(--muted);margin:0;text-align:center}.pv-email-prompt a{color:#E2571B;font-weight:700}' +
+    '.pv-email-label{font-size:14px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:0 0 4px}' +
+    '.pv-email-addr{font-size:17.5px;font-weight:700;color:#1F2B3A;word-break:break-all;margin:0 0 10px}' +
+    '.pv-mailto{display:block;background:#FF6A2B;color:#fff}' +
     '.pv-straight{font-size:14.5px;color:var(--muted);margin:10px 0 0;text-align:center}' +
     '.pv-blk{margin:30px 0}.pv-blk h2{font-size:24px;color:#1F2B3A;margin:0 0 10px}.pv-blk p{color:var(--muted)}' +
     '.pv-chips{display:flex;flex-wrap:wrap;gap:9px}' +
@@ -2794,6 +2799,36 @@ export async function onRequest({ request, env, params }) {
     'This is not this business\u2019s price, and your quote may differ — ask them for a price for your job.' +
     (pvCostBlog ? ' <a href="/blog/' + pvCostBlog[0] + '/">See what ' + esc(pvCost.label) + ' costs in ' + esc(metro.name) + ' \u2192</a>' : '') +
     '</p></section>' : '';
+  /* Signed-in email reveal (2026-11-17): the address is NEVER in this
+     page's source. The script below only swaps the sign-in prompt for
+     the address after the /api/business-email endpoint has verified
+     the visitor's Supabase session server-side. Logged out (or no
+     email on file) the prompt stays / the box hides — nothing leaks. */
+  var pvEmailScript =
+    '<script>(function(){' +
+    'var box=document.getElementById("pv-email");if(!box)return;' +
+    'var bid=box.getAttribute("data-business-id");if(!bid)return;' +
+    'function loadCfg(){return new Promise(function(res){if(window.VS_CONFIG)return res();var s=document.createElement("script");s.src="/js/config.js?v=20261117b";s.onload=res;s.onerror=res;document.head.appendChild(s);});}' +
+    'function loadLib(){return new Promise(function(res,rej){var s=document.createElement("script");s.src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js";s.onload=res;s.onerror=rej;document.head.appendChild(s);});}' +
+    'loadCfg().then(loadLib).then(function(){' +
+    'if(!window.supabase||!window.VS_CONFIG)return null;' +
+    'var sb=window.supabase.createClient(window.VS_CONFIG.SUPABASE_URL,window.VS_CONFIG.SUPABASE_ANON_KEY);' +
+    'return sb.auth.getSession();' +
+    '}).then(function(r){' +
+    'if(!r||!r.data||!r.data.session)return;' +
+    'var tok=r.data.session.access_token;' +
+    'fetch("/api/business-email?id="+encodeURIComponent(bid),{headers:{Authorization:"Bearer "+tok}}).then(function(resp){return resp.ok?resp.json():null;}).then(function(j){' +
+    'if(!j||!j.email){box.style.display="none";return;}' +
+    'var addr=String(j.email);' +
+    'box.innerHTML="";' +
+    'var label=document.createElement("p");label.className="pv-email-label";label.textContent="Email this business";' +
+    'var a=document.createElement("p");a.className="pv-email-addr";a.textContent=addr;' +
+    'var btn=document.createElement("a");btn.className="pv-btn pv-mailto";btn.textContent="Email for a quote";' +
+    'btn.href="mailto:"+addr+"?subject="+encodeURIComponent("Quote request via Van Squads")+"&body="+encodeURIComponent("Hi, I found your business on Van Squads and I would like a quote for a job. Please let me know your price and availability. Thank you!");' +
+    'box.appendChild(label);box.appendChild(a);box.appendChild(btn);' +
+    '}).catch(function(){});' +
+    '}).catch(function(){});' +
+    '})();</script>';
   var pvBody =
     '<nav class="pv-crumbs" aria-label="Breadcrumb"><a href="/">Home</a>' +
     (pvState ? ' &nbsp;›&nbsp; ' + esc(pvState) : '') +
@@ -2827,12 +2862,15 @@ export async function onRequest({ request, env, params }) {
     (b.website ? '<a class="pv-btn pv-web" href="' + esc(b.website) + '" target="_blank" rel="noopener">Visit website</a>' : '') +
     '</div>' +
     '<a class="pv-btn pv-quote" href="' + esc(appLink) + '">Send quote request</a>' +
+    '<div class="pv-emailbox" id="pv-email" data-business-id="' + esc(b.id) + '">' +
+    '<p class="pv-email-prompt"><a href="/#/login">Sign in with Google</a> to see this business\u2019s email.</p></div>' +
     '<p class="pv-straight">Goes straight to this business. No obligation, no spam calls.</p>' +
     '</div></aside></div>' +
     (pvCentroid ? '<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>' +
     '<script>if(window.L){var pvMap=L.map("pv-map").setView([' + pvCentroid[0] + ',' + pvCentroid[1] + '],11);' +
     'L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"&copy; OpenStreetMap contributors"}).addTo(pvMap);' +
-    'L.marker([' + pvCentroid[0] + ',' + pvCentroid[1] + '],{icon:L.divIcon({className:"pv-pin-wrap",html:"<span class=\\"pv-pin\\"></span>",iconSize:[22,22],iconAnchor:[11,11]})}).addTo(pvMap);}</script>' : '');
+    'L.marker([' + pvCentroid[0] + ',' + pvCentroid[1] + '],{icon:L.divIcon({className:"pv-pin-wrap",html:"<span class=\\"pv-pin\\"></span>",iconSize:[22,22],iconAnchor:[11,11]})}).addTo(pvMap);}</script>' : '') +
+    pvEmailScript;
   return new Response(pageShell(title, metaDesc, canonical, pvBody, jsonLd, photoAbs, pvHead), {
     headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'public, max-age=300, s-maxage=3600' }
   });

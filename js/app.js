@@ -171,18 +171,25 @@
     if (user) {
       var dash = user.role === 'business' ? '#/dashboard' : '#/customer';
       html = '<a class="btn btn-navy btn-sm" href="' + dash + '">Hi, ' + h(user.name) + '</a>' +
-             '<button class="link-btn" id="logout-btn" type="button">Log out</button>';
+             '<button class="link-btn logout-btn" type="button">Log out</button>';
     } else {
       html = '<a class="btn btn-outline btn-sm" href="#/login">Sign in</a>' +
              '<a class="btn btn-primary btn-sm" href="#/join">List your business</a>';
     }
     el.innerHTML = html;
     mel.innerHTML = html;
-    var lb = document.getElementById('logout-btn');
-    if (lb) lb.addEventListener('click', async function () {
-      await window.VS.store.logout();
-      toast('Logged out.');
-      renderHeaderAuth(); route();
+    /* Both the desktop and mobile headers carry a logout button (the
+       old code used one shared id, so only the first ever got a
+       handler). Bind them all, and after sign-out go home and re-render
+       the header so no stale greeting survives a reload. */
+    document.querySelectorAll('.logout-btn').forEach(function (lb) {
+      lb.addEventListener('click', async function () {
+        await window.VS.store.logout();
+        toast('Logged out.');
+        await renderHeaderAuth();
+        if (location.hash === '#/' || location.hash === '' || location.hash === '#') route(true);
+        else location.hash = '#/';
+      });
     });
   }
 
@@ -1005,7 +1012,12 @@
       wrap.innerHTML = '<button class="btn btn-navy btn-block" id="google-btn" type="button">' +
         '<svg width="18" height="18" viewBox="0 0 24 24"><path fill="#fff" d="M21.35 11.1H12v2.9h5.35c-.5 2.4-2.6 3.6-5.35 3.6a5.9 5.9 0 1 1 0-11.8c1.5 0 2.9.6 4 1.5l2-2A8.9 8.9 0 1 0 12 20.9c4.4 0 8.4-3 8.4-8.7 0-.4 0-.8-.05-1.1z"/></svg>' +
         ' Continue with Google</button>';
-      document.getElementById('google-btn').addEventListener('click', function () { window.VS.loginWithGoogle(); });
+      document.getElementById('google-btn').addEventListener('click', function () {
+        /* Remember where the user was headed (claim / book / a gated
+           page) so the OAuth callback can land them there, not home. */
+        try { if (next) sessionStorage.setItem('vs_oauth_next', next); } catch (e) {}
+        window.VS.loginWithGoogle();
+      });
     } else {
       wrap.innerHTML = '<form id="demo-login">' +
         '<div class="field" style="text-align:left"><label>Your name</label><input id="dl-name" placeholder="Alex Morgan" required></div>' +
@@ -1851,7 +1863,43 @@
     return { list: list, active: act };
   }
 
+  /* ---------- Supabase OAuth callback ----------
+     Google sign-in returns to /#access_token=...&refresh_token=...
+     That fragment is NOT a route: before this fix the router rendered
+     "Page not found" for it and nothing ever stored the session, so
+     sign-in looked broken end to end. Detect the fragment before any
+     route matching, hand the tokens to the store (setSession), clean
+     the URL, and land the user on their page. */
+  function isAuthCallback() {
+    var hsh = location.hash || '';
+    return /(^#|&)access_token=/.test(hsh) || /^#error(_description|_code)?=/.test(hsh);
+  }
+
+  var oauthHandling = false;
+  async function handleAuthCallback() {
+    if (oauthHandling) return;
+    oauthHandling = true;
+    app.innerHTML = '<div class="wrap"><div class="empty" style="margin:60px 0"><h3>Signing you in\u2026</h3><p>One moment while we finish your Google sign-in.</p></div></div>';
+    window.scrollTo(0, 0);
+    var session = null;
+    try { session = await window.VS.store.completeOAuthFromFragment(); } catch (e) { session = null; }
+    var next = '';
+    try { next = sessionStorage.getItem('vs_oauth_next') || ''; sessionStorage.removeItem('vs_oauth_next'); } catch (e) {}
+    oauthHandling = false;
+    if (session) {
+      history.replaceState(null, '', location.pathname + (next && next.indexOf('#/') === 0 ? next : '#/customer'));
+      await renderHeaderAuth();
+      toast('Welcome! You are signed in.');
+      route(false);
+    } else {
+      history.replaceState(null, '', location.pathname + '#/login');
+      route(false);
+      toast('Sign-in did not complete. Please try again.');
+    }
+  }
+
   async function route(rerender) {
+    if (isAuthCallback()) { handleAuthCallback(); return; }
     var r = parseHash();
     var path = r.path;
     setNav(path);
@@ -1963,6 +2011,14 @@
   });
   window.addEventListener('hashchange', function () { route(false); });
   renderHeaderAuth();
+  /* Keep the header in step with the real auth state: sign-in, sign-out
+     and token events re-render it, so a stale greeting or a missing
+     Sign in button cannot survive state changes. */
+  try {
+    if (window.VS.store.onAuthChange) {
+      window.VS.store.onAuthChange(function () { renderHeaderAuth(); });
+    }
+  } catch (e) {}
   /* surface OAuth failures that arrive as query params (e.g. expired state) */
   (function () {
     var m = /[?&]error=([^&]*)/.exec(location.search);
