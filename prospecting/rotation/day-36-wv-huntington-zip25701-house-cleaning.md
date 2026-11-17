@@ -1,0 +1,32 @@
+# Rotation Day 36 — West Virginia: Huntington × House cleaning × ZIP 25701
+
+- Researched: 2026-11-16 (nightly rotation, Day 36)
+- Cell note: ZIP 25701 is downtown Huntington, WV. House cleaning is done inside the customer's home, so on-site service is the business model itself. No adjacent-ZIP expansion was needed — 5 qualifying businesses were found serving Huntington / 25701; several are based in nearby Huntington ZIPs or in Barboursville / Hurricane and explicitly publish Huntington in their service area on their own sites.
+- Sources: each business's own website first, then public listings (Google Business, Yelp, Birdeye). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers were taken from public sources; never invented. No toll-free 800/888 numbers are used as a business's phone.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source | Dedupe notes |
+|---|---|---|---|---|---|---|---|---|
+| I Mean To Clean | (304) 634-3906 | House cleaning | Huntington | http://imeantoclean.com/ | Imeantoclean_jackie@yahoo.com — http://imeantoclean.com/ (business's own website) | High — own site: residential cleaning, recurring maid and deep cleaning in Huntington, WV and the Tri-State, insured/bonded, site prints this phone, the email, and its Huntington address (Collis Avenue, Huntington, WV 25702) | Business's own website + Google Business listing (same phone) | No match in prospecting files or /tmp/day36-dedupe.txt by name or phone |
+| House Favors | (681) 424-4608 | House cleaning | Huntington | https://www.housefavors.com/ | parsons@housefavors.com — https://www.housefavors.com/ (business's own website) | High — own site headline: "Cleaning Charleston WV, Hurricane WV, Huntington WV", with deep cleaning, recurring maid service and move-in/out cleaning in customers' homes, and the site prints this phone and email | Business's own website | No match in prospecting files or /tmp/day36-dedupe.txt by name or phone |
+| CottageCare Barboursville | (304) 733-6100 | House cleaning | Huntington | https://cottagecare.com/locations/barboursville/ | None found | High — franchise's own Barboursville location page: titled "House Cleaning Barboursville and Huntington", trained/insured cleaners clean homes in Huntington and Barboursville, page prints this local pricing phone (not its 800 number) and its base at 2 Nancy Ln, Barboursville, WV 25504 | Business's own website (Barboursville location page) | No exact-name or phone match in prospecting files or /tmp/day36-dedupe.txt (DB holds CottageCare Columbia / Menomonee Falls / South Bend — distinct locations/phones) |
+| Teays Maids | (304) 757-4848 | House cleaning | Huntington | https://www.teaysmaids.com/ | None found | Medium — own site: house cleaning company in Barboursville, WV since 1995, licensed/bonded/insured teams clean homes, site says it provides residential cleaning "from Charleston to Huntington" and prints this phone with its Hurricane, WV base; Medium because Huntington is named as the end of its service corridor rather than in a ZIP list | Business's own website | No match in prospecting files or /tmp/day36-dedupe.txt by name or phone |
+| Mountain Maid Co. | (681) 521-9250 | House cleaning | Huntington | https://www.facebook.com/MountainMaidCo/ | None found | Medium — business's own Facebook page (its published web presence, listed as its website on its Google listing): "Mountain Maid Cleaning Company provides dependable, detail-oriented residential cleaning", Huntington address at 112 Bridge St, Huntington, WV, and this phone on its public listing; Medium because it has no standalone website in this pass | Business's own Facebook page + Google Business listing (same phone) | No match in prospecting files or /tmp/day36-dedupe.txt by name or phone |
+
+## Dedupe
+- Every name and phone above was grepped against all prior files in ~/workspace/van-squad/prospecting/ and against /tmp/day36-dedupe.txt (live DB names/phones, 3,360 rows) before finalizing. No exact name or phone matched.
+- Near-names checked and NOT duplicates: CottageCare Columbia ((803) 799-0150), CottageCare Menomonee Falls ((262) 703-9555) and CottageCare South Bend ((574) 299-1103) in the DB — all distinct franchise locations with different phones.
+
+## Excluded (checked, did not pass the gates)
+- Amy Baird Cleaning ((681) 219-5523, 3063 Wallace Cir, Huntington) — EXCLUDED: no own website or own published materials confirming residential house cleaning could be found in this pass; only a Google listing with no description and individual-cleaner reviews on Homeaglow, a national lead-gen platform.
+- Bailey's Cleaning Service ((304) 962-3845, 2026 Jefferson Ave, Huntington) — EXCLUDED: only a Google listing with no description, no website, and no own materials confirming residential/on-site house cleaning in this pass.
+- C4 Commercial Cleaning Services ((304) 857-2910, Huntington), Mountaineer Commercial Cleaning ((304) 212-6920), ServiceMaster Clean of the Tri-State ((304) 427-6949), DirtBusters Janitorial Services ((304) 733-2549, Barboursville), CleanPro Facility Management and Hood Professionals ((304) 521-8300, kitchen-hood/janitorial) — EXCLUDED: commercial / janitorial only, no residential house-cleaning offer confirmed.
+- SERVPRO of Huntington ((304) 429-2233) — EXCLUDED for this cell: restoration / specialty and carpet cleaning franchise, not general house cleaning.
+- SoftWash WV ((304) 460-5004), McGinnis Pressure Washing & Painting ((740) 550-0602) and SubZero Blasters ((304) 617-6058) — EXCLUDED on category fit: exterior pressure/soft washing, not house cleaning.
+- Mountain Tidy Cleaning Service ((304) 288-0783, Morgantown) and Mountain State Cleaning Co, LLC ((681) 533-6340, Lewis County) — EXCLUDED for this cell: own sites place them in Morgantown / Lewis County with no Huntington service confirmed.
+- Homeaglow, Care.com and other national lead-gen platforms with no named local Huntington operator — EXCLUDED on the standing gates.
+
+## ZIP note
+- Target ZIP 25701 is in every business's service_zips. No additional service-area ZIPs were added: none of the included businesses publishes a ZIP list on its own site (they publish city/community names — Huntington, Barboursville, Hurricane, Charleston — instead), so no ZIPs were invented.
+- Count: 5 businesses, 5 listings, 2 published-email leads (see -leads.json).

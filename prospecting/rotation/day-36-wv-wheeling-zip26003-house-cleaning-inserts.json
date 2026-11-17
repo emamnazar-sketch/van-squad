@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "e8387764-6179-4b2e-bd5b-ca33c16b948c",
+      "name": "Clean Sweep Wheeling",
+      "phone": "(681) 312-3695",
+      "category": "House cleaning",
+      "website": "https://cleansweepwheeling.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "26003"
+      ]
+    },
+    {
+      "id": "2254b28a-5b09-4149-ae11-401cc071f737",
+      "name": "Top-Notch Cleaning, LLC",
+      "phone": "(740) 312-9090",
+      "category": "House cleaning",
+      "website": "http://www.tnclean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "26003"
+      ]
+    },
+    {
+      "id": "0e429b28-21ca-4f76-a4b8-846de325edd1",
+      "name": "Thoro Clean Cleaning Service LLC",
+      "phone": "(724) 312-9342",
+      "category": "House cleaning",
+      "website": "https://www.thoro-clean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "26003"
+      ]
+    },
+    {
+      "id": "6fef2ca4-ee3b-4a06-bb0a-bc8e1db72b57",
+      "name": "Mz. Dawn's First Class Commercial Cleaning LLC",
+      "phone": "(740) 275-7217",
+      "category": "House cleaning",
+      "website": "https://mzdawnscleaning.com/services/residential-cleaning/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "26003"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "bb025db2-d926-411c-a571-3e14a0336cde",
+      "business_id": "e8387764-6179-4b2e-bd5b-ca33c16b948c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4eaea8ec-8ca3-4ce3-b4c5-bf77f8ea328d",
+      "business_id": "2254b28a-5b09-4149-ae11-401cc071f737",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "409a8945-5cf0-4b4b-8169-d7c6741895f1",
+      "business_id": "0e429b28-21ca-4f76-a4b8-846de325edd1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1a8467d6-fb3d-42a2-b730-bfe75bf888b4",
+      "business_id": "6fef2ca4-ee3b-4a06-bb0a-bc8e1db72b57",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

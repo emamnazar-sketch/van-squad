@@ -1,0 +1,32 @@
+# Rotation Day 36 — West Virginia: Parkersburg × House cleaning × ZIP 26101
+
+- Researched: 2026-11-17 (nightly rotation, Day 36)
+- Cell note: ZIP 26101 is downtown Parkersburg, WV. House cleaning is done inside the customer's home, so in-home service is the business model itself. The ZIP yielded fewer than 3 qualifying businesses, so the cell was expanded to adjacent ZIP 26104 in Parkersburg as permitted — no additional qualifying house-cleaning business with its own materials and a verifiable public phone was found there either. Parkersburg is a thin market for this category: most other names found were commercial-janitorial-only, dry cleaners/laundromats, carpet/pressure-washing/exterior-only, listing-only with no phone, or national lead-gen platforms (see Excluded). Only 2 businesses passed all gates — no padding.
+- Sources: each business's own website first, then public listings (Google Business, Yelp, Birdeye). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers were taken from public sources; never invented. No toll-free 800/888 numbers are used as a business's phone.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source | Dedupe notes |
+|---|---|---|---|---|---|---|---|---|
+| SuperMaids | (304) 902-4488 | House cleaning | Parkersburg | https://supermaidscleaners.com/ | None found | High — own site: family-run, locally owned Parkersburg maid service offering general/recurring/move-in-out house cleaning in customers' homes, lists Parkersburg in its service area, prints this phone and its 262 Williams Hwy, Parkersburg, WV 26105 address | Business's own website | No match in prospecting files by name or phone; the Fargo, ND "Cassie's Cleaning Co" in day-08 files is a different business (different name/phone) and is not this business |
+| Cassie's Cleaning Company | (304) 482-5831 | House cleaning | Parkersburg | https://cassiescleaning.company/ | None found | High — own site: "Residential and commercial cleaning services in Parkersburg WV, Vienna WV and Marietta OH," bookable house cleaning / deep clean / regular maintenance of homes, insured and bonded, site prints this phone as +1-304-482-5831; a public listing shows a different number, (740) 458-8501, so the own-site number was used per the own-site-first rule | Business's own website | No match in prospecting files by this exact name or by either phone; not the Fargo, ND "Cassie's Cleaning Co" ((701) 401-8993, cassiescleaningco.com) in day-08 files — different business, different phone/website |
+
+## Dedupe
+- Every name and phone above was grepped against all prior files in ~/workspace/van-squad/prospecting/ (including all day-36 files already there) before finalizing. No exact name or phone matched for the 2 included businesses.
+- Name-similarity check: "Cassie's Cleaning Co" in day-08-nd-fargo files is a separate North Dakota business with phone (701) 401-8993 — not a duplicate of Parkersburg's Cassie's Cleaning Company.
+
+## Excluded (checked, did not pass the gates)
+- Krampe Cleaning Services ((304) 488-1596, william.krampe@yahoo.com, https://ydrf091y.zingsite.com/) — EXCLUDED on category fit: its own site lists only window cleaning, exterior house washing, power washing of fences/decks/patios, concrete cleaning and gutter cleaning — exterior work, not interior house cleaning. Its Facebook description mentions "residential cleaning," but its own service list does not offer house cleaning.
+- Tidy Revival Cleaning Co (https://sites.google.com/view/tidyrevivalcleaningco/home) — EXCLUDED: its own Google Sites page confirms deep cleans for homes/rentals and move-in/move-out cleaning in the Parkersburg area, but no verifiable public phone was found on its own materials or in public listings in this pass.
+- Winans Services ((304) 485-4000, http://www.winansservices.com/) — EXCLUDED: janitorial / industrial / facility cleaning for commercial, educational and institutional clients only, not residential house cleaning.
+- Cook's Commercial Cleaning ((304) 249-4773, http://cookscleaning.com/, cccinfo@cookscleaning.com) — EXCLUDED: commercial only per its own site (general office cleaning, floor stripping/refinishing, floor maintenance).
+- Industrial Cleaners Inc. ((304) 488-9513) and Patterson Cleaning & Supply ((304) 424-6511, listing shows possibly temporarily closed) — EXCLUDED: industrial/commercial cleaning and supply, not residential house cleaning; no own-site residential house-cleaning confirmation.
+- Goosfraba LLC / goosfraballc ((314) 277-0543, goosfraballc@gmail.com, https://goosfraballc.com/contact/, office at 2706 Hampton St, Parkersburg, WV 26101) — EXCLUDED on category fit: its own site describes trucking/power/brokerage/dispatch plus "mobile wash and truck detail services," not house cleaning.
+- Proclean Carpet & Upholstery Cleaning ((304) 489-0880) and New Way Carpet Cleaning & Restoration ((304) 902-2687, same Williams Hwy address family as SuperMaids) — EXCLUDED on category fit (carpet/upholstery cleaning and restoration, not house cleaning).
+- Guard Cleaning Co. ((304) 485-4536), Kesterson Cleaners & Launderers ((304) 485-0655) and Betty Brite Cleaning Village ((304) 893-9064) — EXCLUDED: storefront dry cleaners / laundromats, not house cleaning.
+- SERVPRO of Wood, Ritchie & Pleasants Counties ((304) 428-7378, 2400 Gihon Road, Parkersburg, WV 26101) — EXCLUDED: national franchise restoration/cleanup operator; its general cleaning is heavy-duty/restoration-led, not a local house-cleaning/maid service.
+- CleanSpace, Homeaglow, Care.com and other national lead-gen platforms — EXCLUDED on the standing gates (no named local operator with its own materials/phone; Clover's Cleaning appears only as an individual cleaner profile inside Homeaglow, with no own website or verifiable public phone found).
+
+## ZIP note
+- Target ZIP 26101 is in every business's service_zips. Adjacent-ZIP expansion to 26104 was checked and produced no additional qualifying business (noted above). No additional ZIPs were added: neither business publishes its own ZIP-code service list — SuperMaids publishes city/area names only (Parkersburg included) and Cassie's Cleaning Company publishes Parkersburg/Vienna/Marietta and "within 30 mins of Parkersburg" only.
+- Count: 2 businesses, 2 listings, 0 published-email leads (see -leads.json).

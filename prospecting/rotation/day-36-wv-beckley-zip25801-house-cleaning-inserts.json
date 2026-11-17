@@ -1,0 +1,98 @@
+{
+  "businesses": [
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "6fa76582-ca2b-45e2-bda8-eb533594fa56",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Lewis Cleaning WV",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(304) 362-1996",
+      "phone_verified": false,
+      "service_zips": [
+        "25801",
+        "25832",
+        "25813",
+        "25918",
+        "25880",
+        "25901",
+        "25840",
+        "25827",
+        "25921"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "http://lewiscleaningwv.com/"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "677217d7-2e41-4061-882d-b4eefc36e2fd",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Gladis Cleaning Serv",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(681) 222-4059",
+      "phone_verified": false,
+      "service_zips": [
+        "25801"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.gladiscleaningservices11.com/services-9"
+    },
+    {
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "a80e81b4-a5cb-46d6-b01c-24963ec9a295",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Suddenly Spotless",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(304) 772-6009",
+      "phone_verified": false,
+      "service_zips": [
+        "25801"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://suddenlyspotless.net/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "6fa76582-ca2b-45e2-bda8-eb533594fa56",
+      "id": "780258c0-65f4-4e14-bf01-8e3d8586b617",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "677217d7-2e41-4061-882d-b4eefc36e2fd",
+      "id": "69a2b957-43f2-4223-8481-28c8031257e2",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "business_id": "a80e81b4-a5cb-46d6-b01c-24963ec9a295",
+      "id": "5897ba43-1d6f-43e9-8428-226e886d2442",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

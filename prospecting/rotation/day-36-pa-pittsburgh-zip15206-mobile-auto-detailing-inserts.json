@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "89d20456-476b-41b8-b98b-6e88537e9f66",
+      "name": "CLYINZ",
+      "phone": "(412) 499-7496",
+      "category": "Mobile auto detailing",
+      "website": "https://clyinz.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "15206"
+      ]
+    },
+    {
+      "id": "7fdf689e-f549-4e54-8731-62411020f444",
+      "name": "Chuck's Mobile Car Detailing & Ceramic Coating Pittsburgh",
+      "phone": "(412) 726-6092",
+      "category": "Mobile auto detailing",
+      "website": "https://mobilecardetailpittsburgh.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "15206"
+      ]
+    },
+    {
+      "id": "91c781d6-c7d8-470c-b108-0162afc986e4",
+      "name": "Victorious Details",
+      "phone": "(412) 312-4410",
+      "category": "Mobile auto detailing",
+      "website": "https://www.victoriousdetails.com/service-areas-vd/pittsburgh",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "15206"
+      ]
+    },
+    {
+      "id": "bfd2e76e-0e3c-47d2-af33-88c3c660ca85",
+      "name": "CXN Mobile Detailing",
+      "phone": "(412) 445-2232",
+      "category": "Mobile auto detailing",
+      "website": "https://www.pghmobiledetailing.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "15206"
+      ]
+    },
+    {
+      "id": "8112c103-87a6-4335-bc88-766f35c429f8",
+      "name": "Ride N Shine Auto Spa",
+      "phone": "(724) 624-2282",
+      "category": "Mobile auto detailing",
+      "website": "https://ridenshineautospa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "service_zips": [
+        "15206"
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "id": "30d64820-f330-44f4-9891-6ade835885f1",
+      "business_id": "89d20456-476b-41b8-b98b-6e88537e9f66",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "62662ebb-c6d6-4815-8ed3-1d83866bbc20",
+      "business_id": "7fdf689e-f549-4e54-8731-62411020f444",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fdb70f04-d098-4fb3-a824-80676ff3e4be",
+      "business_id": "91c781d6-c7d8-470c-b108-0162afc986e4",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3902cfed-0a2d-406f-ab6d-7687a27927d0",
+      "business_id": "bfd2e76e-0e3c-47d2-af33-88c3c660ca85",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3b83b7a0-3ade-4d14-92f0-57fbe8068456",
+      "business_id": "8112c103-87a6-4335-bc88-766f35c429f8",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
