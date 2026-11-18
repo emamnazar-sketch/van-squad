@@ -1,0 +1,175 @@
+{
+  "businesses": [
+    {
+      "id": "40af7c8c-d564-40ff-a571-3bf08b809ba3",
+      "name": "Modern Projects, LLC",
+      "phone": "(412) 526-3828",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15219"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.modernprojectspgh.com/"
+    },
+    {
+      "id": "685458d9-a55c-40e2-a818-d2a3f94ff0a2",
+      "name": "Royal Hands Contracting LLC",
+      "phone": "(412) 249-8414",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15219"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.royalhandscontracting.com/about"
+    },
+    {
+      "id": "2c8c1535-1692-4e34-bb79-48b07c5d8611",
+      "name": "Zach's Contracting",
+      "phone": "(412) 251-7427",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15219",
+        "15223"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.zachscontracting.com/services"
+    },
+    {
+      "id": "05503336-ab98-41bc-be00-399ef755b1f5",
+      "name": "attic+earth Home",
+      "phone": "(412) 722-8993",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15219"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://atticandearth.com/"
+    },
+    {
+      "id": "a367ebab-b749-49d1-bcd8-828d5708e5fa",
+      "name": "Honest Renovators",
+      "phone": "(412) 212-6534",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15219"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "http://www.honestrenovators.com/"
+    },
+    {
+      "id": "bd2611d1-ecdf-483a-a40a-e6e442927feb",
+      "name": "Mr. Handyman of Northern Pittsburgh, South Hills, Moon",
+      "phone": "(724) 923-4377",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15219"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.mrhandyman.com/northern-pittsburgh/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "abfdbea3-5dbd-481a-bd80-f180189f7100",
+      "business_id": "40af7c8c-d564-40ff-a571-3bf08b809ba3",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "fbed549b-12c7-4e48-b677-2c945068140d",
+      "business_id": "685458d9-a55c-40e2-a818-d2a3f94ff0a2",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "bd31d2b2-5816-4f32-999e-b4d674b65601",
+      "business_id": "2c8c1535-1692-4e34-bb79-48b07c5d8611",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "f88e427e-b678-4cfa-a65a-bdc536839579",
+      "business_id": "05503336-ab98-41bc-be00-399ef755b1f5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "a65f64c5-9418-4e2a-8420-a98691135f41",
+      "business_id": "a367ebab-b749-49d1-bcd8-828d5708e5fa",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "9009ea14-8e0f-4c67-a820-1a26b0c8c305",
+      "business_id": "bd2611d1-ecdf-483a-a40a-e6e442927feb",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

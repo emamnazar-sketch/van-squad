@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "f4be50b8-f76c-43e9-a9a2-8db5644e75e1",
+      "name": "So Clean Solutions",
+      "phone": "(412) 513-3751",
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15216"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.getsoclean.com/"
+    },
+    {
+      "id": "1b8f1b9b-4f9a-4f13-8fb6-b3477d878de5",
+      "name": "412 Wash & Restore",
+      "phone": "(412) 874-4957",
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15216"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://412washandrestore.com/"
+    },
+    {
+      "id": "46c7682b-9f4d-42fc-88e6-b9358a320f32",
+      "name": "CleanView Property Services",
+      "phone": "(412) 916-0407",
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15216"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://cleanview.biz/"
+    },
+    {
+      "id": "bdc746e6-7ede-481e-97c3-613d3972b381",
+      "name": "Premier Power Cleaning",
+      "phone": "(412) 740-7824",
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15216"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.pittsburghpowerwash.com/"
+    },
+    {
+      "id": "23c3564b-ff74-417c-9c09-ed97ff554514",
+      "name": "Beak Buster Window Cleaning",
+      "phone": "(412) 204-7107",
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15216"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.beakbusterwindowcleaning.com/services/pressure-washing"
+    }
+  ],
+  "listings": [
+    {
+      "id": "f98c928f-c631-49d7-9e3a-10be34936804",
+      "business_id": "f4be50b8-f76c-43e9-a9a2-8db5644e75e1",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "47acbcad-41f6-48e1-9577-13cf288ceb27",
+      "business_id": "1b8f1b9b-4f9a-4f13-8fb6-b3477d878de5",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "cfc6e743-d900-4b59-8853-59ba1c5d40d0",
+      "business_id": "46c7682b-9f4d-42fc-88e6-b9358a320f32",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "94773156-afbc-4566-a41b-ef7b4b3256d9",
+      "business_id": "bdc746e6-7ede-481e-97c3-613d3972b381",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "id": "58e38e60-d52f-49f9-932c-1f620201f5d1",
+      "business_id": "23c3564b-ff74-417c-9c09-ed97ff554514",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    }
+  ]
+}

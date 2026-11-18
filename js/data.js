@@ -1874,7 +1874,25 @@
     '26101': 'Parkersburg',
     '26301': 'Clarksburg',
     '26505': 'Morgantown',
-    '26508': 'Morgantown'
+    '26508': 'Morgantown',
+    '15102': 'Bethel Park',
+    '15146': 'Monroeville',
+    '15205': 'Pittsburgh',
+    '15210': 'Pittsburgh',
+    '15212': 'Pittsburgh',
+    '15216': 'Pittsburgh',
+    '15217': 'Pittsburgh',
+    '15219': 'Pittsburgh',
+    '15220': 'Pittsburgh',
+    '15223': 'Pittsburgh',
+    '15227': 'Pittsburgh',
+    '15228': 'Pittsburgh',
+    '15232': 'Pittsburgh',
+    '15235': 'Pittsburgh',
+    '15236': 'Pittsburgh',
+    '15237': 'Pittsburgh',
+    '15238': 'Pittsburgh',
+    '15241': 'Pittsburgh'
   };
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 

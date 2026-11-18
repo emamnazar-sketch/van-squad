@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "e912b5da-feb5-40b0-b2f0-3aad7e35e4fb",
+      "name": "House Call Mobile Grooming",
+      "phone": "(412) 926-5211",
+      "category": "Mobile pet grooming",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15238"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://housecallpetgrooming.com/"
+    },
+    {
+      "id": "d2ba99ac-92af-479b-a295-f5f22cc79bc4",
+      "name": "Groom's by Jolette",
+      "phone": "(412) 806-9068",
+      "category": "Mobile pet grooming",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15238"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://mobilepawpros.com/groomers/grooms-by-jolette-pittsburgh-pa/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "3e380817-fdbb-4e3a-a070-d3c3b4f6562d",
+      "business_id": "e912b5da-feb5-40b0-b2f0-3aad7e35e4fb",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile pet grooming at your location"
+    },
+    {
+      "id": "98c88cfb-eafe-4495-9c3c-fb4b26d6c0ec",
+      "business_id": "d2ba99ac-92af-479b-a295-f5f22cc79bc4",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile pet grooming at your location"
+    }
+  ]
+}

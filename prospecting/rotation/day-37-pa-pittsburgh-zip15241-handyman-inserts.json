@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "546de2b6-9565-422e-b376-1e4b52f9c018",
+      "name": "Ace Handyman Services South Pittsburgh",
+      "phone": "(724) 426-2942",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15241"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.acehandymanservices.com/offices/south-pittsburgh"
+    },
+    {
+      "id": "9cfbbe10-ea3c-41e4-8c38-1287ad19c7c0",
+      "name": "Lina's Contracting & Handyman Service",
+      "phone": "(412) 534-5342",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15241"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.linascontractinghandymanservice.com/"
+    },
+    {
+      "id": "535bc379-e59c-4218-b2b1-734f45f73431",
+      "name": "The Canonsburg Handyman",
+      "phone": "(724) 413-3192",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15241"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://btrossman.wixsite.com/handyman_cbg-1"
+    },
+    {
+      "id": "c28c60b9-5756-4c5b-a5ad-8e55b95ab344",
+      "name": "Freedom Home Advantage",
+      "phone": "(724) 844-3500",
+      "category": "Handyman",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15241"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "http://freedomhomeadvantage.com/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "21f6598f-5340-4f61-920e-04db179367c6",
+      "business_id": "546de2b6-9565-422e-b376-1e4b52f9c018",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "d1f3a353-156b-4e5e-a668-860c49aedc3a",
+      "business_id": "9cfbbe10-ea3c-41e4-8c38-1287ad19c7c0",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "c6bc1def-309a-49b8-b0f3-7a2e268e1889",
+      "business_id": "535bc379-e59c-4218-b2b1-734f45f73431",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    },
+    {
+      "id": "d788cb55-c3a5-4cdf-995b-c8a817d98222",
+      "business_id": "c28c60b9-5756-4c5b-a5ad-8e55b95ab344",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Handyman at your location"
+    }
+  ]
+}

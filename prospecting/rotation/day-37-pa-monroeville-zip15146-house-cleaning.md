@@ -1,0 +1,27 @@
+# Day 37 — PA / Monroeville / ZIP 15146 / House cleaning
+
+Cell: Pennsylvania × Monroeville × ZIP 15146 × "House cleaning" (exact label).
+Wave 2. No adjacent-ZIP expansion was needed — 3 qualifying businesses were found for 15146 itself. Every included business was verified from its own website first (in-home residential cleaning + public phone), then deduped against a grep of ~/workspace/van-squad/prospecting/ and the live DB dump (day37_open_dump.json, 3,420 businesses) — no name or phone matches for any included business.
+Service ZIPs: service_zips = ["15146"] only for all 3 — no ZIPs invented. PlatPro and Pro Home publish Monroeville 15146 addresses/pages; Cleaning Pittsburgh Homes publishes Allegheny County-wide residential service (Monroeville is in Allegheny County).
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source URL | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| PlatPro Home and Office Cleaning | (412) 207-4302 | House cleaning | Monroeville | https://platprocleaning.com/areas-we-serve/downtown-monroeville-15146 | — none published on its own site that could be verified | Medium — own site has a dedicated "House Cleaning Services in Downtown Monroeville, PA" page for ZIP 15146 offering one-time deep, regular scheduled and move-in/move-out in-home cleaning with this phone throughout, and its listing gives a Monroeville address (4080 William Penn Hwy); templated site, hence Medium | https://platprocleaning.com/areas-we-serve/downtown-monroeville-15146 | No match in prospecting grep or live DB dump (name or phone). |
+| Pro Home and Commercial Cleaners | (412) 314-0590 | House cleaning | Monroeville | https://prohomeandcommercialcleaners.com/ | — none usable: its own site shows only an obfuscated "[email protected]" placeholder, so no address was recorded (never guessed) | Medium — own site is titled "House Cleaning Service in Monroeville, PA", describes deep cleaning of kitchens/bathrooms and floor care throughout the home, residential cleaning, and gives its address as 4080 William Penn Hwy Office 12, Monroeville, PA 15146 with this phone; templated site, hence Medium | https://prohomeandcommercialcleaners.com/ | No match in prospecting grep or live DB dump (name or phone). Note: a Day 37 Pittsburgh 15217 file grouped this name among janitorial listings, but for this cell its own Monroeville house-cleaning page was verified directly. |
+| Cleaning Pittsburgh Homes | (412) 519-4654 | House cleaning | Monroeville | https://cleaningpittsburghhomes.com/ | — none published on its own site that could be verified | Medium — locally owned Pittsburgh cleaner; own site offers weekly/recurring, deep and move-out residential house cleaning by background-checked cleaners for homes "across Allegheny County" (15146 / Monroeville is in Allegheny County) with this phone on the site; no Monroeville-specific page was found, hence Medium | https://cleaningpittsburghhomes.com/ | No match in prospecting grep or live DB dump (name or phone). |
+
+## Exclusions
+
+- Mrs. Clean Pittsburgh ((412) 422-1100, 2526 Monroeville Blvd Ste 200, Monroeville, PA 15146) — EXCLUDED as instructed: already in the DB (Day 36, Pittsburgh 15201 cell; same name + phone in day37_open_dump.json), even though it has a Monroeville office.
+- Affordable Maids ((724) 933-6000 main / (412) 373-6243 East office, 409 Beatty Rd #200, Monroeville, PA 15146) — EXCLUDED as duplicate: already seeded Day 36 in the Pittsburgh 15201 House cleaning cell (same name in the live DB dump; dedupe is same name OR same phone = skip).
+- Maid On The Spot ((412) 969-0678, Monroeville location at 100 James Pl) — EXCLUDED as duplicate of tonight's earlier wave: already in the Day 37 Pittsburgh 15217 House cleaning batch (same name + phone in prospecting).
+- MaidThis Cleaning of Pittsburgh ((412) 866-1764) — EXCLUDED: cleaner-matching platform — customers are "matched with" a cleaner, not a single local operator.
+- Homeaglow (Monroeville page) — EXCLUDED: national cleaner-matching platform, no single local operator/phone.
+- GC Commercial Cleaning ((412) 609-3791, 905 Garden City Dr, Monroeville) — EXCLUDED: commercial/janitorial only by its own name and listing category; no residential house cleaning confirmed from its own materials.
+- Ruby's Cleaners ((412) 856-4211, 4026 Monroeville Blvd) — EXCLUDED: storefront dry cleaner / alterations, not in-home house cleaning.
+- Simply Bright Cleaning ((412) 790-9699, Monroeville) — EXCLUDED: no verifiable own website found in this sweep, so in-home service could not be confirmed from the business's own materials.
+- Diamond Shine Cleaning, Plum ((412) 478-9657) — EXCLUDED from this cell: locally owned Plum cleaner whose own site confirms in-home cleaning, but its own site (as fetched) publishes no phone and no Monroeville service area, so Monroeville/15146 service could not be confirmed from its own materials.
+- microbic CLEAN ((412) 737-6154) — EXCLUDED: antimicrobial spray/disinfection service sharing Mrs. Clean Pittsburgh's site/address, not regular house cleaning.
+- 412 Poo Crew, Fish Window Cleaning, COIT, Anago, Merry Maids and other window/pet-waste/specialty, franchise or commercial-only listings — EXCLUDED on the standing gates (wrong service, national franchise, or commercial-only).
+
+Leads: none — no included business publishes a usable email address on its own site (Pro Home's address is obfuscated on its site and was not guessed), so the leads file is an empty array.

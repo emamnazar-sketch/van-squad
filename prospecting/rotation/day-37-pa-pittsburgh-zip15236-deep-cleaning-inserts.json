@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "ce4660dc-7aff-48b7-a56f-aef3714f27cc",
+   "name": "Penguin Clean Co",
+   "phone": "(412) 204-6187",
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "15236"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "phone_verified": false,
+   "website": "https://penguincleanco.com/"
+  },
+  {
+   "id": "8dddf214-9621-44a2-ad6e-a418ac95faed",
+   "name": "Maid in The Burgh",
+   "phone": "(412) 253-3341",
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "15236"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "phone_verified": false,
+   "website": "https://www.maidintheburghpa.com/"
+  },
+  {
+   "id": "cb413fc7-c78e-4f84-9a90-d521855b617c",
+   "name": "Kay's Cleaning",
+   "phone": "(412) 666-9036",
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "15236"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "phone_verified": false,
+   "website": "https://kayscleaning412.com/"
+  }
+ ],
+ "listings": [
+  {
+   "id": "8acbb755-8fbd-447c-b2b9-6b6966b186f8",
+   "business_id": "ce4660dc-7aff-48b7-a56f-aef3714f27cc",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "62284ec6-87b0-49af-b04c-e125f2667555",
+   "business_id": "8dddf214-9621-44a2-ad6e-a418ac95faed",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "b53cbede-539e-4f45-b080-65feed934fb4",
+   "business_id": "cb413fc7-c78e-4f84-9a90-d521855b617c",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "85c3cd86-3143-4adc-893d-59f0e8348b4e",
+      "name": "Mobile Wash and Lube",
+      "phone": "(724) 732-2175",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15232"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://mobilewashandlubepa.com/areas-of-service/auto-detailing-pittsburgh/"
+    },
+    {
+      "id": "a6f70da8-911a-4493-b6ab-53c139bb23a3",
+      "name": "Mobile Car Detailing Pittsburgh",
+      "phone": "(412) 266-1199",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15232"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://mobilecardetailingpittsburgh.com/"
+    },
+    {
+      "id": "12817944-1fcd-44f9-825c-663d92864d37",
+      "name": "Steam Auto Spa",
+      "phone": "(724) 713-4508",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15232"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.thesteamautospa.com/areas"
+    },
+    {
+      "id": "0ffdc5f9-512d-4e9c-ac24-64e534bbf7d9",
+      "name": "PGHDETAILING",
+      "phone": "(412) 292-9421",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15232"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "http://pgh-detailing.tilda.ws/"
+    },
+    {
+      "id": "feea20aa-cc86-4c9a-bfd4-5b35740c3ddb",
+      "name": "F1 Mobile Detailing",
+      "phone": "(412) 834-8167",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15232"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://f1-mobile-detailing.vibepreview.app/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "54ae0feb-95b6-441a-913d-30d5da7b8b1b",
+      "business_id": "85c3cd86-3143-4adc-893d-59f0e8348b4e",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "33a240ca-5fc2-4efb-b9a9-34a86be1552f",
+      "business_id": "a6f70da8-911a-4493-b6ab-53c139bb23a3",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "b00ecee6-a6d3-4a88-8ebe-1668c411c742",
+      "business_id": "12817944-1fcd-44f9-825c-663d92864d37",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "13daf8ad-a51c-4055-a4db-e2cbb5910e2f",
+      "business_id": "0ffdc5f9-512d-4e9c-ac24-64e534bbf7d9",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "34de8148-ed33-4400-9311-e4f4df965753",
+      "business_id": "feea20aa-cc86-4c9a-bfd4-5b35740c3ddb",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    }
+  ]
+}

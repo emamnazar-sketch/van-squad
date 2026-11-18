@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "7a5098d5-e693-4ad7-a58d-7a9140c29dd8",
+      "name": "Shandra Mobile Detailing",
+      "phone": "(412) 212-8433",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15102"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.shandramobiledetailing.com/"
+    },
+    {
+      "id": "a4989a0a-076e-44a2-b282-63b9056642bd",
+      "name": "Distinctive Shine",
+      "phone": "(412) 352-9973",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15102"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://distinctiveshine.com/"
+    },
+    {
+      "id": "dc600a05-2442-4a4c-962b-7af3450afcfc",
+      "name": "Keystone Mobile Solutions",
+      "phone": "(724) 769-7692",
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15102"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.keystonemobilesolutionsllc.biz/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "ec10f5a6-e7ae-4ca4-82ac-344f198b7587",
+      "business_id": "7a5098d5-e693-4ad7-a58d-7a9140c29dd8",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "09e8c65c-68a4-42f1-ad23-b4c67a7fe0dc",
+      "business_id": "a4989a0a-076e-44a2-b282-63b9056642bd",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "id": "4770ef51-3d51-467f-91dc-c6beb7372d29",
+      "business_id": "dc600a05-2442-4a4c-962b-7af3450afcfc",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    }
+  ]
+}

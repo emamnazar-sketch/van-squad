@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "e9641906-5c74-4790-9c12-e473c7cada8f",
+      "name": "Little Green Maid Service",
+      "phone": "(412) 542-8843",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15227"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "http://www.littlegreenmaidservice.com/"
+    },
+    {
+      "id": "170c1d3e-d03e-4cce-8741-0eb576a030aa",
+      "name": "Fresh Residential and Commercial Cleaning",
+      "phone": "(412) 314-5280",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15227"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://freshresidentialandcommercialcleaning.com/"
+    },
+    {
+      "id": "fe54e9b9-485e-4166-9454-18772f2442dd",
+      "name": "DCS Maintenance",
+      "phone": "(412) 860-0924",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15227"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://www.dcsmaintenance.com/"
+    },
+    {
+      "id": "25a5f5c2-9bed-4e62-802f-8079df932f39",
+      "name": "Rich Kidz Cleaning Services",
+      "phone": "(412) 552-3724",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15227"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://richkidzcleaning.com/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "5fd6e414-a314-4782-ad37-59a1f25359f7",
+      "business_id": "e9641906-5c74-4790-9c12-e473c7cada8f",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "8e76c377-62ac-4aa3-9156-0e179dcc465e",
+      "business_id": "170c1d3e-d03e-4cce-8741-0eb576a030aa",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "6f97ad1e-23dc-40aa-bec2-b08c4a8ae9be",
+      "business_id": "fe54e9b9-485e-4166-9454-18772f2442dd",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "c4128ee7-437f-427d-a2ff-27016f8c4505",
+      "business_id": "25a5f5c2-9bed-4e62-802f-8079df932f39",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

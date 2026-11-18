@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "aedc1b15-b095-47bf-a0a9-b3b17781564b",
+      "name": "Pittsburgh House Cleaning, LLC",
+      "phone": "(412) 912-4941",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15220"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://pittsburghhousecleaning.net/"
+    },
+    {
+      "id": "612c2695-175e-4709-89b2-f16212be57f0",
+      "name": "Leslie'An Cleaning Service",
+      "phone": "(412) 291-0372",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15220"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://leslieancleaning.com/"
+    },
+    {
+      "id": "1f05fbf8-ef28-4daf-962c-bf9b6fa61836",
+      "name": "Hand It Over Cleaning & Painting",
+      "phone": "(412) 266-2242",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15220"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://handitoverpgh.com/"
+    },
+    {
+      "id": "463f5410-f0a4-489b-8ece-575fd1b0bfde",
+      "name": "Yemima",
+      "phone": "(412) 736-9883",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15220"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://yemimallc.com/"
+    },
+    {
+      "id": "1a936e26-1c99-48a1-a760-7e92a88c6a73",
+      "name": "LadyPro Home Cleaning Services",
+      "phone": "(412) 332-4952",
+      "category": "House cleaning",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "is_sample": false,
+      "logo_url": "",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "15220"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "phone_verified": false,
+      "website": "https://ladyprohomecleaning.com/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "db37db95-9acb-4ac8-b5a6-62451bfb8af5",
+      "business_id": "aedc1b15-b095-47bf-a0a9-b3b17781564b",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "68cad06e-1fdb-4bf8-af27-eec56a54008a",
+      "business_id": "612c2695-175e-4709-89b2-f16212be57f0",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "3e0c3fc0-ba21-48fe-a2d3-59e988f3fd2b",
+      "business_id": "1f05fbf8-ef28-4daf-962c-bf9b6fa61836",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "cd42add6-daf4-4165-8576-a7862b6a29ab",
+      "business_id": "463f5410-f0a4-489b-8ece-575fd1b0bfde",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    },
+    {
+      "id": "86c6db8e-5b5a-41e3-9df9-a1ea47271dab",
+      "business_id": "1a936e26-1c99-48a1-a760-7e92a88c6a73",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "House cleaning at your location"
+    }
+  ]
+}

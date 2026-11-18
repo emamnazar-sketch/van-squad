@@ -20382,5 +20382,395 @@
   "image": "images/business/gemmas-cleaning-services.jpg",
   "scene": "Cleaner carrying a mop and bucket across a bright entryway",
   "created": "2026-11-17"
+ },
+ "7a5098d5-e693-4ad7-a58d-7a9140c29dd8": {
+  "business": "Shandra Mobile Detailing",
+  "image": "images/business/shandra-mobile-detailing.jpg",
+  "scene": "Detailer foam-washing an SUV in a sunny driveway, wide shot",
+  "created": "2026-11-18"
+ },
+ "a4989a0a-076e-44a2-b282-63b9056642bd": {
+  "business": "Distinctive Shine",
+  "image": "images/business/distinctive-shine.jpg",
+  "scene": "Detailer wiping a sedan windshield with a microfiber cloth in a driveway",
+  "created": "2026-11-18"
+ },
+ "dc600a05-2442-4a4c-962b-7af3450afcfc": {
+  "business": "Keystone Mobile Solutions",
+  "image": "images/business/keystone-mobile-solutions.jpg",
+  "scene": "Detailer vacuuming the open trunk of a hatchback in a sunny driveway",
+  "created": "2026-11-18"
+ },
+ "46c962bc-12f7-415b-8271-84295f135cf3": {
+  "business": "PlatPro Home and Office Cleaning",
+  "image": "images/business/platpro-home-and-office-cleaning.jpg",
+  "scene": "Cleaner wiping a bright kitchen counter in a sunlit home",
+  "created": "2026-11-18"
+ },
+ "87c00549-fd1e-4528-bf2a-ac49bcfbb062": {
+  "business": "Pro Home and Commercial Cleaners",
+  "image": "images/business/pro-home-and-commercial-cleaners.jpg",
+  "scene": "Cleaner vacuuming a bright living-room rug, morning light",
+  "created": "2026-11-18"
+ },
+ "67f79709-d7e9-407f-b2e6-e31f10e75003": {
+  "business": "Cleaning Pittsburgh Homes",
+  "image": "images/business/cleaning-pittsburgh-homes.jpg",
+  "scene": "Cleaner dusting wooden dining-room shelves in a bright home",
+  "created": "2026-11-18"
+ },
+ "b8bf6656-bda7-4ef6-beef-76bb64537cc7": {
+  "business": "Handyman Connection of Coraopolis",
+  "image": "images/business/handyman-connection-of-coraopolis.jpg",
+  "scene": "Handyman repairing a front-door hinge on a brick porch, toolbox open",
+  "created": "2026-11-18"
+ },
+ "39bc06c3-a914-44a3-9690-6512870e90be": {
+  "business": "HomeOwners Helper Handyman Services",
+  "image": "images/business/homeowners-helper-handyman-services.jpg",
+  "scene": "Handyman installing a ceiling light fixture on a ladder in a bright hallway",
+  "created": "2026-11-18"
+ },
+ "63408b9e-56d3-4766-a8c1-d692ef491fc7": {
+  "business": "Havenside",
+  "image": "images/business/havenside.jpg",
+  "scene": "Handyman patching a drywall spot in a bright bedroom, tools on a drop cloth",
+  "created": "2026-11-18"
+ },
+ "762fe663-0ff4-49e9-a9d2-801840dc77aa": {
+  "business": "Frog Pad Fixers",
+  "image": "images/business/frog-pad-fixers.jpg",
+  "scene": "Handyman tightening a kitchen faucet in bright natural light",
+  "created": "2026-11-18"
+ },
+ "0a8f8d25-452f-49b6-90ec-6e7dc252f7a4": {
+  "business": "Buena Vista Cleaning Services",
+  "image": "images/business/buena-vista-cleaning-services.jpg",
+  "scene": "Cleaner deep-scrubbing bathroom tile grout with a brush",
+  "created": "2026-11-18"
+ },
+ "b36b2dae-a929-4c48-aac6-5f610cd8f3c3": {
+  "business": "Williams House Cleaning Service",
+  "image": "images/business/williams-house-cleaning-service.jpg",
+  "scene": "Cleaner deep-cleaning an open refrigerator in a bright kitchen",
+  "created": "2026-11-18"
+ },
+ "656f8699-8580-43d0-8deb-791b62dadab1": {
+  "business": "The Spaw Pet Salon",
+  "image": "images/business/the-spaw-pet-salon.jpg",
+  "scene": "Groomer brushing a fluffy dog on a table beside an unbranded grooming van",
+  "created": "2026-11-18"
+ },
+ "f4a8c03c-a33d-4a6b-beac-06efaad5e186": {
+  "business": "Fur Wheels Mobile Grooming Company",
+  "image": "images/business/fur-wheels-mobile-grooming-company.jpg",
+  "scene": "Groomer blow-drying a small dog inside a bright grooming van doorway",
+  "created": "2026-11-18"
+ },
+ "40a27236-c121-4459-91e1-47969084b673": {
+  "business": "Larry's Laundromutt",
+  "image": "images/business/larry-s-laundromutt.jpg",
+  "scene": "Groomer trimming a poodle on a table outside a home garage in sunlight",
+  "created": "2026-11-18"
+ },
+ "f4be50b8-f76c-43e9-a9a2-8db5644e75e1": {
+  "business": "So Clean Solutions",
+  "image": "images/business/so-clean-solutions.jpg",
+  "scene": "Worker pressure-washing a concrete driveway in front of a brick home",
+  "created": "2026-11-18"
+ },
+ "1b8f1b9b-4f9a-4f13-8fb6-b3477d878de5": {
+  "business": "412 Wash & Restore",
+  "image": "images/business/412-wash-restore.jpg",
+  "scene": "Worker pressure-washing vinyl siding from a driveway, afternoon light",
+  "created": "2026-11-18"
+ },
+ "46c7682b-9f4d-42fc-88e6-b9358a320f32": {
+  "business": "CleanView Property Services",
+  "image": "images/business/cleanview-property-services.jpg",
+  "scene": "Worker pressure-washing a wooden deck behind a suburban home",
+  "created": "2026-11-18"
+ },
+ "bdc746e6-7ede-481e-97c3-613d3972b381": {
+  "business": "Premier Power Cleaning",
+  "image": "images/business/premier-power-cleaning.jpg",
+  "scene": "Worker pressure-washing a stone walkway to a front door",
+  "created": "2026-11-18"
+ },
+ "23c3564b-ff74-417c-9c09-ed97ff554514": {
+  "business": "Beak Buster Window Cleaning",
+  "image": "images/business/beak-buster-window-cleaning.jpg",
+  "scene": "Worker pressure-washing a concrete patio beside a home",
+  "created": "2026-11-18"
+ },
+ "0f4c99f4-c332-403b-9ca7-bc36b3546e96": {
+  "business": "Strong Cleaning Pittsburgh",
+  "image": "images/business/strong-cleaning-pittsburgh.jpg",
+  "scene": "Cleaner mopping a bright hardwood hallway in a city rowhouse",
+  "created": "2026-11-18"
+ },
+ "da1dce4d-30b0-439a-92e8-9aa8b1f62799": {
+  "business": "Steel City Shine",
+  "image": "images/business/steel-city-shine.jpg",
+  "scene": "Cleaner polishing a bathroom mirror in a bright tiled bathroom",
+  "created": "2026-11-18"
+ },
+ "b45b1b89-ef93-46a8-804e-8fcff4b24023": {
+  "business": "Maid On The Spot",
+  "image": "images/business/maid-on-the-spot.jpg",
+  "scene": "Cleaner making a bed with fresh linens in a sunlit bedroom",
+  "created": "2026-11-18"
+ },
+ "05a68c3b-4bf5-4787-932f-e61195abf5bf": {
+  "business": "Wexford Cleaning",
+  "image": "images/business/wexford-cleaning.jpg",
+  "scene": "Cleaner wiping glass patio doors in a bright family room",
+  "created": "2026-11-18"
+ },
+ "40af7c8c-d564-40ff-a571-3bf08b809ba3": {
+  "business": "Modern Projects, LLC",
+  "image": "images/business/modern-projects-llc.jpg",
+  "scene": "Handyman assembling a wooden bookshelf in a bright living room",
+  "created": "2026-11-18"
+ },
+ "685458d9-a55c-40e2-a818-d2a3f94ff0a2": {
+  "business": "Royal Hands Contracting LLC",
+  "image": "images/business/royal-hands-contracting-llc.jpg",
+  "scene": "Handyman replacing a doorknob in a bright home entryway",
+  "created": "2026-11-18"
+ },
+ "2c8c1535-1692-4e34-bb79-48b07c5d8611": {
+  "business": "Zach's Contracting",
+  "image": "images/business/zach-s-contracting.jpg",
+  "scene": "Handyman caulking a bathtub edge in a bright bathroom",
+  "created": "2026-11-18"
+ },
+ "05503336-ab98-41bc-be00-399ef755b1f5": {
+  "business": "attic+earth Home",
+  "image": "images/business/attic-earth-home.jpg",
+  "scene": "Handyman installing a ceiling fan from a ladder in a bright bedroom",
+  "created": "2026-11-18"
+ },
+ "a367ebab-b749-49d1-bcd8-828d5708e5fa": {
+  "business": "Honest Renovators",
+  "image": "images/business/honest-renovators.jpg",
+  "scene": "Handyman sanding a wooden stair railing in a bright stairwell",
+  "created": "2026-11-18"
+ },
+ "bd2611d1-ecdf-483a-a40a-e6e442927feb": {
+  "business": "Mr. Handyman of Northern Pittsburgh, South Hills, Moon",
+  "image": "images/business/mr-handyman-of-northern-pittsburgh-south-hills-moon.jpg",
+  "scene": "Handyman fixing a kitchen sink drain under an open cabinet",
+  "created": "2026-11-18"
+ },
+ "aedc1b15-b095-47bf-a0a9-b3b17781564b": {
+  "business": "Pittsburgh House Cleaning, LLC",
+  "image": "images/business/pittsburgh-house-cleaning-llc.jpg",
+  "scene": "Cleaner scrubbing a stovetop in a bright modern kitchen",
+  "created": "2026-11-18"
+ },
+ "612c2695-175e-4709-89b2-f16212be57f0": {
+  "business": "Leslie'An Cleaning Service",
+  "image": "images/business/leslie-an-cleaning-service.jpg",
+  "scene": "Cleaner folding laundry on a bed in a bright bedroom",
+  "created": "2026-11-18"
+ },
+ "1f05fbf8-ef28-4daf-962c-bf9b6fa61836": {
+  "business": "Hand It Over Cleaning & Painting",
+  "image": "images/business/hand-it-over-cleaning-painting.jpg",
+  "scene": "Cleaner wiping kitchen cabinets in a bright kitchen",
+  "created": "2026-11-18"
+ },
+ "463f5410-f0a4-489b-8ece-575fd1b0bfde": {
+  "business": "Yemima",
+  "image": "images/business/yemima.jpg",
+  "scene": "Cleaner dusting shelves above a piano in a bright living room",
+  "created": "2026-11-18"
+ },
+ "1a936e26-1c99-48a1-a760-7e92a88c6a73": {
+  "business": "LadyPro Home Cleaning Services",
+  "image": "images/business/ladypro-home-cleaning-services.jpg",
+  "scene": "Cleaner vacuuming carpeted stairs with a handheld vacuum",
+  "created": "2026-11-18"
+ },
+ "e9641906-5c74-4790-9c12-e473c7cada8f": {
+  "business": "Little Green Maid Service",
+  "image": "images/business/little-green-maid-service.jpg",
+  "scene": "Cleaner wiping a wooden dining table in a sunlit dining room",
+  "created": "2026-11-18"
+ },
+ "170c1d3e-d03e-4cce-8741-0eb576a030aa": {
+  "business": "Fresh Residential and Commercial Cleaning",
+  "image": "images/business/fresh-residential-and-commercial-cleaning.jpg",
+  "scene": "Cleaner squeegeeing a glass shower door in a bright bathroom",
+  "created": "2026-11-18"
+ },
+ "fe54e9b9-485e-4166-9454-18772f2442dd": {
+  "business": "DCS Maintenance",
+  "image": "images/business/dcs-maintenance.jpg",
+  "scene": "Cleaner dusting a ceiling-fan blade from a step stool in a bright living room",
+  "created": "2026-11-18"
+ },
+ "25a5f5c2-9bed-4e62-802f-8079df932f39": {
+  "business": "Rich Kidz Cleaning Services",
+  "image": "images/business/rich-kidz-cleaning-services.jpg",
+  "scene": "Cleaner mopping a bright kitchen tile floor",
+  "created": "2026-11-18"
+ },
+ "082d6bef-c05d-44c1-b0f2-0958da97f8a4": {
+  "business": "Alpine Pools",
+  "image": "images/business/alpine-pools.jpg",
+  "scene": "Pool technician skimming leaves from a backyard pool from the dry deck",
+  "created": "2026-11-18"
+ },
+ "5eca2937-f970-4f18-be71-6ebd1ac10194": {
+  "business": "Steel City Pools",
+  "image": "images/business/steel-city-pools.jpg",
+  "scene": "Pool technician testing pool water beside a sunny backyard pool",
+  "created": "2026-11-18"
+ },
+ "e2063e88-72e0-43b6-b38c-93269a29723a": {
+  "business": "Pool Designs",
+  "image": "images/business/pool-designs.jpg",
+  "scene": "Pool technician vacuuming a backyard pool from the deck edge",
+  "created": "2026-11-18"
+ },
+ "85c3cd86-3143-4adc-893d-59f0e8348b4e": {
+  "business": "Mobile Wash and Lube",
+  "image": "images/business/mobile-wash-and-lube.jpg",
+  "scene": "Detailer hand-washing a sedan with a soapy mitt in a sunny driveway",
+  "created": "2026-11-18"
+ },
+ "a6f70da8-911a-4493-b6ab-53c139bb23a3": {
+  "business": "Mobile Car Detailing Pittsburgh",
+  "image": "images/business/mobile-car-detailing-pittsburgh.jpg",
+  "scene": "Detailer rinsing a sedan with a garden hose in a sunny driveway, extra-wide shot",
+  "created": "2026-11-18"
+ },
+ "12817944-1fcd-44f9-825c-663d92864d37": {
+  "business": "Steam Auto Spa",
+  "image": "images/business/steam-auto-spa.jpg",
+  "scene": "Detailer steam-cleaning a car seat through an open door in a driveway",
+  "created": "2026-11-18"
+ },
+ "0ffdc5f9-512d-4e9c-ac24-64e534bbf7d9": {
+  "business": "PGHDETAILING",
+  "image": "images/business/pghdetailing.jpg",
+  "scene": "Detailer polishing a car hood with a microfiber cloth in a sunny driveway",
+  "created": "2026-11-18"
+ },
+ "feea20aa-cc86-4c9a-bfd4-5b35740c3ddb": {
+  "business": "F1 Mobile Detailing",
+  "image": "images/business/f1-mobile-detailing.jpg",
+  "scene": "Detailer wiping a car dashboard inside an open-door car at a home",
+  "created": "2026-11-18"
+ },
+ "bf416e50-d776-49f3-b266-73007dcdaf5b": {
+  "business": "CC Pressure Washing",
+  "image": "images/business/cc-pressure-washing.jpg",
+  "scene": "Worker pressure-washing a brick home's front steps and walkway",
+  "created": "2026-11-18"
+ },
+ "e0344396-9cb1-4c2c-a3b9-110830ab303a": {
+  "business": "Keystone Pressure Washing and Roof Cleaning",
+  "image": "images/business/keystone-pressure-washing-and-roof-cleaning.jpg",
+  "scene": "Worker pressure-washing a concrete driveway apron in front of a garage",
+  "created": "2026-11-18"
+ },
+ "89e2c8a9-63fe-4b64-98ec-189c91e11f0e": {
+  "business": "J&R Pressure Washing",
+  "image": "images/business/j-r-pressure-washing.jpg",
+  "scene": "Worker pressure-washing a home's concrete front porch",
+  "created": "2026-11-18"
+ },
+ "a905fddf-f905-4495-87c7-f7403b9b8847": {
+  "business": "Hudson United Enterprises",
+  "image": "images/business/hudson-united-enterprises.jpg",
+  "scene": "Worker pressure-washing a backyard fence line from a lawn",
+  "created": "2026-11-18"
+ },
+ "3a929fb2-9dca-46a5-a064-9fcedbf5d3f3": {
+  "business": "Squeegee Squad - East Pittsburgh, PA",
+  "image": "images/business/squeegee-squad-east-pittsburgh-pa.jpg",
+  "scene": "Worker pressure-washing home siding with an extension wand",
+  "created": "2026-11-18"
+ },
+ "ce4660dc-7aff-48b7-a56f-aef3714f27cc": {
+  "business": "Penguin Clean Co",
+  "image": "images/business/penguin-clean-co.jpg",
+  "scene": "Cleaner deep-scrubbing a kitchen floor with a brush in a bright kitchen",
+  "created": "2026-11-18"
+ },
+ "8dddf214-9621-44a2-ad6e-a418ac95faed": {
+  "business": "Maid in The Burgh",
+  "image": "images/business/maid-in-the-burgh.jpg",
+  "scene": "Cleaner scrubbing a shower wall in a bright tiled bathroom",
+  "created": "2026-11-18"
+ },
+ "cb413fc7-c78e-4f84-9a90-d521855b617c": {
+  "business": "Kay's Cleaning",
+  "image": "images/business/kay-s-cleaning.jpg",
+  "scene": "Cleaner scrubbing inside an open oven in a bright kitchen",
+  "created": "2026-11-18"
+ },
+ "f090c219-2754-4314-94b2-8a0cb117a7ac": {
+  "business": "Pittsburgh Car Detail",
+  "image": "images/business/pittsburgh-car-detail.jpg",
+  "scene": "Detailer applying wax to an SUV in a sunny suburban driveway",
+  "created": "2026-11-18"
+ },
+ "5ee33fe4-7375-497f-94ef-d713b105860f": {
+  "business": "Attention2Detail Auto Care",
+  "image": "images/business/attention2detail-auto-care.jpg",
+  "scene": "Detailer cleaning car windows with a cloth and spray bottle in a driveway",
+  "created": "2026-11-18"
+ },
+ "2bf49489-101f-450e-80b7-d89ee96e0e34": {
+  "business": "Renzo's Auto Spa",
+  "image": "images/business/renzo-s-auto-spa.jpg",
+  "scene": "Detailer shampooing car carpet mats beside an SUV in a sunny driveway",
+  "created": "2026-11-18"
+ },
+ "a3434ec2-4a63-4a1e-bc65-6879597ae655": {
+  "business": "Clean Fiend Detailing",
+  "image": "images/business/clean-fiend-detailing.jpg",
+  "scene": "Detailer buffing a sedan's side panel with an orbital polisher in a driveway",
+  "created": "2026-11-18"
+ },
+ "e912b5da-feb5-40b0-b2f0-3aad7e35e4fb": {
+  "business": "House Call Mobile Grooming",
+  "image": "images/business/house-call-mobile-grooming.jpg",
+  "scene": "Groomer rinsing a dog in a tub inside a grooming van doorway at a curb",
+  "created": "2026-11-18"
+ },
+ "d2ba99ac-92af-479b-a295-f5f22cc79bc4": {
+  "business": "Groom's by Jolette",
+  "image": "images/business/groom-s-by-jolette.jpg",
+  "scene": "Groomer combing a fluffy small dog on a table beside a van in a driveway",
+  "created": "2026-11-18"
+ },
+ "546de2b6-9565-422e-b376-1e4b52f9c018": {
+  "business": "Ace Handyman Services South Pittsburgh",
+  "image": "images/business/ace-handyman-services-south-pittsburgh.jpg",
+  "scene": "Handyman repairing a wooden fence gate hinge in a sunny backyard",
+  "created": "2026-11-18"
+ },
+ "9cfbbe10-ea3c-41e4-8c38-1287ad19c7c0": {
+  "business": "Lina's Contracting & Handyman Service",
+  "image": "images/business/lina-s-contracting-handyman-service.jpg",
+  "scene": "Handywoman drilling a TV wall bracket in a bright living room",
+  "created": "2026-11-18"
+ },
+ "535bc379-e59c-4218-b2b1-734f45f73431": {
+  "business": "The Canonsburg Handyman",
+  "image": "images/business/the-canonsburg-handyman.jpg",
+  "scene": "Handyman replacing a porch light fixture beside a front door from a step ladder",
+  "created": "2026-11-18"
+ },
+ "c28c60b9-5756-4c5b-a5ad-8e55b95ab344": {
+  "business": "Freedom Home Advantage",
+  "image": "images/business/freedom-home-advantage.jpg",
+  "scene": "Handyman inspecting a gutter from a ladder at a roof edge in daylight",
+  "created": "2026-11-18"
  }
 }

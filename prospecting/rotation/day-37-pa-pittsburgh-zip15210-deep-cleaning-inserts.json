@@ -1,0 +1,62 @@
+{
+ "businesses": [
+  {
+   "id": "0a8f8d25-452f-49b6-90ec-6e7dc252f7a4",
+   "name": "Buena Vista Cleaning Services",
+   "phone": "(412) 303-1592",
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "15210"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "phone_verified": false,
+   "website": "https://www.buenavistacleaning.net/"
+  },
+  {
+   "id": "b36b2dae-a929-4c48-aac6-5f610cd8f3c3",
+   "name": "Williams House Cleaning Service",
+   "phone": "(412) 332-5205",
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "is_sample": false,
+   "logo_url": "",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "15210"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "phone_verified": false,
+   "website": "https://williamshousecleaningservice.com/service-areas/pittsburgh-15222"
+  }
+ ],
+ "listings": [
+  {
+   "id": "1224e092-1405-405d-8aa2-cd0b4dd639bc",
+   "business_id": "0a8f8d25-452f-49b6-90ec-6e7dc252f7a4",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  },
+  {
+   "id": "5c6ac5c7-d030-4419-8d97-1536d74a8a93",
+   "business_id": "b36b2dae-a929-4c48-aac6-5f610cd8f3c3",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning at your location"
+  }
+ ]
+}
