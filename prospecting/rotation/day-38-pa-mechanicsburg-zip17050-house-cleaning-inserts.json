@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "2beeea92-b4e5-4ae5-914e-1e97467197ae",
+      "name": "Cleaning Fairy PA",
+      "phone": "(717) 802-5669",
+      "category": "House cleaning",
+      "website": "http://cleaningfairypa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17050"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "a5ed2e2f-9e99-412c-a382-89b266e96344",
+      "name": "Cleaning for Tired Moms",
+      "phone": "(717) 734-5757",
+      "category": "House cleaning",
+      "website": "http://www.cleaningfortiredmoms.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17050"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "9a90f73f-30e4-4b80-aa60-bc2f9bc63d17",
+      "name": "Nelsons Flawless Cleaning LLC",
+      "phone": "(223) 349-8629",
+      "category": "House cleaning",
+      "website": "https://nfc-pro-cleaners.sites.relayleads.io/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17050"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "19ac295a-9dc8-4a96-878e-23d3eb1f1939",
+      "name": "Queen Cleaning",
+      "phone": "(717) 982-4620",
+      "category": "House cleaning",
+      "website": "https://www.queencleaningpa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17050"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "4bd6bb8f-eac1-4bf6-a32f-f501d07ae83c",
+      "name": "Candace Wagner Cleaning",
+      "phone": "(717) 215-3813",
+      "category": "House cleaning",
+      "website": "https://cwclean4u.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17050"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "89834237-9a50-4079-9b4d-154904117971",
+      "business_id": "2beeea92-b4e5-4ae5-914e-1e97467197ae",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "adbe1f0c-f9b2-47b6-8198-285ebccb67ea",
+      "business_id": "a5ed2e2f-9e99-412c-a382-89b266e96344",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8dab5c1f-cebc-49fe-8505-649c66b13883",
+      "business_id": "9a90f73f-30e4-4b80-aa60-bc2f9bc63d17",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ff0a1cce-33ee-44f9-abbf-795180a988ad",
+      "business_id": "19ac295a-9dc8-4a96-878e-23d3eb1f1939",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "76b533cc-0564-4ed3-96d3-e0c51880cfe6",
+      "business_id": "4bd6bb8f-eac1-4bf6-a32f-f501d07ae83c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

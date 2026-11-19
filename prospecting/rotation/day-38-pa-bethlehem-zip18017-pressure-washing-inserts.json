@@ -1,0 +1,148 @@
+{
+  "businesses": [
+    {
+      "id": "cc0142a4-85ac-4721-9277-cea42e079939",
+      "name": "A&M Spotless",
+      "phone": "(484) 255-4478",
+      "category": "Pressure washing",
+      "website": "https://www.amspotless.com/commercial-pressure-washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18017"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "4d9d2550-1f05-4146-8185-a1d572616fdf",
+      "name": "Water Brothers Pressure Washing LLC",
+      "phone": "(484) 469-7280",
+      "category": "Pressure washing",
+      "website": "http://waterbrothersllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18017",
+        "18020"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "1cc452a5-df1a-4cd4-9113-e00c4e7c1b70",
+      "name": "A&S Power Washing, LLC",
+      "phone": "(484) 903-3216",
+      "category": "Pressure washing",
+      "website": "https://www.aspowerwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18017"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "2f7062d3-af87-4fdd-a7aa-d69b437e1da3",
+      "name": "Revive Power Washing",
+      "phone": "(484) 619-0275",
+      "category": "Pressure washing",
+      "website": "https://revivepowerwash.com/locations/bethlehem-pa/pressure-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18017",
+        "18106"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "38a0faeb-d39d-4756-ab99-e00d687759ee",
+      "name": "PureFlow Pro Wash",
+      "phone": "(610) 704-5916",
+      "category": "Pressure washing",
+      "website": "https://pureflowprowash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18017"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "1c309e78-36cb-45b8-9d0e-10c49fb24f3e",
+      "business_id": "cc0142a4-85ac-4721-9277-cea42e079939",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c18d34f9-eb26-4570-a665-42c341e5d070",
+      "business_id": "4d9d2550-1f05-4146-8185-a1d572616fdf",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "045b81e0-3e49-4e38-b696-c69b43ef25d8",
+      "business_id": "1cc452a5-df1a-4cd4-9113-e00c4e7c1b70",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "09a22891-eeea-402c-a0a0-34825614a489",
+      "business_id": "2f7062d3-af87-4fdd-a7aa-d69b437e1da3",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "737a0007-a00a-451b-957f-94e9b014cb67",
+      "business_id": "38a0faeb-d39d-4756-ab99-e00d687759ee",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

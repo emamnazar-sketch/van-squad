@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "d94a6c58-baee-4ec3-ba0f-9dfd5da7b19a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bark & Mane of Lehigh Valley",
+   "category": "Mobile pet grooming",
+   "phone": "(484) 893-0720",
+   "website": "https://www.barkandmane.com/pet-groomers/lehigh-valley-pa/about-us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "18103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "90607ca1-9807-4e93-8822-f0153d11b6bb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "FURnado Mobile Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(908) 763-4876",
+   "website": "https://www.furnado.us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "18103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0177ca09-34a5-4231-9166-3198e8e5a73a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Family Tails Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(215) 720-8095",
+   "website": "https://www.ftmpg.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "18103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e9250427-9a59-4026-867d-1e6bfc7a4dc6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Doggie Stylez Mobile Salon & Spa",
+   "category": "Mobile pet grooming",
+   "phone": "(484) 898-7581",
+   "website": "https://doggiestylezmobile.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "18103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0790d33e-870d-4d45-b37e-5cfc878e50c6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sundog Mobile Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(484) 767-2016",
+   "website": "https://sundogmobilegrooming.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "18103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "a70582ed-9615-4ec3-9b55-c01c77b1372c",
+   "business_id": "d94a6c58-baee-4ec3-ba0f-9dfd5da7b19a",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b602e434-072d-4f0f-9a84-387017858312",
+   "business_id": "90607ca1-9807-4e93-8822-f0153d11b6bb",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c41aa3dd-7fef-46f8-a984-847c2dd0fe6a",
+   "business_id": "0177ca09-34a5-4231-9166-3198e8e5a73a",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f7c3e335-a5e6-4f13-9c87-c7b0c678aee2",
+   "business_id": "e9250427-9a59-4026-867d-1e6bfc7a4dc6",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0f03fb49-be03-4010-83bf-026ebbd3c794",
+   "business_id": "0790d33e-870d-4d45-b37e-5cfc878e50c6",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+  "businesses": [
+    {
+      "id": "3c5e6ed7-408a-4de2-9165-a704377dd5b8",
+      "name": "Faith & Foam LLC",
+      "phone": "(484) 867-7033",
+      "category": "House cleaning",
+      "website": "https://faith-and-foam.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "f992f1b6-61e4-4f19-9f67-1bf78d2925d1",
+      "name": "ADL Cleaning Services",
+      "phone": "(609) 540-5032",
+      "category": "House cleaning",
+      "website": "https://adlcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "841af063-66de-4dc5-bffe-8ff41fb9ded8",
+      "name": "MaidPro Lehigh Valley",
+      "phone": "(610) 419-9860",
+      "category": "House cleaning",
+      "website": "https://www.maidpro.com/lehigh-valley-pa",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042",
+        "18045"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "95b8f810-53c1-4250-9627-cd3e3dee6f40",
+      "name": "Superior Maid Services LLC",
+      "phone": "(610) 972-9916",
+      "category": "House cleaning",
+      "website": "https://www.superiormaidservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042",
+        "18045"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "fa165779-4b6c-46d2-b94d-2da8c77254b1",
+      "name": "Home4UCleaning LLC",
+      "phone": "(973) 980-6699",
+      "category": "House cleaning",
+      "website": "https://home4ucleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "6958454a-3375-425f-b9c6-e2ee67c5e43a",
+      "name": "Super Green Cleaning",
+      "phone": "(814) 701-9400",
+      "category": "House cleaning",
+      "website": "https://supergreencleaning.net/service-areas",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042",
+        "18020"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "6f772b53-cca5-46a4-ad6b-11696983ab52",
+      "name": "Maid 2 Clean",
+      "phone": "(570) 588-8944",
+      "category": "House cleaning",
+      "website": "http://www.maid2cleanpa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18042",
+        "18372"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "a922c84d-8d8c-4af2-a1f6-2af0974df935",
+      "business_id": "3c5e6ed7-408a-4de2-9165-a704377dd5b8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a2a2551d-e239-4cc3-91a5-cf74288cef06",
+      "business_id": "f992f1b6-61e4-4f19-9f67-1bf78d2925d1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a1aee744-1686-4b19-8b32-d3882f55cbd5",
+      "business_id": "841af063-66de-4dc5-bffe-8ff41fb9ded8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f5850b27-0b70-4f76-9704-8965c34d8f89",
+      "business_id": "95b8f810-53c1-4250-9627-cd3e3dee6f40",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4cdc51c7-208d-46d4-a8f7-218f6c326d47",
+      "business_id": "fa165779-4b6c-46d2-b94d-2da8c77254b1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5ec95ccc-fa25-4205-bf22-56184fda3943",
+      "business_id": "6958454a-3375-425f-b9c6-e2ee67c5e43a",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6e1168c0-7aa1-4f59-8acd-8fabb63787fd",
+      "business_id": "6f772b53-cca5-46a4-ad6b-11696983ab52",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

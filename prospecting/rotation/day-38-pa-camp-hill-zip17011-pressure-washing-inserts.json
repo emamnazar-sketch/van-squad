@@ -1,0 +1,121 @@
+{
+ "businesses": [
+  {
+   "id": "84157f74-1d1f-4a78-889e-311cdda16131",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Turbo Clean Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(717) 525-4006",
+   "website": "https://www.turbocleanpw.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17011",
+    "17050"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "386c3e2f-d9e7-487b-94c9-abf75ff22742",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "DB360 Soft Wash",
+   "category": "Pressure washing",
+   "phone": "(717) 691-1712",
+   "website": "https://db360wash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17011",
+    "17050"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "31b965f8-3955-41a4-9938-7975ea46d56b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Diversified Surface Cleaning",
+   "category": "Pressure washing",
+   "phone": "(717) 756-9651",
+   "website": "http://dscbright.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17011",
+    "17043"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "506ef467-f2a3-4573-8d46-b298c9c27436",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Professor Pressure",
+   "category": "Pressure washing",
+   "phone": "(717) 877-5880",
+   "website": "https://professorpressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17011"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d64dcfb2-c765-4f2f-a708-076fa85b690b",
+   "business_id": "84157f74-1d1f-4a78-889e-311cdda16131",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8e682859-8413-4dfb-8fe7-3a69a267e153",
+   "business_id": "386c3e2f-d9e7-487b-94c9-abf75ff22742",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "da366218-8d23-42ec-a847-97c08a643822",
+   "business_id": "31b965f8-3955-41a4-9938-7975ea46d56b",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "16855b11-cd41-4513-9a0b-80a2b32a5b21",
+   "business_id": "506ef467-f2a3-4573-8d46-b298c9c27436",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

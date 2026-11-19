@@ -1,0 +1,175 @@
+{
+  "businesses": [
+    {
+      "id": "205795dd-6b41-4142-80fd-3a826ac8fb6a",
+      "name": "Ace Handyman Services Harrisburg",
+      "phone": "(717) 689-7364",
+      "category": "Handyman",
+      "website": "https://www.acehandymanservices.com/offices/harrisburg",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17109"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "872d51e8-6188-479a-82cd-62420f7ac80e",
+      "name": "Nail'd It Handyman",
+      "phone": "(717) 773-4410",
+      "category": "Handyman",
+      "website": "https://nail-d-it-handyman.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17109"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "26fec501-09cd-4218-95c2-e47e30e91166",
+      "name": "Mr. Handyman of Harrisburg - Hershey",
+      "phone": "(717) 573-8043",
+      "category": "Handyman",
+      "website": "https://www.mrhandyman.com/harrisburg-hershey/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17109",
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "93d5f07e-a04f-4fe5-9e65-909ab3a7f9e2",
+      "name": "Gary's Reliable Repairs",
+      "phone": "(717) 448-6582",
+      "category": "Handyman",
+      "website": "https://www.garysreliablerepairs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17109"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "d54584f7-c199-4f56-afcd-de6145bc7f27",
+      "name": "Kirby's Handyman Service",
+      "phone": "(717) 586-2877",
+      "category": "Handyman",
+      "website": "https://www.kirbyshandymanservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17109"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "1db38b38-1c25-4c34-8b6d-444d977c68b8",
+      "name": "Handyworx",
+      "phone": "(717) 480-4279",
+      "category": "Handyman",
+      "website": "https://thehandyworx.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17109"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "058c5fed-3754-4e37-9808-7546e71af41f",
+      "business_id": "205795dd-6b41-4142-80fd-3a826ac8fb6a",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8172f74a-8777-4fba-b57e-82b86d2cd1f6",
+      "business_id": "872d51e8-6188-479a-82cd-62420f7ac80e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "36e92bb5-44d8-435b-9d36-97a6708061e5",
+      "business_id": "26fec501-09cd-4218-95c2-e47e30e91166",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a9f41d09-e1e8-47e9-bcde-2b60908c9151",
+      "business_id": "93d5f07e-a04f-4fe5-9e65-909ab3a7f9e2",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d27d9802-d8ce-485e-ad7a-195e613dc14f",
+      "business_id": "d54584f7-c199-4f56-afcd-de6145bc7f27",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "89ee8e2f-37f2-4c36-976b-a0185c8cfa34",
+      "business_id": "1db38b38-1c25-4c34-8b6d-444d977c68b8",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

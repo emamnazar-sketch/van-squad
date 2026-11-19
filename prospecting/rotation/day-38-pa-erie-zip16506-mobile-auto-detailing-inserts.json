@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "03a0d71f-1692-4c28-89d5-0374cc280947",
+      "name": "Erie Mobile Detailing",
+      "phone": "(814) 860-0903",
+      "category": "Mobile auto detailing",
+      "website": "http://www.eriemobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16506"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "b04a7484-ff2c-4ee8-98e1-e6568caa54e1",
+      "name": "Mobile Detailing Specialties",
+      "phone": "(814) 920-3529",
+      "category": "Mobile auto detailing",
+      "website": "https://mobile-detailing-specialties.zarlasites.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16506"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "9c3b9ab6-16f5-4276-bfa9-484ae9015cb1",
+      "name": "Zorro's Auto Detailing",
+      "phone": "(814) 273-6110",
+      "category": "Mobile auto detailing",
+      "website": "https://www.erieautodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16506"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "07bfa302-10b4-4435-857c-ae56b322bd0f",
+      "name": "Cruz'N Clean Mobile",
+      "phone": "(814) 969-4117",
+      "category": "Mobile auto detailing",
+      "website": "https://cruzncleanmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16506"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "e250f642-4b20-4670-8655-f28eb879a81a",
+      "business_id": "03a0d71f-1692-4c28-89d5-0374cc280947",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "480efff9-5f78-4224-9d05-7572b79e6f8b",
+      "business_id": "b04a7484-ff2c-4ee8-98e1-e6568caa54e1",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "92829200-b290-4327-bcef-97b40faf9e35",
+      "business_id": "9c3b9ab6-16f5-4276-bfa9-484ae9015cb1",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "acdf711a-6b14-40e2-b4d4-ce716ccd30cf",
+      "business_id": "07bfa302-10b4-4435-857c-ae56b322bd0f",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

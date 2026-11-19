@@ -1,0 +1,208 @@
+{
+ "businesses": [
+  {
+   "id": "e98d8921-8288-4861-bc79-00fbcee4f32c",
+   "name": "Allentown Platinum Star Cleaning Services",
+   "phone": "(610) 897-7090",
+   "category": "House cleaning",
+   "website": "http://www.platinumstarcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104",
+    "18042",
+    "18018"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "4e3a69a6-56aa-4762-b6ff-d6e29fd9eaf1",
+   "name": "Jens Cleaning Services",
+   "phone": "(610) 426-1440",
+   "category": "House cleaning",
+   "website": "https://jenscleaningserviceslehigh.weebly.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "5d426123-7f7a-4832-869a-e2f47f9d1b5b",
+   "name": "Blancas Cleaning Services",
+   "phone": "(484) 456-5713",
+   "category": "House cleaning",
+   "website": "http://blancascleaningservicespa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104",
+    "18069"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "da2c5fd4-4b8a-4ad0-b560-3bacc552579d",
+   "name": "Bonissi Cleaning",
+   "phone": "(484) 828-5040",
+   "category": "House cleaning",
+   "website": "https://www.bonissicleaning.us/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "94c66635-7eaa-4e67-835f-08fa828ccef7",
+   "name": "Saucon Valley Cleaning Company",
+   "phone": "(484) 725-6610",
+   "category": "House cleaning",
+   "website": "https://SauconValleyCleaningCompany.com/service-areas",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104",
+    "18034"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "602f27af-1480-46f7-aa80-71c069044944",
+   "name": "Merry Maids of Lehigh Valley",
+   "phone": "(610) 229-0219",
+   "category": "House cleaning",
+   "website": "https://merrymaids.com/home-cleaners-bethlehem-pa",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104",
+    "18017"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "dc99e398-09f0-4019-9bea-d7a98d10d0f4",
+   "name": "The Maids in Greater Lehigh Valley",
+   "phone": "(610) 439-6243",
+   "category": "House cleaning",
+   "website": "https://www.maids.com/172/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "18104",
+    "18017"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "a7fbc6ac-92a0-4e50-90d1-44ad9eb4d9c2",
+   "business_id": "e98d8921-8288-4861-bc79-00fbcee4f32c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3fa26cb6-de0d-443c-ad3a-13b8f092e25c",
+   "business_id": "4e3a69a6-56aa-4762-b6ff-d6e29fd9eaf1",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "069ca0f2-ce42-4516-aaf3-d19e7f03972c",
+   "business_id": "5d426123-7f7a-4832-869a-e2f47f9d1b5b",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a9a2d6c0-7074-4284-98b4-6298c2ce5828",
+   "business_id": "da2c5fd4-4b8a-4ad0-b560-3bacc552579d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9965a53f-eea6-4dcd-a62a-aa01eaf188b3",
+   "business_id": "94c66635-7eaa-4e67-835f-08fa828ccef7",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "2a89bbc4-4a74-456c-98ca-7f1c68449097",
+   "business_id": "602f27af-1480-46f7-aa80-71c069044944",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4324f71f-7be9-4208-90fe-8794260deaec",
+   "business_id": "dc99e398-09f0-4019-9bea-d7a98d10d0f4",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

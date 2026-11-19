@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "8d5aa08a-005d-4505-a0bb-e3a564747cd6",
+      "name": "Reliable Cleaners 717 LLC",
+      "phone": "(717) 910-8253",
+      "category": "House cleaning",
+      "website": "http://www.reliablecleaners717.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17110"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "cb40e1bb-3c49-408d-b99c-eab1b9f20236",
+      "name": "SparClean",
+      "phone": "(717) 220-3567",
+      "category": "House cleaning",
+      "website": "https://sparcleanpa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17110"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "2bfb4613-6198-4e0c-8cfe-ce1545640c2c",
+      "name": "MaidPro Camp Hill",
+      "phone": "(717) 370-5470",
+      "category": "House cleaning",
+      "website": "https://www.maidpro.com/camp-hill/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17110"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "e67ce7b7-6599-43b2-9367-14c51b0c69c5",
+      "name": "Merry Maids of Cumberland and Dauphin Counties",
+      "phone": "(717) 936-9708",
+      "category": "House cleaning",
+      "website": "https://merrymaids.com/home-cleaners-camp-hill-pa",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17110"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "70165667-c12b-4071-b7e0-38e57518ab1f",
+      "name": "The Cleaning Authority - Harrisburg",
+      "phone": "(717) 674-4006",
+      "category": "House cleaning",
+      "website": "https://www.thecleaningauthority.com/harrisburg/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17110"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "72ea281d-537f-44f7-a87d-d404d02c7fd1",
+      "name": "Mooreshine Professional Cleaning",
+      "phone": "(717) 562-7975",
+      "category": "House cleaning",
+      "website": "https://mooreshine-professional-cleaning.square.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17110"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "b30b91f6-2238-4f18-8211-7f9d516b293f",
+      "business_id": "8d5aa08a-005d-4505-a0bb-e3a564747cd6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e5dc306a-1524-4cfc-9bfc-9d27c25de89e",
+      "business_id": "cb40e1bb-3c49-408d-b99c-eab1b9f20236",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "29184666-4fed-4293-b8d9-e279e6b978dc",
+      "business_id": "2bfb4613-6198-4e0c-8cfe-ce1545640c2c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5b73c4e2-b92b-48ee-be05-72ac92de63c2",
+      "business_id": "e67ce7b7-6599-43b2-9367-14c51b0c69c5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b3dfc140-7b65-4dd8-a670-a7a6c1ca8048",
+      "business_id": "70165667-c12b-4071-b7e0-38e57518ab1f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6a245a56-badb-440a-8943-62bb74e05f23",
+      "business_id": "72ea281d-537f-44f7-a87d-d404d02c7fd1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

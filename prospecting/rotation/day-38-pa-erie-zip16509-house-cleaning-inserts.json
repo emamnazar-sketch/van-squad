@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "5cb75c65-8b30-45b9-a1ae-d9e2e3f43d03",
+      "name": "Erie House Cleaning Service",
+      "phone": "(814) 806-2553",
+      "category": "House cleaning",
+      "website": "http://www.eriehousecleaning.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16509"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "b5f76f6e-f32a-4ed4-812b-11835d958df8",
+      "name": "Lunera Cleaners",
+      "phone": "(814) 240-0410",
+      "category": "House cleaning",
+      "website": "https://www.luneracleaners.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16509"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "7a312046-19b2-4919-a2cf-28479776d1f5",
+      "name": "Presque Isle Cleaning",
+      "phone": "(814) 218-4070",
+      "category": "House cleaning",
+      "website": "http://www.presqueislecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16509"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "28a72c06-1b90-4046-9764-a16507e65ec2",
+      "name": "CleanCo, LLC",
+      "phone": "(814) 722-5906",
+      "category": "House cleaning",
+      "website": "http://www.cleancoerie.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16509"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "7bec397c-67f5-4378-a34c-16df0ad10bef",
+      "name": "Millcreek A&N Cleaning Services LLC",
+      "phone": "(814) 737-8926",
+      "category": "House cleaning",
+      "website": "https://www.millcreekancleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16509"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "1bdd8bd8-d66b-4bfc-8310-4eba539d992a",
+      "business_id": "5cb75c65-8b30-45b9-a1ae-d9e2e3f43d03",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee5e25bd-dc46-4e85-87c0-898eea30b366",
+      "business_id": "b5f76f6e-f32a-4ed4-812b-11835d958df8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "486882fa-c769-4d1d-989a-7e1f30308115",
+      "business_id": "7a312046-19b2-4919-a2cf-28479776d1f5",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0f594910-8324-4037-b3ff-a938da5b2639",
+      "business_id": "28a72c06-1b90-4046-9764-a16507e65ec2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f8621385-47c4-420f-941c-29c00462cefe",
+      "business_id": "7bec397c-67f5-4378-a34c-16df0ad10bef",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

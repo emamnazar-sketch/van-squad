@@ -1,0 +1,148 @@
+{
+  "businesses": [
+    {
+      "id": "09875a77-3c3f-4108-845e-67f5e9f7ba6f",
+      "name": "John and His Toolbox",
+      "phone": "(484) 264-2222",
+      "category": "Handyman",
+      "website": "http://johnandhistoolbox.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18018"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "eaf51795-f180-4447-966f-bdb3e492499d",
+      "name": "Mr7 Pro Services LLC",
+      "phone": "(216) 952-7818",
+      "category": "Handyman",
+      "website": "https://mr7proservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18018"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "cb71c579-d265-412b-894c-66c19e7e27f5",
+      "name": "Jim Dewire & Sons",
+      "phone": "(610) 865-7977",
+      "category": "Handyman",
+      "website": "https://www.jimdewireandsons.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18018",
+        "18017"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "70c5c87a-f47b-4b80-a72c-31b134022969",
+      "name": "Mr. Handyman of Easton, Bethlehem, Nazareth & Allentown",
+      "phone": "(610) 463-1667",
+      "category": "Handyman",
+      "website": "https://www.mrhandyman.com/easton-e-bethlehem-nazareth/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18018",
+        "18042"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "b4c6e6e4-541f-4811-82f5-ac128d75f32e",
+      "name": "TruBlue of Easton",
+      "phone": "(484) 207-0060",
+      "category": "Handyman",
+      "website": "https://www.trublueally.com/easton/handyman-servives/handyman-and-home-repair",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18018"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "6843d6af-5d44-44c0-b7ec-e671bb64a0d6",
+      "business_id": "09875a77-3c3f-4108-845e-67f5e9f7ba6f",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4598f880-b620-499a-adff-0d7e6aac8bfd",
+      "business_id": "eaf51795-f180-4447-966f-bdb3e492499d",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0ae2e013-8643-41a8-9fe7-6085e1af1d3e",
+      "business_id": "cb71c579-d265-412b-894c-66c19e7e27f5",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "42eca242-cb0a-4fb1-b681-4ddf51158635",
+      "business_id": "70c5c87a-f47b-4b80-a72c-31b134022969",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c25eadc8-7431-4157-847d-50e849b9775a",
+      "business_id": "b4c6e6e4-541f-4811-82f5-ac128d75f32e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

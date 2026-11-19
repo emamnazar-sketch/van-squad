@@ -1,0 +1,29 @@
+# Day 38 — Pennsylvania × Bethlehem × ZIP 18017 × Pressure washing
+
+Cell: Bethlehem, PA 18017. Category label verified in ~/workspace/van-squad/js/data.js: "Pressure washing". Researched 2026-11-19. Public information only; own website first, then public listings. Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+Expansion note: No expansion was needed to reach ≥3 — five qualifying businesses were found. Two included businesses are based in adjacent Bethlehem-area ZIPs and explicitly serve Bethlehem / 18017 from their own sites: Water Brothers Pressure Washing LLC, based at 2031 14th St, Bethlehem, PA 18020 (adjacent Bethlehem ZIP), and Revive Power Washing, based at 6265 Hamilton Blvd Suite 2, Allentown, PA 18106, with a dedicated Bethlehem pressure-washing page. Their stated base ZIPs are included in service_zips alongside 18017. All other service_zips are [18017] only, because no other stated service-area ZIPs were published on their own sites in this run — no ZIPs were invented.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source URL | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| A&M Spotless | (484) 255-4478 | Pressure washing | Bethlehem | https://www.amspotless.com/commercial-pressure-washing | None published found | High — own site: Bethlehem commercial/residential pressure washing, soft washing and exterior cleaning at customers' properties; own site footer lists 1720 Callone AVE, Bethlehem, PA 18017 — based in the target ZIP itself — and phone (484) 255-4478 | https://www.amspotless.com/commercial-pressure-washing | No match in prospecting folder (incl. day-38) by name or phone |
+| Water Brothers Pressure Washing LLC | (484) 469-7280 | Pressure washing | Bethlehem | http://waterbrothersllc.com/ | None published found | High — own site: "most reliable and hard-working pressure washing in Bethlehem", residential and commercial pressure & soft washing at homes/businesses, free estimates; own site lists 2031 14th St, Bethlehem, PA 18020, Phone: 484-469-7280, License HIC-PA180020 — adjacent-ZIP Bethlehem base as noted above | http://waterbrothersllc.com/ | No match in prospecting folder (incl. day-38) by name or phone; service_zips include its stated 18020 |
+| A&S Power Washing, LLC | (484) 903-3216 | Pressure washing | Bethlehem | https://www.aspowerwash.com/ | None published found | High — own site: locally owned/operated, "15 Years Serving Nazareth, Bethlehem, Allentown, PA", power washing of siding, decks, patios and driveways at residential properties and commercial power washing, owner on job site; phone 484-903-3216 published on own site | https://www.aspowerwash.com/ | No match in prospecting folder (incl. day-38) by name or phone |
+| Revive Power Washing | (484) 619-0275 | Pressure washing | Bethlehem | https://revivepowerwash.com/locations/bethlehem-pa/pressure-washing/ | None published found | High — own Bethlehem page: locally owned/operated (not a franchise, no subcontractors), surface-specific power washing / soft-wash house washing and driveway/patio cleaning in Bethlehem, technicians travel to the home; phone (484) 619-0275 and Allentown base 6265 Hamilton Blvd Suite 2, Allentown, PA 18106 published on own page | https://revivepowerwash.com/locations/bethlehem-pa/pressure-washing/ | No match in prospecting folder (incl. day-38) by name or phone; service_zips include its stated base ZIP 18106 |
+| PureFlow Pro Wash | (610) 704-5916 | Pressure washing | Bethlehem | https://pureflowprowash.com/ | Service@pureflowprowash.com — own site https://pureflowprowash.com/ | High — own site: locally owned and owner-operated in Nazareth, PA, professional house washing, roof, deck, patio, driveway and sidewalk cleaning at homeowners' properties, "Serving homeowners within 50 miles of Nazareth" with common service areas including Bethlehem; phone 610-704-5916 and email published on own site | https://pureflowprowash.com/ | No match in prospecting folder (incl. day-38) by name or phone |
+
+## Exclusions
+- RJ Pressure Washing ((484) 522-6148, Google Business page listing Hanover, PA 18017 among its locations) — EXCLUDED: no verifiable own website found in this run, so mobile/on-site service could not be confirmed from its own materials.
+- Penn Pressure ((484) 597-1445, pennpressure.com, based in Macungie) — EXCLUDED for this cell in favour of the five stronger Bethlehem-specific operators above; its own site lists Bethlehem in its service areas, so it remains a possible future cell candidate, not a quality failure.
+- Ed's Pressure Washing ((570) 977-5022, edspressurewashing.com) — EXCLUDED for this cell in favour of stronger Bethlehem-specific operators; commercial-only focus on its own site.
+- Easton Pressure Washing ((484) 626-3210, Easton, PA 18040) — EXCLUDED for this cell: Easton-based, Bethlehem coverage not confirmed from its own materials in this run.
+- That 1 Painter Lehigh Valley, Valeon Painting LLC — EXCLUDED: painting businesses; pressure washing is incidental/prep, not a dedicated pressure-washing operator.
+- Angi, Thumbtack, HomeAdvisor and other lead-gen/matching listings — EXCLUDED: national lead-gen platforms, not local operators.
+
+## Dedupe
+Grepped ~/workspace/van-squad/prospecting/ (including all day-38 files present at research time) for every included name and phone — no matches. No name or phone is repeated within this batch. Live DB not queried by this research subagent; coordinator to dedupe centrally before insert.
+
+## Files
+- Batch table: day-38-pa-bethlehem-zip18017-pressure-washing.md (this file)
+- Inserts: day-38-pa-bethlehem-zip18017-pressure-washing-inserts.json — 5 businesses + 5 listings
+- Leads: day-38-pa-bethlehem-zip18017-pressure-washing-leads.json — 1 published email (PureFlow Pro Wash), taken from the business's own website; leads are a separate store and are never written into the businesses table

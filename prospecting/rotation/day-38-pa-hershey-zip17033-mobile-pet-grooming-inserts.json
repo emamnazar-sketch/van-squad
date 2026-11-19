@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "61eff107-7602-4901-9b7d-63933bf86033",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Furrytale Mobile Grooming LLC",
+   "category": "Mobile pet grooming",
+   "phone": "(717) 820-2240",
+   "website": "https://furrytalemobilegrooming.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17033"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "93e2d58b-2a16-4574-a0b7-99c345c4abbe",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Earth's Paw Mobile Pet Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(717) 769-0034",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17033"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c7908790-738f-41f2-b399-c51583229819",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eve's Elegant Mobile Dog Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(717) 769-8094",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17033"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "de585795-0316-4d7f-960d-14e0ee7bd480",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Mobile DOGG",
+   "category": "Mobile pet grooming",
+   "phone": "(717) 300-0906",
+   "website": "http://themobiledogg.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "17033"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "76e0f4ca-32c4-450d-9afc-7720fc978f60",
+   "business_id": "61eff107-7602-4901-9b7d-63933bf86033",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "369e6901-75c3-4218-a6b0-3c2b2952e9d0",
+   "business_id": "93e2d58b-2a16-4574-a0b7-99c345c4abbe",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dddb8942-0627-4646-9e8b-bae5aad81334",
+   "business_id": "c7908790-738f-41f2-b399-c51583229819",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "22a5fa8f-b223-4a5e-b125-8c555566bafb",
+   "business_id": "de585795-0316-4d7f-960d-14e0ee7bd480",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

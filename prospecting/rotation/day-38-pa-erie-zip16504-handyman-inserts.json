@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "a3156dfe-85d1-42f6-896a-dd5918381448",
+      "name": "Mr. Fix it Handyman",
+      "phone": "(814) 823-9908",
+      "category": "Handyman",
+      "website": "http://www.mrfixithandyman.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16504",
+        "16508"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "e24a2a15-f7f5-4fd1-8593-96ee55550191",
+      "name": "FIXED Home Handyman Services",
+      "phone": "(814) 434-2628",
+      "category": "Handyman",
+      "website": "http://fixedhhs.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16504"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "67b787b4-ae5a-4047-88af-eb7be168531c",
+      "name": "Crucial Dynamics LLC",
+      "phone": "(814) 844-2970",
+      "category": "Handyman",
+      "website": "https://sites.google.com/view/crucialdynamicsllc/home",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16504"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "f936cb0d-186a-4e63-9e75-51ec508b026e",
+      "name": "Perfectcutz LLC",
+      "phone": "(814) 315-0180",
+      "category": "Handyman",
+      "website": "https://perfectcutzllc2020.wixsite.com/perfectcutzllccom",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "16504"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "577b1a99-24b4-40d5-bdd5-b85187667232",
+      "business_id": "a3156dfe-85d1-42f6-896a-dd5918381448",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "85dc3920-0fe7-432d-be19-6dc540df7ff0",
+      "business_id": "e24a2a15-f7f5-4fd1-8593-96ee55550191",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4d8e1c88-d18e-42b1-8e3c-9a3de0e83ccb",
+      "business_id": "67b787b4-ae5a-4047-88af-eb7be168531c",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "81cc797e-bbdf-48be-bf58-914e328f0135",
+      "business_id": "f936cb0d-186a-4e63-9e75-51ec508b026e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

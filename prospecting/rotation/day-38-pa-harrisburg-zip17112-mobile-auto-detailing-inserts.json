@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "8004cc11-cb5c-4043-b5c5-52b789eb613d",
+      "name": "Revival Mobile Detailing LLC",
+      "phone": "(717) 512-5356",
+      "category": "Mobile auto detailing",
+      "website": "https://revivalmobiledetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "b6a9f77a-9a77-49a2-bd30-351ae86e4e77",
+      "name": "Rex's Mobile Detailing",
+      "phone": "(717) 219-4128",
+      "category": "Mobile auto detailing",
+      "website": "https://rexsdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "1ddda975-45ad-4669-960b-51148537f189",
+      "name": "Obsidian Detailing",
+      "phone": "(717) 712-7193",
+      "category": "Mobile auto detailing",
+      "website": "https://obsidiandetailingpa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "f5908d06-6fb2-409f-87fd-574e76a491e6",
+      "name": "The Mobile Buff",
+      "phone": "(717) 559-0166",
+      "category": "Mobile auto detailing",
+      "website": "https://www.themobilebuff.com/car-detailing-harrisburg-pa/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "4cd7b2ff-fdfc-4245-97d1-e37d547f06d8",
+      "name": "Gurung Auto Detailing LLC",
+      "phone": "(701) 541-8755",
+      "category": "Mobile auto detailing",
+      "website": "https://gadmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "0e02809c-8263-4ed8-a923-d14b4cd81d41",
+      "name": "Teddy Prestige Detail Stop",
+      "phone": "(717) 608-5800",
+      "category": "Mobile auto detailing",
+      "website": "https://www.teddydetailstop.com/home",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "17112"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "0e6ab687-eda4-4d23-b0fc-3e9c4c447489",
+      "business_id": "8004cc11-cb5c-4043-b5c5-52b789eb613d",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "39b75aca-b2b5-45db-b597-7f7abe88425c",
+      "business_id": "b6a9f77a-9a77-49a2-bd30-351ae86e4e77",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "37453c45-2e90-424c-a24c-523822842769",
+      "business_id": "1ddda975-45ad-4669-960b-51148537f189",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c6a3138f-af75-4bcc-a93f-4b8bf33eae7e",
+      "business_id": "f5908d06-6fb2-409f-87fd-574e76a491e6",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4a540be5-43c5-4b5a-bfb2-87e45729e76c",
+      "business_id": "4cd7b2ff-fdfc-4245-97d1-e37d547f06d8",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "03fda5f2-6b04-4b3b-a4ca-35dc55358c1d",
+      "business_id": "0e02809c-8263-4ed8-a923-d14b4cd81d41",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

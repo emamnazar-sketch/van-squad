@@ -1,0 +1,35 @@
+# Rotation Day 38 — Pennsylvania: Easton × House cleaning × ZIP 18042
+
+- Researched: 2026-11-19 (nightly rotation, Day 38)
+- Cell note: ZIP 18042 is downtown Easton, PA. House cleaning is done inside the customer's home by definition, so on-site service is the business model itself.
+- Adjacent-ZIP note: no expansion was needed to reach 3+ — 7 qualifying businesses serve Easton including 18042. Additional ZIPs in service_zips are only a business's own stated HQ/address ZIP (18045 Easton for MaidPro Lehigh Valley and Superior Maid Services, 18020 Bethlehem for Super Green Cleaning, 18372 Tannersville for Maid 2 Clean), each evidenced on its own site.
+- Sources: each business's own website first, then public listings (Google Business). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers taken from public sources; never invented.
+- Status: PREPARED, NOT INSERTED — coordinator inserts centrally.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source |
+|---|---|---|---|---|---|---|---|
+| Faith & Foam LLC | (484) 867-7033 | House cleaning | Easton | https://faith-and-foam.com/ | info@faith-and-foam.com — https://faith-and-foam.com/ (business's own website) | High — own site: based in Easton, PA, recurring/deep/move-in-out residential house cleaning in customers' homes, phone and email printed on the site | Business's own website |
+| ADL Cleaning Services | (609) 540-5032 | House cleaning | Easton | https://adlcleaningservices.com/ | adlcleaning@yahoo.com — https://adlcleaningservices.com/ (business's own website, contact block) | High — own site: residential/home cleaning in Easton, PA and surrounding areas, this phone (matches Google listing for 720 Washington St, Easton) and email printed on the site; a second phone (862) 417-7930 also appears in a footer block and was NOT used | Business's own website |
+| MaidPro Lehigh Valley | (610) 419-9860 | House cleaning | Easton | https://www.maidpro.com/lehigh-valley-pa | — none recorded: an email appears on its own location page but was redacted in the fetched text, so no exact address could be verified and none was recorded | High — locally owned franchise's own Lehigh Valley page: professional house cleaning in homes across the Lehigh Valley, owners named on the page, page gives 2906 William Penn Hwy #102, Easton, PA 18045 and this phone | Business's own website (location page) |
+| Superior Maid Services LLC | (610) 972-9916 | House cleaning | Easton | https://www.superiormaidservicesllc.com/ | — none recorded: email on its own contact page is obfuscated/protected, so no readable address could be verified | High — own site: weekly/biweekly and one-time cleaning of homes, phone on homepage; own contact page gives 45 Cobblestone Drive, Easton, PA 18045 and the same phone | Business's own website + own contact page |
+| Home4UCleaning LLC | (973) 980-6699 | House cleaning | Easton | https://home4ucleaning.com/ | home4ucleaning@gmail.com — https://home4ucleaning.com/ (business's own website) | Medium — own site: affordable home cleaning services with this phone and email printed on the site; Easton location (Monmouth Ct, Easton) is from its Google listing, as the fetched own-site text does not state an address/ZIP, hence Medium | Business's own website + Google listing |
+| Super Green Cleaning | (814) 701-9400 | House cleaning | Easton | https://supergreencleaning.net/service-areas | gogreensafe@gmail.com — https://supergreencleaning.net/service-areas (business's own service-areas page) | High — own service-areas page: residential house cleaning with a dedicated Easton, PA service area, recurring/deep/move-in-out cleans in homes, phone and email printed on the page; based 3268 Easton Ave, Bethlehem, PA 18020 | Business's own website |
+| Maid 2 Clean | (570) 588-8944 | House cleaning | Easton | http://www.maid2cleanpa.com/ | sales@maid2cleanpa.com — http://www.maid2cleanpa.com/ (business's own website) | High — own site: professional house cleaning (recurring/deep/move-in-out) with Easton explicitly listed in its Pennsylvania service area, phone and email printed on the site; based 2937 PA-611 Suite 10A, Tannersville, PA 18372 | Business's own website |
+
+## Dedupe
+- All prior prospecting files in ~/workspace/van-squad/prospecting/ were grepped for every name and phone in this batch before finalizing (including all Day-38 files): no name or phone match.
+- Businesses already used in the Day-38 Allentown 18104 House cleaning cell that also serve Easton were SKIPPED as duplicates by name/phone: Allentown Platinum Star Cleaning Services / Platinum Star Cleaning Services ((610) 897-7090 on its Allentown page; a different (610) 505-5469 number appears on Google for its 431 Northampton St, Easton address — same business, skipped), Merry Maids of Lehigh Valley ((610) 229-0219), The Maids in Greater Lehigh Valley ((610) 439-6243), Saucon Valley Cleaning Company ((484) 725-6610), Jens Cleaning Services, Blancas Cleaning Services, and Bonissi Cleaning / Lumora Bonissi Cleaning Services ((484) 828-5040, same phone under its newer Lumora name).
+- Near-names checked and NOT duplicates: "MaidPro Beaverton" ((503) 482-6406) and "MaidPro Seattle" ((206) 696-7023) in prior cells are different franchise locations with different phones from MaidPro Lehigh Valley. "Maid 2 Clean 317" (Indianapolis, (812) 606-2196, maid2clean317.com) is a different business from Maid 2 Clean (Tannersville, PA).
+- Live-DB dedupe is the coordinator's central check at insert time.
+
+## Excluded (checked, did not pass the gates)
+- Angst Cleaning (1700 Sullivan Trail #154, Easton, PA 18040; (610) 730-1924) — EXCLUDED: its own website is commercial-only (offices, industrial facilities, janitorial for businesses); no residential house cleaning offered.
+- Clean Working Space, LLC (608 Line St, Easton; (484) 546-4870) — EXCLUDED: commercial/workspace cleaning focus, residential house cleaning not confirmed from its own materials.
+- K&B Carpet & Floor Cleaning (Easton; (610) 252-5000), Lehigh Valley Bin Cleaning, and Lehigh Valley Duct Cleaning — EXCLUDED on category: carpet/bin/duct specialists, not house cleaning.
+- Romans Cleaning Service, Iris C Cleaning Services, Cristobal's Services, and The Sanitation Experts (Easton listings with phones) — EXCLUDED: no verifiable business website could be confirmed, so house cleaning in homes and the phone could not be verified together from the business's own materials.
+- Homeaglow and other national lead-gen listings with no named local operator — EXCLUDED on the standing gates.
+
+## ZIP note
+- Target ZIP 18042 is in every business's service_zips. Additional ZIPs, each evidenced on the business's own site: 18045 (MaidPro Lehigh Valley's and Superior Maid Services' own Easton addresses), 18020 (Super Green Cleaning's own Bethlehem address), 18372 (Maid 2 Clean's own Tannersville address).
+- Count: 7 businesses, 7 listings, 5 published-email leads (see -leads.json).
