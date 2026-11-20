@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "4b38d6d9-540e-4e44-b3a0-5891c421481b",
+   "name": "In Style Mobile Dog Spa",
+   "phone": "(267) 827-8916",
+   "category": "Mobile pet grooming",
+   "website": "https://instyledogspa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19027"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "4daf6903-d3ff-4316-b5cc-ebda866b81da",
+   "name": "AmbStyles",
+   "phone": "(445) 220-1546",
+   "category": "Mobile pet grooming",
+   "website": "https://ambstyles.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19027"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "5b20b862-710e-4f03-bd51-689e60b6ea00",
+   "name": "Robbye's Gentle Groomers",
+   "phone": "(215) 672-4691",
+   "category": "Mobile pet grooming",
+   "website": "http://robbyesgentlegroomers.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19027"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "ce4731fc-d47d-4ab3-9a35-cada1f694db9",
+   "business_id": "4b38d6d9-540e-4e44-b3a0-5891c421481b",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5f085eb2-4ee7-4d26-a8c8-cda95f83894b",
+   "business_id": "4daf6903-d3ff-4316-b5cc-ebda866b81da",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9f028150-5790-47fe-9927-e357f9912ec3",
+   "business_id": "5b20b862-710e-4f03-bd51-689e60b6ea00",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

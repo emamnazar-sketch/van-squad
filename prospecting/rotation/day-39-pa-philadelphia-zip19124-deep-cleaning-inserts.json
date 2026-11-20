@@ -1,0 +1,147 @@
+{
+ "businesses": [
+  {
+   "id": "2d493270-17de-4ca4-b6e8-e4588acd7cb2",
+   "name": "Alessandra's Cleaning Services",
+   "phone": "(267) 351-0679",
+   "category": "Deep cleaning",
+   "website": "https://alessandracleans.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19124"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "5577674e-ce6c-48cf-b6e1-e63e9ad2f38d",
+   "name": "Francisco's House Cleaning Services LLC",
+   "phone": "(267) 993-9465",
+   "category": "Deep cleaning",
+   "website": "https://franciscoshousescleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19124",
+    "19152"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "05ad38aa-93a8-495e-bbb6-f5435f167045",
+   "name": "Cris & Cleber Home Cleaning",
+   "phone": "(835) 280-7875",
+   "category": "Deep cleaning",
+   "website": "https://crisclebercleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19124"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "5aa0c040-3270-487a-815c-40b3250d47cb",
+   "name": "HNO Cleaning Services",
+   "phone": "(267) 668-0814",
+   "category": "Deep cleaning",
+   "website": "https://hnocleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19124"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "d14981f3-8d28-4c09-aa41-3ea77adff3a3",
+   "name": "Ingenious Cleaning",
+   "phone": "(215) 203-2025",
+   "category": "Deep cleaning",
+   "website": "http://www.ingeniousclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19124"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "0de4180a-8154-411a-b655-ad21466ddcfb",
+   "business_id": "2d493270-17de-4ca4-b6e8-e4588acd7cb2",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "11d79e73-76c8-47cd-b64b-9f62110008a9",
+   "business_id": "5577674e-ce6c-48cf-b6e1-e63e9ad2f38d",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "004f0b14-46e9-4f0b-a018-736213b912bf",
+   "business_id": "05ad38aa-93a8-495e-bbb6-f5435f167045",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "405b67da-9617-4026-aaee-f80ec756a911",
+   "business_id": "5aa0c040-3270-487a-815c-40b3250d47cb",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c3891c3a-9d62-4fc1-82f8-0118f6febed6",
+   "business_id": "d14981f3-8d28-4c09-aa41-3ea77adff3a3",
+   "title": "Deep cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

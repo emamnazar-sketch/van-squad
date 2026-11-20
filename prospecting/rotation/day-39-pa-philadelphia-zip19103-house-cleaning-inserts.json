@@ -1,0 +1,148 @@
+{
+ "businesses": [
+  {
+   "id": "7556c0e9-8b72-436c-9674-fb4918a5620c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Embacy Cleaning Company",
+   "category": "House cleaning",
+   "phone": "(267) 888-6302",
+   "website": "http://www.embacycleaningcompany.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "19103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c8f83f53-325f-498d-9aa3-2d5d163e2e6d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Executive Maids",
+   "category": "House cleaning",
+   "phone": "(215) 690-4000",
+   "website": "https://executivemaids.com/pa/house-cleaning-philadelphia/center-city/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "19103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4f545d70-0c46-416d-9105-263600d9a2d6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Scrub! Residential Cleaning",
+   "category": "House cleaning",
+   "phone": "(215) 821-9484",
+   "website": "https://scrub-it-clean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "19103",
+    "19125"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f2021b0e-362a-4f2e-a17b-9f81da0008dc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid On Demand LLC",
+   "category": "House cleaning",
+   "phone": "(445) 310-3292",
+   "website": "https://www.maidondemandllc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "19103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "490be2fb-7230-46b8-be8d-17285a2863fe",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spots & Dots Cleaning",
+   "category": "House cleaning",
+   "phone": "(215) 470-5499",
+   "website": "http://www.spotsdotscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "19103",
+    "19102"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2e5e62b3-99b9-4ee4-a101-0f263b52264b",
+   "business_id": "7556c0e9-8b72-436c-9674-fb4918a5620c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3d177b15-82e4-45cc-b8bd-8f4e09c69e03",
+   "business_id": "c8f83f53-325f-498d-9aa3-2d5d163e2e6d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "bf2c830e-f3e6-40cc-95fe-0bd693117015",
+   "business_id": "4f545d70-0c46-416d-9105-263600d9a2d6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5abd97c1-9966-4c46-9b17-89e5948b335d",
+   "business_id": "f2021b0e-362a-4f2e-a17b-9f81da0008dc",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e584c96e-d072-4a60-8168-14c1353ffb6c",
+   "business_id": "490be2fb-7230-46b8-be8d-17285a2863fe",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

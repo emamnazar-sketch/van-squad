@@ -1,0 +1,34 @@
+# Rotation Day 39 — Pennsylvania: Upper Darby × Handyman × ZIP 19082
+
+- Researched: 2026-11-20 (nightly rotation, Day 39)
+- Cell: PA × Upper Darby × ZIP 19082 × category "Handyman" (exact label verified in ~/workspace/van-squad/js/data.js)
+- Cell note: Upper Darby Township (Delaware County) includes Drexel Hill addresses. Only one business below is based squarely in 19082 itself (Ramsay Remodeling, 212 Magnolia Terrace, Upper Darby per its Google listing); the rest are Upper Darby Township / Delaware County operators whose own websites confirm on-site home work and Delaware County / Upper Darby service — see the expansion note below. Fewer than 3 qualifying businesses were found based in 19082 alone, so the cell expanded to adjacent Delaware County ZIPs as instructed.
+- Sources: each business's own website first, then public listings (Google Business, HomeAdvisor). Public information only.
+- All entries are UNVERIFIED / UNCLAIMED seed data. Phone numbers taken from public sources; never invented.
+- Status: PREPARED 2026-11-20 — batch files only, NOT inserted (coordinator inserts centrally).
+
+| Name | Phone | Category | City | Website | Email + source | Confidence | Source | Dedupe |
+|---|---|---|---|---|---|---|---|---|
+| Ramsay Remodeling | (267) 690-1801 | Handyman | Upper Darby | https://ramsay-remodeling.robramsayremodeling.chatgpt.site/ | robramsayremodeling@gmail.com — own website https://ramsay-remodeling.robramsayremodeling.chatgpt.site/ | High — own site: "Handyman services, repairs, renovations... in Upper Darby and across Delaware County," owner-operated, PA HIC #PA202890, phone 267-690-1801 and email both on site; Google listing gives 212 Magnolia Terrace, Upper Darby (19082) with same phone | Business's own website + Google listing | No match in prospecting/ |
+| Bear Service LLC | (484) 202-3594 | Handyman | Upper Darby | http://www.bearservicepa.com/ | — none found | Medium — own site: "Call 484-202-3594," repairs "in your home" (appliance/HVAC/electrical) in Drexel Hill/Millbourne/West Chester area; Google lists 3709 Garrett Rd, Upper Darby Twp as Handyman/In-Home Service; HomeAdvisor: "specializes in Electrical, Appliance Repair, HVAC & Handyman work" — broader home-services than pure handyman, hence Medium | Business's own website + Google + HomeAdvisor | No match in prospecting/ |
+| Main Line Property Prep | (610) 449-7500 | Handyman | Upper Darby | https://mainlinepropertyprep.com/ | — none readable (site email is obfuscated in fetch; not guessed) | Medium — own site: "Call: (610) 449-7500," provides "home maintenance, improvement, restoration and repairs directly to home owners" in Main Line PA, address 1016 Warrior Road, Drexel Hill, PA 19026 (Upper Darby Twp) on site; Google category Handyman — general property-prep rather than handyman-only, hence Medium | Business's own website + Google listing | No match in prospecting/ |
+| Delco Turnover Specialists, LLC | (215) 444-6384 | Handyman | Upper Darby | https://www.delcoturnoverspecialists.com/ | delcoturnover@gmail.com — own website https://www.delcoturnoverspecialists.com/ | High — own site: "full-service handyman company," drywall/painting/fixture/leak/ceiling-fan repairs at properties, "We proudly serve Delaware County, PA," phone 215-444-6384 and email both on site; Google address Springfield, PA (Delaware County) | Business's own website + Google listing | No match in prospecting/ |
+| J&M Labor Handyman Services | (484) 202-0864 | Handyman | Upper Darby | http://www.jandmlabor.com/ | inquire@jandmlabor.com — own website http://www.jandmlabor.com/ (second published address moliva@jandmlabor.com not used as lead) | Medium — own site: "Professional Handyman Services," extensive in-home repair list, "Call us Today! 484-202-0864," email on site, location 427 Westbridge Rd, Glenolden, PA 19036 (adjacent Delaware County); site says "Serving Glenolden Area" without naming Upper Darby, hence Medium | Business's own website + Google listing | No match in prospecting/ |
+| Delaware County Handyman | (610) 510-8948 | Handyman | Upper Darby | http://www.delawarecountyhandyman.com/ | — none found | High — own site: "HandyMan Services In Delaware County PA... servicing Delaware County and the surrounding areas," repairs/tasks around the house done at the customer's home, "Call Now 610-510-8948" on site; Google lists Broomall, PA base with same phone — countywide service includes Upper Darby | Business's own website + Google listing | No match in prospecting/ |
+
+## Dedupe
+- Grep of ~/workspace/van-squad/prospecting/ (all prior rotation files, seeded batches, Sacramento prospects, outreach lists) on 2026-11-20 for every name, phone, and email in this batch returned no matches. No dedupe skips in this cell.
+- Live-database dedupe is handled centrally by the coordinator at insert time.
+
+## Excluded (checked, did not pass the gates)
+- Mr. Handyman of Upper Darby — EXCLUDED: national franchise (Neighborly), per gates.
+- Garrett Handyman and Painter (7042 Garrett Rd, Upper Darby; (610) 298-9802), KP Handyman Drexel Hill (4603 State Rd, Upper Darby Twp; (610) 510-7906), JEJOE (7152 Greenwood Ave, Upper Darby; (609) 977-9738), Novva Property Services (7609 Parkview Rd, Upper Darby; (917) 496-4407), Father and Daughter Handyman (Clifton Heights; (610) 259-7278), MSID Partnership LLC (Lansdowne; (215) 787-0482), Alarnab Maintenance Pro (Clifton Heights; (267) 616-8152), Genuine Care Home Services (Lansdowne; (835) 212-7372) — EXCLUDED for this batch: found only in Google/meta listing records with no own website/materials, so on-site home work could not be confirmed from the business's own materials (JEJOE and Novva also carry out-of-area phone area codes).
+- Handybee LLC — EXCLUDED: own site serves Lehigh Valley/Bucks/Berks/Montgomery, not Delaware County/Upper Darby.
+
+## ZIP / expansion note
+- In-ZIP (19082): Ramsay Remodeling (212 Magnolia Terrace, Upper Darby).
+- Adjacent Delaware County expansion (fewer than 3 in 19082): Bear Service LLC (Upper Darby Twp / Garrett Rd), Main Line Property Prep (19026 Drexel Hill, Upper Darby Twp), Delco Turnover Specialists, LLC (Springfield, serves Delaware County), J&M Labor Handyman Services (19036 Glenolden), Delaware County Handyman (Broomall base, serves all of Delaware County).
+- service_zips: every business carries 19082 first; Main Line Property Prep also carries 19026 and J&M Labor also carries 19036 — only ZIPs stated in the business's own published address. No other service-area ZIPs were stated, so none were added.
+
+## Email leads
+- 3 published emails collected, all from the businesses' own websites: Ramsay Remodeling — robramsayremodeling@gmail.com; Delco Turnover Specialists, LLC — delcoturnover@gmail.com; J&M Labor Handyman Services — inquire@jandmlabor.com (see the matching -leads.json). Main Line Property Prep's site email could not be read (obfuscated) and was NOT guessed.

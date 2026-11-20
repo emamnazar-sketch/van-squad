@@ -1,0 +1,231 @@
+{
+ "businesses": [
+  {
+   "id": "05b98974-8742-4fa2-8b90-800461caaa4e",
+   "name": "Optimal Power Washing, LLC",
+   "phone": "(610) 828-1700",
+   "category": "Pressure washing",
+   "website": "https://optimalpowerwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "40a39685-19c8-4919-8bc3-01dc0cb7ff33",
+   "name": "I Wash Guys Pressure Washing",
+   "phone": "(347) 768-1187",
+   "category": "Pressure washing",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "3f21d19f-52f3-4863-bb00-57f22f28e585",
+   "name": "Time & Patience LLC",
+   "phone": "(267) 901-5087",
+   "category": "Pressure washing",
+   "website": "https://pressurewashphilly.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "0bd6d830-7296-45d0-9744-92f10fd7f769",
+   "name": "Gutter Doctor Solution",
+   "phone": "(267) 407-9283",
+   "category": "Pressure washing",
+   "website": "https://gutterdoctorsolution.net/pressure-washing-philadelphia-pa/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115",
+    "19135"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "075e5e5e-9489-491c-a0a4-9be3acfbc6be",
+   "name": "Four Seasons Property Group",
+   "phone": "(610) 400-8237",
+   "category": "Pressure washing",
+   "website": "https://callfourseasonsgroup.com/house-washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "07984354-39c9-49c0-b9f4-ef4f0d1991e7",
+   "name": "House Washerz Power Washing",
+   "phone": "(215) 980-1803",
+   "category": "Pressure washing",
+   "website": "https://www.housewasherz.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "be5ed64a-62bd-4996-971d-22934ec4d7c7",
+   "name": "Philadelphia Property Pros",
+   "phone": "(215) 779-8498",
+   "category": "Pressure washing",
+   "website": "https://philadelphiapropertypros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "25f5d2fd-5a46-49ba-99a3-cf56a8934be4",
+   "name": "J&J Power Wash",
+   "phone": "(215) 703-8306",
+   "category": "Pressure washing",
+   "website": "http://www.philadelphiapressurewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19115"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "00c52b8e-299a-432b-a5f3-c38d23775fe3",
+   "business_id": "05b98974-8742-4fa2-8b90-800461caaa4e",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0eb7481e-15e3-4d0d-b656-3d5b2bb4883d",
+   "business_id": "40a39685-19c8-4919-8bc3-01dc0cb7ff33",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "42439cd4-466e-41c6-ba24-8e8f911d71a4",
+   "business_id": "3f21d19f-52f3-4863-bb00-57f22f28e585",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "69da4bb8-4cde-4324-bbbd-299b4352baa7",
+   "business_id": "0bd6d830-7296-45d0-9744-92f10fd7f769",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1a4d1363-e5d7-49cc-bd70-65bd12ded0ef",
+   "business_id": "075e5e5e-9489-491c-a0a4-9be3acfbc6be",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "414f24db-dd21-4245-b7e4-e0a3d850a1ee",
+   "business_id": "07984354-39c9-49c0-b9f4-ef4f0d1991e7",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "92033b24-1cc2-4293-af14-fa7ecd98f8c9",
+   "business_id": "be5ed64a-62bd-4996-971d-22934ec4d7c7",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "790a74cd-5c2d-4247-b8ea-beccddfb5143",
+   "business_id": "25f5d2fd-5a46-49ba-99a3-cf56a8934be4",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

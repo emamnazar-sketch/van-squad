@@ -1,0 +1,176 @@
+{
+ "businesses": [
+  {
+   "id": "be8613f6-8635-478c-9b8f-e8f58a5d393b",
+   "name": "House Wash PA",
+   "phone": "(484) 881-2713",
+   "category": "Pressure washing",
+   "website": "https://www.housewashpa.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19038"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "79f3a923-2c10-4a0b-9936-204be5590e67",
+   "name": "Judge Mobile Wash",
+   "phone": "(610) 692-9274",
+   "category": "Pressure washing",
+   "website": "https://judgemobilewash.com/Services-Area/montgomery-county/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19038"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "0560d32a-1f7a-4b96-a7be-99064ca96524",
+   "name": "BrightSide Clean Pros",
+   "phone": "(267) 319-4444",
+   "category": "Pressure washing",
+   "website": "https://thebrightsidecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19038"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "f98ccd6e-f653-411c-bc2a-1eab34f2aa69",
+   "name": "Pros Under Pressure",
+   "phone": "(484) 213-2786",
+   "category": "Pressure washing",
+   "website": "https://prosunderpressure.wixsite.com/prosunderpressure",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19038"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "f0b28194-4ab9-4ead-87fb-3190f926cdf0",
+   "name": "Duross & Sons LLC",
+   "phone": "(267) 781-6905",
+   "category": "Pressure washing",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19038",
+    "19090"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "b08fe4a8-8769-496b-9422-86eddf8df3e8",
+   "name": "Splash Brothers In Town",
+   "phone": "(267) 267-7376",
+   "category": "Pressure washing",
+   "website": "https://www.splashbrothersintown.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19038",
+    "19046"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "c5b65b7d-2b08-4de7-964d-862eb3dad5a2",
+   "business_id": "be8613f6-8635-478c-9b8f-e8f58a5d393b",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6f55f402-a889-406b-9941-35a0fc2429ef",
+   "business_id": "79f3a923-2c10-4a0b-9936-204be5590e67",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4190c702-bfd5-4100-8fd2-76e29c2f3b5d",
+   "business_id": "0560d32a-1f7a-4b96-a7be-99064ca96524",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c4c4b3cf-668d-4c38-a538-2d9f915de00f",
+   "business_id": "f98ccd6e-f653-411c-bc2a-1eab34f2aa69",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "69ff8fd9-a25f-4f6f-acd8-7e24d1384d56",
+   "business_id": "f0b28194-4ab9-4ead-87fb-3190f926cdf0",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5dd2c50d-b268-4c52-8f17-ecab2dfa057b",
+   "business_id": "b08fe4a8-8769-496b-9422-86eddf8df3e8",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

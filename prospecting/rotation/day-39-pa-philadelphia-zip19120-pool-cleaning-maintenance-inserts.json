@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "d50321f4-f14e-4d93-909d-9e9d3402f22c",
+      "name": "Evo Pool Service",
+      "phone": "(610) 810-5050",
+      "category": "Pool cleaning & maintenance",
+      "website": "https://evopool.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19120"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "4fbff678-87a1-4e88-a9c2-410574f3b0b2",
+      "name": "Cascade Pool Service",
+      "phone": "(215) 657-7665",
+      "category": "Pool cleaning & maintenance",
+      "website": "http://cascadepoolservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19120"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "4bc1a9b1-204e-43fc-832d-0e6a2dee792f",
+      "name": "Arrow Pool Service",
+      "phone": "(610) 731-7665",
+      "category": "Pool cleaning & maintenance",
+      "website": "https://arrowpool.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19120"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "d8f53858-8a4f-4569-8353-fccf09bca44c",
+      "name": "Better Pool Management",
+      "phone": "(215) 676-0648",
+      "category": "Pool cleaning & maintenance",
+      "website": "https://betterpools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19120"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "4a477fd9-bf4f-4642-932c-d06ba484fcad",
+      "name": "Aqua Pool Services",
+      "phone": "(215) 364-7665",
+      "category": "Pool cleaning & maintenance",
+      "website": "https://aquapoolpa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19120"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "a7bb61c7-2b68-4e38-a2b4-8975b1f81cac",
+      "business_id": "d50321f4-f14e-4d93-909d-9e9d3402f22c",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9668c854-1eb2-4740-81cf-644d98d9af92",
+      "business_id": "4fbff678-87a1-4e88-a9c2-410574f3b0b2",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d60b5a3b-fc62-4716-964e-e7badce12246",
+      "business_id": "4bc1a9b1-204e-43fc-832d-0e6a2dee792f",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5a5af487-67d1-4e7e-b933-8ad764eb28e4",
+      "business_id": "d8f53858-8a4f-4569-8353-fccf09bca44c",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0a4ba0ba-a9f0-46ba-aabe-ac0a96f5a5bb",
+      "business_id": "4a477fd9-bf4f-4642-932c-d06ba484fcad",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

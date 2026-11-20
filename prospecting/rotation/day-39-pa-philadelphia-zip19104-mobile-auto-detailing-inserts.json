@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "02213789-d2f5-457a-86d2-31268a25d732",
+      "name": "Two Brothers Mobile Detailing",
+      "phone": "(215) 749-0017",
+      "category": "Mobile auto detailing",
+      "website": "https://twobrosmobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19104"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "0a647090-f2f4-45e8-8da8-a22e1e9cb7e9",
+      "name": "DetailCraft",
+      "phone": "215-909-2490",
+      "category": "Mobile auto detailing",
+      "website": "https://www.detail-craft.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19104"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "a4c86fd5-1444-423d-8137-cffa1943b369",
+      "name": "BP Detail Studio",
+      "phone": "(267) 290-7664",
+      "category": "Mobile auto detailing",
+      "website": "https://bpdetailstudio.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19104"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "e9c0f186-c8aa-4d37-b644-f5617592e213",
+      "name": "Classy Detail",
+      "phone": "(267) 601-1848",
+      "category": "Mobile auto detailing",
+      "website": "https://www.classy-detail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19104"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "13564acf-1245-4385-9016-2056d9526620",
+      "name": "WashLB",
+      "phone": "(267) 209-6116",
+      "category": "Mobile auto detailing",
+      "website": "https://www.washlb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19104"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "457c5fd3-163d-4737-8b34-aaaea5aa4745",
+      "business_id": "02213789-d2f5-457a-86d2-31268a25d732",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dafe54c3-f80a-4cf0-a22c-ce1fb3e3efdc",
+      "business_id": "0a647090-f2f4-45e8-8da8-a22e1e9cb7e9",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "507fd6b7-ef30-4a73-8467-e7ff3f835e2b",
+      "business_id": "a4c86fd5-1444-423d-8137-cffa1943b369",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d9591d97-3ff7-43ec-9a8d-21582d6c6ee9",
+      "business_id": "e9c0f186-c8aa-4d37-b644-f5617592e213",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f1f94f1d-0b19-4cb6-87ad-7cfd41834763",
+      "business_id": "13564acf-1245-4385-9016-2056d9526620",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

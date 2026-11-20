@@ -1,0 +1,150 @@
+{
+  "businesses": [
+    {
+      "id": "3be3e8d7-fc4d-4e32-90f4-7ed8439de0b8",
+      "name": "Northeast Philly Handyman",
+      "phone": "(215) 620-4270",
+      "category": "Handyman",
+      "website": "http://northeastphillyhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19111"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "1b0f8040-5c88-4fe6-b2cc-61bad01f9d3b",
+      "name": "Tony Fix",
+      "phone": "(267) 679-8533",
+      "category": "Handyman",
+      "website": "https://tony-fix.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19111",
+        "19115"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "ff055902-6fba-494a-92c5-ed9bbe820d96",
+      "name": "Flawless Home Services",
+      "phone": "(215) 948-4210",
+      "category": "Handyman",
+      "website": "http://www.flawlesshomeservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19111",
+        "19116"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "301ffac1-3dc0-4a47-b43a-e671115f1f9a",
+      "name": "Infinity Trade Group",
+      "phone": "(267) 752-0558",
+      "category": "Handyman",
+      "website": "http://infinitytradegroupinc.com/contact.php",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19111",
+        "19115"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "17e96e9b-0ea7-4b79-a250-6aac5a8a36ae",
+      "name": "Home Exchange",
+      "phone": "(215) 966-1660",
+      "category": "Handyman",
+      "website": "https://homexchangepa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19111",
+        "19124"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "c675a4c3-87c3-4f3c-bdaa-57b6a64203df",
+      "business_id": "3be3e8d7-fc4d-4e32-90f4-7ed8439de0b8",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dcf15650-106f-45db-9614-9a345032db9e",
+      "business_id": "1b0f8040-5c88-4fe6-b2cc-61bad01f9d3b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0ae3c28d-836d-4cd4-8d7c-7c6f1d47a77f",
+      "business_id": "ff055902-6fba-494a-92c5-ed9bbe820d96",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "660fff90-35af-4805-9eaf-80ea8b2fd316",
+      "business_id": "301ffac1-3dc0-4a47-b43a-e671115f1f9a",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0c1e4a6e-c600-454e-af49-5c98942e1c18",
+      "business_id": "17e96e9b-0ea7-4b79-a250-6aac5a8a36ae",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

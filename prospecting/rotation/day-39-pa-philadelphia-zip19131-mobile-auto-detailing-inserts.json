@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "049de7c4-3957-40f6-809b-28a1905dd643",
+      "name": "Detailing Bureau",
+      "phone": "(267) 827-0316",
+      "category": "Mobile auto detailing",
+      "website": "https://detailingbureau.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19131"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "05ff8cc2-b1bb-4a68-9ead-a52c1c613d6f",
+      "name": "On-Site Detailing",
+      "phone": "(610) 241-5991",
+      "category": "Mobile auto detailing",
+      "website": "https://www.onsitedetailing.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19131"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "d614d861-8df0-451b-8913-33875dff2ecc",
+      "name": "Double M's Auto Detailing LLC",
+      "phone": "(267) 243-9921",
+      "category": "Mobile auto detailing",
+      "website": "https://www.doublemautodetailingllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19131"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "c030cb5b-f764-4140-b151-a5ec79ef3ad0",
+      "name": "Clean Slate Auto Detailing",
+      "phone": "215-315-7918",
+      "category": "Mobile auto detailing",
+      "website": "https://www.cleanslateautodetailing.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19131"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "1b6db2cd-37d0-4364-a084-961a299ae0ad",
+      "name": "Unique Werks",
+      "phone": "(267) 516-3653",
+      "category": "Mobile auto detailing",
+      "website": "https://www.uniquewerks.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19131"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "e2d73021-331d-45f5-9fa0-0f1484a38ef7",
+      "business_id": "049de7c4-3957-40f6-809b-28a1905dd643",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dad156bf-34a3-4fa6-ac24-d1e1d566200b",
+      "business_id": "05ff8cc2-b1bb-4a68-9ead-a52c1c613d6f",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "675ae6c1-13a1-44bc-8f0b-d44a8519261e",
+      "business_id": "d614d861-8df0-451b-8913-33875dff2ecc",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "95e0185a-c1e9-490b-8d28-24dbadbf2293",
+      "business_id": "c030cb5b-f764-4140-b151-a5ec79ef3ad0",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0daf765d-9bf0-4a9c-ae14-fae83de20049",
+      "business_id": "1b6db2cd-37d0-4364-a084-961a299ae0ad",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

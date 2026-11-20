@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "24c98de7-5259-4c02-8028-51665ad61c4d",
+   "name": "The Pampered Pet Philly",
+   "phone": "(267) 667-5869",
+   "category": "Mobile pet grooming",
+   "website": "https://thepamperedpetphilly.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19114"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "39e83605-1d63-4735-b1a9-e7831a5d13e3",
+   "name": "Tail Feathers Grooming",
+   "phone": "(215) 688-3660",
+   "category": "Mobile pet grooming",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19114"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  },
+  {
+   "id": "1f49dc3d-ad72-4bdd-9409-6963f8dc94a9",
+   "name": "Sam paw spa",
+   "phone": "(215) 892-3229",
+   "category": "Mobile pet grooming",
+   "website": "https://the-mobile-paw-spa.business.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "service_zips": [
+    "19114"
+   ],
+   "logo_url": "",
+   "travel_fee": 0,
+   "travel_radius_miles": 25
+  }
+ ],
+ "listings": [
+  {
+   "id": "b9bceffe-bbb6-4062-a147-99ecc733d499",
+   "business_id": "24c98de7-5259-4c02-8028-51665ad61c4d",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "17b677de-e2ca-41df-9050-f5b15845b402",
+   "business_id": "39e83605-1d63-4735-b1a9-e7831a5d13e3",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f7d1c7ac-6596-4af4-81fc-87ec318aca9c",
+   "business_id": "1f49dc3d-ad72-4bdd-9409-6963f8dc94a9",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

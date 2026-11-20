@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "4f7f4d8e-0fae-4732-8935-974bede9f2a9",
+      "name": "Maid For You, Inc.",
+      "phone": "(215) 370-7993",
+      "category": "House cleaning",
+      "website": "https://www.themaidforyou.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18974"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "67a9030b-6a3f-441e-a673-728c3da0f60e",
+      "name": "XpressMaids House Cleaning",
+      "phone": "(267) 753-0144",
+      "category": "House cleaning",
+      "website": "http://www.xpress-maids.com/cleaning-service-in-warminster/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18974"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "ccb2b4d2-88b1-4eb0-bf42-e152c42aefc8",
+      "name": "Paola's Cleaning Service",
+      "phone": "(215) 571-5731",
+      "category": "House cleaning",
+      "website": "https://paolascleaningllc.wixsite.com/paola",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18974"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "6c7af355-9743-4493-b495-802f9492c6c7",
+      "name": "Maestro Cleaning",
+      "phone": "(267) 217-3771",
+      "category": "House cleaning",
+      "website": "https://maestro-cleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18974"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "76291680-3905-42b8-95cb-8ce12d3aefab",
+      "name": "Fresh Home Cleaning Services",
+      "phone": "(267) 800-9777",
+      "category": "House cleaning",
+      "website": "https://freshhomecleaningservices.com/warminster/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "18974"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "14d4bcd1-1dc0-4bed-a853-8c858b29790c",
+      "business_id": "4f7f4d8e-0fae-4732-8935-974bede9f2a9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1a38fa08-4879-42d0-a8da-d057edfad699",
+      "business_id": "67a9030b-6a3f-441e-a673-728c3da0f60e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "eee109fb-93b8-409c-b5f6-e87d09a3c417",
+      "business_id": "ccb2b4d2-88b1-4eb0-bf42-e152c42aefc8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ab08845e-dd5f-4746-9e84-c17eba75d119",
+      "business_id": "6c7af355-9743-4493-b495-802f9492c6c7",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3c26c366-2c66-4ea6-90a2-717840b33ecf",
+      "business_id": "76291680-3905-42b8-95cb-8ce12d3aefab",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

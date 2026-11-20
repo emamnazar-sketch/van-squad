@@ -1,0 +1,176 @@
+{
+  "businesses": [
+    {
+      "id": "7dc7db03-4a30-42d8-82fe-441c628637ed",
+      "name": "Ramsay Remodeling",
+      "phone": "(267) 690-1801",
+      "category": "Handyman",
+      "website": "https://ramsay-remodeling.robramsayremodeling.chatgpt.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19082"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "092151e8-0257-4c58-80d1-bc753d64c46d",
+      "name": "Bear Service LLC",
+      "phone": "(484) 202-3594",
+      "category": "Handyman",
+      "website": "http://www.bearservicepa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19082"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "233442b8-8cb4-44eb-be73-bc486687b520",
+      "name": "Main Line Property Prep",
+      "phone": "(610) 449-7500",
+      "category": "Handyman",
+      "website": "https://mainlinepropertyprep.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19082",
+        "19026"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "aec7bcd4-8d0b-4021-bafb-3197147b501e",
+      "name": "Delco Turnover Specialists, LLC",
+      "phone": "(215) 444-6384",
+      "category": "Handyman",
+      "website": "https://www.delcoturnoverspecialists.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19082"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "24b29646-f64a-46b8-94af-b83eb1d18e6b",
+      "name": "J&M Labor Handyman Services",
+      "phone": "(484) 202-0864",
+      "category": "Handyman",
+      "website": "http://www.jandmlabor.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19082",
+        "19036"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    },
+    {
+      "id": "90e6cc9f-0acc-42f0-aea5-c9870a7b9821",
+      "name": "Delaware County Handyman",
+      "phone": "(610) 510-8948",
+      "category": "Handyman",
+      "website": "http://www.delawarecountyhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "service_zips": [
+        "19082"
+      ],
+      "logo_url": "",
+      "travel_fee": 0,
+      "travel_radius_miles": 25
+    }
+  ],
+  "listings": [
+    {
+      "id": "d7dfa560-bdd1-4b05-917b-a52d0760b69d",
+      "business_id": "7dc7db03-4a30-42d8-82fe-441c628637ed",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "8691923b-684f-49cc-b9f0-b24db3f2d36c",
+      "business_id": "092151e8-0257-4c58-80d1-bc753d64c46d",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ec5a3309-abaf-488c-a09c-0fe6c978d2bc",
+      "business_id": "233442b8-8cb4-44eb-be73-bc486687b520",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ea16cbc3-a8b3-4f37-8e9c-ddfcbccc27e6",
+      "business_id": "aec7bcd4-8d0b-4021-bafb-3197147b501e",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7e96b300-d33a-4d5e-9dcf-03dab3065363",
+      "business_id": "24b29646-f64a-46b8-94af-b83eb1d18e6b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ef13c3e4-462e-423a-8c6f-3b66aeb7876c",
+      "business_id": "90e6cc9f-0acc-42f0-aea5-c9870a7b9821",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
