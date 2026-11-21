@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "43f09fad-cf62-40f3-b58f-4e5b4e0083f1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Long Island Maids",
+      "category": "House cleaning",
+      "phone": "(516) 699-8406",
+      "website": "https://www.longislandmaids.com/house-cleaning/hempstead/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11550"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "86098b7f-bc7c-4e75-a455-ba450fea5b2b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Stylish & Shine Cleanliness LLC",
+      "category": "House cleaning",
+      "phone": "(516) 545-9464",
+      "website": "https://stylishshinecleanliness.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11550"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c64b09e0-7565-4b29-b60b-111c45b88827",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kingdom Kleaning",
+      "category": "House cleaning",
+      "phone": "(516) 402-7145",
+      "website": "http://www.kingdomklean.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11550"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b112a824-90a1-4195-8c74-56a52a03f4f6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Molly Maid of Central Nassau County",
+      "category": "House cleaning",
+      "phone": "(516) 284-1534",
+      "website": "https://www.mollymaid.com/central-nassau-county",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11550"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "576872b1-e5c1-42a4-a80f-d76f24c13c3c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "eMaids of East Queens & West Nassau",
+      "category": "House cleaning",
+      "phone": "(929) 388-7744",
+      "website": "https://emaidsinc.com/east-queens-west-nassau/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11550"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2e8ece6b-aa4a-4900-bd59-548ffb0a725c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merry Maids of Nassau County",
+      "category": "House cleaning",
+      "phone": "(516) 272-7658",
+      "website": "https://merrymaids.com/home-cleaners-levittown-ny",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11550"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "feb38f47-fbfe-4812-8cbe-3db741bb6c08",
+      "business_id": "43f09fad-cf62-40f3-b58f-4e5b4e0083f1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e78e5aad-55c8-4c94-91aa-dec08fcf75b8",
+      "business_id": "86098b7f-bc7c-4e75-a455-ba450fea5b2b",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "974708f1-c73a-4f06-87fb-84dc67c9a4aa",
+      "business_id": "c64b09e0-7565-4b29-b60b-111c45b88827",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee649bba-806b-43f0-92e5-30a34eca57d1",
+      "business_id": "b112a824-90a1-4195-8c74-56a52a03f4f6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e63580c2-c45e-4dd0-94f5-f52dfd6e68c3",
+      "business_id": "576872b1-e5c1-42a4-a80f-d76f24c13c3c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d572759c-98bb-4090-8005-75de4a04126c",
+      "business_id": "2e8ece6b-aa4a-4900-bd59-548ffb0a725c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "businesses": [
+    {
+      "id": "b0e2dd69-12e1-4db7-b0fa-5b6735527e02",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Park Slope Handyman and Painting",
+      "category": "Handyman",
+      "phone": "(347) 752-5595",
+      "website": "https://parkslopehandymanpainting.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1f6d8442-3b8b-4404-952d-a81925b97918",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brooklyn Handyman Same day",
+      "category": "Handyman",
+      "phone": "(929) 547-6180",
+      "website": "http://www.brooklynhandymansameday.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "395aa837-1a37-4ec7-a23d-4f4a9a6cdd8c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Brooklyn's Best Handyman and General Construction",
+      "category": "Handyman",
+      "phone": "(917) 789-7366",
+      "website": "https://bk-handyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2d9a1433-5665-47e2-bc17-769814579b1f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Johnny Handy & Brothers",
+      "category": "Handyman",
+      "phone": "(718) 864-5591",
+      "website": "https://johnnyhandybros.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "feb02484-2067-44cb-a511-0ab832999339",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Masters of Assembly",
+      "category": "Handyman",
+      "phone": "(347) 244-5444",
+      "website": "http://www.mastersofassembly.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "baaa1fb5-d4c7-4898-b506-5049d0aa7a07",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lower East Side Handyman Care",
+      "category": "Handyman",
+      "phone": "(917) 979-2098",
+      "website": "https://www.lowereastsidehandymancare.com/downtown-brooklyn.html",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215",
+        "11201",
+        "11217",
+        "11231",
+        "11238",
+        "11232",
+        "10038",
+        "10002",
+        "10041",
+        "10270",
+        "10005",
+        "10045"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8f7350a9-d1e2-4f03-a655-3e3c5fba085b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TruBlue of NW Brooklyn",
+      "category": "Handyman",
+      "phone": "(718) 586-5866",
+      "website": "https://www.trublueally.com/nw-brooklyn/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11215"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "37eaf087-cf34-4f98-9f97-8c3b6fed7809",
+      "business_id": "b0e2dd69-12e1-4db7-b0fa-5b6735527e02",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "05b01225-7e82-4b0f-999e-8ca260e00a88",
+      "business_id": "1f6d8442-3b8b-4404-952d-a81925b97918",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b138e7a7-ded0-4b48-840b-2556d02a644f",
+      "business_id": "395aa837-1a37-4ec7-a23d-4f4a9a6cdd8c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "546d2d33-e635-4184-94a3-af1dbb98572f",
+      "business_id": "2d9a1433-5665-47e2-bc17-769814579b1f",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a768a757-542f-4bf1-89aa-2f6453814df9",
+      "business_id": "feb02484-2067-44cb-a511-0ab832999339",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0dbb5b0e-48f0-49d4-86d1-5f691c291418",
+      "business_id": "baaa1fb5-d4c7-4898-b506-5049d0aa7a07",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "176c8de3-3107-488b-abdd-5986555745fb",
+      "business_id": "8f7350a9-d1e2-4f03-a655-3e3c5fba085b",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "d692cf5f-ebfe-47c4-8c31-1f76a0190cf9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Park Slope Bubbles",
+   "category": "Mobile pet grooming",
+   "phone": "(718) 854-2275",
+   "website": "http://parkslopebubbles.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11211"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "58601823-f3db-4b2c-9de1-55e63d732b82",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pet Empire Mobile Grooming",
+   "category": "Mobile pet grooming",
+   "phone": "(475) 277-6167",
+   "website": "https://pet-empire-xi.vercel.app/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11211"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1b50f609-71ef-4973-b305-7d6391b5fb0f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Celestial Paws",
+   "category": "Mobile pet grooming",
+   "phone": "(646) 242-5946",
+   "website": "http://celestialpaws22.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11211"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "268c0377-90fe-481e-8ddb-9706ab34d894",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Pawfection Palace",
+   "category": "Mobile pet grooming",
+   "phone": "(570) 664-0961",
+   "website": "https://www.thepawfectionpalace.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11211"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "22f19ddb-463a-4cd4-aa2e-a9e1512c6764",
+   "business_id": "d692cf5f-ebfe-47c4-8c31-1f76a0190cf9",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "03bd4019-be15-4bdf-9ca8-257d040317a0",
+   "business_id": "58601823-f3db-4b2c-9de1-55e63d732b82",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "10514bb7-1c13-4633-8957-8e2b9906e57b",
+   "business_id": "1b50f609-71ef-4973-b305-7d6391b5fb0f",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9badb9d2-6443-445d-9cfe-6ce034ae4ead",
+   "business_id": "268c0377-90fe-481e-8ddb-9706ab34d894",
+   "title": "Mobile pet grooming at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

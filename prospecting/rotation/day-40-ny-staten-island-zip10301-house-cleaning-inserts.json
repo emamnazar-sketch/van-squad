@@ -1,0 +1,129 @@
+{
+  "businesses": [
+    {
+      "id": "360cfdf2-6c3a-4625-8302-d1b8383b765d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Good Impressions Cleaning",
+      "category": "House cleaning",
+      "phone": "(718) 841-7436",
+      "website": "https://statenislandcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ca3985b-be06-4269-917c-bfd5affdda60",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Crazy Clean Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(929) 575-4746",
+      "website": "https://www.crazycleanhomes.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10301",
+        "10302",
+        "10303",
+        "10304",
+        "10305",
+        "10306",
+        "10307",
+        "10308",
+        "10309",
+        "10310",
+        "10311",
+        "10312"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "dd1dbea6-1ffc-411d-9291-5d830b461a80",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Sailors",
+      "category": "House cleaning",
+      "phone": "(212) 299-5170",
+      "website": "https://maidsailors.com/ny/staten-island-house-cleaning-service/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ae14eed4-ce34-4b50-9b07-565a502db836",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The NYC Maid",
+      "category": "House cleaning",
+      "phone": "(212) 202-8400",
+      "website": "https://www.thenycmaid.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "61fd8f69-5007-4cf6-9054-5b542d5eed8b",
+      "business_id": "360cfdf2-6c3a-4625-8302-d1b8383b765d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cba521c4-3773-4b94-b494-8d077620ff3d",
+      "business_id": "8ca3985b-be06-4269-917c-bfd5affdda60",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a4eb8330-1378-424a-a359-fb4c34544e83",
+      "business_id": "dd1dbea6-1ffc-411d-9291-5d830b461a80",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7dc536e0-a986-4045-ab3f-a70266b3224a",
+      "business_id": "ae14eed4-ce34-4b50-9b07-565a502db836",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

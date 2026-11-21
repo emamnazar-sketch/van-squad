@@ -1,0 +1,195 @@
+{
+  "businesses": [
+    {
+      "id": "786b3e1e-e77f-499d-bb51-aa7922d703c2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rego Park Handyman Solutions",
+      "category": "Handyman",
+      "phone": "(347) 894-2458",
+      "website": "https://www.regoparkhandymansolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11375",
+        "11374",
+        "11373",
+        "11372",
+        "11379",
+        "11378",
+        "11368",
+        "11415",
+        "11367",
+        "11377",
+        "11385",
+        "11435"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ba02688c-2bf4-4943-9168-9281ef09d810",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "L and U Handyman Services",
+      "category": "Handyman",
+      "phone": "(347) 933-6941",
+      "website": "https://www.landuhandymancorona.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11375",
+        "11368",
+        "11369",
+        "11370",
+        "11372",
+        "11373",
+        "11377",
+        "11101",
+        "11104",
+        "11354",
+        "11355"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0efe3d95-d9e4-4c4d-a9be-99172ef41536",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dr Fix Home LLC",
+      "category": "Handyman",
+      "phone": "(917) 807-4675",
+      "website": "https://drfixhomellc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11375"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "cd2a2325-5759-4943-9de9-68e8c409a832",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Handy Brosco",
+      "category": "Handyman",
+      "phone": "(516) 240-9105",
+      "website": "https://www.thehandybrosco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11375"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5e61168b-66d3-4735-ba5c-7305a9eb2274",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Meaningful Maintenance Inc.",
+      "category": "Handyman",
+      "phone": "(347) 809-2291",
+      "website": "https://www.meaningfulmaintenance.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11375"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d70ca5b2-a369-4963-8f40-21407b027ffe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fast Handyman Forset Hills",
+      "category": "Handyman",
+      "phone": "(917) 967-4177",
+      "website": "http://fasthandyman-forsethills.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "11375"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ee413b6e-074d-4494-968a-1dec431844c7",
+      "business_id": "786b3e1e-e77f-499d-bb51-aa7922d703c2",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ae51c788-93c8-40bc-891b-d746e84404c8",
+      "business_id": "ba02688c-2bf4-4943-9168-9281ef09d810",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "923d9d39-fcc6-4703-850f-8d519d11e44f",
+      "business_id": "0efe3d95-d9e4-4c4d-a9be-99172ef41536",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b076ef22-21f5-4ecc-be01-e06bf26b11cb",
+      "business_id": "cd2a2325-5759-4943-9de9-68e8c409a832",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e48633b4-ce33-48d8-8340-65ea7c6b9a45",
+      "business_id": "5e61168b-66d3-4735-ba5c-7305a9eb2274",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "22466600-4bf5-4230-a141-86e631c0b8cc",
+      "business_id": "d70ca5b2-a369-4963-8f40-21407b027ffe",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

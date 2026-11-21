@@ -1,0 +1,150 @@
+{
+  "businesses": [
+    {
+      "id": "2f2ed052-009f-4b9b-9c48-4e3e94c1e4d9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr. Handyman of Westchester County",
+      "category": "Handyman",
+      "phone": "(914) 344-5219",
+      "website": "https://www.mrhandyman.com/westchester-county/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10601",
+        "10603"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "317faaf6-d1b6-4adc-ae90-9a10d030e419",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fix This Now!",
+      "category": "Handyman",
+      "phone": "(917) 885-1889",
+      "website": "https://www.fixthisnowbyrene.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10601",
+        "10530"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "71e445ad-0c1d-46b7-bcf3-403a7a2a9c16",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman of Westchester LLC",
+      "category": "Handyman",
+      "phone": "(914) 282-7146",
+      "website": "https://handymanofwestchesterllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10601"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d54ca306-76f5-4fcb-a4fa-5a0afdb5bdfc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Westchester County and Greenwich",
+      "category": "Handyman",
+      "phone": "(914) 855-1882",
+      "website": "http://www.acehandymanservices.com/offices/westchester-county-and-greenwich",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10601",
+        "10549"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c455b26d-6f5e-4919-85bb-77b06bd8e731",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "HomeSquare Pro",
+      "category": "Handyman",
+      "phone": "(914) 670-8100",
+      "website": "https://www.homsqr.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10601",
+        "10570"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6e40a234-7851-47e6-a57f-64b7df8a6447",
+      "business_id": "2f2ed052-009f-4b9b-9c48-4e3e94c1e4d9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0716d05f-5cce-4e82-94b8-5c81029d673d",
+      "business_id": "317faaf6-d1b6-4adc-ae90-9a10d030e419",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ddd231e6-d8b7-40d3-b8c6-fe21d1929057",
+      "business_id": "71e445ad-0c1d-46b7-bcf3-403a7a2a9c16",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0bd882be-71c4-4570-8ca6-502ab7a37128",
+      "business_id": "d54ca306-76f5-4fcb-a4fa-5a0afdb5bdfc",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9661945a-6624-4ac4-b5ea-1b63472950e4",
+      "business_id": "c455b26d-6f5e-4919-85bb-77b06bd8e731",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

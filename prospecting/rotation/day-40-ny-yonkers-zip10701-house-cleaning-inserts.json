@@ -1,0 +1,230 @@
+{
+  "businesses": [
+    {
+      "id": "01720535-46e0-4dbf-8999-327aaedf30b6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Bronx",
+      "category": "House cleaning",
+      "phone": "(914) 370-8989",
+      "website": "https://www.maidpro.com/yonkers",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ada711e8-70fe-44be-b54d-9343c6dbd98d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bright & Joy Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(914) 331-8797",
+      "website": "http://brightjoycleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8b8dfff5-0674-4dac-a878-0e27361bafa3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Signature Cleanings Plus LLC",
+      "category": "House cleaning",
+      "phone": "(914) 513-8638",
+      "website": "https://signaturecleaningsplus.durable.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1b436e2b-3085-4bf4-ac18-e1fe51ad90a2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid Right of New Rochelle",
+      "category": "House cleaning",
+      "phone": "(914) 303-1878",
+      "website": "https://www.maidright.com/new-rochelle/yonkers/maid-service/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "14dcf241-2642-44fb-b204-1b8cf7aa306e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GC Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(212) 663-6500",
+      "website": "https://www.gccleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2de91e1b-918a-43b7-bf81-899fab9985ec",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Queen Clean Maid Service Westchester",
+      "category": "House cleaning",
+      "phone": "(914) 895-5382",
+      "website": "http://queencleanmaidservicewestchester.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "086010a3-ee11-4dad-9267-a5b4e3139fe8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tres Maids",
+      "category": "House cleaning",
+      "phone": "(914) 295-2546",
+      "website": "https://www.tresmaids.com/blog/house-cleaning-cost-yonkers-ny",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4e52dbd2-b472-43f7-ae22-7a0364170572",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Muffetta's Housekeeping",
+      "category": "House cleaning",
+      "phone": "(914) 506-1144",
+      "website": "https://muffettahousekeeping.com/house-cleaning-in-yonkers-ny/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "1a39c2da-4262-488f-9837-7f644be2f61e",
+      "business_id": "01720535-46e0-4dbf-8999-327aaedf30b6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cdeffc7d-73c6-4e8d-8b75-8dc95263403d",
+      "business_id": "ada711e8-70fe-44be-b54d-9343c6dbd98d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "30a8321f-b53e-4bd0-b06b-a4a2956a980b",
+      "business_id": "8b8dfff5-0674-4dac-a878-0e27361bafa3",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "67ff6ee5-de92-4ac7-8fd9-c0cc12f3cb45",
+      "business_id": "1b436e2b-3085-4bf4-ac18-e1fe51ad90a2",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "736a032f-84b5-40a7-827e-c83645ffb465",
+      "business_id": "14dcf241-2642-44fb-b204-1b8cf7aa306e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "37b81ac0-be43-4ec7-9f3d-8c552caf3097",
+      "business_id": "2de91e1b-918a-43b7-bf81-899fab9985ec",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "acece728-bbf6-413c-a1d3-3472c47e4a62",
+      "business_id": "086010a3-ee11-4dad-9267-a5b4e3139fe8",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6dc1ebf5-8e62-4271-b08a-79592c642c4a",
+      "business_id": "4e52dbd2-b472-43f7-ae22-7a0364170572",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

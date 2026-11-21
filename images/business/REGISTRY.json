@@ -21804,5 +21804,641 @@
   "image": "images/business/gf-auto-detailing.jpg",
   "scene": "Woman hand-washing the rear of a dark blue SUV with a wash mitt in a sunny driveway",
   "created": "2026-11-20"
+ },
+ "a52c63a0-1c1e-4b19-992e-69febb1662c6": {
+  "business": "Rapawzel Dog Grooming & Day Care",
+  "image": "images/business/rapawzel-dog-grooming-day-care.jpg",
+  "scene": "Groomer brushing a small long-haired dog on a portable table beside a plain white van on a Brooklyn brownstone sidewalk, morning side angle",
+  "created": "2026-11-21"
+ },
+ "503050c6-b149-4759-9190-2f7e1eb45478": {
+  "business": "Dali Pet Grooming",
+  "image": "images/business/dali-pet-grooming.jpg",
+  "scene": "Groomer trimming a curly white poodle mix on a table in a fenced Queens backyard patio, late-afternoon garden-side angle",
+  "created": "2026-11-21"
+ },
+ "1e4e877e-3db3-4dfe-9258-ce0c31fbdc82": {
+  "business": "Luchy's Dog Grooming",
+  "image": "images/business/luchy-s-dog-grooming.jpg",
+  "scene": "Groomer rinsing a brown dog standing in a portable tub on a suburban front lawn in front of a porch house, low front angle",
+  "created": "2026-11-21"
+ },
+ "a4d8c363-4897-4fec-b513-92868b2fad26": {
+  "business": "Hair of the Dog Pet Spa",
+  "image": "images/business/hair-of-the-dog-pet-spa.jpg",
+  "scene": "Groomer blow-drying a fluffy golden doodle on a table in a brick apartment courtyard, elevated angle",
+  "created": "2026-11-21"
+ },
+ "3bcfb607-d9fc-426f-87df-6791d6986d85": {
+  "business": "Kenina Mobile Pet Grooming",
+  "image": "images/business/kenina-mobile-pet-grooming.jpg",
+  "scene": "Groomer trimming a fluffy doodle on a portable grooming table in a residential driveway beside an open unbranded white grooming van",
+  "created": "2026-11-21"
+ },
+ "04d4d850-d80e-42a3-bc60-14805865a820": {
+  "business": "HTCR Corp",
+  "image": "images/business/htcr-corp.jpg",
+  "scene": "Worker pressure washing a concrete driveway in front of a gray two-story house, washer unit and hose on the lawn",
+  "created": "2026-11-21"
+ },
+ "c810d3f2-da21-46ba-8186-d943dda90b03": {
+  "business": "NYC Power Wash",
+  "image": "images/business/nyc-power-wash.jpg",
+  "scene": "Worker pressure washing vinyl siding on a brick house from the lawn, ladder leaning nearby, low side angle",
+  "created": "2026-11-21"
+ },
+ "73762fba-875b-4050-990a-e829d6cf33f2": {
+  "business": "Rapid NYC Pressure Washing",
+  "image": "images/business/rapid-nyc-pressure-washing.jpg",
+  "scene": "Worker pressure washing a raised wooden backyard deck, wide across-the-street shot with house in frame",
+  "created": "2026-11-21"
+ },
+ "46a03fbe-dc1f-4543-9825-9bd012abfe7f": {
+  "business": "Pressure Clear Power Washing",
+  "image": "images/business/pressure-clear-power-washing.jpg",
+  "scene": "Worker pressure washing a wet concrete driveway in front of a single-story suburban home, morning sun, side view",
+  "created": "2026-11-21"
+ },
+ "130c2626-ea13-47d7-a6ce-0bf4cd708393": {
+  "business": "All Bright Services",
+  "image": "images/business/all-bright-services.jpg",
+  "scene": "Worker on a front lawn using a long extension wand to pressure wash the upper vinyl siding of a two-story house",
+  "created": "2026-11-21"
+ },
+ "2df3d764-7fbc-413b-9d61-1b82c0ef17e6": {
+  "business": "Pressure Washers NYC",
+  "image": "images/business/pressure-washers-nyc.jpg",
+  "scene": "Worker pressure washing brownstone front steps in a NYC townhouse row, water running down the stone steps",
+  "created": "2026-11-21"
+ },
+ "b45de3ae-b65d-462b-91ac-cb3c1b71f798": {
+  "business": "VMV Cleaning Solutions",
+  "image": "images/business/vmv-cleaning-solutions.jpg",
+  "scene": "Cleaner wiping a large floor-to-ceiling apartment window with a cloth, bright living room, city buildings outside",
+  "created": "2026-11-21"
+ },
+ "5c7a69b5-21ff-485f-be5d-c0a7c2005f35": {
+  "business": "Apex Cleaning",
+  "image": "images/business/apex-cleaning.jpg",
+  "scene": "Woman vacuuming a living-room rug with an upright vacuum, doorway wide shot, bright daylight",
+  "created": "2026-11-21"
+ },
+ "8f5254cb-b742-44b4-9cb4-01ba6bfd1676": {
+  "business": "Diamond Maids",
+  "image": "images/business/diamond-maids.jpg",
+  "scene": "Man wiping a marble kitchen island countertop with cloth and spray bottle, elevated corner angle",
+  "created": "2026-11-21"
+ },
+ "42c3c49f-10d3-4556-b14e-1c5e73c37389": {
+  "business": "Home Clean Home Inc",
+  "image": "images/business/home-clean-home-inc.jpg",
+  "scene": "Woman in apron smoothing a white bedspread while making a bed, bright bedroom, doorway shot",
+  "created": "2026-11-21"
+ },
+ "bdaeeb36-8955-4ae4-ab9a-514e91b5b2fb": {
+  "business": "eMaids",
+  "image": "images/business/emaids.jpg",
+  "scene": "Woman mopping a hardwood entry hallway with a mop and bucket, low side angle by the staircase",
+  "created": "2026-11-21"
+ },
+ "e8cc78d9-0d3e-49fc-abc6-1242eae4f12d": {
+  "business": "Maid Service Brooklyn",
+  "image": "images/business/maid-service-brooklyn.jpg",
+  "scene": "Worker wiping a marble countertop with cloth and spray bottle in a bright Brooklyn brownstone kitchen",
+  "created": "2026-11-21"
+ },
+ "747306e8-3f74-4e8f-8ddd-415688abe5de": {
+  "business": "Clean Home NYC",
+  "image": "images/business/clean-home-nyc.jpg",
+  "scene": "Worker vacuuming a light rug in a bright NYC apartment living room, canister vacuum, skyline windows behind",
+  "created": "2026-11-21"
+ },
+ "d692cf5f-ebfe-47c4-8c31-1f76a0190cf9": {
+  "business": "Park Slope Bubbles",
+  "image": "images/business/park-slope-bubbles.jpg",
+  "scene": "Groomer brushing a small fluffy white dog on a portable grooming table in a sunny Park Slope driveway",
+  "created": "2026-11-21"
+ },
+ "58601823-f3db-4b2c-9de1-55e63d732b82": {
+  "business": "Pet Empire Mobile Grooming",
+  "image": "images/business/pet-empire-mobile-grooming.jpg",
+  "scene": "Groomer kneeling and lathering a brown dog in a portable soapy tub in a sunny fenced backyard",
+  "created": "2026-11-21"
+ },
+ "1b50f609-71ef-4973-b305-7d6391b5fb0f": {
+  "business": "Celestial Paws",
+  "image": "images/business/celestial-paws.jpg",
+  "scene": "Groomer brushing a small fluffy white dog on a portable grooming table on a Brooklyn brownstone sidewalk, white van behind",
+  "created": "2026-11-21"
+ },
+ "268c0377-90fe-481e-8ddb-9706ab34d894": {
+  "business": "The Pawfection Palace",
+  "image": "images/business/the-pawfection-palace.jpg",
+  "scene": "Groomer rinsing a soapy golden dog in a portable tub on a sunny backyard patio, elevated wide angle",
+  "created": "2026-11-21"
+ },
+ "b0e2dd69-12e1-4db7-b0fa-5b6735527e02": {
+  "business": "Park Slope Handyman and Painting",
+  "image": "images/business/park-slope-handyman-and-painting.jpg",
+  "scene": "Handyman painting a white front-door frame with a brush on a brownstone stoop, paint can beside him",
+  "created": "2026-11-21"
+ },
+ "1f6d8442-3b8b-4404-952d-a81925b97918": {
+  "business": "Brooklyn Handyman Same day",
+  "image": "images/business/brooklyn-handyman-same-day.jpg",
+  "scene": "Handyman kneeling in a bright Brooklyn kitchen fixing an under-sink cabinet door hinge with a screwdriver, toolbox open",
+  "created": "2026-11-21"
+ },
+ "395aa837-1a37-4ec7-a23d-4f4a9a6cdd8c": {
+  "business": "Brooklyn's Best Handyman and General Construction",
+  "image": "images/business/brooklyn-s-best-handyman-and-general-construction.jpg",
+  "scene": "Handyman kneeling in a bright Brooklyn kitchen installing a hinge on an open white cabinet door with a screwdriver, toolbox beside him",
+  "created": "2026-11-21"
+ },
+ "2d9a1433-5665-47e2-bc17-769814579b1f": {
+  "business": "Johnny Handy & Brothers",
+  "image": "images/business/johnny-handy-brothers.jpg",
+  "scene": "Two workers assembling a tall wooden bookshelf in a sunny living room, one holding a panel upright, the other tightening a bolt with an Allen key",
+  "created": "2026-11-21"
+ },
+ "feb02484-2067-44cb-a511-0ab832999339": {
+  "business": "Masters of Assembly",
+  "image": "images/business/masters-of-assembly.jpg",
+  "scene": "Handyman on a step ladder in a bright living room drilling a TV wall bracket into place, spirit level resting on the bracket",
+  "created": "2026-11-21"
+ },
+ "baaa1fb5-d4c7-4898-b506-5049d0aa7a07": {
+  "business": "Lower East Side Handyman Care",
+  "image": "images/business/lower-east-side-handyman-care.jpg",
+  "scene": "Handyman crouching in a sunlit entryway repairing the lock on an open wooden front door with a small screwdriver",
+  "created": "2026-11-21"
+ },
+ "8f7350a9-d1e2-4f03-a655-3e3c5fba085b": {
+  "business": "TruBlue of NW Brooklyn",
+  "image": "images/business/trublue-of-nw-brooklyn.jpg",
+  "scene": "Handyman kneeling on a Brooklyn brownstone stoop, cordless drill touching the wooden railing post he is repairing, toolbox on the steps",
+  "created": "2026-11-21"
+ },
+ "52e29ef3-fc5e-41bd-9225-5cf4d71bd542": {
+  "business": "Eco Cleaning Experts LLC",
+  "image": "images/business/eco-cleaning-experts-llc.jpg",
+  "scene": "Cleaner in gloves spraying and wiping a kitchen counter beside the sink in a sunlit NYC apartment kitchen",
+  "created": "2026-11-21"
+ },
+ "2e0aaa01-22e1-44f6-acec-228dcdf99b7e": {
+  "business": "Morris Empire Cleaning",
+  "image": "images/business/morris-empire-cleaning.jpg",
+  "scene": "Cleaner standing beside a bathtub scrubbing white shower tiles with a blue brush, soapy bucket on the bathroom floor",
+  "created": "2026-11-21"
+ },
+ "044eadd6-0ef2-4f6d-a53e-4b1cde18600f": {
+  "business": "Deep Clean NYC",
+  "image": "images/business/deep-clean-nyc.jpg",
+  "scene": "Cleaner vacuuming a light rug in a bright living room with floor-to-ceiling windows overlooking NYC rooftops",
+  "created": "2026-11-21"
+ },
+ "9c98a083-ed4b-4c55-a64e-63eb83a58b0a": {
+  "business": "HomeClean Cleaning Services",
+  "image": "images/business/homeclean-cleaning-services.jpg",
+  "scene": "Cleaner wiping a white kitchen island countertop with cloth and spray bottle, doorway wide shot of a sunlit Queens apartment kitchen",
+  "created": "2026-11-21"
+ },
+ "d817983d-5c64-4d78-a109-f68e31a9a144": {
+  "business": "Maid First",
+  "image": "images/business/maid-first.jpg",
+  "scene": "Cleaner in teal shirt and yellow gloves kneeling beside a white bathtub scrubbing the bathroom floor with a brush, cleaning caddy nearby",
+  "created": "2026-11-21"
+ },
+ "4246a431-da4c-4312-9e34-89b26b504674": {
+  "business": "Pure Touch Cleaning Services",
+  "image": "images/business/pure-touch-cleaning-services.jpg",
+  "scene": "Cleaner flat-mopping a hardwood living-room floor beside a sofa with the rug rolled aside, low side-angle wide shot",
+  "created": "2026-11-21"
+ },
+ "f705b47e-d165-4cc8-bfa9-11a972bbbf88": {
+  "business": "Handyman Queens P & M",
+  "image": "images/business/handyman-queens-p-m.jpg",
+  "scene": "Handyman on a step ladder using a screwdriver on a ceiling light fixture, toolbox on the floor below, sunlit dining room",
+  "created": "2026-11-21"
+ },
+ "18065742-88f0-4acf-af21-eb3a614b219d": {
+  "business": "H & L Handyman",
+  "image": "images/business/h-l-handyman.jpg",
+  "scene": "Handyman on a step ladder in a bright living room installing a ceiling light fixture, drill touching the fixture base",
+  "created": "2026-11-21"
+ },
+ "b0b81be7-ea30-4e3b-b8ee-ee8b6c4a215f": {
+  "business": "TruBlue of NE Queens",
+  "image": "images/business/trublue-of-ne-queens.jpg",
+  "scene": "Handyman kneeling on a backyard wooden deck drilling a railing post, open toolbox beside him",
+  "created": "2026-11-21"
+ },
+ "c2de80c0-c6be-4e49-b344-bb8dc908ea72": {
+  "business": "Repair ASAP LLC",
+  "image": "images/business/repair-asap-llc.jpg",
+  "scene": "Handyman crouched in a bright kitchen fixing an open cabinet door hinge with a screwdriver, spare hinges and tools on the floor",
+  "created": "2026-11-21"
+ },
+ "a03c4611-c620-4ee6-bf6d-7a6a2649684f": {
+  "business": "Dream Homes Handyman",
+  "image": "images/business/dream-homes-handyman.jpg",
+  "scene": "Handyman on a front porch installing a wall lantern beside the front door, toolbox and small ladder on the porch",
+  "created": "2026-11-21"
+ },
+ "786b3e1e-e77f-499d-bb51-aa7922d703c2": {
+  "business": "Rego Park Handyman Solutions",
+  "image": "images/business/rego-park-handyman-solutions.jpg",
+  "scene": "Handyman on a stepladder installing a porch wall light beside the front door of a brick Queens house, tool bag on the porch",
+  "created": "2026-11-21"
+ },
+ "ba02688c-2bf4-4943-9168-9281ef09d810": {
+  "business": "L and U Handyman Services",
+  "image": "images/business/l-and-u-handyman-services.jpg",
+  "scene": "Handyman kneeling in a sunny backyard drilling a hinge on a wooden fence gate, lawn and houses behind, low side angle",
+  "created": "2026-11-21"
+ },
+ "0efe3d95-d9e4-4c4d-a9be-99172ef41536": {
+  "business": "Dr Fix Home LLC",
+  "image": "images/business/dr-fix-home-llc.jpg",
+  "scene": "Handyman kneeling at an open under-sink cabinet in a bright kitchen, wrench on the pipe, bucket in front",
+  "created": "2026-11-21"
+ },
+ "cd2a2325-5759-4943-9de9-68e8c409a832": {
+  "business": "The Handy Brosco",
+  "image": "images/business/the-handy-brosco.jpg",
+  "scene": "Handyman kneeling on a wooden backyard deck measuring a deck board with a tape measure, handsaw and tool bag beside him",
+  "created": "2026-11-21"
+ },
+ "5e61168b-66d3-4735-ba5c-7305a9eb2274": {
+  "business": "Meaningful Maintenance Inc.",
+  "image": "images/business/meaningful-maintenance-inc.jpg",
+  "scene": "Handyman kneeling on a sunlit front porch, drill-driver on the wooden porch post, toolbox beside him, wide shot from the driveway",
+  "created": "2026-11-21"
+ },
+ "d70ca5b2-a369-4963-8f40-21407b027ffe": {
+  "business": "Fast Handyman Forset Hills",
+  "image": "images/business/fast-handyman-forset-hills.jpg",
+  "scene": "Handyman crouching in a grassy side yard holding a level against a wooden fence gate while working its hinge",
+  "created": "2026-11-21"
+ },
+ "43f09fad-cf62-40f3-b58f-4e5b4e0083f1": {
+  "business": "Long Island Maids",
+  "image": "images/business/long-island-maids.jpg",
+  "scene": "Cleaner wiping a wooden coffee table in a bright living room with large windows and a sofa, cleaning caddy on the floor",
+  "created": "2026-11-21"
+ },
+ "86098b7f-bc7c-4e75-a455-ba450fea5b2b": {
+  "business": "Stylish & Shine Cleanliness LLC",
+  "image": "images/business/stylish-shine-cleanliness-llc.jpg",
+  "scene": "Cleaner wiping a kitchen countertop beside a stainless sink in a sunlit white-cabinet kitchen, shot from the doorway",
+  "created": "2026-11-21"
+ },
+ "c64b09e0-7565-4b29-b60b-111c45b88827": {
+  "business": "Kingdom Kleaning",
+  "image": "images/business/kingdom-kleaning.jpg",
+  "scene": "Cleaner in a tan apron vacuuming a light carpet with an upright vacuum in a sunlit living room, cleaning caddy on the floor beside her",
+  "created": "2026-11-21"
+ },
+ "b112a824-90a1-4195-8c74-56a52a03f4f6": {
+  "business": "Molly Maid of Central Nassau County",
+  "image": "images/business/molly-maid-of-central-nassau-county.jpg",
+  "scene": "Cleaner wiping a white kitchen island countertop with a blue cloth, spray bottle beside her, bright white kitchen with window over the sink",
+  "created": "2026-11-21"
+ },
+ "576872b1-e5c1-42a4-a80f-d76f24c13c3c": {
+  "business": "eMaids of East Queens & West Nassau",
+  "image": "images/business/emaids-of-east-queens-west-nassau.jpg",
+  "scene": "Cleaner in yellow rubber gloves kneeling in a white bathtub scrubbing its inside wall with a sponge, sunlit white-tile bathroom",
+  "created": "2026-11-21"
+ },
+ "2e8ece6b-aa4a-4900-bd59-548ffb0a725c": {
+  "business": "Merry Maids of Nassau County",
+  "image": "images/business/merry-maids-of-nassau-county.jpg",
+  "scene": "Cleaner smoothing a white duvet over a bed with both hands in a bright bedroom, afternoon sun through large windows",
+  "created": "2026-11-21"
+ },
+ "543b1e07-ac2e-407f-8674-0eca6d26b6ae": {
+  "business": "Panther Power Washing",
+  "image": "images/business/panther-power-washing.jpg",
+  "scene": "Worker pressure washing a concrete driveway in a sunny Mount Vernon front yard, wand in both hands, jet striking the wet driveway, washer unit with hose on the ground",
+  "created": "2026-11-21"
+ },
+ "2b6c4f49-d9d6-4923-8689-7ba0cee5f606": {
+  "business": "Westchester Wash and Seal",
+  "image": "images/business/westchester-wash-and-seal.jpg",
+  "scene": "Worker on a lawn spraying a two-story home's light vinyl siding, wand raised with the water fan hitting the wall, washer unit on the grass",
+  "created": "2026-11-21"
+ },
+ "5d2c999a-6a60-4aa5-8c5e-937ad00e0915": {
+  "business": "Westchester Power Washing",
+  "image": "images/business/westchester-power-washing.jpg",
+  "scene": "Worker pressure washing wooden deck boards in a backyard, jet striking the wet wood, washer unit on the grass with hose connected",
+  "created": "2026-11-21"
+ },
+ "babf2254-b4e8-4297-8518-f8201a1a6df2": {
+  "business": "Roof Rescue Southern Westchester LLC",
+  "image": "images/business/roof-rescue-southern-westchester-llc.jpg",
+  "scene": "Worker on the front lawn of a ranch home soft-washing its asphalt shingle roof with a long extension wand, jet striking the shingles",
+  "created": "2026-11-21"
+ },
+ "ba6a5c8f-b375-4303-baad-3b8ee13cb8fe": {
+  "business": "Tedrow's Mobile Detailing",
+  "image": "images/business/tedrow-s-mobile-detailing.jpg",
+  "scene": "Detailer hand-washing the roof of a dark blue sedan with a foam mitt in a sunny New Rochelle driveway, soap bucket and hose in the foreground",
+  "created": "2026-11-21"
+ },
+ "d308b681-2a43-491c-a838-96e176bbea94": {
+  "business": "Westchester Auto Detail",
+  "image": "images/business/westchester-auto-detail.jpg",
+  "scene": "Detailer machine-polishing the hood of a silver SUV with a dual-action polisher held flat on the panel, side-angle view in a bright driveway",
+  "created": "2026-11-21"
+ },
+ "e479dfd6-75c1-4cd9-9a94-024b2187310c": {
+  "business": "LugoLux Detailing",
+  "image": "images/business/lugolux-detailing.jpg",
+  "scene": "Detailer vacuuming the open cargo area of a black luxury SUV with a portable vacuum on the driveway beside him, rear three-quarter view",
+  "created": "2026-11-21"
+ },
+ "8e419c7c-bc3a-4b88-bad6-19815bf91067": {
+  "business": "Professor Detail",
+  "image": "images/business/professor-detail.jpg",
+  "scene": "Detailer crouched scrubbing the front wheel of a white sports coupe with a wheel brush, soapy bucket beside her, low wide angle",
+  "created": "2026-11-21"
+ },
+ "4dec1b28-3c32-4d1d-9a27-658253867fa9": {
+  "business": "Mount Pleasant Auto Detailing",
+  "image": "images/business/mount-pleasant-auto-detailing.jpg",
+  "scene": "Detailer hand-polishing the hood of a silver sedan with a microfiber cloth in a sunlit suburban driveway, supply caddy and bucket beside the car",
+  "created": "2026-11-21"
+ },
+ "67723e2e-309c-4483-8c3a-675e81cc1606": {
+  "business": "Galaxy Maids",
+  "image": "images/business/galaxy-maids.jpg",
+  "scene": "Cleaner in yellow gloves wiping a kitchen island counter with a cloth, spray bottle in hand, bright Manhattan high-rise kitchen with skyline windows",
+  "created": "2026-11-21"
+ },
+ "623222a1-a50e-480e-a542-6525f62967b2": {
+  "business": "Great Green Cleaning & Maid Service",
+  "image": "images/business/great-green-cleaning-maid-service.jpg",
+  "scene": "Cleaner vacuuming a light rug in a sunlit plant-filled Manhattan living room, canister vacuum head flat on the rug",
+  "created": "2026-11-21"
+ },
+ "9b384fd8-0e11-470a-9e4a-a0ca05508bd9": {
+  "business": "Wizard of Homes",
+  "image": "images/business/wizard-of-homes.jpg",
+  "scene": "Cleaner smoothing a white duvet over a bed in a bright Manhattan bedroom with large windows, cleaning-supply basket on the floor",
+  "created": "2026-11-21"
+ },
+ "c1df3e41-89d5-4607-92e4-2943686ef69e": {
+  "business": "Elite Maids NY",
+  "image": "images/business/elite-maids-ny.jpg",
+  "scene": "Cleaner vacuuming a light area rug in a sunlit Manhattan high-rise living room, floor-to-ceiling windows with skyline behind",
+  "created": "2026-11-21"
+ },
+ "af4b196e-8e64-4fb1-842e-f3eb7ab85a31": {
+  "business": "Lily Maids House Cleaning Service of NYC",
+  "image": "images/business/lily-maids-house-cleaning-service-of-nyc.jpg",
+  "scene": "Cleaner flat-mopping a hardwood floor in a bright white kitchen, mop head flat on the boards, bucket beside her",
+  "created": "2026-11-21"
+ },
+ "fba67597-90d5-4b83-9b3e-f46cf0656931": {
+  "business": "Majik Cleaning Services",
+  "image": "images/business/majik-cleaning-services.jpg",
+  "scene": "Cleaner in yellow gloves wiping a large bathroom vanity mirror, cloth in contact with the glass, double-sink vanity in frame",
+  "created": "2026-11-21"
+ },
+ "579779fe-6da3-41ac-ae3f-8b23898a12ea": {
+  "business": "New York's Little Elves",
+  "image": "images/business/new-york-s-little-elves.jpg",
+  "scene": "Cleaner smoothing a fresh white duvet over a bed in a sunlit bedroom, both hands on the bedding, sheer curtains behind",
+  "created": "2026-11-21"
+ },
+ "2d18804c-8b13-4fbf-b247-85c9ce09314d": {
+  "business": "Sparkly Maid NYC",
+  "image": "images/business/sparkly-maid-nyc.jpg",
+  "scene": "Cleaner vacuuming a light rug in a sunlit Manhattan living room, doorway wide shot, vacuum head flat on the rug",
+  "created": "2026-11-21"
+ },
+ "1c7633b2-0af8-4751-ab43-ad204bf4bc61": {
+  "business": "MaidPro Lower Manhattan",
+  "image": "images/business/maidpro-lower-manhattan.jpg",
+  "scene": "Cleaner in yellow gloves kneeling in a white tub scrubbing shower tile with a sponge, spray bottle on the tub edge, bright bathroom doorway shot",
+  "created": "2026-11-21"
+ },
+ "0a6314f0-6735-466f-bbf6-b6c573b2cbd3": {
+  "business": "Maid It NYC",
+  "image": "images/business/maid-it-nyc.jpg",
+  "scene": "Cleaner flat-mopping a hardwood floor in a sunlit open-plan NYC apartment, bucket beside her, tall windows with city buildings behind",
+  "created": "2026-11-21"
+ },
+ "f37360d9-36ca-4ba0-ab29-87182981cff5": {
+  "business": "New York's Best Maids",
+  "image": "images/business/new-york-s-best-maids.jpg",
+  "scene": "Cleaner wiping a marble kitchen island with a cloth, bottle caddy on the counter, bright white kitchen with morning light",
+  "created": "2026-11-21"
+ },
+ "c072a707-8b36-4ae1-930f-460a88216769": {
+  "business": "Green Hands Cleaning Services Corp",
+  "image": "images/business/green-hands-cleaning-services-corp.jpg",
+  "scene": "Cleaner in green rubber gloves kneeling at an open oven, sponge on the oven door glass, bucket and spray bottle beside her in a sunlit white Manhattan kitchen",
+  "created": "2026-11-21"
+ },
+ "86265777-6e17-4755-b5d5-849743ca96ab": {
+  "business": "Big Apple Housekeeping",
+  "image": "images/business/big-apple-housekeeping.jpg",
+  "scene": "Housekeeper on a wooden step stool wiping a tall living-room window with a cloth, Manhattan skyline through floor-to-ceiling glass",
+  "created": "2026-11-21"
+ },
+ "3c662e21-4302-4ee1-8529-40968c8f5fd3": {
+  "business": "Synergy Maids",
+  "image": "images/business/synergy-maids.jpg",
+  "scene": "Cleaner in yellow rubber gloves scrubbing white shower tiles with a brush inside a glass-enclosed shower, cleaning caddy on the floor",
+  "created": "2026-11-21"
+ },
+ "28517da3-8615-4334-a389-a2c54a9b2d3d": {
+  "business": "Luxury Cleaning NY",
+  "image": "images/business/luxury-cleaning-ny.jpg",
+  "scene": "Cleaner polishing a white marble penthouse kitchen island with a microfiber cloth, copper pendants and city-view windows behind",
+  "created": "2026-11-21"
+ },
+ "85ba1d00-468d-4537-b1fc-46ab73c996cf": {
+  "business": "Pet Groom New York City",
+  "image": "images/business/pet-groom-new-york-city.jpg",
+  "scene": "Groomer brushing an apricot poodle-mix standing on a portable grooming table in a sunlit Brooklyn apartment living room",
+  "created": "2026-11-21"
+ },
+ "62d68c33-169b-4bf8-8e7f-c1fcf38f4c8d": {
+  "business": "Lou-Lou Pet Grooming",
+  "image": "images/business/lou-lou-pet-grooming.jpg",
+  "scene": "Groomer bathing a small white bichon frise standing in a bathtub in a bright tiled home bathroom, hands lathering the dog's back",
+  "created": "2026-11-21"
+ },
+ "0a280432-5a36-444b-b9e6-627649c8a689": {
+  "business": "The Wiggly Monsters",
+  "image": "images/business/the-wiggly-monsters.jpg",
+  "scene": "Groomer blow-drying a fluffy golden retriever sitting on a mat on a sunny residential front porch, grooming kit open beside her",
+  "created": "2026-11-21"
+ },
+ "b7c943af-86a2-4ca4-a9d9-d215a4385914": {
+  "business": "Martin Pets",
+  "image": "images/business/martin-pets.jpg",
+  "scene": "Groomer kneeling on a laundry-room floor trimming the nails of a calm black labrador lying on a mat, clippers at the held front paw",
+  "created": "2026-11-21"
+ },
+ "1f623653-e2f7-4237-af6c-0aaafcd0cc77": {
+  "business": "Luxury Groomer",
+  "image": "images/business/luxury-groomer.jpg",
+  "scene": "Groomer brushing a fluffy white poodle standing on a portable grooming table in a sunlit Brooklyn brownstone backyard patio",
+  "created": "2026-11-21"
+ },
+ "0a0769d8-e707-41f8-b4cb-25994f06f723": {
+  "business": "Petz Society",
+  "image": "images/business/petz-society.jpg",
+  "scene": "Groomer lathering a small long-haired dog standing in a portable grooming tub on a sunny front porch, towel basket beside the tub",
+  "created": "2026-11-21"
+ },
+ "a3e34405-d5ff-43b1-aa1e-9754e3003fb3": {
+  "business": "LollyGrooming",
+  "image": "images/business/lollygrooming.jpg",
+  "scene": "Groomer running electric clippers along the side of a calm golden retriever standing on a portable grooming table in a bright fenced side yard",
+  "created": "2026-11-21"
+ },
+ "3265d21b-a744-480e-b73d-140087f44442": {
+  "business": "Abon Mobile Detailing",
+  "image": "images/business/abon-mobile-detailing.jpg",
+  "scene": "Detailer hand-polishing the hood of a dark blue sedan with microfiber cloths in a Brooklyn driveway, brownstones behind",
+  "created": "2026-11-21"
+ },
+ "69b786c9-00ec-454b-aa40-7b37ecec9286": {
+  "business": "Vapor Auto Detailing",
+  "image": "images/business/vapor-auto-detailing.jpg",
+  "scene": "Detailer steam-cleaning the driver's seat of a silver sedan with the driver's door open in a sunny driveway, steam unit and bucket beside the car",
+  "created": "2026-11-21"
+ },
+ "d1897a61-cffe-4523-bfc4-4eb184237dab": {
+  "business": "Mobile Car Detailing NY",
+  "image": "images/business/mobile-car-detailing-ny.jpg",
+  "scene": "Detailer hand-washing the side panel of a dark blue SUV with a soapy wash mitt in a bright driveway, suds bucket beside him",
+  "created": "2026-11-21"
+ },
+ "115c3a36-d7e9-4119-86a9-f7c862db91f3": {
+  "business": "M3 Luxury Auto Spa",
+  "image": "images/business/m3-luxury-auto-spa.jpg",
+  "scene": "Detailer machine-polishing the hood of a glossy black luxury coupe with a dual-action orbital polisher in warm late-afternoon light",
+  "created": "2026-11-21"
+ },
+ "2edc590e-a19e-49fb-93c6-dd2610b5eb1f": {
+  "business": "Titan Mobile Car Detailing",
+  "image": "images/business/titan-mobile-car-detailing.jpg",
+  "scene": "Detailer crouched scrubbing the front wheel and tire of a white full-size pickup truck with a brush, soapy bucket beside him",
+  "created": "2026-11-21"
+ },
+ "9c613891-909d-4a1a-bc7a-c2f5c8679f3b": {
+  "business": "Jupiter's LLC",
+  "image": "images/business/jupiter-s-llc.jpg",
+  "scene": "Detailer hand-polishing the hood of a silver sedan with a cloth in a sunlit driveway in front of a brick NYC apartment building",
+  "created": "2026-11-21"
+ },
+ "360cfdf2-6c3a-4625-8302-d1b8383b765d": {
+  "business": "Good Impressions Cleaning",
+  "image": "images/business/good-impressions-cleaning.jpg",
+  "scene": "Cleaner wiping a kitchen counter with a yellow cloth, spray bottle in her other hand, bright wood-cabinet suburban kitchen",
+  "created": "2026-11-21"
+ },
+ "8ca3985b-be06-4269-917c-bfd5affdda60": {
+  "business": "Crazy Clean Cleaning Services",
+  "image": "images/business/crazy-clean-cleaning-services.jpg",
+  "scene": "Cleaner vacuuming a light rug in a sunlit living room with floor-to-ceiling windows, canister vacuum beside her, doorway angle shot",
+  "created": "2026-11-21"
+ },
+ "dd1dbea6-1ffc-411d-9291-5d830b461a80": {
+  "business": "Maid Sailors",
+  "image": "images/business/maid-sailors.jpg",
+  "scene": "Cleaner smoothing a white duvet over a bed with both hands in a bright bedroom, morning sun through tall windows",
+  "created": "2026-11-21"
+ },
+ "ae14eed4-ce34-4b50-9b07-565a502db836": {
+  "business": "The NYC Maid",
+  "image": "images/business/the-nyc-maid.jpg",
+  "scene": "Cleaner flat-mopping a light hardwood floor in a bright white kitchen with an island and a large window over the sink, bucket beside her",
+  "created": "2026-11-21"
+ },
+ "2f2ed052-009f-4b9b-9c48-4e3e94c1e4d9": {
+  "business": "Mr. Handyman of Westchester County",
+  "image": "images/business/mr-handyman-of-westchester-county.jpg",
+  "scene": "Handyman on a step ladder installing a brass ceiling light fixture with a screwdriver in a sunlit living room, toolbox on the floor",
+  "created": "2026-11-21"
+ },
+ "317faaf6-d1b6-4adc-ae90-9a10d030e419": {
+  "business": "Fix This Now!",
+  "image": "images/business/fix-this-now.jpg",
+  "scene": "Handyman crouched at an open under-sink cabinet in a bright wood-cabinet kitchen, wrench on the drain pipe, bucket and tools on a towel",
+  "created": "2026-11-21"
+ },
+ "71e445ad-0c1d-46b7-bcf3-403a7a2a9c16": {
+  "business": "Handyman of Westchester LLC",
+  "image": "images/business/handyman-of-westchester-llc.jpg",
+  "scene": "Handyman on a small ladder on a sunny front porch, cordless drill driving into a wooden porch post he steadies with his other hand",
+  "created": "2026-11-21"
+ },
+ "d54ca306-76f5-4fcb-a4fa-5a0afdb5bdfc": {
+  "business": "Ace Handyman Services Westchester County and Greenwich",
+  "image": "images/business/ace-handyman-services-westchester-county-and-greenwich.jpg",
+  "scene": "Handyman on a step ladder installing a brass ceiling light fixture with a screwdriver in a sunlit living room, toolbox on the hardwood floor",
+  "created": "2026-11-21"
+ },
+ "c455b26d-6f5e-4919-85bb-77b06bd8e731": {
+  "business": "HomeSquare Pro",
+  "image": "images/business/homesquare-pro.jpg",
+  "scene": "Handyman kneeling on a sunny front porch drilling into a wooden porch post he steadies with his other hand, toolbox on the porch boards",
+  "created": "2026-11-21"
+ },
+ "01720535-46e0-4dbf-8999-327aaedf30b6": {
+  "business": "MaidPro Bronx",
+  "image": "images/business/maidpro-bronx.jpg",
+  "scene": "Cleaner wiping a kitchen countertop with a cloth, spray bottle in her other hand, bright Bronx apartment kitchen with brick buildings and fire escapes through the window",
+  "created": "2026-11-21"
+ },
+ "ada711e8-70fe-44be-b54d-9343c6dbd98d": {
+  "business": "Bright & Joy Cleaning LLC",
+  "image": "images/business/bright-joy-cleaning-llc.jpg",
+  "scene": "Cleaner vacuuming a light area rug with an upright vacuum in a sunlit living room with floor-to-ceiling glass doors, cleaning caddy in the foreground",
+  "created": "2026-11-21"
+ },
+ "8b8dfff5-0674-4dac-a878-0e27361bafa3": {
+  "business": "Signature Cleanings Plus LLC",
+  "image": "images/business/signature-cleanings-plus-llc.jpg",
+  "scene": "Cleaner wiping a white quartz kitchen island with a gray microfiber cloth, spray bottle and supply caddy on the counter, bright white-cabinet kitchen",
+  "created": "2026-11-21"
+ },
+ "1b436e2b-3085-4bf4-ac18-e1fe51ad90a2": {
+  "business": "Maid Right of New Rochelle",
+  "image": "images/business/maid-right-of-new-rochelle.jpg",
+  "scene": "Cleaner in yellow rubber gloves scrubbing the white tiled bathtub-shower wall with a sponge, sunlit bathroom with wood vanity",
+  "created": "2026-11-21"
+ },
+ "14dcf241-2642-44fb-b204-1b8cf7aa306e": {
+  "business": "GC Cleaning Services",
+  "image": "images/business/gc-cleaning-services.jpg",
+  "scene": "Cleaner vacuuming a large light area rug with an upright vacuum in a spacious living room, late-afternoon sun through tall windows and French doors",
+  "created": "2026-11-21"
+ },
+ "2de91e1b-918a-43b7-bf81-899fab9985ec": {
+  "business": "Queen Clean Maid Service Westchester",
+  "image": "images/business/queen-clean-maid-service-westchester.jpg",
+  "scene": "Cleaner in a dark apron smoothing a crisp white duvet over a bed with both hands, bright bedroom with sheer-curtained window, side-angle wide shot",
+  "created": "2026-11-21"
+ },
+ "086010a3-ee11-4dad-9267-a5b4e3139fe8": {
+  "business": "Tres Maids",
+  "image": "images/business/tres-maids.jpg",
+  "scene": "Cleaner vacuuming a light area rug with an upright vacuum in a sunlit living room, floor-to-ceiling windows behind",
+  "created": "2026-11-21"
+ },
+ "4e52dbd2-b472-43f7-ae22-7a0364170572": {
+  "business": "Muffetta's Housekeeping",
+  "image": "images/business/muffetta-s-housekeeping.jpg",
+  "scene": "Housekeeper flat-mopping a hardwood kitchen floor beside a white island, metal bucket next to her, doorway angle in warm afternoon light",
+  "created": "2026-11-21"
  }
 }

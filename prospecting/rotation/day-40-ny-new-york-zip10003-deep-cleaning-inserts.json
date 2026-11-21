@@ -1,0 +1,202 @@
+{
+  "businesses": [
+    {
+      "id": "1c7633b2-0af8-4751-ab43-ad204bf4bc61",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MaidPro Lower Manhattan",
+      "category": "Deep cleaning",
+      "phone": "(347) 970-2779",
+      "website": "https://www.maidpro.com/manhattan/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "0a6314f0-6735-466f-bbf6-b6c573b2cbd3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid It NYC",
+      "category": "Deep cleaning",
+      "phone": "(646) 980-0091",
+      "website": "https://maiditnyc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f37360d9-36ca-4ba0-ab29-87182981cff5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "New York's Best Maids",
+      "category": "Deep cleaning",
+      "phone": "(917) 863-5813",
+      "website": "https://newyorksbestmaids.com/deep-cleaning-nyc/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c072a707-8b36-4ae1-930f-460a88216769",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Hands Cleaning Services Corp",
+      "category": "Deep cleaning",
+      "phone": "(212) 812-9418",
+      "website": "https://www.greenhandscleaningservices.com/contact-us",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "86265777-6e17-4755-b5d5-849743ca96ab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Big Apple Housekeeping",
+      "category": "Deep cleaning",
+      "phone": "(332) 256-4048",
+      "website": "https://bigapplehousekeeping.com/cleaning/upper-east-side",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3c662e21-4302-4ee1-8529-40968c8f5fd3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Synergy Maids",
+      "category": "Deep cleaning",
+      "phone": "(347) 286-8882",
+      "website": "https://synergymaids.com/services",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "28517da3-8615-4334-a389-a2c54a9b2d3d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Luxury Cleaning NY",
+      "category": "Deep cleaning",
+      "phone": "(212) 537-0153",
+      "website": "https://luxurycleaningny.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10003"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fb7382e7-18ee-4baa-bd49-4cc32df71aa1",
+      "business_id": "1c7633b2-0af8-4751-ab43-ad204bf4bc61",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "109684cb-5413-41ab-9dec-41b2d8a106ce",
+      "business_id": "0a6314f0-6735-466f-bbf6-b6c573b2cbd3",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a9be0389-8608-4a75-80d9-c83c850691e4",
+      "business_id": "f37360d9-36ca-4ba0-ab29-87182981cff5",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3dbed579-5c87-4df6-a2dc-6d59d59acaab",
+      "business_id": "c072a707-8b36-4ae1-930f-460a88216769",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5aff3f0f-020c-4c36-a412-33ce8432cd50",
+      "business_id": "86265777-6e17-4755-b5d5-849743ca96ab",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "efffffc2-5b78-4866-b628-3074d823ec6a",
+      "business_id": "3c662e21-4302-4ee1-8529-40968c8f5fd3",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f02ef4c9-5cfc-4ef3-aa03-596ac8d09dc2",
+      "business_id": "28517da3-8615-4334-a389-a2c54a9b2d3d",
+      "title": "Deep cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

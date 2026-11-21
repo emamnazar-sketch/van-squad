@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "04d4d850-d80e-42a3-bc60-14805865a820",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "HTCR Corp",
+   "category": "Pressure washing",
+   "phone": "(718) 510-6000",
+   "website": "https://htcrcorp.com/power-washing-services/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c810d3f2-da21-46ba-8186-d943dda90b03",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "NYC Power Wash",
+   "category": "Pressure washing",
+   "phone": "(718) 772-4930",
+   "website": "https://nycpowerwash.com/residential-pressure-washing-manhattan-new-york",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "73762fba-875b-4050-990a-e829d6cf33f2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rapid NYC Pressure Washing",
+   "category": "Pressure washing",
+   "phone": "(646) 820-8531",
+   "website": "https://www.rapidnycpressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "46a03fbe-dc1f-4543-9825-9bd012abfe7f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Clear Power Washing",
+   "category": "Pressure washing",
+   "phone": "(914) 230-2300",
+   "website": "https://www.pressureclear.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "130c2626-ea13-47d7-a6ce-0bf4cd708393",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "All Bright Services",
+   "category": "Pressure washing",
+   "phone": "(212) 744-8696",
+   "website": "https://allbrightservices.com/areas-we-serve/bronx/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2df3d764-7fbc-413b-9d61-1b82c0ef17e6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Washers NYC",
+   "category": "Pressure washing",
+   "phone": "(347) 634-1684",
+   "website": "https://pressurewashersnyc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d3cd8126-b4f2-4295-bc49-3b2c908db73f",
+   "business_id": "04d4d850-d80e-42a3-bc60-14805865a820",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "28ece942-7d02-407d-bb0a-585d1ac634cb",
+   "business_id": "c810d3f2-da21-46ba-8186-d943dda90b03",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b78b55c1-7e14-4c38-95aa-d074aa739187",
+   "business_id": "73762fba-875b-4050-990a-e829d6cf33f2",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "5894edc4-c418-4444-9ea4-4f491f80cd53",
+   "business_id": "46a03fbe-dc1f-4543-9825-9bd012abfe7f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e71bf9bb-1851-4e8a-938a-6f8b6b0151af",
+   "business_id": "130c2626-ea13-47d7-a6ce-0bf4cd708393",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ebd0361f-83d9-4ac5-bb38-6f25e55ad9c5",
+   "business_id": "2df3d764-7fbc-413b-9d61-1b82c0ef17e6",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

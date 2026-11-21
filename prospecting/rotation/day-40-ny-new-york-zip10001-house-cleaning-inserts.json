@@ -1,0 +1,255 @@
+{
+ "businesses": [
+  {
+   "id": "67723e2e-309c-4483-8c3a-675e81cc1606",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Galaxy Maids",
+   "category": "House cleaning",
+   "phone": "(212) 899-5067",
+   "website": "https://galaxymaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001",
+    "10016",
+    "10009",
+    "10025",
+    "10003",
+    "10027",
+    "10128",
+    "10032",
+    "10019",
+    "10022",
+    "10011",
+    "10028",
+    "10010",
+    "11215",
+    "11226",
+    "11218",
+    "11238",
+    "11216",
+    "11212",
+    "11106",
+    "11385",
+    "11101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "623222a1-a50e-480e-a542-6525f62967b2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Great Green Cleaning & Maid Service",
+   "category": "House cleaning",
+   "phone": "(718) 369-9000",
+   "website": "http://greatgreenmaidservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9b384fd8-0e11-470a-9e4a-a0ca05508bd9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wizard of Homes",
+   "category": "House cleaning",
+   "phone": "(646) 606-2726",
+   "website": "https://wizardofhomes.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c1df3e41-89d5-4607-92e4-2943686ef69e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elite Maids NY",
+   "category": "House cleaning",
+   "phone": "(212) 970-0522",
+   "website": "https://elitemaidsny.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001",
+    "10005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "af4b196e-8e64-4fb1-842e-f3eb7ab85a31",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lily Maids House Cleaning Service of NYC",
+   "category": "House cleaning",
+   "phone": "(646) 825-3550",
+   "website": "https://www.lilymaidhousecleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001",
+    "10005"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fba67597-90d5-4b83-9b3e-f46cf0656931",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Majik Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(212) 545-7830",
+   "website": "https://www.majikservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001",
+    "10007"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "579779fe-6da3-41ac-ae3f-8b23898a12ea",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "New York's Little Elves",
+   "category": "House cleaning",
+   "phone": "(212) 673-5507",
+   "website": "https://www.nyelves.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2d18804c-8b13-4fbf-b247-85c9ce09314d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sparkly Maid NYC",
+   "category": "House cleaning",
+   "phone": "(646) 585-3515",
+   "website": "https://www.sparklymaidnyc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "10001",
+    "10013"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "605157ef-6a9d-4182-8ec6-d3c8766f575a",
+   "business_id": "67723e2e-309c-4483-8c3a-675e81cc1606",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9dbec54a-cb87-4705-adf4-daea262392bd",
+   "business_id": "623222a1-a50e-480e-a542-6525f62967b2",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7919beca-7a16-4d5a-ad20-f0651fd8ac15",
+   "business_id": "9b384fd8-0e11-470a-9e4a-a0ca05508bd9",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "690d656f-4f42-4dfe-a036-92d52fe453cb",
+   "business_id": "c1df3e41-89d5-4607-92e4-2943686ef69e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9184bcda-cfe5-4e1c-9d66-953d835de191",
+   "business_id": "af4b196e-8e64-4fb1-842e-f3eb7ab85a31",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e98d9b2b-fe48-4805-99cb-f9005745cc1f",
+   "business_id": "fba67597-90d5-4b83-9b3e-f46cf0656931",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "bca57635-54c7-412e-b6a1-42ab7fc71375",
+   "business_id": "579779fe-6da3-41ac-ae3f-8b23898a12ea",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "17f0c4ca-3546-49ad-947b-cf10193f05ba",
+   "business_id": "2d18804c-8b13-4fbf-b247-85c9ce09314d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

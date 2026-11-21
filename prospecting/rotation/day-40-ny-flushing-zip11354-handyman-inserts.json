@@ -1,0 +1,164 @@
+{
+ "businesses": [
+  {
+   "id": "f705b47e-d165-4cc8-bfa9-11a972bbbf88",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handyman Queens P & M",
+   "category": "Handyman",
+   "phone": "(917) 979-8709",
+   "website": "https://www.handymanqueenspandm.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11354",
+    "11355",
+    "11356",
+    "11357",
+    "11358",
+    "11360",
+    "11361",
+    "11365",
+    "11366",
+    "11367"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "18065742-88f0-4acf-af21-eb3a614b219d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "H & L Handyman",
+   "category": "Handyman",
+   "phone": "(347) 507-2957",
+   "website": "https://www.handlhandymansameday.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11354",
+    "11355",
+    "11358",
+    "11367",
+    "11365",
+    "11351",
+    "11356",
+    "11357",
+    "11360",
+    "11361"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b0b81be7-ea30-4e3b-b8ee-ee8b6c4a215f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "TruBlue of NE Queens",
+   "category": "Handyman",
+   "phone": "(718) 400-4003",
+   "website": "https://www.trublueally.com/ne-queens",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11354"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c2de80c0-c6be-4e49-b344-bb8dc908ea72",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Repair ASAP LLC",
+   "category": "Handyman",
+   "phone": "(775) 310-7770",
+   "website": "https://asap.repair/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11354"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a03c4611-c620-4ee6-bf6d-7a6a2649684f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dream Homes Handyman",
+   "category": "Handyman",
+   "phone": "(646) 641-9475",
+   "website": "https://dreamhomesremodeling.nyc/handyman/pricing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "11354"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "cf664d28-3532-4460-a659-c71d5ed2f181",
+   "business_id": "f705b47e-d165-4cc8-bfa9-11a972bbbf88",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "85da0647-986b-46fd-afe9-f67f1d57e689",
+   "business_id": "18065742-88f0-4acf-af21-eb3a614b219d",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8ffdd525-a9b3-43de-82af-83588458e2fc",
+   "business_id": "b0b81be7-ea30-4e3b-b8ee-ee8b6c4a215f",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d2d127e2-028d-47b3-b331-baee90109160",
+   "business_id": "c2de80c0-c6be-4e49-b344-bb8dc908ea72",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d40c26f7-251d-49a8-97da-c1d7a9f32953",
+   "business_id": "a03c4611-c620-4ee6-bf6d-7a6a2649684f",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

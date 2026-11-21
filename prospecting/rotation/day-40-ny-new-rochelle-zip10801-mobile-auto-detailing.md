@@ -1,0 +1,36 @@
+# Day 40 — New York × New Rochelle × ZIP 10801 × Mobile auto detailing
+
+**Cell:** NY | New Rochelle | ZIP 10801 | Mobile auto detailing
+**Date:** 2026-11-21
+**Status:** PREPARED NOT INSERTED
+
+**Verification basis:** Public information only. Each business's own website was checked first for mobile/on-site confirmation (detailing at the customer's driveway, home, garage, or workplace) and for phone/email where published there; Google Business listing data (via search results) was used only as corroboration, and for Mount Pleasant Auto Detailing as the phone source (its own site confirms mobile service but does not display a phone in the fetched text). No phone, ZIP, email, hour, or price was invented.
+
+**service_zips basis:** `["10801"]` for every business — the target ZIP only. None of the five publishes a list of service-area ZIP codes on its own materials (they state coverage by town/county — New Rochelle and/or Westchester County — not by ZIP), so no additional ZIPs were added; adding any would be inventing them. ZIP 10801 (New Rochelle) sits inside the New Rochelle / Westchester coverage each included business states on its own site.
+
+**Dedupe:** Every candidate name (lowercased) was checked against `day40-dedupe-names.txt` and every phone (digit-only) against `day40-dedupe-phones.txt` (live DB snapshot) — no match for any included business. Also grepped all files under `~/workspace/van-squad/prospecting/` for each name and phone digits/formatted phone — no match for any included business, including all Day-40 wave-1 and wave-2 files present at research time.
+
+**Expansion note:** No adjacent-ZIP expansion was needed: 5 businesses qualify that state New Rochelle and/or Westchester County coverage including the 10801 area.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source | Dedupe/exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| Tedrow's Mobile Detailing | (914) 451-0786 | Mobile auto detailing | New Rochelle | https://www.tedrowsmobiledetail.com/ | None found | High — own site headlines detailing in New Rochelle that "comes to your driveway, garage, or parking spot," lists New Rochelle in its service areas, and publishes 914-451-0786; Google listing (450 Pelham Rd, New Rochelle) gives the same phone | Business's own website https://www.tedrowsmobiledetail.com/ + Google listing via search (same phone) | No dedupe match in DB snapshot or prospecting files by name or phone |
+| Westchester Auto Detail | (914) 888-7643 | Mobile auto detailing | New Rochelle | https://www.westchesterdetailing.com/ | None found | High — own contact page says "Get our award winning detailing at your home," has a "Mobile Detailing Service Area — Serving Westchester County" section and a dedicated New Rochelle detailing page, and publishes PHONE 9148887643 \| 9142223335; Google listing gives the same primary phone | Business's own website https://www.westchesterdetailing.com/contact-us + its New Rochelle page via search | No dedupe match in DB snapshot or prospecting files by name or phone; also operates a White Plains shop, but mobile-at-home service is confirmed on its own site, so it is not shop-only |
+| LugoLux Detailing | (914) 491-8910 | Mobile auto detailing | New Rochelle | https://www.lugoluxdetailing.com/ | eric@lugoluxdetailing.com — own website https://www.lugoluxdetailing.com/ | High — own site says premium mobile detailing "brought to your driveway or workplace," explicitly lists New Rochelle among its Westchester towns served, and publishes (914) 491-8910 and the email | Business's own website https://www.lugoluxdetailing.com/ | No dedupe match in DB snapshot or prospecting files by name or phone |
+| Professor Detail | (914) 538-4514 | Mobile auto detailing | New Rochelle | https://professordetailny.com/ | Peter@professordetailautocare.com — own website https://professordetailny.com/ | High — own site says "Format: Mobile, we come to you" and "delivered to your driveway," confirms it is fully mobile with its own water/generator, serves Westchester County, and publishes "call or text 914-538-4514" and the email | Business's own website https://professordetailny.com/ | No dedupe match in DB snapshot or prospecting files by name or phone; North Salem-based operator serving all of Westchester, not a call center |
+| Mount Pleasant Auto Detailing | (914) 383-5499 | Mobile auto detailing | New Rochelle | http://www.mpadllc.com/ | None found | Medium — own site says "Mobile Auto Detailing… We come to you in Westchester" and "We are a fully mobile detailing service. We carry our own water and power!!"; Medium because the phone comes from its Google listing rather than its own site's fetched text | Business's own website http://www.mpadllc.com/ + Google listing via search (phone +19143835499) | No dedupe match in DB snapshot or prospecting files by name or phone |
+
+## Excluded
+
+- **Jupiter's LLC** (jupitersllc.com; (845) 650-0387; jupiterllcny@gmail.com) — EXCLUDED as a duplicate for tonight: its own New York pages confirm mobile service in Westchester including a New Rochelle page, but the same name/phone was already prepared in the Day-40 Manhattan (ZIP 10022) mobile-auto-detailing cell in `~/workspace/van-squad/prospecting/` — same name or same phone = skip.
+- **Formula X Mobile Auto Detailing & Ceramic Coating** (formulaxautodetailing.com; (203) 945-9454; formulaxautodetail@gmail.com) — EXCLUDED for this cell: its own Westchester page lists its towns as Bedford, Pound Ridge, Rye, Rye Brook, Port Chester, Harrison, Purchase and Armonk and says to call for anywhere else — New Rochelle is not in its stated coverage.
+- **See That Shine** (seethatshine.com; (845) 533-3322) — EXCLUDED for this cell: its own service-area lists name northern-Westchester towns (Mahopac, Yorktown, Peekskill, Ossining, Mt Kisco, Carmel, Somers, Brewster, Chappaqua, Fishkill, Bedford, Armonk, Cortlandt) — New Rochelle / southern Westchester is not in its stated coverage.
+- **On Site Detailers Inc.** (osdetailers.com; (914) 505-3900 via Google listing) — EXCLUDED: its own website returned an error page on fetch, so mobile/on-site service could not be confirmed from the business's own materials.
+- **Amigo Mobile Car Detailing Services** (amigocardetailing.square.site; (718) 231-0284 via Google listing) — EXCLUDED: Google listing marks it "Possibly Temporarily Closed" and its own Square site shows no service/phone detail in the fetched text, so mobile service and a verifiable phone could not be confirmed from its own materials.
+- **Super Car Detailing Westchester County, New York** (373 North Ave, New Rochelle; (914) 279-6033 via listing) — EXCLUDED: no own website found, so mobile/on-site service could not be confirmed from the business's own materials; appears to be a fixed-location detailer.
+- **LMC Car Wash / Prowash of New Rochelle / Splash Car Wash** — EXCLUDED: fixed-location car washes in/near New Rochelle, not mobile detailing at the customer's location.
+- **National Detail Pros** (nationaldetailpros.com; (800) 601-0626) — EXCLUDED: national lead-gen / call-center listing with a toll-free-only number and no local operator.
+
+## Count
+
+**Count: 5 qualifying businesses prepared (4 High confidence, 1 Medium), 2 published email leads. Status: PREPARED NOT INSERTED.**

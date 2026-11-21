@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "ba6a5c8f-b375-4303-baad-3b8ee13cb8fe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tedrow's Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(914) 451-0786",
+      "website": "https://www.tedrowsmobiledetail.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d308b681-2a43-491c-a838-96e176bbea94",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Westchester Auto Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(914) 888-7643",
+      "website": "https://www.westchesterdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e479dfd6-75c1-4cd9-9a94-024b2187310c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "LugoLux Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(914) 491-8910",
+      "website": "https://www.lugoluxdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8e419c7c-bc3a-4b88-bad6-19815bf91067",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Professor Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(914) 538-4514",
+      "website": "https://professordetailny.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4dec1b28-3c32-4d1d-9a27-658253867fa9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mount Pleasant Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(914) 383-5499",
+      "website": "http://www.mpadllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10801"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0fb9a97b-6b2e-4c87-8f8b-edb152d2fb5a",
+      "business_id": "ba6a5c8f-b375-4303-baad-3b8ee13cb8fe",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "52ea23e2-3acf-41f8-9410-28221a812aff",
+      "business_id": "d308b681-2a43-491c-a838-96e176bbea94",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "be33d1f0-3e63-4e66-a2fd-c37c18b61f5a",
+      "business_id": "e479dfd6-75c1-4cd9-9a94-024b2187310c",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b6ce89ec-821d-45bd-a494-f7e1d40a468d",
+      "business_id": "8e419c7c-bc3a-4b88-bad6-19815bf91067",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1002c3e2-074a-4ccf-9c88-11bd3c554c2d",
+      "business_id": "4dec1b28-3c32-4d1d-9a27-658253867fa9",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

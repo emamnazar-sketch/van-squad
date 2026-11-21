@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "3265d21b-a744-480e-b73d-140087f44442",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Abon Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(646) 627-2336",
+      "website": "https://www.nycabon.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10022"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "69b786c9-00ec-454b-aa40-7b37ecec9286",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vapor Auto Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(718) 673-8218",
+      "website": "https://www.nycmobilecarwash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10022"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d1897a61-cffe-4523-bfc4-4eb184237dab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mobile Car Detailing NY",
+      "category": "Mobile auto detailing",
+      "phone": "(929) 219-1879",
+      "website": "https://mobilecardetailingny.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10022"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "115c3a36-d7e9-4119-86a9-f7c862db91f3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "M3 Luxury Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(201) 772-0024",
+      "website": "https://m3luxautospa.com/contact",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10022"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2edc590e-a19e-49fb-93c6-dd2610b5eb1f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Titan Mobile Car Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(347) 434-8450",
+      "website": "https://titanmobilequeens.shop/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10022"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c613891-909d-4a1a-bc7a-c2f5c8679f3b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jupiter's LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(845) 650-0387",
+      "website": "https://jupitersllc.com/auto-detailing-new-york/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "10022"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0af3a3a6-a5cb-4495-aa2e-b8a5d4a6e7a9",
+      "business_id": "3265d21b-a744-480e-b73d-140087f44442",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ebb95020-cf99-4898-b590-be9db562bc48",
+      "business_id": "69b786c9-00ec-454b-aa40-7b37ecec9286",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "107f364a-1dcb-4682-8974-bbdd8a19315c",
+      "business_id": "d1897a61-cffe-4523-bfc4-4eb184237dab",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "d7dd1c73-76fa-4b36-8e5e-a75ef4217610",
+      "business_id": "115c3a36-d7e9-4119-86a9-f7c862db91f3",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "32899a60-793c-41b7-b67e-d80e7160cc69",
+      "business_id": "2edc590e-a19e-49fb-93c6-dd2610b5eb1f",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ee534a6b-32df-4f25-96f8-10564ce27546",
+      "business_id": "9c613891-909d-4a1a-bc7a-c2f5c8679f3b",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
