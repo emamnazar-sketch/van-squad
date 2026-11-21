@@ -54,6 +54,7 @@ function xmlEsc(s) {
 
 var STATIC_URLS = [
   ['https://vansquads.com/', 'daily', '1.0'],
+  ['https://vansquads.com/what-it-costs/', 'monthly', '0.8'],
   ['https://vansquads.com/blog/', 'weekly', '0.8'],
   ['https://vansquads.com/blog/mobile-car-detailing-cost-2026/', 'monthly', '0.7'],
   ['https://vansquads.com/blog/mobile-dog-grooming-cost-vs-salon/', 'monthly', '0.7'],
