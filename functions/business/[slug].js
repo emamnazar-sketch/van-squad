@@ -2657,7 +2657,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage, headExtra)
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261120b">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261120c">\n' +
     (headExtra || '') +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
@@ -2894,7 +2894,7 @@ export async function onRequest({ request, env, params }) {
     '<script>(function(){' +
     'var box=document.getElementById("pv-email");if(!box)return;' +
     'var bid=box.getAttribute("data-business-id");if(!bid)return;' +
-    'function loadCfg(){return new Promise(function(res){if(window.VS_CONFIG)return res();var s=document.createElement("script");s.src="/js/config.js?v=20261120b";s.onload=res;s.onerror=res;document.head.appendChild(s);});}' +
+    'function loadCfg(){return new Promise(function(res){if(window.VS_CONFIG)return res();var s=document.createElement("script");s.src="/js/config.js?v=20261120c";s.onload=res;s.onerror=res;document.head.appendChild(s);});}' +
     'function loadLib(){return new Promise(function(res,rej){var s=document.createElement("script");s.src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js";s.onload=res;s.onerror=rej;document.head.appendChild(s);});}' +
     'loadCfg().then(loadLib).then(function(){' +
     'if(!window.supabase||!window.VS_CONFIG)return null;' +
