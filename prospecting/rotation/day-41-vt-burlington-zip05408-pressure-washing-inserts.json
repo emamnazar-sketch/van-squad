@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "1b0881e4-baee-4f5b-a904-1a6bb2113924",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JT's Power Washing",
+      "category": "Pressure washing",
+      "phone": "(802) 999-4433",
+      "website": "https://jtspowerwashingvt.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05408"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "df5aabc0-6b3e-4718-bc5f-96d42af3e46d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "FH Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(802) 391-4117",
+      "website": "http://fhpressurewashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05408"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ca937396-e328-43f9-86ad-9a48c6032d38",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "360° Painting of The Green Mountains",
+      "category": "Pressure washing",
+      "phone": "(802) 215-3434",
+      "website": "https://www.360painting.com/burlington/exterior-services/power-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05408"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "24466844-b40e-4cfe-8499-1b0abca6e94f",
+      "business_id": "1b0881e4-baee-4f5b-a904-1a6bb2113924",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3610988a-5ec6-433a-995f-d514437a2d88",
+      "business_id": "df5aabc0-6b3e-4718-bc5f-96d42af3e46d",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "acccb44d-1f27-4fa2-890e-f1579d591334",
+      "business_id": "ca937396-e328-43f9-86ad-9a48c6032d38",
+      "title": "Pressure washing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

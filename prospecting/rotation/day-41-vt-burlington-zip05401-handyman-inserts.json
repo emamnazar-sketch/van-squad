@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "2982cec3-a2e0-42fc-aa97-27fce3a8d75d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Vermont Drywall and Handyman Services",
+      "category": "Handyman",
+      "phone": "(802) 355-4435",
+      "website": "http://www.vermonthandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ac2a751a-9ad9-440b-8d59-9195a4c389d3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Built to Last Handiwork",
+      "category": "Handyman",
+      "phone": "(802) 999-4331",
+      "website": "http://www.builttolastvt.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e9a90330-4106-4f68-869a-369009fe414b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman by Polli",
+      "category": "Handyman",
+      "phone": "(802) 495-5171",
+      "website": "https://handymanbypolli.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "571f3b39-2297-472f-b3b1-170c594cefda",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman of Vermont",
+      "category": "Handyman",
+      "phone": "(802) 349-1277",
+      "website": "http://www.handymanofvermont.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "892492dd-2a43-426f-af8f-c4aaac888a14",
+      "business_id": "2982cec3-a2e0-42fc-aa97-27fce3a8d75d",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1579afa5-2970-4b62-942a-a559a9ac7935",
+      "business_id": "ac2a751a-9ad9-440b-8d59-9195a4c389d3",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c0bc58a3-7ed3-426d-b01b-c57c5c143758",
+      "business_id": "e9a90330-4106-4f68-869a-369009fe414b",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2db30563-1b16-4c0d-8550-8b87de237bef",
+      "business_id": "571f3b39-2297-472f-b3b1-170c594cefda",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

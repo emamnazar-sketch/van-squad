@@ -2060,7 +2060,25 @@
     '11415': 'Kew Gardens',
     '11435': 'Jamaica',
     '11550': 'Hempstead',
-  };
+    '05201': 'Bennington',
+    '05250': 'Arlington',
+    '05301': 'Brattleboro',
+    '05401': 'Burlington',
+    '05403': 'South Burlington',
+    '05404': 'Winooski',
+    '05408': 'Burlington',
+    '05439': 'Colchester',
+    '05443': 'Bristol',
+    '05446': 'Colchester',
+    '05452': 'Essex Junction',
+    '05478': 'Saint Albans',
+    '05495': 'Williston',
+    '05602': 'Montpelier',
+    '05641': 'Barre',
+    '05701': 'Rutland',
+    '05753': 'Middlebury',
+    '05763': 'Pittsford',
+};
   var ALL_ZIPS = Object.keys(ZIP_NAMES);
 
   var SERVICE_GROUPS = [

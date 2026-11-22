@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "99c042fd-8c2a-4165-823e-59c265f41a04",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Purple and Sage Property Maintenance",
+      "category": "Handyman",
+      "phone": "(802) 343-6378",
+      "website": "http://purpleandsage.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05753"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "095d30f7-7f17-4eae-8fd7-6df54143f813",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Chipman Hill Property Services",
+      "category": "Handyman",
+      "phone": "(802) 388-6500",
+      "website": "http://www.chipmanhillpropertyservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05753"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "427a7803-29fd-455d-9652-4727dd502eed",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Rob's Home Improvements",
+      "category": "Handyman",
+      "phone": "(802) 349-5944",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05753"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "33c64eca-240d-4367-b04a-7084251b2c4a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JJ's Exteriors",
+      "category": "Handyman",
+      "phone": "(802) 219-2316",
+      "website": "https://jjexterior.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05753",
+        "05443"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fe08776c-1913-4da4-9f14-e074094a98f0",
+      "business_id": "99c042fd-8c2a-4165-823e-59c265f41a04",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f6ac84c7-9afa-45d0-920b-9876b6604b45",
+      "business_id": "095d30f7-7f17-4eae-8fd7-6df54143f813",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "89666c50-58e3-4217-ba70-bd8d3621e3a2",
+      "business_id": "427a7803-29fd-455d-9652-4727dd502eed",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "061f0762-8da9-405a-8dd4-b0ad3ea0ca53",
+      "business_id": "33c64eca-240d-4367-b04a-7084251b2c4a",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

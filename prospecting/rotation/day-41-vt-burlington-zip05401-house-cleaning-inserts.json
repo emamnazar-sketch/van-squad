@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "35ade300-4bb3-4e5b-b510-c742c1bdc784",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Lime Maids",
+      "category": "House cleaning",
+      "phone": "(802) 827-0971",
+      "website": "https://limemaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "12861850-ab76-42f6-b556-182ae68f35e0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Amaga Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(802) 375-5793",
+      "website": "https://amagaservice.com/about-us/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4eb7dc9a-729a-4407-9653-62933c5d00fe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zulia's Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(802) 318-8639",
+      "website": "https://www.zuliascleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3e554db1-a1e8-40e6-85fe-7a70abe03850",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DEM Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(802) 233-5650",
+      "website": "https://www.demcleaningservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "443d48fa-bad2-474e-b17c-cc95c1961bff",
+      "business_id": "35ade300-4bb3-4e5b-b510-c742c1bdc784",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1ef913e4-bfd1-4f16-b1ed-77604fbfba4e",
+      "business_id": "12861850-ab76-42f6-b556-182ae68f35e0",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b6d80700-3a92-46c7-8707-51b33783a8ec",
+      "business_id": "4eb7dc9a-729a-4407-9653-62933c5d00fe",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2a9eb10f-ba09-483a-8962-052cdbfe8a44",
+      "business_id": "3e554db1-a1e8-40e6-85fe-7a70abe03850",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

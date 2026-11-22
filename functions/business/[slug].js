@@ -2065,7 +2065,25 @@ var ZIP_NAMES = {
     '11415': 'Kew Gardens',
     '11435': 'Jamaica',
     '11550': 'Hempstead',
-  };
+    '05201': 'Bennington',
+    '05250': 'Arlington',
+    '05301': 'Brattleboro',
+    '05401': 'Burlington',
+    '05403': 'South Burlington',
+    '05404': 'Winooski',
+    '05408': 'Burlington',
+    '05439': 'Colchester',
+    '05443': 'Bristol',
+    '05446': 'Colchester',
+    '05452': 'Essex Junction',
+    '05478': 'Saint Albans',
+    '05495': 'Williston',
+    '05602': 'Montpelier',
+    '05641': 'Barre',
+    '05701': 'Rutland',
+    '05753': 'Middlebury',
+    '05763': 'Pittsford',
+};
 /* --- Visibility build (2026-10-31): metros, primary city, blog cross-links.
    PREFIX_METRO mirrors tools/metro-map.mjs — keep the two in sync.
    A metro is keyed by the 3-digit ZIP prefix of a business's service ZIPs;
@@ -2250,6 +2268,9 @@ var COST_RANGES = {
    A business with no resolvable ZIP renders without the map; every other
    section still shows. */
 var ZIP_COORDS = {
+  '05201':[42.8827,-73.1923],'05250':[43.0857,-73.1594],'05301':[42.8574,-72.5933],'05401':[44.484,-73.2199],'05403':[44.4513,-73.1796],'05404':[44.4949,-73.1874],
+  '05408':[44.512,-73.2492],'05439':[44.4952,-73.1651],'05443':[44.146,-73.0717],'05446':[44.536,-73.2022],'05452':[44.5035,-73.0906],'05478':[44.8111,-73.089],
+  '05495':[44.4367,-73.0957],'05602':[44.2641,-72.577],'05641':[44.1945,-72.4936],'05701':[43.6141,-72.9708],'05753':[43.9919,-73.1716],'05763':[43.7152,-73.0135],
   '10001':[40.7484,-73.9967],'10002':[40.7152,-73.9877],'10003':[40.7313,-73.9892],'10005':[40.7056,-74.0083],'10007':[40.7139,-74.007],'10009':[40.7262,-73.9796],
   '10010':[40.7375,-73.9813],'10011':[40.7402,-73.9996],'10013':[40.7185,-74.0025],'10016':[40.7443,-73.9781],'10019':[40.7651,-73.9858],'10022':[40.7571,-73.9657],
   '10025':[40.7975,-73.9683],'10027':[40.8116,-73.955],'10028':[40.7763,-73.9529],'10032':[40.8382,-73.942],'10038':[40.7101,-74.0013],'10041':[40.7038,-74.0098],
@@ -2593,53 +2614,54 @@ var ZIP_COORDS = {
   '98402':[47.2545,-122.4405],'98404':[47.2113,-122.4126],'98405':[47.2484,-122.4643],'98409':[47.2038,-122.4825],'98465':[47.2491,-122.5273],
 };
 var STATE_BY_PREFIX = {
-  '100':'New York','101':'New York','102':'New York','103':'New York','104':'New York','105':'New York',
-  '106':'New York','107':'New York','108':'New York','111':'New York','112':'New York','113':'New York',
-  '114':'New York','115':'New York','151':'Pennsylvania','152':'Pennsylvania','165':'Pennsylvania','170':'Pennsylvania',
-  '171':'Pennsylvania','180':'Pennsylvania','181':'Pennsylvania','183':'Pennsylvania','189':'Pennsylvania','190':'Pennsylvania',
-  '191':'Pennsylvania','201':'Virginia','208':'Maryland','217':'Maryland','220':'Virginia','221':'Virginia',
-  '222':'Virginia','223':'Virginia','226':'Virginia','230':'Virginia','231':'Virginia','232':'Virginia',
-  '233':'Virginia','234':'Virginia','235':'Virginia','253':'West Virginia','254':'West Virginia','257':'West Virginia',
-  '258':'West Virginia','259':'West Virginia','260':'West Virginia','261':'West Virginia','263':'West Virginia','265':'West Virginia',
-  '271':'North Carolina','274':'North Carolina','275':'North Carolina','276':'North Carolina','277':'North Carolina','280':'North Carolina',
-  '282':'North Carolina','290':'South Carolina','291':'South Carolina','292':'South Carolina','293':'South Carolina','294':'South Carolina',
-  '296':'South Carolina','300':'Georgia','301':'Georgia','303':'Georgia','305':'Georgia','306':'Georgia',
-  '307':'Georgia','308':'Georgia','309':'Georgia','314':'Georgia','322':'Florida','327':'Florida',
-  '328':'Florida','330':'Florida','331':'Florida','333':'Florida','334':'Florida','335':'Florida',
-  '336':'Florida','337':'Florida','347':'Florida','350':'Alabama','351':'Alabama','352':'Alabama',
-  '354':'Alabama','356':'Alabama','357':'Alabama','358':'Alabama','361':'Alabama','365':'Alabama',
-  '366':'Alabama','368':'Alabama','370':'Tennessee','371':'Tennessee','372':'Tennessee','373':'Tennessee',
-  '374':'Tennessee','377':'Tennessee','378':'Tennessee','379':'Tennessee','380':'Tennessee','381':'Tennessee',
-  '386':'Mississippi','388':'Mississippi','390':'Mississippi','391':'Mississippi','392':'Mississippi','393':'Mississippi',
-  '394':'Mississippi','395':'Mississippi','400':'Kentucky','402':'Kentucky','403':'Kentucky','405':'Kentucky',
-  '410':'Kentucky','421':'Kentucky','423':'Kentucky','427':'Kentucky','430':'Ohio','431':'Ohio',
-  '432':'Ohio','436':'Ohio','440':'Ohio','441':'Ohio','450':'Ohio','451':'Ohio',
-  '452':'Ohio','454':'Ohio','460':'Indiana','461':'Indiana','462':'Indiana','463':'Indiana',
-  '465':'Indiana','466':'Indiana','467':'Indiana','468':'Indiana','477':'Indiana','479':'Indiana',
-  '480':'Michigan','481':'Michigan','482':'Michigan','483':'Michigan','485':'Michigan','489':'Michigan',
-  '495':'Michigan','500':'Iowa','501':'Iowa','502':'Iowa','503':'Iowa','507':'Iowa',
-  '522':'Iowa','524':'Iowa','528':'Iowa','530':'Wisconsin','531':'Wisconsin','532':'Wisconsin',
-  '534':'Wisconsin','537':'Wisconsin','543':'Wisconsin','549':'Wisconsin','551':'Minnesota','553':'Minnesota',
-  '554':'Minnesota','558':'Minnesota','559':'Minnesota','565':'Minnesota','567':'Minnesota','570':'South Dakota',
-  '571':'South Dakota','573':'South Dakota','574':'South Dakota','575':'South Dakota','577':'South Dakota','580':'North Dakota',
-  '581':'North Dakota','582':'North Dakota','584':'North Dakota','585':'North Dakota','586':'North Dakota','587':'North Dakota',
-  '588':'North Dakota','590':'Montana','591':'Montana','594':'Montana','596':'Montana','597':'Montana',
-  '598':'Montana','599':'Montana','600':'Illinois','601':'Illinois','602':'Illinois','603':'Illinois',
-  '604':'Illinois','605':'Illinois','606':'Illinois','608':'Illinois','630':'Missouri','631':'Missouri',
-  '633':'Missouri','640':'Missouri','641':'Missouri','652':'Missouri','658':'Missouri','660':'Kansas',
-  '661':'Kansas','662':'Kansas','665':'Kansas','666':'Kansas','670':'Kansas','671':'Kansas',
-  '672':'Kansas','680':'Nebraska','681':'Nebraska','685':'Nebraska','687':'Nebraska','688':'Nebraska',
-  '700':'Louisiana','701':'Louisiana','704':'Louisiana','705':'Louisiana','708':'Louisiana','720':'Arkansas',
-  '721':'Arkansas','722':'Arkansas','724':'Arkansas','727':'Arkansas','729':'Arkansas','730':'Oklahoma',
-  '731':'Oklahoma','740':'Oklahoma','741':'Oklahoma','750':'Texas','751':'Texas','752':'Texas',
-  '760':'Texas','761':'Texas','762':'Texas','765':'Texas','770':'Texas','773':'Texas',
-  '774':'Texas','775':'Texas','780':'Texas','782':'Texas','786':'Texas','787':'Texas',
-  '800':'Colorado','802':'Colorado','803':'Colorado','805':'Colorado','809':'Colorado','820':'Wyoming',
-  '826':'Wyoming','836':'Idaho','837':'Idaho','840':'Utah','841':'Utah','844':'Utah',
-  '846':'Utah','850':'Arizona','852':'Arizona','853':'Arizona','871':'New Mexico','874':'New Mexico',
-  '875':'New Mexico','880':'New Mexico','881':'New Mexico','882':'New Mexico','883':'New Mexico','890':'Nevada',
-  '891':'Nevada','945':'California','948':'California','956':'California','957':'California','958':'California',
-  '970':'Oregon','971':'Oregon','972':'Oregon','980':'Washington','981':'Washington','984':'Washington',
+  '052':'Vermont','053':'Vermont','054':'Vermont','056':'Vermont','057':'Vermont','100':'New York',
+  '101':'New York','102':'New York','103':'New York','104':'New York','105':'New York','106':'New York',
+  '107':'New York','108':'New York','111':'New York','112':'New York','113':'New York','114':'New York',
+  '115':'New York','151':'Pennsylvania','152':'Pennsylvania','165':'Pennsylvania','170':'Pennsylvania','171':'Pennsylvania',
+  '180':'Pennsylvania','181':'Pennsylvania','183':'Pennsylvania','189':'Pennsylvania','190':'Pennsylvania','191':'Pennsylvania',
+  '201':'Virginia','208':'Maryland','217':'Maryland','220':'Virginia','221':'Virginia','222':'Virginia',
+  '223':'Virginia','226':'Virginia','230':'Virginia','231':'Virginia','232':'Virginia','233':'Virginia',
+  '234':'Virginia','235':'Virginia','253':'West Virginia','254':'West Virginia','257':'West Virginia','258':'West Virginia',
+  '259':'West Virginia','260':'West Virginia','261':'West Virginia','263':'West Virginia','265':'West Virginia','271':'North Carolina',
+  '274':'North Carolina','275':'North Carolina','276':'North Carolina','277':'North Carolina','280':'North Carolina','282':'North Carolina',
+  '290':'South Carolina','291':'South Carolina','292':'South Carolina','293':'South Carolina','294':'South Carolina','296':'South Carolina',
+  '300':'Georgia','301':'Georgia','303':'Georgia','305':'Georgia','306':'Georgia','307':'Georgia',
+  '308':'Georgia','309':'Georgia','314':'Georgia','322':'Florida','327':'Florida','328':'Florida',
+  '330':'Florida','331':'Florida','333':'Florida','334':'Florida','335':'Florida','336':'Florida',
+  '337':'Florida','347':'Florida','350':'Alabama','351':'Alabama','352':'Alabama','354':'Alabama',
+  '356':'Alabama','357':'Alabama','358':'Alabama','361':'Alabama','365':'Alabama','366':'Alabama',
+  '368':'Alabama','370':'Tennessee','371':'Tennessee','372':'Tennessee','373':'Tennessee','374':'Tennessee',
+  '377':'Tennessee','378':'Tennessee','379':'Tennessee','380':'Tennessee','381':'Tennessee','386':'Mississippi',
+  '388':'Mississippi','390':'Mississippi','391':'Mississippi','392':'Mississippi','393':'Mississippi','394':'Mississippi',
+  '395':'Mississippi','400':'Kentucky','402':'Kentucky','403':'Kentucky','405':'Kentucky','410':'Kentucky',
+  '421':'Kentucky','423':'Kentucky','427':'Kentucky','430':'Ohio','431':'Ohio','432':'Ohio',
+  '436':'Ohio','440':'Ohio','441':'Ohio','450':'Ohio','451':'Ohio','452':'Ohio',
+  '454':'Ohio','460':'Indiana','461':'Indiana','462':'Indiana','463':'Indiana','465':'Indiana',
+  '466':'Indiana','467':'Indiana','468':'Indiana','477':'Indiana','479':'Indiana','480':'Michigan',
+  '481':'Michigan','482':'Michigan','483':'Michigan','485':'Michigan','489':'Michigan','495':'Michigan',
+  '500':'Iowa','501':'Iowa','502':'Iowa','503':'Iowa','507':'Iowa','522':'Iowa',
+  '524':'Iowa','528':'Iowa','530':'Wisconsin','531':'Wisconsin','532':'Wisconsin','534':'Wisconsin',
+  '537':'Wisconsin','543':'Wisconsin','549':'Wisconsin','551':'Minnesota','553':'Minnesota','554':'Minnesota',
+  '558':'Minnesota','559':'Minnesota','565':'Minnesota','567':'Minnesota','570':'South Dakota','571':'South Dakota',
+  '573':'South Dakota','574':'South Dakota','575':'South Dakota','577':'South Dakota','580':'North Dakota','581':'North Dakota',
+  '582':'North Dakota','584':'North Dakota','585':'North Dakota','586':'North Dakota','587':'North Dakota','588':'North Dakota',
+  '590':'Montana','591':'Montana','594':'Montana','596':'Montana','597':'Montana','598':'Montana',
+  '599':'Montana','600':'Illinois','601':'Illinois','602':'Illinois','603':'Illinois','604':'Illinois',
+  '605':'Illinois','606':'Illinois','608':'Illinois','630':'Missouri','631':'Missouri','633':'Missouri',
+  '640':'Missouri','641':'Missouri','652':'Missouri','658':'Missouri','660':'Kansas','661':'Kansas',
+  '662':'Kansas','665':'Kansas','666':'Kansas','670':'Kansas','671':'Kansas','672':'Kansas',
+  '680':'Nebraska','681':'Nebraska','685':'Nebraska','687':'Nebraska','688':'Nebraska','700':'Louisiana',
+  '701':'Louisiana','704':'Louisiana','705':'Louisiana','708':'Louisiana','720':'Arkansas','721':'Arkansas',
+  '722':'Arkansas','724':'Arkansas','727':'Arkansas','729':'Arkansas','730':'Oklahoma','731':'Oklahoma',
+  '740':'Oklahoma','741':'Oklahoma','750':'Texas','751':'Texas','752':'Texas','760':'Texas',
+  '761':'Texas','762':'Texas','765':'Texas','770':'Texas','773':'Texas','774':'Texas',
+  '775':'Texas','780':'Texas','782':'Texas','786':'Texas','787':'Texas','800':'Colorado',
+  '802':'Colorado','803':'Colorado','805':'Colorado','809':'Colorado','820':'Wyoming','826':'Wyoming',
+  '836':'Idaho','837':'Idaho','840':'Utah','841':'Utah','844':'Utah','846':'Utah',
+  '850':'Arizona','852':'Arizona','853':'Arizona','871':'New Mexico','874':'New Mexico','875':'New Mexico',
+  '880':'New Mexico','881':'New Mexico','882':'New Mexico','883':'New Mexico','890':'Nevada','891':'Nevada',
+  '945':'California','948':'California','956':'California','957':'California','958':'California','970':'Oregon',
+  '971':'Oregon','972':'Oregon','980':'Washington','981':'Washington','984':'Washington',
 };
 
 function centroidOf(b) {
@@ -2791,7 +2813,7 @@ function pageShell(title, metaDesc, canonical, body, jsonLd, ogImage, headExtra)
     '<meta property="og:type" content="website">\n' +
     '<meta property="og:image" content="' + esc(ogImage || 'https://vansquads.com/img/logo.png') + '">\n' +
     '<link rel="icon" type="image/png" href="/img/favicon-512.png">\n' +
-    '<link rel="stylesheet" href="/css/styles.css?v=20261121d">\n' +
+    '<link rel="stylesheet" href="/css/styles.css?v=20261122a">\n' +
     (headExtra || '') +
     (jsonLd ? '<script type="application/ld+json">' + jsonLd + '</script>\n' : '') +
     '<style>' +
@@ -3028,7 +3050,7 @@ export async function onRequest({ request, env, params }) {
     '<script>(function(){' +
     'var box=document.getElementById("pv-email");if(!box)return;' +
     'var bid=box.getAttribute("data-business-id");if(!bid)return;' +
-    'function loadCfg(){return new Promise(function(res){if(window.VS_CONFIG)return res();var s=document.createElement("script");s.src="/js/config.js?v=20261121d";s.onload=res;s.onerror=res;document.head.appendChild(s);});}' +
+    'function loadCfg(){return new Promise(function(res){if(window.VS_CONFIG)return res();var s=document.createElement("script");s.src="/js/config.js?v=20261122a";s.onload=res;s.onerror=res;document.head.appendChild(s);});}' +
     'function loadLib(){return new Promise(function(res,rej){var s=document.createElement("script");s.src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js";s.onload=res;s.onerror=rej;document.head.appendChild(s);});}' +
     'loadCfg().then(loadLib).then(function(){' +
     'if(!window.supabase||!window.VS_CONFIG)return null;' +

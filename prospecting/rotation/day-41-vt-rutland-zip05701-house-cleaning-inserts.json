@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "5a4f4c51-1db7-4fef-8177-dfdc3b3992d6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paradise Cleaners, LLC",
+      "category": "House cleaning",
+      "phone": "(802) 342-2272",
+      "website": "https://paradisecleanersllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "973d9366-ed2a-4025-9710-fd488e751896",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DePoy's Mountain Kleen",
+      "category": "House cleaning",
+      "phone": "(802) 773-9354",
+      "website": "http://www.depoysmountainkleen.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "05701"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5e0e250b-ef91-4b6d-83a8-a2cf098c35d7",
+      "business_id": "5a4f4c51-1db7-4fef-8177-dfdc3b3992d6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7ad09ab2-d265-4f21-bbdf-560538cea19d",
+      "business_id": "973d9366-ed2a-4025-9710-fd488e751896",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

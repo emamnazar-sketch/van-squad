@@ -1,0 +1,19 @@
+# Day 41 — Vermont × Rutland × ZIP 05701 × Handyman
+
+Cell: Rutland, VT 05701 — category "Handyman" (exact label from js/data.js).
+Count: 3 qualifying businesses. No adjacent-ZIP expansion to 05702 was needed to reach 3, though one included business is based in neighbouring Pittsford (05763) and states it serves Pittsford and the surrounding areas, which includes Rutland (~8 miles).
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| NB Property Management LP | (802) 282-8444 | Handyman | Rutland | https://handyman-vt.com/ | — none published as a readable address (own site shows only a "Send Me An Email" link/form, so none was guessed) | High — own site lists "Rutland, VT 05701" and phone (802) 282-8444, says "Based in Rutland, VT, I serve clients within a 30-mile radius" with onsite walkthroughs and handyman repairs/maintenance at homeowners' homes | Business's own website https://handyman-vt.com/ ; Google listing (167 Marble St, West Rutland) with same phone/website | Not in day41-dedupe-names.txt or day41-dedupe-phones.txt; no match in prospecting/ for name or phone digits |
+| Spotted Dog Home Improvements, LLC | (802) 242-1600 | Handyman | Pittsford | http://sdhi-llc.com/ | andrew@sdhi-llc.com — own website http://sdhi-llc.com/ | Medium — own site says it "provides professional handyman services for homeowners, property managers, and businesses in Pittsford, VT and the surrounding areas", lists address 60 Crown Pt N, Pittsford, VT 05763, phone 802-242-1600 and that email; Rutland/05701 is in the surrounding area (~8 miles) but is not named explicitly, hence Medium | Business's own website http://sdhi-llc.com/ ; Google listing (60 Crown Point N, Pittsford) with same phone/website | Not in day41-dedupe-names.txt or day41-dedupe-phones.txt; no match in prospecting/ for name or phone digits |
+| Vermont handy | (802) 353-9580 | Handyman | Rutland |  | — none found | Medium — Google listing in Rutland, VT with primary category Handyman and phone +1 802-353-9580, business description "Showcase some of my current and recent projects" (on-site project work); no own website found, so confirmation rests on its business-provided Google listing, hence Medium | Google Business listing (Rutland, VT) | Not in day41-dedupe-names.txt or day41-dedupe-phones.txt; no match in prospecting/ for name or phone digits |
+
+## Exclusions / notable notes
+- Handyman Repair & Vermont Services, Plymouth, VT — (802) 779-3186, own site https://www.handymanrepair.services/ confirms handyman-type home work and phone, but no stated service area covering Rutland/05701 was found on its own materials (based ~20 miles east in Plymouth). Excluded — service to 05701 not verified.
+- Kingsley Repair and Maintenance, Florence, VT — (802) 342-1921 — Google listing only (Contractor/Handyman, "repair and renovate houses"), no own website or own materials confirming service to 05701 found. Excluded.
+- Walker IronWorks Welding and Handyman Services, Poultney, VT — (802) 558-7236 — Google/Instagram listing only, welding/metal fabrication first, ~25 miles away, no own website confirming handyman service to Rutland. Excluded.
+- Heritage Workshop, Rutland — furniture repair/upholstery storefront at 148 N Main St, not general mobile handyman. Excluded.
+- Ace Handyman Services / Mr. Handyman — no verified local Rutland operator with a local phone found; only national sites with toll-free numbers. Excluded (national lead-gen / toll-free-only rule).
+- Walmart Home Services, Rutland — national retailer listing, phone (833) 600-0406. Excluded.
+- Champlain Appliance Service, Green Mountain Window Co, Overhead Door Company of Rutland, Christie Plumbing & Heating, Bill Lohsen Plumbing & Heating — single-trade specialists / storefronts, not general handyman. Excluded.

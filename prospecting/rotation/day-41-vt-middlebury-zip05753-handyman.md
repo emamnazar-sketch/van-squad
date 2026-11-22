@@ -1,0 +1,28 @@
+# Day 41 — Vermont × Middlebury × ZIP 05753 × Handyman
+
+Cell: VT | Middlebury | 05753 | Handyman (exact label)
+Expansion note: 3 businesses are based in / serve 05753 directly. A 4th, JJ's Exteriors, is based in adjacent ZIP 05443 (Bristol) and its own website states it serves Bristol and Addison County (which includes Middlebury / 05753) — included under the adjacent-ZIP expansion rule and noted as such.
+Dedupe method: every included name (lowercased) checked against `day41-dedupe-names.txt`, every phone (digits only) against `day41-dedupe-phones.txt`, and name + phone digits grepped across `~/workspace/van-squad/prospecting/`. No matches for any included business.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| Purple and Sage Property Maintenance | (802) 343-6378 | Handyman | Middlebury | http://purpleandsage.com/ | None found on own site — no lead recorded | High — Own website describes a locally owned property maintenance company offering services to residential and commercial properties throughout Chittenden and Addison Counties (on-site work at customer properties); Google listing primary category is Handyman, address in Middlebury | Own site http://purpleandsage.com/ ; Google listing (address 28 Twin Circles, Middlebury, VT; phone; Handyman category) | No dedupe match (name/phone). Not a storefront; local operator |
+| Chipman Hill Property Services | (802) 388-6500 | Handyman | Middlebury | http://www.chipmanhillpropertyservices.com/ | geoff@chipmanhillpropertyservices.com — own published brochure: https://docs.wixstatic.com/ugd/d83986_b5449b0b545b4e0c8988aa91d7e2ad2e.pdf | Medium — Own site (173 Court St, Middlebury, VT 05753) offers house checks, seasonal maintenance and "perform small tasks" at clients' homes in Middlebury / Addison County for an hourly rate; broader work is partly vendor referral, hence Medium | Own site https://www.chipmanhillpropertyservices.com/residential-services and homepage (Areas We Serve: Middlebury, Bristol, etc.); own brochure lists phone (802) 388-6500, the email above, and Handyman among its Addison County offerings; Google listing phone (802) 989-3857 is a co-owner's cell in the same brochure — main brochure line used | No dedupe match (name/phone). Local operator, not a call center |
+| Rob's Home Improvements | (802) 349-5944 | Handyman | Middlebury |  | None recorded — an email appears only in a Vermont state contractor list, which is not the business's own site or Google listing, so it was NOT recorded as a lead | Medium — Google listing at 134 Seminary St, Middlebury, VT 05753 lists Handyman as a category with home-improvement offerings (painting, siding, gutter work) performed at customers' homes; phone corroborated by the Vermont MHIR contractor list for the same Middlebury address. No own website found, hence Medium | Google listing (address, phone, Handyman category, offerings); Vermont MHIR Documented Contractors List (outside.vermont.gov) corroborating name/address/phone | No dedupe match (name/phone). Local operator; not toll-free |
+| JJ's Exteriors | (802) 219-2316 | Handyman | Bristol | https://jjexterior.net/ | jjexteriorsinfo@gmail.com — own site: https://jjexterior.net/ | Medium — ADJACENT-ZIP EXPANSION (05443 Bristol): own site is an exterior home-repair/renovation contractor (roof repair, siding, windows, doors, decks) offering a free onsite consultation and installation at Vermont homes, and states it serves Bristol and Addison County (includes 05753); Houzz also lists it under Handyman. Exterior-contractor focus, hence Medium | Own site https://jjexterior.net/ (phone, email, 25 Mountain View Street Suite E, Bristol, VT 05443, service area Bristol / Addison County) | No dedupe match (name/phone). Family-owned local operator; service_zips include 05753 (stated Addison County coverage) plus its own 05443 address ZIP |
+
+## Exclusions (notable)
+
+- Sergents Handyman Services LLC (Bristol, 05443; (802) 349-8112) — EXCLUDED: only source found was the Vermont MHIR contractor list; no own website, Google listing, or other own materials confirming on-site handyman work could be verified.
+- Coleman Contracting & Handyman Services LLC (Bristol, 05443; (802) 349-5940) — EXCLUDED: same reason — Vermont MHIR list only, no own materials / own website found.
+- Dylan And Sons Property Maintenance LLC (Bristol, 05443; (802) 349-5055) — EXCLUDED: no own website found; sources were the Vermont MHIR list and lead-gen (HomeAdvisor/Angi) profiles only, with no own materials confirming handyman work in 05753.
+- TruBlue of Northern Vermont (Williston; (802) 638-0000) — EXCLUDED for this cell: genuine handyman operator with its own site, but its own service pages name Williston / Northern Vermont only; no evidence it serves 05753 / Addison County.
+- Chipman Hill Property Services — see Medium note above: included for its own direct small-task / house-check / maintenance work at Middlebury homes, not for its vendor-referral Access Program.
+- Sears Appliance Repair (Middlebury) and Norman Bevins (toll-free (877) number) — EXCLUDED: national chain / toll-free-only, not a local handyman.
+- HomeAdvisor / Angi matching pages for Middlebury — EXCLUDED as sources: national lead-gen listings with no local operator.
+
+## Summary
+
+- Included: 4 businesses (3 in 05753, 1 adjacent-ZIP expansion from 05443 serving Addison County)
+- Email leads: 2 (Chipman Hill Property Services, JJ's Exteriors)
+- Territory is thin: Middlebury is a small town and several named handymen in state lists have no own web presence to verify against the quality gate.
