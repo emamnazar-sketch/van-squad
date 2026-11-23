@@ -1,0 +1,63 @@
+{
+ "businesses": [
+  {
+   "id": "66c7123f-dc60-48c2-a023-759ce953107d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sparkling Sanctuaries",
+   "category": "House cleaning",
+   "phone": "(603) 568-2035",
+   "website": "https://sparklingsanctuaries.netlify.app/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03079"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8c4c86ff-aeb5-4323-9e8d-034d41d90c0e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Katis Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(978) 398-8982",
+   "website": "https://katiscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03079",
+    "03087"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2b229834-a2be-4151-8fed-de19467394ab",
+   "business_id": "66c7123f-dc60-48c2-a023-759ce953107d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3978881f-ea08-45a2-9f92-ea8f952a190e",
+   "business_id": "8c4c86ff-aeb5-4323-9e8d-034d41d90c0e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

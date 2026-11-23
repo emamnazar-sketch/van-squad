@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "9b462475-c69b-4bfd-8c82-bc7f09b79ca7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Hope Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(603) 305-3426",
+   "website": "https://hopecleaningservicenh.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03060"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1ea4598b-2e98-4b08-b431-edee2f45ffc6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lary's Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(603) 820-9028",
+   "website": "http://www.laryscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03060"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e7bc0c65-7fff-4ba0-baaa-c250e59b7e68",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Trusted Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(603) 438-6883",
+   "website": "http://www.trustedcleaningservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03060"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "df9bd4e1-f6a3-49e2-ba01-024026895824",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "EJF Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(603) 943-0015",
+   "website": "http://ejfcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03060"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "13f12cab-00ea-4e48-9f56-fa2b84c57a26",
+   "business_id": "9b462475-c69b-4bfd-8c82-bc7f09b79ca7",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d5387bf4-ce74-4bb1-9275-9847c0359aea",
+   "business_id": "1ea4598b-2e98-4b08-b431-edee2f45ffc6",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d6f28864-a814-4ec9-9879-7a62aa206dd3",
+   "business_id": "e7bc0c65-7fff-4ba0-baaa-c250e59b7e68",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fa02387d-5f47-434c-aa12-0ef7bda52bfd",
+   "business_id": "df9bd4e1-f6a3-49e2-ba01-024026895824",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

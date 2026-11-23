@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "c59ca9e5-a71b-4892-ac8c-ae9fc22c0671",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean Slate Cleaning Co.",
+   "category": "House cleaning",
+   "phone": "(603) 422-3005",
+   "website": "http://www.cleanslatecleaningco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03801"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "6da98beb-73e0-40f7-8a49-83c2fb884dda",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sage Cleaning LLC",
+   "category": "House cleaning",
+   "phone": "(603) 858-5774",
+   "website": "http://www.sagecleaningnh.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03801"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e2972df6-3dd4-4475-996f-c6e7ea316651",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cavani's Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(978) 210-2666",
+   "website": "https://cavaniscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03801"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cc094d8d-67f4-49f9-a7ba-8d79592c7b9c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Coastal Cleaning LTD",
+   "category": "House cleaning",
+   "phone": "(978) 769-3762",
+   "website": "http://coastalcleaningltd.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03801"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "9d51aff4-131d-49ba-b42b-2fa90567ecab",
+   "business_id": "c59ca9e5-a71b-4892-ac8c-ae9fc22c0671",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1a1ec272-ea7b-488f-949e-7a455528be64",
+   "business_id": "6da98beb-73e0-40f7-8a49-83c2fb884dda",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7d1811ab-e313-4de1-abc4-1bc9315fcd94",
+   "business_id": "e2972df6-3dd4-4475-996f-c6e7ea316651",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a9a3ad75-993f-41ff-99cf-f3047f5e3fda",
+   "business_id": "cc094d8d-67f4-49f9-a7ba-8d79592c7b9c",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

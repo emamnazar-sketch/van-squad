@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "a84fa0cd-abf8-4e8b-b28b-8f0713a269db",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home in Hand Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(603) 717-1727",
+      "website": "https://homeinhandcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2565ad82-fa1a-4630-b4bb-6531fef29ad1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "She Rises LLC",
+      "category": "House cleaning",
+      "phone": "(603) 842-2088",
+      "website": "https://www.sherisescleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f4a8fddc-80b6-4840-bd90-5c89b37294d9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paradise Cleanings",
+      "category": "House cleaning",
+      "phone": "(603) 540-6469",
+      "website": "https://paradise-cleanings.ueniweb.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ad6124ab-1383-4fa0-9873-d92e28910bb9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid You Look Residential Cleaning",
+      "category": "House cleaning",
+      "phone": "(603) 757-6647",
+      "website": "https://maidyoulookresidentialcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03301"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3748431b-bcb7-4332-b674-cdc22aa191a7",
+      "business_id": "a84fa0cd-abf8-4e8b-b28b-8f0713a269db",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7e7ed140-3431-4bb2-9461-41ab72dc6f18",
+      "business_id": "2565ad82-fa1a-4630-b4bb-6531fef29ad1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "392c04b0-0d79-43e2-9026-b1870b667c92",
+      "business_id": "f4a8fddc-80b6-4840-bd90-5c89b37294d9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3f189cc4-409f-4c27-96c6-508ade2a4537",
+      "business_id": "ad6124ab-1383-4fa0-9873-d92e28910bb9",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

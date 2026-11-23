@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "68fcbbd5-e1cf-4497-a2ee-9cb508e20d4c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Local Handy People, LLC",
+      "category": "Handyman",
+      "phone": "(603) 584-8030",
+      "website": "http://yourlocalhandypeople.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "834d12bb-6aae-42c8-85a3-173e52ac78aa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Freedom Handyman Services",
+      "category": "Handyman",
+      "phone": "(603) 632-3824",
+      "website": "https://www.freedomhandymannh.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7222c666-980e-4570-ad2e-2b360bdac545",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simple Service Solutions",
+      "category": "Handyman",
+      "phone": "(603) 867-1520",
+      "website": "https://www.simpleservicesolutionsnh.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3aa08c8d-03f0-4a99-8a02-e0e7bcbc75a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "One Call Handyman",
+      "category": "Handyman",
+      "phone": "(603) 361-0493",
+      "website": "https://www.qteal.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "290c9e8d-6ced-4f39-93d2-716fa24083a9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "One Friendly Guy LLC",
+      "category": "Handyman",
+      "phone": "(603) 770-5926",
+      "website": "https://onefriendlyguy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "78a99b22-5be0-4cbc-a24c-6200db78e0f4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Services Timmy Thompson",
+      "category": "Handyman",
+      "phone": "(603) 854-1027",
+      "website": "http://thompsonhandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "03104"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e2be67ed-f025-461d-a78a-d2374d6ba589",
+      "business_id": "68fcbbd5-e1cf-4497-a2ee-9cb508e20d4c",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e324fd82-1efb-44f2-8127-19727874f179",
+      "business_id": "834d12bb-6aae-42c8-85a3-173e52ac78aa",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3264a703-51b1-47bb-aeca-acd7a2211aab",
+      "business_id": "7222c666-980e-4570-ad2e-2b360bdac545",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6927f0fd-f6b8-46f1-adc8-c6b44b6c7e68",
+      "business_id": "3aa08c8d-03f0-4a99-8a02-e0e7bcbc75a3",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fb573b70-8e43-4e44-ae12-be23fa581904",
+      "business_id": "290c9e8d-6ced-4f39-93d2-716fa24083a9",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e51538d1-ed0c-47a3-81d4-0be386bb3e0c",
+      "business_id": "78a99b22-5be0-4cbc-a24c-6200db78e0f4",
+      "title": "Handyman at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

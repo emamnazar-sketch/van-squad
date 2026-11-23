@@ -1,0 +1,232 @@
+{
+ "businesses": [
+  {
+   "id": "3534899b-f307-4551-90aa-3738521f5e9d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Manchester",
+   "category": "House cleaning",
+   "phone": "(603) 713-7753",
+   "website": "https://merrymaids.com/home-cleaners-manchester-nh",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101",
+    "03103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "369e2e16-9305-4696-8705-78fac2e21e3e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "A Beautiful, Clean Home",
+   "category": "House cleaning",
+   "phone": "(978) 364-3501",
+   "website": "http://www.abeautifulcleanhome.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7d575498-4e82-4e7e-9792-1e3456a792bc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dust Bunnies Cleaning",
+   "category": "House cleaning",
+   "phone": "(603) 384-6988",
+   "website": "https://dustbunniesnh.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "26e644fa-b0c2-4592-9486-886d0aadb54e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid For You",
+   "category": "House cleaning",
+   "phone": "(603) 574-4878",
+   "website": "https://maidforyounh.com/house-cleaning-maid-services-manchester-nh/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d7aab7f0-631b-4a95-9502-5531744f00a2",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "MaidPro Derry",
+   "category": "House cleaning",
+   "phone": "(603) 890-9977",
+   "website": "https://www.maidpro.com/manchester/house-cleaning-services-manchester-nh",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4d9654a4-94c0-4d33-ab66-778771284954",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rooslet Cleaning Company",
+   "category": "House cleaning",
+   "phone": "(978) 552-8031",
+   "website": "http://www.roosletcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101",
+    "03104"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cd2d30b6-ad48-4594-9d3e-d7ad08354844",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "J3 Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(603) 803-3304",
+   "website": "https://j3cleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9a26e7a5-a50d-41d2-b0cd-4f6b1cdc3dfd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Bubbles and Brooms Home Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(603) 361-5689",
+   "website": "https://bubblenbroom.com/about-us",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03101"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "e24f2183-be4c-495d-bbd5-20d5f66ad04d",
+   "business_id": "3534899b-f307-4551-90aa-3738521f5e9d",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a020abbb-5737-431a-b4de-e220f0e572ed",
+   "business_id": "369e2e16-9305-4696-8705-78fac2e21e3e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b83a9b10-781a-4c2c-9f83-2836d2fd3907",
+   "business_id": "7d575498-4e82-4e7e-9792-1e3456a792bc",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "22649eb7-ce25-4e35-89ff-be5b95ad508f",
+   "business_id": "26e644fa-b0c2-4592-9486-886d0aadb54e",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "acb4967e-7215-45e8-84a2-8464be6bb203",
+   "business_id": "d7aab7f0-631b-4a95-9502-5531744f00a2",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "702917d1-11c6-481e-9c1e-a36e7450a20d",
+   "business_id": "4d9654a4-94c0-4d33-ab66-778771284954",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "be82d32e-4d2e-41d9-bc65-ea0a66d12f10",
+   "business_id": "cd2d30b6-ad48-4594-9d3e-d7ad08354844",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d447ab6f-d284-4280-a4c6-6e1624548e7d",
+   "business_id": "9a26e7a5-a50d-41d2-b0cd-4f6b1cdc3dfd",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "bdcabeff-7f43-40bb-a754-90551a33b84b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cheri's Clean as a Whistle",
+   "category": "House cleaning",
+   "phone": "(603) 335-5747",
+   "website": "http://clean-nh.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03867"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cbafa425-a016-445f-b502-cdc38f0dc93f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pro Cleaning NE",
+   "category": "House cleaning",
+   "phone": "(603) 973-6995",
+   "website": "http://pcleaningne.org/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03867"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c7429108-94d1-4482-9040-a8df71b44edc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Merry Maids of Exeter",
+   "category": "House cleaning",
+   "phone": "(603) 207-2619",
+   "website": "https://merrymaids.com/home-cleaners-exeter-nh",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "03867"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "1927e845-89df-4f41-9fad-1da2f54e9a48",
+   "business_id": "bdcabeff-7f43-40bb-a754-90551a33b84b",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3b2ae055-9e5a-4738-9de1-1a1c99508c9a",
+   "business_id": "cbafa425-a016-445f-b502-cdc38f0dc93f",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "78c23499-b310-482f-af07-a04932741720",
+   "business_id": "c7429108-94d1-4482-9040-a8df71b44edc",
+   "title": "House cleaning at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
