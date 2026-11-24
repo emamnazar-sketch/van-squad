@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "d07a14a2-b389-47f0-8fec-f3203b945cdd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Portland Cleaning Co",
+      "category": "House cleaning",
+      "phone": "(207) 403-6043",
+      "website": "http://www.portlandcleaningcollective.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04101"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95aff1a0-782a-4c73-a07e-395ca988040c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Clean Maine",
+      "category": "House cleaning",
+      "phone": "(207) 221-6600",
+      "website": "https://www.greencleanmaine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04101"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "95e4ba78-6f2b-4cf2-9089-273dbf305f26",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bee Friends Cleaners",
+      "category": "House cleaning",
+      "phone": "(207) 483-5915",
+      "website": "https://beefriendscleaners.com/portland/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04101"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7aa9fd87-94a9-4477-a5d9-c3b268ae394f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Club Maine",
+      "category": "House cleaning",
+      "phone": "(207) 669-0928",
+      "website": "https://www.cleanclubmaine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04101"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "35665b9e-219e-4820-86e1-bf56546d9937",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maine Cleaning Solutions LLC",
+      "category": "House cleaning",
+      "phone": "(207) 329-1626",
+      "website": "https://mainecleaningsolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04101"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "4e570d22-eb9a-47a5-98c9-e2fd878a5e9d",
+      "business_id": "d07a14a2-b389-47f0-8fec-f3203b945cdd",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ed816f56-0ace-4da7-9568-59a997340927",
+      "business_id": "95aff1a0-782a-4c73-a07e-395ca988040c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6846404b-dafe-442b-a3d5-0b53c5fc2108",
+      "business_id": "95e4ba78-6f2b-4cf2-9089-273dbf305f26",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "69e8d23f-b81b-4f08-b5c6-fe5f134ddb36",
+      "business_id": "7aa9fd87-94a9-4477-a5d9-c3b268ae394f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9bbe8061-9310-4350-836b-61675acbce39",
+      "business_id": "35665b9e-219e-4820-86e1-bf56546d9937",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

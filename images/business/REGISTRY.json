@@ -23040,5 +23040,341 @@
   "image": "images/business/katis-cleaning-service.jpg",
   "scene": "Cleaner wiping down a bright laundry-room counter with folded towels nearby",
   "created": "2026-11-23"
+ },
+ "d07a14a2-b389-47f0-8fec-f3203b945cdd": {
+  "business": "Portland Cleaning Co",
+  "image": "images/business/portland-cleaning-co.jpg",
+  "scene": "Cleaner wiping a bright kitchen counter in a sunlit home, spray bottle in hand",
+  "created": "2026-11-24"
+ },
+ "95aff1a0-782a-4c73-a07e-395ca988040c": {
+  "business": "Green Clean Maine",
+  "image": "images/business/green-clean-maine.jpg",
+  "scene": "Cleaner dusting a living-room bookshelf in bright daylight with a feather duster",
+  "created": "2026-11-24"
+ },
+ "95e4ba78-6f2b-4cf2-9089-273dbf305f26": {
+  "business": "Bee Friends Cleaners",
+  "image": "images/business/bee-friends-cleaners.jpg",
+  "scene": "Cleaner making a bed with white linens in a bright bedroom",
+  "created": "2026-11-24"
+ },
+ "7aa9fd87-94a9-4477-a5d9-c3b268ae394f": {
+  "business": "Clean Club Maine",
+  "image": "images/business/clean-club-maine.jpg",
+  "scene": "Cleaner vacuuming a light rug in an airy living room",
+  "created": "2026-11-24"
+ },
+ "35665b9e-219e-4820-86e1-bf56546d9937": {
+  "business": "Maine Cleaning Solutions LLC",
+  "image": "images/business/maine-cleaning-solutions-llc.jpg",
+  "scene": "Cleaner mopping a bright hardwood hallway in a Maine home",
+  "created": "2026-11-24"
+ },
+ "ea412117-6674-4d2b-858f-be0a6ad63dcc": {
+  "business": "Luxury Detailing Maine",
+  "image": "images/business/luxury-detailing-maine.jpg",
+  "scene": "Detailer vacuuming a sedan interior through the open door in a bright driveway",
+  "created": "2026-11-24"
+ },
+ "ddbe8fbf-36b7-479e-b830-4ed7ef1a8c87": {
+  "business": "Defining Details",
+  "image": "images/business/defining-details.jpg",
+  "scene": "Detailer hand-washing a pickup truck in a sunny driveway, sponge and foam",
+  "created": "2026-11-24"
+ },
+ "6879e201-e666-4a3a-b697-26a2cdab100b": {
+  "business": "Blackcap Handyman",
+  "image": "images/business/blackcap-handyman.jpg",
+  "scene": "Handyman carrying a toolbox up the front steps of a bright white home",
+  "created": "2026-11-24"
+ },
+ "8ea24d81-8155-4bbb-8ea7-2d9301dc51fa": {
+  "business": "Sini's Handyman Services",
+  "image": "images/business/sinis-handyman-services.jpg",
+  "scene": "Handyman kneeling, patching a small drywall spot on a plain wall, putty knife in hand",
+  "created": "2026-11-24"
+ },
+ "12241698-eaa1-407e-ac36-f3b7a3b0d630": {
+  "business": "Help ME Handyman Services",
+  "image": "images/business/help-me-handyman-services.jpg",
+  "scene": "Handyman on a step ladder installing a ceiling light fixture in a bright room",
+  "created": "2026-11-24"
+ },
+ "5f288254-aff7-4eb7-a4ae-51c0817a6eeb": {
+  "business": "DapperTails Mobile Pet Grooming of Southern Maine",
+  "image": "images/business/dappertails-mobile-pet-grooming-of-southern-maine.jpg",
+  "scene": "Groomer trimming a small white dog on a portable table outdoors in bright daylight",
+  "created": "2026-11-24"
+ },
+ "7aacbe64-e644-43f3-add8-79eeb8e1bc05": {
+  "business": "Pixie Willows Mobile Pet Spa",
+  "image": "images/business/pixie-willows-mobile-pet-spa.jpg",
+  "scene": "Groomer bathing a brown Labrador in a portable tub beside an unbranded trailer in a sunny yard",
+  "created": "2026-11-24"
+ },
+ "eded301e-3575-4afd-b1d0-898e8b29d95e": {
+  "business": "CleanME Exteriors",
+  "image": "images/business/cleanme-exteriors.jpg",
+  "scene": "Worker pressure washing a home's light siding from a bright driveway",
+  "created": "2026-11-24"
+ },
+ "94b16f62-1e5b-436e-b1b7-f5ffcfec607d": {
+  "business": "Viking Power Wash",
+  "image": "images/business/viking-power-wash.jpg",
+  "scene": "Worker pressure washing a concrete front walkway in bright sun",
+  "created": "2026-11-24"
+ },
+ "7f57c918-d7d5-46e6-8415-ffd84c2c1cec": {
+  "business": "Pressure Washing Portland Maine",
+  "image": "images/business/pressure-washing-portland-maine.jpg",
+  "scene": "Worker pressure washing a wooden deck behind a house in bright daylight",
+  "created": "2026-11-24"
+ },
+ "aba53f60-960b-4cca-969e-645ce6c65ac1": {
+  "business": "Merit Pools of Portland Inc",
+  "image": "images/business/merit-pools-of-portland-inc.jpg",
+  "scene": "Pool technician skimming leaves from a bright blue backyard pool with a pole net",
+  "created": "2026-11-24"
+ },
+ "748c28b8-4be8-4120-b906-c939d35cf4c2": {
+  "business": "Christman Pool Service",
+  "image": "images/business/christman-pool-service.jpg",
+  "scene": "Pool technician testing pool water with a small kit at the edge of a clear pool",
+  "created": "2026-11-24"
+ },
+ "a38a3315-c934-4678-a5e4-973ab1b19fa9": {
+  "business": "Ledgewater Pools",
+  "image": "images/business/ledgewater-pools.jpg",
+  "scene": "Pool technician vacuuming a backyard pool with a long pole vacuum on a sunny day",
+  "created": "2026-11-24"
+ },
+ "b42779d3-326a-4cf4-b822-6232f3572f57": {
+  "business": "Simply Detailed LLC",
+  "image": "images/business/simply-detailed-llc.jpg",
+  "scene": "Detailer polishing a sedan's hood with a microfiber cloth in a sunny driveway, close medium-wide shot",
+  "created": "2026-11-24"
+ },
+ "93aa1c23-77c0-49cf-9421-b8d96c984744": {
+  "business": "Platinum Paws Mobile Pet Grooming",
+  "image": "images/business/platinum-paws-mobile-pet-grooming.jpg",
+  "scene": "Groomer kneeling on a driveway brushing a golden dog, close medium-wide shot",
+  "created": "2026-11-24"
+ },
+ "581db6ae-edb9-49e5-969c-294f04558249": {
+  "business": "Mowry Brothers Pools",
+  "image": "images/business/mowry-brothers-pools.jpg",
+  "scene": "Pool technician crouching at a pool edge brushing the waterline tiles, foreground shot",
+  "created": "2026-11-24"
+ },
+ "01dcd3dc-99a7-464a-84ad-5df10ac06c7d": {
+  "business": "The Pool Man",
+  "image": "images/business/the-pool-man.jpg",
+  "scene": "Pool technician standing at a pool edge holding a coiled hose, foreground shot",
+  "created": "2026-11-24"
+ },
+ "a2a04ac1-0e5d-4c28-9947-dc89429ce747": {
+  "business": "On Deck Cleaning Co",
+  "image": "images/business/on-deck-cleaning-co.jpg",
+  "scene": "Cleaner spraying and wiping a bright bathroom mirror, spray bottle in hand",
+  "created": "2026-11-24"
+ },
+ "2045b485-8058-4424-b42b-e2b843251aa4": {
+  "business": "Cyr Green Cleaning Service",
+  "image": "images/business/cyr-green-cleaning-service.jpg",
+  "scene": "Cleaner carrying a bucket of cleaning supplies into a bright sunlit entryway",
+  "created": "2026-11-24"
+ },
+ "10dba6d2-4fbc-4dac-8367-74690b6a9713": {
+  "business": "Green Clean Bangor",
+  "image": "images/business/green-clean-bangor.jpg",
+  "scene": "Cleaner polishing a wooden dining table in a bright dining room with a cloth",
+  "created": "2026-11-24"
+ },
+ "d55ae432-460e-45f1-9093-26145ce3be9e": {
+  "business": "Sweep and Slate",
+  "image": "images/business/sweep-and-slate.jpg",
+  "scene": "Cleaner sweeping a bright kitchen floor with a broom",
+  "created": "2026-11-24"
+ },
+ "5e33eea8-ed09-4f81-baf0-a68eb59a4133": {
+  "business": "Bloom In Clean",
+  "image": "images/business/bloom-in-clean.jpg",
+  "scene": "Cleaner arranging fresh white towels on a bed in a bright guest bedroom",
+  "created": "2026-11-24"
+ },
+ "79b0033f-b552-4d95-99e2-94d877df16cf": {
+  "business": "Your Best Nest",
+  "image": "images/business/your-best-nest.jpg",
+  "scene": "Cleaner wiping a bright living-room window from inside with a cloth",
+  "created": "2026-11-24"
+ },
+ "b8f4498d-dd7c-4910-ac31-00c68529b2b2": {
+  "business": "North Star Property Solutions LLC",
+  "image": "images/business/north-star-property-solutions-llc.jpg",
+  "scene": "Handywoman using a screwdriver on an interior door handle in a bright hallway",
+  "created": "2026-11-24"
+ },
+ "5d6eb25d-5bd5-48bb-b547-61e247670482": {
+  "business": "207 Property Maintenance and More",
+  "image": "images/business/207-property-maintenance-and-more.jpg",
+  "scene": "Handyman painting a plain interior wall section with a roller in a bright room",
+  "created": "2026-11-24"
+ },
+ "862a1f64-f65f-4231-9462-7464d9b5b076": {
+  "business": "Hammer-All Home Improvement",
+  "image": "images/business/hammer-all-home-improvement.jpg",
+  "scene": "Handyman measuring a wooden board on a workbench in a bright garage, tape measure in hand",
+  "created": "2026-11-24"
+ },
+ "168f99cc-12d1-460b-b157-d360c626d382": {
+  "business": "TVI Blessing Cleaning Services",
+  "image": "images/business/tvi-blessing-cleaning-services.jpg",
+  "scene": "Cleaner dusting a bright staircase handrail with a duster",
+  "created": "2026-11-24"
+ },
+ "068ffc28-3d9f-4923-84b6-4e0e0d15c2e1": {
+  "business": "Nolan Ansel Cleaning Services, LLC",
+  "image": "images/business/nolan-ansel-cleaning-services-llc.jpg",
+  "scene": "Cleaner vacuuming carpeted stairs in a bright home",
+  "created": "2026-11-24"
+ },
+ "2a66266e-db90-467c-86c3-1d16e5d25e8e": {
+  "business": "Collaborative Cleaners of Maine",
+  "image": "images/business/collaborative-cleaners-of-maine.jpg",
+  "scene": "Cleaner wiping bright kitchen cabinet fronts with a cloth",
+  "created": "2026-11-24"
+ },
+ "7e3de37d-3a74-4b4d-a90e-0f7a783a2bb4": {
+  "business": "Reflections Auto Care",
+  "image": "images/business/reflections-auto-care.jpg",
+  "scene": "Detailer buffing a car's side panel with a soft cloth in a sunny driveway",
+  "created": "2026-11-24"
+ },
+ "0e3466da-df90-4ebe-946c-5d181accb3a7": {
+  "business": "In and Out Mobile Detailing and Car Wash",
+  "image": "images/business/in-and-out-mobile-detailing-and-car-wash.jpg",
+  "scene": "Detailer shampooing a car's front seat through the open door in bright daylight",
+  "created": "2026-11-24"
+ },
+ "c54d5e8d-dae3-4e05-ba14-d6a3acafdbea": {
+  "business": "Dirigo Handyman Services",
+  "image": "images/business/dirigo-handyman-services.jpg",
+  "scene": "Handyman fixing a kitchen faucet in a bright kitchen with a wrench",
+  "created": "2026-11-24"
+ },
+ "f7368330-0fcb-4079-937b-c83cc5aef36e": {
+  "business": "Ron Husser Residential Services",
+  "image": "images/business/ron-husser-residential-services.jpg",
+  "scene": "Handyman leveling a framed picture on a plain wall in a bright room",
+  "created": "2026-11-24"
+ },
+ "12836529-eb6f-4f91-8f80-240b56e85777": {
+  "business": "Jeremy's Handyman Services",
+  "image": "images/business/jeremys-handyman-services.jpg",
+  "scene": "Handyman kneeling beside a small wooden shelf in a bright room, screwdriver at the joint",
+  "created": "2026-11-24"
+ },
+ "74b5b223-463d-418d-bf44-479568f99de6": {
+  "business": "Coastline Cleaning",
+  "image": "images/business/coastline-cleaning.jpg",
+  "scene": "Cleaner wiping a bright seaside-home kitchen counter, spray bottle beside her",
+  "created": "2026-11-24"
+ },
+ "2940e196-49b0-405c-9033-b038666def19": {
+  "business": "Maine State Cleaning",
+  "image": "images/business/maine-state-cleaning.jpg",
+  "scene": "Cleaner mopping a bright tiled bathroom floor",
+  "created": "2026-11-24"
+ },
+ "3918515c-c713-4324-ae57-39adb19f61b1": {
+  "business": "High Standard Cleaning",
+  "image": "images/business/high-standard-cleaning.jpg",
+  "scene": "Cleaner smoothing crisp white linens on a bed in a bright airy bedroom",
+  "created": "2026-11-24"
+ },
+ "8fcb8676-74b0-4e59-b2c9-5cd019545c5a": {
+  "business": "Odeleye's Mobile Detailing",
+  "image": "images/business/odeleyes-mobile-detailing.jpg",
+  "scene": "Detailer wiping a car's windshield with a cloth in a sunny driveway",
+  "created": "2026-11-24"
+ },
+ "2cb27bb2-e450-49ff-9564-36bb6537541d": {
+  "business": "360 House Cleaning",
+  "image": "images/business/360-house-cleaning.jpg",
+  "scene": "Cleaner wiping a bright kitchen stovetop with a cloth",
+  "created": "2026-11-24"
+ },
+ "17c9a7c2-32f7-4267-850a-89c19356b488": {
+  "business": "Polish + Brine",
+  "image": "images/business/polish-brine.jpg",
+  "scene": "Cleaner polishing a bright wooden sideboard in a sunlit dining room with a cloth",
+  "created": "2026-11-24"
+ },
+ "9c4404c9-a11f-4afb-be63-2f1e72567546": {
+  "business": "CL Cleaning Services LLC",
+  "image": "images/business/cl-cleaning-services-llc.jpg",
+  "scene": "Cleaner carrying a caddy of supplies up the bright front steps of a home",
+  "created": "2026-11-24"
+ },
+ "f540cf42-389c-4e2a-9cb4-74b3874f493f": {
+  "business": "Clean Craft Services",
+  "image": "images/business/clean-craft-services.jpg",
+  "scene": "Cleaner dusting bright living-room shelves with a feather duster",
+  "created": "2026-11-24"
+ },
+ "8f36a988-8191-4b86-a652-4b12d1c9c31c": {
+  "business": "Best Cleaners LLC",
+  "image": "images/business/best-cleaners-llc.jpg",
+  "scene": "Cleaner vacuuming a bright bedroom carpet",
+  "created": "2026-11-24"
+ },
+ "b8e168f1-84ca-4366-a9d2-e2d0612ba761": {
+  "business": "Maide For You",
+  "image": "images/business/maide-for-you.jpg",
+  "scene": "Cleaner wiping a bright bathroom counter beside the sink with a cloth",
+  "created": "2026-11-24"
+ },
+ "18c026a7-1a5d-4be3-a379-823fa3ff4394": {
+  "business": "Kateryna's Cleaning Solutions LLC",
+  "image": "images/business/katerynas-cleaning-solutions-llc.jpg",
+  "scene": "Cleaner spraying and wiping a bright kitchen window from inside",
+  "created": "2026-11-24"
+ },
+ "92e1bcf9-2cf2-4349-8c07-f7e1e422107b": {
+  "business": "D&D Properties & Services, LLC",
+  "image": "images/business/dd-properties-services-llc.jpg",
+  "scene": "Handyman kneeling on a stair step tightening a wooden handrail bracket with a screwdriver",
+  "created": "2026-11-24"
+ },
+ "1fa14218-7eff-4d32-8522-0cefc4b99ea8": {
+  "business": "Reliable Handyman Services of Maine",
+  "image": "images/business/reliable-handyman-services-of-maine.jpg",
+  "scene": "Handywoman holding a whole window screen frame on a bright porch",
+  "created": "2026-11-24"
+ },
+ "13c5214e-fdac-4717-8fd3-e745c9813203": {
+  "business": "Roy's Carpentry & Property Maintenance",
+  "image": "images/business/roys-carpentry-property-maintenance.jpg",
+  "scene": "Carpenter sanding a wooden deck railing in bright sun with a sanding block",
+  "created": "2026-11-24"
+ },
+ "b9c160c6-ef01-4feb-9391-0a3bffc90e21": {
+  "business": "All Pro Services Of Maine",
+  "image": "images/business/all-pro-services-of-maine.jpg",
+  "scene": "Handyman painting a bedroom wall corner with a brush in a bright room",
+  "created": "2026-11-24"
+ },
+ "4f4f94d3-8839-4e1d-9efe-815126abdb86": {
+  "business": "Danielle's Dusters",
+  "image": "images/business/danielles-dusters.jpg",
+  "scene": "Cleaner dusting a bright white fireplace mantel with a feather duster",
+  "created": "2026-11-24"
+ },
+ "95edeef5-828d-4383-a5ca-3c6186943582": {
+  "business": "Marina Cleaning Services, Inc",
+  "image": "images/business/marina-cleaning-services-inc.jpg",
+  "scene": "Cleaner wiping a bright coastal-home dining table with a cloth, sea light through windows",
+  "created": "2026-11-24"
  }
 }

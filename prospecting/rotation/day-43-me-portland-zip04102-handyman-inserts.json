@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "id": "6879e201-e666-4a3a-b697-26a2cdab100b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Blackcap Handyman",
+      "category": "Handyman",
+      "phone": "(207) 619-4688",
+      "website": "https://www.blackcaphandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ea24d81-8155-4bbb-8ea7-2d9301dc51fa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sini's Handyman Services",
+      "category": "Handyman",
+      "phone": "(207) 838-0134",
+      "website": "http://www.sinihandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "12241698-eaa1-407e-ac36-f3b7a3b0d630",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Help ME Handyman Services",
+      "category": "Handyman",
+      "phone": "(207) 888-4594",
+      "website": "https://helpmehandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04102",
+        "04101"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "01d9147d-9f84-467a-84a1-4571c54cf1a8",
+      "business_id": "6879e201-e666-4a3a-b697-26a2cdab100b",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "da0f0f55-92b8-4af0-bc6a-7c7138cc98b2",
+      "business_id": "8ea24d81-8155-4bbb-8ea7-2d9301dc51fa",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3fe756e3-7333-4761-a9a2-4ab8f94c8d99",
+      "business_id": "12241698-eaa1-407e-ac36-f3b7a3b0d630",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "168f99cc-12d1-460b-b157-d360c626d382",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "TVI Blessing Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(207) 481-0401",
+      "website": "https://www.tviblessingcleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "068ffc28-3d9f-4923-84b6-4e0e0d15c2e1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nolan Ansel Cleaning Services, LLC",
+      "category": "House cleaning",
+      "phone": "(207) 508-2858",
+      "website": "http://www.nolananselcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04240"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2a66266e-db90-467c-86c3-1d16e5d25e8e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Collaborative Cleaners of Maine",
+      "category": "House cleaning",
+      "phone": "(207) 713-1550",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04210"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "1c738d84-91ce-4b4a-ac38-8f624c2f5da7",
+      "business_id": "168f99cc-12d1-460b-b157-d360c626d382",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0a1f8bd5-f516-4059-bd01-043d21920dbd",
+      "business_id": "068ffc28-3d9f-4923-84b6-4e0e0d15c2e1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9fb4a2b3-21b4-457e-91d3-2e5515527d01",
+      "business_id": "2a66266e-db90-467c-86c3-1d16e5d25e8e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "b8f4498d-dd7c-4910-ac31-00c68529b2b2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "North Star Property Solutions LLC",
+      "category": "Handyman",
+      "phone": "(207) 745-5304",
+      "website": "https://nsps.services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5d6eb25d-5bd5-48bb-b547-61e247670482",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "207 Property Maintenance and More",
+      "category": "Handyman",
+      "phone": "(207) 956-0247",
+      "website": "https://207pm.jobbersites.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "862a1f64-f65f-4231-9462-7464d9b5b076",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Hammer-All Home Improvement",
+      "category": "Handyman",
+      "phone": "(207) 745-7500",
+      "website": "https://www.hammer-all.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "3213526c-a801-4c5c-b758-5f191bdfdb37",
+      "business_id": "b8f4498d-dd7c-4910-ac31-00c68529b2b2",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7c051368-3778-4e9a-a63d-c297075165da",
+      "business_id": "5d6eb25d-5bd5-48bb-b547-61e247670482",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5dff10d6-c798-479a-8890-0abdfc77d047",
+      "business_id": "862a1f64-f65f-4231-9462-7464d9b5b076",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

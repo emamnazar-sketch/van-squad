@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "2cb27bb2-e450-49ff-9564-36bb6537541d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "360 House Cleaning",
+      "category": "House cleaning",
+      "phone": "(207) 274-8337",
+      "website": "https://www.360housecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04106"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "17c9a7c2-32f7-4267-850a-89c19356b488",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Polish + Brine",
+      "category": "House cleaning",
+      "phone": "(207) 358-8987",
+      "website": "https://www.polishandbrine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04106"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "9c4404c9-a11f-4afb-be63-2f1e72567546",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CL Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(207) 518-0863",
+      "website": "https://clcleaningservicesllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04106"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c8312b78-b521-4409-a9f9-4e374ce610e9",
+      "business_id": "2cb27bb2-e450-49ff-9564-36bb6537541d",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6becedba-137d-4e48-86ad-77f0447e67e9",
+      "business_id": "17c9a7c2-32f7-4267-850a-89c19356b488",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6340a70e-cdf3-4ea9-9c00-9755dca0a7d6",
+      "business_id": "9c4404c9-a11f-4afb-be63-2f1e72567546",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

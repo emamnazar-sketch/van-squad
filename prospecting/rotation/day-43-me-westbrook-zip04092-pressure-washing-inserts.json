@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "eded301e-3575-4afd-b1d0-898e8b29d95e",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "CleanME Exteriors",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(207) 209-3799",
+      "phone_verified": false,
+      "service_zips": [
+        "04092"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://cleanmeexteriors.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "94b16f62-1e5b-436e-b1b7-f5ffcfec607d",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Viking Power Wash",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(207) 615-3161",
+      "phone_verified": false,
+      "service_zips": [
+        "04102"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://vikingpowerwash.com/"
+    },
+    {
+      "category": "Pressure washing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "7f57c918-d7d5-46e6-8415-ffd84c2c1cec",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Pressure Washing Portland Maine",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(207) 393-2121",
+      "phone_verified": false,
+      "service_zips": [
+        "04102"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://pressurewashingportlandmaine.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "eded301e-3575-4afd-b1d0-898e8b29d95e",
+      "id": "f61697d0-8327-4e49-8281-2288d8d55024",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "94b16f62-1e5b-436e-b1b7-f5ffcfec607d",
+      "id": "eca144b8-fdac-4817-a6c3-59581c0f13af",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    },
+    {
+      "business_id": "7f57c918-d7d5-46e6-8415-ffd84c2c1cec",
+      "id": "adc18ab6-d06b-4c80-89a6-f03f2047ad18",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Pressure washing at your location"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "businesses": [
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "7e3de37d-3a74-4b4d-a90e-0f7a783a2bb4",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "Reflections Auto Care",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(207) 576-5389",
+      "phone_verified": false,
+      "service_zips": [
+        "04210"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.reflectionsautocare.com/"
+    },
+    {
+      "category": "Mobile auto detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "email_verified": false,
+      "id": "0e3466da-df90-4ebe-946c-5d181accb3a7",
+      "is_sample": false,
+      "logo_url": "",
+      "name": "In and Out Mobile Detailing and Car Wash",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "phone": "(207) 481-0243",
+      "phone_verified": false,
+      "service_zips": [
+        "04210",
+        "04240"
+      ],
+      "status": "active",
+      "travel_fee": 0,
+      "travel_radius_miles": 25,
+      "verified": false,
+      "website": "https://www.in-outdetailing.com/"
+    }
+  ],
+  "listings": [
+    {
+      "business_id": "7e3de37d-3a74-4b4d-a90e-0f7a783a2bb4",
+      "id": "c9d70550-c086-4b5d-906c-b89d8991e51f",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    },
+    {
+      "business_id": "0e3466da-df90-4ebe-946c-5d181accb3a7",
+      "id": "2fe20e17-fc59-453a-be4b-443589eb5394",
+      "is_sample": false,
+      "price_type": "quote",
+      "status": "active",
+      "title": "Mobile auto detailing at your location"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "businesses": [
+    {
+      "id": "c54d5e8d-dae3-4e05-ba14-d6a3acafdbea",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Dirigo Handyman Services",
+      "category": "Handyman",
+      "phone": "(207) 423-5224",
+      "website": "https://www.dirigohandymanservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04005",
+        "04072"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f7368330-0fcb-4079-937b-c83cc5aef36e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ron Husser Residential Services",
+      "category": "Handyman",
+      "phone": "(207) 710-3591",
+      "website": "https://ronnyhusser.wixsite.com/website",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04005",
+        "04072"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "12836529-eb6f-4f91-8f80-240b56e85777",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jeremy's Handyman Services",
+      "category": "Handyman",
+      "phone": "(207) 815-6334",
+      "website": "https://iladder49i.wixsite.com/jeremys-handyman-ser",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04005",
+        "04072"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f853b410-3782-4d8c-aaa6-6f4c807e7810",
+      "business_id": "c54d5e8d-dae3-4e05-ba14-d6a3acafdbea",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f05fe1e-6744-4364-844f-a9c6924bafa1",
+      "business_id": "f7368330-0fcb-4079-937b-c83cc5aef36e",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a806e790-3606-4871-9872-02aaf6da1539",
+      "business_id": "12836529-eb6f-4f91-8f80-240b56e85777",
+      "title": "Handyman services at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

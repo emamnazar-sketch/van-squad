@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "aba53f60-960b-4cca-969e-645ce6c65ac1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Merit Pools of Portland Inc",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(207) 883-5558",
+      "website": "http://www.poolsbymerit.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04074"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "748c28b8-4be8-4120-b906-c939d35cf4c2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Christman Pool Service",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(207) 797-0366",
+      "website": "http://christmanpool.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a38a3315-c934-4678-a5e4-973ab1b19fa9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ledgewater Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(207) 797-7752",
+      "website": "http://ledgewaterpools.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04105"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "581db6ae-edb9-49e5-969c-294f04558249",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mowry Brothers Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(207) 651-3157",
+      "website": "https://mowrybrothers.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04093"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "01dcd3dc-99a7-464a-84ad-5df10ac06c7d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Pool Man",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(207) 590-9566",
+      "website": "http://www.donthepoolman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04005"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6d25af2d-ba27-4fb2-ad73-528d63028b94",
+      "business_id": "aba53f60-960b-4cca-969e-645ce6c65ac1",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b6a7c6c-de52-4204-a99e-e68da43cf98a",
+      "business_id": "748c28b8-4be8-4120-b906-c939d35cf4c2",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "55d0cb8b-2d37-4977-b005-2d7c433fb930",
+      "business_id": "a38a3315-c934-4678-a5e4-973ab1b19fa9",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b94dddca-3c40-4fc5-aae5-0946479de2fd",
+      "business_id": "581db6ae-edb9-49e5-969c-294f04558249",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "51bc3e19-cdf1-43da-b8d2-1bc32061bb49",
+      "business_id": "01dcd3dc-99a7-464a-84ad-5df10ac06c7d",
+      "title": "Pool cleaning & maintenance at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "id": "74b5b223-463d-418d-bf44-479568f99de6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Coastline Cleaning",
+      "category": "House cleaning",
+      "phone": "(207) 200-7303",
+      "website": "http://www.coastlineme.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2940e196-49b0-405c-9033-b038666def19",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maine State Cleaning",
+      "category": "House cleaning",
+      "phone": "(207) 886-4411",
+      "website": "https://www.mainestatecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3918515c-c713-4324-ae57-39adb19f61b1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "High Standard Cleaning",
+      "category": "House cleaning",
+      "phone": "(207) 650-3486",
+      "website": "http://www.highstandardinc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04011",
+        "04032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "04d13103-7e37-416e-90b3-062538076c8d",
+      "business_id": "74b5b223-463d-418d-bf44-479568f99de6",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "dfbe5b03-ddcd-405d-9c6d-5d22e1547e0d",
+      "business_id": "2940e196-49b0-405c-9033-b038666def19",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "539be2b4-2ad0-4bac-b62f-ebfa10b7beb7",
+      "business_id": "3918515c-c713-4324-ae57-39adb19f61b1",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

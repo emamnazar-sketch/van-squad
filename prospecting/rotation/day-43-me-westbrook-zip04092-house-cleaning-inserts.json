@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "f540cf42-389c-4e2a-9cb4-74b3874f493f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Clean Craft Services",
+      "category": "House cleaning",
+      "phone": "(207) 752-2481",
+      "website": "https://cleancraft.services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04092"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8f36a988-8191-4b86-a652-4b12d1c9c31c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Best Cleaners LLC",
+      "category": "House cleaning",
+      "phone": "(207) 437-5659",
+      "website": "https://www.besthomeofficecleanersinmaine.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04092"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b8e168f1-84ca-4366-a9d2-e2d0612ba761",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maide For You",
+      "category": "House cleaning",
+      "phone": "(207) 653-1837",
+      "website": "http://www.maideforyou.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "18c026a7-1a5d-4be3-a379-823fa3ff4394",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kateryna's Cleaning Solutions LLC",
+      "category": "House cleaning",
+      "phone": "(207) 603-6367",
+      "website": "https://pluscleaningsolutions.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04038"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c76f3d4e-f284-4dea-9c9c-544629588545",
+      "business_id": "f540cf42-389c-4e2a-9cb4-74b3874f493f",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "436e99ca-7787-4ca8-9771-a76d75441646",
+      "business_id": "8f36a988-8191-4b86-a652-4b12d1c9c31c",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6f343bf7-3fc4-4c43-ad9d-482f12124190",
+      "business_id": "b8e168f1-84ca-4366-a9d2-e2d0612ba761",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "308ee057-55c6-48aa-aba9-da888fe7b5ed",
+      "business_id": "18c026a7-1a5d-4be3-a379-823fa3ff4394",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

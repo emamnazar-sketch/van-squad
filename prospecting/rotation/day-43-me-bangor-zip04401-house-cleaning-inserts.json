@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "a2a04ac1-0e5d-4c28-9947-dc89429ce747",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "On Deck Cleaning Co",
+      "category": "House cleaning",
+      "phone": "(207) 401-0149",
+      "website": "http://www.ondeckcleaningco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "2045b485-8058-4424-b42b-e2b843251aa4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cyr Green Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(207) 356-2259",
+      "website": "https://cyrgreencleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "10dba6d2-4fbc-4dac-8367-74690b6a9713",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Clean Bangor",
+      "category": "House cleaning",
+      "phone": "(207) 974-7849",
+      "website": "https://www.greencleanbangor.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d55ae432-460e-45f1-9093-26145ce3be9e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sweep and Slate",
+      "category": "House cleaning",
+      "phone": "(207) 356-4416",
+      "website": "http://www.sweepandslate.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5e33eea8-ed09-4f81-baf0-a68eb59a4133",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bloom In Clean",
+      "category": "House cleaning",
+      "phone": "(207) 659-2869",
+      "website": "https://bloominclean.com/test/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "79b0033f-b552-4d95-99e2-94d877df16cf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Your Best Nest",
+      "category": "House cleaning",
+      "phone": "(207) 735-6843",
+      "website": "https://clienthub.getjobber.com/booking/3f57fc1f-257c-4bad-9324-0c92bd4ba78c",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04401"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "173330fa-fd9b-4a73-854f-4bf1fe2d718f",
+      "business_id": "a2a04ac1-0e5d-4c28-9947-dc89429ce747",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c1c3e883-e134-4aa5-80e9-c0bad9274c32",
+      "business_id": "2045b485-8058-4424-b42b-e2b843251aa4",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "127bd742-c103-4ba1-9aa7-2a292b88b4cf",
+      "business_id": "10dba6d2-4fbc-4dac-8367-74690b6a9713",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e95b87de-a5d6-44c6-ad61-96b1ef2e0840",
+      "business_id": "d55ae432-460e-45f1-9093-26145ce3be9e",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bf57fdee-9dc5-40d0-bcd9-9ee40901205d",
+      "business_id": "5e33eea8-ed09-4f81-baf0-a68eb59a4133",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2ca6be36-47b0-4f2b-af1d-081498b5686f",
+      "business_id": "79b0033f-b552-4d95-99e2-94d877df16cf",
+      "title": "House cleaning at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

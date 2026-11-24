@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "b42779d3-326a-4cf4-b822-6232f3572f57",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Simply Detailed LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(207) 317-6975",
+      "website": "https://simplydetailed.co.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ea412117-6674-4d2b-858f-be0a6ad63dcc",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Luxury Detailing Maine",
+      "category": "Mobile auto detailing",
+      "phone": "(207) 807-6770",
+      "website": "https://luxurydetailing.me/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ddbe8fbf-36b7-479e-b830-4ed7ef1a8c87",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Defining Details",
+      "category": "Mobile auto detailing",
+      "phone": "(207) 415-0995",
+      "website": "https://www.defining-details.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "04103"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "0e88d82c-a905-492a-b466-1115312f37ae",
+      "business_id": "b42779d3-326a-4cf4-b822-6232f3572f57",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4287f78d-a1ed-45a7-a6fa-52a71fe3d8d9",
+      "business_id": "ea412117-6674-4d2b-858f-be0a6ad63dcc",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7175d0dc-f969-435e-8799-e72a9a7a2ad6",
+      "business_id": "ddbe8fbf-36b7-479e-b830-4ed7ef1a8c87",
+      "title": "Mobile auto detailing at your location",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
