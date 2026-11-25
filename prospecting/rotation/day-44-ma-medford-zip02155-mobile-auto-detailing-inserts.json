@@ -1,0 +1,119 @@
+{
+ "businesses": [
+  {
+   "id": "d591fc1c-3a75-4dbb-938a-b5ebcaa0b290",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Lucky Car Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(774) 563-3777",
+   "website": "https://detailinglucky.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02155",
+    "02472"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "87c24c30-c195-427d-99fe-b583db75a9bd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "UFO Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(781) 226-4197",
+   "website": "https://www.ufodetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02155"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9e5deda0-e1e5-4f3f-afc8-bc321cc1df2d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pure Gleam Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(617) 959-5222",
+   "website": "https://www.puregleamdetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02155"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b40a596c-b93c-4ceb-b611-0bcf21914c5a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rinse & Shine Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(781) 850-5557",
+   "website": "https://rinseandshinemobieldetailing.glossgenius.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02155"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "fe62c6bd-fbf2-49ae-ad49-267180475d42",
+   "business_id": "d591fc1c-3a75-4dbb-938a-b5ebcaa0b290",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3de9c303-5fa4-4676-9923-a6e2314b11c8",
+   "business_id": "87c24c30-c195-427d-99fe-b583db75a9bd",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4507f2cb-9620-4583-9bbd-addf6bce01e7",
+   "business_id": "9e5deda0-e1e5-4f3f-afc8-bc321cc1df2d",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f0d63a62-5687-4be5-a64a-266bb57aa8a6",
+   "business_id": "b40a596c-b93c-4ceb-b611-0bcf21914c5a",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

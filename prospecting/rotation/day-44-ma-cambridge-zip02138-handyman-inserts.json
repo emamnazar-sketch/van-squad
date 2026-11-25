@@ -1,0 +1,123 @@
+{
+ "businesses": [
+  {
+   "id": "033854fe-9db7-4a93-b0e5-4464b680c96c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Marc The Handyman",
+   "category": "Handyman",
+   "phone": "(617) 605-8581",
+   "website": "http://hedgesmarc.wixsite.com/handyman",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02138"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "10fa0e32-f1a4-4e5a-ab9c-8d5c7f9770fb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Hands on Duty",
+   "category": "Handyman",
+   "phone": "(617) 903-2411",
+   "website": "https://handsonduty.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02138",
+    "02139",
+    "02140",
+    "02141",
+    "02142"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2c6c16d1-e6db-4708-9312-4875c6de5466",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pann Home Services and Remodeling",
+   "category": "Handyman",
+   "phone": "(617) 864-2625",
+   "website": "https://www.pannhomeservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02138",
+    "02139"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "91b4ece2-438a-4742-9eb3-2f8e9bfc619c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mr Home Guy",
+   "category": "Handyman",
+   "phone": "(617) 606-3668",
+   "website": "http://www.mrhomeguy.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02138"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "980334d9-0341-4084-aa8a-51c2d0c7450d",
+   "business_id": "033854fe-9db7-4a93-b0e5-4464b680c96c",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c04670fd-49f6-415b-a53c-22f0c27a6f1e",
+   "business_id": "10fa0e32-f1a4-4e5a-ab9c-8d5c7f9770fb",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "17fc63bc-44d9-4936-85ff-d36675b27c36",
+   "business_id": "2c6c16d1-e6db-4708-9312-4875c6de5466",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "05f3b754-584b-4a94-a070-33d4a2040bdd",
+   "business_id": "91b4ece2-438a-4742-9eb3-2f8e9bfc619c",
+   "title": "Handyman services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "businesses": [
+  {
+   "id": "e5918969-2e2f-4898-a601-1293bcf8f5ed",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clarita's Cleaning",
+   "category": "House cleaning",
+   "phone": "(857) 707-9558",
+   "website": "https://www.claritascleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02451"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "01db0997-b18f-4224-9546-a7737d5ec349",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boston Flawless Homes",
+   "category": "House cleaning",
+   "phone": "(617) 991-4000",
+   "website": "http://www.bostonflawlesshomes.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02451"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "19176fdb-e0aa-4610-ab02-322609ff054d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Self Maid Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(857) 340-8713",
+   "website": "https://www.selfmaidcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02451",
+    "02452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "63d21fd6-2500-4a8e-8e3f-60dea557e363",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wash'em Clean",
+   "category": "House cleaning",
+   "phone": "(617) 874-0667",
+   "website": "https://washem-clean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02451",
+    "02452"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "75ecd9a4-a466-4feb-bfff-2f7a32bd6030",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Freshlar Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(857) 261-2937",
+   "website": "https://www.freshlarcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02451"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2583f5d0-daef-43eb-b293-23209d858a31",
+   "business_id": "e5918969-2e2f-4898-a601-1293bcf8f5ed",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7708fe51-76f5-41c7-831a-3f7c7b91c779",
+   "business_id": "01db0997-b18f-4224-9546-a7737d5ec349",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "31b66e40-76cf-4519-b779-bb87c76f529d",
+   "business_id": "19176fdb-e0aa-4610-ab02-322609ff054d",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7e4adc04-8131-472f-b463-47f262df8592",
+   "business_id": "63d21fd6-2500-4a8e-8e3f-60dea557e363",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c28e7495-9f56-414f-9fe4-dc83169ab5e6",
+   "business_id": "75ecd9a4-a466-4feb-bfff-2f7a32bd6030",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

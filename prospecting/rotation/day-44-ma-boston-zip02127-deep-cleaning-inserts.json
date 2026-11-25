@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "4cc0bf19-466f-449b-a96e-491825398ccf",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Onix Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(617) 766-1835",
+   "website": "https://www.onixcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "58044760-0847-4002-96c8-0b6745855baa",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Shine On Boston",
+   "category": "Deep cleaning",
+   "phone": "(617) 980-4500",
+   "website": "http://shineonboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8302920c-e083-42b4-a0b8-f86186734707",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Crystal Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(857) 294-8580",
+   "website": "https://crystalcleaningma.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "04ecd47d-2d8b-47dd-b876-c7710c0377eb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Supreme Home Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(781) 475-2206",
+   "website": "https://supremecleaningboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b4e2e4a3-fd3b-4730-a4d2-4bc5d0113d7f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Evenspire Cleaning Solutions",
+   "category": "Deep cleaning",
+   "phone": "(617) 996-1749",
+   "website": "https://evenspire-cleaning-solutions.ueniweb.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f60e64a2-96d5-4012-bb02-e286f1812984",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Victor's Cleaning Solutions Inc",
+   "category": "Deep cleaning",
+   "phone": "(617) 319-4396",
+   "website": "http://victorscleaningsolutionsinc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02127"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "f7d165b6-0ff0-4721-95a3-71cf4a77ba80",
+   "business_id": "4cc0bf19-466f-449b-a96e-491825398ccf",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "238c6a1b-1f13-455e-b5b4-6663c2c43a18",
+   "business_id": "58044760-0847-4002-96c8-0b6745855baa",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f2e973c2-fb6f-4fdf-a691-dc73af6f0552",
+   "business_id": "8302920c-e083-42b4-a0b8-f86186734707",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ba549ce5-a5da-4c19-8a41-a9e1e4aec476",
+   "business_id": "04ecd47d-2d8b-47dd-b876-c7710c0377eb",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f5ea19da-a8f1-4da6-bbc9-80cbaec25e62",
+   "business_id": "b4e2e4a3-fd3b-4730-a4d2-4bc5d0113d7f",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e28949c3-fabb-4688-9e2a-109e040f102b",
+   "business_id": "f60e64a2-96d5-4012-bb02-e286f1812984",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

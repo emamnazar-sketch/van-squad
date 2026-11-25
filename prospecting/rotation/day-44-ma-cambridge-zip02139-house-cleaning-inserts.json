@@ -1,0 +1,96 @@
+{
+ "businesses": [
+  {
+   "id": "e67f4b78-cfd9-4ec2-a90c-2b9163060e90",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "BraBos Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(617) 380-4281",
+   "website": "https://braboscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02139",
+    "02138",
+    "02140",
+    "02141",
+    "02142"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "89645e41-df52-4a82-8977-dfe5598f6552",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cambridge Clean Co",
+   "category": "House cleaning",
+   "phone": "(617) 201-1302",
+   "website": "https://cambridgecleanco.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02139",
+    "02138"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4cbc1eaf-e04c-449e-9d42-11b70b23a458",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleanadora",
+   "category": "House cleaning",
+   "phone": "(857) 229-0422",
+   "website": "https://cleanadora.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02139",
+    "02138"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "9c5e84fd-dcc5-4734-924d-1ab171f9ec66",
+   "business_id": "e67f4b78-cfd9-4ec2-a90c-2b9163060e90",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1be786e4-89de-4fc7-90f3-8e60e66095d5",
+   "business_id": "89645e41-df52-4a82-8977-dfe5598f6552",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0b1f5caf-c8d4-48ce-9ad7-fd7b73a3f5f0",
+   "business_id": "4cbc1eaf-e04c-449e-9d42-11b70b23a458",
+   "title": "House cleaning services at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

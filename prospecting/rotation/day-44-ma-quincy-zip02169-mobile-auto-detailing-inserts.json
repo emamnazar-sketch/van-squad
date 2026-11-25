@@ -1,0 +1,91 @@
+{
+ "businesses": [
+  {
+   "id": "777b1526-e59e-470c-8fea-bbd6b3477a60",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Proshine Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(857) 423-9428",
+   "website": "https://www.proshinemobiledetailing.net/book-online",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02169",
+    "02171"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2d4c012f-818d-4171-8c09-42d6ea68dbd1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Massachusetts Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(617) 758-8148",
+   "website": "https://massachusettsmobiledetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02169"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "77fb510e-148d-4925-8c55-3023797c9130",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Detail Delivery",
+   "category": "Mobile auto detailing",
+   "phone": "(781) 474-2585",
+   "website": "https://detaildelivery.com/mobile-car-detailing-services",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02169"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "2e839ad0-d3c0-42ea-960c-58ff91504789",
+   "business_id": "777b1526-e59e-470c-8fea-bbd6b3477a60",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8007a82f-c05d-43f2-8bf0-ff08ffa17f48",
+   "business_id": "2d4c012f-818d-4171-8c09-42d6ea68dbd1",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e566b0a4-021f-4ad1-9304-c01583b32b21",
+   "business_id": "77fb510e-148d-4925-8c55-3023797c9130",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

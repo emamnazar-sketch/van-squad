@@ -1,0 +1,178 @@
+{
+ "businesses": [
+  {
+   "id": "0325686d-8e9d-4c4e-a9ce-339c6363de46",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pressure Wash Boston, Inc.",
+   "category": "Pressure washing",
+   "phone": "(617) 659-8826",
+   "website": "http://pressurewashboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02130",
+    "02465"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7674a232-fb60-4341-bbb6-ba2abde0c206",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Windows Cleaning Expert",
+   "category": "Pressure washing",
+   "phone": "(781) 228-0963",
+   "website": "https://windowscleaningexpert.com/in/jamaica-plain-02130/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02130"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "25c43c73-3027-4126-a65f-db1c6be0fce7",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Kyle Dejoie-Wilson",
+   "category": "Pressure washing",
+   "phone": "(617) 308-7269",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02130",
+    "02122"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "47e6f9fc-c50b-44ad-833b-c64365bb0dd6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ultra Wash USA",
+   "category": "Pressure washing",
+   "phone": "(617) 512-8338",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02130"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fa9615c5-f8f5-4d4d-8a7f-ad9aa7e51794",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "SKYREX Property Services",
+   "category": "Pressure washing",
+   "phone": "(617) 219-9664",
+   "website": "https://skyrexpropertyservices.com/services/boston-soft-and-pressure-washing/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02130",
+    "02121"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "7248cb28-d095-4c57-b6fa-4863a1618bf5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "78-Clean",
+   "category": "Pressure washing",
+   "phone": "(617) 782-5326",
+   "website": "https://www.78clean.com/power-washing",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02130",
+    "02134"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "b46e4569-2c5d-49c1-93fe-40b36f311be9",
+   "business_id": "0325686d-8e9d-4c4e-a9ce-339c6363de46",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "24600b26-7266-4f03-bf18-43d6760a1488",
+   "business_id": "7674a232-fb60-4341-bbb6-ba2abde0c206",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "21debc4d-7640-4559-8e05-8cc332a157aa",
+   "business_id": "25c43c73-3027-4126-a65f-db1c6be0fce7",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "13ca615d-71a7-4e8d-8514-0442017beb19",
+   "business_id": "47e6f9fc-c50b-44ad-833b-c64365bb0dd6",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e6fb79d8-9296-45a1-8444-a64285f34cb4",
+   "business_id": "fa9615c5-f8f5-4d4d-8a7f-ad9aa7e51794",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "27abfafe-6f55-4d3d-84bc-f0e05a5b2b06",
+   "business_id": "7248cb28-d095-4c57-b6fa-4863a1618bf5",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

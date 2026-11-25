@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "f1df8d5a-8d7b-4ac9-85a5-1ac05cec089d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Great Housekeeping",
+   "category": "Deep cleaning",
+   "phone": "(617) 942-0131",
+   "website": "https://www.greathousekeepinginc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02131"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "61dfcdfc-270b-4e45-917e-0f5a0e8a5acc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid In Boston",
+   "category": "Deep cleaning",
+   "phone": "(617) 230-7768",
+   "website": "https://maidinbostoninc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02131"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c6a75a22-0aac-4d30-9a0f-9201538f6dc8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Saskia Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(857) 352-8554",
+   "website": "https://saskiaservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02131"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "2c00d178-588e-4750-8630-07884c697892",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eagle Pro Cleaning",
+   "category": "Deep cleaning",
+   "phone": "(617) 935-8130",
+   "website": "https://www.eagleprocleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02131"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "36ed4926-3db7-4361-89c7-b99324695475",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Maid Relief Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(781) 730-6841",
+   "website": "https://maidrelief.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02131"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "19ac9716-4c58-4b5e-bcee-ecc463867114",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tidy Havens",
+   "category": "Deep cleaning",
+   "phone": "(857) 420-7223",
+   "website": "https://tidyhavens.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02131"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "55ea6809-91ce-4b7f-ad5d-b58786c6fcdb",
+   "business_id": "f1df8d5a-8d7b-4ac9-85a5-1ac05cec089d",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4930f15a-7976-4a0b-a334-fcf6c242ebc3",
+   "business_id": "61dfcdfc-270b-4e45-917e-0f5a0e8a5acc",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "a8888e4d-0bfd-42b1-9d7c-695c01b62981",
+   "business_id": "c6a75a22-0aac-4d30-9a0f-9201538f6dc8",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "8477d7d6-3c39-490c-b861-351b891b6cca",
+   "business_id": "2c00d178-588e-4750-8630-07884c697892",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3d3bd4c8-2ea8-4e6e-8065-37b84b91566a",
+   "business_id": "36ed4926-3db7-4361-89c7-b99324695475",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "52fc02eb-03a0-4f45-b86a-80fbc90fedd3",
+   "business_id": "19ac9716-4c58-4b5e-bcee-ecc463867114",
+   "title": "Deep cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

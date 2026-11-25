@@ -1,0 +1,229 @@
+{
+ "businesses": [
+  {
+   "id": "1f2427ea-7ba4-415f-9735-9da2ff5d0c0c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Spotless New England Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(617) 513-4095",
+   "website": "http://spotlessnewengland.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fa68cd24-576b-4817-8ed7-c57087514b16",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Housecleaning Boston",
+   "category": "House cleaning",
+   "phone": "(617) 697-6814",
+   "website": "https://housecleaningboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0548bed3-2489-4a47-9d74-e78411208e80",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ProClean House Cleaning Services Boston MA",
+   "category": "House cleaning",
+   "phone": "(617) 915-3598",
+   "website": "http://procleanboston.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "219ab11c-d3e3-406f-b8a1-0f62dfca7e46",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Metro Maids",
+   "category": "House cleaning",
+   "phone": "(617) 379-0039",
+   "website": "http://metromaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0f7bc7e7-dc0a-43e9-b866-44954d1ecd03",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fenway Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(978) 579-1514",
+   "website": "http://fenwaycleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fef07d1e-6ae7-489c-a48a-5834cd93a912",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boston Dirt Cheap Cleaning",
+   "category": "House cleaning",
+   "phone": "(617) 529-1409",
+   "website": "https://boston-dirt-cheap-cleaning.mybusiness.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "66878b93-de37-4054-9c3c-a244c5e01d67",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "iDust uRest",
+   "category": "House cleaning",
+   "phone": "(774) 285-2115",
+   "website": "https://idusturest.com/locations/boston-ma/residential-cleaning/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02118",
+    "02108",
+    "02109",
+    "02110",
+    "02111",
+    "02113",
+    "02114",
+    "02115",
+    "02116",
+    "02119",
+    "02120",
+    "02121",
+    "02122",
+    "02124",
+    "02125",
+    "02126",
+    "02127",
+    "02128",
+    "02129",
+    "02130",
+    "02131",
+    "02132",
+    "02134",
+    "02135",
+    "02136",
+    "02199",
+    "02210",
+    "02215"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "d2472936-273d-4794-b4f0-147dbdcd85d9",
+   "business_id": "1f2427ea-7ba4-415f-9735-9da2ff5d0c0c",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "212a310a-ea33-49d9-8463-70b201ebff36",
+   "business_id": "fa68cd24-576b-4817-8ed7-c57087514b16",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9e970c63-2086-41a4-9faa-1533569ba99b",
+   "business_id": "0548bed3-2489-4a47-9d74-e78411208e80",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "72c85d1a-db37-44d5-a641-345d13b25508",
+   "business_id": "219ab11c-d3e3-406f-b8a1-0f62dfca7e46",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0c76340b-885e-4c85-a215-380afab05423",
+   "business_id": "0f7bc7e7-dc0a-43e9-b866-44954d1ecd03",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "369950e9-4a2d-4189-a8de-13021b6f52ad",
+   "business_id": "fef07d1e-6ae7-489c-a48a-5834cd93a912",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "650c3bb0-8ece-4533-87dc-829988a2f7d2",
+   "business_id": "66878b93-de37-4054-9c3c-a244c5e01d67",
+   "title": "House cleaning in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

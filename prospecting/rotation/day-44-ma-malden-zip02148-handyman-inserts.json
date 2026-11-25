@@ -1,0 +1,148 @@
+{
+ "businesses": [
+  {
+   "id": "d5aff13d-9780-49bd-ba2a-cc49611ce6bd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "DeRose Home Pros",
+   "category": "Handyman",
+   "phone": "(413) 949-2187",
+   "website": "http://derosehomepros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02148"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "454d8508-8c8a-4bab-a9ce-5460449f01b4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Seaport Handyman & Renovation Corp.",
+   "category": "Handyman",
+   "phone": "(617) 982-9255",
+   "website": "http://seaporthandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02148"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "90bacc79-66a9-4b50-9ec5-f64d7d6704d4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "DT Painting & Services",
+   "category": "Handyman",
+   "phone": "(781) 866-6546",
+   "website": "https://www.dtpaintingservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02148"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5c4e3551-c417-4ee1-b300-d9b224fa314c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Gille's Handyman Inc.",
+   "category": "Handyman",
+   "phone": "(857) 346-5480",
+   "website": "https://www.gillehandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02148",
+    "02149"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ecaa482e-9eb4-4368-9ccf-964277a5648e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mr Carl Handyman Services LLC",
+   "category": "Handyman",
+   "phone": "(978) 364-6757",
+   "website": "http://www.carlhandymanservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02148",
+    "02155"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "223e13b0-1148-4ad1-8c35-7df76b5490f4",
+   "business_id": "d5aff13d-9780-49bd-ba2a-cc49611ce6bd",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1714b3d8-5a39-4ce7-8d8a-79b12dd79175",
+   "business_id": "454d8508-8c8a-4bab-a9ce-5460449f01b4",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "373f312a-645e-4f81-8cc3-d45a10ac3701",
+   "business_id": "90bacc79-66a9-4b50-9ec5-f64d7d6704d4",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "af6c87ff-e1e7-4f6d-a346-47747001d4eb",
+   "business_id": "5c4e3551-c417-4ee1-b300-d9b224fa314c",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "bc636033-2d63-4b7d-af51-f01b3a39c0b7",
+   "business_id": "ecaa482e-9eb4-4368-9ccf-964277a5648e",
+   "title": "Handyman at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

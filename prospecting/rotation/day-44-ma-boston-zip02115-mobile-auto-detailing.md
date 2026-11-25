@@ -1,0 +1,32 @@
+# Day 44 — MA | Boston | ZIP 02115 | Mobile auto detailing
+
+Cell: Massachusetts, Boston, ZIP 02115 (Fenway/Longwood area), category "Mobile auto detailing" (exact label verified in js/data.js). Researched 2026-11-25. Public information only; each business's own website checked first, then Google listings / ThreeBestRated / TrustAnalytica. No expansion to an adjacent ZIP was needed — 8 qualifying Boston mobile detailers found.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|---|
+| All-Star Mobile Auto Detailing | (617) 685-1087 | Mobile auto detailing | Boston | http://www.allstarmobiledetail.com/ | info@allstarmobiledetail.com — own site footer/contact block, e.g. https://www.allstarmobiledetail.com/exterior-detail-boston | High — own site: "We offer premium interior and exterior detailing at the convenience of your home or office… we bring the entire shop to your driveway or office parking lot"; Boston base 90 Canal St; phone + email printed on own site and matching Google listing | Own website; Google listing | No match in live DB dump or prospecting files (the DB's "All-Star Renovations" AR and "All-Star Cleaning Co." SC are different businesses/phones) |
+| K5 Detailing | (617) 775-0181 | Mobile auto detailing | Boston | http://k5detailing.com/ | — none published on its own site | High — own site: "a fully equipped mobile detailing business proudly serving the Boston area… Get professional detailing at your home or workplace"; phone from its Google listing (own site's fetched text did not render a phone) | Own website; Google listing | No match in DB dump or prospecting files |
+| Viper Car Detailing | (617) 468-8211 | Mobile auto detailing | Boston | https://vipercardetailing.com/ | — vipercarofficial@gmail.com appears only on ThreeBestRated (third party), not on the business's own site, so NOT collected as a lead | Medium — own site: fully equipped mobile detailers "come directly to you… at your home, office, or parking location", 12-mile radius from 02145 (Somerville), serving Boston/Greater Boston; phone (617) 468-8211 on own site — note a (617) 486-8211 variant circulates on third-party listings, own-site number used | Own website; ThreeBestRated | No match in DB dump or prospecting files |
+| Red Eagle Mobile Detailing | (617) 914-0122 | Mobile auto detailing | Boston | https://redeaglemobiledetailing.com/ | — email on own site is masked (co*****@…), not collected | High — own site: "We come to you and detail the vehicle at your house, work or wherever the location is", Boston-based since 2013, address 24 Dunreath St #1, Boston, MA 02119; phone printed repeatedly on own site | Own website | No match in DB dump or prospecting files |
+| Full Auto Detailing Boston | (781) 355-6909 | Mobile auto detailing | Boston | https://fullautodetailingboston.com/ | — none published on its own site | High — own site: "a fully insured mobile detailer that comes to your driveway or office in Boston… We bring water and power"; phone (781) 355-6909 on own site; business address 360 Huntington Ave, Boston, MA 02115 (the target ZIP) per multiple public listings | Own website; public directory listings for the 02115 address | No match in DB dump or prospecting files |
+| Carmob Detail | (201) 455-9562 | Mobile auto detailing | Boston | http://www.carmobdetail.com/ | — none published on its own site | Medium — Google listing description in the business's own words: "Mobile Detailing Services Proudly Serving community since 2022"; Boston address 4889 Washington St; own site is a booking/service-menu site that does not restate the mobile claim in fetched text, and the phone carries a non-MA area code, hence Medium | Google listing; own website | No match in DB dump or prospecting files |
+| One Way Mobile Detailing | (978) 432-9996 | Mobile auto detailing | Boston | https://onewaymobiledetailing.com/ | support@onewayteam.com — own site contact block, https://onewaymobiledetailing.com/ | Medium — own site FAQ: "We're based in Boston, Massachusetts, but since we're fully mobile, we come to you!… fully equipped mobile detailing unit with our own power and water"; displayed phone (978) 432-9996 used — the site's structured data carries two other numbers, hence Medium | Own website | No match in DB dump or prospecting files |
+| Beacon Shine Auto Detailing | (617) 958-6965 | Mobile auto detailing | Boston | https://www.beaconshine.shop/ | — none published on its own site | Medium — own site: "Mobile car detailing… brought to your driveway, workplace, apartment garage, or approved parking location across Greater Boston. Boston is the primary service area"; phone 617-958-6965 displayed on own site; no independent listing corroboration found, hence Medium | Own website | No match in DB dump or prospecting files |
+
+## Excluded
+
+- BrushHour (Boston page, brushhour.co/GMBoston) — mobile service confirmed, but HQ is Chicago, IL (211 S. Clark St) and it operates as a multi-city platform/company, not a local Boston operator; excluded under the local-operator gate.
+- Mr. Perfection Auto Detailing and Executive Car Care (Boston) — garage/parking-location based detailing with no mobile at-customer-location service confirmed from their own materials; storefront-style, excluded.
+- Mobile Tint Shop (Boston) — window tinting is its primary service, not detailing; excluded.
+- Lucky Car Detailing (detailinglucky.com) — mobile and publishes (774) 563-3777 / detailinglucky@gmail.com, but based in Watertown, MA, not Boston; held out of this Boston cell.
+- CURELAB Detailing, Superior Mobile Detailing, CB Detailing, PD Car Detailing — mobile operators based in Weymouth / Whitman / out-of-Boston towns; not Boston-based, held out of this cell.
+
+## Leads
+
+- All-Star Mobile Auto Detailing — info@allstarmobiledetail.com — source: https://www.allstarmobiledetail.com/exterior-detail-boston (own site)
+- One Way Mobile Detailing — support@onewayteam.com — source: https://onewaymobiledetailing.com/ (own site)
+
+## Notes
+
+- service_zips: target ZIP 02115 for every business, plus only ZIPs the business itself states — Viper's stated 02145 base radius and Red Eagle's own published 02119 Boston address. No other business published a specific service-ZIP list, so none was invented.
+- Count: 8 businesses (5 High, 3 Medium), 2 published-email leads.

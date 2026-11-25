@@ -1,0 +1,178 @@
+{
+ "businesses": [
+  {
+   "id": "5225ffb1-c956-4f4f-956f-42fec47cf149",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wash Bros Exterior Cleaning",
+   "category": "Pressure washing",
+   "phone": "(351) 242-0666",
+   "website": "https://washbrosexteriorcleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02149"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "3d68d3d3-9f9d-4b40-8468-5e70b1c26a94",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Britewash",
+   "category": "Pressure washing",
+   "phone": "(207) 451-9880",
+   "website": "https://www.britewash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02149",
+    "03904"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ae24e5cc-016f-4d56-92e6-571e790363fb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Senjoey Collective LLC",
+   "category": "Pressure washing",
+   "phone": "(781) 301-1659",
+   "website": "https://senjoeycollectivellc.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02149",
+    "01862"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ce34a802-dc22-4b3d-b87b-a7b5ae4e4316",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Painters Etcetera",
+   "category": "Pressure washing",
+   "phone": "(978) 443-3673",
+   "website": "https://paintersetcetera.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02149",
+    "01776"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a2ebea71-f376-48c5-baef-7dc4d85929d9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fine Touch Pressure Washing, LLC",
+   "category": "Pressure washing",
+   "phone": "(617) 906-6357",
+   "website": "https://www.finetouchpressurewashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02149"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "892c575d-edba-4155-bb46-d5a73d2c581f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Busy Bee Window & Gutter Cleaning",
+   "category": "Pressure washing",
+   "phone": "(508) 499-9193",
+   "website": "https://busybeewg.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02149",
+    "01532"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "5e6f572e-7e2c-4baf-813b-35c7d3b41bdb",
+   "business_id": "5225ffb1-c956-4f4f-956f-42fec47cf149",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "508b73a1-cd40-4c1e-903e-28a36ed968c4",
+   "business_id": "3d68d3d3-9f9d-4b40-8468-5e70b1c26a94",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "316198cc-f04e-4a85-8d03-8609d4a200a2",
+   "business_id": "ae24e5cc-016f-4d56-92e6-571e790363fb",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f07be0ab-535a-45cd-94f7-7fecc411a05b",
+   "business_id": "ce34a802-dc22-4b3d-b87b-a7b5ae4e4316",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3801cd62-9acb-42bb-935d-ad2648c6f1cb",
+   "business_id": "a2ebea71-f376-48c5-baef-7dc4d85929d9",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b9ba5fe1-ed86-434d-908b-f2bf1ad727ce",
+   "business_id": "892c575d-edba-4155-bb46-d5a73d2c581f",
+   "title": "Pressure washing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

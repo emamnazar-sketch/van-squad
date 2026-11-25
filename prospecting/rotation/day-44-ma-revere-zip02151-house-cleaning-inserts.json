@@ -1,0 +1,202 @@
+{
+ "businesses": [
+  {
+   "id": "a9620aeb-213f-4f27-8a41-5e4e28d73846",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "SIS Cleaners",
+   "category": "House cleaning",
+   "phone": "(781) 443-4017",
+   "website": "https://siscleaners.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0e77d91a-ad8a-4821-8fa3-5af73a4c0020",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "4Sons Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(781) 975-9160",
+   "website": "https://foursonscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ef8dab7c-877b-46e3-a4b6-068138671718",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "SF PRO Service Cleaning",
+   "category": "House cleaning",
+   "phone": "(857) 261-6435",
+   "website": "https://sfproservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b2929fab-34b3-4237-a6d2-bea13176a68f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleaning Down Service",
+   "category": "House cleaning",
+   "phone": "(617) 460-3057",
+   "website": "https://cleaningdownservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4c55d3dc-1423-4758-a7e2-799fca7b3a56",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Fast and Safe Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(781) 656-4481",
+   "website": "https://fastnsafecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "45fbd6b4-f238-4fc6-9bd3-373b5850cbba",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Veloso Cleaning",
+   "category": "House cleaning",
+   "phone": "(781) 975-6201",
+   "website": "https://sites.google.com/view/veloso-cleaning/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9cf8ed8a-8838-48c7-a4a3-e612ec73b4bb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ocean Blue Services",
+   "category": "House cleaning",
+   "phone": "(617) 932-6162",
+   "website": "https://oceanblueservices.com/coverage/house-cleaning-revere/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02151"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "db1ee186-d78f-4e74-8e33-fb1e4652e8d5",
+   "business_id": "a9620aeb-213f-4f27-8a41-5e4e28d73846",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "57301cc7-c215-406f-8655-05bfdd631cc2",
+   "business_id": "0e77d91a-ad8a-4821-8fa3-5af73a4c0020",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7613970e-dbad-420b-83f0-596419a5fc04",
+   "business_id": "ef8dab7c-877b-46e3-a4b6-068138671718",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "9f1349da-06f6-4f95-a6d8-d310bedae051",
+   "business_id": "b2929fab-34b3-4237-a6d2-bea13176a68f",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "371706ee-6619-4d12-b91f-ddd6b9b02874",
+   "business_id": "4c55d3dc-1423-4758-a7e2-799fca7b3a56",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ead3e654-4d50-42c2-9db2-c2c4e418186b",
+   "business_id": "45fbd6b4-f238-4fc6-9bd3-373b5850cbba",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "840693e7-6675-4d6c-86f2-43b78111fa41",
+   "business_id": "9cf8ed8a-8838-48c7-a4a3-e612ec73b4bb",
+   "title": "House cleaning in Revere",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

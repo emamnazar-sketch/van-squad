@@ -1,0 +1,208 @@
+{
+ "businesses": [
+  {
+   "id": "936b879d-93b2-49e6-ad38-239bdb683e69",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Style's Cleaning",
+   "category": "House cleaning",
+   "phone": "(617) 233-5901",
+   "website": "https://www.stylecleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d2bd79e1-0cfa-491f-ab84-83225ed0b9d1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ABF Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(617) 459-7015",
+   "website": "https://www.abfcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ef3fe4a1-850a-41da-9018-6c6e579205dd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sonia's Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(508) 740-6959",
+   "website": "https://soniacleaning.com/service-area/brookline-ma/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445",
+    "02446",
+    "02447",
+    "02467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "61e3ce8b-6dc4-4438-b1b8-87c6c59cf84f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Arcadia House Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(857) 391-8939",
+   "website": "https://arcadiahousecleaningservices.com/brookline/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1eb1460f-cbf3-465c-9b3d-afacb12ba9a4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Boston Cleaning Services - Brookline",
+   "category": "House cleaning",
+   "phone": "(857) 356-4857",
+   "website": "https://bostoncleaningservices.com/service-areas/cleaning-services-brookline-ma",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445",
+    "02446",
+    "02447",
+    "02467"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8ff73f74-655a-4468-91cf-93d4f4d53a0f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Real Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(508) 207-9737",
+   "website": "https://realcleaningservices.com/brookline-house-cleaning-experts/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e8974ca6-9d78-4b6f-b903-dfbad2605fbc",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Dapper Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(781) 694-6380",
+   "website": "https://www.dappercleaningservices.com/maid-service/brookline-ma",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02445"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "3baedfc3-d7f1-45d7-a9d6-f508e62780e4",
+   "business_id": "936b879d-93b2-49e6-ad38-239bdb683e69",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "fed70aa4-8429-4330-bf5e-4e331e275ef6",
+   "business_id": "d2bd79e1-0cfa-491f-ab84-83225ed0b9d1",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "28577501-3ed9-40bb-b95a-3c5a4f2e672a",
+   "business_id": "ef3fe4a1-850a-41da-9018-6c6e579205dd",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "10ddfde5-9f94-4273-b158-4812835cd2e5",
+   "business_id": "61e3ce8b-6dc4-4438-b1b8-87c6c59cf84f",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "24367640-a9ce-40dc-8ab9-34e8899f22a3",
+   "business_id": "1eb1460f-cbf3-465c-9b3d-afacb12ba9a4",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f8fcdbae-e979-4964-bff6-cbaa35be8f93",
+   "business_id": "8ff73f74-655a-4468-91cf-93d4f4d53a0f",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4f85e6a9-b062-464e-9d9e-42ccaf8022cb",
+   "business_id": "e8974ca6-9d78-4b6f-b903-dfbad2605fbc",
+   "title": "House cleaning in Brookline",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

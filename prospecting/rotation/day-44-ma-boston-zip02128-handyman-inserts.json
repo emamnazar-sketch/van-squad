@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "749b6ee8-b381-4495-b68e-485015bd2ed3",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Concierge Building Service",
+   "category": "Handyman",
+   "phone": "(857) 335-0188",
+   "website": "https://conciergebuildingservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02128"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "67e196fc-e79b-4707-8c7d-61626f7b3572",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handyman Boston",
+   "category": "Handyman",
+   "phone": "(617) 702-0222",
+   "website": "https://www.handyman-boston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02128"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cae345d7-5482-4a3f-9d77-1a57518d330e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Best Handyman Boston",
+   "category": "Handyman",
+   "phone": "(857) 201-6083",
+   "website": "https://besthandymanboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02128"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "aa096999-f34b-410b-a2fe-6389d3eda927",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pro Services Boston",
+   "category": "Handyman",
+   "phone": "(617) 804-2186",
+   "website": "https://proservicesboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02128"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "4322f044-7e1f-4b21-aafa-c7ae76ec937a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Handyman Projects",
+   "category": "Handyman",
+   "phone": "(617) 913-0190",
+   "website": "https://sites.google.com/handymanprojectssvs.com/handymanprojects/home",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02128"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "cde3b58e-6d23-493a-bc13-3bcd7243c358",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Whitney Home Service",
+   "category": "Handyman",
+   "phone": "(857) 445-3378",
+   "website": "https://whitneyhomeservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02128"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "af674eb1-e1c2-45cc-869f-812e7ac88bcb",
+   "business_id": "749b6ee8-b381-4495-b68e-485015bd2ed3",
+   "title": "Handyman in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "52322e62-7f2b-4b78-9d7d-f7987489ce92",
+   "business_id": "67e196fc-e79b-4707-8c7d-61626f7b3572",
+   "title": "Handyman in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "7ffcba59-46e6-4a42-b003-08ad43f97de9",
+   "business_id": "cae345d7-5482-4a3f-9d77-1a57518d330e",
+   "title": "Handyman in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "f40e4d9a-8fe0-4ed5-90f0-3d7e3fe65d22",
+   "business_id": "aa096999-f34b-410b-a2fe-6389d3eda927",
+   "title": "Handyman in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4a057644-220e-44f8-9809-cdbb95d66f56",
+   "business_id": "4322f044-7e1f-4b21-aafa-c7ae76ec937a",
+   "title": "Handyman in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6c21db4d-cd7e-4513-bcb8-815d67a8d83a",
+   "business_id": "cde3b58e-6d23-493a-bc13-3bcd7243c358",
+   "title": "Handyman in Boston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

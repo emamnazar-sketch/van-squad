@@ -1,0 +1,174 @@
+{
+ "businesses": [
+  {
+   "id": "0bbed8f3-9d7f-4fb2-8d03-52972481970c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Beacon Mobile Car Detailing Boston",
+   "category": "Mobile auto detailing",
+   "phone": "(978) 996-0522",
+   "website": "https://beacondetailing.site/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d2352696-15b0-4d87-8860-defb7d23cceb",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Swift Shine Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(857) 337-8592",
+   "website": "https://swiftshinedetailingboston.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bffbbe2b-e7c4-4f83-9078-e2a995d7ca53",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "ICE Detailing LLC",
+   "category": "Mobile auto detailing",
+   "phone": "(617) 777-7569",
+   "website": "https://icedetailingllc.com/services.html",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b985671f-71ec-48bd-bc63-365ce1a1ff3e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Superior Mobile Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(617) 301-2796",
+   "website": "https://superiormobiledetailing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a4e75751-57ee-4341-aa90-b882c8b84a04",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "CURELAB Detailing",
+   "category": "Mobile auto detailing",
+   "phone": "(781) 689-1099",
+   "website": "https://curelab.studio/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "80a76980-5060-43fb-9825-844052f33930",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "T Shine Detail",
+   "category": "Mobile auto detailing",
+   "phone": "(617) 417-8340",
+   "website": "https://tshinedetail.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02135"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "a3d1ba33-7ec2-4245-abcb-e32e40655147",
+   "business_id": "0bbed8f3-9d7f-4fb2-8d03-52972481970c",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ab9b71b3-3e0e-406d-a58f-fca14fe90d36",
+   "business_id": "d2352696-15b0-4d87-8860-defb7d23cceb",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "abd0e837-b2b9-4620-9ab5-0eed7c40a063",
+   "business_id": "bffbbe2b-e7c4-4f83-9078-e2a995d7ca53",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c3b64a9d-159c-4d7f-8f3f-440f2b5a10c5",
+   "business_id": "b985671f-71ec-48bd-bc63-365ce1a1ff3e",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b5806663-2997-44c9-9c90-631e51aec10c",
+   "business_id": "a4e75751-57ee-4341-aa90-b882c8b84a04",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c9e818f9-c307-4ff4-b275-4d2db4feeaab",
+   "business_id": "80a76980-5060-43fb-9825-844052f33930",
+   "title": "Mobile auto detailing at your location",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}
