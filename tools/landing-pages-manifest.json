@@ -1,5 +1,15 @@
 [
  {
+  "url": "https://vansquads.com/deep-cleaning/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 7,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/austin/",
   "metro": "Austin",
   "metroSlug": "austin",
@@ -10,12 +20,72 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/deep-cleaning/birmingham/",
+  "metro": "Birmingham",
+  "metroSlug": "birmingham",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/boise/",
   "metro": "Boise",
   "metroSlug": "boise",
   "category": "Deep cleaning",
   "categorySlug": "deep-cleaning",
   "count": 8,
+  "zips": 1,
+  "blog": "how-much-does-deep-cleaning-cost-in-boise"
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/boston/",
+  "metro": "Boston",
+  "metroSlug": "boston",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 12,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/charleston/",
+  "metro": "Charleston",
+  "metroSlug": "charleston",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 7,
+  "zips": 15,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 4,
   "zips": 1,
   "blog": null
  },
@@ -50,6 +120,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/deep-cleaning/harrisburg/",
+  "metro": "Harrisburg",
+  "metroSlug": "harrisburg",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/houston/",
   "metro": "Houston",
   "metroSlug": "houston",
@@ -60,12 +140,42 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/deep-cleaning/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 6,
+  "zips": 36,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/kansas-city/",
   "metro": "Kansas City",
   "metroSlug": "kansas-city",
   "category": "Deep cleaning",
   "categorySlug": "deep-cleaning",
   "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 4,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 4,
   "zips": 1,
   "blog": null
  },
@@ -90,6 +200,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/deep-cleaning/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 5,
+  "zips": 19,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
@@ -97,6 +217,26 @@
   "categorySlug": "deep-cleaning",
   "count": 3,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/new-york/",
+  "metro": "New York",
+  "metroSlug": "new-york",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 13,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/northern-virginia/",
+  "metro": "Northern Virginia",
+  "metroSlug": "northern-virginia",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 5,
+  "zips": 2,
   "blog": null
  },
  {
@@ -117,6 +257,36 @@
   "categorySlug": "deep-cleaning",
   "count": 3,
   "zips": 1,
+  "blog": "how-much-does-deep-cleaning-cost-in-omaha"
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 7,
+  "zips": 43,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 9,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/deep-cleaning/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 5,
+  "zips": 2,
   "blog": null
  },
  {
@@ -147,7 +317,7 @@
   "categorySlug": "deep-cleaning",
   "count": 4,
   "zips": 4,
-  "blog": null
+  "blog": "how-much-does-deep-cleaning-cost-in-tulsa"
  },
  {
   "url": "https://vansquads.com/deep-cleaning/wichita/",
@@ -157,7 +327,7 @@
   "categorySlug": "deep-cleaning",
   "count": 4,
   "zips": 26,
-  "blog": null
+  "blog": "how-much-does-deep-cleaning-cost-in-wichita"
  },
  {
   "url": "https://vansquads.com/handyman/albuquerque/",
@@ -170,6 +340,16 @@
   "blog": "how-much-does-a-handyman-cost-in-albuquerque"
  },
  {
+  "url": "https://vansquads.com/handyman/ann-arbor/",
+  "metro": "Ann Arbor",
+  "metroSlug": "ann-arbor",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 11,
+  "zips": 32,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/appleton/",
   "metro": "Appleton",
   "metroSlug": "appleton",
@@ -177,6 +357,36 @@
   "categorySlug": "handyman",
   "count": 3,
   "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/athens/",
+  "metro": "Athens",
+  "metroSlug": "athens",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 5,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 14,
+  "zips": 7,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/augusta-maine/",
+  "metro": "Augusta, Maine",
+  "metroSlug": "augusta-maine",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 3,
   "blog": null
  },
  {
@@ -190,9 +400,49 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/bangor/",
+  "metro": "Bangor",
+  "metroSlug": "bangor",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/baton-rouge/",
   "metro": "Baton Rouge",
   "metroSlug": "baton-rouge",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/bennington/",
+  "metro": "Bennington",
+  "metroSlug": "bennington",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/bethlehem/",
+  "metro": "Bethlehem",
+  "metroSlug": "bethlehem",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 5,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/birmingham/",
+  "metro": "Birmingham",
+  "metroSlug": "birmingham",
   "category": "Handyman",
   "categorySlug": "handyman",
   "count": 4,
@@ -207,7 +457,7 @@
   "categorySlug": "handyman",
   "count": 10,
   "zips": 5,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-bismarck"
  },
  {
   "url": "https://vansquads.com/handyman/boise/",
@@ -217,6 +467,16 @@
   "categorySlug": "handyman",
   "count": 6,
   "zips": 2,
+  "blog": "how-much-does-a-handyman-cost-in-boise"
+ },
+ {
+  "url": "https://vansquads.com/handyman/boston/",
+  "metro": "Boston",
+  "metroSlug": "boston",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 15,
+  "zips": 9,
   "blog": null
  },
  {
@@ -226,6 +486,26 @@
   "category": "Handyman",
   "categorySlug": "handyman",
   "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/burlington/",
+  "metro": "Burlington",
+  "metroSlug": "burlington",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 7,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/cary/",
+  "metro": "Cary",
+  "metroSlug": "cary",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
   "zips": 1,
   "blog": null
  },
@@ -240,6 +520,36 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/charleston-west-virginia/",
+  "metro": "Charleston, West Virginia",
+  "metroSlug": "charleston-west-virginia",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/charleston/",
+  "metro": "Charleston",
+  "metroSlug": "charleston",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 8,
+  "zips": 4,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 14,
+  "zips": 6,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/cheyenne/",
   "metro": "Cheyenne",
   "metroSlug": "cheyenne",
@@ -247,6 +557,36 @@
   "categorySlug": "handyman",
   "count": 8,
   "zips": 2,
+  "blog": "how-much-does-a-handyman-cost-in-cheyenne"
+ },
+ {
+  "url": "https://vansquads.com/handyman/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 19,
+  "zips": 10,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/cincinnati/",
+  "metro": "Cincinnati",
+  "metroSlug": "cincinnati",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 9,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/cleveland/",
+  "metro": "Cleveland",
+  "metroSlug": "cleveland",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
   "blog": null
  },
  {
@@ -257,6 +597,36 @@
   "categorySlug": "handyman",
   "count": 9,
   "zips": 5,
+  "blog": "how-much-does-a-handyman-cost-in-colorado-springs"
+ },
+ {
+  "url": "https://vansquads.com/handyman/columbia-south-carolina/",
+  "metro": "Columbia, South Carolina",
+  "metroSlug": "columbia-south-carolina",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 5,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 10,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/concord/",
+  "metro": "Concord",
+  "metroSlug": "concord",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
   "blog": null
  },
  {
@@ -277,7 +647,7 @@
   "categorySlug": "handyman",
   "count": 7,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-denver"
  },
  {
   "url": "https://vansquads.com/handyman/des-moines/",
@@ -287,6 +657,16 @@
   "categorySlug": "handyman",
   "count": 13,
   "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/detroit/",
+  "metro": "Detroit",
+  "metroSlug": "detroit",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 10,
+  "zips": 68,
   "blog": null
  },
  {
@@ -300,6 +680,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/erie/",
+  "metro": "Erie",
+  "metroSlug": "erie",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/evansville/",
+  "metro": "Evansville",
+  "metroSlug": "evansville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/fargo/",
   "metro": "Fargo",
   "metroSlug": "fargo",
@@ -307,7 +707,7 @@
   "categorySlug": "handyman",
   "count": 8,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-fargo"
  },
  {
   "url": "https://vansquads.com/handyman/fayetteville/",
@@ -320,9 +720,79 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/fort-wayne/",
+  "metro": "Fort Wayne",
+  "metroSlug": "fort-wayne",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/grand-rapids/",
+  "metro": "Grand Rapids",
+  "metroSlug": "grand-rapids",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 10,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/great-falls/",
   "metro": "Great Falls",
   "metroSlug": "great-falls",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/greensboro/",
+  "metro": "Greensboro",
+  "metroSlug": "greensboro",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/greenville/",
+  "metro": "Greenville",
+  "metroSlug": "greenville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
+  "zips": 4,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/gulfport/",
+  "metro": "Gulfport",
+  "metroSlug": "gulfport",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/harrisburg/",
+  "metro": "Harrisburg",
+  "metroSlug": "harrisburg",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 10,
+  "zips": 10,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/hattiesburg/",
+  "metro": "Hattiesburg",
+  "metroSlug": "hattiesburg",
   "category": "Handyman",
   "categorySlug": "handyman",
   "count": 3,
@@ -340,6 +810,36 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/huntington/",
+  "metro": "Huntington",
+  "metroSlug": "huntington",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/huntsville/",
+  "metro": "Huntsville",
+  "metroSlug": "huntsville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 12,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/iowa-city/",
   "metro": "Iowa City",
   "metroSlug": "iowa-city",
@@ -350,6 +850,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/jackson/",
+  "metro": "Jackson",
+  "metroSlug": "jackson",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/jacksonville/",
+  "metro": "Jacksonville",
+  "metroSlug": "jacksonville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 7,
+  "zips": 28,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/kansas-city/",
   "metro": "Kansas City",
   "metroSlug": "kansas-city",
@@ -357,6 +877,36 @@
   "categorySlug": "handyman",
   "count": 13,
   "zips": 7,
+  "blog": "how-much-does-a-handyman-cost-in-kansas-city"
+ },
+ {
+  "url": "https://vansquads.com/handyman/keene/",
+  "metro": "Keene",
+  "metroSlug": "keene",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/knoxville/",
+  "metro": "Knoxville",
+  "metroSlug": "knoxville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/laconia/",
+  "metro": "Laconia",
+  "metroSlug": "laconia",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
   "blog": null
  },
  {
@@ -367,6 +917,16 @@
   "categorySlug": "handyman",
   "count": 8,
   "zips": 5,
+  "blog": "how-much-does-a-handyman-cost-in-las-vegas"
+ },
+ {
+  "url": "https://vansquads.com/handyman/lexington/",
+  "metro": "Lexington",
+  "metroSlug": "lexington",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
+  "zips": 1,
   "blog": null
  },
  {
@@ -377,7 +937,7 @@
   "categorySlug": "handyman",
   "count": 5,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-lincoln"
  },
  {
   "url": "https://vansquads.com/handyman/little-rock/",
@@ -390,9 +950,29 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/madison/",
   "metro": "Madison",
   "metroSlug": "madison",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/manchester/",
+  "metro": "Manchester",
+  "metroSlug": "manchester",
   "category": "Handyman",
   "categorySlug": "handyman",
   "count": 6,
@@ -407,6 +987,26 @@
   "categorySlug": "handyman",
   "count": 5,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/memphis/",
+  "metro": "Memphis",
+  "metroSlug": "memphis",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 10,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 15,
+  "zips": 9,
   "blog": null
  },
  {
@@ -440,6 +1040,36 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/montgomery/",
+  "metro": "Montgomery",
+  "metroSlug": "montgomery",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/nashua/",
+  "metro": "Nashua",
+  "metroSlug": "nashua",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 16,
+  "zips": 12,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
@@ -447,6 +1077,36 @@
   "categorySlug": "handyman",
   "count": 9,
   "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/new-york/",
+  "metro": "New York",
+  "metroSlug": "new-york",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 23,
+  "zips": 43,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/norfolk-virginia/",
+  "metro": "Norfolk, Virginia",
+  "metroSlug": "norfolk-virginia",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/northern-virginia/",
+  "metro": "Northern Virginia",
+  "metroSlug": "northern-virginia",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 15,
+  "zips": 3,
   "blog": null
  },
  {
@@ -467,6 +1127,26 @@
   "categorySlug": "handyman",
   "count": 12,
   "zips": 6,
+  "blog": "how-much-does-a-handyman-cost-in-omaha"
+ },
+ {
+  "url": "https://vansquads.com/handyman/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 16,
+  "zips": 9,
   "blog": null
  },
  {
@@ -480,6 +1160,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 19,
+  "zips": 5,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/portland-maine/",
+  "metro": "Portland, Maine",
+  "metroSlug": "portland-maine",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 6,
+  "zips": 4,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/portland/",
   "metro": "Portland",
   "metroSlug": "portland",
@@ -487,6 +1187,16 @@
   "categorySlug": "handyman",
   "count": 8,
   "zips": 3,
+  "blog": "how-much-does-a-handyman-cost-in-portland"
+ },
+ {
+  "url": "https://vansquads.com/handyman/portsmouth/",
+  "metro": "Portsmouth",
+  "metroSlug": "portsmouth",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 3,
+  "zips": 1,
   "blog": null
  },
  {
@@ -507,6 +1217,26 @@
   "categorySlug": "handyman",
   "count": 14,
   "zips": 4,
+  "blog": "how-much-does-a-handyman-cost-in-rapid-city"
+ },
+ {
+  "url": "https://vansquads.com/handyman/richmond/",
+  "metro": "Richmond",
+  "metroSlug": "richmond",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/rutland/",
+  "metro": "Rutland",
+  "metroSlug": "rutland",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 7,
+  "zips": 3,
   "blog": null
  },
  {
@@ -537,7 +1267,7 @@
   "categorySlug": "handyman",
   "count": 6,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-salt-lake-city"
  },
  {
   "url": "https://vansquads.com/handyman/san-antonio/",
@@ -557,7 +1287,7 @@
   "categorySlug": "handyman",
   "count": 6,
   "zips": 2,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-santa-fe"
  },
  {
   "url": "https://vansquads.com/handyman/sioux-falls/",
@@ -567,7 +1297,7 @@
   "categorySlug": "handyman",
   "count": 14,
   "zips": 7,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-sioux-falls"
  },
  {
   "url": "https://vansquads.com/handyman/springfield/",
@@ -597,6 +1327,26 @@
   "categorySlug": "handyman",
   "count": 8,
   "zips": 5,
+  "blog": "how-much-does-a-handyman-cost-in-tacoma"
+ },
+ {
+  "url": "https://vansquads.com/handyman/tampa/",
+  "metro": "Tampa",
+  "metroSlug": "tampa",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/toledo/",
+  "metro": "Toledo",
+  "metroSlug": "toledo",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 5,
+  "zips": 1,
   "blog": null
  },
  {
@@ -617,6 +1367,16 @@
   "categorySlug": "handyman",
   "count": 6,
   "zips": 1,
+  "blog": "how-much-does-a-handyman-cost-in-tulsa"
+ },
+ {
+  "url": "https://vansquads.com/handyman/west-palm-beach/",
+  "metro": "West Palm Beach",
+  "metroSlug": "west-palm-beach",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 7,
+  "zips": 2,
   "blog": null
  },
  {
@@ -650,6 +1410,46 @@
   "blog": "how-much-does-house-cleaning-cost-in-albuquerque"
  },
  {
+  "url": "https://vansquads.com/house-cleaning/allentown/",
+  "metro": "Allentown",
+  "metroSlug": "allentown",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/ann-arbor/",
+  "metro": "Ann Arbor",
+  "metroSlug": "ann-arbor",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 16,
+  "zips": 16,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 29,
+  "zips": 11,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/augusta/",
+  "metro": "Augusta",
+  "metroSlug": "augusta",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 8,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/austin/",
   "metro": "Austin",
   "metroSlug": "austin",
@@ -657,6 +1457,16 @@
   "categorySlug": "house-cleaning",
   "count": 17,
   "zips": 34,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/bangor/",
+  "metro": "Bangor",
+  "metroSlug": "bangor",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 6,
+  "zips": 1,
   "blog": null
  },
  {
@@ -670,12 +1480,42 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/beckley/",
+  "metro": "Beckley",
+  "metroSlug": "beckley",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 9,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/bethlehem/",
+  "metro": "Bethlehem",
+  "metroSlug": "bethlehem",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 12,
+  "zips": 8,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/billings/",
   "metro": "Billings",
   "metroSlug": "billings",
   "category": "House cleaning",
   "categorySlug": "house-cleaning",
   "count": 4,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/birmingham/",
+  "metro": "Birmingham",
+  "metroSlug": "birmingham",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
   "zips": 2,
   "blog": null
  },
@@ -687,7 +1527,7 @@
   "categorySlug": "house-cleaning",
   "count": 12,
   "zips": 3,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-bismarck"
  },
  {
   "url": "https://vansquads.com/house-cleaning/boise/",
@@ -700,6 +1540,26 @@
   "blog": "how-much-does-house-cleaning-cost-in-boise"
  },
  {
+  "url": "https://vansquads.com/house-cleaning/boston/",
+  "metro": "Boston",
+  "metroSlug": "boston",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 29,
+  "zips": 40,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/bowling-green/",
+  "metro": "Bowling Green",
+  "metroSlug": "bowling-green",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/bozeman/",
   "metro": "Bozeman",
   "metroSlug": "bozeman",
@@ -707,6 +1567,26 @@
   "categorySlug": "house-cleaning",
   "count": 5,
   "zips": 6,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/brattleboro/",
+  "metro": "Brattleboro",
+  "metroSlug": "brattleboro",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/burlington/",
+  "metro": "Burlington",
+  "metroSlug": "burlington",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 4,
   "blog": null
  },
  {
@@ -730,6 +1610,46 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/charleston-west-virginia/",
+  "metro": "Charleston, West Virginia",
+  "metroSlug": "charleston-west-virginia",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/charleston/",
+  "metro": "Charleston",
+  "metroSlug": "charleston",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 12,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 12,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/chattanooga/",
+  "metro": "Chattanooga",
+  "metroSlug": "chattanooga",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 26,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/cheyenne/",
   "metro": "Cheyenne",
   "metroSlug": "cheyenne",
@@ -737,6 +1657,36 @@
   "categorySlug": "house-cleaning",
   "count": 4,
   "zips": 1,
+  "blog": "how-much-does-house-cleaning-cost-in-cheyenne"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 23,
+  "zips": 12,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/cincinnati/",
+  "metro": "Cincinnati",
+  "metroSlug": "cincinnati",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 13,
+  "zips": 36,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/cleveland/",
+  "metro": "Cleveland",
+  "metroSlug": "cleveland",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 6,
+  "zips": 12,
   "blog": null
  },
  {
@@ -760,12 +1710,42 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/columbia-south-carolina/",
+  "metro": "Columbia, South Carolina",
+  "metroSlug": "columbia-south-carolina",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/columbia/",
   "metro": "Columbia",
   "metroSlug": "columbia",
   "category": "House cleaning",
   "categorySlug": "house-cleaning",
   "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 14,
+  "zips": 33,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/concord/",
+  "metro": "Concord",
+  "metroSlug": "concord",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
   "zips": 1,
   "blog": null
  },
@@ -790,6 +1770,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/dayton/",
+  "metro": "Dayton",
+  "metroSlug": "dayton",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 8,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/denver/",
   "metro": "Denver",
   "metroSlug": "denver",
@@ -797,7 +1787,7 @@
   "categorySlug": "house-cleaning",
   "count": 8,
   "zips": 4,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-denver"
  },
  {
   "url": "https://vansquads.com/house-cleaning/des-moines/",
@@ -810,6 +1800,56 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/detroit/",
+  "metro": "Detroit",
+  "metroSlug": "detroit",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 15,
+  "zips": 16,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/durham/",
+  "metro": "Durham",
+  "metroSlug": "durham",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/elizabethtown/",
+  "metro": "Elizabethtown",
+  "metroSlug": "elizabethtown",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/erie/",
+  "metro": "Erie",
+  "metroSlug": "erie",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/evansville/",
+  "metro": "Evansville",
+  "metroSlug": "evansville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/fargo/",
   "metro": "Fargo",
   "metroSlug": "fargo",
@@ -817,7 +1857,7 @@
   "categorySlug": "house-cleaning",
   "count": 14,
   "zips": 4,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-fargo"
  },
  {
   "url": "https://vansquads.com/house-cleaning/farmington/",
@@ -850,6 +1890,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/fort-lauderdale/",
+  "metro": "Fort Lauderdale",
+  "metroSlug": "fort-lauderdale",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/fort-wayne/",
+  "metro": "Fort Wayne",
+  "metroSlug": "fort-wayne",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 10,
+  "zips": 23,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/grand-forks/",
   "metro": "Grand Forks",
   "metroSlug": "grand-forks",
@@ -867,6 +1927,16 @@
   "categorySlug": "house-cleaning",
   "count": 6,
   "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/grand-rapids/",
+  "metro": "Grand Rapids",
+  "metroSlug": "grand-rapids",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 11,
+  "zips": 1,
   "blog": null
  },
  {
@@ -890,6 +1960,56 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/greensboro/",
+  "metro": "Greensboro",
+  "metroSlug": "greensboro",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/greenville/",
+  "metro": "Greenville",
+  "metroSlug": "greenville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 10,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/gulfport/",
+  "metro": "Gulfport",
+  "metroSlug": "gulfport",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/harrisburg/",
+  "metro": "Harrisburg",
+  "metroSlug": "harrisburg",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 11,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/hattiesburg/",
+  "metro": "Hattiesburg",
+  "metroSlug": "hattiesburg",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/houston/",
   "metro": "Houston",
   "metroSlug": "houston",
@@ -897,6 +2017,66 @@
   "categorySlug": "house-cleaning",
   "count": 19,
   "zips": 9,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/huntington/",
+  "metro": "Huntington",
+  "metroSlug": "huntington",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/huntsville/",
+  "metro": "Huntsville",
+  "metroSlug": "huntsville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 24,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 17,
+  "zips": 28,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/jackson/",
+  "metro": "Jackson",
+  "metroSlug": "jackson",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 12,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/jacksonville/",
+  "metro": "Jacksonville",
+  "metroSlug": "jacksonville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/joliet/",
+  "metro": "Joliet",
+  "metroSlug": "joliet",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
   "blog": null
  },
  {
@@ -917,6 +2097,26 @@
   "categorySlug": "house-cleaning",
   "count": 11,
   "zips": 5,
+  "blog": "how-much-does-house-cleaning-cost-in-kansas-city"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/knoxville/",
+  "metro": "Knoxville",
+  "metroSlug": "knoxville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 13,
+  "zips": 16,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/lafayette-indiana/",
+  "metro": "Lafayette, Indiana",
+  "metroSlug": "lafayette-indiana",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 1,
   "blog": null
  },
  {
@@ -930,6 +2130,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/lansing/",
+  "metro": "Lansing",
+  "metroSlug": "lansing",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/las-cruces/",
   "metro": "Las Cruces",
   "metroSlug": "las-cruces",
@@ -937,7 +2147,7 @@
   "categorySlug": "house-cleaning",
   "count": 6,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-las-cruces"
  },
  {
   "url": "https://vansquads.com/house-cleaning/las-vegas/",
@@ -960,6 +2170,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/lewiston/",
+  "metro": "Lewiston",
+  "metroSlug": "lewiston",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/lexington/",
+  "metro": "Lexington",
+  "metroSlug": "lexington",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 6,
+  "zips": 17,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/lincoln/",
   "metro": "Lincoln",
   "metroSlug": "lincoln",
@@ -967,7 +2197,7 @@
   "categorySlug": "house-cleaning",
   "count": 14,
   "zips": 10,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-lincoln"
  },
  {
   "url": "https://vansquads.com/house-cleaning/little-rock/",
@@ -980,6 +2210,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 11,
+  "zips": 17,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/madison/",
   "metro": "Madison",
   "metroSlug": "madison",
@@ -987,6 +2227,46 @@
   "categorySlug": "house-cleaning",
   "count": 6,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/manchester/",
+  "metro": "Manchester",
+  "metroSlug": "manchester",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/martinsburg/",
+  "metro": "Martinsburg",
+  "metroSlug": "martinsburg",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 9,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/memphis/",
+  "metro": "Memphis",
+  "metroSlug": "memphis",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 16,
+  "zips": 15,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 23,
+  "zips": 10,
   "blog": null
  },
  {
@@ -1010,6 +2290,56 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/mobile/",
+  "metro": "Mobile",
+  "metroSlug": "mobile",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/morgantown/",
+  "metro": "Morgantown",
+  "metroSlug": "morgantown",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/naperville/",
+  "metro": "Naperville",
+  "metroSlug": "naperville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/nashua/",
+  "metro": "Nashua",
+  "metroSlug": "nashua",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 6,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 19,
+  "zips": 22,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
@@ -1017,6 +2347,26 @@
   "categorySlug": "house-cleaning",
   "count": 14,
   "zips": 4,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/new-york/",
+  "metro": "New York",
+  "metroSlug": "new-york",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 33,
+  "zips": 71,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/northern-virginia/",
+  "metro": "Northern Virginia",
+  "metroSlug": "northern-virginia",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 25,
+  "zips": 65,
   "blog": null
  },
  {
@@ -1047,6 +2397,36 @@
   "categorySlug": "house-cleaning",
   "count": 19,
   "zips": 4,
+  "blog": "how-much-does-house-cleaning-cost-in-omaha"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 15,
+  "zips": 43,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/owensboro/",
+  "metro": "Owensboro",
+  "metroSlug": "owensboro",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 20,
+  "zips": 8,
   "blog": null
  },
  {
@@ -1057,6 +2437,26 @@
   "categorySlug": "house-cleaning",
   "count": 9,
   "zips": 22,
+  "blog": "how-much-does-house-cleaning-cost-in-phoenix"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 20,
+  "zips": 5,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/portland-maine/",
+  "metro": "Portland, Maine",
+  "metroSlug": "portland-maine",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 17,
+  "zips": 8,
   "blog": null
  },
  {
@@ -1067,6 +2467,26 @@
   "categorySlug": "house-cleaning",
   "count": 17,
   "zips": 7,
+  "blog": "how-much-does-house-cleaning-cost-in-portland"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/portsmouth/",
+  "metro": "Portsmouth",
+  "metroSlug": "portsmouth",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/raleigh/",
+  "metro": "Raleigh",
+  "metroSlug": "raleigh",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1077,6 +2497,16 @@
   "categorySlug": "house-cleaning",
   "count": 6,
   "zips": 3,
+  "blog": "how-much-does-house-cleaning-cost-in-rapid-city"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/richmond/",
+  "metro": "Richmond",
+  "metroSlug": "richmond",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 22,
   "blog": null
  },
  {
@@ -1127,7 +2557,7 @@
   "categorySlug": "house-cleaning",
   "count": 8,
   "zips": 26,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-salt-lake-city"
  },
  {
   "url": "https://vansquads.com/house-cleaning/san-antonio/",
@@ -1147,6 +2577,16 @@
   "categorySlug": "house-cleaning",
   "count": 7,
   "zips": 3,
+  "blog": "how-much-does-house-cleaning-cost-in-santa-fe"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/savannah/",
+  "metro": "Savannah",
+  "metroSlug": "savannah",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1167,6 +2607,26 @@
   "categorySlug": "house-cleaning",
   "count": 20,
   "zips": 11,
+  "blog": "how-much-does-house-cleaning-cost-in-sioux-falls"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/south-bend/",
+  "metro": "South Bend",
+  "metroSlug": "south-bend",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 20,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/spartanburg/",
+  "metro": "Spartanburg",
+  "metroSlug": "spartanburg",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 2,
   "blog": null
  },
  {
@@ -1190,6 +2650,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/st-petersburg/",
+  "metro": "St. Petersburg",
+  "metroSlug": "st-petersburg",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/tampa/",
+  "metro": "Tampa",
+  "metroSlug": "tampa",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 9,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/topeka/",
   "metro": "Topeka",
   "metroSlug": "topeka",
@@ -1207,6 +2687,36 @@
   "categorySlug": "house-cleaning",
   "count": 8,
   "zips": 5,
+  "blog": "how-much-does-house-cleaning-cost-in-tulsa"
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/tupelo/",
+  "metro": "Tupelo",
+  "metroSlug": "tupelo",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/tuscaloosa/",
+  "metro": "Tuscaloosa",
+  "metroSlug": "tuscaloosa",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/virginia-beach/",
+  "metro": "Virginia Beach",
+  "metroSlug": "virginia-beach",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 9,
   "blog": null
  },
  {
@@ -1220,6 +2730,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/west-palm-beach/",
+  "metro": "West Palm Beach",
+  "metroSlug": "west-palm-beach",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/wheeling/",
+  "metro": "Wheeling",
+  "metroSlug": "wheeling",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/wichita/",
   "metro": "Wichita",
   "metroSlug": "wichita",
@@ -1227,7 +2757,7 @@
   "categorySlug": "house-cleaning",
   "count": 10,
   "zips": 2,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-wichita"
  },
  {
   "url": "https://vansquads.com/house-cleaning/williston/",
@@ -1248,6 +2778,36 @@
   "count": 19,
   "zips": 2,
   "blog": "how-much-does-mobile-car-detailing-cost-in-albuquerque"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/allentown/",
+  "metro": "Allentown",
+  "metroSlug": "allentown",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/ann-arbor/",
+  "metro": "Ann Arbor",
+  "metroSlug": "ann-arbor",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 15,
+  "zips": 2,
+  "blog": null
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/austin/",
@@ -1280,6 +2840,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/birmingham/",
+  "metro": "Birmingham",
+  "metroSlug": "birmingham",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 4,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/boise/",
   "metro": "Boise",
   "metroSlug": "boise",
@@ -1290,6 +2860,26 @@
   "blog": "how-much-does-mobile-car-detailing-cost-in-boise"
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/boston/",
+  "metro": "Boston",
+  "metroSlug": "boston",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 21,
+  "zips": 8,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/bowling-green/",
+  "metro": "Bowling Green",
+  "metroSlug": "bowling-green",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/bozeman/",
   "metro": "Bozeman",
   "metroSlug": "bozeman",
@@ -1297,6 +2887,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 5,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/burlington/",
+  "metro": "Burlington",
+  "metroSlug": "burlington",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 4,
+  "zips": 3,
   "blog": null
  },
  {
@@ -1310,6 +2910,76 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/charleston/",
+  "metro": "Charleston",
+  "metroSlug": "charleston",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/chattanooga/",
+  "metro": "Chattanooga",
+  "metroSlug": "chattanooga",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 11,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/cincinnati/",
+  "metro": "Cincinnati",
+  "metroSlug": "cincinnati",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/cleveland/",
+  "metro": "Cleveland",
+  "metroSlug": "cleveland",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/columbia-south-carolina/",
+  "metro": "Columbia, South Carolina",
+  "metroSlug": "columbia-south-carolina",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/columbia/",
   "metro": "Columbia",
   "metroSlug": "columbia",
@@ -1317,6 +2987,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 6,
   "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 6,
+  "zips": 3,
   "blog": null
  },
  {
@@ -1337,7 +3017,7 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 16,
   "zips": 2,
-  "blog": null
+  "blog": "how-much-does-mobile-car-detailing-cost-in-denver"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/des-moines/",
@@ -1350,12 +3030,42 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/detroit/",
+  "metro": "Detroit",
+  "metroSlug": "detroit",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 13,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/erie/",
+  "metro": "Erie",
+  "metroSlug": "erie",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/fayetteville/",
   "metro": "Fayetteville",
   "metroSlug": "fayetteville",
   "category": "Mobile auto detailing",
   "categorySlug": "mobile-auto-detailing",
   "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/fort-wayne/",
+  "metro": "Fort Wayne",
+  "metroSlug": "fort-wayne",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 6,
   "zips": 1,
   "blog": null
  },
@@ -1370,12 +3080,52 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/grand-rapids/",
+  "metro": "Grand Rapids",
+  "metroSlug": "grand-rapids",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/green-bay/",
   "metro": "Green Bay",
   "metroSlug": "green-bay",
   "category": "Mobile auto detailing",
   "categorySlug": "mobile-auto-detailing",
   "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/greenville/",
+  "metro": "Greenville",
+  "metroSlug": "greenville",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 11,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/gulfport/",
+  "metro": "Gulfport",
+  "metroSlug": "gulfport",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/harrisburg/",
+  "metro": "Harrisburg",
+  "metroSlug": "harrisburg",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 6,
   "zips": 1,
   "blog": null
  },
@@ -1387,6 +3137,56 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 20,
   "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/huntington/",
+  "metro": "Huntington",
+  "metroSlug": "huntington",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/huntsville/",
+  "metro": "Huntsville",
+  "metroSlug": "huntsville",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/jackson/",
+  "metro": "Jackson",
+  "metroSlug": "jackson",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 10,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/jacksonville/",
+  "metro": "Jacksonville",
+  "metroSlug": "jacksonville",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 9,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1407,7 +3207,7 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 12,
   "zips": 7,
-  "blog": null
+  "blog": "how-much-does-mobile-car-detailing-cost-in-kansas-city"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/las-cruces/",
@@ -1427,6 +3227,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 8,
   "zips": 11,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-las-vegas"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/lexington/",
+  "metro": "Lexington",
+  "metroSlug": "lexington",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 6,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1437,7 +3247,7 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 3,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-mobile-car-detailing-cost-in-lincoln"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/little-rock/",
@@ -1450,6 +3260,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/madison/",
   "metro": "Madison",
   "metroSlug": "madison",
@@ -1457,6 +3277,26 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 4,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/manchester/",
+  "metro": "Manchester",
+  "metroSlug": "manchester",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 27,
+  "zips": 5,
   "blog": null
  },
  {
@@ -1480,12 +3320,62 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/morgantown/",
+  "metro": "Morgantown",
+  "metroSlug": "morgantown",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/naperville/",
+  "metro": "Naperville",
+  "metroSlug": "naperville",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 15,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
   "category": "Mobile auto detailing",
   "categorySlug": "mobile-auto-detailing",
   "count": 11,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/new-york/",
+  "metro": "New York",
+  "metroSlug": "new-york",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 11,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/northern-virginia/",
+  "metro": "Northern Virginia",
+  "metroSlug": "northern-virginia",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 14,
   "zips": 2,
   "blog": null
  },
@@ -1507,6 +3397,26 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 8,
   "zips": 4,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-omaha"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 17,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 13,
+  "zips": 3,
   "blog": null
  },
  {
@@ -1517,6 +3427,26 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 9,
   "zips": 4,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-phoenix"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 17,
+  "zips": 4,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/portland-maine/",
+  "metro": "Portland, Maine",
+  "metroSlug": "portland-maine",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 3,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1527,6 +3457,26 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 6,
   "zips": 2,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-portland"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/raleigh/",
+  "metro": "Raleigh",
+  "metroSlug": "raleigh",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/richmond/",
+  "metro": "Richmond",
+  "metroSlug": "richmond",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 23,
   "blog": null
  },
  {
@@ -1567,7 +3517,7 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 14,
   "zips": 2,
-  "blog": null
+  "blog": "how-much-does-mobile-car-detailing-cost-in-salt-lake-city"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/san-antonio/",
@@ -1587,6 +3537,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 4,
   "zips": 2,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-santa-fe"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/savannah/",
+  "metro": "Savannah",
+  "metroSlug": "savannah",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1597,7 +3557,7 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 8,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-mobile-car-detailing-cost-in-seattle"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/sioux-falls/",
@@ -1607,6 +3567,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 8,
   "zips": 16,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-sioux-falls"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/south-bend/",
+  "metro": "South Bend",
+  "metroSlug": "south-bend",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1620,12 +3590,32 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/tampa/",
+  "metro": "Tampa",
+  "metroSlug": "tampa",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 9,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/tulsa/",
   "metro": "Tulsa",
   "metroSlug": "tulsa",
   "category": "Mobile auto detailing",
   "categorySlug": "mobile-auto-detailing",
   "count": 6,
+  "zips": 1,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-tulsa"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/virginia-beach/",
+  "metro": "Virginia Beach",
+  "metroSlug": "virginia-beach",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
   "zips": 1,
   "blog": null
  },
@@ -1637,6 +3627,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 10,
   "zips": 2,
+  "blog": "how-much-does-mobile-car-detailing-cost-in-wichita"
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/winston-salem/",
+  "metro": "Winston-Salem",
+  "metroSlug": "winston-salem",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 8,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1648,6 +3648,26 @@
   "count": 5,
   "zips": 9,
   "blog": "how-much-does-mobile-pet-grooming-cost-in-albuquerque"
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/allentown/",
+  "metro": "Allentown",
+  "metroSlug": "allentown",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 11,
+  "zips": 17,
+  "blog": null
  },
  {
   "url": "https://vansquads.com/mobile-pet-grooming/austin/",
@@ -1667,7 +3687,7 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 3,
   "zips": 6,
-  "blog": null
+  "blog": "how-much-does-mobile-pet-grooming-cost-in-bismarck"
  },
  {
   "url": "https://vansquads.com/mobile-pet-grooming/boise/",
@@ -1677,6 +3697,66 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 6,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/boston/",
+  "metro": "Boston",
+  "metroSlug": "boston",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/charleston/",
+  "metro": "Charleston",
+  "metroSlug": "charleston",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/columbia-south-carolina/",
+  "metro": "Columbia, South Carolina",
+  "metroSlug": "columbia-south-carolina",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 28,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 2,
   "blog": null
  },
  {
@@ -1710,6 +3790,36 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/fort-lauderdale/",
+  "metro": "Fort Lauderdale",
+  "metroSlug": "fort-lauderdale",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/greenville/",
+  "metro": "Greenville",
+  "metroSlug": "greenville",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 18,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/harrisburg/",
+  "metro": "Harrisburg",
+  "metroSlug": "harrisburg",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/houston/",
   "metro": "Houston",
   "metroSlug": "houston",
@@ -1720,6 +3830,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/kansas-city/",
   "metro": "Kansas City",
   "metroSlug": "kansas-city",
@@ -1727,7 +3847,7 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 7,
   "zips": 2,
-  "blog": null
+  "blog": "how-much-does-mobile-pet-grooming-cost-in-kansas-city"
  },
  {
   "url": "https://vansquads.com/mobile-pet-grooming/las-vegas/",
@@ -1737,7 +3857,7 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 7,
   "zips": 20,
-  "blog": null
+  "blog": "how-much-does-mobile-pet-grooming-cost-in-las-vegas"
  },
  {
   "url": "https://vansquads.com/mobile-pet-grooming/lincoln/",
@@ -1747,12 +3867,22 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 3,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-mobile-pet-grooming-cost-in-lincoln"
  },
  {
   "url": "https://vansquads.com/mobile-pet-grooming/little-rock/",
   "metro": "Little Rock",
   "metroSlug": "little-rock",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
   "category": "Mobile pet grooming",
   "categorySlug": "mobile-pet-grooming",
   "count": 3,
@@ -1770,6 +3900,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 12,
+  "zips": 7,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/minneapolis/",
   "metro": "Minneapolis",
   "metroSlug": "minneapolis",
@@ -1780,6 +3920,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/naperville/",
+  "metro": "Naperville",
+  "metroSlug": "naperville",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 7,
+  "zips": 3,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
@@ -1787,6 +3947,26 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 3,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/new-york/",
+  "metro": "New York",
+  "metroSlug": "new-york",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 16,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/northern-virginia/",
+  "metro": "Northern Virginia",
+  "metroSlug": "northern-virginia",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 23,
   "blog": null
  },
  {
@@ -1810,6 +3990,46 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 6,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/portland-maine/",
+  "metro": "Portland, Maine",
+  "metroSlug": "portland-maine",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/portland/",
   "metro": "Portland",
   "metroSlug": "portland",
@@ -1817,6 +4037,16 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 6,
   "zips": 22,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-pet-grooming/raleigh/",
+  "metro": "Raleigh",
+  "metroSlug": "raleigh",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 6,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1837,7 +4067,7 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 5,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-mobile-pet-grooming-cost-in-salt-lake-city"
  },
  {
   "url": "https://vansquads.com/mobile-pet-grooming/san-antonio/",
@@ -1867,7 +4097,7 @@
   "categorySlug": "mobile-pet-grooming",
   "count": 3,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-mobile-pet-grooming-cost-in-tulsa"
  },
  {
   "url": "https://vansquads.com/pool-cleaning-maintenance/albuquerque/",
@@ -1880,6 +4110,16 @@
   "blog": "how-much-does-pool-cleaning-cost-in-albuquerque"
  },
  {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 7,
+  "zips": 6,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pool-cleaning-maintenance/austin/",
   "metro": "Austin",
   "metroSlug": "austin",
@@ -1887,6 +4127,56 @@
   "categorySlug": "pool-cleaning-maintenance",
   "count": 10,
   "zips": 6,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/birmingham/",
+  "metro": "Birmingham",
+  "metroSlug": "birmingham",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 6,
+  "zips": 7,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 3,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/columbia-south-carolina/",
+  "metro": "Columbia, South Carolina",
+  "metroSlug": "columbia-south-carolina",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 4,
+  "zips": 1,
   "blog": null
  },
  {
@@ -1910,6 +4200,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/fort-lauderdale/",
+  "metro": "Fort Lauderdale",
+  "metroSlug": "fort-lauderdale",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pool-cleaning-maintenance/houston/",
   "metro": "Houston",
   "metroSlug": "houston",
@@ -1920,6 +4220,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/jackson/",
+  "metro": "Jackson",
+  "metroSlug": "jackson",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 5,
+  "zips": 3,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pool-cleaning-maintenance/kansas-city/",
   "metro": "Kansas City",
   "metroSlug": "kansas-city",
@@ -1927,7 +4247,7 @@
   "categorySlug": "pool-cleaning-maintenance",
   "count": 4,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-pool-cleaning-cost-in-kansas-city"
  },
  {
   "url": "https://vansquads.com/pool-cleaning-maintenance/lawrence/",
@@ -1950,9 +4270,39 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 7,
+  "zips": 20,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pool-cleaning-maintenance/milwaukee/",
   "metro": "Milwaukee",
   "metroSlug": "milwaukee",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
   "category": "Pool cleaning & maintenance",
   "categorySlug": "pool-cleaning-maintenance",
   "count": 5,
@@ -1990,12 +4340,52 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 8,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pool-cleaning-maintenance/phoenix/",
   "metro": "Phoenix",
   "metroSlug": "phoenix",
   "category": "Pool cleaning & maintenance",
   "categorySlug": "pool-cleaning-maintenance",
   "count": 8,
+  "zips": 5,
+  "blog": "how-much-does-pool-cleaning-cost-in-phoenix"
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/portland-maine/",
+  "metro": "Portland, Maine",
+  "metroSlug": "portland-maine",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 5,
   "zips": 5,
   "blog": null
  },
@@ -2030,6 +4420,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/tampa/",
+  "metro": "Tampa",
+  "metroSlug": "tampa",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 6,
+  "zips": 22,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/atlanta/",
+  "metro": "Atlanta",
+  "metroSlug": "atlanta",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 12,
+  "zips": 11,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pressure-washing/austin/",
   "metro": "Austin",
   "metroSlug": "austin",
@@ -2050,6 +4460,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pressure-washing/bethlehem/",
+  "metro": "Bethlehem",
+  "metroSlug": "bethlehem",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/birmingham/",
+  "metro": "Birmingham",
+  "metroSlug": "birmingham",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 8,
+  "zips": 3,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pressure-washing/boise/",
   "metro": "Boise",
   "metroSlug": "boise",
@@ -2058,6 +4488,106 @@
   "count": 7,
   "zips": 1,
   "blog": "how-much-does-pressure-washing-cost-in-boise"
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/boston/",
+  "metro": "Boston",
+  "metroSlug": "boston",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 12,
+  "zips": 10,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/burlington/",
+  "metro": "Burlington",
+  "metroSlug": "burlington",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/cary/",
+  "metro": "Cary",
+  "metroSlug": "cary",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 7,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/charleston-west-virginia/",
+  "metro": "Charleston, West Virginia",
+  "metroSlug": "charleston-west-virginia",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/charleston/",
+  "metro": "Charleston",
+  "metroSlug": "charleston",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 7,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/charlotte/",
+  "metro": "Charlotte",
+  "metroSlug": "charlotte",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/chattanooga/",
+  "metro": "Chattanooga",
+  "metroSlug": "chattanooga",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 6,
+  "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/chicago/",
+  "metro": "Chicago",
+  "metroSlug": "chicago",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 11,
+  "zips": 6,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/cincinnati/",
+  "metro": "Cincinnati",
+  "metroSlug": "cincinnati",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/columbus/",
+  "metro": "Columbus",
+  "metroSlug": "columbus",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 7,
+  "zips": 1,
+  "blog": null
  },
  {
   "url": "https://vansquads.com/pressure-washing/dallas-fort-worth/",
@@ -2077,7 +4607,7 @@
   "categorySlug": "pressure-washing",
   "count": 8,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-denver"
  },
  {
   "url": "https://vansquads.com/pressure-washing/des-moines/",
@@ -2090,6 +4620,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pressure-washing/detroit/",
+  "metro": "Detroit",
+  "metroSlug": "detroit",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pressure-washing/fargo/",
   "metro": "Fargo",
   "metroSlug": "fargo",
@@ -2097,6 +4637,26 @@
   "categorySlug": "pressure-washing",
   "count": 4,
   "zips": 4,
+  "blog": "how-much-does-pressure-washing-cost-in-fargo"
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/greenville/",
+  "metro": "Greenville",
+  "metroSlug": "greenville",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 9,
+  "zips": 4,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/harrisburg/",
+  "metro": "Harrisburg",
+  "metroSlug": "harrisburg",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 4,
+  "zips": 3,
   "blog": null
  },
  {
@@ -2110,6 +4670,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pressure-washing/indianapolis/",
+  "metro": "Indianapolis",
+  "metroSlug": "indianapolis",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 6,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/jackson/",
+  "metro": "Jackson",
+  "metroSlug": "jackson",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pressure-washing/kansas-city/",
   "metro": "Kansas City",
   "metroSlug": "kansas-city",
@@ -2117,6 +4697,16 @@
   "categorySlug": "pressure-washing",
   "count": 9,
   "zips": 4,
+  "blog": "how-much-does-pressure-washing-cost-in-kansas-city"
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/lexington/",
+  "metro": "Lexington",
+  "metroSlug": "lexington",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 7,
+  "zips": 5,
   "blog": null
  },
  {
@@ -2127,7 +4717,7 @@
   "categorySlug": "pressure-washing",
   "count": 4,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-lincoln"
  },
  {
   "url": "https://vansquads.com/pressure-washing/little-rock/",
@@ -2136,6 +4726,26 @@
   "category": "Pressure washing",
   "categorySlug": "pressure-washing",
   "count": 6,
+  "zips": 5,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/louisville/",
+  "metro": "Louisville",
+  "metroSlug": "louisville",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/miami/",
+  "metro": "Miami",
+  "metroSlug": "miami",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 8,
   "zips": 5,
   "blog": null
  },
@@ -2160,6 +4770,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pressure-washing/nashville/",
+  "metro": "Nashville",
+  "metroSlug": "nashville",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 7,
+  "zips": 5,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pressure-washing/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
@@ -2167,6 +4787,26 @@
   "categorySlug": "pressure-washing",
   "count": 6,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/new-york/",
+  "metro": "New York",
+  "metroSlug": "new-york",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 10,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/northern-virginia/",
+  "metro": "Northern Virginia",
+  "metroSlug": "northern-virginia",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 12,
+  "zips": 7,
   "blog": null
  },
  {
@@ -2187,6 +4827,46 @@
   "categorySlug": "pressure-washing",
   "count": 6,
   "zips": 1,
+  "blog": "how-much-does-pressure-washing-cost-in-omaha"
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/orlando/",
+  "metro": "Orlando",
+  "metroSlug": "orlando",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 7,
+  "zips": 6,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/philadelphia/",
+  "metro": "Philadelphia",
+  "metroSlug": "philadelphia",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 14,
+  "zips": 5,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/pittsburgh/",
+  "metro": "Pittsburgh",
+  "metroSlug": "pittsburgh",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 10,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/portland-maine/",
+  "metro": "Portland, Maine",
+  "metroSlug": "portland-maine",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 3,
+  "zips": 2,
   "blog": null
  },
  {
@@ -2197,7 +4877,7 @@
   "categorySlug": "pressure-washing",
   "count": 8,
   "zips": 6,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-portland"
  },
  {
   "url": "https://vansquads.com/pressure-washing/racine/",
@@ -2217,7 +4897,7 @@
   "categorySlug": "pressure-washing",
   "count": 4,
   "zips": 4,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-rapid-city"
  },
  {
   "url": "https://vansquads.com/pressure-washing/salt-lake-city/",
@@ -2227,7 +4907,7 @@
   "categorySlug": "pressure-washing",
   "count": 5,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-salt-lake-city"
  },
  {
   "url": "https://vansquads.com/pressure-washing/san-antonio/",
@@ -2257,7 +4937,7 @@
   "categorySlug": "pressure-washing",
   "count": 5,
   "zips": 9,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-sioux-falls"
  },
  {
   "url": "https://vansquads.com/pressure-washing/st-louis/",
@@ -2270,6 +4950,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/pressure-washing/tampa/",
+  "metro": "Tampa",
+  "metroSlug": "tampa",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 8,
+  "zips": 5,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/pressure-washing/tulsa/",
   "metro": "Tulsa",
   "metroSlug": "tulsa",
@@ -2277,7 +4967,7 @@
   "categorySlug": "pressure-washing",
   "count": 6,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-tulsa"
  },
  {
   "url": "https://vansquads.com/pressure-washing/wichita/",
@@ -2287,6 +4977,6 @@
   "categorySlug": "pressure-washing",
   "count": 4,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-pressure-washing-cost-in-wichita"
  }
 ]
