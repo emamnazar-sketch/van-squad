@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "a677d0b2-2528-44f2-968b-63f81273ba83",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Hopedale Home Services LLC",
+   "category": "Handyman",
+   "phone": "(401) 230-8291",
+   "website": "",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02906"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8d0cc89e-27cc-453f-bde7-805ff7913d1f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Hearth And Hammer Residential Services",
+   "category": "Handyman",
+   "phone": "(774) 488-1102",
+   "website": "https://hearthandhammer.org/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02906"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fd423efd-faff-4dcd-aea1-7e9ff48ca42f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "CWS Handyman LLC",
+   "category": "Handyman",
+   "phone": "(401) 252-6337",
+   "website": "https://cwshandyman.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02906"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fba8bd30-5646-4618-a190-59228e50d1e5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "RealHandy Inc",
+   "category": "Handyman",
+   "phone": "(401) 228-6488",
+   "website": "http://www.realhandyri.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02906"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "c3646870-0378-4d0e-9922-44da9a15dfb1",
+   "business_id": "a677d0b2-2528-44f2-968b-63f81273ba83",
+   "title": "Handyman in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "930433a0-0027-42b5-b8b4-36e381aa613f",
+   "business_id": "8d0cc89e-27cc-453f-bde7-805ff7913d1f",
+   "title": "Handyman in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b1fc32c4-8a5e-497c-9071-3c28454bf1d1",
+   "business_id": "fd423efd-faff-4dcd-aea1-7e9ff48ca42f",
+   "title": "Handyman in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "da3dfe50-63aa-4e45-a049-3ef15d3262c8",
+   "business_id": "fba8bd30-5646-4618-a190-59228e50d1e5",
+   "title": "Handyman in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

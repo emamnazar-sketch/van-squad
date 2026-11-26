@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "782040a0-9472-41e6-ada8-557479f1a9c9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Avangelina's Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(401) 545-4786",
+   "website": "https://avangelinascleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02910"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "44c31fea-b4ce-4186-9771-d3148fd06d63",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Ana's Team, LLC - Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(401) 867-1610",
+   "website": "https://anasteamcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02910"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f21b3b91-8d56-4116-9300-87b837b1b1bd",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Am\u00e9rica Braga Cleaning",
+   "category": "House cleaning",
+   "phone": "(774) 248-4603",
+   "website": "https://americabragacleaning.me/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02910"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "55e58eb9-61e4-4cea-ad42-94cbf4ed552a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rhode Island Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(401) 402-0110",
+   "website": "https://rhodeislandcleaningservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02910"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "9cf7a8a1-7023-4853-88b5-153f043e7e7c",
+   "business_id": "782040a0-9472-41e6-ada8-557479f1a9c9",
+   "title": "House cleaning in Cranston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "e5d6dd11-4038-4e1c-9514-2ed8cb8f881d",
+   "business_id": "44c31fea-b4ce-4186-9771-d3148fd06d63",
+   "title": "House cleaning in Cranston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3a108788-bb72-4262-80b1-5d8d7ce22deb",
+   "business_id": "f21b3b91-8d56-4116-9300-87b837b1b1bd",
+   "title": "House cleaning in Cranston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "ebd9c4f4-ba38-4677-b776-941988b4c7c3",
+   "business_id": "55e58eb9-61e4-4cea-ad42-94cbf4ed552a",
+   "title": "House cleaning in Cranston",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

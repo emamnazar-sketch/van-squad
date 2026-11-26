@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "f713a6ca-5813-4ab8-a99f-8f02f2c7e6f9",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Sun Pristine Maids",
+   "category": "House cleaning",
+   "phone": "(401) 208-2045",
+   "website": "https://sunpristinemaids.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02903"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5384b971-95f1-4c8f-adb0-673971186331",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Kendall Cleaning Service",
+   "category": "House cleaning",
+   "phone": "(508) 718-7792",
+   "website": "http://kendallcleaningservice.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02903"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a6efb379-42c7-4bf8-92b5-8f838e1a0b06",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tavares Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(401) 461-4495",
+   "website": "https://www.tavarescleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02903"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "fe096b8e-2831-4afc-b2db-32a7ce8f73d4",
+   "business_id": "f713a6ca-5813-4ab8-a99f-8f02f2c7e6f9",
+   "title": "House cleaning in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6d870b59-76e4-45a2-bd2e-b8aa351b0418",
+   "business_id": "5384b971-95f1-4c8f-adb0-673971186331",
+   "title": "House cleaning in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "0076479e-8493-4506-a7fe-b9a456fe8dc3",
+   "business_id": "a6efb379-42c7-4bf8-92b5-8f838e1a0b06",
+   "title": "House cleaning in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "businesses": [
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "90f15647-6fb9-4e6f-b7b1-c95630121948",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "New England Pro-Cleaners",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(401) 639-8756",
+   "phone_verified": false,
+   "service_zips": [
+    "02908"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "http://neprocleaners-ri.com/"
+  },
+  {
+   "category": "Deep cleaning",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "email_verified": false,
+   "id": "862c6b47-147c-4046-8856-19b794daa7ef",
+   "is_sample": false,
+   "logo_url": "",
+   "name": "COS Cleaning Services",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "phone": "(401) 996-1610",
+   "phone_verified": false,
+   "service_zips": [
+    "02908"
+   ],
+   "status": "active",
+   "travel_fee": 0,
+   "travel_radius_miles": 25,
+   "verified": false,
+   "website": "https://coscleaningservice.com/"
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "90f15647-6fb9-4e6f-b7b1-c95630121948",
+   "id": "d2bedd2d-5910-4894-ab8d-0687cd330cf0",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning in Providence"
+  },
+  {
+   "business_id": "862c6b47-147c-4046-8856-19b794daa7ef",
+   "id": "596d4e51-cb4b-45d7-b79f-2c9bdcb1d5e3",
+   "is_sample": false,
+   "price_type": "quote",
+   "status": "active",
+   "title": "Deep cleaning in Providence"
+  }
+ ]
+}

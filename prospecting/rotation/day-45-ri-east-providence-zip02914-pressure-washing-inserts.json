@@ -1,0 +1,91 @@
+{
+  "businesses": [
+    {
+      "id": "51c08177-965c-4db0-a97e-28ead18273fd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Foley Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(401) 648-7012",
+      "website": "http://foleypressurewashingri.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02914"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "46f0d6f7-69f2-418e-b1fa-de4a25814827",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Alfa Painting",
+      "category": "Pressure washing",
+      "phone": "(401) 771-4701",
+      "website": "https://www.alfapaintingco.com/services/power-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02914"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f636987a-64d0-4587-837f-848e76f47b53",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "LOPCO Contracting RI",
+      "category": "Pressure washing",
+      "phone": "(401) 270-2664",
+      "website": "https://lopcocontracting.com/home-improvement-services/power-washing/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02914",
+        "02916"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "485c5d21-2aa8-4659-8a2e-7e122187a818",
+      "business_id": "51c08177-965c-4db0-a97e-28ead18273fd",
+      "title": "Pressure washing in East Providence",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "98a56177-a457-4738-84cc-98864db00945",
+      "business_id": "46f0d6f7-69f2-418e-b1fa-de4a25814827",
+      "title": "Pressure washing in East Providence",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "3417aa05-dd11-4508-97d8-4a8bad1a3a64",
+      "business_id": "f636987a-64d0-4587-837f-848e76f47b53",
+      "title": "Pressure washing in East Providence",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

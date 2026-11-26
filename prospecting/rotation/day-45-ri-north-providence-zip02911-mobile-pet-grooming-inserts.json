@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "df5fe29c-2629-4cd0-af97-fac92e7ba5e0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "The Grooming Box Pet Spa",
+      "category": "Mobile pet grooming",
+      "phone": "(401) 626-2872",
+      "website": "https://www.thegroomingbox.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02911"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bafee1a1-883f-4bb4-9206-2c79e2906f44",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Houndstooth Mobile Pet Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(401) 441-7236",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02911"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e4fb5e3a-e54c-4c11-a877-f3c74db4d127",
+      "business_id": "df5fe29c-2629-4cd0-af97-fac92e7ba5e0",
+      "title": "Mobile pet grooming in North Providence",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "aa1f77f8-9248-40f1-aa71-ef2c46422a59",
+      "business_id": "bafee1a1-883f-4bb4-9206-2c79e2906f44",
+      "title": "Mobile pet grooming in North Providence",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

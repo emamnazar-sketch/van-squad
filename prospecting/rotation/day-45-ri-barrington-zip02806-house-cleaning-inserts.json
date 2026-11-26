@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "04fc8566-2a2d-4adf-95ef-5d5d0fc108b5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ocean State Cleaning",
+      "category": "House cleaning",
+      "phone": "(401) 329-3279",
+      "website": "https://oceanstatecleaning.co/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8187494d-0fd3-4e6d-a5c8-63ba26b99dcf",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Silky Pro Maids",
+      "category": "House cleaning",
+      "phone": "(401) 830-0129",
+      "website": "https://silkypromaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "22ad6450-05a4-4e8a-8d8f-6f00101156d8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Heavenly Homes By Nevaeh",
+      "category": "House cleaning",
+      "phone": "(401) 450-7118",
+      "website": "https://sites.google.com/view/heavenlyhomesbynevaeh/home",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02806"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7706109f-0f26-453e-b996-8c1af5826036",
+      "business_id": "04fc8566-2a2d-4adf-95ef-5d5d0fc108b5",
+      "title": "House cleaning in Barrington",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4501f19c-834e-491c-86d7-aff32a29c860",
+      "business_id": "8187494d-0fd3-4e6d-a5c8-63ba26b99dcf",
+      "title": "House cleaning in Barrington",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "73794b76-c143-4897-82b1-170ed7e34949",
+      "business_id": "22ad6450-05a4-4e8a-8d8f-6f00101156d8",
+      "title": "House cleaning in Barrington",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

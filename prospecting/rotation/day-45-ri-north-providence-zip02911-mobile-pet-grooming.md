@@ -1,0 +1,28 @@
+# Day 45 — Rhode Island, North Providence, ZIP 02911 — Mobile pet grooming
+
+Cell: RI | North Providence | 02911 | Mobile pet grooming
+Date researched: 2026-11-26
+Expansion note: Searched 02911 first. North Providence's own groomers (A Decked Out Pet, Shampoochies, Four Paws Grooming, Pet Supplies Plus, Pets II) are all storefront salons with no mobile service confirmed from their own materials — excluded below. The 2 qualifying businesses are Rhode Island mobile operators whose own materials / public listings explicitly state they bring mobile grooming to customers across mainland / most of Rhode Island, which includes North Providence (02911). Adjacent-ZIP expansion within North Providence was also checked and yielded no additional mobile operator. This is an honest thin cell: 2 qualifying businesses, not padded to 3.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| The Grooming Box Pet Spa | (401) 626-2872 | Mobile pet grooming | North Providence | https://www.thegroomingbox.com/ | Contact@thegroomingboxpetspa.com — own site, https://www.thegroomingbox.com/faqs (footer/contact block, also on homepage) | High — Own FAQ page: "Mobile grooming — We come to you!", "one-on-one grooming service right at your doorstep", grooming van referenced, and "We currently service mainland Rhode Island" (02911 is mainland RI, within the 15-mile no-surcharge radius of its Providence base ZIP 02909); phone (401) 626-2872 published on its own site | Own website https://www.thegroomingbox.com/ and https://www.thegroomingbox.com/faqs; BringFido Providence directory ("custom pet grooming services on the go in Providence, RI") | Not found in grep of ~/workspace/van-squad/prospecting/ (name or phone (401) 626-2872) — no duplicate. Also operates a Johnston salon, but mobile service is a distinct, own-site-confirmed operation, so not storefront-only. |
+| Houndstooth Mobile Pet Grooming | (401) 441-7236 | Mobile pet grooming | North Providence | — none verifiable (only a qrco.de link hub is listed as its website on its Google listing; no own domain found, so website left blank) | None published found | Medium — Mobile confirmed by BringFido / Pooch & Harmony: "a mobile pet grooming business that services most of Rhode Island and parts of southern Massachusetts" (only exceptions noted are the Connecticut border and Little Compton — North Providence is served); phone (401) 441-7236 is from its public Google Business listing, corroborated on the Cat Grooming Directory North Providence page. Medium, not High, because no own website was found to confirm the phone directly | Google Business listing for Houndstooth Mobile Pet Grooming (Smithfield, RI address, phone +1 401-441-7236); BringFido Rhode Island / Providence directories; Pooch & Harmony RI groomers list | Not found in grep of ~/workspace/van-squad/prospecting/ (name or phone (401) 441-7236) — no duplicate. |
+
+## Dedupe — skipped (already used tonight, Day 45 Providence 02909 cell)
+- Samy's Pets Mobile Grooming — (401) 688-2123 — SKIPPED: already batched tonight in day-45-ri-providence-zip02909-mobile-pet-grooming (same name + phone).
+- All 4 Paws — (959) 456-8766 — SKIPPED: already batched tonight in the same 02909 cell (same name + phone), even though its own site says its mobile van serves Providence County.
+- Dtails Pet Grooming & Nutrition — (401) 233-8245 — SKIPPED: already batched tonight in the same 02909 cell (same name + phone).
+
+## Exclusions (researched, not included)
+- A Decked Out Pet (1342 Douglas Ave, North Providence, (401) 573-5858) — EXCLUDED: own site describes a private one-on-one grooming room / salon at that address ("Clients come from all around… to the salon on Douglas Avenue"); no mobile / at-home service. Storefront-only.
+- Shampoochies Pet Grooming (1854 Smith St, North Providence, (401) 349-4944) — storefront salon and doggy day camp on its own site; no mobile service confirmed. Excluded.
+- Four Paws Grooming (1270 Mineral Spring Ave, North Providence, (401) 726-2554), Pet Supplies Plus North Providence Grooming ((401) 353-0762), Pets II (2001 Smith St, (401) 232-2140), My Lucky Dog - North Providence ((401) 340-1543) — storefront salons / pet stores; no mobile grooming confirmed from own materials. Excluded.
+- Furry Land of Rhode Island / Furry Land Mobile Groomers (Providence) — EXCLUDED: its own site (furryland.us/providence-new-bedford/ and its Providence pages) publishes only the toll-free (877) 726-3345 — no-toll-free rule. A local (401) 320-5920 appears only on a Facebook-page mirror (voofla), not on its own site or a verified Google listing found in this research; the Furry Land brand is also already in the directory multiple times from earlier cells.
+- Aussie Pet Mobile Rhode Island and NE Connecticut — EXCLUDED: genuine at-your-door mobile service per BringFido, but no local RI operator phone or own location website could be verified (franchise pages only).
+- Zoomin Groomin (Jamestown, RI, (401) 622-0101) — EXCLUDED: Jamestown operator; no service to North Providence / 02911 confirmed from its own materials.
+- The Pooch Waggin' Mobile Dog Grooming — EXCLUDED for this cell: BringFido states it services Kent, Washington, and Newport counties only — not Providence County / North Providence.
+- Woofie's, Hydrodog — EXCLUDED: franchise opportunities only; no Rhode Island / North Providence local operator with a local phone confirmed.
+
+Count: 2 qualifying businesses.
+Email leads: 1 published address collected (The Grooming Box Pet Spa) — in the matching -leads.json. No email was written into any business profile.

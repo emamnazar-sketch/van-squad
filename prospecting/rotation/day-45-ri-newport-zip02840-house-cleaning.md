@@ -1,0 +1,34 @@
+# Day 45 — Rhode Island, Newport, ZIP 02840 — House cleaning
+
+Cell: RI | Newport | 02840 | House cleaning (exact label verified in ~/workspace/van-squad/js/data.js)
+Date: 2026-11-26 (night of Nov 25–26)
+Count: 5 qualifying businesses. No expansion needed — 5 qualified in/serving 02840 itself (≥3 threshold met in the target ZIP).
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + reason | Source | Dedupe / exclusion notes |
+|---|---|---|---|---|---|---|---|---|
+| Mila's House Cleaning | (508) 558-2904 | House cleaning | Newport | https://www.milashousecleaning.com/ | housecleaningmilas@gmail.com — own site: https://www.milashousecleaning.com/ (also its Terms page) | High — own dedicated Newport page: "Insured, detail-oriented cleaning for Newport homes, apartments, and offices", standard/deep/move-in-out/recurring cleaning performed in the customer's Newport home, "Call (508) 558-2904 for a free estimate" printed on that page; email published on its own site | Business's own website (Newport service-area page) | Grep of ~/workspace/van-squad/prospecting/ for name and phone: no match |
+| Cleaning Zoom | (401) 324-9007 | House cleaning | Newport | https://cleaningzoom.com/ | hello@cleaningzoom.com — own site: https://cleaningzoom.com/contact/ | High — own contact page prints "Call Us 401-324-9007" and hello@cleaningzoom.com, lists Newport County under "AREAS WE SERVICE", and its Google description (business's own wording) says "Cleaning Zoom offers house cleaning to Rhode Island & surrounding areas… book instantly online" — cleaners come to the customer's home; based at 55 John Clarke Rd, Middletown, RI 02842 (adjacent Aquidneck Island, serving Newport) | Business's own website (contact page) + Google listing (matching phone/website) | Grep of prospecting files for name and phone: no match |
+| Coastal Home Cleaning and Organizing | (401) 924-4663 | House cleaning | Newport | http://www.coastalhomecleaningri.com/ | hello@coastalhomecleaningandorganizing.net — own site newsletter PDF: https://www.coastalhomecleaningri.com/_files/ugd/27c589_1a38747517004ce5815a9f8be27097f0.pdf | High — own site footer prints "(401) 924-4663" and its own materials describe residential cleaning/organizing performed in clients' homes across Newport County (Newport team; also listed in Newport, RI job postings); Google listing (630 E Main Rd, Middletown) matches name, phone and website, with In-Home Service category. Site styles the name "Coastal Home Cleaning & Organizing" | Business's own website + Google listing (matching phone) | Grep of prospecting files for name and phone: no match |
+| KG Services | (401) 855-9077 | House cleaning | Newport | — none verifiable | — none published found | Medium — Newport-based (22 Callender Ave, Newport, RI 02840 area); its own Google business description states it "provides… residential cleaning and sanitization services to Aquidneck Island and Jamestown. We offer house cleaning as frequently or as infrequently as you want" — cleaning performed in the customer's home; phone (401) 855-9077 on its Google listing. Medium because no own website could be verified | Google Business listing (business's own description + phone) | Grep of prospecting files for name and phone: no match |
+| Newport Cleaning & Maid Services | (401) 846-7855 | House cleaning | Newport | — none verifiable | — none published found | Medium — Newport-based (42 Spring St #11, Newport, RI); Google listing categories are Cleaning Service / Janitorial Service / In-Home Service (service delivered in the home) and it is listed as a house cleaning & maid service for Newport; phone (401) 846-7855 on its Google listing. Medium because no own website could be verified | Google Business listing + thecleanestroom.com Newport house-cleaning compilation (same name/address/phone) | Grep of prospecting files for name and phone: no match |
+
+## Dedupe — duplicates found and SKIPPED (not in this batch)
+- BrightNest Cleaning Services — (774) 247-0364 (own site; its Newport Google listing shows (774) 479-4589): its own site explicitly lists "Newport, RI" in its service area and would otherwise qualify, BUT it was already collected tonight in the day-45 Warwick 02888 house-cleaning cell (same name + same own-site phone). Skipped as a duplicate.
+- Rhode Island Cleaning Service — (401) 402-0110, support@rhodeislandcleaningservice.com: its own site lists Newport as a featured market, BUT it was already collected tonight in the day-45 Cranston 02910 house-cleaning cell. Skipped as a duplicate.
+
+## Exclusions
+- All Island Cleaning Services LLC — (401) 662-5117, 70 Carroll Ave, Newport: Google listing shows only a generic "Cleaning Service" category with no verifiable confirmation of residential/house cleaning in customers' homes and no own website found. Excluded — house-cleaning-at-home not confirmed.
+- Riverside Cleaning Services — (401) 619-0871, 343 Broadway, Newport: generic cleaning-service listing only; no house-cleaning confirmation from its own materials and no website. Excluded.
+- Nhocleaningservices — (401) 363-3667, Newport: generic listing only, no verifiable house-cleaning description or website. Excluded.
+- Sabrina's Newport Cleaning Services — (401) 545-8923: based in Middletown (576 E Main Rd), not Newport 02840; not needed — 5 already qualified in the target cell.
+- The Kept House (thekepthouse.com) — Newport luxury housekeeping with published email hello@thekepthouse.com, but NO public phone found anywhere. Excluded — no verifiable public phone (hard gate).
+- Homeaglow / Home Glow Cleaning Services / CleanSpace — national lead-gen / marketplace platforms (toll-free numbers, no local operator). Excluded per rules.
+- SERVPRO of East Bay, Newport — national franchise, specialty/restoration cleaning, not regular house cleaning. Excluded.
+- Summit Exterior Cleaning — exterior house washing/pressure washing only, not interior house cleaning. Excluded (wrong niche).
+- Pontes Power Washing — power washing only. Excluded (wrong niche).
+
+## Notes
+- No business stated a ZIP-code list, so service_zips = ["02840"] for all five — no ZIPs invented.
+- Phone rule followed: own-site numbers used where a site exists (Mila's, Cleaning Zoom, Coastal). No toll-free numbers used.
+- 3 published emails collected (see matching -leads.json), all published by the businesses themselves on their own sites: Mila's House Cleaning — housecleaningmilas@gmail.com; Cleaning Zoom — hello@cleaningzoom.com; Coastal Home Cleaning and Organizing — hello@coastalhomecleaningandorganizing.net. KG Services and Newport Cleaning & Maid Services publish no email that could be verified — none guessed. Emails are leads only — never written to business profiles.
+- Prepared only — NOT inserted, no js/data.js edits, no git (coordinator handles centrally).

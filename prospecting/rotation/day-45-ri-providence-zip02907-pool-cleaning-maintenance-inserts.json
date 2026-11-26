@@ -1,0 +1,91 @@
+{
+ "businesses": [
+  {
+   "id": "497e9871-1d0a-4d20-bcbc-58d73490ce2e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Pools Plus Inc",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(401) 764-5800",
+   "website": "https://www.poolsplusri.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02907",
+    "02919"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "c453c96f-d179-4a08-8c9e-e01d504c62e6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Atlantis Pool Service",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(401) 276-7665",
+   "website": "https://www.atlantisri.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02907"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "1851dd42-149b-4a89-82d4-130061855b5c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "RI Pool Pros",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(401) 743-3627",
+   "website": "https://ripoolpros.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "02907"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "6ad65889-2ba6-4b0f-9593-49ed038ca38e",
+   "business_id": "497e9871-1d0a-4d20-bcbc-58d73490ce2e",
+   "title": "Pool cleaning & maintenance in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "1b2abf15-371f-46d4-8fcd-78ef7fe3ecfd",
+   "business_id": "c453c96f-d179-4a08-8c9e-e01d504c62e6",
+   "title": "Pool cleaning & maintenance in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "479f668d-3cfc-49cf-8c3c-5e540a48aa27",
+   "business_id": "1851dd42-149b-4a89-82d4-130061855b5c",
+   "title": "Pool cleaning & maintenance in Providence",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "07d07d49-7928-4d8b-9917-b3a16cd4d670",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Life Maid Simple",
+      "category": "House cleaning",
+      "phone": "(401) 533-8074",
+      "website": "https://www.lifemaidsimple.us/east-greenwich.html",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02888"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "d52cbed8-486b-44bf-bdc7-ac70a4112bf0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "BrightNest Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(774) 247-0364",
+      "website": "https://www.brightnestteam.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02888"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "82024e05-449d-4ffe-a916-8e54e796029a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Fitts Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(508) 202-3766",
+      "website": "https://fittscleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02888"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f4348e9b-a4de-4326-aefd-f807b9912c9f",
+      "business_id": "07d07d49-7928-4d8b-9917-b3a16cd4d670",
+      "title": "House cleaning in Warwick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "07f7ec6f-49f8-4f6f-836c-cfc1561758ca",
+      "business_id": "d52cbed8-486b-44bf-bdc7-ac70a4112bf0",
+      "title": "House cleaning in Warwick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4a02f6db-da61-4e9c-9405-84f928abc8c6",
+      "business_id": "82024e05-449d-4ffe-a916-8e54e796029a",
+      "title": "House cleaning in Warwick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "d3e548fd-f0ef-4984-b9d3-e4c41684a383",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mila's House Cleaning",
+      "category": "House cleaning",
+      "phone": "(508) 558-2904",
+      "website": "https://www.milashousecleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02840"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8662e9dc-08e7-4fc5-8190-50f7d433e343",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cleaning Zoom",
+      "category": "House cleaning",
+      "phone": "(401) 324-9007",
+      "website": "https://cleaningzoom.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02840"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b11a5d45-9e7f-416e-b959-40b3b9619701",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Coastal Home Cleaning and Organizing",
+      "category": "House cleaning",
+      "phone": "(401) 924-4663",
+      "website": "http://www.coastalhomecleaningri.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02840"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "897e504e-1e93-48ea-8808-d7efc601e8be",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "KG Services",
+      "category": "House cleaning",
+      "phone": "(401) 855-9077",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02840"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f79851f1-0874-4840-a813-8a0bb69e73df",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Newport Cleaning & Maid Services",
+      "category": "House cleaning",
+      "phone": "(401) 846-7855",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "02840"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "fcf7e1b6-23b6-45b7-8e6a-05a990d0fdf6",
+      "business_id": "d3e548fd-f0ef-4984-b9d3-e4c41684a383",
+      "title": "House cleaning in Newport",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "6117b97e-f37c-474e-ade9-b1c7e68161f9",
+      "business_id": "8662e9dc-08e7-4fc5-8190-50f7d433e343",
+      "title": "House cleaning in Newport",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2c7b6b9e-a793-4913-bec1-ecc92924f9b9",
+      "business_id": "b11a5d45-9e7f-416e-b959-40b3b9619701",
+      "title": "House cleaning in Newport",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "017e5d02-e67e-4f1e-bfe9-8452cf2f5e15",
+      "business_id": "897e504e-1e93-48ea-8808-d7efc601e8be",
+      "title": "House cleaning in Newport",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ed9a68ee-ff86-4c79-9bff-b0e9576a5d3a",
+      "business_id": "f79851f1-0874-4840-a813-8a0bb69e73df",
+      "title": "House cleaning in Newport",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
