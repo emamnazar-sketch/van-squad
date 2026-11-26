@@ -1200,6 +1200,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/providence/",
+  "metro": "Providence",
+  "metroSlug": "providence",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 13,
+  "zips": 6,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/provo/",
   "metro": "Provo",
   "metroSlug": "provo",
@@ -2480,6 +2490,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/providence/",
+  "metro": "Providence",
+  "metroSlug": "providence",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 25,
+  "zips": 10,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/raleigh/",
   "metro": "Raleigh",
   "metroSlug": "raleigh",
@@ -2767,7 +2787,7 @@
   "categorySlug": "house-cleaning",
   "count": 10,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-williston"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/albuquerque/",
@@ -3460,6 +3480,16 @@
   "blog": "how-much-does-mobile-car-detailing-cost-in-portland"
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/providence/",
+  "metro": "Providence",
+  "metroSlug": "providence",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/raleigh/",
   "metro": "Raleigh",
   "metroSlug": "raleigh",
@@ -4040,6 +4070,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/providence/",
+  "metro": "Providence",
+  "metroSlug": "providence",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 3,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/raleigh/",
   "metro": "Raleigh",
   "metroSlug": "raleigh",
@@ -4387,6 +4427,16 @@
   "categorySlug": "pool-cleaning-maintenance",
   "count": 5,
   "zips": 5,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/providence/",
+  "metro": "Providence",
+  "metroSlug": "providence",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 3,
+  "zips": 2,
   "blog": null
  },
  {
@@ -4878,6 +4928,16 @@
   "count": 8,
   "zips": 6,
   "blog": "how-much-does-pressure-washing-cost-in-portland"
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/providence/",
+  "metro": "Providence",
+  "metroSlug": "providence",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 3,
+  "zips": 2,
+  "blog": null
  },
  {
   "url": "https://vansquads.com/pressure-washing/racine/",

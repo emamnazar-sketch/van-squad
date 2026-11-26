@@ -358,6 +358,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Handyman in Portland, Maine (6 companies): https://vansquads.com/handyman/portland-maine/
 - Handyman in Portland (8 companies): https://vansquads.com/handyman/portland/
 - Handyman in Portsmouth (3 companies): https://vansquads.com/handyman/portsmouth/
+- Handyman in Providence (13 companies): https://vansquads.com/handyman/providence/
 - Handyman in Provo (6 companies): https://vansquads.com/handyman/provo/
 - Handyman in Rapid City (14 companies): https://vansquads.com/handyman/rapid-city/
 - Handyman in Richmond (8 companies): https://vansquads.com/handyman/richmond/
@@ -486,6 +487,7 @@ One page per city area and service with at least 3 listed companies — every co
 - House cleaning in Portland, Maine (17 companies): https://vansquads.com/house-cleaning/portland-maine/
 - House cleaning in Portland (17 companies): https://vansquads.com/house-cleaning/portland/
 - House cleaning in Portsmouth (7 companies): https://vansquads.com/house-cleaning/portsmouth/
+- House cleaning in Providence (25 companies): https://vansquads.com/house-cleaning/providence/
 - House cleaning in Raleigh (8 companies): https://vansquads.com/house-cleaning/raleigh/
 - House cleaning in Rapid City (6 companies): https://vansquads.com/house-cleaning/rapid-city/
 - House cleaning in Richmond (9 companies): https://vansquads.com/house-cleaning/richmond/
@@ -584,6 +586,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Mobile auto detailing in Pittsburgh (17 companies): https://vansquads.com/mobile-auto-detailing/pittsburgh/
 - Mobile auto detailing in Portland, Maine (3 companies): https://vansquads.com/mobile-auto-detailing/portland-maine/
 - Mobile auto detailing in Portland (6 companies): https://vansquads.com/mobile-auto-detailing/portland/
+- Mobile auto detailing in Providence (7 companies): https://vansquads.com/mobile-auto-detailing/providence/
 - Mobile auto detailing in Raleigh (9 companies): https://vansquads.com/mobile-auto-detailing/raleigh/
 - Mobile auto detailing in Richmond (7 companies): https://vansquads.com/mobile-auto-detailing/richmond/
 - Mobile auto detailing in Rochester (4 companies): https://vansquads.com/mobile-auto-detailing/rochester/
@@ -642,6 +645,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Mobile pet grooming in Pittsburgh (5 companies): https://vansquads.com/mobile-pet-grooming/pittsburgh/
 - Mobile pet grooming in Portland, Maine (3 companies): https://vansquads.com/mobile-pet-grooming/portland-maine/
 - Mobile pet grooming in Portland (6 companies): https://vansquads.com/mobile-pet-grooming/portland/
+- Mobile pet grooming in Providence (5 companies): https://vansquads.com/mobile-pet-grooming/providence/
 - Mobile pet grooming in Raleigh (6 companies): https://vansquads.com/mobile-pet-grooming/raleigh/
 - Mobile pet grooming in Sacramento (8 companies): https://vansquads.com/mobile-pet-grooming/sacramento/
 - Mobile pet grooming in Salt Lake City (5 companies): https://vansquads.com/mobile-pet-grooming/salt-lake-city/
@@ -677,6 +681,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Pool cleaning & maintenance in Phoenix (8 companies): https://vansquads.com/pool-cleaning-maintenance/phoenix/
 - Pool cleaning & maintenance in Pittsburgh (3 companies): https://vansquads.com/pool-cleaning-maintenance/pittsburgh/
 - Pool cleaning & maintenance in Portland, Maine (5 companies): https://vansquads.com/pool-cleaning-maintenance/portland-maine/
+- Pool cleaning & maintenance in Providence (3 companies): https://vansquads.com/pool-cleaning-maintenance/providence/
 - Pool cleaning & maintenance in Saint Paul (8 companies): https://vansquads.com/pool-cleaning-maintenance/saint-paul/
 - Pool cleaning & maintenance in San Antonio (7 companies): https://vansquads.com/pool-cleaning-maintenance/san-antonio/
 - Pool cleaning & maintenance in St. Louis (3 companies): https://vansquads.com/pool-cleaning-maintenance/st-louis/
@@ -726,6 +731,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Pressure washing in Pittsburgh (10 companies): https://vansquads.com/pressure-washing/pittsburgh/
 - Pressure washing in Portland, Maine (3 companies): https://vansquads.com/pressure-washing/portland-maine/
 - Pressure washing in Portland (8 companies): https://vansquads.com/pressure-washing/portland/
+- Pressure washing in Providence (3 companies): https://vansquads.com/pressure-washing/providence/
 - Pressure washing in Racine (4 companies): https://vansquads.com/pressure-washing/racine/
 - Pressure washing in Rapid City (4 companies): https://vansquads.com/pressure-washing/rapid-city/
 - Pressure washing in Salt Lake City (5 companies): https://vansquads.com/pressure-washing/salt-lake-city/
