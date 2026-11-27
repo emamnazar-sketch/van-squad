@@ -1,0 +1,141 @@
+{
+ "businesses": [
+  {
+   "id": "e7bb1cef-92e4-4d2f-913e-78fdc42dccd8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Wicked Clean LLC",
+   "category": "Pressure washing",
+   "phone": "(860) 748-8655",
+   "website": "https://www.wickedcleanct.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06107"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "44ff2f82-1f52-4fa3-b673-7bf246c1a00b",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "K&R Power Washing",
+   "category": "Pressure washing",
+   "phone": "(860) 539-8280",
+   "website": "http://krpowerwashing.org/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06107"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "ca9e3896-b33f-4ca1-82b6-82c279a970ac",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eagle's Power Washing",
+   "category": "Pressure washing",
+   "phone": "(860) 507-9629",
+   "website": "https://www.eaglespowerwash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06107"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "66020532-b10a-46fd-bc6e-6e47a6a7e2f5",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Elite House Wash LLC",
+   "category": "Pressure washing",
+   "phone": "(860) 940-0040",
+   "website": "https://www.elitehousewash.com",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06107"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "a16a2f82-1e96-4fc9-bb63-b240c2187a48",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "PALS Power Washing",
+   "category": "Pressure washing",
+   "phone": "(860) 919-8748",
+   "website": "http://www.palspowerwashing.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06107"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "e7bb1cef-92e4-4d2f-913e-78fdc42dccd8",
+   "title": "Pressure washing in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "44ff2f82-1f52-4fa3-b673-7bf246c1a00b",
+   "title": "Pressure washing in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "ca9e3896-b33f-4ca1-82b6-82c279a970ac",
+   "title": "Pressure washing in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "66020532-b10a-46fd-bc6e-6e47a6a7e2f5",
+   "title": "Pressure washing in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "a16a2f82-1e96-4fc9-bb63-b240c2187a48",
+   "title": "Pressure washing in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

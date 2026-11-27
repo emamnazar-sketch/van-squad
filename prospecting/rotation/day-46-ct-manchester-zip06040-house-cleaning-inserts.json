@@ -1,0 +1,90 @@
+{
+ "businesses": [
+  {
+   "id": "914bb570-d92c-4384-807f-3a7873e3e035",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Royal Green Cleaners",
+   "category": "House cleaning",
+   "phone": "(860) 288-7056",
+   "website": "https://royalgreencleaners.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06040"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "f76753a1-0fda-49a0-87a3-d5aa117dde5c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Serafyn Luxury Clean Service",
+   "category": "House cleaning",
+   "phone": "(860) 817-5908",
+   "website": "https://serafynluxuryclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06040"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "07c1e290-e6b9-4171-946b-5a9fd6d8a942",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean & Polished",
+   "category": "House cleaning",
+   "phone": "(860) 249-1729",
+   "website": "https://www.cleanandpolishedct.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06040"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "ee556fef-2952-4212-898e-004e0dc8937c",
+   "business_id": "914bb570-d92c-4384-807f-3a7873e3e035",
+   "title": "House cleaning in Manchester",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dec5b069-0c13-4d3a-8dde-d7bc74915d21",
+   "business_id": "f76753a1-0fda-49a0-87a3-d5aa117dde5c",
+   "title": "House cleaning in Manchester",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "acc77067-14a7-4bc8-9f22-9f40b86e9016",
+   "business_id": "07c1e290-e6b9-4171-946b-5a9fd6d8a942",
+   "title": "House cleaning in Manchester",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

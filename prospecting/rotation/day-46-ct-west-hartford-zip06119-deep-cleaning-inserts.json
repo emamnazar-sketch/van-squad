@@ -1,0 +1,146 @@
+{
+ "businesses": [
+  {
+   "id": "34b24309-49fe-4e92-a97e-ff27b2867993",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Family Cleaners Cleaning Services Connecticut",
+   "category": "Deep cleaning",
+   "phone": "(860) 356-9448",
+   "website": "https://familycleanersct.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06119"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8855932a-6ce0-4382-8956-ebfff1c297db",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "West Hartford Cleaning Services",
+   "category": "Deep cleaning",
+   "phone": "(860) 325-3825",
+   "website": "https://wehaclean.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06119"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "fbc4fe3f-1dcc-4af1-ba44-a0cd4323be0d",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clean My Space CT of West Hartford",
+   "category": "Deep cleaning",
+   "phone": "(203) 674-9497",
+   "website": "https://www.cleanmyspacect.com/house-cleaning-west-hartford/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06119"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e010e4ca-cc7f-45e8-b3ed-fbacfc61ac63",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "T.A.G. Team Cleaning LLC",
+   "category": "Deep cleaning",
+   "phone": "(860) 680-7261",
+   "website": "https://www.tagteamcleaning.com/cleaning-services-reviews/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06119"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "5d5dc0ff-ddc7-420e-98c1-16e9ccce7e91",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Better Cleaning LLC",
+   "category": "Deep cleaning",
+   "phone": "(860) 799-4848",
+   "website": "https://better-cleaning-llc.ueniweb.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06119"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "34c90d70-2e5a-475d-b9c9-c42d2ed2bd45",
+   "business_id": "34b24309-49fe-4e92-a97e-ff27b2867993",
+   "title": "Deep cleaning in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "bca49d5a-bd6d-423f-bad2-c985be1cb99e",
+   "business_id": "8855932a-6ce0-4382-8956-ebfff1c297db",
+   "title": "Deep cleaning in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b49ce30d-d3c2-4903-90ca-b660bd398676",
+   "business_id": "fbc4fe3f-1dcc-4af1-ba44-a0cd4323be0d",
+   "title": "Deep cleaning in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "b1e494af-9bdd-45ef-a54c-7c1f04c09072",
+   "business_id": "e010e4ca-cc7f-45e8-b3ed-fbacfc61ac63",
+   "title": "Deep cleaning in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "da1be153-18dd-4910-b3ed-0e0f2882fe0d",
+   "business_id": "5d5dc0ff-ddc7-420e-98c1-16e9ccce7e91",
+   "title": "Deep cleaning in West Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

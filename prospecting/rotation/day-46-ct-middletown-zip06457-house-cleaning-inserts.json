@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "e46d49d6-d89c-4ff9-b6f8-05f013ed329a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "B&H Property Maintenance LLC",
+      "category": "House cleaning",
+      "phone": "(860) 620-2125",
+      "website": "https://bhpropertymaintenancellc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06457"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8091a344-37c9-488f-894f-fb094af4b1fb",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Doe Clean & Haul LLC",
+      "category": "House cleaning",
+      "phone": "(347) 484-1044",
+      "website": "http://cleanctpros.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06457"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "062c77c5-607b-440b-bd48-d360eabef691",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Courtney's Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(860) 301-2745",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06457"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "e3cdb2ef-b691-4dd4-adeb-6c3792fdb22a",
+      "business_id": "e46d49d6-d89c-4ff9-b6f8-05f013ed329a",
+      "title": "House cleaning in Middletown",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "cdb56ec4-29a7-4af3-b44f-59ae4240c6b3",
+      "business_id": "8091a344-37c9-488f-894f-fb094af4b1fb",
+      "title": "House cleaning in Middletown",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e43fc566-bd61-41dd-8452-1e93e30c77c0",
+      "business_id": "062c77c5-607b-440b-bd48-d360eabef691",
+      "title": "House cleaning in Middletown",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

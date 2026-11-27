@@ -1,0 +1,119 @@
+{
+ "businesses": [
+  {
+   "id": "0024f3bf-7d77-4cf9-895f-1584d7bc1cc8",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Aguirre's Home Solutions",
+   "category": "House cleaning",
+   "phone": "(860) 922-6889",
+   "website": "https://www.aguirreshomesolutions.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "44d81889-2ea3-4b7c-a66d-114885f884e4",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Raupp House Cleaning Services",
+   "category": "House cleaning",
+   "phone": "(860) 773-0080",
+   "website": "https://rauppcleaningservices.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b725e532-4950-4ce3-9137-e738f45382b0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Purposeful Cleaning LLC",
+   "category": "House cleaning",
+   "phone": "(203) 864-7526",
+   "website": "http://www.purposefulcleaning247.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06103",
+    "06106"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8ebd5d21-1b57-4960-9905-59d91fb0656c",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Cleaning Service Fairies",
+   "category": "House cleaning",
+   "phone": "(203) 441-5050",
+   "website": "http://www.mycleaningfairies.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06103"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "20cd050f-307e-4c96-b9ed-9fe602a3b569",
+   "business_id": "0024f3bf-7d77-4cf9-895f-1584d7bc1cc8",
+   "title": "House cleaning in Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "c003b95a-c4c0-44db-aef3-2921c9efba8b",
+   "business_id": "44d81889-2ea3-4b7c-a66d-114885f884e4",
+   "title": "House cleaning in Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "4d5a965c-9b22-4787-be1e-f2e193f6252d",
+   "business_id": "b725e532-4950-4ce3-9137-e738f45382b0",
+   "title": "House cleaning in Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "d1ea2a0b-7ffd-444d-968e-3c8ece7985dd",
+   "business_id": "8ebd5d21-1b57-4960-9905-59d91fb0656c",
+   "title": "House cleaning in Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "businesses": [
+  {
+   "id": "f6591511-00eb-4dd4-b2b8-b240274877c0",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Mr-Suds Power Washing PROs",
+   "category": "Pressure washing",
+   "phone": "(860) 263-9031",
+   "website": "https://mr-suds.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06070"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9a09b9c4-b47a-46d2-8522-05da52257776",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "THE POWERWASHING KINGS LLC",
+   "category": "Pressure washing",
+   "phone": "(860) 357-3638",
+   "website": "https://thepowerwashingkings.com/powerwashing-near-me-simsbury-ct/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06070"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "8c9cee33-b5a1-457f-ba7c-829c742c9cab",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "The Suds Squad",
+   "category": "Pressure washing",
+   "phone": "(860) 578-6207",
+   "website": "https://suds-squad-redesign-ew00.arcada.app",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06070"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "29a6ece2-880f-4cc1-ac9e-9b0749c26d4f",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Eco Wash Solutions, LLC",
+   "category": "Pressure washing",
+   "phone": "(860) 598-0580",
+   "website": "https://www.goecowash.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06070"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "business_id": "f6591511-00eb-4dd4-b2b8-b240274877c0",
+   "title": "Pressure washing in Simsbury",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "9a09b9c4-b47a-46d2-8522-05da52257776",
+   "title": "Pressure washing in Simsbury",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "8c9cee33-b5a1-457f-ba7c-829c742c9cab",
+   "title": "Pressure washing in Simsbury",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "business_id": "29a6ece2-880f-4cc1-ac9e-9b0749c26d4f",
+   "title": "Pressure washing in Simsbury",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

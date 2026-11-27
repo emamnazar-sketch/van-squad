@@ -1,0 +1,125 @@
+{
+  "businesses": [
+    {
+      "id": "7387ba3b-684e-4303-acb5-281ec63feeff",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Zoomin Groomin West Hartford",
+      "category": "Mobile pet grooming",
+      "phone": "(860) 733-6001",
+      "website": "https://www.zoomingroomin.com/locations/connecticut/west-hartford/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06114",
+        "06001",
+        "06002",
+        "06013",
+        "06019",
+        "06020",
+        "06022",
+        "06027",
+        "06032",
+        "06035",
+        "06053",
+        "06057",
+        "06059",
+        "06060",
+        "06063",
+        "06070",
+        "06081",
+        "06085",
+        "06089",
+        "06090",
+        "06091",
+        "06092",
+        "06101",
+        "06103",
+        "06105",
+        "06106",
+        "06107",
+        "06110",
+        "06111",
+        "06112",
+        "06115",
+        "06117",
+        "06119",
+        "06120",
+        "06160",
+        "06183"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a2fb38a4-a099-4842-aec3-626625e121ea",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Woofie's of Glastonbury-Marlborough",
+      "category": "Mobile pet grooming",
+      "phone": "(860) 792-4394",
+      "website": "https://www.woofies.com/glastonbury-marlborough/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e25254be-2e7a-441f-968b-41be31994a5e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Holistic Mobile Pet Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(860) 384-5455",
+      "website": "https://holisticmobile.groomore.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "984a4e33-44d9-4d32-888b-4a208b15cbe8",
+      "business_id": "7387ba3b-684e-4303-acb5-281ec63feeff",
+      "title": "Mobile pet grooming in Hartford",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c252fa54-7c05-40a8-a261-53ba66c8411d",
+      "business_id": "a2fb38a4-a099-4842-aec3-626625e121ea",
+      "title": "Mobile pet grooming in Hartford",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "177a9928-d425-4375-9dcc-98d89ab19391",
+      "business_id": "e25254be-2e7a-441f-968b-41be31994a5e",
+      "title": "Mobile pet grooming in Hartford",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "20d821f3-d7ab-4748-9e4d-fd352dc39f47",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Belleza's Home Services",
+   "category": "House cleaning",
+   "phone": "(860) 790-9545",
+   "website": "https://www.bellezashomeservices.net/house-cleaning-services-in-bloomfield-ct/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06095"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "0349ac85-0327-4bba-8811-2bbbecb4a553",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Tidy & Clean",
+   "category": "House cleaning",
+   "phone": "(860) 338-2629",
+   "website": "https://www.tidyandcleanct.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06095"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "bf35c4e9-c1ad-4661-9b37-27c080d473c6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Clever Cleaning Enterprise",
+   "category": "House cleaning",
+   "phone": "(860) 936-0377",
+   "website": "http://www.clevercleaningct.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06095"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "9bb3242e-95c8-4780-9569-87cc8b57eaa6",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "McCarthy Cleaning LLC",
+   "category": "House cleaning",
+   "phone": "(860) 502-5138",
+   "website": "https://mccarthyscleaning.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06095"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "b5a49ba3-264b-4267-b689-67719e3b1feb",
+   "business_id": "20d821f3-d7ab-4748-9e4d-fd352dc39f47",
+   "title": "House cleaning in Windsor",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "488204a9-a626-435b-b8a8-64cdaf5d1e01",
+   "business_id": "0349ac85-0327-4bba-8811-2bbbecb4a553",
+   "title": "House cleaning in Windsor",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "3cb142d8-e6b4-4ce3-998d-161db7c7aa4e",
+   "business_id": "bf35c4e9-c1ad-4661-9b37-27c080d473c6",
+   "title": "House cleaning in Windsor",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "860de042-09ba-4529-bb01-541766377525",
+   "business_id": "9bb3242e-95c8-4780-9569-87cc8b57eaa6",
+   "title": "House cleaning in Windsor",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

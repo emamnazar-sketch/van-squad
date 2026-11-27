@@ -130,6 +130,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/deep-cleaning/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/houston/",
   "metro": "Houston",
   "metroSlug": "houston",
@@ -787,6 +797,16 @@
   "categorySlug": "handyman",
   "count": 10,
   "zips": 10,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 13,
+  "zips": 4,
   "blog": null
  },
  {
@@ -1927,7 +1947,7 @@
   "categorySlug": "house-cleaning",
   "count": 6,
   "zips": 4,
-  "blog": null
+  "blog": "how-much-does-house-cleaning-cost-in-grand-forks"
  },
  {
   "url": "https://vansquads.com/house-cleaning/grand-island/",
@@ -2007,6 +2027,16 @@
   "categorySlug": "house-cleaning",
   "count": 11,
   "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 17,
+  "zips": 6,
   "blog": null
  },
  {
@@ -3097,7 +3127,7 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 3,
   "zips": 4,
-  "blog": null
+  "blog": "how-much-does-mobile-car-detailing-cost-in-grand-forks"
  },
  {
   "url": "https://vansquads.com/mobile-auto-detailing/grand-rapids/",
@@ -3147,6 +3177,16 @@
   "categorySlug": "mobile-auto-detailing",
   "count": 6,
   "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 9,
+  "zips": 3,
   "blog": null
  },
  {
@@ -3850,6 +3890,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 3,
+  "zips": 36,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/houston/",
   "metro": "Houston",
   "metroSlug": "houston",
@@ -4246,6 +4296,16 @@
   "category": "Pool cleaning & maintenance",
   "categorySlug": "pool-cleaning-maintenance",
   "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 4,
   "zips": 1,
   "blog": null
  },
@@ -4707,6 +4767,16 @@
   "categorySlug": "pressure-washing",
   "count": 4,
   "zips": 3,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/hartford/",
+  "metro": "Hartford",
+  "metroSlug": "hartford",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 9,
+  "zips": 2,
   "blog": null
  },
  {

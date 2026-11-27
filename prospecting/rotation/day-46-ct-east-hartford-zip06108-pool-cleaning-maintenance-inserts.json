@@ -1,0 +1,118 @@
+{
+ "businesses": [
+  {
+   "id": "0021fab2-d516-4794-910c-6b572c8ab46a",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Savol Pools",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(860) 282-0878",
+   "website": "http://www.savolpools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06108"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "b770c4d2-4609-4bbb-b7e5-760c910aae5e",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Aqua Pool & Patio",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(860) 623-9886",
+   "website": "https://www.aquapool.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06108"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "d2aefd25-83da-43ad-a78f-d7041add8b13",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Rizzo Pools",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(860) 666-1531",
+   "website": "http://www.rizzopools.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06108"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  },
+  {
+   "id": "e36bc943-6392-49aa-a697-c4e439e529a1",
+   "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+   "name": "Splash Pool Supply",
+   "category": "Pool cleaning & maintenance",
+   "phone": "(860) 289-1826",
+   "website": "https://www.splashpoolsupply.com/",
+   "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+   "service_zips": [
+    "06108"
+   ],
+   "status": "active",
+   "is_sample": false,
+   "verified": false,
+   "email_verified": false,
+   "phone_verified": false,
+   "travel_radius_miles": 25,
+   "travel_fee": 0,
+   "logo_url": ""
+  }
+ ],
+ "listings": [
+  {
+   "id": "ad664478-cba4-41c7-95f8-16a0c1c9ceb7",
+   "business_id": "0021fab2-d516-4794-910c-6b572c8ab46a",
+   "title": "Pool cleaning & maintenance in East Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "dc402e59-ff27-42c4-a819-4a2226717040",
+   "business_id": "b770c4d2-4609-4bbb-b7e5-760c910aae5e",
+   "title": "Pool cleaning & maintenance in East Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "6883ffe3-4e46-49a5-8e8d-465c83de4658",
+   "business_id": "d2aefd25-83da-43ad-a78f-d7041add8b13",
+   "title": "Pool cleaning & maintenance in East Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  },
+  {
+   "id": "cf45a427-279d-40a1-9233-f10f33b2c58f",
+   "business_id": "e36bc943-6392-49aa-a697-c4e439e529a1",
+   "title": "Pool cleaning & maintenance in East Hartford",
+   "price_type": "quote",
+   "status": "active",
+   "is_sample": false
+  }
+ ]
+}

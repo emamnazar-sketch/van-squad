@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "eb744739-1b43-4a7c-a639-f053b3a17b4f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ev's Car Detailing Service",
+      "category": "Mobile auto detailing",
+      "phone": "(203) 514-2214",
+      "website": "https://evscardetailing.wordpress.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06010"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "194fcf9b-a502-4a5b-aa67-cf0d0a8a4fdd",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "LA Detailing LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(203) 586-8167",
+      "website": "https://www.ladetailing.org/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06010"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "77c7a6b2-579f-4037-b526-43696852dab5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "B & K Car Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(860) 990-3360",
+      "website": "https://bkcardetailing.com/detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06010"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "664f8868-2d97-4e12-8875-e6741e660e4e",
+      "business_id": "eb744739-1b43-4a7c-a639-f053b3a17b4f",
+      "title": "Mobile auto detailing in Bristol",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4175b9f4-cfc3-4949-b82a-28a535b2acf7",
+      "business_id": "194fcf9b-a502-4a5b-aa67-cf0d0a8a4fdd",
+      "title": "Mobile auto detailing in Bristol",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e30d7905-6c80-4920-a918-20037233493e",
+      "business_id": "77c7a6b2-579f-4037-b526-43696852dab5",
+      "title": "Mobile auto detailing in Bristol",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

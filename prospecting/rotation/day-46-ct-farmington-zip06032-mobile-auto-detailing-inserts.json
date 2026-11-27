@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "9e6d42b8-a917-4cbb-8936-6d246e9c9fc2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Supreme Mobile Detailing & Ceramic Coating LLC",
+      "category": "Mobile auto detailing",
+      "phone": "(860) 994-3034",
+      "website": "https://suprememobiledetailct.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a29e113-0c64-47af-8839-b17c3bf7e71e",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Incognito Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(860) 993-5570",
+      "website": "http://incognitodetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "c5014927-3fda-44ba-9aa4-f90280def251",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kurius Kleanings",
+      "category": "Mobile auto detailing",
+      "phone": "(860) 790-0064",
+      "website": "https://www.kuriuskleanings.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "06032"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7c8c29b7-4b60-406b-8c49-76f1c31cc5dd",
+      "business_id": "9e6d42b8-a917-4cbb-8936-6d246e9c9fc2",
+      "title": "Mobile auto detailing in Farmington",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "9fb48ec2-aab0-4346-8dca-9e49526b8997",
+      "business_id": "7a29e113-0c64-47af-8839-b17c3bf7e71e",
+      "title": "Mobile auto detailing in Farmington",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0e7d5355-fff6-40d3-bfea-67d9f0212bdd",
+      "business_id": "c5014927-3fda-44ba-9aa4-f90280def251",
+      "title": "Mobile auto detailing in Farmington",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
