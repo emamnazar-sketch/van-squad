@@ -240,6 +240,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/deep-cleaning/newark/",
+  "metro": "Newark",
+  "metroSlug": "newark",
+  "category": "Deep cleaning",
+  "categorySlug": "deep-cleaning",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/deep-cleaning/northern-virginia/",
   "metro": "Northern Virginia",
   "metroSlug": "northern-virginia",
@@ -497,7 +507,7 @@
   "categorySlug": "handyman",
   "count": 8,
   "zips": 1,
-  "blog": null
+  "blog": "how-much-does-a-handyman-cost-in-boulder"
  },
  {
   "url": "https://vansquads.com/handyman/burlington/",
@@ -890,6 +900,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/jersey-city/",
+  "metro": "Jersey City",
+  "metroSlug": "jersey-city",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/kansas-city/",
   "metro": "Kansas City",
   "metroSlug": "kansas-city",
@@ -1090,6 +1110,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/handyman/new-brunswick/",
+  "metro": "New Brunswick",
+  "metroSlug": "new-brunswick",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/handyman/new-orleans/",
   "metro": "New Orleans",
   "metroSlug": "new-orleans",
@@ -1107,6 +1137,16 @@
   "categorySlug": "handyman",
   "count": 23,
   "zips": 43,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/newark/",
+  "metro": "Newark",
+  "metroSlug": "newark",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
+  "zips": 3,
   "blog": null
  },
  {
@@ -1156,6 +1196,16 @@
   "category": "Handyman",
   "categorySlug": "handyman",
   "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/handyman/paterson/",
+  "metro": "Paterson",
+  "metroSlug": "paterson",
+  "category": "Handyman",
+  "categorySlug": "handyman",
+  "count": 4,
   "zips": 1,
   "blog": null
  },
@@ -1850,6 +1900,26 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/edison/",
+  "metro": "Edison",
+  "metroSlug": "edison",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/elizabeth/",
+  "metro": "Elizabeth",
+  "metroSlug": "elizabeth",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 4,
+  "zips": 3,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/elizabethtown/",
   "metro": "Elizabethtown",
   "metroSlug": "elizabethtown",
@@ -2106,6 +2176,16 @@
   "category": "House cleaning",
   "categorySlug": "house-cleaning",
   "count": 8,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/jersey-city/",
+  "metro": "Jersey City",
+  "metroSlug": "jersey-city",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
   "zips": 1,
   "blog": null
  },
@@ -2400,6 +2480,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/house-cleaning/newark/",
+  "metro": "Newark",
+  "metroSlug": "newark",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 5,
+  "zips": 9,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/house-cleaning/northern-virginia/",
   "metro": "Northern Virginia",
   "metroSlug": "northern-virginia",
@@ -2453,6 +2543,16 @@
   "url": "https://vansquads.com/house-cleaning/owensboro/",
   "metro": "Owensboro",
   "metroSlug": "owensboro",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 3,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/paterson/",
+  "metro": "Paterson",
+  "metroSlug": "paterson",
   "category": "House cleaning",
   "categorySlug": "house-cleaning",
   "count": 3,
@@ -2726,6 +2826,16 @@
   "category": "House cleaning",
   "categorySlug": "house-cleaning",
   "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/house-cleaning/trenton/",
+  "metro": "Trenton",
+  "metroSlug": "trenton",
+  "category": "House cleaning",
+  "categorySlug": "house-cleaning",
+  "count": 6,
   "zips": 1,
   "blog": null
  },
@@ -3250,6 +3360,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-auto-detailing/jersey-city/",
+  "metro": "Jersey City",
+  "metroSlug": "jersey-city",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 4,
+  "zips": 1,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-auto-detailing/kalispell/",
   "metro": "Kalispell",
   "metroSlug": "kalispell",
@@ -3426,6 +3546,16 @@
   "category": "Mobile auto detailing",
   "categorySlug": "mobile-auto-detailing",
   "count": 11,
+  "zips": 2,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/mobile-auto-detailing/newark/",
+  "metro": "Newark",
+  "metroSlug": "newark",
+  "category": "Mobile auto detailing",
+  "categorySlug": "mobile-auto-detailing",
+  "count": 7,
   "zips": 2,
   "blog": null
  },
@@ -4040,6 +4170,16 @@
   "blog": null
  },
  {
+  "url": "https://vansquads.com/mobile-pet-grooming/newark/",
+  "metro": "Newark",
+  "metroSlug": "newark",
+  "category": "Mobile pet grooming",
+  "categorySlug": "mobile-pet-grooming",
+  "count": 5,
+  "zips": 2,
+  "blog": null
+ },
+ {
   "url": "https://vansquads.com/mobile-pet-grooming/northern-virginia/",
   "metro": "Northern Virginia",
   "metroSlug": "northern-virginia",
@@ -4287,6 +4427,16 @@
   "categorySlug": "pool-cleaning-maintenance",
   "count": 7,
   "zips": 6,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pool-cleaning-maintenance/edison/",
+  "metro": "Edison",
+  "metroSlug": "edison",
+  "category": "Pool cleaning & maintenance",
+  "categorySlug": "pool-cleaning-maintenance",
+  "count": 3,
+  "zips": 1,
   "blog": null
  },
  {
@@ -4733,6 +4883,16 @@
   "url": "https://vansquads.com/pressure-washing/detroit/",
   "metro": "Detroit",
   "metroSlug": "detroit",
+  "category": "Pressure washing",
+  "categorySlug": "pressure-washing",
+  "count": 5,
+  "zips": 1,
+  "blog": null
+ },
+ {
+  "url": "https://vansquads.com/pressure-washing/elizabeth/",
+  "metro": "Elizabeth",
+  "metroSlug": "elizabeth",
   "category": "Pressure washing",
   "categorySlug": "pressure-washing",
   "count": 5,

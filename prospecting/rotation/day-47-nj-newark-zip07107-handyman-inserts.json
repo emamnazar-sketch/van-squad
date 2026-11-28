@@ -1,0 +1,120 @@
+{
+  "businesses": [
+    {
+      "id": "83fe173e-fbc1-4684-8096-a79e75698074",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Construction LLC",
+      "category": "Handyman",
+      "phone": "(908) 906-8019",
+      "website": "https://www.handymanl.com/en",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5c0315f3-311e-4e8a-8a58-9330d260e822",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Green Goblin Services",
+      "category": "Handyman",
+      "phone": "(862) 256-0849",
+      "website": "https://www.greengoblinservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07107",
+        "07102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3f0a017f-ed89-4d3c-bee7-33432c67abd5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Upper Clinton Hill Handyman",
+      "category": "Handyman",
+      "phone": "(973) 370-9853",
+      "website": "https://www.upperclintonhillhandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07107",
+        "07108"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a917dae-b5b7-4242-837f-d77e49b12276",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tip Top Carpentry, LLC",
+      "category": "Handyman",
+      "phone": "(862) 229-3825",
+      "website": "http://www.tiptopcarpentry.net/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07107"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "013f8e4f-4f2c-4e26-adb0-c59f7b6953cc",
+      "business_id": "83fe173e-fbc1-4684-8096-a79e75698074",
+      "title": "Handyman in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a2c8077f-8033-4c58-92ed-055127d2dd97",
+      "business_id": "5c0315f3-311e-4e8a-8a58-9330d260e822",
+      "title": "Handyman in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7f7fe10a-f4ef-46dc-beb8-d46e3e3aa705",
+      "business_id": "3f0a017f-ed89-4d3c-bee7-33432c67abd5",
+      "title": "Handyman in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "118ce24a-b3e4-49cc-8eea-a3fdebddac75",
+      "business_id": "7a917dae-b5b7-4242-837f-d77e49b12276",
+      "title": "Handyman in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

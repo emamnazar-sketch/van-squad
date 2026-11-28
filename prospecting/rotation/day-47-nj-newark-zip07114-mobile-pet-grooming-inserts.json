@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "a6ad6cb1-d2dc-4d52-af96-dd95e7c438f8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Paws and Suds Mobile Pet Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(201) 948-7043",
+      "website": "https://www.pawsandsuds.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "89f8a207-af12-4080-92a0-d254c6dfbd9c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mr Pet Mobile Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(908) 305-1949",
+      "website": "http://mrpetmobile.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f1f3f45c-6a87-4b9b-8914-41de8509bdd7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Bark2Park Mobile Pet Grooming & Spa",
+      "category": "Mobile pet grooming",
+      "phone": "(908) 494-7656",
+      "website": "https://bark2park.com",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "15efb357-95b9-409d-880a-430f3dafab95",
+      "business_id": "a6ad6cb1-d2dc-4d52-af96-dd95e7c438f8",
+      "title": "Mobile pet grooming in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "5f36e681-f849-47ea-9780-0b5582e25c17",
+      "business_id": "89f8a207-af12-4080-92a0-d254c6dfbd9c",
+      "title": "Mobile pet grooming in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "83ec584d-5f84-47a2-bd9f-5fde3d2fb8a4",
+      "business_id": "f1f3f45c-6a87-4b9b-8914-41de8509bdd7",
+      "title": "Mobile pet grooming in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# Day 47 — NJ / Newark / ZIP 07102 / House cleaning
+
+- Cell: State=NJ, City=Newark, ZIP=07102, Category="House cleaning" (exact label verified in ~/workspace/van-squad/js/data.js)
+- Date: 2026-11-28
+- Expansion note: 07102 (Downtown Newark) is a largely commercial ZIP, so qualifying house-cleaning operators are based in adjacent Newark ZIPs while serving 07102 / all of Newark — noted per business: Top To Bottom's own site gives its address as 662 South 12th Street, Newark, NJ 07103; Olivia's Google listing gives 512 N 5th St, Newark, NJ 07107 and its own site says "based in Newark, NJ"; Just Cleaning's Google listing gives 44 Tichenor St, Newark. Cool Peaches' own Newark page explicitly lists ZIP 07102 in its service ZIPs. No service ZIPs were invented: service_zips = ["07102"] only except Cool Peaches, whose own page lists 07102, 07103, 07104, 07105, 07106, 07107, 07108, 07112 and 07114.
+
+| Name | Phone | Category | City | Website | Published email + source | Confidence + one-line reason | Source | Dedupe/exclusion notes |
+|---|---|---|---|---|---|---|---|---|---|
+| Top To Bottom Deep Cleaning Services | (862) 272-9353 | House cleaning | Newark | https://www.toptobottomdeepcleaningservices.com/ | None published on own site checked | High — own Newark page: "Professional House Cleaning Services in Newark, NJ", recurring/deep/move-in cleaning at customers' homes throughout Newark, phone (862) 272-9353 printed on own site; own FAQ states "We are not a franchise. We are not a national chain." | Business's own website (Newark page + homepage) | Grep of prospecting folder and Day 47 baseline for exact name and phone: no match. Baseline contains a differently-named "Top to Bottom Cleaning Services" in Mississippi, phone (662) 388-5100 — different name (no "Deep"), different phone and state, not a dedupe match. Note: Google listings for this business show other numbers ((646) 577-5029 / (973) 755-3535); the own-site number is used per instructions |
+| Cool Peaches Cleaning | (973) 378-0994 | House cleaning | Newark | https://coolpeaches.com/newark/ | info@coolpeaches.com — https://coolpeaches.com/newark/ | High — own Newark page offers recurring/deep/move-in house cleaning in Newark homes, lists "ZIP codes 07102, 07103, 07104, 07105, 07106, 07107, 07108, 07112 and 07114", states "locally owned, woman-owned, not a franchise" (Springfield, NJ based), phone and email printed on own page | Business's own website | Grep of prospecting folder and Day 47 baseline for name, phone and email: no match |
+| Just Cleaning LLC | (908) 414-5613 | House cleaning | Newark | https://www.justcleaningllc.com/ | None published on own site checked | Medium — own site: "Professional Home & Commercial Cleaning", standard/deep/move-in cleaning for homes, phone (908) 414-5613 printed on own site; Google listing gives its Newark address (44 Tichenor St, Newark, NJ) with the same phone, but its own site says only "throughout the local area" without naming Newark town-by-town, hence Medium | Business's own website + Google listing for Newark address/phone corroboration | Grep of prospecting folder and Day 47 baseline for name and phone: no match |
+| Olivia's Cleaning Service | (973) 855-2499 | House cleaning | Newark | https://www.oliviascleaningservice.com/ | oliviascleaningservice4@gmail.com — https://www.oliviascleaningservice.com/ | High — own site: residential cleaning for homes/apartments, "Olivia's Cleaning Services, based in Newark, NJ", phone (973) 855-2499 and email printed on own site; Google listing gives its Newark address (512 N 5th St, Newark, NJ 07107) with the same phone | Business's own website + Google listing for Newark address | Grep of prospecting folder for exact name/phone/email: no match (an older St. Louis deep-cleaning batch used a similar name with a different phone). Baseline contains "Olivia's Cleaning Services" in St. Louis, phone (314) 470-2414 — different phone and state, not a dedupe match |
+| NJ Cleaning and Construction | (917) 423-7382 | House cleaning | Newark | https://njcleaningandconstruction.com/ | None published on own site checked | Medium — own site: "commercial and residential cleaning … across Hudson County and Newark", its Residential Cleaning service is "the standard, recurring upkeep of an occupied home", "insured, locally operated", phone (917) 423-7382 printed on own site; site emphasis is post-construction/commercial and no Newark ZIP list is published, hence Medium | Business's own website | Grep of prospecting folder and Day 47 baseline for name and phone: no match |
+
+## Excluded
+
+| Name | Phone / Website checked | Reason |
+|---|---|---|
+| Cristina Cleaning Services | (973) 963-2818 (Google listing, 38 Duryea St, Newark) / https://cristinacleaning.com/ | Own website is a different business — "Cristina's House Cleaning Services — Antioch, CA", serving Antioch/East Bay, CA with phone (925) 565-7272 — the Newark listing's website/phone do not match its own materials; Newark house cleaning not confirmed from own materials |
+| Best Maids Ever | (862) 358-2378 / http://www.bestmaidsever.com/ | Own site is Edison-based and names only Edison, Woodbridge, Piscataway, Metuchen and South Plainfield ("Ask us about your address") — Newark not confirmed from its own materials |
+| Sparkle Home Cleaning Company | (862) 319-8141, Rahway, NJ / https://sparklehomecleaningcompany.com/ | Own website is suspended (Bluehost "Account Suspended") so house cleaning / Newark service could not be confirmed from its own materials; also Rahway-based, not Newark |
+| Clarisse's Cleaning Services / DM Cleaning Services / Power Cleaner Services / D and L Cleaning Service / Amaral Cleaning Services / Smart cleaning nj / Bruna cleaning services | various Newark Google/meta listings, e.g. Clarisse's (201) 719-6206, DM (973) 745-8650, Power Cleaner (973) 645-0686 | No verifiable own website found in this run, so house cleaning at customers' homes in Newark could not be confirmed from the business's own materials |
+| Williams Classey Cleaning | (973) 445-0633 / Anago franchise-owner page | Anago franchise unit — national franchise system, excluded |
+| ecomaids / Molly Maid / Merry Maids / The Cleaning Authority / MaidPro | various Newark-area listings | National franchise systems — excluded |
+| SparklingBee | (972) 413-8937 / https://sparklingbee.com/newark-house-cleaning | Platform/lead-gen model dispatching independent cleaners (its own page describes jobs going out to cleaners who accept them; its Newark copy references Bay Area neighbourhoods) — no local operator of its own, excluded |
+| Homeaglow | https://www.homeaglow.com/us/nj/newark/maid-services/ | National lead-gen / marketplace platform — excluded |
+| Fresh Air Duct Cleaning / Friendly Hands Chimney Cleaning / Grease Trappers LLC / Local Expert Window Cleaning | various Newark listings | Duct, chimney, commercial grease and window cleaning only — not house cleaning at customers' homes |
+
+## Leads summary
+
+2 published emails collected (see matching -leads.json): Cool Peaches Cleaning — info@coolpeaches.com (published on the business's own Newark page); Olivia's Cleaning Service — oliviascleaningservice4@gmail.com (published on the business's own website). Emails are leads only — never written to business profiles. No email was published on the own sites checked for Top To Bottom Deep Cleaning Services, Just Cleaning LLC, or NJ Cleaning and Construction.
+
+## Counts
+
+- Qualifying businesses: 5
+- Listings: 5 (one per business, title "House cleaning in Newark")
+- Email leads: 2
+- Excluded / skipped: 11 entries above, including 0 dedupe skips (2 baseline near-name matches checked and cleared — different phones/states)

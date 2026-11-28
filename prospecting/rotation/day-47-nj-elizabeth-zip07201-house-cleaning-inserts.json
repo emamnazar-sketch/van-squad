@@ -1,0 +1,120 @@
+{
+  "businesses": [
+    {
+      "id": "6a13b2f2-5227-4ae0-8269-61b71bc8d15d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Freita's Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(267) 466-9960",
+      "website": "https://www.freitascleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "968be41b-db9c-41f9-b1fb-727dff644234",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "VeMaids LLC",
+      "category": "House cleaning",
+      "phone": "(551) 202-7167",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07201"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3f27e239-50e4-4e70-93ea-b726f8aa55c6",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jeny Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(973) 234-3052",
+      "website": "https://jenycleansnj.com/residential-cleaning-service/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07201",
+        "07208"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "456449d1-bcf2-4e23-8ccd-9fde908a0fe8",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Santana Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(917) 602-0650",
+      "website": "https://santanacleaningnj.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07201",
+        "07202"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "ea2da1d6-422f-4efe-92d7-ea3380e8a7f1",
+      "business_id": "6a13b2f2-5227-4ae0-8269-61b71bc8d15d",
+      "title": "House cleaning in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a26ac839-50b8-4176-b21b-247e6e6e86f5",
+      "business_id": "968be41b-db9c-41f9-b1fb-727dff644234",
+      "title": "House cleaning in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0f0c5c85-043e-42ec-aa2c-e2339942dda1",
+      "business_id": "3f27e239-50e4-4e70-93ea-b726f8aa55c6",
+      "title": "House cleaning in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "acc9ad51-5646-4421-8164-b26c5a73fb79",
+      "business_id": "456449d1-bcf2-4e23-8ccd-9fde908a0fe8",
+      "title": "House cleaning in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

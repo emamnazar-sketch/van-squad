@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "3e82a6ac-eb64-43a6-b37d-e7211903c24d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "SMGMAX Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(201) 362-0959",
+      "website": "http://smgmax.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07310"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "908338c9-f30a-4ed9-a42f-6e2b7ca4381b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Shyne Boyz Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(201) 539-0732",
+      "website": "https://shyne-boyz-mobile-detailing.square.site/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07310"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "aa3ec785-1a6a-49ce-8bf9-24bde955e05a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Mallard Mobile Car Wash",
+      "category": "Mobile auto detailing",
+      "phone": "(347) 837-4450",
+      "website": "https://mallardmobilewash.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07310"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "760a330c-7f7b-4f0b-8ced-396555bdae86",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kaizen Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(551) 221-7730",
+      "website": "https://kaizenautospa.webflow.io/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07310"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c494a4a5-c142-404a-969d-766b21498827",
+      "business_id": "3e82a6ac-eb64-43a6-b37d-e7211903c24d",
+      "title": "Mobile auto detailing in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2d1911c3-eb62-4d88-8ed7-bd7325698036",
+      "business_id": "908338c9-f30a-4ed9-a42f-6e2b7ca4381b",
+      "title": "Mobile auto detailing in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "017c44c5-544d-43e3-9737-1f93756a214f",
+      "business_id": "aa3ec785-1a6a-49ce-8bf9-24bde955e05a",
+      "title": "Mobile auto detailing in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "60851f04-b57f-4858-8d56-cfc849239c4d",
+      "business_id": "760a330c-7f7b-4f0b-8ced-396555bdae86",
+      "title": "Mobile auto detailing in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "dd183aeb-60f2-48b3-bec6-ede3f09a5db5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "House Wash NJ",
+      "category": "Pressure washing",
+      "phone": "(908) 603-7600",
+      "website": "https://housewashnj.com/locations/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "996d0b36-e012-4281-9bff-57d7dca83e57",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "WeatherX Powerwashing",
+      "category": "Pressure washing",
+      "phone": "(973) 910-8999",
+      "website": "https://weatherxnj.com/powerwashing-elizabeth/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e22b2103-beef-420f-9e22-8d27adbb4795",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Elite Blast Power Wash",
+      "category": "Pressure washing",
+      "phone": "(862) 461-6480",
+      "website": "https://eliteblast.pro/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f7ccaad9-fc25-4492-9282-6d9dd9222d2c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Blue Diamond Pressure Washing",
+      "category": "Pressure washing",
+      "phone": "(917) 891-5653",
+      "website": "https://bluediamondpowerwashing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ab0e3475-d1ae-4799-b0e0-77b686165b38",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Jal Painting and Power Wash",
+      "category": "Pressure washing",
+      "phone": "(862) 323-5773",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07206"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "31e956da-6b6c-4acf-83ed-7f82bde0365c",
+      "business_id": "dd183aeb-60f2-48b3-bec6-ede3f09a5db5",
+      "title": "Pressure washing in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "60b68574-98f9-4ec8-9b90-1bfaa68bbcbf",
+      "business_id": "996d0b36-e012-4281-9bff-57d7dca83e57",
+      "title": "Pressure washing in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "39c02a88-cdbc-48c7-a060-0357bc8c6af9",
+      "business_id": "e22b2103-beef-420f-9e22-8d27adbb4795",
+      "title": "Pressure washing in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "91303a2a-b788-4c0b-b110-fac489b562b7",
+      "business_id": "f7ccaad9-fc25-4492-9282-6d9dd9222d2c",
+      "title": "Pressure washing in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a522be11-a019-4b5c-ab55-02900714ceaf",
+      "business_id": "ab0e3475-d1ae-4799-b0e0-77b686165b38",
+      "title": "Pressure washing in Elizabeth",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "189a950d-79bc-4b4a-bac4-11c627268dab",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Evergreen Cleaning Services LLC",
+      "category": "Deep cleaning",
+      "phone": "(201) 499-0220",
+      "website": "https://evergreencleanings.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07002"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7fd5c045-3628-4c71-a6cb-eb7c1ca5f93c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "MomShe's Cleaners LLC",
+      "category": "Deep cleaning",
+      "phone": "(551) 214-2612",
+      "website": "https://momshescleanersllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07002"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "033de42b-3b89-4420-8b1c-c9059836eb5c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "WK Luxury Cleaning LLC",
+      "category": "Deep cleaning",
+      "phone": "(201) 817-6878",
+      "website": "https://wkluxurycleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07002"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "e9baf006-47ef-4f03-8b15-7e5b600f286d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Andy's Quality Cleaning",
+      "category": "Deep cleaning",
+      "phone": "(347) 264-4589",
+      "website": "https://www.andysqualitycleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07002"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "acf4404f-ad53-4bf6-a87a-900b96376835",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kate Pro Cleaning Inc",
+      "category": "Deep cleaning",
+      "phone": "(929) 630-4297",
+      "website": "https://kateprocleaning.wixsite.com/kate-pro-cleaning--1",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07002"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "f696cd19-8400-4d7c-b929-7fee9c5210df",
+      "business_id": "189a950d-79bc-4b4a-bac4-11c627268dab",
+      "title": "Deep cleaning in Bayonne",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "85f6a4f2-7c57-4450-a949-097b8baef2aa",
+      "business_id": "7fd5c045-3628-4c71-a6cb-eb7c1ca5f93c",
+      "title": "Deep cleaning in Bayonne",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "2c3bceb4-13c0-4cd2-897c-6eb87eec4804",
+      "business_id": "033de42b-3b89-4420-8b1c-c9059836eb5c",
+      "title": "Deep cleaning in Bayonne",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a2da67cc-06ab-4d69-aa13-306f741e064f",
+      "business_id": "e9baf006-47ef-4f03-8b15-7e5b600f286d",
+      "title": "Deep cleaning in Bayonne",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "fb4769b1-67df-44ab-9987-31b2e97a65de",
+      "business_id": "acf4404f-ad53-4bf6-a87a-900b96376835",
+      "title": "Deep cleaning in Bayonne",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

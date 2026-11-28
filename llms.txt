@@ -268,6 +268,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Deep cleaning in Nashville (5 companies): https://vansquads.com/deep-cleaning/nashville/
 - Deep cleaning in New Orleans (3 companies): https://vansquads.com/deep-cleaning/new-orleans/
 - Deep cleaning in New York (13 companies): https://vansquads.com/deep-cleaning/new-york/
+- Deep cleaning in Newark (5 companies): https://vansquads.com/deep-cleaning/newark/
 - Deep cleaning in Northern Virginia (5 companies): https://vansquads.com/deep-cleaning/northern-virginia/
 - Deep cleaning in Oklahoma City (4 companies): https://vansquads.com/deep-cleaning/oklahoma-city/
 - Deep cleaning in Omaha (3 companies): https://vansquads.com/deep-cleaning/omaha/
@@ -333,6 +334,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Handyman in Iowa City (6 companies): https://vansquads.com/handyman/iowa-city/
 - Handyman in Jackson (4 companies): https://vansquads.com/handyman/jackson/
 - Handyman in Jacksonville (7 companies): https://vansquads.com/handyman/jacksonville/
+- Handyman in Jersey City (4 companies): https://vansquads.com/handyman/jersey-city/
 - Handyman in Kansas City (13 companies): https://vansquads.com/handyman/kansas-city/
 - Handyman in Keene (3 companies): https://vansquads.com/handyman/keene/
 - Handyman in Knoxville (6 companies): https://vansquads.com/handyman/knoxville/
@@ -353,13 +355,16 @@ One page per city area and service with at least 3 listed companies — every co
 - Handyman in Montgomery (3 companies): https://vansquads.com/handyman/montgomery/
 - Handyman in Nashua (4 companies): https://vansquads.com/handyman/nashua/
 - Handyman in Nashville (16 companies): https://vansquads.com/handyman/nashville/
+- Handyman in New Brunswick (4 companies): https://vansquads.com/handyman/new-brunswick/
 - Handyman in New Orleans (9 companies): https://vansquads.com/handyman/new-orleans/
 - Handyman in New York (23 companies): https://vansquads.com/handyman/new-york/
+- Handyman in Newark (4 companies): https://vansquads.com/handyman/newark/
 - Handyman in Norfolk, Virginia (7 companies): https://vansquads.com/handyman/norfolk-virginia/
 - Handyman in Northern Virginia (15 companies): https://vansquads.com/handyman/northern-virginia/
 - Handyman in Oklahoma City (13 companies): https://vansquads.com/handyman/oklahoma-city/
 - Handyman in Omaha (12 companies): https://vansquads.com/handyman/omaha/
 - Handyman in Orlando (8 companies): https://vansquads.com/handyman/orlando/
+- Handyman in Paterson (4 companies): https://vansquads.com/handyman/paterson/
 - Handyman in Philadelphia (16 companies): https://vansquads.com/handyman/philadelphia/
 - Handyman in Phoenix (6 companies): https://vansquads.com/handyman/phoenix/
 - Handyman in Pittsburgh (19 companies): https://vansquads.com/handyman/pittsburgh/
@@ -429,6 +434,8 @@ One page per city area and service with at least 3 listed companies — every co
 - House cleaning in Des Moines (12 companies): https://vansquads.com/house-cleaning/des-moines/
 - House cleaning in Detroit (15 companies): https://vansquads.com/house-cleaning/detroit/
 - House cleaning in Durham (9 companies): https://vansquads.com/house-cleaning/durham/
+- House cleaning in Edison (4 companies): https://vansquads.com/house-cleaning/edison/
+- House cleaning in Elizabeth (4 companies): https://vansquads.com/house-cleaning/elizabeth/
 - House cleaning in Elizabethtown (4 companies): https://vansquads.com/house-cleaning/elizabethtown/
 - House cleaning in Erie (5 companies): https://vansquads.com/house-cleaning/erie/
 - House cleaning in Evansville (7 companies): https://vansquads.com/house-cleaning/evansville/
@@ -455,6 +462,7 @@ One page per city area and service with at least 3 listed companies — every co
 - House cleaning in Indianapolis (17 companies): https://vansquads.com/house-cleaning/indianapolis/
 - House cleaning in Jackson (12 companies): https://vansquads.com/house-cleaning/jackson/
 - House cleaning in Jacksonville (8 companies): https://vansquads.com/house-cleaning/jacksonville/
+- House cleaning in Jersey City (5 companies): https://vansquads.com/house-cleaning/jersey-city/
 - House cleaning in Joliet (7 companies): https://vansquads.com/house-cleaning/joliet/
 - House cleaning in Jonesboro (4 companies): https://vansquads.com/house-cleaning/jonesboro/
 - House cleaning in Kansas City (11 companies): https://vansquads.com/house-cleaning/kansas-city/
@@ -484,12 +492,14 @@ One page per city area and service with at least 3 listed companies — every co
 - House cleaning in Nashville (19 companies): https://vansquads.com/house-cleaning/nashville/
 - House cleaning in New Orleans (14 companies): https://vansquads.com/house-cleaning/new-orleans/
 - House cleaning in New York (33 companies): https://vansquads.com/house-cleaning/new-york/
+- House cleaning in Newark (5 companies): https://vansquads.com/house-cleaning/newark/
 - House cleaning in Northern Virginia (25 companies): https://vansquads.com/house-cleaning/northern-virginia/
 - House cleaning in Ogden (7 companies): https://vansquads.com/house-cleaning/ogden/
 - House cleaning in Oklahoma City (15 companies): https://vansquads.com/house-cleaning/oklahoma-city/
 - House cleaning in Omaha (19 companies): https://vansquads.com/house-cleaning/omaha/
 - House cleaning in Orlando (15 companies): https://vansquads.com/house-cleaning/orlando/
 - House cleaning in Owensboro (3 companies): https://vansquads.com/house-cleaning/owensboro/
+- House cleaning in Paterson (3 companies): https://vansquads.com/house-cleaning/paterson/
 - House cleaning in Philadelphia (20 companies): https://vansquads.com/house-cleaning/philadelphia/
 - House cleaning in Phoenix (9 companies): https://vansquads.com/house-cleaning/phoenix/
 - House cleaning in Pittsburgh (20 companies): https://vansquads.com/house-cleaning/pittsburgh/
@@ -517,6 +527,7 @@ One page per city area and service with at least 3 listed companies — every co
 - House cleaning in St. Petersburg (7 companies): https://vansquads.com/house-cleaning/st-petersburg/
 - House cleaning in Tampa (9 companies): https://vansquads.com/house-cleaning/tampa/
 - House cleaning in Topeka (4 companies): https://vansquads.com/house-cleaning/topeka/
+- House cleaning in Trenton (6 companies): https://vansquads.com/house-cleaning/trenton/
 - House cleaning in Tulsa (8 companies): https://vansquads.com/house-cleaning/tulsa/
 - House cleaning in Tupelo (5 companies): https://vansquads.com/house-cleaning/tupelo/
 - House cleaning in Tuscaloosa (8 companies): https://vansquads.com/house-cleaning/tuscaloosa/
@@ -569,6 +580,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Mobile auto detailing in Indianapolis (8 companies): https://vansquads.com/mobile-auto-detailing/indianapolis/
 - Mobile auto detailing in Jackson (10 companies): https://vansquads.com/mobile-auto-detailing/jackson/
 - Mobile auto detailing in Jacksonville (9 companies): https://vansquads.com/mobile-auto-detailing/jacksonville/
+- Mobile auto detailing in Jersey City (4 companies): https://vansquads.com/mobile-auto-detailing/jersey-city/
 - Mobile auto detailing in Kalispell (3 companies): https://vansquads.com/mobile-auto-detailing/kalispell/
 - Mobile auto detailing in Kansas City (12 companies): https://vansquads.com/mobile-auto-detailing/kansas-city/
 - Mobile auto detailing in Las Cruces (10 companies): https://vansquads.com/mobile-auto-detailing/las-cruces/
@@ -587,6 +599,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Mobile auto detailing in Nashville (15 companies): https://vansquads.com/mobile-auto-detailing/nashville/
 - Mobile auto detailing in New Orleans (11 companies): https://vansquads.com/mobile-auto-detailing/new-orleans/
 - Mobile auto detailing in New York (11 companies): https://vansquads.com/mobile-auto-detailing/new-york/
+- Mobile auto detailing in Newark (7 companies): https://vansquads.com/mobile-auto-detailing/newark/
 - Mobile auto detailing in Northern Virginia (14 companies): https://vansquads.com/mobile-auto-detailing/northern-virginia/
 - Mobile auto detailing in Oklahoma City (13 companies): https://vansquads.com/mobile-auto-detailing/oklahoma-city/
 - Mobile auto detailing in Omaha (8 companies): https://vansquads.com/mobile-auto-detailing/omaha/
@@ -648,6 +661,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Mobile pet grooming in Nashville (7 companies): https://vansquads.com/mobile-pet-grooming/nashville/
 - Mobile pet grooming in New Orleans (3 companies): https://vansquads.com/mobile-pet-grooming/new-orleans/
 - Mobile pet grooming in New York (16 companies): https://vansquads.com/mobile-pet-grooming/new-york/
+- Mobile pet grooming in Newark (5 companies): https://vansquads.com/mobile-pet-grooming/newark/
 - Mobile pet grooming in Northern Virginia (5 companies): https://vansquads.com/mobile-pet-grooming/northern-virginia/
 - Mobile pet grooming in Oklahoma City (6 companies): https://vansquads.com/mobile-pet-grooming/oklahoma-city/
 - Mobile pet grooming in Omaha (3 companies): https://vansquads.com/mobile-pet-grooming/omaha/
@@ -673,6 +687,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Pool cleaning & maintenance in Columbus (4 companies): https://vansquads.com/pool-cleaning-maintenance/columbus/
 - Pool cleaning & maintenance in Dallas–Fort Worth (10 companies): https://vansquads.com/pool-cleaning-maintenance/dallas-fort-worth/
 - Pool cleaning & maintenance in Des Moines (7 companies): https://vansquads.com/pool-cleaning-maintenance/des-moines/
+- Pool cleaning & maintenance in Edison (3 companies): https://vansquads.com/pool-cleaning-maintenance/edison/
 - Pool cleaning & maintenance in Fort Lauderdale (8 companies): https://vansquads.com/pool-cleaning-maintenance/fort-lauderdale/
 - Pool cleaning & maintenance in Hartford (4 companies): https://vansquads.com/pool-cleaning-maintenance/hartford/
 - Pool cleaning & maintenance in Houston (15 companies): https://vansquads.com/pool-cleaning-maintenance/houston/
@@ -718,6 +733,7 @@ One page per city area and service with at least 3 listed companies — every co
 - Pressure washing in Denver (8 companies): https://vansquads.com/pressure-washing/denver/
 - Pressure washing in Des Moines (12 companies): https://vansquads.com/pressure-washing/des-moines/
 - Pressure washing in Detroit (5 companies): https://vansquads.com/pressure-washing/detroit/
+- Pressure washing in Elizabeth (5 companies): https://vansquads.com/pressure-washing/elizabeth/
 - Pressure washing in Fargo (4 companies): https://vansquads.com/pressure-washing/fargo/
 - Pressure washing in Greenville (9 companies): https://vansquads.com/pressure-washing/greenville/
 - Pressure washing in Harrisburg (4 companies): https://vansquads.com/pressure-washing/harrisburg/

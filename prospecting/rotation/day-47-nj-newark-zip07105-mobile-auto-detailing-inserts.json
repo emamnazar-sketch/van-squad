@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "d499d54c-ddaf-4712-b6be-5cb375687a82",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Save Time Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(862) 410-5403",
+      "website": "https://www.savetimemobiledetailingnj.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07105"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "716b0f9f-67d8-4b73-ae8a-31e7b5946025",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ramirez Carwash Mobile y Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(973) 870-6366",
+      "website": "https://www.instagram.com/ramirezcarwashmobile",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07105"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "eb22e93f-0b9a-4ae4-8fdf-365ebd9e6faa",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Kshine Mobile Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(732) 710-5188",
+      "website": "https://kshinedetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07105"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "006186c9-ceb4-4b54-8b13-e11173bffd2a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Illusionz Mobile Auto Spa",
+      "category": "Mobile auto detailing",
+      "phone": "(201) 355-9120",
+      "website": "https://www.illusionzmobileautospa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07105"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "84d90e5c-f86a-4235-8bef-9d49d424b0e1",
+      "business_id": "d499d54c-ddaf-4712-b6be-5cb375687a82",
+      "title": "Mobile auto detailing in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "52f6a70c-0656-4d3d-af3e-22e955ef8756",
+      "business_id": "716b0f9f-67d8-4b73-ae8a-31e7b5946025",
+      "title": "Mobile auto detailing in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "64f3abba-ced5-4728-aa97-1129e1fa6e01",
+      "business_id": "eb22e93f-0b9a-4ae4-8fdf-365ebd9e6faa",
+      "title": "Mobile auto detailing in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "93df0901-2dc8-4d45-a5ce-809934f74fe7",
+      "business_id": "006186c9-ceb4-4b54-8b13-e11173bffd2a",
+      "title": "Mobile auto detailing in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

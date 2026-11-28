@@ -11,6 +11,8 @@ export const PREFIX_METRO = {
   '015': 'Boston', '017': 'Boston', '018': 'Boston', '021': 'Boston',
   '022': 'Boston', '024': 'Boston', '028': 'Providence', '029': 'Providence',
   '060': 'Hartford', '061': 'Hartford', '064': 'Hartford',
+  '070': 'Newark', '071': 'Newark', '072': 'Elizabeth', '073': 'Jersey City',
+  '075': 'Paterson', '086': 'Trenton', '088': 'Edison', '089': 'New Brunswick',
   '030': 'Nashua', '031': 'Manchester',
   '032': 'Laconia', '033': 'Concord', '034': 'Keene', '037': 'Lebanon',
   '038': 'Portsmouth', '039': 'Boston', '040': 'Portland, Maine', '041': 'Portland, Maine',

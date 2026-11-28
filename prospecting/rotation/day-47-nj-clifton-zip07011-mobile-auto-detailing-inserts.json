@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "f7fc0def-0a96-4442-87a5-bd8eeef946f7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "RapidLux Detailing",
+      "category": "Mobile auto detailing",
+      "phone": "(609) 313-7671",
+      "website": "http://rapidluxdetailing.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "48910d45-732f-41d0-afd1-c4fda4414982",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "QuickWash - The Mobile Car Wash",
+      "category": "Mobile auto detailing",
+      "phone": "(973) 851-3361",
+      "website": "http://www.quickwashtech.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "4503b776-2ff3-4eb7-9809-f147bc7e54f5",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "GoShine Detail",
+      "category": "Mobile auto detailing",
+      "phone": "(973) 901-6559",
+      "website": "https://goshinedetail.com/clifton-car-detailing",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07011"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "7e059cfc-0c3b-40a5-936f-99ee861d1923",
+      "business_id": "f7fc0def-0a96-4442-87a5-bd8eeef946f7",
+      "title": "Mobile auto detailing in Clifton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "26b3c922-a325-4126-bdc6-200d9c2ba1c6",
+      "business_id": "48910d45-732f-41d0-afd1-c4fda4414982",
+      "title": "Mobile auto detailing in Clifton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "18a2da03-00da-4500-94fa-a4c44aa885a7",
+      "business_id": "4503b776-2ff3-4eb7-9809-f147bc7e54f5",
+      "title": "Mobile auto detailing in Clifton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

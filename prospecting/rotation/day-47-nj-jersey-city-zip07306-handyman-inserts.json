@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "b9764c22-508e-4c25-bde3-8e25181f8792",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Skillful Eli HandyMan",
+      "category": "Handyman",
+      "phone": "(201) 347-7548",
+      "website": "http://www.elihandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07306"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ce7aeaca-3b20-4e15-8c8f-c7ae89016866",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "RCT Handyman Services LLC",
+      "category": "Handyman",
+      "phone": "(347) 352-2790",
+      "website": "https://www.rcthandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07306"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b116f14c-7a2b-4efb-a2c3-3de75b88c6a3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nimax LLC",
+      "category": "Handyman",
+      "phone": "(201) 834-6464",
+      "website": "http://handyman.gonimax.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07306"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7cd36071-8f7a-4329-9a55-356581eaf1f9",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "AP Handy",
+      "category": "Handyman",
+      "phone": "(551) 556-8256",
+      "website": "https://www.aphandy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07306"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "d68038f8-77ba-4c45-920c-9dc43146e31f",
+      "business_id": "b9764c22-508e-4c25-bde3-8e25181f8792",
+      "title": "Handyman in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "7b56260c-e1ab-42cc-9020-0c0fc815aa72",
+      "business_id": "ce7aeaca-3b20-4e15-8c8f-c7ae89016866",
+      "title": "Handyman in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b149d488-50ae-4975-8655-60613287125f",
+      "business_id": "b116f14c-7a2b-4efb-a2c3-3de75b88c6a3",
+      "title": "Handyman in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a14ad565-7888-4af7-adb9-a4fcee14b891",
+      "business_id": "7cd36071-8f7a-4329-9a55-356581eaf1f9",
+      "title": "Handyman in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

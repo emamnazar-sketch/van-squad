@@ -1,0 +1,90 @@
+{
+  "businesses": [
+    {
+      "id": "6012f813-49a4-4303-82cb-35d841f62afe",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sunshine Pools LLC",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(732) 648-8924",
+      "website": "https://sunshinepoolsnj.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08820"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8bd6f374-77bd-4de5-beef-7ae7ed69a605",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gorlin Pools",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(732) 323-8200",
+      "website": "https://gorlinpools.com/pool-service-edison-township-nj/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08820"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ad02d4b-11cb-406b-8083-f169e34c31be",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Pools R Us",
+      "category": "Pool cleaning & maintenance",
+      "phone": "(732) 669-2957",
+      "website": "https://poolsrusnj.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08820"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "879f7125-98b4-48c9-8cba-8d678b5192dd",
+      "business_id": "6012f813-49a4-4303-82cb-35d841f62afe",
+      "title": "Pool cleaning & maintenance in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "af2c590f-c396-4c68-94cb-211339d96e84",
+      "business_id": "8bd6f374-77bd-4de5-beef-7ae7ed69a605",
+      "title": "Pool cleaning & maintenance in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "677f5310-12ac-4e19-b497-d1acb76118e7",
+      "business_id": "8ad02d4b-11cb-406b-8083-f169e34c31be",
+      "title": "Pool cleaning & maintenance in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "businesses": [
+    {
+      "id": "585ed0b6-0a18-497c-98a0-08e765511288",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Top To Bottom Deep Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(862) 272-9353",
+      "website": "https://www.toptobottomdeepcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "10deedeb-247a-41ba-b367-ff85df6db629",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Cool Peaches Cleaning",
+      "category": "House cleaning",
+      "phone": "(973) 378-0994",
+      "website": "https://coolpeaches.com/newark/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07102",
+        "07103",
+        "07104",
+        "07105",
+        "07106",
+        "07107",
+        "07108",
+        "07112",
+        "07114"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a9a08003-0481-41fd-8fea-a141e60ee57b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Just Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(908) 414-5613",
+      "website": "https://www.justcleaningllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "6e16a791-471d-43c0-850d-df57b01ff24d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Olivia's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(973) 855-2499",
+      "website": "https://www.oliviascleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "da69216b-4886-467b-91c1-e64005fb1531",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "NJ Cleaning and Construction",
+      "category": "House cleaning",
+      "phone": "(917) 423-7382",
+      "website": "https://njcleaningandconstruction.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07102"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "9fe78d58-5f73-465a-b493-863940f0ca28",
+      "business_id": "585ed0b6-0a18-497c-98a0-08e765511288",
+      "title": "House cleaning in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0b9d4c97-6f9a-4c7b-835d-3b2c3f936ae9",
+      "business_id": "10deedeb-247a-41ba-b367-ff85df6db629",
+      "title": "House cleaning in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1f63a0a7-6a3a-46b4-9f42-794922c272de",
+      "business_id": "a9a08003-0481-41fd-8fea-a141e60ee57b",
+      "title": "House cleaning in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "4d7d1bc3-b65c-4482-b71b-899130cc0ec5",
+      "business_id": "6e16a791-471d-43c0-850d-df57b01ff24d",
+      "title": "House cleaning in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "53bf4b16-16c8-4dce-9610-25eaef82ecfc",
+      "business_id": "da69216b-4886-467b-91c1-e64005fb1531",
+      "title": "House cleaning in Newark",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "businesses": [
+    {
+      "id": "33c28d81-cb5e-400b-96ad-98ca51d68d75",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Nova's Cleaning",
+      "category": "House cleaning",
+      "phone": "(609) 434-9866",
+      "website": "http://www.novascleaning.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "ef3dc5c8-d6ce-4e08-b89a-8f982d83599c",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Priyana's Cleaning Service",
+      "category": "House cleaning",
+      "phone": "(609) 533-3419",
+      "website": "https://www.priyanascleaningservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "5ff09430-b92d-4ed7-8f4f-0d99bf91b564",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Daisy Maid Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(609) 647-5765",
+      "website": "http://deisymaidcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "339172dd-e675-46e0-90d8-db248480530f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Divine Cleaning Service LLC",
+      "category": "House cleaning",
+      "phone": "(609) 801-7270",
+      "website": "http://www.divinecleaningserviceco.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "210f4b2d-8039-4a0c-a204-9fb4172de408",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Martinez House Cleaning LLC",
+      "category": "House cleaning",
+      "phone": "(914) 334-9606",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "476828df-a2ea-4476-820d-7e0564831dc7",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Taylor Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(609) 433-0998",
+      "website": "",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08611"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5f8381a0-eed3-4a79-aa32-b1cb494a90ec",
+      "business_id": "33c28d81-cb5e-400b-96ad-98ca51d68d75",
+      "title": "House cleaning in Trenton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "254c7bb2-94f4-427c-9eec-27bfd24584ff",
+      "business_id": "ef3dc5c8-d6ce-4e08-b89a-8f982d83599c",
+      "title": "House cleaning in Trenton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "97d3e8f1-7c8d-471a-9af2-1f69ff234613",
+      "business_id": "5ff09430-b92d-4ed7-8f4f-0d99bf91b564",
+      "title": "House cleaning in Trenton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e95f3357-0b82-4814-8238-92432cba4d67",
+      "business_id": "339172dd-e675-46e0-90d8-db248480530f",
+      "title": "House cleaning in Trenton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "81dd15f2-5b7c-4ae7-81b8-bd0b38bddd70",
+      "business_id": "210f4b2d-8039-4a0c-a204-9fb4172de408",
+      "title": "House cleaning in Trenton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "59da20fb-dfa0-41ff-bfd8-91a93d03c5a2",
+      "business_id": "476828df-a2ea-4476-820d-7e0564831dc7",
+      "title": "House cleaning in Trenton",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

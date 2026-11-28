@@ -1,0 +1,146 @@
+{
+  "businesses": [
+    {
+      "id": "2dd46d83-eb6c-462e-9aaa-0b9b47a4e655",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid in JC",
+      "category": "House cleaning",
+      "phone": "(201) 898-2333",
+      "website": "https://maidinjc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07302"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "bc3702de-224b-4fab-86eb-9c21930cb603",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "VepoClean Cleaning & Maid Service of Jersey City",
+      "category": "House cleaning",
+      "phone": "(201) 777-4227",
+      "website": "https://www.vepoclean.com/jersey-city-home-cleaning-service/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07302"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1cd3c29b-78ea-4da2-8dd3-c0c50361bba4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Super Maids",
+      "category": "House cleaning",
+      "phone": "(201) 479-3995",
+      "website": "https://www.supermaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07302"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b0827cc5-15c4-41fd-969a-d00b3ea5e63b",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Regina's Maids",
+      "category": "House cleaning",
+      "phone": "(201) 420-1111",
+      "website": "http://www.reginasmaids.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07302"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "7a0d67bd-3931-423d-bbca-abad4ca10d64",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Maid In Hoboken",
+      "category": "House cleaning",
+      "phone": "(201) 659-9500",
+      "website": "https://maidinhoboken.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07302"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "6825dca8-4a52-40b4-9f2b-582f3514f8a6",
+      "business_id": "2dd46d83-eb6c-462e-9aaa-0b9b47a4e655",
+      "title": "House cleaning in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "42b7086a-05aa-4bf6-8005-bba96339632e",
+      "business_id": "bc3702de-224b-4fab-86eb-9c21930cb603",
+      "title": "House cleaning in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "239f7cb3-7036-4836-ba0a-e3b79cbb67f8",
+      "business_id": "1cd3c29b-78ea-4da2-8dd3-c0c50361bba4",
+      "title": "House cleaning in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "215dfb76-1837-4ea1-8f5d-59f9eecab36f",
+      "business_id": "b0827cc5-15c4-41fd-969a-d00b3ea5e63b",
+      "title": "House cleaning in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "0db649a3-35c4-489c-a3bb-3c521bbfbad9",
+      "business_id": "7a0d67bd-3931-423d-bbca-abad4ca10d64",
+      "title": "House cleaning in Jersey City",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "2be98d74-dab1-4ee7-a310-76303a5f70f1",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Ace Handyman Services Central Jersey",
+      "category": "Handyman",
+      "phone": "(732) 201-6742",
+      "website": "https://www.acehandymanservices.com/offices/central-jersey",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08901"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "fead0936-5c98-4625-aee6-2f41b6fffa8d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "CJ Handyman Services",
+      "category": "Handyman",
+      "phone": "(732) 210-7035",
+      "website": "https://cjhandymanservicescopy.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08901"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "1fec20f9-5da3-44f3-b765-80f0407c2191",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "JJB Handyman Service",
+      "category": "Handyman",
+      "phone": "(609) 672-5949",
+      "website": "https://www.jjbhandymanservice.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08901"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f582a9ba-4efd-4650-a598-a590c4ab4df4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Henry's Improvements",
+      "category": "Handyman",
+      "phone": "(908) 902-2685",
+      "website": "https://www.henrysimprovements.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08901"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "c0cf6bc5-9b57-4ad2-b9c7-ac88ae56a37c",
+      "business_id": "2be98d74-dab1-4ee7-a310-76303a5f70f1",
+      "title": "Handyman in New Brunswick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "f655318e-bd88-4ac3-b582-6b7501caded1",
+      "business_id": "fead0936-5c98-4625-aee6-2f41b6fffa8d",
+      "title": "Handyman in New Brunswick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "ac90e640-c340-4263-99b0-148d5bd73f98",
+      "business_id": "1fec20f9-5da3-44f3-b765-80f0407c2191",
+      "title": "Handyman in New Brunswick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "c9749cbd-a954-4f85-8cd7-4a89ef3eba5c",
+      "business_id": "f582a9ba-4efd-4650-a598-a590c4ab4df4",
+      "title": "Handyman in New Brunswick",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

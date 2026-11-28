@@ -1,0 +1,119 @@
+{
+  "businesses": [
+    {
+      "id": "d444d416-73e3-40c0-94a7-e92e74c63503",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "True Shine Home Care",
+      "category": "House cleaning",
+      "phone": "(732) 801-3319",
+      "website": "https://www.trueshinehomecare.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08817",
+        "08837"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8a34ea9c-3229-4dc6-994b-1739b4d8a09d",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Gart Cleaning Services",
+      "category": "House cleaning",
+      "phone": "(848) 256-8219",
+      "website": "https://gartcleaningservices.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08817"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "3b1cc7b7-6ce9-438f-b12f-662c0ead1fa3",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Smith Fresh & Clean",
+      "category": "House cleaning",
+      "phone": "(908) 800-2040",
+      "website": "https://www.smithfreshclean.com/services/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08817"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "8ce0c242-bcb4-4ae7-a657-8b87f47a94e0",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Daily Cleaning Services LLC",
+      "category": "House cleaning",
+      "phone": "(908) 361-9964",
+      "website": "https://dailycleaningserv.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "08817"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "5681c96d-9015-417a-a680-8701cb2cb3b1",
+      "business_id": "d444d416-73e3-40c0-94a7-e92e74c63503",
+      "title": "House cleaning in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "109414c0-5e91-44a8-87df-a38c7b334f26",
+      "business_id": "8a34ea9c-3229-4dc6-994b-1739b4d8a09d",
+      "title": "House cleaning in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "a6c5685f-585a-4a0b-9255-83eb040ad340",
+      "business_id": "3b1cc7b7-6ce9-438f-b12f-662c0ead1fa3",
+      "title": "House cleaning in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "e83654e5-9308-4888-a93f-9307fc75777a",
+      "business_id": "8ce0c242-bcb4-4ae7-a657-8b87f47a94e0",
+      "title": "House cleaning in Edison",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

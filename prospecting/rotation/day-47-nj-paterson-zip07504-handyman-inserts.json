@@ -1,0 +1,118 @@
+{
+  "businesses": [
+    {
+      "id": "84d6f69b-7df6-4500-82fc-a5088ed1e9d4",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "DRight.FIT",
+      "category": "Handyman",
+      "phone": "(973) 931-9312",
+      "website": "http://dright.fit/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07504"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "b45776f6-921b-41be-9b7a-3f4801b221b2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Tri-State Odd Jobs",
+      "category": "Handyman",
+      "phone": "(862) 281-8729",
+      "website": "https://www.tristateoddjobs.com/contact/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07504"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "f1da824e-237f-4b65-947f-7af41b4b723a",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Handyman Improvements LLC",
+      "category": "Handyman",
+      "phone": "(973) 634-1736",
+      "website": "http://www.handymanimprovementsllc.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07504"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "a307856d-83d6-4d44-835d-a4dc4aef5ca2",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Home Pros Handyman LLC",
+      "category": "Handyman",
+      "phone": "(862) 248-4837",
+      "website": "https://callhomeproshandyman.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07504"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "03f5c2ae-1181-4f2a-a5dc-09aaba4a8cf8",
+      "business_id": "84d6f69b-7df6-4500-82fc-a5088ed1e9d4",
+      "title": "Handyman in Paterson",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "bd6c0f96-535a-460c-b24f-4e93c50039e9",
+      "business_id": "b45776f6-921b-41be-9b7a-3f4801b221b2",
+      "title": "Handyman in Paterson",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "1e2e7cec-a75a-4f25-8957-b745912b6aab",
+      "business_id": "f1da824e-237f-4b65-947f-7af41b4b723a",
+      "title": "Handyman in Paterson",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "b8980ba3-ee22-4a40-a9fb-20ee5b70b29e",
+      "business_id": "a307856d-83d6-4d44-835d-a4dc4aef5ca2",
+      "title": "Handyman in Paterson",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "businesses": [
+    {
+      "id": "c95b4df9-6306-420c-a6f6-d9abe7056a70",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Sassy Styles Mobile Pet Spa",
+      "category": "Mobile pet grooming",
+      "phone": "(908) 499-7785",
+      "website": "https://www.sassystylespetspa.com/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07055"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    },
+    {
+      "id": "39e785e1-2f1a-482e-9ecf-ae58431ce55f",
+      "owner_id": "18383f1b-31d7-4d6c-96d6-c62dabd77cab",
+      "name": "Go Groom Mobile Pet Grooming",
+      "category": "Mobile pet grooming",
+      "phone": "(201) 464-3420",
+      "website": "https://gogroom.pet/",
+      "description": "This profile was created from public business information. If you're the owner, claim it to verify and manage your details.",
+      "service_zips": [
+        "07055"
+      ],
+      "status": "active",
+      "is_sample": false,
+      "verified": false,
+      "email_verified": false,
+      "phone_verified": false,
+      "travel_radius_miles": 25,
+      "travel_fee": 0,
+      "logo_url": ""
+    }
+  ],
+  "listings": [
+    {
+      "id": "97937ec3-5220-4f8d-a308-a514f5da53d1",
+      "business_id": "c95b4df9-6306-420c-a6f6-d9abe7056a70",
+      "title": "Mobile pet grooming in Passaic",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    },
+    {
+      "id": "64b3bac9-1b1e-4861-98d7-9e910f3162d0",
+      "business_id": "39e785e1-2f1a-482e-9ecf-ae58431ce55f",
+      "title": "Mobile pet grooming in Passaic",
+      "price_type": "quote",
+      "status": "active",
+      "is_sample": false
+    }
+  ]
+}
